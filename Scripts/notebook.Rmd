@@ -1,0 +1,26 @@
+---
+title: "ids"
+author: "Joel R. Herrera"
+date: "12/14/2021"
+output: html_document
+---
+
+```{r}
+library(xlsx)
+```
+
+
+
+```{r}
+fundanet <- read.xlsx2("20211208_Publicaciones_CIFN-CCG_1980-2021_BD_Fundanet.xlsx", sheetIndex = 1)
+wos <- read.xlsx2("20211208_Publicaciones_CIFN-CCG_1980-2021_WOS.xlsx", sheetName = "1193Art" )
+```
+
+
+
+```{r}
+ids <- unique(c(fundanet$PubMed.Id, wos$PM))
+writeLines(ids, con = "pubmed_ids.txt")
+```
+
+
