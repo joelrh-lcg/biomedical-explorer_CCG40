@@ -1,2 +1,0 @@
-total_pmids recieved	pmids_retrieved	pmids_without_abstracts	pmids_not_found
-1127	1100	27	0

@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1mEMJJ_Fz5Q4IECoKfD3lDSZ_MB5xoRNh
 """
 
-pip install biopython
+!pip install biopython
 
 #lista de pmids unicos
 from google.colab import files

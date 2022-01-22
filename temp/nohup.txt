@@ -1,0 +1,474 @@
+
+
+**********************************************************************
+
+Running with input parameters:
+
+Search mode:  b
+Lower limit:  20
+Upper limit:  100
+Step:  5
+Vect matrix:  ../Source/Abstracts_vect.txt
+Joblib dict output:  ../temp/scores.joblib
+
+Reading matrix input...
+Done!
+
+Searching in the interval between 20 and 100, with 6 iterations...
+Testing k =  20
+Silhouette score for k(clusters) = 20 is 0.020871862143236008
+In thread:  <Thread(Thread-1, initial)>
+Testing k =  36
+Silhouette score for k(clusters) = 36 is 0.030846822630685673
+In thread:  <Thread(Thread-2, initial)>
+Testing k =  52
+Silhouette score for k(clusters) = 52 is 0.0396838540601827
+In thread:  <Thread(Thread-3, initial)>
+Testing k =  68
+Silhouette score for k(clusters) = 68 is 0.0521640094878573
+In thread:  <Thread(Thread-4, initial)>
+Testing k =  84
+Silhouette score for k(clusters) = 84 is 0.05871364564395898
+In thread:  <Thread(Thread-5, initial)>
+Testing k =  100
+Silhouette score for k(clusters) = 100 is 0.06838823237859533
+In thread:  <Thread(Thread-6, initial)>
+
+Max average score found in k = 100
+
+Searching in the interval between 92 and 108, with 17 iterations...
+Testing k =  92
+Silhouette score for k(clusters) = 92 is 0.06512324978159062
+In thread:  <Thread(Thread-7, initial)>
+Testing k =  93
+Silhouette score for k(clusters) = 93 is 0.06136766822102114
+In thread:  <Thread(Thread-8, initial)>
+Testing k =  94
+Silhouette score for k(clusters) = 94 is 0.06293051874673475
+In thread:  <Thread(Thread-9, initial)>
+Testing k =  95
+Silhouette score for k(clusters) = 95 is 0.06675105715491589
+In thread:  <Thread(Thread-10, initial)>
+Testing k =  96
+Silhouette score for k(clusters) = 96 is 0.06735262915429151
+In thread:  <Thread(Thread-11, initial)>
+Testing k =  97
+Silhouette score for k(clusters) = 97 is 0.06937547568565146
+In thread:  <Thread(Thread-12, initial)>
+Testing k =  98
+Silhouette score for k(clusters) = 98 is 0.06990900016505944
+In thread:  <Thread(Thread-13, initial)>
+Testing k =  99
+Silhouette score for k(clusters) = 99 is 0.07017469395600269
+In thread:  <Thread(Thread-14, initial)>
+Testing k =  100
+Silhouette score for k(clusters) = 100 is 0.06838823237859533
+In thread:  <Thread(Thread-15, initial)>
+Testing k =  101
+Silhouette score for k(clusters) = 101 is 0.0689138128823019
+In thread:  <Thread(Thread-16, initial)>
+Testing k =  102
+Silhouette score for k(clusters) = 102 is 0.06837059682240891
+In thread:  <Thread(Thread-17, initial)>
+Testing k =  103
+Silhouette score for k(clusters) = 103 is 0.07259858797387467
+In thread:  <Thread(Thread-18, initial)>
+Testing k =  104
+Silhouette score for k(clusters) = 104 is 0.06920302982407278
+In thread:  <Thread(Thread-19, initial)>
+Testing k =  105
+Silhouette score for k(clusters) = 105 is 0.07288554509937978
+In thread:  <Thread(Thread-20, initial)>
+Testing k =  106
+Silhouette score for k(clusters) = 106 is 0.06975587468164567
+In thread:  <Thread(Thread-21, initial)>
+Testing k =  107
+Silhouette score for k(clusters) = 107 is 0.07137551312178975
+In thread:  <Thread(Thread-22, initial)>
+
+
+Max silhouette average score found in k = 105
+
+
+**********************************************************************
+
+Running with input parameters:
+
+Search mode:  b
+Lower limit:  20
+Upper limit:  200
+Step:  10
+Vect matrix:  ../Source/Abstracts_vect.txt
+Joblib dict output:  ../temp/scores2.joblib
+Running in 12 threads...
+
+Reading matrix input...
+Done!
+
+Searching in the interval between 20 and 200, with 11 iterations...
+Testing k =  38
+Silhouette score for k(clusters) = 38 is 0.03170741495897741
+Testing k =  20
+Silhouette score for k(clusters) = 20 is 0.020871862143236008
+Testing k =  74
+Silhouette score for k(clusters) = 74 is 0.05406632291765201
+Testing k =  92
+Silhouette score for k(clusters) = 92 is 0.06512324978159062
+Testing k =  110
+Silhouette score for k(clusters) = 110 is 0.07484402063961142
+Testing k =  56
+Silhouette score for k(clusters) = 56 is 0.04321031238088415
+Testing k =  128
+Silhouette score for k(clusters) = 128 is 0.08701112523628164
+Testing k =  164
+Silhouette score for k(clusters) = 164 is 0.10887792555011407
+Testing k =  200
+Silhouette score for k(clusters) = 200 is 0.12670655696953698
+Testing k =  146
+Silhouette score for k(clusters) = 146 is 0.09535949709799385
+Testing k =  182
+Silhouette score for k(clusters) = 182 is 0.12345776453067486
+Traceback (most recent call last):
+  File "silhouette.py", line 84, in <module>
+    max_k = K[max(range(len(scores)), key=scores.__getitem__)]
+TypeError: object of type 'generator' has no len()
+
+
+**********************************************************************
+
+Running with input parameters:
+
+Search mode:  b
+Lower limit:  20
+Upper limit:  200
+Max iter:  10
+Vect matrix:  ../Source/Abstracts_vect.txt
+Joblib dict output:  ../temp/scores2.joblib
+Running in 15 threads...
+
+Reading matrix input...
+Done!
+
+Searching in the interval between 20 and 200, with 11 iterations and step=18...
+Silhouette score for k(clusters) = 20 is 0.020871862143236008
+Silhouette score for k(clusters) = 38 is 0.03170741495897741
+Silhouette score for k(clusters) = 110 is 0.07484402063961142
+Silhouette score for k(clusters) = 56 is 0.04321031238088415
+Silhouette score for k(clusters) = 74 is 0.05406632291765201
+Silhouette score for k(clusters) = 92 is 0.06512324978159062
+Silhouette score for k(clusters) = 128 is 0.08701112523628164
+Silhouette score for k(clusters) = 200 is 0.12670655696953698
+Silhouette score for k(clusters) = 164 is 0.10887792555011407
+Silhouette score for k(clusters) = 146 is 0.09535949709799385
+Silhouette score for k(clusters) = 182 is 0.12345776453067486
+
+Max average score found in k = 200
+
+Searching in the interval between 191 and 209, with 10 iterations and step=2...
+Silhouette score for k(clusters) = 197 is 0.13032330988523666
+Silhouette score for k(clusters) = 191 is 0.11429361452837036
+Silhouette score for k(clusters) = 203 is 0.12216510047911527
+Silhouette score for k(clusters) = 207 is 0.1347128073758762
+Silhouette score for k(clusters) = 195 is 0.12338253182265098
+Silhouette score for k(clusters) = 193 is 0.12242780114832416
+Silhouette score for k(clusters) = 201 is 0.11830577774817416
+Silhouette score for k(clusters) = 199 is 0.12728741717349423
+Silhouette score for k(clusters) = 205 is 0.1296273905328062
+Silhouette score for k(clusters) = 209 is 0.1344576077462898
+
+Max average score found in k = 207
+
+Searching in the interval between 206 and 208, with 3 iterations and step=1...
+Silhouette score for k(clusters) = 207 is 0.1347128073758762
+Silhouette score for k(clusters) = 208 is 0.13533953168000104
+Silhouette score for k(clusters) = 206 is 0.1297830227556516
+
+
+Max silhouette average score found in k = 208
+
+Calculated in 12812.412595033646 seconds.
+
+
+**********************************************************************
+
+Running with input parameters:
+
+Search mode:  l
+Lower limit:  50
+Upper limit:  300
+Step:  5
+Vect matrix:  ../Source/Abstracts_vect.txt
+Joblib dict output:  ../temp/scores_1a.joblib
+Running in 12 threads...
+
+Reading matrix input...
+Done!
+
+Searching in the interval between 50 and 300, with 51 iterations...
+
+
+**********************************************************************
+
+Running with input parameters:
+
+Search mode:  b
+Lower limit:  20
+Upper limit:  300
+Max iter:  10
+Vect matrix:  ../Source/Abstracts_vect.txt
+Joblib dict output:  ../temp/scores_1a.joblib
+Running in 12 threads...
+
+Reading matrix input...
+Done!
+
+Searching in the interval between 20 and 300, with 11 iterations and step=28...
+Silhouette score for k(clusters) = 48 is 0.03803163184355637
+Silhouette score for k(clusters) = 20 is 0.020871862143236008
+Silhouette score for k(clusters) = 188 is 0.1148739323769789
+Silhouette score for k(clusters) = 76 is 0.05262234501517262
+Silhouette score for k(clusters) = 132 is 0.0799322615489578
+Silhouette score for k(clusters) = 216 is 0.13740751830439815
+Silhouette score for k(clusters) = 244 is 0.1451259131933905
+Silhouette score for k(clusters) = 104 is 0.06920302982407278
+Silhouette score for k(clusters) = 300 is 0.1702070840780406
+Silhouette score for k(clusters) = 272 is 0.15204363979120444
+Silhouette score for k(clusters) = 160 is 0.10319874916509779
+
+Max average score found in k = 300
+
+Searching in the interval between 286 and 316, with 11 iterations and step=3...
+Silhouette score for k(clusters) = 289 is 0.16995546723446342
+Silhouette score for k(clusters) = 292 is 0.16931301776750712
+Silhouette score for k(clusters) = 307 is 0.1844714767753258
+Silhouette score for k(clusters) = 286 is 0.16986222153140215
+Silhouette score for k(clusters) = 301 is 0.17398678693089364
+Silhouette score for k(clusters) = 304 is 0.167976801428597
+Silhouette score for k(clusters) = 316 is 0.18518899326184282
+Silhouette score for k(clusters) = 298 is 0.17541991804833793
+Silhouette score for k(clusters) = 310 is 0.1851698127769897
+Silhouette score for k(clusters) = 295 is 0.176360507895182
+Silhouette score for k(clusters) = 313 is 0.17400966202457377
+
+Max average score found in k = 316
+
+Searching in the interval between 314 and 318, with 5 iterations and step=1...
+Silhouette score for k(clusters) = 315 is 0.18042285265563676
+Silhouette score for k(clusters) = 316 is 0.18518899326184282
+Silhouette score for k(clusters) = 314 is 0.18245964684383342
+Silhouette score for k(clusters) = 317 is 0.1895344222226208
+Silhouette score for k(clusters) = 318 is 0.17867329902348544
+
+
+Max silhouette average score found in k = 317
+
+Calculated in 19394.59290456772 seconds.
+Plotting...
+Total time: 48228.78358006477 seconds.
+
+Reading input files...
+Number of components: 2200
+Done!
+
+Matrix shape bedore SVD descomposition: (2200, 13670)
+Performing SVD reduction...
+Done!
+
+TF-IDF matrix reduced to dimensions: (2200, 498)
+
+Total time: 728.7112066745758 seconds.
+
+
+**********************************************************************
+
+Running with input parameters:
+
+Search mode:  b
+Lower limit:  20
+Upper limit:  300
+Max iter:  10
+Vect matrix:  ../Source/Abstracts_vect_svd.txt
+Joblib dict output:  ../temp/scores_2a.joblib
+Running in 12 threads...
+
+Reading matrix input...
+Done!
+
+Searching in the interval between 20 and 300, with 11 iterations and step=28...
+Silhouette score for k(clusters) = 20 is 0.028343706130404656
+Silhouette score for k(clusters) = 48 is 0.053185937367062154
+Silhouette score for k(clusters) = 76 is 0.07647378089242315
+Silhouette score for k(clusters) = 188 is 0.16005212991480244
+Silhouette score for k(clusters) = 160 is 0.1394599009741474
+Silhouette score for k(clusters) = 300 is 0.22119862800562487
+Silhouette score for k(clusters) = 216 is 0.178900800100544
+Silhouette score for k(clusters) = 132 is 0.11503248758763875
+Silhouette score for k(clusters) = 272 is 0.21568314512640502
+Silhouette score for k(clusters) = 244 is 0.1902713817277309
+Silhouette score for k(clusters) = 104 is 0.09788908364234794
+
+Max average score found in k = 300
+
+Searching in the interval between 286 and 316, with 11 iterations and step=3...
+Silhouette score for k(clusters) = 292 is 0.22296056722378277
+Silhouette score for k(clusters) = 286 is 0.20392295547455638
+Silhouette score for k(clusters) = 295 is 0.22236451843151342
+Silhouette score for k(clusters) = 307 is 0.22717472351415863
+Silhouette score for k(clusters) = 301 is 0.21852466579282695
+Silhouette score for k(clusters) = 313 is 0.23888970334227258
+Silhouette score for k(clusters) = 304 is 0.22482274714604783
+Silhouette score for k(clusters) = 310 is 0.2260997604311944
+Silhouette score for k(clusters) = 298 is 0.23297329264865305
+Silhouette score for k(clusters) = 316 is 0.23036399046721281
+Silhouette score for k(clusters) = 289 is 0.22188103515540247
+
+Max average score found in k = 313
+
+Searching in the interval between 311 and 315, with 5 iterations and step=1...
+Silhouette score for k(clusters) = 312 is 0.23113155718693446
+Silhouette score for k(clusters) = 315 is 0.239520979076999
+Silhouette score for k(clusters) = 311 is 0.22116981994510446
+Silhouette score for k(clusters) = 314 is 0.2160526992738211
+Silhouette score for k(clusters) = 313 is 0.23888970334227258
+
+
+Max silhouette average score found in k = 315
+
+Calculated in 528.022153377533 seconds.
+Plotting...
+Total time: 1360.2797932624817 seconds.
+
+
+**********************************************************************
+
+Running with input parameters:
+
+Search mode:  b
+Lower limit:  20
+Upper limit:  500
+Max iter:  25
+Vect matrix:  ../Source/Abstracts_vect_svd.txt
+Joblib dict output:  ../temp/scores_3a.joblib
+Running in 12 threads...
+
+Reading matrix input...
+Done!
+
+Searching in the interval between 20 and 500, with 25 iterations and step=20...
+Silhouette score for k(clusters) = 40 is 0.045145021013914044
+Silhouette score for k(clusters) = 280 is 0.22393887734335818
+Silhouette score for k(clusters) = 80 is 0.07965225651325272
+Silhouette score for k(clusters) = 320 is 0.24201612335121353
+Silhouette score for k(clusters) = 140 is 0.13176141532374605
+Silhouette score for k(clusters) = 380 is 0.2713332078690164
+Silhouette score for k(clusters) = 160 is 0.1394599009741474
+Silhouette score for k(clusters) = 400 is 0.26376086520512343
+Silhouette score for k(clusters) = 100 is 0.09032186779201484
+Silhouette score for k(clusters) = 340 is 0.2417786261119876
+Silhouette score for k(clusters) = 120 is 0.10902264561152168
+Silhouette score for k(clusters) = 360 is 0.2645062021623895
+Silhouette score for k(clusters) = 60 is 0.06423317623934628
+Silhouette score for k(clusters) = 300 is 0.22119862800562487
+Silhouette score for k(clusters) = 180 is 0.1534918132065318
+Silhouette score for k(clusters) = 420 is 0.27967750419588205
+Silhouette score for k(clusters) = 20 is 0.028343706130404656
+Silhouette score for k(clusters) = 260 is 0.19240276706359424
+Silhouette score for k(clusters) = 500 is 0.3025622206871763
+Silhouette score for k(clusters) = 220 is 0.17770352199794814
+Silhouette score for k(clusters) = 460 is 0.2923294950142481
+Silhouette score for k(clusters) = 200 is 0.16529518689025668
+Silhouette score for k(clusters) = 440 is 0.2945741311583869
+Silhouette score for k(clusters) = 240 is 0.18981385063882636
+Silhouette score for k(clusters) = 480 is 0.29631724877392673
+
+Max average score found in k = 500
+
+Searching in the interval between 490 and 510, with 21 iterations and step=1...
+Silhouette score for k(clusters) = 498 is 0.3130236973910541
+Silhouette score for k(clusters) = 500 is 0.3025622206871763
+Silhouette score for k(clusters) = 501 is 0.30934486204681366
+Silhouette score for k(clusters) = 496 is 0.29942048770601776
+Silhouette score for k(clusters) = 504 is 0.3118539425493429
+Silhouette score for k(clusters) = 491 is 0.30546584293067014
+Silhouette score for k(clusters) = 502 is 0.321455854652466
+Silhouette score for k(clusters) = 493 is 0.31444100365284555
+Silhouette score for k(clusters) = 508 is 0.3133063110035595
+Silhouette score for k(clusters) = 499 is 0.30849518933179515
+Silhouette score for k(clusters) = 503 is 0.3165336775307095
+Silhouette score for k(clusters) = 495 is 0.30851805191043274
+Silhouette score for k(clusters) = 507 is 0.3208303841802399
+Silhouette score for k(clusters) = 490 is 0.3191247613361817
+Silhouette score for k(clusters) = 506 is 0.3032996304972709
+Silhouette score for k(clusters) = 497 is 0.3120781587110247
+Silhouette score for k(clusters) = 510 is 0.31265434834763994
+Silhouette score for k(clusters) = 492 is 0.3127821563306786
+Silhouette score for k(clusters) = 505 is 0.3196940001293476
+Silhouette score for k(clusters) = 494 is 0.30762725502138627
+Silhouette score for k(clusters) = 509 is 0.32086317467533093
+
+
+Max silhouette average score found in k = 502
+
+Calculated in 1091.1438839435577 seconds.
+Plotting...
+Total time: 2458.5445005893707 seconds.
+
+Reading input files...
+Done!
+
+Components: 2200, (2200, 13670)
+Number of features after chi2 feature selection: (2200, 6835)
+TF-IDF matrix reduced to dimensions: (2200, 6835)
+Total time: 37.04572343826294 seconds.
+
+
+**********************************************************************
+
+Running with input parameters:
+
+Search mode:  b
+Lower limit:  10
+Upper limit:  100
+Max iter:  9
+Vect matrix:  ../Source/Abstracts_vect_chi2.tsv
+Joblib dict output:  ../temp/scores_4a.joblib
+Running in 8 threads...
+
+Reading matrix input...
+Done!
+
+Searching in the interval between 10 and 100, with 10 iterations and step=10...
+Silhouette score for k(clusters) = 40 is -0.020971750122835878
+Silhouette score for k(clusters) = 50 is -0.012474488862987111
+Silhouette score for k(clusters) = 60 is 0.0014419051898723488
+Silhouette score for k(clusters) = 20 is -0.03561404063269099
+Silhouette score for k(clusters) = 100 is -0.0018490337612553408
+Silhouette score for k(clusters) = 80 is -0.026554524794708798
+Silhouette score for k(clusters) = 10 is 0.01653331315076359
+Silhouette score for k(clusters) = 90 is -0.008927407340632831
+Silhouette score for k(clusters) = 70 is 0.028403396494523087
+Silhouette score for k(clusters) = 30 is -0.031863041370295817
+
+Max average score found in k = 70
+
+Searching in the interval between 65 and 75, with 6 iterations and step=2...
+Silhouette score for k(clusters) = 67 is -0.016545505456392287
+Silhouette score for k(clusters) = 71 is -0.04621255006082005
+Silhouette score for k(clusters) = 69 is -0.005038716756294077
+Silhouette score for k(clusters) = 65 is -0.01630906963721715
+Silhouette score for k(clusters) = 75 is 0.007654562515087457
+Silhouette score for k(clusters) = 73 is -0.004878467192245393
+
+Max average score found in k = 75
+
+Searching in the interval between 74 and 76, with 3 iterations and step=1...
+Silhouette score for k(clusters) = 74 is -0.02138816236744606
+Silhouette score for k(clusters) = 75 is 0.007654562515087457
+Silhouette score for k(clusters) = 76 is -0.02136732183229945
+
+
+Max silhouette average score found in k = 70
+
+Calculated in 2449.4206504821777 seconds.
+Plotting...
+Total time: 5511.43822312355 seconds.
