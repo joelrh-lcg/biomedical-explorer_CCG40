@@ -28,8 +28,16 @@
 - input: ../temp/Abstracts_vect.txt
 - output: ../temp/Abstracts_vect_chi2.tsv o ./temp/Abstracts_vect_svd.tsv
 
+# Busqueda de K con el metodo de la silueta
+6. silhouette.py
+- input: ../temp/Abstracts_vect.txt
+- output: ../results/directory/
+
 # Clustering 
 5. ./scripts/clustering_clean.py 
 - input: ../temp/Abstracts_vect_chi2.txt o ../temp/Abstracts_vect_svd.txt
 - output: k50_PCA_perp30.txt
+
+# ejemplo para correr silhouette.py
+nohup python3 silhouette.py -m '../Source/Abstracts_vect_svd.txt' -j '../temp/scores_5a.joblib' -sm 'l' -s 5 --li 10 --ls 100 -c 10 -p '../temp/plots_5a/' &
 
