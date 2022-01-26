@@ -1,0 +1,16 @@
+Run started at:  2022-01-26 10:51:00.206553 
+
+
+Reading input files...
+Done!
+
+Components: 1100
+(1100, 13670)
+Performing SVD reduction...
+Done!
+
+TF-IDF matrix reduced to dimensions: (1100, 493)
+Total time: 555.2597212791443 seconds.
+
+**********************************************************************
+

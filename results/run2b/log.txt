@@ -1,0 +1,136 @@
+
+
+**********************************************************************
+
+Run started at:  2022-01-26 11:45:05.147566 
+
+Running with input parameters:
+
+Search mode:  l
+Lower limit:  20
+Upper limit:  120
+Step:  1
+Vect matrix:  ../temp/Abstracts_vect_chi2_10.tsv
+Joblib dict output:  ../results/run2b/scores.joblib
+Running in 3 threads...
+
+Reading matrix input...
+Done!
+Searching best K(clusters) for 1100 articles with 1368 features...
+
+Searching in the interval between 20 and 120, with 101 iterations...
+Silhouette score for k(clusters) = 20 is 0.03233148128074977
+Silhouette score for k(clusters) = 21 is 0.03434460930096034
+Silhouette score for k(clusters) = 22 is 0.050815727347515986
+Silhouette score for k(clusters) = 23 is 0.050815727347515986
+Silhouette score for k(clusters) = 24 is 0.05263128185358057
+Silhouette score for k(clusters) = 25 is 0.02495333983001052
+Silhouette score for k(clusters) = 26 is 0.024816701623780413
+Silhouette score for k(clusters) = 27 is 0.02039314582995598
+Silhouette score for k(clusters) = 28 is 0.021771199218047335
+Silhouette score for k(clusters) = 29 is 0.02405799292198042
+Silhouette score for k(clusters) = 30 is 0.025653433310170618
+Silhouette score for k(clusters) = 31 is 0.026541699409537253
+Silhouette score for k(clusters) = 32 is 0.02276593664282496
+Silhouette score for k(clusters) = 33 is 0.023369572823067612
+Silhouette score for k(clusters) = 34 is 0.023369572823067612
+Silhouette score for k(clusters) = 35 is 0.033250616929973
+Silhouette score for k(clusters) = 36 is 0.028049412450636167
+Silhouette score for k(clusters) = 37 is 0.032840730945097166
+Silhouette score for k(clusters) = 38 is 0.03329298616688836
+Silhouette score for k(clusters) = 39 is 0.03394266153054684
+Silhouette score for k(clusters) = 40 is 0.033771557825598465
+Silhouette score for k(clusters) = 41 is 0.034672918881477284
+Silhouette score for k(clusters) = 42 is 0.038064949567775556
+Silhouette score for k(clusters) = 43 is 0.038064949567775556
+Silhouette score for k(clusters) = 44 is 0.038594014487710805
+Silhouette score for k(clusters) = 45 is 0.0396883136930736
+Silhouette score for k(clusters) = 46 is 0.04017261109490633
+Silhouette score for k(clusters) = 47 is 0.032590748580196255
+Silhouette score for k(clusters) = 48 is 0.03295069095114666
+Silhouette score for k(clusters) = 49 is 0.034591878627507684
+Silhouette score for k(clusters) = 50 is 0.035898360064752416
+Silhouette score for k(clusters) = 51 is 0.035898360064752416
+Silhouette score for k(clusters) = 52 is 0.035898360064752416
+Silhouette score for k(clusters) = 53 is 0.03717918720403112
+Silhouette score for k(clusters) = 54 is 0.038238638259772056
+Silhouette score for k(clusters) = 55 is 0.03159599880075351
+Silhouette score for k(clusters) = 56 is 0.03181617420357863
+Silhouette score for k(clusters) = 57 is 0.03181617420357863
+Silhouette score for k(clusters) = 58 is 0.032772604547417136
+Silhouette score for k(clusters) = 59 is 0.03277360909523725
+Silhouette score for k(clusters) = 60 is 0.06604614049584294
+Silhouette score for k(clusters) = 61 is 0.033884421985333396
+Silhouette score for k(clusters) = 62 is 0.03504671122030196
+Silhouette score for k(clusters) = 63 is 0.03798767635151606
+Silhouette score for k(clusters) = 64 is 0.03845806783313399
+Silhouette score for k(clusters) = 65 is 0.03881544605168323
+Silhouette score for k(clusters) = 66 is 0.039002786479795666
+Silhouette score for k(clusters) = 67 is 0.03939527807917774
+Silhouette score for k(clusters) = 68 is 0.04387470685701098
+Silhouette score for k(clusters) = 69 is 0.045510375007738406
+Silhouette score for k(clusters) = 70 is 0.04611402812960375
+Silhouette score for k(clusters) = 71 is 0.04679563334150531
+Silhouette score for k(clusters) = 72 is 0.04730169345270858
+Silhouette score for k(clusters) = 73 is 0.049181962764550474
+Silhouette score for k(clusters) = 74 is 0.04974974345906504
+Silhouette score for k(clusters) = 75 is 0.050447173958909575
+Silhouette score for k(clusters) = 76 is 0.0457285671503763
+Silhouette score for k(clusters) = 77 is 0.046431971727817045
+Silhouette score for k(clusters) = 78 is 0.046185976912047316
+Silhouette score for k(clusters) = 79 is 0.04686718852873091
+Silhouette score for k(clusters) = 80 is 0.04706036941222302
+Silhouette score for k(clusters) = 81 is 0.047644373168552204
+Silhouette score for k(clusters) = 82 is 0.0060785170643681725
+Silhouette score for k(clusters) = 83 is 0.006996160046983826
+Silhouette score for k(clusters) = 84 is 0.006996160046983826
+Silhouette score for k(clusters) = 85 is 0.007820464163736355
+Silhouette score for k(clusters) = 86 is 0.008958396078228872
+Silhouette score for k(clusters) = 87 is 0.009800426444034987
+Silhouette score for k(clusters) = 88 is 0.011032456989230586
+Silhouette score for k(clusters) = 89 is 0.011086044125854134
+Silhouette score for k(clusters) = 90 is 0.011750628359349523
+Silhouette score for k(clusters) = 91 is 0.0125099003002212
+Silhouette score for k(clusters) = 92 is 0.01354066647510594
+Silhouette score for k(clusters) = 93 is 0.01354066647510594
+Silhouette score for k(clusters) = 94 is 0.014532333688492823
+Silhouette score for k(clusters) = 95 is 0.014532333688492823
+Silhouette score for k(clusters) = 96 is 0.007831142959767298
+Silhouette score for k(clusters) = 97 is 0.008244251335530969
+Silhouette score for k(clusters) = 98 is 0.009559833261800274
+Silhouette score for k(clusters) = 99 is 0.010579712786295836
+Silhouette score for k(clusters) = 100 is 0.011666414772410797
+Silhouette score for k(clusters) = 101 is 0.01231132951051437
+Silhouette score for k(clusters) = 102 is 0.01231132951051437
+Silhouette score for k(clusters) = 103 is 0.0128848113518162
+Silhouette score for k(clusters) = 104 is 0.013264578493568255
+Silhouette score for k(clusters) = 105 is 0.01374913970677327
+Silhouette score for k(clusters) = 106 is 0.011524268152326482
+Silhouette score for k(clusters) = 107 is 0.012269544363259517
+Silhouette score for k(clusters) = 108 is 0.013110521527520515
+Silhouette score for k(clusters) = 109 is 0.013315142372070753
+Silhouette score for k(clusters) = 110 is 0.03941934199230641
+Silhouette score for k(clusters) = 111 is 0.013619974884178428
+Silhouette score for k(clusters) = 112 is 0.014752476387324532
+Silhouette score for k(clusters) = 113 is 0.014715499729522753
+Silhouette score for k(clusters) = 114 is 0.015771616744611406
+Silhouette score for k(clusters) = 115 is 0.016354686366828596
+Silhouette score for k(clusters) = 116 is 0.021382885583909224
+Silhouette score for k(clusters) = 117 is 0.022097509102980955
+Silhouette score for k(clusters) = 118 is 0.022128124845719226
+Silhouette score for k(clusters) = 119 is 0.022955553373233586
+Silhouette score for k(clusters) = 120 is 0.025499325037141172
+
+Max average score found in k = 60
+
+
+Max silhouette average score found in k = 60
+
+Calculated in 2489.7859501838684 seconds. 
+
+Plotting...
+Total time: 2649.6516060829163 seconds. 
+
+
+**********************************************************************
+

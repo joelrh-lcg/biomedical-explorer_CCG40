@@ -32,6 +32,7 @@ with open((args.Abstract), mode='r') as file:
 		#print(line)
 		dic_abs.append(line)
 print("Done!\n")
+print(f"{len(dic_abs)} abstracts read!")
 
 
 print("Vectorizing input file...")
@@ -47,7 +48,7 @@ with open(os.path.join(args.outputPath,"clases_Abstracts.txt"), mode="w") as oFi
 	oFile.write(str(names))
 	oFile.write('\n')
 
-with open(os.path.join(args.outputPath,"Abstracts_vect.txt"), mode="w") as oFile:
+with open(os.path.join(args.outputPath,"Abstracts_vect.tsv"), mode="w") as oFile:
 	for i in X:
 		for j in i:
 			oFile.write("{}\t".format(j))

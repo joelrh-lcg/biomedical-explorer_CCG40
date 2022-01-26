@@ -1,0 +1,18 @@
+
+
+**********************************************************************
+
+Run started at:  2022-01-26 11:12:29.317007 
+
+Saving results in file:  ../temp/Abstracts_vect_chi2_10.tsv
+
+Reading input files...
+Done!
+
+Components: 1100, (1100, 13670)
+Number of features after chi2 feature selection: (1100, 1367)
+TF-IDF matrix reduced to dimensions: (1100, 1367)
+Total time: 18.57297396659851 seconds.
+
+**********************************************************************
+

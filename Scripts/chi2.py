@@ -1,8 +1,28 @@
 import argparse
-from sklearn.feature_selection import SelectPercentile,chi2
+from sklearn.feature_selection import SelectPercentile,chi2, f_classif
 from scipy.sparse import csr_matrix
 import itertools
 import time 
+import sys
+import datetime
+from pathlib import Path
+import os
+
+class Logger(object):
+    "this class is for print the output of the script to both stdout and log file"
+    def __init__(self):
+        self.terminal = sys.stdout
+        self.log = open(os.path.join(os.path.join(Path(args.output).parent.absolute(), 'chi2_log.txt')), "a")
+
+    def write(self, message):
+        self.terminal.write(message)
+        self.log.write(message)
+
+    def flush(self):
+        #this flush method is needed for python 3 compatibility.
+        #this handles the flush command by doing nothing.
+        #you might want to specify some extra behavior here.
+        pass
 
 if __name__ == '__main__':
 
@@ -23,6 +43,14 @@ if __name__ == '__main__':
 
     args=parser.parse_args()
 
+    sys.stdout = Logger()
+
+    print("\n\n**********************************************************************\n")
+
+    print("Run started at: ", datetime.datetime.now(), '\n')
+
+    print("Saving results in file: ", args.output)
+
     print("\nReading input files...")
     X=[]
     with open((args.file_matrix), mode='r') as file:
@@ -41,13 +69,10 @@ if __name__ == '__main__':
     print(f"Components: {nc}, {X.get_shape()}")
     y_lSelect = []
 
-    selector = SelectPercentile(chi2, percentile=args.percentile)
+    selector = SelectPercentile(f_classif, percentile=args.percentile)
     X_reduced = selector.fit_transform(X, list(itertools.repeat(0, nc)))
     for i in selector.get_support(True): y_lSelect.append(y[i])
     print(f'Number of features after chi2 feature selection: {X_reduced.shape}')
-
-    #print('Features:')
-    #print(set(y_lSelect))
 
     print(f"TF-IDF matrix reduced to dimensions: {X_reduced.shape}")
 
@@ -58,3 +83,4 @@ if __name__ == '__main__':
             file.write("\n") 
 
     print("Total time: %s seconds." % (time.time() - start_time))  
+    print("\n**********************************************************************\n")
