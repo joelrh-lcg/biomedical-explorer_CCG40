@@ -1,0 +1,21 @@
+23402340	biological_process	transcription, DNA-templated	2
+23402340	biological_process	jasmonic acid mediated signaling pathway	1
+23402340	biological_process	defense response	1
+23402340	chemical	jasmonic acid	3
+23402340	chemical	jasmonate(1-)	1
+23402340	chemical	carbon-10 atom	1
+23402340	gene/protein	Protein BEAN1	2
+23402340	gene/protein	zinc finger protein 346 (mouse)	1
+23402340	gene/protein	zinc finger protein 346 (human)	1
+23402340	gene/protein	zinc finger protein 346	1
+23402340	gene/protein	protein BEAN	1
+23402340	gene/protein	caspase-10 isoform 3	1
+23402340	gene/protein	Transcriptional regulator	1
+23402340	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+23402340	organism	Arabidopsis	1
+23402340	organism	Fabaceae	1
+23402340	organism	Phaseolus	1
+23402340	organism	Phaseolus vulgaris	1
+23402340	sequence	gene	3
+23402340	sequence	polypeptide_domain	1
+23402340	cell_line	R1192	1

@@ -1,0 +1,3 @@
+29689654	biological_process	virulence	3
+29689654	disease	pneumonia	2
+29689654	sequence	genome	1

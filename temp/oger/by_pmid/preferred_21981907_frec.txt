@@ -1,0 +1,6 @@
+21981907	chemical	ecgonine benzoate	3
+21981907	gene/protein	natural resistance-associated macrophage protein 1 (mouse)	3
+21981907	gene/protein	natural resistance-associated macrophage protein 1 (rat)	3
+21981907	gene/protein	natural resistance-associated macrophage protein 1	3
+21981907	organism	Mycobacterium bovis	4
+21981907	sequence	genome	1

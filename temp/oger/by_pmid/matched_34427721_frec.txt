@@ -1,0 +1,10 @@
+34427721	disease	infection	8
+34427721	disease	susceptibility	6
+34427721	gene/protein	pine	4
+34427721	organism	bacterium	14
+34427721	organism	amphibian	2
+34427721	organism	boreal toad	2
+34427721	organism	fungus	1
+34427721	organism	Anaxyrus boreas	1
+34427721	sequence	gain	1
+34427721	organ/tissue	skin	24

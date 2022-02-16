@@ -1,0 +1,29 @@
+24060999	cellular_component	obsolete protein	2
+24060999	cellular_component	obsolete vimentin	1
+24060999	cellular_component	type III intermediate filament	1
+24060999	chemical	protein	5
+24060999	chemical	MicroRNAs	5
+24060999	chemical	(protein)	2
+24060999	chemical	Vimentin	2
+24060999	chemical	Calreticulin	1
+24060999	chemical	biomarker	1
+24060999	disease	Astrocytoma	6
+24060999	disease	Neoplasms	6
+24060999	disease	Nervous System Neoplasms	2
+24060999	gene/protein	Calreticulin	30
+24060999	gene/protein	Vimentin	14
+24060999	gene/protein	Protochlorophyllide reductase, chloroplastic	5
+24060999	gene/protein	ELAV-like protein 2	4
+24060999	gene/protein	protein	2
+24060999	gene/protein	Light-dependent protochlorophyllide reductase	2
+24060999	gene/protein	Protochlorophyllide reductase	1
+24060999	gene/protein	vimentin	1
+24060999	gene/protein	calreticulin	1
+24060999	gene/protein	ELAV-like protein 2 (mouse)	1
+24060999	gene/protein	ELAV-like protein 2 (human)	1
+24060999	gene/protein	ELAV-like protein 2 (rat)	1
+24060999	sequence	miRNA	5
+24060999	sequence	polypeptide	2
+24060999	cell_line	RT-2	1
+24060999	organ/tissue	central nervous system	1
+24060999	organ/tissue	adult organism	1

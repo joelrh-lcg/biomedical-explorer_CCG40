@@ -1,0 +1,31 @@
+24516674	biological_process	transcription, DNA-templated	4
+24516674	biological_process	biological regulation	1
+24516674	chemical	molecule	1
+24516674	chemical	Sigma Factor	1
+24516674	chemical	atom	1
+24516674	disease	Pneumonia	2
+24516674	disease	Chlamydial Pneumonia	2
+24516674	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+24516674	organism	Escherichia coli	2
+24516674	organism	Helicobacter pylori	2
+24516674	organism	Bacillus anthracis	2
+24516674	organism	Klebsiella	1
+24516674	organism	Salmonella typhimurium	1
+24516674	organism	Pseudomonas	1
+24516674	organism	Geobacter	1
+24516674	organism	Chlamydophila	1
+24516674	organism	Synechocystis sp. PCC 6714	1
+24516674	organism	Synechocystis sp. BO8402	1
+24516674	organism	Synechocystis sp. PCC 9413	1
+24516674	organism	Synechocystis sp.	1
+24516674	organism	Synechocystis sp. PCC 6803	1
+24516674	organism	Synechocystis sp. PCC 6701	1
+24516674	organism	Archaea	1
+24516674	organism	Sulfolobus solfataricus	1
+24516674	organism	Saccharolobus solfataricus	1
+24516674	sequence	promoter_region	3
+24516674	sequence	TSS	2
+24516674	sequence	promoter	2
+24516674	sequence	prokaryotic_promoter	1
+24516674	sequence	gene	1
+24516674	organ/tissue	organ	1

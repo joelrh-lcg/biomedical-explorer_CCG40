@@ -1,0 +1,20 @@
+27148569	chemical	nonsense mutation	1
+27148569	disease	autism spectrum disorder	1
+27148569	disease	developmental disability	1
+27148569	disease	autism	1
+27148569	gene/protein	asd	18
+27148569	gene/protein	mybbp1a	6
+27148569	gene/protein	lamb3	3
+27148569	gene/protein	impact	2
+27148569	gene/protein	exon	1
+27148569	organism	cnv	1
+27148569	sequence	variant	2
+27148569	sequence	downstream	2
+27148569	sequence	genome	1
+27148569	sequence	rare variant	1
+27148569	sequence	cnv	1
+27148569	sequence	nonsense	1
+27148569	sequence	mutation	1
+27148569	sequence	exon	1
+27148569	sequence	missense variant	1
+27148569	organ/tissue	simplex	1

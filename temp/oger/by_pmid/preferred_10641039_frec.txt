@@ -1,0 +1,11 @@
+10641039	biological_process	transcription, DNA-templated	1
+10641039	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+10641039	organism	unidentified	2
+10641039	organism	Yeasts	1
+10641039	sequence	region	3
+10641039	sequence	5KB_upstream_variant	2
+10641039	sequence	gene	2
+10641039	sequence	random_sequence	1
+10641039	organ/tissue	webbed interdigital region	2
+10641039	organ/tissue	matrix compartment	1
+10641039	clinical_drug	Yeast, Unspecified	1

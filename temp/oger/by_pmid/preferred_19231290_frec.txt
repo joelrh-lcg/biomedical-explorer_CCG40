@@ -1,0 +1,41 @@
+19231290	biological_process	pathogenesis	1
+19231290	biological_process	obsolete virulence	1
+19231290	biological_process	viral process	1
+19231290	biological_process	detoxification	1
+19231290	biological_process	lipid metabolic process	1
+19231290	biological_process	cellular metabolic process	1
+19231290	biological_process	generation of precursor metabolites and energy	1
+19231290	biological_process	cellular respiration	1
+19231290	biological_process	respiratory gaseous exchange by respiratory system	1
+19231290	cellular_component	obsolete protein	2
+19231290	cellular_component	cell wall	1
+19231290	cellular_component	cell projection	1
+19231290	chemical	protein	5
+19231290	chemical	ecgonine benzoate	4
+19231290	chemical	base	2
+19231290	chemical	(protein)	2
+19231290	chemical	Proteome	1
+19231290	chemical	lipid	1
+19231290	chemical	picloram	1
+19231290	chemical	atom	1
+19231290	chemical	drug	1
+19231290	disease	Tuberculosis	2
+19231290	gene/protein	natural resistance-associated macrophage protein 1 (mouse)	4
+19231290	gene/protein	natural resistance-associated macrophage protein 1 (rat)	4
+19231290	gene/protein	natural resistance-associated macrophage protein 1	4
+19231290	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT (Escherichia coli K-12)	4
+19231290	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT	4
+19231290	gene/protein	protein	2
+19231290	gene/protein	bifunctional protein FolD	1
+19231290	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+19231290	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+19231290	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+19231290	organism	Mycobacterium bovis	5
+19231290	organism	Leiostomus xanthurus	4
+19231290	organism	Mus musculus	1
+19231290	organism	Mice	1
+19231290	sequence	base	2
+19231290	sequence	polypeptide	2
+19231290	organ/tissue	melanophore spot	4
+19231290	organ/tissue	anatomical wall	1
+19231290	organ/tissue	organ	1

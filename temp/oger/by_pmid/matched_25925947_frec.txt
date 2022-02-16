@@ -1,0 +1,19 @@
+25925947	biological_process	methylation	2
+25925947	cellular_component	membrane	1
+25925947	chemical	detergent	3
+25925947	chemical	triton x100	3
+25925947	chemical	ornithine lipid	2
+25925947	chemical	peat	2
+25925947	chemical	lipid	1
+25925947	gene/protein	bog	4
+25925947	gene/protein	fold	4
+25925947	organism	bacterium	7
+25925947	organism	Singulisphaera acidiphila	2
+25925947	organism	Escherichia coli	2
+25925947	organism	ornithine lipid	1
+25925947	organism	archaea	1
+25925947	organism	eukaryote	1
+25925947	organism	triton	1
+25925947	organ/tissue	membrane	2
+25925947	clinical_drug	ornithine	1
+25925947	molecular_process	methylation	2

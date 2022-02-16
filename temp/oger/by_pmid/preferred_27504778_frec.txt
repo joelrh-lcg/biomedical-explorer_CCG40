@@ -1,0 +1,8 @@
+27504778	chemical	Biological Products	2
+27504778	chemical	natural product	1
+27504778	chemical	drug	1
+27504778	chemical	base	1
+27504778	gene/protein	spermine synthase (mouse)	1
+27504778	sequence	base	1
+27504778	sequence	tandem	1
+27504778	clinical_drug	TANDEM	1

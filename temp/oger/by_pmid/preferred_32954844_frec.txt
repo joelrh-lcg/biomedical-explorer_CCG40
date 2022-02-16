@@ -1,0 +1,19 @@
+32954844	biological_process	pathogenesis	1
+32954844	biological_process	obsolete virulence	1
+32954844	biological_process	viral process	1
+32954844	chemical	Anti-Bacterial Agents	6
+32954844	chemical	Linezolid	4
+32954844	chemical	antimicrobial agent	3
+32954844	chemical	linezolid	2
+32954844	chemical	virulence factor	1
+32954844	chemical	Leukocidins	1
+32954844	chemical	RNA, Ribosomal, 23S	1
+32954844	disease	Cystic Fibrosis	2
+32954844	organism	bacterium BE	1
+32954844	sequence	genome	2
+32954844	sequence	region	2
+32954844	sequence	contig	1
+32954844	sequence	substitution	1
+32954844	sequence	rRNA_23S	1
+32954844	sequence	sequence_variant_obs	1
+32954844	clinical_drug	linezolid	2

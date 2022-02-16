@@ -1,0 +1,16 @@
+17321548	biological_process	transcription	3
+17321548	biological_process	regulation	2
+17321548	biological_process	transport	1
+17321548	cellular_component	chromosome	1
+17321548	chemical	metabolite	3
+17321548	chemical	effector	2
+17321548	molecular_function	transcription factor	2
+17321548	organism	bacterium	21
+17321548	organism	Escherichia coli	2
+17321548	organism	hybrid	2
+17321548	organism	e coli	2
+17321548	sequence	signal	4
+17321548	sequence	gene	2
+17321548	sequence	genome	1
+17321548	sequence	chromosome	1
+17321548	organ/tissue	scale	1

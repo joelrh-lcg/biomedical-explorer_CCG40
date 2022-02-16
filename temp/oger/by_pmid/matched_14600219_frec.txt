@@ -1,0 +1,17 @@
+14600219	biological_process	pathogenesis	1
+14600219	biological_process	regulation	1
+14600219	biological_process	transcription	1
+14600219	chemical	Las	2
+14600219	chemical	proteins	1
+14600219	chemical	sigma factor	1
+14600219	chemical	factor sigma	1
+14600219	gene/protein	Las	8
+14600219	gene/protein	rhlb	2
+14600219	gene/protein	transcriptional regulator	1
+14600219	gene/protein	Rhl	1
+14600219	gene/protein	lasr	1
+14600219	organism	Pseudomonas aeruginosa	2
+14600219	sequence	gene	3
+14600219	sequence	promoter region	1
+14600219	sequence	transcription start site	1
+14600219	sequence	upstream	1

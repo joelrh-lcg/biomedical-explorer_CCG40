@@ -1,0 +1,11 @@
+33893080	chemical	proteins	1
+33893080	disease	cervical cancer	4
+33893080	gene/protein	aac	6
+33893080	gene/protein	aaa	1
+33893080	organism	HPV 16	1
+33893080	organism	hpv 16	1
+33893080	sequence	variant	3
+33893080	sequence	gene	1
+33893080	cell_line	g350	2
+33893080	organ/tissue	HPV	1
+33893080	organ/tissue	hpv	1

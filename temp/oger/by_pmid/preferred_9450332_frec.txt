@@ -1,0 +1,58 @@
+9450332	biological_process	nodulation	1
+9450332	biological_process	transport	1
+9450332	biological_process	metabolic process	1
+9450332	chemical	nitrogen atom	5
+9450332	chemical	nitrogen(.)	5
+9450332	chemical	Ammonia	4
+9450332	chemical	ammonia	2
+9450332	chemical	Nitrogenase	2
+9450332	chemical	Glutamate Dehydrogenase	1
+9450332	chemical	alpha-amino acid	1
+9450332	chemical	amino acid	1
+9450332	chemical	N-acylurea	1
+9450332	gene/protein	Glutamate dehydrogenase	32
+9450332	gene/protein	Glucose 1-dehydrogenase	9
+9450332	gene/protein	Serum amyloid P-component	8
+9450332	gene/protein	Glycerol dehydrogenase	6
+9450332	gene/protein	Glucarate dehydratase	4
+9450332	gene/protein	NADP-specific glutamate dehydrogenase (Escherichia coli K-12)	3
+9450332	gene/protein	NADP-specific glutamate dehydrogenase	3
+9450332	gene/protein	Glutamate dehydrogenase, mitochondrial	3
+9450332	gene/protein	Glycerate dehydrogenase	3
+9450332	gene/protein	Protein BEAN1	2
+9450332	gene/protein	Galactitol 2-dehydrogenase	2
+9450332	gene/protein	Probable glucarate dehydratase	2
+9450332	gene/protein	Catabolic NAD-specific glutamate dehydrogenase RocG	1
+9450332	gene/protein	protein BEAN	1
+9450332	gene/protein	cysteine and histidine-rich domain-containing protein (fruit fly)	1
+9450332	gene/protein	Glycerate dehydrogenase HPR, peroxisomal	1
+9450332	gene/protein	Pyranose dehydrogenase	1
+9450332	gene/protein	Probable glutamate dehydrogenase	1
+9450332	gene/protein	glucarate dehydratase	1
+9450332	gene/protein	GDH/6PGL endoplasmic bifunctional protein	1
+9450332	gene/protein	D-lactate dehydrogenase [cytochrome], mitochondrial (Arabidopsis thaliana)	1
+9450332	gene/protein	Glycerol dehydrogenase 1	1
+9450332	gene/protein	glutamate dehydrogenase, mitochondrial (fruit fly)	1
+9450332	gene/protein	GDH/6PGL endoplasmic bifunctional protein (human)	1
+9450332	gene/protein	glycerol dehydrogenase	1
+9450332	gene/protein	syntaxin-1A (rat)	1
+9450332	gene/protein	transcriptional regulator STERILE APETALA (Arabidopsis thaliana)	1
+9450332	gene/protein	serum amyloid P-component (mouse)	1
+9450332	gene/protein	Sperm-activating peptide	1
+9450332	gene/protein	serum amyloid P-component	1
+9450332	gene/protein	SH2 domain-containing protein 1A (human)	1
+9450332	gene/protein	serum amyloid P-component (rat)	1
+9450332	gene/protein	SH2 domain-containing protein 1A	1
+9450332	gene/protein	S-layer protein	1
+9450332	molecular_function	nitrogenase activity	2
+9450332	molecular_function	glucose-6-phosphate dehydrogenase activity	1
+9450332	organism	Rhizobium etli	2
+9450332	sequence	cytoplasmic_polypeptide_region	2
+9450332	sequence	amino_acid	1
+9450332	cell_line	R1192	1
+9450332	organ/tissue	cerebellum vermis lobule X	1
+9450332	organ/tissue	germinal center	1
+9450332	clinical_drug	Nitrogen	5
+9450332	clinical_drug	Ammonia	2
+9450332	clinical_drug	Glutamate	1
+9450332	molecular_process	reduction	1

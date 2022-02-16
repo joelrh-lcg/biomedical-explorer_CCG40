@@ -1,0 +1,25 @@
+23485966	biological_process	symbiotic process	1
+23485966	biological_process	detoxification	1
+23485966	biological_process	metabolic process	1
+23485966	chemical	drug	2
+23485966	chemical	picloram	2
+23485966	chemical	Antigens	2
+23485966	chemical	nutrient	1
+23485966	chemical	Heat-Shock Proteins	1
+23485966	chemical	antigen	1
+23485966	chemical	pharmaceutical	1
+23485966	disease	Disease	2
+23485966	gene/protein	Flagellar regulator flk	2
+23485966	organism	Cestoda	4
+23485966	organism	Echinococcus multilocularis	2
+23485966	organism	Taenia solium	2
+23485966	organism	Hymenolepis microstoma	1
+23485966	organism	Trematoda	1
+23485966	sequence	genome	3
+23485966	sequence	region	1
+23485966	sequence	gene	1
+23485966	cell	stem cell	1
+23485966	organ/tissue	cestode	3
+23485966	organ/tissue	lobe of tail	1
+23485966	organ/tissue	animal hemisphere	1
+23485966	organ/tissue	multicellular organism	1

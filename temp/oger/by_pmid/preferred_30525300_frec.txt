@@ -1,0 +1,11 @@
+30525300	biological_process	biological regulation	1
+30525300	cellular_component	eyespot apparatus	1
+30525300	chemical	base	1
+30525300	disease	Disease	6
+30525300	disease	Disease Susceptibility	2
+30525300	disease	Genetic Predisposition to Disease	2
+30525300	disease	Neurodegenerative Diseases	2
+30525300	disease	Alzheimer Disease	2
+30525300	disease	Parkinson Disease	2
+30525300	sequence	base	1
+30525300	sequence	score	1

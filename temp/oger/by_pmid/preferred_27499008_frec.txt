@@ -1,0 +1,18 @@
+27499008	chemical	acid	1
+27499008	chemical	LPS with O-antigen	1
+27499008	chemical	lipopolysaccharide	1
+27499008	chemical	RNA, Ribosomal, 16S	1
+27499008	gene/protein	cardiolipin synthase A	1
+27499008	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+27499008	organism	Rhizobium favelukesii	5
+27499008	organism	Rhizobium	3
+27499008	organism	Medicago sativa	2
+27499008	organism	unidentified plasmid	1
+27499008	sequence	region	2
+27499008	sequence	plasmid	1
+27499008	sequence	rRNA_16S	1
+27499008	sequence	rRNA_gene	1
+27499008	organ/tissue	cerebellum vermis lobule X	1
+27499008	organ/tissue	germinal center	1
+27499008	organ/tissue	epidermal ridge of digit	1
+27499008	clinical_drug	Medicago sativa whole extract	1

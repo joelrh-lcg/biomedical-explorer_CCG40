@@ -1,0 +1,19 @@
+34097872	biological_process	biosynthetic process	1
+34097872	cellular_component	membrane	2
+34097872	chemical	lipid	4
+34097872	chemical	Cardiolipins	2
+34097872	chemical	cardiolipin(2-)	1
+34097872	chemical	cardiolipin synthetase	1
+34097872	chemical	cardiolipin	1
+34097872	gene/protein	Cardiolipin synthase	19
+34097872	gene/protein	cardiolipin synthase A	1
+34097872	molecular_function	phosphatidylglycerol-phosphatidylethanolamine phosphatidyltransferase activity	1
+34097872	molecular_function	CDP-diacylglycerol-phosphatidylglycerol phosphatidyltransferase activity	1
+34097872	organism	Archaea	1
+34097872	organism	archaeon	1
+34097872	organism	Methanospirillum hungatei	1
+34097872	organism	synthetic construct	1
+34097872	sequence	engineered_region	1
+34097872	sequence	mature_protein_region	1
+34097872	organ/tissue	membrane organ	2
+34097872	organ/tissue	membranous layer	2

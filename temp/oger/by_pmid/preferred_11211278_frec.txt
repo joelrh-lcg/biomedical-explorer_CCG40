@@ -1,0 +1,20 @@
+11211278	chemical	base	1
+11211278	chemical	sulfur atom	1
+11211278	chemical	DNA, Ribosomal	1
+11211278	gene/protein	synemin (human)	1
+11211278	gene/protein	synembryn-B	1
+11211278	gene/protein	alpha-synuclein	1
+11211278	gene/protein	synapsin (fruit fly)	1
+11211278	gene/protein	alpha-synuclein (mouse)	1
+11211278	gene/protein	synemin	1
+11211278	organism	Agrobacterium	8
+11211278	organism	Agrobacterium tumefaciens	6
+11211278	organism	Rhizobium	5
+11211278	organism	Agrobacterium rubi	4
+11211278	organism	Agrobacterium vitis	4
+11211278	organism	Rhizobium undicola	4
+11211278	organism	Rhizobiaceae	1
+11211278	organism	Sinorhizobium	1
+11211278	organism	synthetic construct	1
+11211278	sequence	base	1
+11211278	sequence	rRNA_gene	1

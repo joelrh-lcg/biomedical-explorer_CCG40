@@ -1,0 +1,27 @@
+26362781	chemical	nitrogen	2
+26362781	chemical	nucleotide	2
+26362781	chemical	16s	1
+26362781	chemical	16s rrna	1
+26362781	gene/protein	reca	14
+26362781	gene/protein	dnak	8
+26362781	gene/protein	gyrb	5
+26362781	gene/protein	nov	2
+26362781	gene/protein	LMG	1
+26362781	organism	bacterium	14
+26362781	organism	Bradyrhizobium	2
+26362781	organism	Bradyrhizobium elkanii	2
+26362781	organism	Bradyrhizobium viridifuturi	2
+26362781	organism	rhizobium	1
+26362781	organism	Acacia	1
+26362781	organism	cnpso 991	1
+26362781	organism	BR 1804	1
+26362781	organism	LMG 28866	1
+26362781	sequence	gene	3
+26362781	sequence	16s rrna	1
+26362781	sequence	sequence	1
+26362781	sequence	genome	1
+26362781	cell_line	reca	1
+26362781	cell_line	c 100	1
+26362781	organ/tissue	nodule	2
+26362781	clinical_drug	nitrogen	1
+26362781	clinical_drug	Acacia	1

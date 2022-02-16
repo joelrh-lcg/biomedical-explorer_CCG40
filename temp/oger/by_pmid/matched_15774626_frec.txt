@@ -1,0 +1,29 @@
+15774626	biological_process	homologous recombination	1
+15774626	chemical	glycine	5
+15774626	chemical	beta	2
+15774626	chemical	base	1
+15774626	chemical	alpha	1
+15774626	chemical	bta	1
+15774626	gene/protein	reca	14
+15774626	gene/protein	atpD	8
+15774626	gene/protein	nifH	2
+15774626	organism	legume	4
+15774626	organism	Canary	4
+15774626	organism	soybean	4
+15774626	organism	Bradyrhizobium japonicum	2
+15774626	organism	Bradyrhizobium canariense	2
+15774626	organism	Bradyrhizobium	2
+15774626	organism	bradyrhizobium	1
+15774626	organism	broom	1
+15774626	organism	Loteae	1
+15774626	organism	USDA 6	1
+15774626	organism	USDA 110	1
+15774626	organism	atcc baa1002	1
+15774626	sequence	sequence	3
+15774626	sequence	homologous	1
+15774626	sequence	glycine	1
+15774626	sequence	base	1
+15774626	sequence	allele	1
+15774626	cell_line	reca	1
+15774626	clinical_drug	soybean	4
+15774626	clinical_drug	glycine	1

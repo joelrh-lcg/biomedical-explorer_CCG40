@@ -1,0 +1,11 @@
+8374063	chemical	sigma 70	2
+8374063	chemical	base	1
+8374063	chemical	element	1
+8374063	chemical	proteins	1
+8374063	gene/protein	sigma 70	76
+8374063	molecular_function	binding	1
+8374063	sequence	promoter	5
+8374063	sequence	binding site	2
+8374063	sequence	operator	1
+8374063	sequence	base	1
+8374063	organ/tissue	element	1

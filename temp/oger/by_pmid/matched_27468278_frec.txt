@@ -1,0 +1,31 @@
+27468278	biological_process	transcription	3
+27468278	chemical	siga	5
+27468278	chemical	sigma factor	3
+27468278	chemical	complement	2
+27468278	chemical	4 be	2
+27468278	chemical	Sigma factor	1
+27468278	chemical	rna polymerase	1
+27468278	gene/protein	siga	25
+27468278	gene/protein	rpod	20
+27468278	gene/protein	hth	7
+27468278	gene/protein	rna	2
+27468278	organism	bacterium	7
+27468278	organism	e coli	6
+27468278	organism	αproteobacteria	3
+27468278	organism	Escherichia coli	2
+27468278	organism	Rhizobium etli	2
+27468278	organism	helix	2
+27468278	organism	γproteobacteria	1
+27468278	sequence	promoter	5
+27468278	sequence	motif	4
+27468278	sequence	helix	3
+27468278	sequence	promoter sequence	2
+27468278	sequence	strand	1
+27468278	sequence	gene	1
+27468278	sequence	consensus	1
+27468278	sequence	deficiency	1
+27468278	sequence	inside	1
+27468278	sequence	hth	1
+27468278	sequence	mutation	1
+27468278	sequence	sequence	1
+27468278	organ/tissue	helix	1

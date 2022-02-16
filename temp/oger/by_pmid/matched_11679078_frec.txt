@@ -1,0 +1,22 @@
+11679078	biological_process	transcription	2
+11679078	biological_process	regulation	1
+11679078	biological_process	mutagenesis	1
+11679078	chemical	ce3	1
+11679078	chemical	element	1
+11679078	gene/protein	repa	51
+11679078	gene/protein	repb	5
+11679078	gene/protein	repc	4
+11679078	gene/protein	lack	1
+11679078	organism	plasmid	3
+11679078	organism	Rhizobium etli	2
+11679078	sequence	operon	4
+11679078	sequence	plasmid	3
+11679078	sequence	gene	2
+11679078	sequence	replicon	1
+11679078	sequence	deletion	1
+11679078	sequence	transcription start site	1
+11679078	sequence	promoter region	1
+11679078	sequence	mutagenesis	1
+11679078	cell_line	ce3	1
+11679078	cell_line	repc	1
+11679078	organ/tissue	element	1

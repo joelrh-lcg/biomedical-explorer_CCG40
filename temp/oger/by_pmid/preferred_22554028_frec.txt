@@ -1,0 +1,3 @@
+22554028	chemical	Metronidazole	10
+22554028	sequence	gene	3
+22554028	organ/tissue	matrix compartment	1

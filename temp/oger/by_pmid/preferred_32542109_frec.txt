@@ -1,0 +1,23 @@
+32542109	biological_process	biological regulation	1
+32542109	chemical	gold(0)	1
+32542109	chemical	gold atom	1
+32542109	disease	Tuberculosis	2
+32542109	organism	bacterium IFAM-3211	2
+32542109	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+32542109	organism	bacterium IFAM-3215	2
+32542109	organism	bacterium IFAM-2074	2
+32542109	organism	bacterium IFAM-3359	2
+32542109	organism	bacterium	2
+32542109	organism	bacterium IFAM-1493	2
+32542109	organism	Bacillus subtilis	2
+32542109	organism	Escherichia coli	2
+32542109	organism	Corynebacterium glutamicum	2
+32542109	organism	Staphylococcus aureus	2
+32542109	organism	Pseudomonas aeruginosa	2
+32542109	organism	Streptococcus	2
+32542109	organism	bacterium 64	1
+32542109	sequence	gene	1
+32542109	sequence	genome	1
+32542109	sequence	regulon	1
+32542109	organ/tissue	vertebral bone 1	4
+32542109	clinical_drug	Bacillus subtilis	1

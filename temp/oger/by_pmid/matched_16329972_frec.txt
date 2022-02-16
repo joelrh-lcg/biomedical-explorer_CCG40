@@ -1,0 +1,14 @@
+16329972	chemical	molecule	2
+16329972	chemical	culture media	1
+16329972	gene/protein	protease	39
+16329972	gene/protein	et3	32
+16329972	gene/protein	et1	26
+16329972	organism	sugarcane	6
+16329972	organism	gluconacetobacter	3
+16329972	organism	gluconacetobacter diazotrophicus	2
+16329972	organism	Gluconacetobacter	1
+16329972	organism	plasmid	1
+16329972	organism	endophytic bacterium	1
+16329972	sequence	inside	2
+16329972	sequence	plasmid	1
+16329972	clinical_drug	sugarcane	4

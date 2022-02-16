@@ -1,0 +1,26 @@
+8491702	cellular_component	extracellular	1
+8491702	chemical	heteropolysaccharide	2
+8491702	chemical	beta	2
+8491702	chemical	exopolysaccharide	1
+8491702	chemical	glucan	1
+8491702	disease	EPS	1
+8491702	disease	eps	1
+8491702	gene/protein	spp	16
+8491702	gene/protein	grh	15
+8491702	gene/protein	exo	10
+8491702	gene/protein	Exo	5
+8491702	molecular_function	spp	1
+8491702	organism	Rhizobium sp	6
+8491702	organism	legume	2
+8491702	organism	Rhizobium leguminosarum	2
+8491702	organism	Acacia cyanophylla	1
+8491702	organism	trifolium	1
+8491702	organism	Acacia	1
+8491702	sequence	repeat unit	1
+8491702	sequence	insertion	1
+8491702	cell_line	tn5	1
+8491702	organ/tissue	nodule	6
+8491702	organ/tissue	EPS	1
+8491702	organ/tissue	eps	1
+8491702	organ/tissue	central zone	1
+8491702	clinical_drug	Acacia	2

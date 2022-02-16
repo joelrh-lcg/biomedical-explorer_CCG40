@@ -1,0 +1,54 @@
+19684068	biological_process	glyoxylate cycle	3
+19684068	biological_process	tricarboxylic acid cycle	2
+19684068	biological_process	pathogenesis	2
+19684068	biological_process	gluconeogenesis	1
+19684068	biological_process	biosynthetic process	1
+19684068	biological_process	obsolete virulence	1
+19684068	biological_process	viral process	1
+19684068	chemical	glyoxylic acid	15
+19684068	chemical	glyoxylate	5
+19684068	chemical	picloram	2
+19684068	chemical	trichloroacetic acid	2
+19684068	chemical	isocitric acid	2
+19684068	chemical	Succinic Acid	2
+19684068	chemical	malic acid	2
+19684068	chemical	tricarboxylic acid	1
+19684068	chemical	oxidooxomethyl	1
+19684068	chemical	cobalt(2+)	1
+19684068	chemical	carbon dioxide	1
+19684068	chemical	oxidocarbon(2+)	1
+19684068	chemical	Isocitrate Lyase	1
+19684068	chemical	Malate Synthase	1
+19684068	chemical	isocitrate	1
+19684068	chemical	isocitrate(3-)	1
+19684068	chemical	succinate(2-)	1
+19684068	chemical	succinate	1
+19684068	chemical	(S)-malic acid	1
+19684068	chemical	malate(2-)	1
+19684068	chemical	malate	1
+19684068	chemical	inhibitor	1
+19684068	disease	T-Lymphocytopenia, Idiopathic CD4-Positive	3
+19684068	disease	Mycoses	2
+19684068	gene/protein	Isocitrate lyase	180
+19684068	gene/protein	Malate synthase	7
+19684068	gene/protein	isocitrate lyase	4
+19684068	gene/protein	Putative isocitrate lyase subunit B	3
+19684068	gene/protein	isocitrate lyase (Escherichia coli K-12)	3
+19684068	gene/protein	Putative isocitrate lyase subunit A	3
+19684068	gene/protein	isocitrate lyase (Arabidopsis thaliana)	3
+19684068	gene/protein	Citramalyl-CoA lyase, mitochondrial	3
+19684068	gene/protein	citramalyl-CoA lyase, mitochondrial	1
+19684068	organism	Eukaryota	1
+19684068	organism	bacterium IFAM-3211	1
+19684068	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+19684068	organism	bacterium IFAM-3215	1
+19684068	organism	bacterium IFAM-2074	1
+19684068	organism	bacterium IFAM-3359	1
+19684068	organism	bacterium	1
+19684068	organism	bacterium IFAM-1493	1
+19684068	organism	Archaea	1
+19684068	organism	Humans	1
+19684068	sequence	cytoplasmic_polypeptide_region	1
+19684068	cell_line	BCIRL-TcA-CLG1	2
+19684068	organ/tissue	animal hemisphere	1
+19684068	organ/tissue	multicellular organism	1

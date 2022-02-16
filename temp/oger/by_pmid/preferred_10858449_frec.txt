@@ -1,0 +1,52 @@
+10858449	biological_process	methylation	2
+10858449	biological_process	phosphatidylcholine biosynthetic process	1
+10858449	biological_process	biosynthetic process	1
+10858449	chemical	picloram	6
+10858449	chemical	CDP-diacylglycerol choline O-phosphatidyltransferase	5
+10858449	chemical	Phosphatidylcholines	4
+10858449	chemical	Choline	4
+10858449	chemical	phosphatidylcholine	2
+10858449	chemical	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	2
+10858449	chemical	1,2-diacyl-sn-glycero-3-phosphocholine	2
+10858449	chemical	choline	2
+10858449	chemical	Cytidine Monophosphate	2
+10858449	chemical	phospholipid	1
+10858449	chemical	Lys-Glu-Glu	1
+10858449	chemical	cytidine 5'-monophosphate	1
+10858449	chemical	cytidine 5'-monophosphate(2-)	1
+10858449	chemical	Complement System Proteins	1
+10858449	chemical	lipid	1
+10858449	disease	PREMATURE CHROMATID SEPARATION TRAIT	1
+10858449	gene/protein	Phosphatidylcholine synthase	60
+10858449	gene/protein	phosphatidylcholine synthase	6
+10858449	gene/protein	methyl-accepting chemotaxis protein II	1
+10858449	gene/protein	methyl-accepting chemotaxis protein II (Escherichia coli K-12)	1
+10858449	gene/protein	11S globulin seed storage protein Ana o 2.0101	1
+10858449	gene/protein	cartilage matrix protein	1
+10858449	gene/protein	cartilage matrix protein (mouse)	1
+10858449	gene/protein	cartilage matrix protein (human)	1
+10858449	gene/protein	contactin-3 (mouse)	1
+10858449	gene/protein	phosphatidylcholine synthase (Agrobacterium fabrum str. C58)	1
+10858449	gene/protein	contactin-3	1
+10858449	gene/protein	SH3 domain-binding protein 5 homolog (fruit fly)	1
+10858449	gene/protein	5,7-dihydroxy-2-methylchromone synthase	1
+10858449	organism	Sinorhizobium meliloti	2
+10858449	organism	Escherichia coli	2
+10858449	organism	Pseudomonas aeruginosa	2
+10858449	organism	Eukaryota	1
+10858449	organism	Sinorhizobium	1
+10858449	organism	Borrelia burgdorferi	1
+10858449	organism	Borreliella burgdorferi	1
+10858449	sequence	gene	5
+10858449	sequence	enzymatic	1
+10858449	sequence	cosmid	1
+10858449	sequence	fragmentary	1
+10858449	sequence	genome	1
+10858449	sequence	wild_type	1
+10858449	cell	common myeloid progenitor, CD34-positive	1
+10858449	cell	common myeloid progenitor	1
+10858449	cell_line	CMP	1
+10858449	organ/tissue	posterior communicating artery	1
+10858449	organ/tissue	paracentral sulcus	1
+10858449	clinical_drug	Choline	2
+10858449	molecular_process	methylation	2

@@ -1,0 +1,19 @@
+25098225	chemical	base	1
+25098225	gene/protein	cardiolipin synthase A	1
+25098225	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+25098225	organism	Zea mays	2
+25098225	organism	Cupriavidus respiraculi	2
+25098225	organism	Cupriavidus plantarum	2
+25098225	organism	bacterium IFAM-3211	1
+25098225	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+25098225	organism	bacterium IFAM-3215	1
+25098225	organism	bacterium IFAM-2074	1
+25098225	organism	bacterium IFAM-3359	1
+25098225	organism	bacterium	1
+25098225	organism	bacterium IFAM-1493	1
+25098225	organism	bacterium BE	1
+25098225	organism	Agave	1
+25098225	organism	Sorghum bicolor	1
+25098225	organism	Sorghum	1
+25098225	organism	Cupriavidus	1
+25098225	sequence	base	1

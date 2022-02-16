@@ -1,0 +1,10 @@
+19712296	biological_process	symbiosis	1
+19712296	chemical	genetic marker	2
+19712296	chemical	tRNALeu	1
+19712296	gene/protein	pcr	16
+19712296	organism	nostoc	6
+19712296	organism	cyanobacteria	2
+19712296	organism	Macrozamia riedlei	1
+19712296	sequence	intron	2
+19712296	sequence	genetic marker	1
+19712296	organ/tissue	female	1

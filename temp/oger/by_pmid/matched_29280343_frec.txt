@@ -1,0 +1,44 @@
+29280343	biological_process	uptake	4
+29280343	biological_process	efflux	4
+29280343	biological_process	biological process	1
+29280343	biological_process	transport	1
+29280343	biological_process	transcription	1
+29280343	cellular_component	intracellular	1
+29280343	cellular_component	outer membrane	1
+29280343	cellular_component	protein	1
+29280343	chemical	copper	14
+29280343	chemical	micronutrient	3
+29280343	chemical	protein	2
+29280343	chemical	actp	2
+29280343	chemical	cofactor	1
+29280343	chemical	proteins	1
+29280343	chemical	fungicide	1
+29280343	chemical	omp	1
+29280343	chemical	alpha	1
+29280343	gene/protein	porin	16
+29280343	gene/protein	sup	7
+29280343	gene/protein	copa	7
+29280343	gene/protein	omp	6
+29280343	gene/protein	actp	5
+29280343	gene/protein	outer membrane protein	3
+29280343	gene/protein	pret	2
+29280343	gene/protein	sub	2
+29280343	gene/protein	crop	1
+29280343	molecular_function	actp	1
+29280343	molecular_function	porin	1
+29280343	organism	bacterium	7
+29280343	organism	Rhizobium	1
+29280343	organism	rhizobium	1
+29280343	organism	plasmid	1
+29280343	organism	Rhizobiaceae	1
+29280343	organism	alpha proteobacteria	1
+29280343	sequence	gene	4
+29280343	sequence	deletion	1
+29280343	sequence	plasmid	1
+29280343	sequence	protein	1
+29280343	sequence	paralog	1
+29280343	sequence	ortholog	1
+29280343	cell_line	copa	1
+29280343	organ/tissue	membrane	2
+29280343	organ/tissue	crop	1
+29280343	molecular_process	oxidation	1

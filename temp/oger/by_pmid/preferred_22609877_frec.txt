@@ -1,0 +1,23 @@
+22609877	biological_process	import into cell	1
+22609877	biological_process	import across plasma membrane	1
+22609877	biological_process	homeostatic process	1
+22609877	chemical	sulfate	3
+22609877	chemical	L-cysteinate residue	2
+22609877	chemical	L-cysteinyl radical residue	2
+22609877	chemical	cysteinyl radical	2
+22609877	chemical	cysteinate(1-)	2
+22609877	chemical	cysteine	2
+22609877	chemical	L-cysteino group	2
+22609877	chemical	L-cysteine	2
+22609877	chemical	L-cysteine residue	2
+22609877	chemical	L-cysteinyl group	2
+22609877	chemical	cadmium(2+)	1
+22609877	gene/protein	cysteine proteinase inhibitor 1 (Arabidopsis thaliana)	2
+22609877	gene/protein	cystatin-like protein (fruit fly)	2
+22609877	gene/protein	T-cell surface antigen CD2 (human)	1
+22609877	gene/protein	T-cell surface antigen CD2 (rat)	1
+22609877	gene/protein	T-cell surface antigen CD2 (mouse)	1
+22609877	gene/protein	CD2 molecule	1
+22609877	organism	Euglena gracilis	2
+22609877	sequence	cysteine	2
+22609877	organ/tissue	gracilis	1

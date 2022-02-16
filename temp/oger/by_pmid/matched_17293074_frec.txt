@@ -1,0 +1,26 @@
+17293074	chemical	dsm	1
+17293074	disease	CIP	1
+17293074	gene/protein	ssb	131
+17293074	gene/protein	recA	14
+17293074	gene/protein	rpoB	14
+17293074	gene/protein	CIP	8
+17293074	gene/protein	gyrA	7
+17293074	gene/protein	nov	2
+17293074	gene/protein	nifH	1
+17293074	organism	bacterium	7
+17293074	organism	Ensifer mexicanus	2
+17293074	organism	legume	1
+17293074	organism	Acacia angustissima	1
+17293074	organism	bacterium be	1
+17293074	organism	primer	1
+17293074	organism	CFN ER1001	1
+17293074	organism	HAMBI 2910	1
+17293074	organism	CIP 109033	1
+17293074	organism	atcc baa1312	1
+17293074	organism	dsm18446	1
+17293074	sequence	gene	2
+17293074	sequence	primer	1
+17293074	sequence	sequence	1
+17293074	cell_line	recA	1
+17293074	organ/tissue	ssb	1
+17293074	clinical_drug	Acacia	1

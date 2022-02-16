@@ -1,0 +1,16 @@
+33137872	biological_process	metabolism	1
+33137872	biological_process	carbohydrate metabolism	1
+33137872	chemical	sulfur	4
+33137872	chemical	carbohydrate	3
+33137872	chemical	cofactor	1
+33137872	chemical	vitamin	1
+33137872	organism	bacterium	28
+33137872	organism	bacteriophage	2
+33137872	organism	Caudovirales	1
+33137872	organism	Siphoviridae	1
+33137872	organism	Myoviridae	1
+33137872	organism	Podoviridae	1
+33137872	sequence	bacteriophage	1
+33137872	sequence	gene	1
+33137872	organ/tissue	organism	2
+33137872	clinical_drug	sulfur	1

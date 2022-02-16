@@ -1,0 +1,38 @@
+26358599	cellular_component	chromosome	1
+26358599	chemical	Cellulase	1
+26358599	gene/protein	Endoglucanase	19
+26358599	gene/protein	Endoglucanase EG-1	4
+26358599	gene/protein	Endoglucanase 1	3
+26358599	gene/protein	Endoglucanase EG-II	2
+26358599	gene/protein	Endoglucanase A	2
+26358599	gene/protein	Endoglucanase Cel12A	1
+26358599	gene/protein	Putative endoglucanase type F	1
+26358599	gene/protein	Major extracellular endoglucanase	1
+26358599	gene/protein	Putative endoglucanase type K	1
+26358599	gene/protein	Endoglucanase E	1
+26358599	gene/protein	Putative endoglucanase X	1
+26358599	gene/protein	Endoglucanase Cel5A	1
+26358599	gene/protein	endoglucanase	1
+26358599	gene/protein	Endoglucanase-1	1
+26358599	gene/protein	Probable endoglucanase	1
+26358599	gene/protein	Endoglucanase CelA	1
+26358599	gene/protein	Endoglucanase B	1
+26358599	gene/protein	Endo-beta-1,4-glucanase	1
+26358599	gene/protein	Endoglucanase 2	1
+26358599	gene/protein	Endoglucanase type C	1
+26358599	gene/protein	Putative endoglucanase type B	1
+26358599	organism	Klebsiella variicola	2
+26358599	organism	Zea mays	2
+26358599	organism	Musa acuminata	1
+26358599	organism	Musa x paradisiaca	1
+26358599	organism	Musa	1
+26358599	organism	unidentified plasmid	1
+26358599	sequence	genome	2
+26358599	sequence	region	1
+26358599	sequence	circular	1
+26358599	sequence	chromosome	1
+26358599	sequence	plasmid	1
+26358599	sequence	gene	1
+26358599	cell_line	29a	1
+26358599	clinical_drug	banana allergenic extract	1
+26358599	clinical_drug	banana	1

@@ -1,0 +1,27 @@
+2892829	chemical	Ammonium Compounds	10
+2892829	chemical	ammonium	5
+2892829	chemical	Glutamic Acid	4
+2892829	chemical	NADP	2
+2892829	chemical	glutamate(2-)	2
+2892829	chemical	L-glutamic acid	2
+2892829	chemical	glutamate(1-)	2
+2892829	chemical	glutamic acid	2
+2892829	chemical	Glutamate-Ammonia Ligase	1
+2892829	chemical	NADPH(4-)	1
+2892829	chemical	NADPH	1
+2892829	chemical	picloram	1
+2892829	chemical	Glutamate Dehydrogenase	1
+2892829	chemical	Glutamate Synthase	1
+2892829	chemical	organic acid	1
+2892829	chemical	nitrogen atom	1
+2892829	chemical	nitrogen(.)	1
+2892829	gene/protein	Glutamine synthetase	164
+2892829	gene/protein	Glutamate dehydrogenase	16
+2892829	gene/protein	glutamine synthetase	1
+2892829	gene/protein	Catabolic NAD-specific glutamate dehydrogenase RocG	1
+2892829	molecular_function	glutamate synthase activity	1
+2892829	organism	Rhizobium phaseoli	2
+2892829	sequence	glutamine	1
+2892829	clinical_drug	Glutamate	4
+2892829	clinical_drug	Glutamine	1
+2892829	clinical_drug	Nitrogen	1

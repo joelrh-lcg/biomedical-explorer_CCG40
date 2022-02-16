@@ -1,0 +1,42 @@
+19017108	biological_process	signaling	2
+19017108	biological_process	gene expression	1
+19017108	biological_process	regulation of gene expression	1
+19017108	biological_process	transcription, DNA-templated	1
+19017108	biological_process	signal transduction	1
+19017108	biological_process	biological regulation	1
+19017108	chemical	Phosphorus	2
+19017108	chemical	phosphorus(.)	1
+19017108	chemical	phosphorus atom	1
+19017108	chemical	tetraphosphorus	1
+19017108	chemical	atom	1
+19017108	chemical	picloram	1
+19017108	disease	Starvation	6
+19017108	gene/protein	Luc7-like protein (Dictyostelium discoideum)	3
+19017108	gene/protein	Protein BEAN1	2
+19017108	gene/protein	coatomer subunit epsilon (Dictyostelium discoideum)	1
+19017108	gene/protein	E3 ubiquitin-protein ligase MYCBP2	1
+19017108	gene/protein	deoxyribodipyrimidine photo-lyase (Arabidopsis thaliana)	1
+19017108	gene/protein	pH-responsive protein 1 (Candida albicans SC5314)	1
+19017108	gene/protein	pleckstrin homology domain-containing family B member 1 (mouse)	1
+19017108	gene/protein	pleckstrin homology domain-containing family B member 1 (human)	1
+19017108	gene/protein	pleckstrin homology domain-containing family B member 1	1
+19017108	gene/protein	E3 ubiquitin-protein ligase MYCBP2 (mouse)	1
+19017108	gene/protein	protein PHOSPHATE STARVATION RESPONSE 1 (Arabidopsis thaliana)	1
+19017108	gene/protein	deoxyribodipyrimidine photo-lyase, mitochondrial (yeast)	1
+19017108	gene/protein	probable WRKY transcription factor 75 (Arabidopsis thaliana)	1
+19017108	gene/protein	zinc finger protein ZAT6 (Arabidopsis thaliana)	1
+19017108	gene/protein	transcription factor AIG1 (Arabidopsis thaliana)	1
+19017108	gene/protein	Transcription factor AIG1	1
+19017108	gene/protein	protein BEAN	1
+19017108	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+19017108	organism	Arabidopsis	3
+19017108	organism	Fabaceae	2
+19017108	organism	Medicago truncatula	2
+19017108	organism	Arabidopsis thaliana	1
+19017108	organism	Lupinus	1
+19017108	sequence	gene	3
+19017108	sequence	chromosomal_deletion	1
+19017108	cell_line	R1192	1
+19017108	organ/tissue	crop	3
+19017108	organ/tissue	organ	1
+19017108	organ/tissue	posterior hypothalamic region	1

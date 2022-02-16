@@ -1,0 +1,22 @@
+18791003	chemical	glycine	5
+18791003	gene/protein	recA	14
+18791003	gene/protein	rpob	14
+18791003	gene/protein	atpD	8
+18791003	gene/protein	map	6
+18791003	gene/protein	max	1
+18791003	gene/protein	as B	1
+18791003	gene/protein	as b	1
+18791003	organism	Bradyrhizobium	2
+18791003	organism	glycine max	2
+18791003	organism	soybean	2
+18791003	organism	usda110	2
+18791003	sequence	clone	2
+18791003	sequence	sequence	1
+18791003	sequence	glycine	1
+18791003	sequence	mutation	1
+18791003	sequence	intermediate	1
+18791003	cell_line	recA	1
+18791003	organ/tissue	nodule	2
+18791003	clinical_drug	soybean	2
+18791003	clinical_drug	glycine	1
+18791003	entity_type	term	2

@@ -1,0 +1,59 @@
+26211831	biological_process	animal organ development	2
+26211831	biological_process	nodulation	2
+26211831	biological_process	transcription, DNA-templated	1
+26211831	biological_process	symbiotic process	1
+26211831	biological_process	biological regulation	1
+26211831	cellular_component	obsolete HA2 clathrin adaptor	3
+26211831	gene/protein	E3 ubiquitin-protein ligase MYLIP	16
+26211831	gene/protein	Transcription factor AP-2-alpha	15
+26211831	gene/protein	Sphingosine-1-phosphate lyase	5
+26211831	gene/protein	MLX-interacting protein	4
+26211831	gene/protein	MLX-interacting protein (human)	4
+26211831	gene/protein	E3 ubiquitin-protein ligase MARCH8 (mouse)	4
+26211831	gene/protein	Miraculin	4
+26211831	gene/protein	Insulin-like receptor	4
+26211831	gene/protein	E3 ubiquitin-protein ligase MARCH8 (human)	4
+26211831	gene/protein	MLX-interacting protein (mouse)	4
+26211831	gene/protein	E3 ubiquitin-protein ligase MARCH8	4
+26211831	gene/protein	E3 ubiquitin-protein ligase MYLIP-A (zebrafish)	4
+26211831	gene/protein	Protein BEAN1	4
+26211831	gene/protein	fatty acid-binding protein, adipocyte	3
+26211831	gene/protein	Fatty acid-binding protein, adipocyte	3
+26211831	gene/protein	fatty acid-binding protein, adipocyte (mouse)	3
+26211831	gene/protein	transcription factor AP-2-alpha	3
+26211831	gene/protein	floral homeotic protein APETALA 2 (Arabidopsis thaliana)	3
+26211831	gene/protein	Probable sphingosine-1-phosphate lyase	3
+26211831	gene/protein	Sphingosine-1-phosphate lyase 1	2
+26211831	gene/protein	glycogen debranching enzyme (rabbit)	2
+26211831	gene/protein	alpha-glucosidase Agl1 (Schizosaccharomyces pombe 972h-)	2
+26211831	gene/protein	glycogen debranching enzyme	2
+26211831	gene/protein	glycogen debranching enzyme (human)	2
+26211831	gene/protein	Alpha-glucosidase	2
+26211831	gene/protein	protein BEAN	2
+26211831	gene/protein	ETS domain-containing transcription factor ERF (human)	1
+26211831	gene/protein	ETS domain-containing transcription factor ERF	1
+26211831	gene/protein	ETS domain-containing transcription factor ERF (mouse)	1
+26211831	gene/protein	ethylene-responsive transcription factor	1
+26211831	gene/protein	sphingosine-1-phosphate lyase (fruit fly)	1
+26211831	gene/protein	sphingosine-1-phosphate lyase 1 (rat)	1
+26211831	gene/protein	sphingosine-1-phosphate lyase 1 (mouse)	1
+26211831	gene/protein	sphingosine-1-phosphate lyase 1	1
+26211831	gene/protein	protein SPOROCYTELESS (Arabidopsis thaliana)	1
+26211831	gene/protein	adenylyl cyclase-associated protein (Schizosaccharomyces pombe 972h-)	1
+26211831	gene/protein	cAMP-activated global transcriptional regulator CRP (Escherichia coli K-12)	1
+26211831	gene/protein	adenylyl cyclase-associated protein (Dictyostelium discoideum)	1
+26211831	gene/protein	catabolite gene activator	1
+26211831	gene/protein	cAMP-activated global transcriptional regulator CRP (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	1
+26211831	gene/protein	calphotin (fruit fly)	1
+26211831	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+26211831	organism	Phaseolus	1
+26211831	organism	Phaseolus vulgaris	1
+26211831	organism	Fabaceae	1
+26211831	sequence	cap	1
+26211831	cell_line	CRO-AP2	3
+26211831	cell_line	AP2	3
+26211831	cell_line	R1192	2
+26211831	cell_line	SPACH	1
+26211831	organ/tissue	primitive knot	1
+26211831	organ/tissue	cerebellum vermis lobule X	1
+26211831	organ/tissue	germinal center	1

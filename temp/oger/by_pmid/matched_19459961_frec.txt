@@ -1,0 +1,22 @@
+19459961	biological_process	drought tolerance	3
+19459961	biological_process	trehalose biosynthesis	2
+19459961	chemical	trehalose	20
+19459961	chemical	transform	4
+19459961	chemical	nacl	1
+19459961	chemical	disaccharide	1
+19459961	gene/protein	crop	2
+19459961	gene/protein	grass	1
+19459961	organism	bacterium	14
+19459961	organism	maize	10
+19459961	organism	Azospirillum brasilense	2
+19459961	organism	Saccharomyces cerevisiae	2
+19459961	organism	Azospirillum	1
+19459961	organism	plasmid	1
+19459961	organism	strain a 73	1
+19459961	organism	yeast	1
+19459961	sequence	plasmid	1
+19459961	sequence	gene	1
+19459961	organ/tissue	crop	2
+19459961	clinical_drug	trehalose	5
+19459961	clinical_drug	Saccharomyces cerevisiae	2
+19459961	clinical_drug	yeast	1

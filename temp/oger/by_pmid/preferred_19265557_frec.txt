@@ -1,0 +1,5 @@
+19265557	chemical	fumarate	1
+19265557	chemical	fumarate(2-)	1
+19265557	chemical	Nitrate Reductase	1
+19265557	gene/protein	Nitrate reductase	5
+19265557	organism	Escherichia coli	2

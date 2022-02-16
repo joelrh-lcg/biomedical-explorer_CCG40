@@ -1,0 +1,21 @@
+30867545	chemical	RNA, Ribosomal, 16S	1
+30867545	chemical	antifungal agent	1
+30867545	disease	Infections	2
+30867545	organism	bacterium IFAM-3211	3
+30867545	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+30867545	organism	bacterium IFAM-3215	3
+30867545	organism	bacterium IFAM-2074	3
+30867545	organism	bacterium IFAM-3359	3
+30867545	organism	bacterium	3
+30867545	organism	bacterium IFAM-1493	3
+30867545	organism	bacterium BE	1
+30867545	organism	Amphibians	1
+30867545	sequence	rRNA_16S	1
+30867545	sequence	rRNA_gene	1
+30867545	sequence	PCR_product	1
+30867545	sequence	score	1
+30867545	cell_line	Frog-HSA	5
+30867545	organ/tissue	integument	4
+30867545	organ/tissue	zone of skin	4
+30867545	organ/tissue	skin epidermis	4
+30867545	organ/tissue	skin of body	4

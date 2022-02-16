@@ -1,0 +1,20 @@
+28721334	biological_process	symbiosis	1
+28721334	chemical	trna	2
+28721334	chemical	rrna	1
+28721334	disease	cds	1
+28721334	gene/protein	cds	51
+28721334	gene/protein	bean	3
+28721334	gene/protein	Lima	1
+28721334	molecular_function	trna	1
+28721334	organism	Lima bean	1
+28721334	sequence	genome	2
+28721334	sequence	cds	1
+28721334	sequence	trna	1
+28721334	sequence	rrna gene	1
+28721334	sequence	gene	1
+28721334	sequence	sequence	1
+28721334	sequence	accession	1
+28721334	cell_line	Lima	1
+28721334	cell_line	bean	1
+28721334	organ/tissue	nodule	4
+28721334	clinical_drug	Lima bean	1

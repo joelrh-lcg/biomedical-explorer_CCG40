@@ -1,0 +1,29 @@
+7711895	chemical	galactose	3
+7711895	chemical	lps	3
+7711895	chemical	lipopolysaccharide	2
+7711895	chemical	polysaccharide	1
+7711895	chemical	exopolysaccharide	1
+7711895	chemical	a dna	1
+7711895	chemical	udpglucose 4epimerase	1
+7711895	disease	eps	2
+7711895	disease	lps	1
+7711895	gene/protein	grh	30
+7711895	gene/protein	galE	7
+7711895	gene/protein	gale	7
+7711895	gene/protein	lps	2
+7711895	gene/protein	lack	1
+7711895	organism	Rhizobium sp	6
+7711895	organism	Acacia	2
+7711895	organism	Rhizobium leguminosarum	2
+7711895	organism	transposon tn5	1
+7711895	organism	Rhizobium sp grh2	1
+7711895	organism	legume	1
+7711895	sequence	sequence	2
+7711895	sequence	homologous	2
+7711895	sequence	transposon	1
+7711895	sequence	insertion	1
+7711895	cell_line	tn5	2
+7711895	organ/tissue	nodule	2
+7711895	organ/tissue	eps	2
+7711895	clinical_drug	Acacia	2
+7711895	clinical_drug	galactose	1

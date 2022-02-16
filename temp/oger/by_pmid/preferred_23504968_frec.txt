@@ -1,0 +1,28 @@
+23504968	chemical	talose	1
+23504968	gene/protein	Tryptophan 2,3-dioxygenase B	1
+23504968	gene/protein	cardiolipin synthase A	1
+23504968	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+23504968	gene/protein	DNA replication protein DnaC (Escherichia coli K-12)	1
+23504968	gene/protein	probable transaldolase (fruit fly)	1
+23504968	gene/protein	peptide tarsal-less 1A (fruit fly)	1
+23504968	gene/protein	peptide tarsal-less AA (fruit fly)	1
+23504968	gene/protein	probable transaldolase (Clostridium botulinum A str. Hall)	1
+23504968	gene/protein	transaldolase	1
+23504968	gene/protein	transaldolase (human)	1
+23504968	gene/protein	E3 ubiquitin-protein ligase LRSAM1 (human)	1
+23504968	gene/protein	E3 ubiquitin-protein ligase LRSAM1	1
+23504968	gene/protein	transaldolase (mouse)	1
+23504968	gene/protein	probable transaldolase (Leptospira interrogans serovar Lai str. 56601)	1
+23504968	gene/protein	probable transaldolase (Dictyostelium discoideum)	1
+23504968	gene/protein	peptide tarsal-less 2A (fruit fly)	1
+23504968	gene/protein	peptide tarsal-less 3A (fruit fly)	1
+23504968	gene/protein	biotin carboxylase	1
+23504968	gene/protein	biotin carboxylase (Escherichia coli K-12)	1
+23504968	organism	Bradyrhizobium diazoefficiens	16
+23504968	organism	Bradyrhizobium japonicum	3
+23504968	organism	Glycine max	2
+23504968	organism	Soybeans	2
+23504968	organism	Fabaceae	1
+23504968	organism	Bradyrhizobium	1
+23504968	clinical_drug	Soybean preparation	2
+23504968	clinical_drug	Soybean	2

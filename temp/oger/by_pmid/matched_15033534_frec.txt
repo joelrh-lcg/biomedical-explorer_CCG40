@@ -1,0 +1,32 @@
+15033534	biological_process	protein synthesis	1
+15033534	biological_process	cell growth	1
+15033534	biological_process	gene expression	1
+15033534	cellular_component	chromosome	1
+15033534	cellular_component	protein	1
+15033534	chemical	protein	2
+15033534	chemical	initiation codon	1
+15033534	gene/protein	pth	783
+15033534	gene/protein	bar	4
+15033534	gene/protein	orf	2
+15033534	gene/protein	protein	1
+15033534	gene/protein	hoc	1
+15033534	organism	bacterium	14
+15033534	organism	bacteriophage lambda	2
+15033534	organism	phage	2
+15033534	sequence	gene	4
+15033534	sequence	sequence	3
+15033534	sequence	construct	3
+15033534	sequence	phage	2
+15033534	sequence	clone	2
+15033534	sequence	strand	2
+15033534	sequence	chromosome	1
+15033534	sequence	bacteriophage	1
+15033534	sequence	protein	1
+15033534	sequence	orf	1
+15033534	sequence	genome	1
+15033534	sequence	genomic dna	1
+15033534	sequence	initiation codon	1
+15033534	sequence	clone insert	1
+15033534	organ/tissue	bar	4
+15033534	organ/tissue	lambda	4
+15033534	organ/tissue	pth	1

@@ -1,0 +1,6 @@
+19291210	biological_process	secondary metabolism	1
+19291210	gene/protein	spp	16
+19291210	molecular_function	spp	1
+19291210	organism	bacterium	7
+19291210	organism	Pseudomonas	2
+19291210	entity_type	term	2

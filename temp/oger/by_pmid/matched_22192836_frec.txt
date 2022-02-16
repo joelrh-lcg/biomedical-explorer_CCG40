@@ -1,0 +1,44 @@
+22192836	cellular_component	ser	1
+22192836	chemical	gly	7
+22192836	chemical	ser	4
+22192836	chemical	pnpp	4
+22192836	chemical	PTC	4
+22192836	chemical	Acetylthiocholine	3
+22192836	chemical	butyrate	3
+22192836	chemical	acetylcholinesterase	2
+22192836	chemical	propionylthiocholine	2
+22192836	chemical	ptc	2
+22192836	chemical	butyrylcholine	2
+22192836	chemical	pnpb	2
+22192836	chemical	pao	1
+22192836	chemical	cholinesterase	1
+22192836	chemical	signal peptide	1
+22192836	chemical	inhibitor	1
+22192836	chemical	ester	1
+22192836	chemical	propionate	1
+22192836	chemical	propionylcholinesterase	1
+22192836	disease	ache	8
+22192836	disease	PTC	2
+22192836	disease	ptc	1
+22192836	gene/protein	ache	112
+22192836	gene/protein	PTC	48
+22192836	gene/protein	acetylcholinesterase	46
+22192836	gene/protein	ptc	24
+22192836	gene/protein	cholinesterase	12
+22192836	gene/protein	pao1	4
+22192836	gene/protein	ser	3
+22192836	gene/protein	atc	2
+22192836	gene/protein	signal peptide	1
+22192836	gene/protein	ATC	1
+22192836	organism	Pseudomonas aeruginosa	2
+22192836	organism	Zea mays	2
+22192836	organism	artificial	1
+22192836	organism	Pseudomonas	1
+22192836	sequence	gene	2
+22192836	sequence	genome	1
+22192836	sequence	signal peptide	1
+22192836	sequence	ser	1
+22192836	sequence	gly	1
+22192836	cell_line	gly	1
+22192836	organ/tissue	pao	1
+22192836	molecular_process	hydrolysis	1

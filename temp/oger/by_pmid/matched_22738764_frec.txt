@@ -1,0 +1,42 @@
+22738764	cellular_component	protein	1
+22738764	chemical	zinc	5
+22738764	chemical	phosphatidylethanolamine	4
+22738764	chemical	cardiolipin	3
+22738764	chemical	arsenic	3
+22738764	chemical	nitrogen	2
+22738764	chemical	protein	2
+22738764	chemical	phosphatidylglycerol	2
+22738764	chemical	copper	2
+22738764	chemical	tcip	2
+22738764	chemical	16s rrna	1
+22738764	chemical	fatty acid	1
+22738764	chemical	c12	1
+22738764	chemical	lipid	1
+22738764	chemical	aminolipid	1
+22738764	gene/protein	asc	24
+22738764	gene/protein	ω	2
+22738764	gene/protein	nov	2
+22738764	gene/protein	lack	1
+22738764	gene/protein	nifH	1
+22738764	gene/protein	noda	1
+22738764	gene/protein	protein	1
+22738764	gene/protein	slv	1
+22738764	gene/protein	c12	1
+22738764	gene/protein	polar	1
+22738764	gene/protein	lmg	1
+22738764	organism	Cupriavidus	3
+22738764	organism	strain asc732	2
+22738764	organism	Cupriavidus alkaliphilus	2
+22738764	organism	necator	1
+22738764	organism	unknown	1
+22738764	organism	alkaliphilus sp	1
+22738764	organism	lmg 26294	1
+22738764	sequence	16s rrna	1
+22738764	sequence	rrna gene	1
+22738764	sequence	sequence	1
+22738764	sequence	gene	1
+22738764	sequence	protein	1
+22738764	cell_line	c12	3
+22738764	cell_line	noda	1
+22738764	clinical_drug	nitrogen	1
+22738764	clinical_drug	zinc	1

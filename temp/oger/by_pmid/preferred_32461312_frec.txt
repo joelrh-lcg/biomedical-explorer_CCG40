@@ -1,0 +1,30 @@
+32461312	cellular_component	viral nucleocapsid	2
+32461312	cellular_component	cytoplasm	1
+32461312	chemical	Anti-Bacterial Agents	2
+32461312	chemical	antimicrobial agent	1
+32461312	disease	Coinfection	2
+32461312	gene/protein	Acyl carrier protein AcpXL	4
+32461312	gene/protein	120.7 kDa protein in NOF-FB transposable element (fruit fly)	4
+32461312	organism	Bacteriophages	17
+32461312	organism	bacterium IFAM-3211	3
+32461312	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+32461312	organism	bacterium IFAM-3215	3
+32461312	organism	bacterium IFAM-2074	3
+32461312	organism	bacterium IFAM-3359	3
+32461312	organism	bacterium	3
+32461312	organism	bacterium IFAM-1493	3
+32461312	organism	Azospira oryzae	1
+32461312	organism	Methanobrevibacter smithii	1
+32461312	organism	unidentified plasmid	1
+32461312	organism	Prophages	1
+32461312	sequence	phage_sequence	17
+32461312	sequence	gene	6
+32461312	sequence	ORF	5
+32461312	sequence	genome	4
+32461312	sequence	fragmentary	2
+32461312	sequence	homologous	1
+32461312	sequence	engineered_region	1
+32461312	sequence	plasmid	1
+32461312	sequence	translocation	1
+32461312	sequence	prophage	1
+32461312	sequence	orphan	1

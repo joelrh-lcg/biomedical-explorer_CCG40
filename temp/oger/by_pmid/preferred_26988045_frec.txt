@@ -1,0 +1,18 @@
+26988045	organism	Bradyrhizobium sp. NC92	1
+26988045	organism	Bradyrhizobium sp. RP501	1
+26988045	organism	Bradyrhizobium sp.	1
+26988045	organism	Bradyrhizobium sp. SNU001	1
+26988045	organism	Bradyrhizobium sp. ANU 289	1
+26988045	organism	bacterium IFAM-3211	1
+26988045	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+26988045	organism	bacterium IFAM-3215	1
+26988045	organism	bacterium IFAM-2074	1
+26988045	organism	bacterium IFAM-3359	1
+26988045	organism	bacterium	1
+26988045	organism	bacterium IFAM-1493	1
+26988045	organism	Phaseolus microcarpus	1
+26988045	organism	Phaseolus	1
+26988045	sequence	genome	2
+26988045	sequence	region	2
+26988045	organ/tissue	cerebellum vermis lobule X	1
+26988045	organ/tissue	germinal center	1

@@ -1,0 +1,29 @@
+30227648	biological_process	gene expression	1
+30227648	biological_process	heart development	1
+30227648	biological_process	signaling pathway	1
+30227648	biological_process	signaling	1
+30227648	chemical	noncoding rna	1
+30227648	chemical	molecule	1
+30227648	chemical	proteins	1
+30227648	chemical	modulator	1
+30227648	chemical	microrna	1
+30227648	chemical	mirna	1
+30227648	chemical	long noncoding rna	1
+30227648	chemical	lncrna	1
+30227648	chemical	opioid receptor	1
+30227648	chemical	pathway	1
+30227648	disease	ncrna	3
+30227648	disease	Cardiovascular disease	2
+30227648	disease	coronary artery disease	2
+30227648	disease	myocardial infarction	2
+30227648	disease	disease	2
+30227648	gene/protein	cad	30
+30227648	gene/protein	rna	6
+30227648	sequence	ncrna	3
+30227648	sequence	noncoding rna	2
+30227648	sequence	gene	1
+30227648	sequence	microrna	1
+30227648	sequence	mirna	1
+30227648	cell	cardiomyocyte	1
+30227648	cell_line	cad	1
+30227648	organ/tissue	coronary artery	1

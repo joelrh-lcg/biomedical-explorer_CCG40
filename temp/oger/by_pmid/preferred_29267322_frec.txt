@@ -1,0 +1,35 @@
+29267322	biological_process	pathogenesis	1
+29267322	biological_process	obsolete virulence	1
+29267322	biological_process	viral process	1
+29267322	chemical	Ciprofloxacin	2
+29267322	chemical	4,4-difluororetinoic acid	2
+29267322	chemical	antimicrobial drug	1
+29267322	chemical	ciprofloxacin	1
+29267322	chemical	antimicrobial agent	1
+29267322	disease	Infections	2
+29267322	disease	Disease Susceptibility	2
+29267322	gene/protein	Protochlorophyllide reductase, chloroplastic	10
+29267322	gene/protein	Light-dependent protochlorophyllide reductase	4
+29267322	gene/protein	Protochlorophyllide reductase	2
+29267322	gene/protein	arylacetamide deacetylase	2
+29267322	gene/protein	arylacetamide deacetylase (mouse)	2
+29267322	gene/protein	arylacetamide deacetylase (rat)	2
+29267322	gene/protein	LIM domain-containing protein A (Dictyostelium discoideum)	1
+29267322	gene/protein	mediator of RNA polymerase II transcription subunit 10 (zebrafish)	1
+29267322	gene/protein	Transcription factor kayak, isoforms D/sro	1
+29267322	gene/protein	dihydroflavonol 4-reductase (Arabidopsis thaliana)	1
+29267322	gene/protein	Transcription factor kayak, isoforms A/B/F	1
+29267322	gene/protein	MAPK phosphothreonine lyase (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	1
+29267322	gene/protein	Prespore vesicle protein	1
+29267322	organism	Salmonella enterica	2
+29267322	organism	Salmonella	1
+29267322	organism	unidentified plasmid	1
+29267322	sequence	region	1
+29267322	sequence	RAPD	1
+29267322	sequence	intermediate	1
+29267322	sequence	integron	1
+29267322	sequence	plasmid	1
+29267322	sequence	substitute	1
+29267322	cell_line	LIMA 97	1
+29267322	organ/tissue	epidermal ridge of digit	1
+29267322	clinical_drug	Ciprofloxacin	1

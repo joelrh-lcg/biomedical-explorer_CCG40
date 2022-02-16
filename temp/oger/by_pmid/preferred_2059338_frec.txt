@@ -1,0 +1,4 @@
+2059338	chemical	peptide	1
+2059338	gene/protein	proteolytic cleavage product	1
+2059338	gene/protein	amino acid chain	1
+2059338	sequence	active_peptide	1

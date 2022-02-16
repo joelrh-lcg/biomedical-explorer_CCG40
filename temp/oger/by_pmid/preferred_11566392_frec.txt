@@ -1,0 +1,38 @@
+11566392	biological_process	methylation	3
+11566392	biological_process	biosynthetic process	1
+11566392	cellular_component	membrane	1
+11566392	chemical	picloram	9
+11566392	chemical	Choline	4
+11566392	chemical	phosphatidylethanolamine	3
+11566392	chemical	Phosphatidylcholines	2
+11566392	chemical	choline	2
+11566392	chemical	phosphatidylcholine	1
+11566392	chemical	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	1
+11566392	chemical	1,2-diacyl-sn-glycero-3-phosphocholine	1
+11566392	chemical	phospholipid	1
+11566392	chemical	(S)-1,2-distearoylphosphatidylethanolaminium	1
+11566392	chemical	CDP-diacylglycerol choline O-phosphatidyltransferase	1
+11566392	gene/protein	Phosphatidylcholine synthase	30
+11566392	gene/protein	phosphatidylcholine synthase	3
+11566392	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+11566392	organism	bacterium IFAM-3211	3
+11566392	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+11566392	organism	bacterium IFAM-3215	3
+11566392	organism	bacterium IFAM-2074	3
+11566392	organism	bacterium IFAM-3359	3
+11566392	organism	bacterium	3
+11566392	organism	bacterium IFAM-1493	3
+11566392	organism	Eukaryota	2
+11566392	organism	Sinorhizobium meliloti	2
+11566392	organism	Pseudomonas aeruginosa	2
+11566392	organism	Legionella pneumophila	2
+11566392	organism	Spirochaetales	1
+11566392	organism	Borrelia burgdorferi	1
+11566392	organism	Borreliella burgdorferi	1
+11566392	sequence	enzymatic	2
+11566392	sequence	gene	2
+11566392	sequence	genome	1
+11566392	organ/tissue	membrane organ	1
+11566392	organ/tissue	membranous layer	1
+11566392	clinical_drug	Choline	2
+11566392	molecular_process	methylation	3

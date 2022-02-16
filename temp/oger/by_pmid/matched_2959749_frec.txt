@@ -1,0 +1,43 @@
+2959749	biological_process	tricarboxylic acid cycle	2
+2959749	biological_process	synthesis	1
+2959749	biological_process	glutamate synthesis	1
+2959749	chemical	glutamate	18
+2959749	chemical	methionine	10
+2959749	chemical	glycine	10
+2959749	chemical	ammonium	9
+2959749	chemical	am132	8
+2959749	chemical	serine	8
+2959749	chemical	glutamine	4
+2959749	chemical	inhibitor	3
+2959749	chemical	carbon	2
+2959749	chemical	tricarboxylic acid	2
+2959749	chemical	glutamate dehydrogenase	1
+2959749	chemical	glutamine synthetase	1
+2959749	chemical	glutamate synthase	1
+2959749	chemical	organic acid	1
+2959749	gene/protein	glutamine synthetase	123
+2959749	gene/protein	GDH	55
+2959749	gene/protein	gdh	55
+2959749	gene/protein	glutamate dehydrogenase	17
+2959749	gene/protein	MSF	5
+2959749	gene/protein	msf	5
+2959749	gene/protein	gogat	4
+2959749	gene/protein	GOGAT	4
+2959749	gene/protein	glyr	1
+2959749	molecular_function	gogat activity	2
+2959749	molecular_function	GDH	1
+2959749	molecular_function	gdh	1
+2959749	organism	Neurospora crassa	2
+2959749	sequence	mutation	2
+2959749	sequence	serine	2
+2959749	sequence	methionine	2
+2959749	sequence	glutamine	2
+2959749	sequence	glycine	2
+2959749	sequence	intermediate	2
+2959749	sequence	deletion	1
+2959749	sequence	gene	1
+2959749	clinical_drug	glutamate	5
+2959749	clinical_drug	serine	2
+2959749	clinical_drug	methionine	2
+2959749	clinical_drug	glutamine	2
+2959749	clinical_drug	glycine	2

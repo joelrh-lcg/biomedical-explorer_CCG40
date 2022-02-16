@@ -1,0 +1,38 @@
+28541477	biological_process	gene conversion	2
+28541477	biological_process	RNA modification	1
+28541477	cellular_component	nucleus	5
+28541477	cellular_component	mitochondrion	2
+28541477	cellular_component	mitochondrial chromosome	2
+28541477	cellular_component	obsolete protein	1
+28541477	chemical	atomic nucleus	5
+28541477	chemical	Ribosomal Proteins	1
+28541477	chemical	DNA, Mitochondrial	1
+28541477	disease	PREGNANCY LOSS, RECURRENT, SUSCEPTIBILITY TO, 1	4
+28541477	gene/protein	60S ribosomal protein L5 (fruit fly)	4
+28541477	gene/protein	60S ribosomal protein L5 (worm)	4
+28541477	gene/protein	60S ribosomal protein L5 (rat)	4
+28541477	gene/protein	60S ribosomal protein L5 (human)	4
+28541477	gene/protein	60S ribosomal protein L5 (chicken)	4
+28541477	gene/protein	60S ribosomal protein L5	4
+28541477	gene/protein	60S ribosomal protein L5 (mouse)	4
+28541477	gene/protein	60S ribosomal protein L5 (yeast)	4
+28541477	gene/protein	60S ribosomal protein L5 (Dictyostelium discoideum)	4
+28541477	gene/protein	50S ribosomal protein L5, chloroplastic (Arabidopsis thaliana)	4
+28541477	gene/protein	60S ribosomal protein L5, mitochondrial (Arabidopsis thaliana)	4
+28541477	gene/protein	serine protease grass (fruit fly)	4
+28541477	gene/protein	protein	1
+28541477	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+28541477	gene/protein	ribonuclease I	1
+28541477	molecular_function	structural constituent of ribosome	1
+28541477	organism	Magnoliopsida	2
+28541477	organism	Poaceae	1
+28541477	sequence	gene	8
+28541477	sequence	mt_gene	3
+28541477	sequence	polypeptide	1
+28541477	sequence	insertion	1
+28541477	sequence	mitochondrial_DNA	1
+28541477	sequence	intron	1
+28541477	sequence	intron_variant	1
+28541477	sequence	genome	1
+28541477	sequence	region	1
+28541477	organ/tissue	neural nucleus	5

@@ -1,0 +1,13 @@
+1857210	biological_process	biosynthetic process	2
+1857210	disease	Myoclonic Epilepsies, Progressive	1
+1857210	gene/protein	Flavohemoprotein	43
+1857210	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+1857210	gene/protein	CTD small phosphatase-like protein (chicken)	1
+1857210	gene/protein	flavohemoprotein	1
+1857210	gene/protein	kinesin-like protein Nod (fruit fly)	1
+1857210	organism	unidentified plasmid	8
+1857210	organism	Rhizobium phaseoli	2
+1857210	organism	Rhizobium etli	1
+1857210	organism	Rhizobium	1
+1857210	sequence	plasmid	8
+1857210	sequence	gene	1

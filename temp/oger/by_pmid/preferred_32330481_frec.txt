@@ -1,0 +1,14 @@
+32330481	cellular_component	obsolete protein	8
+32330481	chemical	protein	10
+32330481	chemical	(protein)	8
+32330481	gene/protein	protein	8
+32330481	gene/protein	bifunctional protein FolD	5
+32330481	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	5
+32330481	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	5
+32330481	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	5
+32330481	sequence	polypeptide	8
+32330481	sequence	fragmentary	5
+32330481	sequence	duplication	1
+32330481	sequence	polypeptide_domain	1
+32330481	sequence	homologous	1
+32330481	organ/tissue	webbed interdigital region	1

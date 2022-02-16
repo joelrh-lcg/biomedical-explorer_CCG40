@@ -1,0 +1,15 @@
+18638408	chemical	urease	4
+18638408	disease	brucellosis	2
+18638408	gene/protein	urease	40
+18638408	gene/protein	spp	16
+18638408	gene/protein	ure1	2
+18638408	gene/protein	ure2	2
+18638408	molecular_function	spp	1
+18638408	organism	Brucella suis	2
+18638408	organism	strain 1330	2
+18638408	organism	Brucella	1
+18638408	sequence	sequence	1
+18638408	sequence	genome	1
+18638408	sequence	operon	1
+18638408	sequence	enzymatic	1
+18638408	organ/tissue	serum	1

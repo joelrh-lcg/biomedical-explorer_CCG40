@@ -1,0 +1,44 @@
+18771575	biological_process	signalling	2
+18771575	biological_process	transcription	1
+18771575	biological_process	regulation	1
+18771575	biological_process	rnai	1
+18771575	biological_process	transport	1
+18771575	biological_process	homeostasis	1
+18771575	biological_process	signalling pathway	1
+18771575	chemical	phosphorus	5
+18771575	chemical	mirna	2
+18771575	chemical	ubiquitin	2
+18771575	chemical	element	1
+18771575	chemical	nutrient	1
+18771575	chemical	Dana	1
+18771575	chemical	microrna	1
+18771575	chemical	pathway	1
+18771575	chemical	conjugase	1
+18771575	disease	Farber	2
+18771575	disease	Cancer	2
+18771575	gene/protein	bean	18
+18771575	gene/protein	mir	13
+18771575	gene/protein	ubiquitin	11
+18771575	gene/protein	conjugase	9
+18771575	gene/protein	myb	6
+18771575	gene/protein	Bean	3
+18771575	gene/protein	crop	2
+18771575	gene/protein	Dana	2
+18771575	gene/protein	atphr1	2
+18771575	molecular_function	transcription factor	1
+18771575	molecular_function	ubiquitin	1
+18771575	organism	Arabidopsis thaliana	2
+18771575	organism	rice	2
+18771575	organism	Phaseolus vulgari	1
+18771575	organism	legume	1
+18771575	organism	human	1
+18771575	sequence	gene	2
+18771575	sequence	mirna	2
+18771575	sequence	ortholog	1
+18771575	sequence	microrna	1
+18771575	cell_line	bean	6
+18771575	cell_line	Cancer	1
+18771575	cell_line	Bean	1
+18771575	organ/tissue	crop	2
+18771575	organ/tissue	element	1
+18771575	clinical_drug	rice	1

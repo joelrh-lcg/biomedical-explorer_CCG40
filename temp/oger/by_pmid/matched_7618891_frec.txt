@@ -1,0 +1,17 @@
+7618891	chemical	nucleotide	1
+7618891	chemical	16s rrna	1
+7618891	gene/protein	bean	3
+7618891	organism	legume	2
+7618891	organism	Phaseolus vulgaris	2
+7618891	organism	Rhizobium etli	2
+7618891	organism	Rhizobium	1
+7618891	organism	strain all	1
+7618891	organism	Albizia lebbeck	1
+7618891	organism	Gliricidia maculata	1
+7618891	organism	leucaena leucocephala	1
+7618891	sequence	sequence	1
+7618891	sequence	16s rrna	1
+7618891	sequence	rrna gene	1
+7618891	sequence	gene segment	1
+7618891	cell_line	bean	1
+7618891	organ/tissue	segment	1

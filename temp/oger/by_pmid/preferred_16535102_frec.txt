@@ -1,0 +1,15 @@
+16535102	biological_process	fertilization	1
+16535102	chemical	nitrogen atom	1
+16535102	chemical	nitrogen(.)	1
+16535102	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+16535102	organism	Gluconacetobacter diazotrophicus	2
+16535102	organism	Saccharum	1
+16535102	organism	Saccharum officinarum	1
+16535102	organism	Saccharum hybrid cultivar	1
+16535102	organism	Acetobacter aceti	1
+16535102	organism	Gluconacetobacter liquefaciens	1
+16535102	organism	Acetobacter	1
+16535102	organ/tissue	crop	1
+16535102	clinical_drug	sugarcane extract	1
+16535102	clinical_drug	Saccharum officinarum allergenic extract	1
+16535102	clinical_drug	Nitrogen	1

@@ -1,0 +1,33 @@
+33384681	biological_process	nitrogen fixation	2
+33384681	biological_process	export across plasma membrane	1
+33384681	biological_process	export from cell	1
+33384681	biological_process	metabolic process	1
+33384681	biological_process	symbiotic process	1
+33384681	cellular_component	efflux pump complex	1
+33384681	chemical	nitrogen atom	2
+33384681	chemical	nitrogen(.)	2
+33384681	chemical	physiological role	1
+33384681	chemical	cerium(3+)	1
+33384681	chemical	nodulation factor	1
+33384681	chemical	diphenylmethane-4,4'-diisocyanate	1
+33384681	disease	Myoclonic Epilepsies, Progressive	1
+33384681	gene/protein	Flavohemoprotein	43
+33384681	gene/protein	Protein BEAN1	4
+33384681	gene/protein	U1 small nuclear ribonucleoprotein A (fruit fly)	3
+33384681	gene/protein	protein BEAN	2
+33384681	gene/protein	transcriptional regulatory protein OmpR (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	1
+33384681	gene/protein	transcriptional regulatory protein OmpR (Escherichia coli K-12)	1
+33384681	gene/protein	transcriptional regulatory protein OmpR	1
+33384681	gene/protein	Transcriptional regulator	1
+33384681	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+33384681	gene/protein	flavohemoprotein	1
+33384681	gene/protein	kinesin-like protein Nod (fruit fly)	1
+33384681	gene/protein	cytochrome c oxidase subunit 1 homolog, bacteroid (Sinorhizobium meliloti 1021)	1
+33384681	molecular_function	retinol dehydrogenase activity	1
+33384681	sequence	gene	5
+33384681	sequence	genome	1
+33384681	cell_line	R1192	2
+33384681	cell_line	CE-3	1
+33384681	organ/tissue	cerebellum vermis lobule X	3
+33384681	organ/tissue	germinal center	3
+33384681	clinical_drug	Nitrogen	2

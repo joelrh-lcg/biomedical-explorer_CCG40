@@ -1,0 +1,14 @@
+16902033	chemical	16s rrna	2
+16902033	chemical	fatty acid	1
+16902033	gene/protein	nov	2
+16902033	gene/protein	lmg	1
+16902033	organism	maize	4
+16902033	organism	sugarcane	3
+16902033	organism	Burkholderia	2
+16902033	organism	Burkholderia silvatlantica	2
+16902033	organism	strain srmrh20	1
+16902033	organism	lmg 23149	1
+16902033	sequence	16s rrna	2
+16902033	sequence	rrna gene	2
+16902033	sequence	sequence	2
+16902033	clinical_drug	sugarcane	2

@@ -1,0 +1,19 @@
+2882477	chemical	nucleotide	2
+2882477	chemical	Glutamate-Ammonia Ligase	1
+2882477	disease	Pneumonia	2
+2882477	gene/protein	Glutamine synthetase	122
+2882477	gene/protein	sensory histidine kinase/phosphatase NtrB (Escherichia coli K-12)	2
+2882477	gene/protein	sensory histidine kinase/phosphatase NtrB	2
+2882477	gene/protein	DNA-binding transcriptional regulator NtrC	2
+2882477	gene/protein	DNA-binding transcriptional regulator NtrC (Escherichia coli K-12)	2
+2882477	gene/protein	thioredoxin reductase 1, mitochondrial (Arabidopsis thaliana)	1
+2882477	gene/protein	NADPH-dependent thioredoxin reductase 3 (Arabidopsis thaliana)	1
+2882477	gene/protein	glutamine synthetase	1
+2882477	organism	Escherichia coli	2
+2882477	organism	Klebsiella	1
+2882477	sequence	region	2
+2882477	sequence	operon	2
+2882477	sequence	gene	2
+2882477	sequence	glutamine	1
+2882477	sequence	polypeptide_domain	1
+2882477	clinical_drug	Glutamine	1

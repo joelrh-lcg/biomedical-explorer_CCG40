@@ -1,0 +1,63 @@
+16840530	biological_process	transcription, DNA-templated	1
+16840530	biological_process	cellular process	1
+16840530	biological_process	biosynthetic process	1
+16840530	biological_process	transport	1
+16840530	biological_process	SOS response	1
+16840530	biological_process	biological regulation	1
+16840530	cellular_component	cell projection	1
+16840530	chemical	Arginine	2
+16840530	chemical	Ribose	2
+16840530	chemical	Phosphates	2
+16840530	chemical	atom	1
+16840530	chemical	L-arginine	1
+16840530	chemical	argininium(1+)	1
+16840530	chemical	arginine	1
+16840530	chemical	D-ribofuranose	1
+16840530	chemical	ribose	1
+16840530	chemical	alpha-D-ribose	1
+16840530	chemical	beta-D-ribopyranose	1
+16840530	chemical	alpha-amino acid	1
+16840530	chemical	amino acid	1
+16840530	chemical	iron atom	1
+16840530	chemical	phosphate	1
+16840530	chemical	phosphate)	1
+16840530	chemical	phosphate ion	1
+16840530	chemical	phosphate(3-)	1
+16840530	chemical	phosphoric acid	1
+16840530	chemical	hydrogenphosphate	1
+16840530	gene/protein	Importin subunit beta-2	12
+16840530	gene/protein	transportin-1	6
+16840530	gene/protein	transportin-1 (human)	6
+16840530	gene/protein	Keratin, type I cytoskeletal 12	4
+16840530	gene/protein	secreted and transmembrane protein 1	1
+16840530	gene/protein	secreted and transmembrane protein 1 (human)	1
+16840530	gene/protein	secreted and transmembrane protein 1b	1
+16840530	gene/protein	keratin, type I cytoskeletal 12	1
+16840530	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+16840530	gene/protein	protein son of sevenless (fruit fly)	1
+16840530	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+16840530	organism	bacterium IFAM-3211	5
+16840530	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	5
+16840530	organism	bacterium IFAM-3215	5
+16840530	organism	bacterium IFAM-2074	5
+16840530	organism	bacterium IFAM-3359	5
+16840530	organism	bacterium	5
+16840530	organism	bacterium IFAM-1493	5
+16840530	organism	Bacillus subtilis	2
+16840530	organism	Escherichia coli K12	1
+16840530	organism	Archaea	1
+16840530	organism	Eukaryota	1
+16840530	organism	bacterium BE	1
+16840530	sequence	regulon	2
+16840530	sequence	genome	1
+16840530	sequence	candidate_gene	1
+16840530	sequence	arginine	1
+16840530	sequence	amino_acid	1
+16840530	cell_line	K12 [Mouse osteosarcoma]	1
+16840530	cell_line	K12-72.1	1
+16840530	organ/tissue	terminal nerve	6
+16840530	organ/tissue	multicellular organism	2
+16840530	organ/tissue	organ	1
+16840530	clinical_drug	Bacillus subtilis	1
+16840530	clinical_drug	Arginine	1
+16840530	clinical_drug	Iron	1

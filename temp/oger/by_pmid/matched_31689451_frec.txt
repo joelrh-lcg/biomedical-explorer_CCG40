@@ -1,0 +1,14 @@
+31689451	cellular_component	chromosome	2
+31689451	chemical	element	1
+31689451	gene/protein	pret	2
+31689451	organism	plasmid	9
+31689451	organism	Sinorhizobium fredii	2
+31689451	organism	Rhizobium etli	2
+31689451	organism	CFN42	1
+31689451	sequence	plasmid	9
+31689451	sequence	chromosome	2
+31689451	sequence	signal	2
+31689451	sequence	genome	1
+31689451	sequence	gene	1
+31689451	sequence	orit	1
+31689451	organ/tissue	element	1

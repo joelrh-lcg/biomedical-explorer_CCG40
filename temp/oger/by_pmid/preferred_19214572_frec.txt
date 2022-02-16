@@ -1,0 +1,21 @@
+19214572	chemical	Albendazole	10
+19214572	chemical	albendazole	5
+19214572	chemical	2,6-diisopropylnaphthalene	1
+19214572	chemical	alpha-amino acid	1
+19214572	chemical	amino acid	1
+19214572	chemical	protein	1
+19214572	gene/protein	kinetochore-associated protein 1	2
+19214572	organism	Giardia intestinalis	1
+19214572	organism	Giardia lamblia	1
+19214572	organism	Pseudoclostridium thermosuccinogenes	1
+19214572	sequence	sequence_variant_obs	5
+19214572	sequence	region	4
+19214572	sequence	gene	3
+19214572	sequence	polypeptide_domain	3
+19214572	sequence	polypeptide_repeat	2
+19214572	sequence	polypeptide_nest_motif	1
+19214572	sequence	mature_protein_region	1
+19214572	sequence	PCR_product	1
+19214572	sequence	amino_acid	1
+19214572	clinical_drug	Albendazole	5
+19214572	molecular_process	chain reaction	1

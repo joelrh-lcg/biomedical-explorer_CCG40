@@ -1,0 +1,25 @@
+22836136	biological_process	transcription, DNA-templated	3
+22836136	cellular_component	chromatin	1
+22836136	chemical	Chromatin	1
+22836136	gene/protein	Krev interaction trapped protein 1	1
+22836136	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	2
+22836136	molecular_function	transcription factor binding	1
+22836136	organism	Drosophila puberula	1
+22836136	organism	Scaptomyza undulata	1
+22836136	organism	Drosophila albipalpis	1
+22836136	organism	Drosophila orthophallata	1
+22836136	organism	Drosophila gracilipalpis	1
+22836136	organism	Drosophila malayana	1
+22836136	organism	Drosophila qiongzhouensis	1
+22836136	organism	Drosophila dissimilis	1
+22836136	organism	Drosophila	1
+22836136	organism	Drosophila anomalata	1
+22836136	sequence	polypeptide_conserved_motif	5
+22836136	sequence	polypeptide_motif	5
+22836136	sequence	region	3
+22836136	sequence	TF_binding_site	1
+22836136	sequence	polypeptide_region	1
+22836136	sequence	genome	1
+22836136	cell_line	UtE-iPS-1	1
+22836136	cell_line	MIN	1
+22836136	organ/tissue	webbed interdigital region	1

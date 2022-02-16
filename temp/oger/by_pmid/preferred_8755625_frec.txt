@@ -1,0 +1,28 @@
+8755625	biological_process	nodulation	2
+8755625	biological_process	sulfation	1
+8755625	biological_process	obsolete mutagenesis	1
+8755625	chemical	sulfate	3
+8755625	chemical	nodulation factor	3
+8755625	chemical	3'-phospho-5'-adenylyl sulfate	2
+8755625	chemical	mixture	1
+8755625	chemical	3'-phosphonato-5'-adenylyl sulfate(4-)	1
+8755625	chemical	Complement System Proteins	1
+8755625	disease	Myoclonic Epilepsies, Progressive	3
+8755625	gene/protein	Flavohemoprotein	129
+8755625	gene/protein	Protein BEAN1	6
+8755625	gene/protein	flavohemoprotein	3
+8755625	gene/protein	kinesin-like protein Nod (fruit fly)	3
+8755625	gene/protein	protein BEAN	3
+8755625	gene/protein	nuclear poly(A) polymerase 3 (Arabidopsis thaliana)	1
+8755625	organism	Rhizobium tropici	2
+8755625	organism	Rhizobium leucaenae	1
+8755625	organism	Phaseolus	1
+8755625	organism	Phaseolus vulgaris	1
+8755625	sequence	gene	4
+8755625	sequence	clone	2
+8755625	sequence	polypeptide_conserved_motif	2
+8755625	sequence	polypeptide_motif	2
+8755625	sequence	region	1
+8755625	sequence	homologous	1
+8755625	sequence	mutated_variant_site	1
+8755625	cell_line	R1192	3

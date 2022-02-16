@@ -1,0 +1,15 @@
+8905154	biological_process	biological regulation	3
+8905154	biological_process	regulation of gene expression	1
+8905154	chemical	RNA polymerase sigma 70	6
+8905154	chemical	base	2
+8905154	chemical	dimethoxymethane	1
+8905154	gene/protein	RNA polymerase sigma factor RpoD	210
+8905154	gene/protein	RNA polymerase sigma factor SigA	18
+8905154	organism	collection	3
+8905154	organism	Escherichia coli	2
+8905154	organism	Salmonella	1
+8905154	sequence	promoter	7
+8905154	sequence	gene	3
+8905154	sequence	base	2
+8905154	sequence	linear	1
+8905154	organ/tissue	multicellular organism	1

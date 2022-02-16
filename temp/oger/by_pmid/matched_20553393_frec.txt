@@ -1,0 +1,30 @@
+20553393	biological_process	posttranscriptional regulation of gene expression	1
+20553393	chemical	mirna	15
+20553393	chemical	manganese	8
+20553393	chemical	phosphorus	5
+20553393	chemical	nitrogen	2
+20553393	chemical	microrna	1
+20553393	chemical	oligonucleotide	1
+20553393	chemical	iron	1
+20553393	chemical	cluster	1
+20553393	chemical	miRNA	1
+20553393	gene/protein	bean	15
+20553393	organism	legume	2
+20553393	organism	Phaseolus vulgari	1
+20553393	organism	common bean plant	1
+20553393	sequence	mirna	15
+20553393	sequence	microrna	1
+20553393	sequence	gene	1
+20553393	sequence	oligonucleotide	1
+20553393	sequence	deficiency	1
+20553393	sequence	miRNA	1
+20553393	sequence	target gene	1
+20553393	sequence	reverse	1
+20553393	sequence	chain	1
+20553393	cell_line	bean	5
+20553393	organ/tissue	nodule	2
+20553393	organ/tissue	organ	2
+20553393	clinical_drug	manganese	2
+20553393	clinical_drug	nitrogen	1
+20553393	clinical_drug	iron	1
+20553393	molecular_process	chain reaction	1

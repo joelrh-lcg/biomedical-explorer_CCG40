@@ -1,0 +1,39 @@
+33320440	biological_process	digestion	2
+33320440	biological_process	degradation	1
+33320440	biological_process	synthesis	1
+33320440	biological_process	viral infection	1
+33320440	biological_process	cellulose degradation	1
+33320440	cellular_component	cellulosome	1
+33320440	chemical	cellulose	6
+33320440	chemical	metabolite	2
+33320440	chemical	biofuel	2
+33320440	chemical	vitamin	1
+33320440	chemical	antimetabolite	1
+33320440	chemical	cellulase	1
+33320440	chemical	pectinase	1
+33320440	chemical	tannase	1
+33320440	chemical	nitrogenase	1
+33320440	disease	viral infection	2
+33320440	gene/protein	cellulase	46
+33320440	gene/protein	protease	39
+33320440	gene/protein	pectinase	33
+33320440	gene/protein	xylanase	16
+33320440	gene/protein	tannase	2
+33320440	molecular_function	xylanase	1
+33320440	organism	bacterium	28
+33320440	organism	koala	2
+33320440	organism	rabbit	2
+33320440	organism	lactobacillus plantarum	2
+33320440	organism	fungus	1
+33320440	organism	tortoise	1
+33320440	organism	Clostridium	1
+33320440	organism	microbial inoculant	1
+33320440	sequence	enzymatic	2
+33320440	sequence	inside	1
+33320440	organ/tissue	gut	12
+33320440	organ/tissue	animal	10
+33320440	organ/tissue	intestinal tract	2
+33320440	organ/tissue	tissue	1
+33320440	organ/tissue	faeces	1
+33320440	clinical_drug	cellulose	2
+33320440	clinical_drug	rabbit	1

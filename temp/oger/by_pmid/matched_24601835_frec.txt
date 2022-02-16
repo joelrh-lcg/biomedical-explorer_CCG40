@@ -1,0 +1,25 @@
+24601835	biological_process	metabolism	4
+24601835	biological_process	biosynthesis	1
+24601835	biological_process	transport	1
+24601835	biological_process	degradation	1
+24601835	biological_process	symbiosis	1
+24601835	biological_process	regulation	1
+24601835	biological_process	amino acid transport	1
+24601835	chemical	amino acid	12
+24601835	chemical	nitrogen	6
+24601835	chemical	sulfur	4
+24601835	chemical	carbon	2
+24601835	chemical	proteins	1
+24601835	chemical	metabolite	1
+24601835	gene/protein	precursor	2
+24601835	organism	bacterium	7
+24601835	organism	Rhizobium	1
+24601835	organism	Sinorhizobium	1
+24601835	organism	Mesorhizobium	1
+24601835	organism	Azorhizobium	1
+24601835	organism	Bradyrhizobium	1
+24601835	sequence	amino acid	6
+24601835	sequence	signal	2
+24601835	sequence	genome	1
+24601835	clinical_drug	nitrogen	3
+24601835	clinical_drug	sulfur	1

@@ -1,0 +1,16 @@
+33193246	biological_process	regulation	2
+33193246	biological_process	cellular nitrogen compound metabolic process	1
+33193246	biological_process	macromolecule metabolic process	1
+33193246	chemical	cellodextrin	3
+33193246	chemical	base	2
+33193246	chemical	nitrogen	2
+33193246	chemical	cellulase	1
+33193246	chemical	cluster	1
+33193246	chemical	macromolecule	1
+33193246	gene/protein	cellulase	46
+33193246	gene/protein	hub	7
+33193246	sequence	gene	4
+33193246	sequence	base	2
+33193246	organ/tissue	organism	1
+33193246	clinical_drug	nitrogen	1
+33193246	entity_type	term	4

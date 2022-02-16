@@ -1,0 +1,22 @@
+12361275	chemical	erythromycin	4
+12361275	chemical	antibiotic	3
+12361275	chemical	carbenicillin	3
+12361275	chemical	kanamycin	3
+12361275	chemical	16s rrna	1
+12361275	chemical	rrna	1
+12361275	gene/protein	ml1	12
+12361275	gene/protein	nov	2
+12361275	gene/protein	lmg	1
+12361275	organism	bacterium	7
+12361275	organism	Sinorhizobium morelense	2
+12361275	organism	Sinorhizobium	2
+12361275	organism	Leucaena leucocephala	1
+12361275	sequence	rrna gene	2
+12361275	sequence	sequence	2
+12361275	sequence	16s rrna	1
+12361275	sequence	restriction fragment	1
+12361275	cell_line	ml1	6
+12361275	cell_line	lc04	1
+12361275	organ/tissue	nodule	4
+12361275	clinical_drug	kanamycin	1
+12361275	clinical_drug	erythromycin	1

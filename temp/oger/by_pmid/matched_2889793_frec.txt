@@ -1,0 +1,28 @@
+2889793	biological_process	transduction	1
+2889793	biological_process	synthesis	1
+2889793	cellular_component	chromosome	1
+2889793	chemical	methylammonium	6
+2889793	chemical	nitrogen	4
+2889793	chemical	glutamine	4
+2889793	chemical	glutamine synthetase	4
+2889793	chemical	ammonium	3
+2889793	chemical	nh4cl	1
+2889793	gene/protein	glutamine synthetase	492
+2889793	gene/protein	k12	9
+2889793	gene/protein	map	6
+2889793	gene/protein	4cl	5
+2889793	gene/protein	glna	3
+2889793	molecular_function	4cl	1
+2889793	molecular_function	glutamine synthetase activity	1
+2889793	organism	bacteriophage	2
+2889793	organism	e coli	2
+2889793	organism	Escherichia coli k12	1
+2889793	sequence	glutamine	5
+2889793	sequence	mutation	2
+2889793	sequence	bacteriophage	1
+2889793	sequence	inside	1
+2889793	sequence	gene	1
+2889793	sequence	chromosome	1
+2889793	cell_line	k12	2
+2889793	clinical_drug	glutamine	5
+2889793	clinical_drug	nitrogen	2

@@ -1,0 +1,20 @@
+32284321	biological_process	regulation	2
+32284321	chemical	proteins	4
+32284321	chemical	sodium deoxycholate	3
+32284321	chemical	bile salt	2
+32284321	gene/protein	Lrp	22
+32284321	gene/protein	lrp	11
+32284321	gene/protein	HNS	4
+32284321	gene/protein	add	3
+32284321	gene/protein	transcriptional regulator	2
+32284321	gene/protein	hns	2
+32284321	organism	bacterium	21
+32284321	organism	archaea	1
+32284321	sequence	promoter	3
+32284321	sequence	transcript	2
+32284321	sequence	signal	2
+32284321	sequence	fusion	1
+32284321	sequence	gene	1
+32284321	cell	eukaryotic cell	1
+32284321	organ/tissue	bile	1
+32284321	clinical_drug	deoxycholate	1

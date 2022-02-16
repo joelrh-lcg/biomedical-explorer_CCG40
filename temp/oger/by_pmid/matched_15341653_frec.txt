@@ -1,0 +1,30 @@
+15341653	biological_process	biosynthesis	4
+15341653	biological_process	formation	4
+15341653	cellular_component	membrane	2
+15341653	cellular_component	protein	1
+15341653	chemical	ornithine	12
+15341653	chemical	lipid	9
+15341653	chemical	phosphate	8
+15341653	chemical	phosphorus	5
+15341653	chemical	protein	2
+15341653	chemical	phospholipid	1
+15341653	chemical	carrier	1
+15341653	chemical	acyl donor	1
+15341653	gene/protein	protein	1
+15341653	molecular_function	carrier	1
+15341653	molecular_function	acyltransferase activity	1
+15341653	organism	bacterium	14
+15341653	organism	eubacteria	2
+15341653	organism	Rhizobium meliloti	2
+15341653	organism	Escherichia coli	2
+15341653	organism	Sinorhizobium	1
+15341653	sequence	gene	3
+15341653	sequence	protein	1
+15341653	sequence	donor	1
+15341653	sequence	intermediate	1
+15341653	sequence	vector	1
+15341653	sequence	homologous	1
+15341653	sequence	operon	1
+15341653	organ/tissue	membrane	4
+15341653	organ/tissue	organism	2
+15341653	clinical_drug	ornithine	3

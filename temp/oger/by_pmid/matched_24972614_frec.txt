@@ -1,0 +1,34 @@
+24972614	chemical	Nitrogen	3
+24972614	chemical	nitrogen	2
+24972614	chemical	nutrient	1
+24972614	chemical	nucleotide	1
+24972614	gene/protein	rpoa	20
+24972614	gene/protein	reca	14
+24972614	gene/protein	bean	9
+24972614	gene/protein	prf	6
+24972614	gene/protein	gyrb	5
+24972614	gene/protein	nov	2
+24972614	gene/protein	crop	1
+24972614	gene/protein	lmg	1
+24972614	organism	bacterium	7
+24972614	organism	legume	2
+24972614	organism	strain prf 35	2
+24972614	organism	Rhizobium tropici	2
+24972614	organism	Rhizobium paranaense	2
+24972614	organism	Phaseolus vulgari	1
+24972614	organism	plant common bean	1
+24972614	organism	Rhizobium	1
+24972614	organism	Leucaena leucocephala	1
+24972614	organism	Leucaena esculenta	1
+24972614	organism	cnpso 120	1
+24972614	organism	lmg 27577	1
+24972614	sequence	sequence	2
+24972614	sequence	genome	1
+24972614	cell_line	bean	3
+24972614	cell_line	reca	1
+24972614	cell_line	120t	1
+24972614	organ/tissue	nodule	2
+24972614	organ/tissue	crop	1
+24972614	clinical_drug	Nitrogen	1
+24972614	clinical_drug	nitrogen	1
+24972614	entity_type	term	2

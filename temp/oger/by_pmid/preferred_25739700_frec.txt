@@ -1,0 +1,41 @@
+25739700	biological_process	nodulation	5
+25739700	biological_process	symbiotic process	3
+25739700	biological_process	nitrogen fixation	2
+25739700	biological_process	transcription, DNA-templated	1
+25739700	biological_process	obsolete senescence	1
+25739700	cellular_component	obsolete HA2 clathrin adaptor	1
+25739700	chemical	MicroRNAs	3
+25739700	chemical	nitrogen atom	2
+25739700	chemical	nitrogen(.)	2
+25739700	chemical	2-acetyl-1-pyrroline	1
+25739700	chemical	Transcription Factor AP-2	1
+25739700	chemical	nitrate	1
+25739700	disease	Infections	4
+25739700	gene/protein	E3 ubiquitin-protein ligase MYLIP	40
+25739700	gene/protein	MLX-interacting protein	10
+25739700	gene/protein	MLX-interacting protein (human)	10
+25739700	gene/protein	E3 ubiquitin-protein ligase MARCH8 (mouse)	10
+25739700	gene/protein	Miraculin	10
+25739700	gene/protein	Insulin-like receptor	10
+25739700	gene/protein	E3 ubiquitin-protein ligase MARCH8 (human)	10
+25739700	gene/protein	MLX-interacting protein (mouse)	10
+25739700	gene/protein	E3 ubiquitin-protein ligase MARCH8	10
+25739700	gene/protein	E3 ubiquitin-protein ligase MYLIP-A (zebrafish)	10
+25739700	gene/protein	Protein BEAN1	8
+25739700	gene/protein	Transcription factor AP-2-alpha	5
+25739700	gene/protein	protein BEAN	4
+25739700	gene/protein	transcription factor AP-2-alpha	1
+25739700	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+25739700	organism	Phaseolus	1
+25739700	organism	Fabaceae	1
+25739700	organism	Humans	1
+25739700	sequence	miRNA	3
+25739700	sequence	gene	3
+25739700	sequence	transgenic	1
+25739700	cell_line	R1192	4
+25739700	cell_line	CRO-AP2	1
+25739700	cell_line	AP2	1
+25739700	organ/tissue	cerebellum vermis lobule X	6
+25739700	organ/tissue	germinal center	6
+25739700	organ/tissue	primitive knot	1
+25739700	clinical_drug	Nitrogen	2

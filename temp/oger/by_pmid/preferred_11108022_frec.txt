@@ -1,0 +1,31 @@
+11108022	chemical	BES	6
+11108022	chemical	sulfur atom	3
+11108022	chemical	benzotriazole	3
+11108022	chemical	2-[bis(2-hydroxyethyl)amino]ethanesulfonic acid	2
+11108022	chemical	cluster	2
+11108022	chemical	DNA, Ribosomal	1
+11108022	gene/protein	ribonuclease I (Escherichia coli K-12)	3
+11108022	gene/protein	ribonuclease I	3
+11108022	gene/protein	Nuclease	2
+11108022	gene/protein	Tryptophan 2,3-dioxygenase B	2
+11108022	gene/protein	Endodeoxyribonuclease 1	1
+11108022	gene/protein	Beta-galactosidase	1
+11108022	gene/protein	Beta-glucosidase A	1
+11108022	organism	Bradyrhizobium sp. NC92	3
+11108022	organism	Bradyrhizobium sp. RP501	3
+11108022	organism	Bradyrhizobium sp.	3
+11108022	organism	Bradyrhizobium sp. SNU001	3
+11108022	organism	Bradyrhizobium sp. ANU 289	3
+11108022	organism	Lupinus	3
+11108022	organism	Fabaceae	2
+11108022	organism	Bradyrhizobium japonicum	2
+11108022	organism	Canaries	1
+11108022	organism	Serinus canaria	1
+11108022	organism	Bradyrhizobium	1
+11108022	sequence	genotype	5
+11108022	sequence	BAC_end	2
+11108022	sequence	rRNA_gene	1
+11108022	sequence	RFLP_fragment	1
+11108022	cell_line	BGA	1
+11108022	organ/tissue	cerebellum vermis lobule X	1
+11108022	organ/tissue	germinal center	1

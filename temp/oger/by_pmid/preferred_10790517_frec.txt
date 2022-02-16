@@ -1,0 +1,26 @@
+10790517	cellular_component	obsolete protein	1
+10790517	chemical	DNA, Ribosomal	1
+10790517	chemical	ribosomal RNA	1
+10790517	chemical	probe	1
+10790517	chemical	protein	1
+10790517	chemical	(protein)	1
+10790517	chemical	ethanolamine	1
+10790517	gene/protein	Nuclease	4
+10790517	gene/protein	Endodeoxyribonuclease 1	2
+10790517	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+10790517	gene/protein	ribonuclease I	1
+10790517	gene/protein	protein	1
+10790517	organism	Ananas comosus	4
+10790517	organism	Ananas	3
+10790517	organism	Gluconacetobacter diazotrophicus	2
+10790517	organism	bacterium BE	1
+10790517	organism	Trachinotus falcatus	1
+10790517	sequence	RFLP_fragment	2
+10790517	sequence	rRNA_gene	1
+10790517	sequence	large_subunit_rRNA	1
+10790517	sequence	probe	1
+10790517	sequence	polypeptide	1
+10790517	sequence	genotype	1
+10790517	organ/tissue	tissue	1
+10790517	organ/tissue	primordium	1
+10790517	clinical_drug	pineapple extract	3

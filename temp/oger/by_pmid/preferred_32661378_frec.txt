@@ -1,0 +1,8 @@
+32661378	biological_process	transcription, DNA-templated	2
+32661378	chemical	Proteome	2
+32661378	chemical	picloram	1
+32661378	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	2
+32661378	organism	Escherichia coli	2
+32661378	organism	synthetic construct	1
+32661378	sequence	sequence_variant_obs	1
+32661378	organ/tissue	multicellular organism	1

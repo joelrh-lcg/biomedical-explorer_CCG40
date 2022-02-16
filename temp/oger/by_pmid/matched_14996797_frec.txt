@@ -1,0 +1,32 @@
+14996797	biological_process	biosynthesis	5
+14996797	biological_process	formation	1
+14996797	cellular_component	membrane	2
+14996797	chemical	choline	9
+14996797	chemical	phosphatidylcholine	5
+14996797	chemical	phosphatidylethanolamine	4
+14996797	chemical	cardiolipin	3
+14996797	chemical	pathway	3
+14996797	chemical	phosphatidylserine synthase	3
+14996797	chemical	phosphatidylglycerol	2
+14996797	chemical	lipid	2
+14996797	chemical	pssa	2
+14996797	chemical	complement	2
+14996797	chemical	phospholipid	1
+14996797	chemical	phosphatidylcholine synthase	1
+14996797	chemical	cdpdiacylglycerol	1
+14996797	chemical	cation	1
+14996797	gene/protein	phosphatidylserine synthase	42
+14996797	gene/protein	phosphatidylcholine synthase	11
+14996797	gene/protein	pssa	10
+14996797	gene/protein	lack	2
+14996797	gene/protein	type a	1
+14996797	organism	Sinorhizobium	1
+14996797	organism	melilotus	1
+14996797	organism	permit	1
+14996797	sequence	gene	3
+14996797	sequence	wild type	2
+14996797	sequence	intermediate	1
+14996797	sequence	sequence	1
+14996797	sequence	rescue	1
+14996797	organ/tissue	membrane	4
+14996797	clinical_drug	choline	3

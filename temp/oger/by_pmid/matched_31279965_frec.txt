@@ -1,0 +1,11 @@
+31279965	gene/protein	add	3
+31279965	gene/protein	nov	2
+31279965	gene/protein	ord	1
+31279965	organism	bacterium	14
+31279965	organism	Rhodospirillaceae	6
+31279965	organism	uncultivated bacterium	2
+31279965	organism	alphaproteobacteria	1
+31279965	organism	alphaproteobacteria bacterium	1
+31279965	sequence	genome	2
+31279965	organ/tissue	organism	1
+31279965	entity_type	term	2

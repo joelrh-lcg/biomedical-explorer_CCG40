@@ -1,0 +1,33 @@
+24610838	biological_process	biosynthetic process	1
+24610838	chemical	alpha-amino acid	2
+24610838	chemical	amino acid	2
+24610838	chemical	nitrogen atom	1
+24610838	chemical	nitrogen(.)	1
+24610838	gene/protein	Axin	4
+24610838	gene/protein	Axin-1 (human)	2
+24610838	gene/protein	Axin-1 (rat)	2
+24610838	gene/protein	Axin-1 (chicken)	2
+24610838	gene/protein	Axin-1 (frog)	2
+24610838	gene/protein	Axin-1 isoform 2	2
+24610838	gene/protein	Axin-1 (mouse)	2
+24610838	gene/protein	Axin-1	2
+24610838	gene/protein	Axin-1 (zebrafish)	2
+24610838	gene/protein	cartilage oligomeric matrix protein isoform 1	1
+24610838	gene/protein	nodal protein isoform 1	1
+24610838	organism	Hemiptera	3
+24610838	organism	bacterium IFAM-3211	1
+24610838	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+24610838	organism	bacterium IFAM-3215	1
+24610838	organism	bacterium IFAM-2074	1
+24610838	organism	bacterium IFAM-3359	1
+24610838	organism	bacterium	1
+24610838	organism	bacterium IFAM-1493	1
+24610838	organism	Llaveia axin	1
+24610838	organism	Candidatus Walczuchella monophlebidarum	1
+24610838	sequence	genome	2
+24610838	sequence	amino_acid	2
+24610838	sequence	region	1
+24610838	sequence	gene	1
+24610838	sequence	syntenic	1
+24610838	organ/tissue	scale	2
+24610838	clinical_drug	Nitrogen	1

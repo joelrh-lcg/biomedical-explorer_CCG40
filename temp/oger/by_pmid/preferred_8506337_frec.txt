@@ -1,0 +1,15 @@
+8506337	biological_process	DNA amplification	1
+8506337	cellular_component	chromosome	1
+8506337	chemical	atom	1
+8506337	chemical	biological role	1
+8506337	organism	Escherichia coli	4
+8506337	organism	Rhizobium leguminosarum	2
+8506337	organism	Rhizobium etli	1
+8506337	organism	unidentified plasmid	1
+8506337	organism	Rhizobium	1
+8506337	sequence	genome	4
+8506337	sequence	PCR_product	3
+8506337	sequence	chromosome	1
+8506337	sequence	plasmid	1
+8506337	sequence	origin_of_replication	1
+8506337	organ/tissue	organ	1

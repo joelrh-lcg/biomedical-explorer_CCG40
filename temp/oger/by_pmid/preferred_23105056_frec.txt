@@ -1,0 +1,29 @@
+23105056	biological_process	symbiotic process	1
+23105056	chemical	nitrogen atom	1
+23105056	chemical	nitrogen(.)	1
+23105056	gene/protein	Protein BEAN1	2
+23105056	gene/protein	serine recombinase PinE	1
+23105056	gene/protein	serine recombinase PinE (Escherichia coli K-12)	1
+23105056	gene/protein	protein BEAN	1
+23105056	organism	Phaseolus	2
+23105056	organism	Rhizobium sp. IRc78	1
+23105056	organism	Rhizobium sp.	1
+23105056	organism	Rhizobium sp. SIN-1	1
+23105056	organism	Ensifer sp. BR816	1
+23105056	organism	Rhizobium sp. MPIK3030	1
+23105056	organism	Rhizobium sp. N33	1
+23105056	organism	bacterium IFAM-3211	1
+23105056	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+23105056	organism	bacterium IFAM-3215	1
+23105056	organism	bacterium IFAM-2074	1
+23105056	organism	bacterium IFAM-3359	1
+23105056	organism	bacterium	1
+23105056	organism	bacterium IFAM-1493	1
+23105056	organism	Rhizobium sp. CCGE 510	1
+23105056	organism	Rhizobium	1
+23105056	sequence	genome	2
+23105056	sequence	region	1
+23105056	cell_line	R1192	1
+23105056	organ/tissue	cerebellum vermis lobule X	1
+23105056	organ/tissue	germinal center	1
+23105056	clinical_drug	Nitrogen	1

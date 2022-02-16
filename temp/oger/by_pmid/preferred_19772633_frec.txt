@@ -1,0 +1,15 @@
+19772633	biological_process	gene expression	1
+19772633	biological_process	transcription, DNA-templated	1
+19772633	chemical	DNA-Directed RNA Polymerases	1
+19772633	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+19772633	gene/protein	ribonuclease I	1
+19772633	molecular_function	binding	2
+19772633	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+19772633	molecular_function	transcription factor binding	1
+19772633	sequence	region	2
+19772633	sequence	promoter	2
+19772633	sequence	non_covalent_binding_site	2
+19772633	sequence	binding_site	2
+19772633	sequence	gene	1
+19772633	sequence	regulon	1
+19772633	sequence	TF_binding_site	1

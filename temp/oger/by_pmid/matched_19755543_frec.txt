@@ -1,0 +1,50 @@
+19755543	biological_process	gene expression	2
+19755543	biological_process	transcription	2
+19755543	biological_process	metabolism	2
+19755543	biological_process	nitrogen fixation	1
+19755543	biological_process	nodulation	1
+19755543	biological_process	biological process	1
+19755543	biological_process	glycolysis	1
+19755543	biological_process	glycerolipid metabolism	1
+19755543	chemical	phosphorus	5
+19755543	chemical	nitrogen	4
+19755543	chemical	acetylene	3
+19755543	chemical	starch	3
+19755543	chemical	amino acid	2
+19755543	chemical	nitrogenase	1
+19755543	chemical	nylon	1
+19755543	chemical	cdna	1
+19755543	chemical	base	1
+19755543	chemical	metabolite	1
+19755543	chemical	acid	1
+19755543	chemical	glycerolipid	1
+19755543	chemical	suc	1
+19755543	chemical	pathway	1
+19755543	disease	CIAT	1
+19755543	gene/protein	bean	9
+19755543	gene/protein	spot	2
+19755543	molecular_function	transcription factor	2
+19755543	molecular_function	nitrogenase activity	1
+19755543	organism	Rhizobium tropici	2
+19755543	organism	Phaseolus vulgari	1
+19755543	organism	legume	1
+19755543	organism	human	1
+19755543	organism	common bean plant	1
+19755543	organism	CIAT899	1
+19755543	organism	spot	1
+19755543	sequence	gene	6
+19755543	sequence	deficiency	1
+19755543	sequence	transcript	1
+19755543	sequence	cdna	1
+19755543	sequence	base	1
+19755543	sequence	reverse	1
+19755543	sequence	chain	1
+19755543	sequence	amino acid	1
+19755543	cell_line	bean	3
+19755543	organ/tissue	nodule	14
+19755543	organ/tissue	spot	1
+19755543	clinical_drug	nitrogen	2
+19755543	clinical_drug	starch	1
+19755543	molecular_process	reduction	1
+19755543	molecular_process	acetylene reduction	1
+19755543	molecular_process	chain reaction	1

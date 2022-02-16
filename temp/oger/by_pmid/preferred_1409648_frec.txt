@@ -1,0 +1,15 @@
+1409648	biological_process	biological regulation	6
+1409648	chemical	base	3
+1409648	chemical	RNA polymerase sigma 70	2
+1409648	chemical	protein	2
+1409648	chemical	dimethoxymethane	1
+1409648	gene/protein	RNA polymerase sigma factor RpoD	70
+1409648	gene/protein	RNA polymerase sigma factor SigA	6
+1409648	molecular_function	binding	1
+1409648	organism	Escherichia coli	2
+1409648	organism	collection	1
+1409648	sequence	base	3
+1409648	sequence	promoter	2
+1409648	sequence	gene	1
+1409648	sequence	non_covalent_binding_site	1
+1409648	sequence	binding_site	1

@@ -1,0 +1,38 @@
+28704543	biological_process	pathogenesis	2
+28704543	biological_process	obsolete virulence	2
+28704543	biological_process	viral process	2
+28704543	biological_process	entry into host	1
+28704543	cellular_component	intracellular	4
+28704543	cellular_component	chromosomal region	1
+28704543	cellular_component	host cell	1
+28704543	chemical	lambda Spi-1	14
+28704543	chemical	virulence factor	1
+28704543	disease	Infections	2
+28704543	disease	Salmonella Infections	2
+28704543	gene/protein	Serine protease inhibitor A3K	10
+28704543	gene/protein	Serine protease inhibitor A3L	7
+28704543	gene/protein	transcription factor PU.1	7
+28704543	gene/protein	transcription factor PU.1 (rat)	7
+28704543	gene/protein	serine protease inhibitor 1 protein (worm)	7
+28704543	gene/protein	GTP-binding nuclear protein spi1 (Schizosaccharomyces pombe 972h-)	7
+28704543	gene/protein	transcription factor PU.1 (human)	7
+28704543	gene/protein	Alpha-1-antiproteinase 1	7
+28704543	gene/protein	transcription factor PU.1 (mouse)	7
+28704543	gene/protein	uncharacterized cell wall protein SPI1 (yeast)	7
+28704543	gene/protein	serine protease inhibitor A3K	5
+28704543	gene/protein	Alpha-1-antiproteinase 2	5
+28704543	gene/protein	serine protease inhibitor A3N (mouse)	5
+28704543	gene/protein	serine protease inhibitor A3N	5
+28704543	gene/protein	serine protease inhibitor A3K (mouse)	5
+28704543	gene/protein	Transcriptional regulator	1
+28704543	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+28704543	organism	Salmonella	6
+28704543	organism	Mus musculus	1
+28704543	organism	Mice	1
+28704543	sequence	gene	6
+28704543	sequence	cytoplasmic_polypeptide_region	1
+28704543	sequence	transition	1
+28704543	cell_line	SP1	12
+28704543	organ/tissue	intestine	1
+28704543	organ/tissue	digestive tract epithelium	1
+28704543	molecular_process	reduction	1

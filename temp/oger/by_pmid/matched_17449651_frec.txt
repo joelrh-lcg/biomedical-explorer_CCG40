@@ -1,0 +1,38 @@
+17449651	biological_process	gene expression	2
+17449651	biological_process	photosynthesis	1
+17449651	biological_process	transcription	1
+17449651	biological_process	metabolism	1
+17449651	chemical	phosphorus	5
+17449651	chemical	cdna	2
+17449651	chemical	metabolite	2
+17449651	chemical	polyol	2
+17449651	chemical	element	1
+17449651	chemical	nylon	1
+17449651	chemical	proteins	1
+17449651	disease	Farber	2
+17449651	disease	Cancer	2
+17449651	gene/protein	bean	12
+17449651	gene/protein	myb	6
+17449651	gene/protein	Bean	3
+17449651	gene/protein	spot	2
+17449651	gene/protein	crop	1
+17449651	molecular_function	transcription factor	1
+17449651	organism	Phaseolus vulgari	1
+17449651	organism	legume	1
+17449651	organism	human	1
+17449651	organism	spot	1
+17449651	sequence	gene	7
+17449651	sequence	cdna	2
+17449651	sequence	deficiency	2
+17449651	sequence	transcript	1
+17449651	sequence	domain	1
+17449651	sequence	reverse	1
+17449651	sequence	chain	1
+17449651	sequence	candidate gene	1
+17449651	cell_line	bean	4
+17449651	cell_line	Cancer	1
+17449651	cell_line	Bean	1
+17449651	organ/tissue	element	1
+17449651	organ/tissue	crop	1
+17449651	organ/tissue	spot	1
+17449651	molecular_process	chain reaction	1

@@ -1,0 +1,32 @@
+15824284	biological_process	gene expression	3
+15824284	biological_process	metabolism	2
+15824284	biological_process	cell cycle	1
+15824284	chemical	cdna	2
+15824284	chemical	nitrogen	2
+15824284	chemical	carbon	2
+15824284	chemical	nucleotide	1
+15824284	chemical	ureide	1
+15824284	gene/protein	bean	15
+15824284	gene/protein	pod	9
+15824284	gene/protein	tag	5
+15824284	gene/protein	rna	4
+15824284	organism	Phaseolus vulgaris	2
+15824284	organism	legume	2
+15824284	organism	human	1
+15824284	organism	unknown	1
+15824284	organism	collection	1
+15824284	sequence	est	7
+15824284	sequence	gene	6
+15824284	sequence	sequence	4
+15824284	sequence	contig	4
+15824284	sequence	cdna	2
+15824284	sequence	genotype	2
+15824284	sequence	transcript	2
+15824284	sequence	tag	1
+15824284	sequence	single nucleotide polymorphism	1
+15824284	cell_line	bean	5
+15824284	organ/tissue	nodule	8
+15824284	organ/tissue	organ	2
+15824284	organ/tissue	pod	1
+15824284	organ/tissue	cell cycle	1
+15824284	clinical_drug	nitrogen	1

@@ -1,0 +1,32 @@
+32385404	biological_process	virulence	6
+32385404	biological_process	defence response	2
+32385404	biological_process	signalling pathway	1
+32385404	cellular_component	cell wall	2
+32385404	cellular_component	protein	1
+32385404	chemical	agar	3
+32385404	chemical	protein	2
+32385404	chemical	expansin	1
+32385404	chemical	virulence factor	1
+32385404	chemical	ROS	1
+32385404	chemical	pathway	1
+32385404	disease	infection	4
+32385404	gene/protein	exl1	18
+32385404	gene/protein	agar	2
+32385404	gene/protein	ROS	2
+32385404	gene/protein	protein	1
+32385404	molecular_function	expansin	1
+32385404	organism	bacterium	14
+32385404	organism	Pectobacterium brasiliense	2
+32385404	organism	pectobacterium atrosepticum	2
+32385404	organism	potato	2
+32385404	organism	Arabidopsis thaliana	2
+32385404	organism	bacterium be	1
+32385404	organism	Botrytis cinerea	1
+32385404	sequence	gene	2
+32385404	sequence	wild type	2
+32385404	sequence	protein	1
+32385404	organ/tissue	tissue	3
+32385404	organ/tissue	wall	2
+32385404	clinical_drug	potato	1
+32385404	clinical_drug	agar	1
+32385404	clinical_drug	Botrytis cinerea	1

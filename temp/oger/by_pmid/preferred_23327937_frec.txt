@@ -1,0 +1,29 @@
+23327937	biological_process	transcription, DNA-templated	2
+23327937	biological_process	biological regulation	1
+23327937	biological_process	regulation of adenylate cyclase-inhibiting adrenergic receptor signaling pathway	1
+23327937	biological_process	negative regulation of adenylate cyclase-activating adrenergic receptor signaling pathway	1
+23327937	cellular_component	obsolete nucleic acid	1
+23327937	cellular_component	chromatin	1
+23327937	chemical	nucleic acid	1
+23327937	chemical	Chromatin	1
+23327937	gene/protein	Keratin, type I cytoskeletal 12	4
+23327937	gene/protein	protein 60A (fruit fly)	1
+23327937	gene/protein	secreted and transmembrane protein 1	1
+23327937	gene/protein	secreted and transmembrane protein 1 (human)	1
+23327937	gene/protein	secreted and transmembrane protein 1b	1
+23327937	gene/protein	keratin, type I cytoskeletal 12	1
+23327937	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+23327937	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+23327937	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+23327937	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+23327937	organism	Escherichia coli	2
+23327937	organism	Escherichia coli K12	1
+23327937	sequence	gene	1
+23327937	sequence	promoter	1
+23327937	sequence	nucleic_acid	1
+23327937	sequence	polypeptide_conserved_motif	1
+23327937	sequence	polypeptide_motif	1
+23327937	sequence	score	1
+23327937	cell_line	K12 [Mouse osteosarcoma]	1
+23327937	cell_line	K12-72.1	1
+23327937	organ/tissue	matrix compartment	1

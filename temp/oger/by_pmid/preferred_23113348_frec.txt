@@ -1,0 +1,59 @@
+23113348	biological_process	digestion	1
+23113348	cellular_component	obsolete protein	3
+23113348	cellular_component	obsolete nucleic acid	2
+23113348	chemical	protein	6
+23113348	chemical	polysaccharide	3
+23113348	chemical	(protein)	3
+23113348	chemical	ammonium acetate	3
+23113348	chemical	nucleic acid	2
+23113348	chemical	Polygalacturonase	1
+23113348	chemical	Ribonucleases	1
+23113348	chemical	Endopeptidase K	1
+23113348	chemical	sodium dodecyl sulfate	1
+23113348	chemical	sodium chloride	1
+23113348	chemical	impurity	1
+23113348	chemical	DNA Restriction Enzymes	1
+23113348	disease	Shwachman-Diamond Syndrome	1
+23113348	gene/protein	Polygalacturonase	23
+23113348	gene/protein	Exopolygalacturonase	4
+23113348	gene/protein	protein	3
+23113348	gene/protein	ribonuclease I (Escherichia coli K-12)	3
+23113348	gene/protein	ribonuclease I	3
+23113348	gene/protein	Nuclear receptor coactivator 5	2
+23113348	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+23113348	gene/protein	Endo-polygalacturonase	1
+23113348	gene/protein	Endopolygalacturonase 1	1
+23113348	gene/protein	Exopolygalacturonase clone GBGE184	1
+23113348	gene/protein	Exopolygalacturonase clone GBGA483	1
+23113348	gene/protein	Polygalacturonase-2	1
+23113348	gene/protein	Probable polygalacturonase	1
+23113348	gene/protein	Wheatwin-1	1
+23113348	gene/protein	Proteinase K	1
+23113348	gene/protein	L-serine dehydratase/L-threonine deaminase	1
+23113348	gene/protein	Selina-4(15),7(11)-diene synthase ((2E,6E)-farnesyl diphosphate cyclizing)	1
+23113348	gene/protein	serine dehydratase-like	1
+23113348	gene/protein	L-serine dehydratase/L-threonine deaminase (rat)	1
+23113348	gene/protein	L-serine dehydratase/L-threonine deaminase (human)	1
+23113348	gene/protein	serine dehydratase-like (mouse)	1
+23113348	gene/protein	L-serine dehydratase/L-threonine deaminase (mouse)	1
+23113348	gene/protein	L-serine dehydratase (Dictyostelium discoideum)	1
+23113348	gene/protein	cyclin-SDS (Arabidopsis thaliana)	1
+23113348	gene/protein	WASH complex subunit 1 (fruit fly)	1
+23113348	gene/protein	WASH complex subunit 1 (zebrafish)	1
+23113348	gene/protein	nuclear receptor coactivator 5	1
+23113348	gene/protein	Sex pheromone cAM373	1
+23113348	gene/protein	histone chaperone ASF1A	1
+23113348	gene/protein	Histone chaperone ASF1A	1
+23113348	gene/protein	DNA restriction-modification endonuclease	1
+23113348	molecular_function	endopeptidase activity	1
+23113348	organism	Abelmoschus esculentus	5
+23113348	organism	Abelmoschus	5
+23113348	sequence	polypeptide	3
+23113348	sequence	nucleic_acid	2
+23113348	sequence	5KB_downstream_variant	2
+23113348	sequence	genomic_DNA	1
+23113348	sequence	RAPD	1
+23113348	sequence	reverse	1
+23113348	organ/tissue	crop	1
+23113348	organ/tissue	tissue	1
+23113348	clinical_drug	AMMONIUM ACETATE	1

@@ -1,0 +1,11 @@
+14576977	chemical	base	1
+14576977	chemical	16s rrna	1
+14576977	chemical	cluster	1
+14576977	organism	Mesorhizobium plurifarium	2
+14576977	organism	Mesorhizobium	1
+14576977	organism	Leucaena leucocephala	1
+14576977	organism	sesbania herbacea	1
+14576977	sequence	base	1
+14576977	sequence	restriction fragment length polymorphism	1
+14576977	sequence	16s rrna	1
+14576977	sequence	rrna gene	1

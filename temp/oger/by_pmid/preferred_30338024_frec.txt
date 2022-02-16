@@ -1,0 +1,35 @@
+30338024	chemical	cluster	2
+30338024	chemical	ion	1
+30338024	chemical	nucleotide	1
+30338024	chemical	drug	1
+30338024	disease	Abscess	2
+30338024	gene/protein	ghrelin O-acyltransferase (human)	1
+30338024	gene/protein	ghrelin O-acyltransferase (zebrafish)	1
+30338024	gene/protein	ghrelin O-acyltransferase	1
+30338024	gene/protein	ghrelin O-acyltransferase (rat)	1
+30338024	gene/protein	ghrelin O-acyltransferase (mouse)	1
+30338024	gene/protein	protein artemis (human)	1
+30338024	gene/protein	protein artemis	1
+30338024	organism	bacterium IFAM-3211	1
+30338024	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+30338024	organism	bacterium IFAM-3215	1
+30338024	organism	bacterium IFAM-2074	1
+30338024	organism	bacterium IFAM-3359	1
+30338024	organism	bacterium	1
+30338024	organism	bacterium IFAM-1493	1
+30338024	organism	Humans	1
+30338024	organism	Capra hircus	1
+30338024	organism	Goats	1
+30338024	organism	Ovis aries	1
+30338024	organism	Sheep	1
+30338024	organism	Horses	1
+30338024	organism	Equus caballus	1
+30338024	organism	bacterium BE	1
+30338024	sequence	genome	4
+30338024	sequence	region	3
+30338024	sequence	gene	1
+30338024	cell_line	Horse	1
+30338024	cell_line	HCT116-Artemis(+/-)	1
+30338024	cell_line	HCT116-Artemis(-/-)	1
+30338024	organ/tissue	animal hemisphere	1
+30338024	organ/tissue	multicellular organism	1

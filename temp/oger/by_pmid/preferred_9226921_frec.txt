@@ -1,0 +1,21 @@
+9226921	chemical	RNA, Ribosomal, 16S	2
+9226921	chemical	cluster	2
+9226921	chemical	sodium atom	1
+9226921	chemical	dodecyl group	1
+9226921	chemical	protein	1
+9226921	chemical	base	1
+9226921	organism	Mesorhizobium tianshanense	2
+9226921	organism	Mesorhizobium loti	2
+9226921	organism	Rhizobium	1
+9226921	organism	Mesorhizobium	1
+9226921	organism	bacterium IFAM-3211	1
+9226921	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+9226921	organism	bacterium IFAM-3215	1
+9226921	organism	bacterium IFAM-2074	1
+9226921	organism	bacterium IFAM-3359	1
+9226921	organism	bacterium	1
+9226921	organism	bacterium IFAM-1493	1
+9226921	sequence	rRNA_16S	2
+9226921	sequence	rRNA_gene	2
+9226921	sequence	base	1
+9226921	sequence	region	1

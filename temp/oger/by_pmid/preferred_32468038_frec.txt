@@ -1,0 +1,35 @@
+32468038	biological_process	brain development	1
+32468038	biological_process	cellular respiration	1
+32468038	biological_process	metabolic process	1
+32468038	biological_process	execution phase of apoptosis	1
+32468038	biological_process	apoptotic process	1
+32468038	biological_process	flight	1
+32468038	biological_process	obsolete Gene_Ontology	1
+32468038	biological_process	translation	1
+32468038	biological_process	macroautophagy	1
+32468038	biological_process	autophagy	1
+32468038	cellular_component	obsolete protein	3
+32468038	chemical	protein	5
+32468038	chemical	LHRH, lysine(6)-glutaryl-2-(hydroxymethyl)anthraquinone	4
+32468038	chemical	(protein)	3
+32468038	chemical	Mitochondrial Proteins	1
+32468038	chemical	base	1
+32468038	disease	Glioblastoma	14
+32468038	disease	Disease	4
+32468038	disease	Neoplasms	4
+32468038	disease	Neoplasm Metastasis	4
+32468038	disease	Tetralogy of Fallot	1
+32468038	gene/protein	protein	3
+32468038	gene/protein	spermine synthase (mouse)	2
+32468038	sequence	polypeptide	1
+32468038	sequence	tandem	1
+32468038	sequence	protein_protein_contact	1
+32468038	sequence	gene	1
+32468038	sequence	base	1
+32468038	cell_line	T98G	2
+32468038	cell_line	U-87MG Uppsala	2
+32468038	cell_line	U-87MG ATCC	2
+32468038	organ/tissue	adult cerebral ganglion	1
+32468038	organ/tissue	brain	1
+32468038	organ/tissue	matrix compartment	1
+32468038	clinical_drug	TANDEM	1

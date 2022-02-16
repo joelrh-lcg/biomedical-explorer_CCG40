@@ -1,0 +1,16 @@
+31632421	biological_process	symbiosis	6
+31632421	biological_process	regulation	3
+31632421	biological_process	nitrogen fixation	1
+31632421	chemical	nitrogen	6
+31632421	chemical	proteins	3
+31632421	chemical	microrna	1
+31632421	chemical	fertilizer	1
+31632421	disease	lrs	5
+31632421	gene/protein	rna	4
+31632421	gene/protein	ago	3
+31632421	organism	bacterium	7
+31632421	organism	legume	2
+31632421	organism	land plant	1
+31632421	sequence	chain	1
+31632421	sequence	microrna	1
+31632421	clinical_drug	nitrogen	3

@@ -1,0 +1,24 @@
+17233732	biological_process	symbiosis	2
+17233732	biological_process	signaling	1
+17233732	biological_process	nitrogen fixation	1
+17233732	biological_process	sulfation	1
+17233732	chemical	nitrogen	4
+17233732	chemical	sulfate	3
+17233732	chemical	nod factor	3
+17233732	chemical	factor sulfation	2
+17233732	chemical	Nod factor	1
+17233732	chemical	signaling molecule	1
+17233732	disease	nod	3
+17233732	disease	Nod	1
+17233732	gene/protein	nod	135
+17233732	gene/protein	Nod	45
+17233732	gene/protein	bean	6
+17233732	molecular_function	signaling molecule	1
+17233732	organism	Phaseolus vulgaris	2
+17233732	organism	Rhizobium	1
+17233732	organism	sinorhizobium sp br816	1
+17233732	organism	Sinorhizobium sp br816	1
+17233732	sequence	gene	1
+17233732	cell_line	bean	2
+17233732	organ/tissue	backbone	1
+17233732	clinical_drug	nitrogen	2

@@ -1,0 +1,58 @@
+22738764	cellular_component	obsolete protein	1
+22738764	chemical	phosphatidylethanolamine	3
+22738764	chemical	Cardiolipins	2
+22738764	chemical	Arsenic	2
+22738764	chemical	Zinc	2
+22738764	chemical	2,3,6-trichloroindophenol	2
+22738764	chemical	RNA, Ribosomal, 16S	1
+22738764	chemical	nitrogen atom	1
+22738764	chemical	nitrogen(.)	1
+22738764	chemical	protein	1
+22738764	chemical	(protein)	1
+22738764	chemical	fatty acid	1
+22738764	chemical	(Z)-14-methylpentadec-2-enoic acid	1
+22738764	chemical	lipid	1
+22738764	chemical	phosphatidylglycerol	1
+22738764	chemical	1,2-diacyl-sn-glycero-3-phospho-(1'-sn-glycerol)	1
+22738764	chemical	cardiolipin	1
+22738764	chemical	(S)-1,2-distearoylphosphatidylethanolaminium	1
+22738764	chemical	aminophospholipid	1
+22738764	chemical	arsenic atom	1
+22738764	chemical	... zinc ...	1
+22738764	chemical	zinc(0)	1
+22738764	chemical	zinc atom	1
+22738764	chemical	copper atom	1
+22738764	chemical	copper(0)	1
+22738764	gene/protein	Steryl-sulfatase	9
+22738764	gene/protein	apoptosis-associated speck-like protein containing a CARD	3
+22738764	gene/protein	apoptosis-associated speck-like protein containing a CARD (human)	3
+22738764	gene/protein	apoptosis-associated speck-like protein containing a CARD (mouse)	3
+22738764	gene/protein	apoptosis-associated speck-like protein containing a CARD (zebrafish)	3
+22738764	gene/protein	steryl-sulfatase	3
+22738764	gene/protein	intron-encoded endonuclease I-SceI (yeast)	2
+22738764	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+22738764	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+22738764	gene/protein	kinesin-like protein Nod (fruit fly)	1
+22738764	gene/protein	protein	1
+22738764	gene/protein	sugar transporter SWEET1 (fruit fly)	1
+22738764	gene/protein	Prophenin-2	1
+22738764	gene/protein	protein POLAR LOCALIZATION DURING ASYMMETRIC DIVISION AND REDISTRIBUTION (Arabidopsis thaliana)	1
+22738764	gene/protein	cardiolipin synthase A	1
+22738764	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+22738764	gene/protein	AT07979p1 (fruit fly)	1
+22738764	organism	Cupriavidus alkaliphilus	5
+22738764	organism	Cupriavidus	3
+22738764	organism	Necator	1
+22738764	organism	unidentified	1
+22738764	organism	Alkaliphilus sp.	1
+22738764	sequence	rRNA_16S	1
+22738764	sequence	rRNA_gene	1
+22738764	sequence	region	1
+22738764	sequence	gene	1
+22738764	sequence	polypeptide	1
+22738764	cell_line	HBM-Noda	1
+22738764	cell_line	HeLa C12	1
+22738764	cell_line	c12 (B15ECiii2)	1
+22738764	cell_line	C2C12	1
+22738764	clinical_drug	Nitrogen	1
+22738764	clinical_drug	Zinc	1

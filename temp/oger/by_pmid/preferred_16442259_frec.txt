@@ -1,0 +1,34 @@
+16442259	chemical	Nitrogen	2
+16442259	chemical	Manure	2
+16442259	chemical	RNA, Ribosomal, 16S	2
+16442259	chemical	dinitrogen	1
+16442259	chemical	nutrient	1
+16442259	chemical	base	1
+16442259	chemical	nucleotide	1
+16442259	chemical	cluster	1
+16442259	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+16442259	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+16442259	organism	Fabaceae	5
+16442259	organism	Bradyrhizobium japonicum	2
+16442259	organism	Rhizobium tropici	2
+16442259	organism	Sinorhizobium	1
+16442259	organism	Mesorhizobium	1
+16442259	organism	Azorhizobium	1
+16442259	organism	bacterium IFAM-3211	1
+16442259	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+16442259	organism	bacterium IFAM-3215	1
+16442259	organism	bacterium IFAM-2074	1
+16442259	organism	bacterium IFAM-3359	1
+16442259	organism	bacterium	1
+16442259	organism	bacterium IFAM-1493	1
+16442259	organism	Methylobacterium	1
+16442259	organism	Burkholderia	1
+16442259	organism	synthetic construct	1
+16442259	sequence	rRNA_16S	2
+16442259	sequence	gene	2
+16442259	sequence	copy_number_gain	1
+16442259	sequence	base	1
+16442259	sequence	rRNA_gene	1
+16442259	sequence	primer	1
+16442259	organ/tissue	crop	1
+16442259	clinical_drug	Nitrogen	1

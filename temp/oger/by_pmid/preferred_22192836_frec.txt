@@ -1,0 +1,72 @@
+22192836	cellular_component	smooth endoplasmic reticulum	1
+22192836	chemical	4-aminophenylphosphate	4
+22192836	chemical	phase-transfer catalyst	3
+22192836	chemical	N-phenylthiourea	3
+22192836	chemical	Acetylcholinesterase	2
+22192836	chemical	Acetylthiocholine	2
+22192836	chemical	propionylthiocholine	2
+22192836	chemical	butyrylcholine	2
+22192836	chemical	Butyrates	2
+22192836	chemical	p-nitrophenyl butyrate	2
+22192836	chemical	poly(alpha-alkylene)	1
+22192836	chemical	Cholinesterases	1
+22192836	chemical	Protein Sorting Signals	1
+22192836	chemical	L-seryl group	1
+22192836	chemical	L-serino group	1
+22192836	chemical	L-serine residue	1
+22192836	chemical	L-serine	1
+22192836	chemical	glycine	1
+22192836	chemical	glycyl group	1
+22192836	chemical	glycyl radical residue	1
+22192836	chemical	glycino group	1
+22192836	chemical	glycine residue	1
+22192836	chemical	glycinate	1
+22192836	chemical	glycyl radical	1
+22192836	chemical	ACETYLTHIOCHOLINE	1
+22192836	chemical	inhibitor	1
+22192836	chemical	ester	1
+22192836	chemical	propionate	1
+22192836	chemical	butyrate	1
+22192836	chemical	propionylcholinesterase	1
+22192836	disease	Pain	8
+22192836	disease	Thyroid Cancer, Papillary	3
+22192836	gene/protein	Acetylcholinesterase	128
+22192836	gene/protein	Putrescine carbamoyltransferase	39
+22192836	gene/protein	Cholinesterase	11
+22192836	gene/protein	Protein patched homolog 1	9
+22192836	gene/protein	acetylcholinesterase	6
+22192836	gene/protein	acetylcholinesterase (rat)	4
+22192836	gene/protein	acetylcholinesterase (zebrafish)	4
+22192836	gene/protein	acetylcholinesterase (mouse)	4
+22192836	gene/protein	Acetylcholinesterase-1	4
+22192836	gene/protein	acetylcholinesterase (chicken)	4
+22192836	gene/protein	acetylcholinesterase (human)	4
+22192836	gene/protein	protein CENTRORADIALIS-like (Arabidopsis thaliana)	3
+22192836	gene/protein	protein patched homolog 1	3
+22192836	gene/protein	proto-oncogene tyrosine-protein kinase receptor Ret (human)	3
+22192836	gene/protein	proto-oncogene tyrosine-protein kinase receptor Ret	3
+22192836	gene/protein	Coagulation factor IX	3
+22192836	gene/protein	protein patched (fruit fly)	3
+22192836	gene/protein	taste receptor type 2 member 38 (human)	3
+22192836	gene/protein	coagulation factor IX	3
+22192836	gene/protein	taste receptor type 2 member 38	3
+22192836	gene/protein	Spermine oxidase	2
+22192836	gene/protein	polyamine oxidase 1 (Arabidopsis thaliana)	1
+22192836	gene/protein	spermine oxidase	1
+22192836	gene/protein	cholinesterase	1
+22192836	gene/protein	obsolete signal peptide	1
+22192836	gene/protein	Sialoadhesin	1
+22192836	gene/protein	sialoadhesin	1
+22192836	gene/protein	protein serrate (fruit fly)	1
+22192836	organism	Pseudomonas aeruginosa	2
+22192836	organism	Zea mays	2
+22192836	organism	synthetic construct	1
+22192836	organism	Pseudomonas	1
+22192836	sequence	gene	2
+22192836	sequence	genome	1
+22192836	sequence	signal_peptide	1
+22192836	sequence	serine	1
+22192836	sequence	glycine	1
+22192836	cell_line	GLY	1
+22192836	organ/tissue	parietal operculum	1
+22192836	molecular_process	hydrolysis	1

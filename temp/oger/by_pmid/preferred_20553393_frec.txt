@@ -1,0 +1,34 @@
+20553393	biological_process	posttranscriptional regulation of gene expression	1
+20553393	chemical	MicroRNAs	17
+20553393	chemical	Manganese	4
+20553393	chemical	Phosphorus	2
+20553393	chemical	manganese(0)	2
+20553393	chemical	manganese atom	2
+20553393	chemical	oligonucleotide	1
+20553393	chemical	phosphorus(.)	1
+20553393	chemical	phosphorus atom	1
+20553393	chemical	tetraphosphorus	1
+20553393	chemical	nitrogen atom	1
+20553393	chemical	nitrogen(.)	1
+20553393	chemical	iron atom	1
+20553393	chemical	cluster	1
+20553393	gene/protein	Protein BEAN1	10
+20553393	gene/protein	protein BEAN	5
+20553393	organism	Fabaceae	2
+20553393	organism	Phaseolus	2
+20553393	sequence	miRNA	17
+20553393	sequence	gene	1
+20553393	sequence	oligo	1
+20553393	sequence	chromosomal_deletion	1
+20553393	sequence	candidate_gene	1
+20553393	sequence	reverse	1
+20553393	sequence	mature_protein_region	1
+20553393	cell_line	R1192	5
+20553393	organ/tissue	cerebellum vermis lobule X	1
+20553393	organ/tissue	germinal center	1
+20553393	organ/tissue	organ	1
+20553393	organ/tissue	compound organ	1
+20553393	clinical_drug	Manganese	2
+20553393	clinical_drug	Nitrogen	1
+20553393	clinical_drug	Iron	1
+20553393	molecular_process	chain reaction	1

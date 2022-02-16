@@ -1,0 +1,22 @@
+3438252	biological_process	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	1
+3438252	biological_process	agglutination involved in conjugation with cellular fusion	1
+3438252	chemical	Carbohydrates	2
+3438252	chemical	Magnesium	2
+3438252	chemical	carbohydrate	1
+3438252	chemical	magnesium atom	1
+3438252	chemical	calcium(2+)	1
+3438252	chemical	calcium ion	1
+3438252	gene/protein	Lectin	66
+3438252	gene/protein	Myxobacterial hemagglutinin	2
+3438252	gene/protein	Favin	2
+3438252	gene/protein	Alpha-amylase inhibitor 1	2
+3438252	gene/protein	Alpha-N-acetylgalactosamine-specific lectin	2
+3438252	gene/protein	Alpha-amylase inhibitor 2	2
+3438252	molecular_function	obsolete lectin	2
+3438252	organism	Phaseolus	1
+3438252	organism	Phaseolus acutifolius	1
+3438252	organism	Humans	1
+3438252	organ/tissue	animal hemisphere	1
+3438252	organ/tissue	multicellular organism	1
+3438252	clinical_drug	Magnesium	1
+3438252	clinical_drug	Calcium Cation	1

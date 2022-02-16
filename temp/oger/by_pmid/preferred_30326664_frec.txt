@@ -1,0 +1,23 @@
+30326664	biological_process	nodulation	2
+30326664	biological_process	symbiotic process	2
+30326664	biological_process	biosynthetic process	1
+30326664	chemical	Phosphates	2
+30326664	chemical	phosphate	1
+30326664	chemical	phosphate)	1
+30326664	chemical	phosphate ion	1
+30326664	chemical	phosphate(3-)	1
+30326664	chemical	phosphoric acid	1
+30326664	chemical	hydrogenphosphate	1
+30326664	disease	Malnutrition	2
+30326664	disease	Infections	2
+30326664	gene/protein	Protein BEAN1	8
+30326664	gene/protein	protein BEAN	4
+30326664	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+30326664	gene/protein	protein IMPACT (zebrafish)	1
+30326664	organism	Seedlings	4
+30326664	organism	Fabaceae	2
+30326664	sequence	chromosomal_deletion	5
+30326664	sequence	gene	3
+30326664	cell_line	R1192	4
+30326664	organ/tissue	cerebellum vermis lobule X	3
+30326664	organ/tissue	germinal center	3

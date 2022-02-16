@@ -1,0 +1,18 @@
+28399499	chemical	pcp	12
+28399499	chemical	wastewater	6
+28399499	chemical	personal care product	2
+28399499	chemical	fragrance	2
+28399499	chemical	sewage	2
+28399499	chemical	disinfectant	1
+28399499	chemical	insect repellent	1
+28399499	chemical	uv filter	1
+28399499	chemical	endocrine	1
+28399499	chemical	antiseptic	1
+28399499	chemical	molecule	1
+28399499	gene/protein	pcp	84
+28399499	gene/protein	sup	7
+28399499	gene/protein	impact	2
+28399499	gene/protein	ngl	2
+28399499	gene/protein	lack	1
+28399499	molecular_function	pcp	12
+28399499	organ/tissue	matrix	1

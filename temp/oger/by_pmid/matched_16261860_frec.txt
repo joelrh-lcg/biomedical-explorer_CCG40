@@ -1,0 +1,22 @@
+16261860	gene/protein	recA	14
+16261860	gene/protein	reca	14
+16261860	gene/protein	atpD	8
+16261860	gene/protein	atpd	8
+16261860	gene/protein	nifh	2
+16261860	gene/protein	ten	1
+16261860	organism	Mesorhizobium plurifarium	2
+16261860	organism	Rhizobium huautlense	2
+16261860	organism	Rhizobium	1
+16261860	organism	Mesorhizobium	1
+16261860	organism	Sesbania exasperata	1
+16261860	organism	Sesbania	1
+16261860	organism	legume	1
+16261860	organism	plasmid	1
+16261860	sequence	sequence	2
+16261860	sequence	haplotype	1
+16261860	sequence	substitution	1
+16261860	sequence	gene	1
+16261860	sequence	plasmid	1
+16261860	cell_line	recA	1
+16261860	cell_line	reca	1
+16261860	organ/tissue	nodule	2

@@ -1,0 +1,92 @@
+33320440	biological_process	digestion	2
+33320440	biological_process	catabolic process	1
+33320440	biological_process	biosynthetic process	1
+33320440	biological_process	viral process	1
+33320440	biological_process	cellulose catabolic process	1
+33320440	cellular_component	cellulosome	1
+33320440	chemical	Cellulose	4
+33320440	chemical	metabolite	2
+33320440	chemical	(1->4)-beta-D-glucan	2
+33320440	chemical	Biofuels	2
+33320440	chemical	vitamin	1
+33320440	chemical	antimetabolite	1
+33320440	chemical	Cellulase	1
+33320440	chemical	Polygalacturonase	1
+33320440	chemical	tannase	1
+33320440	chemical	Nitrogenase	1
+33320440	disease	Virus Diseases	2
+33320440	gene/protein	Protease	27
+33320440	gene/protein	Polygalacturonase	23
+33320440	gene/protein	Endoglucanase	19
+33320440	gene/protein	Endo-1,4-beta-xylanase	15
+33320440	gene/protein	Endoglucanase EG-1	4
+33320440	gene/protein	Exopolygalacturonase	4
+33320440	gene/protein	Endoglucanase 1	3
+33320440	gene/protein	Endoglucanase EG-II	2
+33320440	gene/protein	Endoglucanase A	2
+33320440	gene/protein	Tannase	2
+33320440	gene/protein	Endoglucanase Cel12A	1
+33320440	gene/protein	Putative endoglucanase type F	1
+33320440	gene/protein	Major extracellular endoglucanase	1
+33320440	gene/protein	Putative endoglucanase type K	1
+33320440	gene/protein	Endoglucanase E	1
+33320440	gene/protein	Putative endoglucanase X	1
+33320440	gene/protein	Endoglucanase Cel5A	1
+33320440	gene/protein	endoglucanase	1
+33320440	gene/protein	Endoglucanase-1	1
+33320440	gene/protein	Probable endoglucanase	1
+33320440	gene/protein	Endoglucanase CelA	1
+33320440	gene/protein	Endoglucanase B	1
+33320440	gene/protein	Endo-beta-1,4-glucanase	1
+33320440	gene/protein	Endoglucanase 2	1
+33320440	gene/protein	Endoglucanase type C	1
+33320440	gene/protein	Putative endoglucanase type B	1
+33320440	gene/protein	Endo-polygalacturonase	1
+33320440	gene/protein	Endopolygalacturonase 1	1
+33320440	gene/protein	Exopolygalacturonase clone GBGE184	1
+33320440	gene/protein	Exopolygalacturonase clone GBGA483	1
+33320440	gene/protein	Polygalacturonase-2	1
+33320440	gene/protein	Probable polygalacturonase	1
+33320440	gene/protein	Putative endo-1,4-beta-xylanase	1
+33320440	gene/protein	Endogenous retrovirus group K member 8 Pro protein	1
+33320440	gene/protein	Endogenous retrovirus group K member 7 Pro protein	1
+33320440	gene/protein	Endogenous retrovirus group K member 10 Pro protein	1
+33320440	gene/protein	Endogenous retrovirus group K member 21 Pro protein	1
+33320440	gene/protein	Endogenous retrovirus group K member 19 Pro protein	1
+33320440	gene/protein	Endogenous retrovirus group K member 25 Pro protein	1
+33320440	gene/protein	Endogenous retrovirus group K member 104 Pro protein	1
+33320440	gene/protein	Endogenous retrovirus group K member 113 Pro protein	1
+33320440	gene/protein	Endogenous retrovirus group K member 24 Pro protein	1
+33320440	gene/protein	Endogenous retrovirus group K member 9 Pro protein	1
+33320440	gene/protein	Endogenous retrovirus group K member 6 Pro protein	1
+33320440	gene/protein	Endogenous retrovirus group K member 18 Pro protein	1
+33320440	molecular_function	endo-1,4-beta-xylanase activity	1
+33320440	organism	bacterium IFAM-3211	4
+33320440	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	4
+33320440	organism	bacterium IFAM-3215	4
+33320440	organism	bacterium IFAM-2074	4
+33320440	organism	bacterium IFAM-3359	4
+33320440	organism	bacterium	4
+33320440	organism	bacterium IFAM-1493	4
+33320440	organism	Lactobacillus plantarum	2
+33320440	organism	Fungi	1
+33320440	organism	Phascolarctidae	1
+33320440	organism	Phascolarctos cinereus	1
+33320440	organism	Rabbits	1
+33320440	organism	Oryctolagus cuniculus	1
+33320440	organism	Turtles	1
+33320440	organism	Clostridium	1
+33320440	organism	Agricultural Inoculants	1
+33320440	sequence	enzymatic	2
+33320440	sequence	cytoplasmic_polypeptide_region	1
+33320440	organ/tissue	animal hemisphere	5
+33320440	organ/tissue	multicellular organism	5
+33320440	organ/tissue	digestive tract	4
+33320440	organ/tissue	lower digestive tract	4
+33320440	organ/tissue	digestive system	4
+33320440	organ/tissue	tissue	1
+33320440	organ/tissue	subdivision of digestive tract	1
+33320440	organ/tissue	intestine	1
+33320440	organ/tissue	feces	1
+33320440	clinical_drug	.ALPHA.-CELLULOSE	2
+33320440	clinical_drug	rabbit allergenic extract	1

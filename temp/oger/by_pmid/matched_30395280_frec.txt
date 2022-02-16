@@ -1,0 +1,11 @@
+30395280	biological_process	transcription	3
+30395280	biological_process	regulation	2
+30395280	gene/protein	k12	9
+30395280	gene/protein	ago	1
+30395280	molecular_function	transcription factor	2
+30395280	molecular_function	binding	1
+30395280	organism	e coli	2
+30395280	organism	Escherichia coli k12	1
+30395280	sequence	binding	2
+30395280	sequence	gene	1
+30395280	cell_line	k12	2

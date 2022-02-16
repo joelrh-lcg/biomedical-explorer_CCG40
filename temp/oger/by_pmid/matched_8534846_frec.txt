@@ -1,0 +1,24 @@
+8534846	biological_process	formation	1
+8534846	cellular_component	root hair	1
+8534846	chemical	glcnac	4
+8534846	chemical	lco	3
+8534846	chemical	chitin	3
+8534846	chemical	oligosaccharide	2
+8534846	chemical	sulphate	1
+8534846	chemical	oligomer	1
+8534846	gene/protein	grh	9
+8534846	organism	Acacia cyanophylla	2
+8534846	organism	Rhizobium	1
+8534846	organism	legume	1
+8534846	organism	Phaseolus	1
+8534846	organism	Trifolium	1
+8534846	organism	Rhizobium sp grh2	1
+8534846	organism	bear	1
+8534846	organism	Phaseolus vulgari	1
+8534846	sequence	chain	2
+8534846	sequence	allele	1
+8534846	organ/tissue	nodule	4
+8534846	organ/tissue	primordium	2
+8534846	organ/tissue	backbone	1
+8534846	organ/tissue	hair	1
+8534846	clinical_drug	Acacia	2

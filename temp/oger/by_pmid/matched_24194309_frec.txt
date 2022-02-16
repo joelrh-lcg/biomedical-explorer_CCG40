@@ -1,0 +1,11 @@
+24194309	biological_process	nodulation	3
+24194309	biological_process	nodule formation	1
+24194309	gene/protein	add	3
+24194309	gene/protein	dry	1
+24194309	organism	alfalfa	4
+24194309	organism	Rhizobium meliloti	2
+24194309	sequence	signal	2
+24194309	sequence	genotype	1
+24194309	organ/tissue	exudate	3
+24194309	organ/tissue	nodule	2
+24194309	clinical_drug	alfalfa	2

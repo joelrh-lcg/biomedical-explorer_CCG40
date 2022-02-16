@@ -1,0 +1,34 @@
+10985751	chemical	Sucrose	6
+10985751	chemical	levansucrase	4
+10985751	chemical	sucrose	3
+10985751	chemical	levan	2
+10985751	chemical	Coffee	2
+10985751	chemical	polypeptide	1
+10985751	chemical	(2->6)-beta-D-fructan	1
+10985751	chemical	fructan	1
+10985751	gene/protein	Levansucrase	52
+10985751	gene/protein	proteolytic cleavage product	1
+10985751	gene/protein	amino acid chain	1
+10985751	gene/protein	iron-regulated surface determinant protein A (Staphylococcus aureus subsp. aureus MSSA476)	1
+10985751	gene/protein	iron-regulated surface determinant protein A (Staphylococcus aureus RF122)	1
+10985751	gene/protein	iron-regulated surface determinant protein A	1
+10985751	gene/protein	iron-regulated surface determinant protein A (Staphylococcus aureus subsp. aureus MRSA252)	1
+10985751	gene/protein	iron-regulated surface determinant protein A (Staphylococcus aureus subsp. aureus N315)	1
+10985751	gene/protein	iron-regulated surface determinant protein A (Staphylococcus aureus subsp. aureus Mu50)	1
+10985751	gene/protein	iron-regulated surface determinant protein A (Staphylococcus aureus subsp. aureus JH1)	1
+10985751	gene/protein	iron-regulated surface determinant protein A (Staphylococcus aureus subsp. aureus Mu3)	1
+10985751	gene/protein	iron-regulated surface determinant protein A (Staphylococcus aureus subsp. aureus USA300)	1
+10985751	gene/protein	iron-regulated surface determinant protein A (Staphylococcus aureus subsp. aureus COL)	1
+10985751	gene/protein	iron-regulated surface determinant protein A (Staphylococcus aureus)	1
+10985751	gene/protein	iron-regulated surface determinant protein A (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+10985751	gene/protein	iron-regulated surface determinant protein A (Staphylococcus aureus subsp. aureus str. Newman)	1
+10985751	gene/protein	iron-regulated surface determinant protein A (Staphylococcus aureus subsp. aureus USA300_TCH1516)	1
+10985751	gene/protein	iron-regulated surface determinant protein A (Staphylococcus aureus subsp. aureus MW2)	1
+10985751	gene/protein	iron-regulated surface determinant protein A (Staphylococcus aureus subsp. aureus JH9)	1
+10985751	organism	Gluconacetobacter diazotrophicus	2
+10985751	organism	Coffea arabica	1
+10985751	sequence	genotype	2
+10985751	sequence	polypeptide	1
+10985751	sequence	RFLP_fragment	1
+10985751	sequence	gene	1
+10985751	clinical_drug	Sucrose	3

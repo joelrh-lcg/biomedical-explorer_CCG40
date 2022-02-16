@@ -1,0 +1,38 @@
+16337432	biological_process	regulation	1
+16337432	biological_process	signal transduction	1
+16337432	biological_process	metabolism	1
+16337432	biological_process	cell division	1
+16337432	biological_process	vacuolar transport	1
+16337432	cellular_component	nucleus	1
+16337432	cellular_component	cytoskeleton	1
+16337432	cellular_component	extracellular matrix	1
+16337432	chemical	hormone	3
+16337432	chemical	nucleus	1
+16337432	chemical	base	1
+16337432	chemical	cdna	1
+16337432	gene/protein	protease	39
+16337432	gene/protein	tag	5
+16337432	gene/protein	lack	1
+16337432	organism	Taenia solium	2
+16337432	organism	Echinococcus granulosus	2
+16337432	organism	echinococcus multilocularis	2
+16337432	organism	human	2
+16337432	organism	cestode	1
+16337432	organism	parasite	1
+16337432	sequence	sequence	6
+16337432	sequence	genome	5
+16337432	sequence	est	5
+16337432	sequence	gene	3
+16337432	sequence	genomic clone	2
+16337432	sequence	homologue	2
+16337432	sequence	signal	2
+16337432	sequence	tag	1
+16337432	sequence	base	1
+16337432	sequence	cdna	1
+16337432	organ/tissue	adult stage	2
+16337432	organ/tissue	cestode	1
+16337432	organ/tissue	nucleus	1
+16337432	organ/tissue	adult	1
+16337432	organ/tissue	cell division	1
+16337432	organ/tissue	matrix	1
+16337432	entity_type	term	2

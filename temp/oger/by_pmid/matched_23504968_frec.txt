@@ -1,0 +1,28 @@
+23504968	chemical	tal	1
+23504968	gene/protein	tal	13
+23504968	gene/protein	nov	2
+23504968	gene/protein	ACCC	2
+23504968	gene/protein	to b	1
+23504968	gene/protein	B4361	1
+23504968	organism	soybean	4
+23504968	organism	Bradyrhizobium japonicum	2
+23504968	organism	legume	1
+23504968	organism	USDA 6	1
+23504968	organism	Bradyrhizobium	1
+23504968	organism	USDA 110	1
+23504968	organism	IAM 13628	1
+23504968	organism	CCRC 13528	1
+23504968	organism	NRRL B4361	1
+23504968	organism	NRRL b4450	1
+23504968	organism	tal 102	1
+23504968	organism	BCRC 13528	1
+23504968	organism	JCM 10833	1
+23504968	organism	TISTR 339	1
+23504968	organism	SEMIA 5032	1
+23504968	organism	3I1B110	1
+23504968	organism	ACCC 15034	1
+23504968	organism	cct 4249	1
+23504968	organism	nbrc 14792	1
+23504968	organism	r12974	1
+23504968	organism	cnpso 46	1
+23504968	clinical_drug	soybean	4

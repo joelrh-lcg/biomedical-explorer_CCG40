@@ -1,0 +1,87 @@
+21217003	biological_process	localization	1
+21217003	biological_process	cell growth	1
+21217003	biological_process	obsolete mutagenesis	1
+21217003	biological_process	primary metabolic process	1
+21217003	biological_process	thiamine catabolic process	1
+21217003	biological_process	biosynthetic process	1
+21217003	cellular_component	chromosome	5
+21217003	cellular_component	obsolete protein	2
+21217003	cellular_component	cell septum	1
+21217003	chemical	NAD	3
+21217003	chemical	Vitamin B 12	2
+21217003	chemical	Cardiolipins	2
+21217003	chemical	Thiamine	2
+21217003	chemical	Asparagine	2
+21217003	chemical	Melibiose	2
+21217003	chemical	protein	2
+21217003	chemical	(protein)	2
+21217003	chemical	Histidine	2
+21217003	chemical	ribosomal RNA	1
+21217003	chemical	RNA, Transfer	1
+21217003	chemical	transfer RNA	1
+21217003	chemical	cobalamin	1
+21217003	chemical	cardiolipin	1
+21217003	chemical	Cytochromes	1
+21217003	chemical	cytochrome	1
+21217003	chemical	NAD(1-)	1
+21217003	chemical	NAD(+)	1
+21217003	chemical	thiamine(1+) chloride	1
+21217003	chemical	thiamine(1+)	1
+21217003	chemical	thiamine	1
+21217003	chemical	L-asparagine residue	1
+21217003	chemical	L-asparaginyl group	1
+21217003	chemical	L-asparagine	1
+21217003	chemical	asparagine	1
+21217003	chemical	melibiose	1
+21217003	chemical	L-histidine	1
+21217003	chemical	histidine	1
+21217003	chemical	Prolactin	1
+21217003	gene/protein	Prolactin	40
+21217003	gene/protein	Proteasomal ubiquitin receptor ADRM1 homolog	7
+21217003	gene/protein	protein	2
+21217003	gene/protein	pre-B-cell leukemia transcription factor 1	1
+21217003	gene/protein	prolactin (human)	1
+21217003	gene/protein	prolactin	1
+21217003	gene/protein	prolactin (chicken)	1
+21217003	gene/protein	pre-B-cell leukemia transcription factor 1 (human)	1
+21217003	gene/protein	prolactin (mouse)	1
+21217003	gene/protein	DNA replication licensing factor MCM7 (Arabidopsis thaliana)	1
+21217003	gene/protein	prolactin (rat)	1
+21217003	gene/protein	protein translocase subunit SecE (Escherichia coli K-12)	1
+21217003	gene/protein	protein translocase subunit SecE	1
+21217003	molecular_function	triplet codon-amino acid adaptor activity	1
+21217003	molecular_function	electron transporter, transferring electrons within the noncyclic electron transport pathway of photosynthesis activity	1
+21217003	molecular_function	electron transporter, transferring electrons from CoQH2-cytochrome c reductase complex and cytochrome c oxidase complex activity	1
+21217003	molecular_function	electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity	1
+21217003	molecular_function	electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity	1
+21217003	molecular_function	electron transporter, transferring electrons within cytochrome c oxidase complex activity	1
+21217003	molecular_function	obsolete cytochrome	1
+21217003	molecular_function	electron transporter, transferring electrons within CoQH2-cytochrome c reductase complex activity	1
+21217003	organism	unidentified plasmid	4
+21217003	organism	Rhizobium etli	3
+21217003	organism	bacterium BE	1
+21217003	organism	Rhizobium	1
+21217003	organism	hybrid	1
+21217003	organism	Chimera	1
+21217003	sequence	chromosome	5
+21217003	sequence	plasmid	4
+21217003	sequence	gene	4
+21217003	sequence	replicon	3
+21217003	sequence	deletion	2
+21217003	sequence	polypeptide	2
+21217003	sequence	rRNA	1
+21217003	sequence	tRNA_gene	1
+21217003	sequence	genome	1
+21217003	sequence	insertional	1
+21217003	sequence	mutated_variant_site	1
+21217003	sequence	asparagine	1
+21217003	sequence	polypeptide_conserved_motif	1
+21217003	sequence	polypeptide_motif	1
+21217003	sequence	histidine	1
+21217003	sequence	homologous	1
+21217003	organ/tissue	septum	1
+21217003	organ/tissue	septum of telencephalon	1
+21217003	organ/tissue	sense organ	1
+21217003	clinical_drug	Thiamine	1
+21217003	clinical_drug	Asparagine	1
+21217003	clinical_drug	Histidine	1

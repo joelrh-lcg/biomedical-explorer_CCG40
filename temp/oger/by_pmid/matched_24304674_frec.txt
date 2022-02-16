@@ -1,0 +1,16 @@
+24304674	biological_process	symbiosis	1
+24304674	biological_process	transport	1
+24304674	biological_process	regulation	1
+24304674	chemical	nutrient	1
+24304674	chemical	pathway	1
+24304674	chemical	transform	1
+24304674	organism	bacterium	21
+24304674	organism	Saccharomyces cerevisiae	2
+24304674	organism	Rhizobium etli	2
+24304674	organism	artificial	1
+24304674	organism	eukaryote	1
+24304674	organism	fungus	1
+24304674	organism	yeast	1
+24304674	sequence	genotype	1
+24304674	clinical_drug	Saccharomyces cerevisiae	2
+24304674	clinical_drug	yeast	1

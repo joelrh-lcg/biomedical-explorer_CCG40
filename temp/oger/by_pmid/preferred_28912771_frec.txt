@@ -1,0 +1,18 @@
+28912771	biological_process	pathogenesis	1
+28912771	biological_process	obsolete virulence	1
+28912771	biological_process	viral process	1
+28912771	biological_process	social behavior	1
+28912771	chemical	virulence factor	1
+28912771	disease	Disease Susceptibility	4
+28912771	organism	Bacteriophages	6
+28912771	organism	Bromus secalinus	1
+28912771	organism	bacterium IFAM-3211	1
+28912771	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+28912771	organism	bacterium IFAM-3215	1
+28912771	organism	bacterium IFAM-2074	1
+28912771	organism	bacterium IFAM-3359	1
+28912771	organism	bacterium	1
+28912771	organism	bacterium IFAM-1493	1
+28912771	organism	Bacteriophage sp.	1
+28912771	organism	Pseudomonas virus D3112	1
+28912771	sequence	phage_sequence	7

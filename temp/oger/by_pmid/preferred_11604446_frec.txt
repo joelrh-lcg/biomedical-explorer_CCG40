@@ -1,0 +1,29 @@
+11604446	biological_process	vegetative to reproductive phase transition of meristem	1
+11604446	cellular_component	obsolete protein	1
+11604446	chemical	nitrogen atom	3
+11604446	chemical	nitrogen(.)	3
+11604446	chemical	Ammonium Compounds	2
+11604446	chemical	sulfur-35 atom	1
+11604446	chemical	protein	1
+11604446	chemical	(protein)	1
+11604446	chemical	nitrate	1
+11604446	chemical	ammonium	1
+11604446	chemical	elemental carbon	1
+11604446	chemical	carbon atom	1
+11604446	gene/protein	Glutamate synthase [NADPH] large chain	1
+11604446	gene/protein	Glutamate synthase [NADPH] small chain	1
+11604446	gene/protein	protein	1
+11604446	gene/protein	ryanodine receptor (fruit fly)	1
+11604446	molecular_function	catalytic activity	1
+11604446	organism	Tobacco	3
+11604446	organism	Nicotiana tabacum	3
+11604446	organism	Medicago sativa	2
+11604446	organism	Cauliflower mosaic virus	1
+11604446	sequence	gene	2
+11604446	sequence	transgenic	1
+11604446	sequence	promoter	1
+11604446	sequence	transgene	1
+11604446	sequence	polypeptide	1
+11604446	organ/tissue	plantar part of pes	1
+11604446	clinical_drug	Nitrogen	3
+11604446	clinical_drug	Medicago sativa whole extract	1

@@ -1,0 +1,5 @@
+1524708	chemical	peptide	1
+1524708	chemical	molecule	1
+1524708	gene/protein	proteolytic cleavage product	1
+1524708	gene/protein	amino acid chain	1
+1524708	sequence	active_peptide	1

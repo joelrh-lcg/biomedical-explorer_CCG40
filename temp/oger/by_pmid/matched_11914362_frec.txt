@@ -1,0 +1,12 @@
+11914362	biological_process	transcription	2
+11914362	chemical	pyruvate	9
+11914362	chemical	carbon	4
+11914362	chemical	SAM	2
+11914362	chemical	pyruvate carboxylase	1
+11914362	gene/protein	pyruvate carboxylase	9
+11914362	gene/protein	pyc	9
+11914362	gene/protein	PYC	3
+11914362	organism	Rhizobium etli	2
+11914362	sequence	double	1
+11914362	sequence	gene	1
+11914362	clinical_drug	pyruvate	4

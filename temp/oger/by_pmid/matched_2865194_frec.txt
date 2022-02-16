@@ -1,0 +1,23 @@
+2865194	chemical	amino acid	2
+2865194	chemical	nucleotide	1
+2865194	chemical	glutamine synthetase	1
+2865194	chemical	nri	1
+2865194	gene/protein	glutamine synthetase	123
+2865194	gene/protein	rep	61
+2865194	gene/protein	nri	12
+2865194	gene/protein	glna	6
+2865194	gene/protein	glnl	6
+2865194	gene/protein	glnG	2
+2865194	molecular_function	rep	1
+2865194	molecular_function	binding	1
+2865194	organism	Escherichia coli	2
+2865194	sequence	sequence	3
+2865194	sequence	gene	3
+2865194	sequence	binding site	2
+2865194	sequence	fragment	1
+2865194	sequence	amino acid	1
+2865194	sequence	glutamine	1
+2865194	sequence	terminator	1
+2865194	sequence	promoter	1
+2865194	organ/tissue	segment	1
+2865194	clinical_drug	glutamine	1

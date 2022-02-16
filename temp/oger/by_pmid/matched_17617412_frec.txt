@@ -1,0 +1,23 @@
+17617412	biological_process	transcription	3
+17617412	biological_process	transport	1
+17617412	biological_process	cellular metabolism	1
+17617412	biological_process	transcriptional control	1
+17617412	biological_process	cellular process	1
+17617412	biological_process	dna replication	1
+17617412	cellular_component	cellular process	1
+17617412	chemical	effector	7
+17617412	chemical	metabolite	2
+17617412	gene/protein	K12	9
+17617412	molecular_function	transcription factor	3
+17617412	organism	e coli	2
+17617412	organism	collection	1
+17617412	organism	Escherichia coli K12	1
+17617412	organism	Salmonella	1
+17617412	sequence	signal	6
+17617412	sequence	gene	6
+17617412	sequence	genome	2
+17617412	sequence	orthologous	1
+17617412	sequence	domain	1
+17617412	cell_line	K12	2
+17617412	organ/tissue	scale	1
+17617412	organ/tissue	organism	1

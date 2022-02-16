@@ -1,0 +1,12 @@
+15899401	biological_process	biotin biosynthesis	2
+15899401	biological_process	transport	2
+15899401	biological_process	symbiosis	1
+15899401	biological_process	biosynthesis	1
+15899401	chemical	biotin	20
+15899401	chemical	vitamin	2
+15899401	chemical	pathway	2
+15899401	chemical	prosthetic group	1
+15899401	organism	alphaproteobacteria	1
+15899401	organism	legume	1
+15899401	organ/tissue	organism	1
+15899401	clinical_drug	biotin	5

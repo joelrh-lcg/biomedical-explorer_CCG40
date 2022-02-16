@@ -1,0 +1,27 @@
+2530208	chemical	oxygen atom	3
+2530208	chemical	Glutamate-Ammonia Ligase	2
+2530208	chemical	Glutamate Dehydrogenase	2
+2530208	chemical	iron atom	2
+2530208	chemical	NADP	2
+2530208	chemical	elemental carbon	1
+2530208	chemical	carbon atom	1
+2530208	chemical	ascorbate	1
+2530208	chemical	L-ascorbate	1
+2530208	chemical	hydrogen peroxide	1
+2530208	chemical	NADPH(4-)	1
+2530208	chemical	NADPH	1
+2530208	disease	Dissociative Disorders	1
+2530208	gene/protein	Glutamine synthetase	244
+2530208	gene/protein	Glutamate dehydrogenase	32
+2530208	gene/protein	glutamine synthetase	2
+2530208	gene/protein	Catabolic NAD-specific glutamate dehydrogenase RocG	2
+2530208	molecular_function	binding	1
+2530208	organism	Neurospora crassa	2
+2530208	sequence	glutamine	2
+2530208	sequence	polypeptide_binding_motif	1
+2530208	sequence	non_covalent_binding_site	1
+2530208	clinical_drug	Oxygen	3
+2530208	clinical_drug	Glutamine	2
+2530208	clinical_drug	Glutamate	2
+2530208	clinical_drug	Iron	2
+2530208	molecular_process	oxidation	1

@@ -1,0 +1,14 @@
+22858268	chemical	base	1
+22858268	disease	ciat	3
+22858268	organism	strain 8	6
+22858268	organism	Phaseolus vulgaris	2
+22858268	organism	Rhizobium etli	2
+22858268	organism	Rhizobium phaseoli	2
+22858268	organism	Rhizobium	1
+22858268	organism	CFN 42	1
+22858268	organism	atcc 14482	1
+22858268	sequence	genome	3
+22858268	sequence	sequence	1
+22858268	sequence	fragment	1
+22858268	sequence	base	1
+22858268	cell_line	8c3	1

@@ -1,0 +1,37 @@
+21742822	biological_process	symbiosis	1
+21742822	chemical	16s rrna	1
+21742822	gene/protein	rpoa	20
+21742822	gene/protein	reca	14
+21742822	gene/protein	rpob	14
+21742822	gene/protein	type a	4
+21742822	gene/protein	nov	4
+21742822	gene/protein	glta	3
+21742822	gene/protein	bean	3
+21742822	gene/protein	lmg	1
+21742822	gene/protein	cena	1
+21742822	organism	Rhizobium leucaenae	4
+21742822	organism	Rhizobium tropici	2
+21742822	organism	Rhizobium multihospitium	2
+21742822	organism	Rhizobium miluonense	2
+21742822	organism	Rhizobium lusitanum	2
+21742822	organism	Phaseolus vulgaris	2
+21742822	organism	legume	1
+21742822	organism	plasmid	1
+21742822	organism	Rhizobium	1
+21742822	organism	rhizobium	1
+21742822	organism	Leucaena leucocephala	1
+21742822	organism	Leucaena esculenta	1
+21742822	organism	gliricidia sepium	1
+21742822	organism	CFN 299	1
+21742822	organism	USDA 9039	1
+21742822	organism	lmg 9517	1
+21742822	organism	cect 4844	1
+21742822	organism	jcm 21088	1
+21742822	organism	iam 14230	1
+21742822	organism	semia 4083	1
+21742822	sequence	plasmid	1
+21742822	sequence	sequence	1
+21742822	sequence	16s rrna	1
+21742822	sequence	gene	1
+21742822	cell_line	reca	1
+21742822	cell_line	bean	1

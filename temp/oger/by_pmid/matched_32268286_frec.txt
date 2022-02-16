@@ -1,0 +1,22 @@
+32268286	cellular_component	pore	1
+32268286	chemical	calcite	9
+32268286	chemical	vaterite	6
+32268286	chemical	sulfide	4
+32268286	chemical	cerussite	2
+32268286	chemical	strontianite	2
+32268286	chemical	hydrozincite	2
+32268286	chemical	carbonate	1
+32268286	chemical	urease	1
+32268286	chemical	sem	1
+32268286	chemical	element	1
+32268286	gene/protein	sup	49
+32268286	gene/protein	urease	10
+32268286	gene/protein	sub	4
+32268286	gene/protein	urec	1
+32268286	molecular_function	urease activity	1
+32268286	organism	Sporosarcina luteola	2
+32268286	sequence	gene	1
+32268286	cell_line	sem	1
+32268286	organ/tissue	pore	1
+32268286	organ/tissue	element	1
+32268286	molecular_process	oxidation	1

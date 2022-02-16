@@ -1,0 +1,23 @@
+22994649	chemical	RNA, Ribosomal, 16S	1
+22994649	chemical	RNA, Ribosomal, 18S	1
+22994649	gene/protein	Protochlorophyllide reductase, chloroplastic	5
+22994649	gene/protein	Light-dependent protochlorophyllide reductase	2
+22994649	gene/protein	Protochlorophyllide reductase	1
+22994649	gene/protein	mediator of RNA polymerase II transcription subunit 10 (zebrafish)	1
+22994649	organism	Hemiptera	6
+22994649	organism	Enterobacteriaceae	4
+22994649	organism	bacterium IFAM-3211	2
+22994649	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+22994649	organism	bacterium IFAM-3215	2
+22994649	organism	bacterium IFAM-2074	2
+22994649	organism	bacterium IFAM-3359	2
+22994649	organism	bacterium	2
+22994649	organism	bacterium IFAM-1493	2
+22994649	organism	Candidatus Brownia rhizoecola	1
+22994649	sequence	rRNA_16S	1
+22994649	sequence	rRNA_18S	1
+22994649	sequence	rRNA_gene	1
+22994649	sequence	region	1
+22994649	sequence	duplication	1
+22994649	organ/tissue	scale	6
+22994649	organ/tissue	primitive knot	1

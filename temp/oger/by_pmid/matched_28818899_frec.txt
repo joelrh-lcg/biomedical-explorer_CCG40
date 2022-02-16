@@ -1,0 +1,5 @@
+28818899	chemical	methane	3
+28818899	chemical	carbon	2
+28818899	chemical	mineral	1
+28818899	sequence	genome	2
+28818899	sequence	sequence	1

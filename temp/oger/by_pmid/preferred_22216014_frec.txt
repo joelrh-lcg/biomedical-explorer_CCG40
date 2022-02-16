@@ -1,0 +1,17 @@
+22216014	gene/protein	synaptogyrin (fruit fly)	3
+22216014	gene/protein	F-box/WD repeat-containing protein 7 (fruit fly)	1
+22216014	organism	Azospirillum	4
+22216014	organism	bacterium IFAM-3211	2
+22216014	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+22216014	organism	bacterium IFAM-3215	2
+22216014	organism	bacterium IFAM-2074	2
+22216014	organism	bacterium IFAM-3359	2
+22216014	organism	bacterium	2
+22216014	organism	bacterium IFAM-1493	2
+22216014	sequence	gene	4
+22216014	sequence	transition	2
+22216014	sequence	region	2
+22216014	sequence	genome	2
+22216014	sequence	orthologous_region	1
+22216014	organ/tissue	multicellular organism	1
+22216014	organ/tissue	start of neonate stage	1

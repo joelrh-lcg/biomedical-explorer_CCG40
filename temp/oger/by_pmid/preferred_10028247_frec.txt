@@ -1,0 +1,26 @@
+10028247	biological_process	symbiotic process	1
+10028247	chemical	RNA, Ribosomal, 16S	5
+10028247	chemical	acid	1
+10028247	chemical	base	1
+10028247	gene/protein	biotin carboxylase	1
+10028247	gene/protein	biotin carboxylase (Escherichia coli K-12)	1
+10028247	gene/protein	cardiolipin synthase A	1
+10028247	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+10028247	organism	Mesorhizobium amorphae	3
+10028247	organism	unidentified plasmid	2
+10028247	organism	Amorpha fruticosa	1
+10028247	organism	bacterium IFAM-3211	1
+10028247	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+10028247	organism	bacterium IFAM-3215	1
+10028247	organism	bacterium IFAM-2074	1
+10028247	organism	bacterium IFAM-3359	1
+10028247	organism	bacterium	1
+10028247	organism	bacterium IFAM-1493	1
+10028247	organism	Mesorhizobium	1
+10028247	sequence	rRNA_16S	5
+10028247	sequence	rRNA_gene	5
+10028247	sequence	RFLP_fragment	2
+10028247	sequence	plasmid	2
+10028247	sequence	base	1
+10028247	organ/tissue	cerebellum vermis lobule X	1
+10028247	organ/tissue	germinal center	1

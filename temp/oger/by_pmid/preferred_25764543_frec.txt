@@ -1,0 +1,17 @@
+25764543	biological_process	pathogenesis	1
+25764543	biological_process	obsolete virulence	1
+25764543	biological_process	viral process	1
+25764543	chemical	virulence factor	1
+25764543	disease	Disease Susceptibility	2
+25764543	organism	Spiroplasma	3
+25764543	organism	Arthropods	3
+25764543	organism	bacterium IFAM-3211	2
+25764543	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+25764543	organism	bacterium IFAM-3215	2
+25764543	organism	bacterium IFAM-2074	2
+25764543	organism	bacterium IFAM-3359	2
+25764543	organism	bacterium	2
+25764543	organism	bacterium IFAM-1493	2
+25764543	organism	Eukaryota	1
+25764543	sequence	region	2
+25764543	sequence	genome	2

@@ -1,0 +1,37 @@
+27886269	biological_process	pathogenesis	4
+27886269	biological_process	obsolete virulence	4
+27886269	biological_process	viral process	4
+27886269	biological_process	gene expression	1
+27886269	biological_process	biological regulation	1
+27886269	cellular_component	chromosomal region	2
+27886269	chemical	lambda Spi-1	12
+27886269	chemical	phenol	2
+27886269	disease	Infections	2
+27886269	gene/protein	Serine protease inhibitor A3L	6
+27886269	gene/protein	transcription factor PU.1	6
+27886269	gene/protein	transcription factor PU.1 (rat)	6
+27886269	gene/protein	serine protease inhibitor 1 protein (worm)	6
+27886269	gene/protein	GTP-binding nuclear protein spi1 (Schizosaccharomyces pombe 972h-)	6
+27886269	gene/protein	transcription factor PU.1 (human)	6
+27886269	gene/protein	Alpha-1-antiproteinase 1	6
+27886269	gene/protein	transcription factor PU.1 (mouse)	6
+27886269	gene/protein	uncharacterized cell wall protein SPI1 (yeast)	6
+27886269	gene/protein	Transcriptional regulator HilD	2
+27886269	gene/protein	protein PhoH	2
+27886269	gene/protein	protein PhoH (Escherichia coli K-12)	2
+27886269	gene/protein	tryptophan 2,3-dioxygenase (human)	1
+27886269	organism	Salmonella	3
+27886269	organism	Salmonella enterica	2
+27886269	organism	Humans	1
+27886269	organism	bacterium IFAM-3211	1
+27886269	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+27886269	organism	bacterium IFAM-3215	1
+27886269	organism	bacterium IFAM-2074	1
+27886269	organism	bacterium IFAM-3359	1
+27886269	organism	bacterium	1
+27886269	organism	bacterium IFAM-1493	1
+27886269	sequence	gene	12
+27886269	sequence	regulon	1
+27886269	cell_line	SP1	6
+27886269	organ/tissue	animal hemisphere	1
+27886269	organ/tissue	multicellular organism	1

@@ -1,0 +1,55 @@
+24077251	biological_process	cellular homeostasis	1
+24077251	cellular_component	obsolete protein	2
+24077251	chemical	oxidooxomethyl	7
+24077251	chemical	cobalt(2+)	7
+24077251	chemical	carbon dioxide	7
+24077251	chemical	oxidocarbon(2+)	7
+24077251	chemical	protein	5
+24077251	chemical	nickel(2+)	5
+24077251	chemical	zinc(2+)	4
+24077251	chemical	dizinc	4
+24077251	chemical	zinc atom	4
+24077251	chemical	2 Fe(2+)	3
+24077251	chemical	manganese(2+)	3
+24077251	chemical	cadmium(2+)	2
+24077251	chemical	(protein)	2
+24077251	chemical	cation	1
+24077251	chemical	ion	1
+24077251	chemical	copper(2+)	1
+24077251	chemical	base	1
+24077251	chemical	L-asparagine residue	1
+24077251	chemical	L-asparaginyl group	1
+24077251	chemical	N(2)-L-asparagino group	1
+24077251	chemical	L-asparagine	1
+24077251	chemical	asparagine	1
+24077251	chemical	N(2)-L-arginino group	1
+24077251	chemical	L-arginine	1
+24077251	chemical	L-arginyl group	1
+24077251	chemical	L-arginine residue	1
+24077251	chemical	argininate	1
+24077251	gene/protein	Interleukin-6	4
+24077251	gene/protein	interleukin-6	4
+24077251	gene/protein	T-cell surface antigen CD2 (human)	2
+24077251	gene/protein	T-cell surface antigen CD2 (rat)	2
+24077251	gene/protein	T-cell surface antigen CD2 (mouse)	2
+24077251	gene/protein	CD2 molecule	2
+24077251	gene/protein	protein	2
+24077251	gene/protein	arginine-glutamic acid dipeptide repeats protein	1
+24077251	gene/protein	tyrosine-protein kinase ABL2 (human)	1
+24077251	gene/protein	arginine-glutamic acid dipeptide repeats protein (human)	1
+24077251	gene/protein	tyrosine-protein kinase ABL2 (mouse)	1
+24077251	gene/protein	tyrosine-protein kinase ABL2	1
+24077251	organism	Rhizobium etli	3
+24077251	organism	Escherichia coli	2
+24077251	sequence	polypeptide	2
+24077251	sequence	base	1
+24077251	sequence	gene	1
+24077251	sequence	asparagine	1
+24077251	sequence	arginine	1
+24077251	sequence	sequence_variant_obs	1
+24077251	cell_line	MN-2	3
+24077251	cell_line	MAC-T CU-2	1
+24077251	cell_line	CU2	1
+24077251	cell_line	CU-2	1
+24077251	clinical_drug	Magnesium Cation	3
+24077251	clinical_drug	CUPRIC CATION	1

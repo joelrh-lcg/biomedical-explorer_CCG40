@@ -1,0 +1,36 @@
+31935179	biological_process	swimming	2
+31935179	biological_process	symbiotic process	1
+31935179	chemical	succinoglycan	4
+31935179	chemical	polyamine macromolecule	2
+31935179	chemical	polyamine polymer	2
+31935179	chemical	polyamine	2
+31935179	chemical	galactoglucan	2
+31935179	chemical	Spermidine	2
+31935179	chemical	sphingoid	2
+31935179	chemical	norspermidine	2
+31935179	chemical	Spermine	2
+31935179	chemical	specialised pro-resolving mediator	2
+31935179	chemical	Ornithine Decarboxylase	1
+31935179	chemical	exopolysaccharide	1
+31935179	chemical	spermidine	1
+31935179	chemical	spermidine(3+)	1
+31935179	chemical	bis(3-aminopropyl)amine	1
+31935179	chemical	bis(3-azaniumylpropyl)azanium	1
+31935179	chemical	spermine	1
+31935179	chemical	spermine(4+)	1
+31935179	disease	Meier-Gorlin syndrome	3
+31935179	disease	Scapuloperoneal Myopathy, X-Linked Dominant	2
+31935179	gene/protein	Ornithine decarboxylase	20
+31935179	gene/protein	Autonomous transposable element EN-1 mosaic protein	2
+31935179	gene/protein	ornithine decarboxylase	1
+31935179	gene/protein	ryanodine receptor (fruit fly)	1
+31935179	organism	Medicago sativa	2
+31935179	organism	Ursus sp.	1
+31935179	organism	unidentified plasmid	1
+31935179	sequence	gene	1
+31935179	sequence	plasmid	1
+31935179	organ/tissue	extrapyramidal tract system	3
+31935179	organ/tissue	cerebellum vermis lobule X	2
+31935179	organ/tissue	germinal center	2
+31935179	clinical_drug	Ornithine	1
+31935179	clinical_drug	Medicago sativa whole extract	1

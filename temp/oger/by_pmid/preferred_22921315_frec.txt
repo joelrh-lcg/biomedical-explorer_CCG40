@@ -1,0 +1,10 @@
+22921315	disease	Influenza, Human	6
+22921315	disease	Disease	2
+22921315	gene/protein	tumor necrosis factor ligand superfamily member 13 (mouse)	1
+22921315	organism	Swine	3
+22921315	organism	Sus scrofa	3
+22921315	organism	unidentified influenza virus	1
+22921315	organism	Orthomyxoviridae	1
+22921315	organism	Humans	1
+22921315	sequence	region	2
+22921315	cell_line	RL male 1	1

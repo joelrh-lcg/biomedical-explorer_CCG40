@@ -1,0 +1,4 @@
+34461312	biological_process	regulation	2
+34461312	biological_process	transcription	2
+34461312	organism	bacterium	7
+34461312	organism	e coli	2

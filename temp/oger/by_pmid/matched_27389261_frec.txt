@@ -1,0 +1,9 @@
+27389261	chemical	trna	2
+27389261	molecular_function	trna	1
+27389261	organism	klebsiella quasipneumoniae	2
+27389261	sequence	genome	2
+27389261	sequence	sequence	2
+27389261	sequence	contig	1
+27389261	sequence	trna gene	1
+27389261	organ/tissue	urine	1
+27389261	organ/tissue	adult	1

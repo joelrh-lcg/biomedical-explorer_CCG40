@@ -1,0 +1,32 @@
+24262067	biological_process	pathogenesis	1
+24262067	biological_process	obsolete virulence	1
+24262067	biological_process	viral process	1
+24262067	biological_process	conjugation	1
+24262067	chemical	Ceftriaxone	2
+24262067	chemical	hydrogen donor	1
+24262067	chemical	donor	1
+24262067	chemical	ceftriaxone	1
+24262067	gene/protein	Proton-activated chloride channel	24
+24262067	gene/protein	protein PALE CRESS, chloroplastic (Arabidopsis thaliana)	3
+24262067	gene/protein	proton-activated chloride channel	3
+24262067	gene/protein	cadherin-2 (zebrafish)	3
+24262067	gene/protein	linker for activation of T-cells family member 2 (mouse)	1
+24262067	gene/protein	homeotic protein labial (fruit fly)	1
+24262067	gene/protein	linker for activation of T-cells family member 2	1
+24262067	gene/protein	linker for activation of T-cells family member 2 (human)	1
+24262067	gene/protein	linker for activation of T-cells family member 2 (rat)	1
+24262067	gene/protein	linker for activation of T-cells family member 2 (chicken)	1
+24262067	organism	unidentified plasmid	3
+24262067	organism	Potato spindle tuber viroid	2
+24262067	organism	Escherichia coli	2
+24262067	organism	Salmonella typhimurium	1
+24262067	organism	unidentified	1
+24262067	organism	Salmonella	1
+24262067	organism	Sphingobacterium chuzhouense	1
+24262067	organism	Magnetospirillum caucaseum	1
+24262067	organism	Lopadostoma turgidum	1
+24262067	sequence	plasmid	3
+24262067	sequence	PAC	3
+24262067	sequence	five_prime_cis_splice_site	1
+24262067	sequence	gene	1
+24262067	clinical_drug	Ceftriaxone	1

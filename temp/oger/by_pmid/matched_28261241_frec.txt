@@ -1,0 +1,23 @@
+28261241	biological_process	disease resistance	1
+28261241	cellular_component	core	2
+28261241	cellular_component	protein	1
+28261241	chemical	cluster	2
+28261241	chemical	protein	2
+28261241	chemical	nucleotide	1
+28261241	disease	disease resistance	2
+28261241	gene/protein	protein	1
+28261241	organism	barley	2
+28261241	sequence	sequence	5
+28261241	sequence	gene	4
+28261241	sequence	transcript	2
+28261241	sequence	construct	1
+28261241	sequence	genome	1
+28261241	sequence	genotype	1
+28261241	sequence	accession	1
+28261241	sequence	substitution	1
+28261241	sequence	transposon	1
+28261241	sequence	protein	1
+28261241	sequence	domain	1
+28261241	organ/tissue	scale	1
+28261241	organ/tissue	matrix	1
+28261241	clinical_drug	barley	1

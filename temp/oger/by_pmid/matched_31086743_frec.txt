@@ -1,0 +1,41 @@
+31086743	biological_process	degradation	4
+31086743	biological_process	metabolism	2
+31086743	biological_process	efflux	2
+31086743	biological_process	gene expression	1
+31086743	biological_process	cellular process	1
+31086743	biological_process	transcription	1
+31086743	biological_process	amino acid transport	1
+31086743	biological_process	translation	1
+31086743	biological_process	reverse transcription	1
+31086743	biological_process	lyase Regulator	1
+31086743	biological_process	regulation	1
+31086743	biological_process	aromatic compound catabolism	1
+31086743	cellular_component	cellular process	1
+31086743	cellular_component	efflux pump	1
+31086743	chemical	methyl parathion	4
+31086743	chemical	pnp	3
+31086743	chemical	PNP	3
+31086743	chemical	parathion	3
+31086743	chemical	antibiotic	3
+31086743	chemical	amino acid	2
+31086743	chemical	cluster	2
+31086743	chemical	pathway	2
+31086743	chemical	isocitrate lyase	1
+31086743	chemical	aromatic compound	1
+31086743	chemical	xenobiotic	1
+31086743	chemical	pesticide	1
+31086743	gene/protein	pnp	666
+31086743	gene/protein	PNP	666
+31086743	gene/protein	isocitrate lyase	46
+31086743	gene/protein	porin	16
+31086743	gene/protein	IclR	2
+31086743	gene/protein	transcriptional regulator	1
+31086743	molecular_function	porin	1
+31086743	organism	strain test	1
+31086743	sequence	gene	8
+31086743	sequence	amino acid	1
+31086743	sequence	reverse	1
+31086743	sequence	chain	1
+31086743	sequence	gene group	1
+31086743	molecular_process	hydrolysis	2
+31086743	molecular_process	chain reaction	1

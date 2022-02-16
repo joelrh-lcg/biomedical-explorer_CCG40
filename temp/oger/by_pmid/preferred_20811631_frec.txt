@@ -1,0 +1,19 @@
+20811631	biological_process	cell population proliferation	1
+20811631	biological_process	glycolytic process	1
+20811631	biological_process	oxidative phosphorylation	1
+20811631	chemical	Glucose	2
+20811631	chemical	Adenosine Triphosphate	2
+20811631	chemical	aldehydo-D-glucose	1
+20811631	chemical	D-glucopyranose	1
+20811631	chemical	glucose	1
+20811631	chemical	alpha-amino acid	1
+20811631	chemical	amino acid	1
+20811631	chemical	lipid	1
+20811631	chemical	nucleotide	1
+20811631	chemical	ATP(4-)	1
+20811631	chemical	ATP	1
+20811631	sequence	amino_acid	1
+20811631	cell	malignant cell	3
+20811631	organ/tissue	proliferative region	1
+20811631	clinical_drug	Dextrose, Unspecified Form	1
+20811631	clinical_drug	Adenosine Triphosphate	1

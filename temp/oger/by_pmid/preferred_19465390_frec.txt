@@ -1,0 +1,29 @@
+19465390	cellular_component	obsolete protein	2
+19465390	chemical	protein	2
+19465390	chemical	(protein)	2
+19465390	chemical	cluster	1
+19465390	chemical	base	1
+19465390	chemical	oligonucleotide	1
+19465390	gene/protein	Protochlorophyllide reductase, chloroplastic	10
+19465390	gene/protein	Light-dependent protochlorophyllide reductase	4
+19465390	gene/protein	Protochlorophyllide reductase	2
+19465390	gene/protein	protein	2
+19465390	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+19465390	gene/protein	extracellular adherence protein	1
+19465390	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+19465390	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+19465390	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+19465390	gene/protein	methionine aminopeptidase	1
+19465390	organism	synthetic construct	5
+19465390	sequence	primer	5
+19465390	sequence	region	3
+19465390	sequence	polypeptide	2
+19465390	sequence	PCR_product	2
+19465390	sequence	gene	1
+19465390	sequence	intron	1
+19465390	sequence	intron_variant	1
+19465390	sequence	base	1
+19465390	sequence	oligo	1
+19465390	organ/tissue	webbed interdigital region	1
+19465390	organ/tissue	multicellular organism	1
+19465390	clinical_drug	Align	1

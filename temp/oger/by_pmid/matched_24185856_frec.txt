@@ -1,0 +1,18 @@
+24185856	biological_process	morphogenesis	1
+24185856	biological_process	dna synthesis	1
+24185856	chemical	nucleotide	1
+24185856	chemical	proteins	1
+24185856	gene/protein	bean	3
+24185856	gene/protein	restriction enzyme	1
+24185856	organism	phage	7
+24185856	organism	bacteriophage	4
+24185856	organism	Rhizobium etli	2
+24185856	organism	collection	1
+24185856	sequence	phage	7
+24185856	sequence	genome	3
+24185856	sequence	sequence	3
+24185856	sequence	gene	3
+24185856	sequence	bacteriophage	2
+24185856	sequence	open reading frame	1
+24185856	sequence	orphan	1
+24185856	cell_line	bean	1

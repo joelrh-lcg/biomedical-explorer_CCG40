@@ -1,0 +1,23 @@
+24304674	biological_process	symbiotic process	1
+24304674	biological_process	transport	1
+24304674	biological_process	biological regulation	1
+24304674	chemical	nutrient	1
+24304674	chemical	picloram	1
+24304674	chemical	sulfoxaflor	1
+24304674	organism	bacterium IFAM-3211	3
+24304674	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+24304674	organism	bacterium IFAM-3215	3
+24304674	organism	bacterium IFAM-2074	3
+24304674	organism	bacterium IFAM-3359	3
+24304674	organism	bacterium	3
+24304674	organism	bacterium IFAM-1493	3
+24304674	organism	Saccharomyces cerevisiae	2
+24304674	organism	Rhizobium etli	2
+24304674	organism	synthetic construct	1
+24304674	organism	Eukaryota	1
+24304674	organism	Fungi	1
+24304674	organism	Yeasts	1
+24304674	sequence	genotype	1
+24304674	clinical_drug	saccharomyces cerevisiae allergenic extract	1
+24304674	clinical_drug	Saccharomyces cerevisiae	1
+24304674	clinical_drug	Yeast, Unspecified	1

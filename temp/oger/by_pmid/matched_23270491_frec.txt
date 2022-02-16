@@ -1,0 +1,14 @@
+23270491	biological_process	symbiosis	1
+23270491	chemical	antimicrobial	1
+23270491	chemical	pesticide	1
+23270491	disease	CIAT	1
+23270491	gene/protein	bean	3
+23270491	gene/protein	PRF	2
+23270491	organism	Rhizobium sp	6
+23270491	organism	Rhizobium tropici	2
+23270491	organism	Phaseolus vulgaris	2
+23270491	organism	CIAT 899	1
+23270491	organism	αProteobacteria	1
+23270491	organism	legume	1
+23270491	organism	unknown	1
+23270491	cell_line	bean	1

@@ -1,0 +1,17 @@
+30905871	biological_process	xenobiotic degradation	1
+30905871	biological_process	degradation	1
+30905871	biological_process	aromatic compound metabolism	1
+30905871	cellular_component	protein	2
+30905871	chemical	protein	4
+30905871	chemical	phenylacetic acid	3
+30905871	chemical	pathway	2
+30905871	chemical	sludge	2
+30905871	chemical	xenobiotic	1
+30905871	chemical	aromatic compound	1
+30905871	chemical	ester	1
+30905871	gene/protein	protein	2
+30905871	organism	e coli	2
+30905871	organism	sludge metagenome	1
+30905871	organism	Actinobacterium	1
+30905871	sequence	protein	2
+30905871	clinical_drug	phenylacetic acid	1

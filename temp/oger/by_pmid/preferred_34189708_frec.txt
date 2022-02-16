@@ -1,0 +1,27 @@
+34189708	biological_process	response to desiccation	1
+34189708	biological_process	cellular response to desiccation	1
+34189708	biological_process	translation	1
+34189708	biological_process	response to stress	1
+34189708	biological_process	response to abiotic stimulus	1
+34189708	biological_process	obsolete germination	1
+34189708	biological_process	response to water deprivation	1
+34189708	cellular_component	photosystem II	1
+34189708	cellular_component	obsolete protein	1
+34189708	cellular_component	obsolete soluble fraction	1
+34189708	chemical	(+)-abscisic acid	7
+34189708	chemical	(-)-abscisic acid	7
+34189708	chemical	4,4'-azodibenzenearsonic acid	6
+34189708	chemical	Abscisic Acid	2
+34189708	chemical	abscisic acids	1
+34189708	chemical	2-cis-abscisic acid	1
+34189708	chemical	Photosystem II Protein Complex	1
+34189708	chemical	protein synthesis inhibitor	1
+34189708	chemical	sodium chloride	1
+34189708	disease	Dehydration	6
+34189708	gene/protein	Agaricus bisporus lectin	6
+34189708	gene/protein	protein psiI (Dictyostelium discoideum)	1
+34189708	gene/protein	protein	1
+34189708	organism	Pseudocrossidium replicatum	2
+34189708	organism	Spores	1
+34189708	sequence	polypeptide	1
+34189708	organ/tissue	tissue	2

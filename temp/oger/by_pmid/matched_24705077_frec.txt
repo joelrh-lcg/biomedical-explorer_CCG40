@@ -1,0 +1,28 @@
+24705077	biological_process	uptake	2
+24705077	biological_process	synthesis	1
+24705077	biological_process	signal transduction	1
+24705077	biological_process	transport	1
+24705077	biological_process	metabolism	1
+24705077	biological_process	biosynthesis	1
+24705077	biological_process	catabolism	1
+24705077	cellular_component	core	2
+24705077	chemical	carbohydrate	3
+24705077	chemical	phytohormone	2
+24705077	chemical	cbg	2
+24705077	chemical	proteins	2
+24705077	chemical	iron	1
+24705077	gene/protein	cbg	17
+24705077	gene/protein	sp b	8
+24705077	gene/protein	grass	1
+24705077	organism	bacterium	7
+24705077	organism	azospirillum	2
+24705077	organism	maize	2
+24705077	organism	cereal	1
+24705077	organism	azospirillum sp	1
+24705077	organism	Azospirillum	1
+24705077	sequence	genome	7
+24705077	sequence	gene	3
+24705077	sequence	signal	2
+24705077	sequence	sequence	1
+24705077	cell_line	245 a	1
+24705077	clinical_drug	iron	1

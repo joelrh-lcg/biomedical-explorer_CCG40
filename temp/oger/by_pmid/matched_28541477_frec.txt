@@ -1,0 +1,27 @@
+28541477	biological_process	gene conversion	2
+28541477	biological_process	rna editing	1
+28541477	cellular_component	nucleus	5
+28541477	cellular_component	mitochondrion	2
+28541477	cellular_component	protein	1
+28541477	cellular_component	mitochondrial dna	1
+28541477	cellular_component	mitochondrial genome	1
+28541477	chemical	nucleus	5
+28541477	chemical	ribosomal protein	1
+28541477	chemical	mitochondrial dna	1
+28541477	disease	rpl	4
+28541477	gene/protein	rpl5	44
+28541477	gene/protein	grass	4
+28541477	gene/protein	rna	2
+28541477	gene/protein	protein	1
+28541477	molecular_function	ribosomal protein	1
+28541477	organism	angiosperm	2
+28541477	organism	Poaceae	1
+28541477	sequence	gene	8
+28541477	sequence	mitochondrial gene	3
+28541477	sequence	intron	2
+28541477	sequence	protein	1
+28541477	sequence	insertion	1
+28541477	sequence	mitochondrial dna	1
+28541477	sequence	genome	1
+28541477	sequence	sequence	1
+28541477	organ/tissue	nucleus	5

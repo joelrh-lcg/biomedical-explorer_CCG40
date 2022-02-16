@@ -1,0 +1,16 @@
+27573474	biological_process	fermentation	1
+27573474	chemical	acetic acid	9
+27573474	chemical	glucose	5
+27573474	chemical	xylose	4
+27573474	chemical	bagasse	2
+27573474	chemical	carbon	2
+27573474	chemical	nutrient	1
+27573474	chemical	pathway	1
+27573474	gene/protein	dla	4
+27573474	gene/protein	10l	1
+27573474	organism	Escherichia coli	2
+27573474	organism	e coli	2
+27573474	sequence	delete	1
+27573474	organ/tissue	scale	1
+27573474	clinical_drug	acetic acid	3
+27573474	clinical_drug	glucose	1

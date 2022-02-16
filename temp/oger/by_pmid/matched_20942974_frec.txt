@@ -1,0 +1,11 @@
+20942974	biological_process	symbiosis	1
+20942974	cellular_component	extracellular	2
+20942974	chemical	proteome	2
+20942974	chemical	element	1
+20942974	chemical	proteins	1
+20942974	chemical	ce3	1
+20942974	disease	infection	2
+20942974	organism	bacterium	7
+20942974	organism	Rhizobium etli	2
+20942974	cell_line	ce3	1
+20942974	organ/tissue	element	1

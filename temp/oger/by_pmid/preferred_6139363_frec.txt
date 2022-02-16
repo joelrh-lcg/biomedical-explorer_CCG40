@@ -1,0 +1,20 @@
+6139363	chemical	Glutamine	4
+6139363	chemical	alpha-particle	4
+6139363	chemical	electron	4
+6139363	chemical	positron	4
+6139363	chemical	glutamine	2
+6139363	chemical	L-glutamine	2
+6139363	chemical	Glutamate-Ammonia Ligase	2
+6139363	chemical	polypeptide	2
+6139363	gene/protein	Glutamine synthetase	244
+6139363	gene/protein	glutamine synthetase	2
+6139363	gene/protein	proteolytic cleavage product	2
+6139363	gene/protein	amino acid chain	2
+6139363	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+6139363	molecular_function	glutamate-ammonia ligase activity	1
+6139363	organism	Neurospora crassa	2
+6139363	sequence	glutamine	4
+6139363	sequence	polypeptide	2
+6139363	sequence	sequence_variant_obs	1
+6139363	sequence	gene	1
+6139363	clinical_drug	Glutamine	4

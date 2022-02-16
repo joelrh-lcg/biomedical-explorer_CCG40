@@ -1,0 +1,13 @@
+23805147	biological_process	mutagenesis	2
+23805147	chemical	neutron	1
+23805147	gene/protein	Red	3
+23805147	gene/protein	bean	3
+23805147	organism	Hawk	3
+23805147	organism	Phaseolus vulgaris	2
+23805147	sequence	deletion	4
+23805147	sequence	genome	2
+23805147	sequence	mutagenesis	2
+23805147	sequence	sequence	1
+23805147	sequence	gene	1
+23805147	sequence	candidate gene	1
+23805147	cell_line	bean	1

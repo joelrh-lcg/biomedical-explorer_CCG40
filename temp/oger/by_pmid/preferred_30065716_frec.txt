@@ -1,0 +1,13 @@
+30065716	chemical	fungicide	3
+30065716	chemical	hypofluorous acid	2
+30065716	disease	Disease	4
+30065716	gene/protein	nuclear pore complex protein NUP96 (Arabidopsis thaliana)	1
+30065716	molecular_function	deoxyribodipyrimidine photo-lyase activity	1
+30065716	organism	synthetic construct	3
+30065716	organism	Fungi	2
+30065716	organism	Yeasts	2
+30065716	sequence	pheromone_response_element	1
+30065716	sequence	gene	1
+30065716	cell_line	HOF	2
+30065716	organ/tissue	pigmented layer of retina	1
+30065716	clinical_drug	Yeast, Unspecified	2

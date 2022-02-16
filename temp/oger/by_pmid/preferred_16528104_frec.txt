@@ -1,0 +1,31 @@
+16528104	chemical	Immunoglobulin A, Secretory	4
+16528104	chemical	RNA polymerase sigma 70	1
+16528104	chemical	Sigma Factor	1
+16528104	chemical	alpha-amino acid	1
+16528104	chemical	amino acid	1
+16528104	gene/protein	RNA polymerase sigma factor RpoD	37
+16528104	gene/protein	RNA polymerase sigma factor SigA (Staphylococcus aureus subsp. aureus NCTC 8325)	6
+16528104	gene/protein	RNA polymerase sigma factor SigA (Bacillus subtilis subsp. subtilis str. 168)	6
+16528104	gene/protein	RNA polymerase sigma factor sigB (Arabidopsis thaliana)	4
+16528104	gene/protein	NADP-dependent malic enzyme (Dictyostelium discoideum)	4
+16528104	gene/protein	RNA polymerase sigma factor sigA (Arabidopsis thaliana)	4
+16528104	gene/protein	RNA polymerase sigma factor SigA	3
+16528104	gene/protein	RNA polymerase sigma factor RpoD (Escherichia coli K-12)	2
+16528104	gene/protein	beta-glucuronidase (Escherichia coli K-12)	1
+16528104	gene/protein	lymphocyte transmembrane adapter 1	1
+16528104	gene/protein	lymphocyte transmembrane adapter 1 (mouse)	1
+16528104	gene/protein	lymphocyte transmembrane adapter 1 (human)	1
+16528104	gene/protein	lymphocyte transmembrane adapter 1 (rat)	1
+16528104	organism	Rhizobium etli	2
+16528104	organism	Escherichia coli	2
+16528104	organism	collection	1
+16528104	sequence	promoter	7
+16528104	sequence	region	5
+16528104	sequence	consensus	2
+16528104	sequence	genomic_DNA	1
+16528104	sequence	engineered_region	1
+16528104	sequence	vector_replicon	1
+16528104	sequence	gene	1
+16528104	sequence	clone	1
+16528104	sequence	5KB_upstream_variant	1
+16528104	sequence	amino_acid	1

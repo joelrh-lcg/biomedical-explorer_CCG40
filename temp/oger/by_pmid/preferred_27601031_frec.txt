@@ -1,0 +1,24 @@
+27601031	chemical	nitrogen atom	1
+27601031	chemical	nitrogen(.)	1
+27601031	chemical	Proteome	1
+27601031	disease	COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	1
+27601031	gene/protein	Protein BEAN1	2
+27601031	gene/protein	protein BEAN	1
+27601031	organism	Rhizobium phaseoli	2
+27601031	organism	Sinorhizobium americanum	2
+27601031	organism	bacterium IFAM-3211	1
+27601031	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+27601031	organism	bacterium IFAM-3215	1
+27601031	organism	bacterium IFAM-2074	1
+27601031	organism	bacterium IFAM-3359	1
+27601031	organism	bacterium	1
+27601031	organism	bacterium IFAM-1493	1
+27601031	organism	Fabaceae	1
+27601031	organism	Phaseolus	1
+27601031	organism	Phaseolus vulgaris	1
+27601031	sequence	copy_number_gain	1
+27601031	sequence	region	1
+27601031	cell_line	R1192	1
+27601031	organ/tissue	cerebellum vermis lobule X	2
+27601031	organ/tissue	germinal center	2
+27601031	clinical_drug	Nitrogen	1

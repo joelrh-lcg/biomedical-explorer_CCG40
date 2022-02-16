@@ -1,0 +1,8 @@
+24812050	chemical	antibiotic	12
+24812050	chemical	antimicrobial drug	1
+24812050	chemical	base	1
+24812050	chemical	probe	1
+24812050	organism	bacterium	14
+24812050	organism	Escherichia coli	2
+24812050	sequence	base	1
+24812050	sequence	probe	1

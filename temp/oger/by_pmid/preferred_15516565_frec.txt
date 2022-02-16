@@ -1,0 +1,47 @@
+15516565	biological_process	homologous recombination	1
+15516565	biological_process	biological regulation	1
+15516565	cellular_component	obsolete protein	1
+15516565	chemical	protein	1
+15516565	chemical	(protein)	1
+15516565	chemical	hydrogen donor	1
+15516565	chemical	donor	1
+15516565	gene/protein	26S proteasome non-ATPase regulatory subunit 6	21
+15516565	gene/protein	prophage integrase IntA (Escherichia coli K-12)	3
+15516565	gene/protein	prophage integrase IntA	3
+15516565	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+15516565	gene/protein	protein	1
+15516565	gene/protein	protein RecA (Brucella abortus bv. 1 str. 9-941)	1
+15516565	gene/protein	protein RecA (Mycobacterium tuberculosis H37Rv)	1
+15516565	gene/protein	DNA repair protein RAD51 homolog 1 (mouse)	1
+15516565	gene/protein	protein RecA	1
+15516565	gene/protein	DNA repair protein RAD51 homolog 1	1
+15516565	gene/protein	protein RecA (Brucella suis 1330)	1
+15516565	gene/protein	mitochondrial DNA repair protein recA homolog (Dictyostelium discoideum)	1
+15516565	gene/protein	protein RecA (Escherichia coli K-12)	1
+15516565	gene/protein	protein RecA (Brucella canis ATCC 23365)	1
+15516565	gene/protein	DNA repair protein RAD51 homolog 1 (human)	1
+15516565	gene/protein	protein RecA (Brucella suis ATCC 23445)	1
+15516565	gene/protein	protein RecA (Brucella melitensis ATCC 23457)	1
+15516565	gene/protein	DNA repair protein recA homolog 1, chloroplastic (Arabidopsis thaliana)	1
+15516565	gene/protein	protein RecA (Brucella abortus 2308)	1
+15516565	organism	unidentified plasmid	5
+15516565	organism	Rhizobium etli	3
+15516565	organism	Bacteriophages	1
+15516565	sequence	plasmid	5
+15516565	sequence	integration_excision_site	3
+15516565	sequence	region	2
+15516565	sequence	junction	2
+15516565	sequence	gene	2
+15516565	sequence	invert	1
+15516565	sequence	polypeptide_repeat	1
+15516565	sequence	phage_sequence	1
+15516565	sequence	polypeptide	1
+15516565	sequence	5KB_downstream_variant	1
+15516565	sequence	sequence_variant_obs	1
+15516565	sequence	five_prime_cis_splice_site	1
+15516565	sequence	homologous	1
+15516565	cell_line	RECA	1
+15516565	organ/tissue	attachment site	3
+15516565	organ/tissue	anatomical junction	2
+15516565	organ/tissue	organismal segment	1
+15516565	organ/tissue	lateral lumbar region of abdomen	1

@@ -1,0 +1,20 @@
+28017900	biological_process	export across plasma membrane	3
+28017900	biological_process	export from cell	3
+28017900	biological_process	translation	2
+28017900	biological_process	transcription, DNA-templated	1
+28017900	chemical	ethanolamine	8
+28017900	chemical	5' Untranslated Regions	6
+28017900	chemical	ethidium bromide	5
+28017900	chemical	Ethidium	2
+28017900	chemical	methyl isocyanate	2
+28017900	chemical	base	1
+28017900	gene/protein	Synaptosomal-associated protein 25	35
+28017900	gene/protein	transcriptional regulator SUPERMAN (Arabidopsis thaliana)	7
+28017900	gene/protein	synaptosomal-associated protein 25	7
+28017900	organism	Staphylococcus aureus	2
+28017900	sequence	sequence_variant_obs	9
+28017900	sequence	five_prime_UTR	6
+28017900	sequence	gene	4
+28017900	sequence	base	1
+28017900	sequence	region	1
+28017900	cell_line	MIC	2

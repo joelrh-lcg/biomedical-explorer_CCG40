@@ -1,0 +1,28 @@
+12833533	biological_process	metabolism	6
+12833533	biological_process	synthesis	1
+12833533	biological_process	regulation	1
+12833533	cellular_component	protein	2
+12833533	chemical	thiamine	10
+12833533	chemical	biotin	8
+12833533	chemical	proteins	6
+12833533	chemical	protein	4
+12833533	chemical	pyruvate	3
+12833533	chemical	proteome	2
+12833533	chemical	beta	2
+12833533	chemical	carbon	2
+12833533	chemical	dehydrogenase	1
+12833533	chemical	malate dehydrogenase	1
+12833533	chemical	synthetase	1
+12833533	gene/protein	malate dehydrogenase	527
+12833533	gene/protein	dnak	8
+12833533	gene/protein	groel	6
+12833533	gene/protein	katg	4
+12833533	gene/protein	protein	2
+12833533	gene/protein	dehydrogenase	1
+12833533	organism	Rhizobium etli	2
+12833533	sequence	transition	2
+12833533	sequence	protein	2
+12833533	sequence	class i	1
+12833533	clinical_drug	biotin	2
+12833533	clinical_drug	thiamine	2
+12833533	clinical_drug	pyruvate	1

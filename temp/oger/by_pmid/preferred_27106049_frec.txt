@@ -1,0 +1,28 @@
+27106049	biological_process	symbiotic process	2
+27106049	biological_process	metabolic process	1
+27106049	biological_process	obsolete electron transport	1
+27106049	cellular_component	respirasome	1
+27106049	cellular_component	NADH dehydrogenase complex	1
+27106049	chemical	electron	2
+27106049	chemical	Adenosine Triphosphate	2
+27106049	chemical	nitrogen atom	1
+27106049	chemical	nitrogen(.)	1
+27106049	chemical	metabolite	1
+27106049	chemical	ATP(4-)	1
+27106049	chemical	ATP	1
+27106049	chemical	Nitrogenase	1
+27106049	disease	Bacterial Infections	2
+27106049	gene/protein	NADH-ubiquinone oxidoreductase 10.5 kDa subunit	1
+27106049	organism	bacterium IFAM-3211	2
+27106049	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+27106049	organism	bacterium IFAM-3215	2
+27106049	organism	bacterium IFAM-2074	2
+27106049	organism	bacterium IFAM-3359	2
+27106049	organism	bacterium	2
+27106049	organism	bacterium IFAM-1493	2
+27106049	organism	Rhizobiaceae	1
+27106049	sequence	mature_protein_region	1
+27106049	organ/tissue	cerebellum vermis lobule X	2
+27106049	organ/tissue	germinal center	2
+27106049	clinical_drug	Nitrogen	1
+27106049	clinical_drug	Adenosine Triphosphate	1

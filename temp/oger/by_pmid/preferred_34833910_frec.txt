@@ -1,0 +1,34 @@
+34833910	biological_process	obsolete pathogen-associated molecular pattern dependent induction by symbiont of host innate immune response	1
+34833910	cellular_component	cell surface	1
+34833910	chemical	ethylene	3
+34833910	chemical	jasmonic acid	3
+34833910	chemical	Oils, Volatile	2
+34833910	chemical	Chitosan	2
+34833910	chemical	Silicon	2
+34833910	chemical	protein	1
+34833910	chemical	picloram	1
+34833910	chemical	ethylene group	1
+34833910	chemical	ethene	1
+34833910	chemical	(+)-jasmonic acid	1
+34833910	chemical	4-tolyl isocyanate	1
+34833910	chemical	essential oil	1
+34833910	chemical	antagonist	1
+34833910	chemical	chitosan	1
+34833910	chemical	cationic chitosan	1
+34833910	chemical	silicon atom	1
+34833910	chemical	antifungal agent	1
+34833910	disease	Disease	6
+34833910	gene/protein	Xaa-Pro aminopeptidase 2	3
+34833910	gene/protein	ATP-dependent zinc metalloprotease YME1L1	2
+34833910	gene/protein	sensor histidine kinase GraS (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+34833910	gene/protein	gamma-aminobutyraldehyde dehydrogenase	1
+34833910	gene/protein	gamma-aminobutyraldehyde dehydrogenase (Escherichia coli K-12)	1
+34833910	gene/protein	serpin B6	1
+34833910	gene/protein	serpin B6 (human)	1
+34833910	molecular_function	pattern recognition receptor activity	1
+34833910	organism	Persea americana	3
+34833910	organism	Persea	3
+34833910	organ/tissue	tissue	1
+34833910	clinical_drug	Persea gratissima allergenic extract	3
+34833910	clinical_drug	Ethylene	1
+34833910	clinical_drug	Silicon	1

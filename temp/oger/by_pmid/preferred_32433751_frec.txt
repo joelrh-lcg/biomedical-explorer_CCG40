@@ -1,0 +1,19 @@
+32433751	biological_process	sex determination	4
+32433751	cellular_component	sex chromosome	2
+32433751	cellular_component	chromosome	1
+32433751	cellular_component	chromosomal region	1
+32433751	chemical	maleate(2-)	1
+32433751	chemical	tetradecanoyl group	1
+32433751	gene/protein	protein cueball (fruit fly)	1
+32433751	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT (Escherichia coli K-12)	1
+32433751	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT	1
+32433751	organism	Reptiles	3
+32433751	organism	Eulamprus tympanum	1
+32433751	organism	Eulamprus heatwolei	1
+32433751	organism	Leiostomus xanthurus	1
+32433751	sequence	chromosome	3
+32433751	sequence	genome	1
+32433751	organ/tissue	tympanic cavity	1
+32433751	organ/tissue	tympanic membrane	1
+32433751	organ/tissue	male organism	1
+32433751	organ/tissue	melanophore spot	1

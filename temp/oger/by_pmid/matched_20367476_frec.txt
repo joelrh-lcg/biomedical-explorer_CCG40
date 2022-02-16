@@ -1,0 +1,31 @@
+20367476	biological_process	response to flooding	4
+20367476	biological_process	formation	3
+20367476	biological_process	signaling	1
+20367476	biological_process	symbiotic interaction	1
+20367476	chemical	nitrite	4
+20367476	chemical	nitric oxide	3
+20367476	chemical	napa	2
+20367476	chemical	nitrite reductase	2
+20367476	chemical	nitrogenase	2
+20367476	chemical	signaling molecule	1
+20367476	chemical	napA	1
+20367476	chemical	nitrate reductase	1
+20367476	gene/protein	periplasmic nitrate reductase	135
+20367476	gene/protein	napa	24
+20367476	gene/protein	napA	12
+20367476	gene/protein	Nap	10
+20367476	gene/protein	nitrite reductase	8
+20367476	gene/protein	nirK	3
+20367476	gene/protein	nirk	2
+20367476	gene/protein	cue	1
+20367476	gene/protein	nifH	1
+20367476	molecular_function	signaling molecule	1
+20367476	molecular_function	nitrogenase activity	1
+20367476	organism	soybean	6
+20367476	organism	Bradyrhizobium japonicum	2
+20367476	sequence	gain	1
+20367476	sequence	fusion	1
+20367476	cell_line	Nap	1
+20367476	organ/tissue	nodule	26
+20367476	clinical_drug	soybean	6
+20367476	clinical_drug	nitric oxide	1

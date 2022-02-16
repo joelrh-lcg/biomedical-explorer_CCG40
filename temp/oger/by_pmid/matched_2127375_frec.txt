@@ -1,0 +1,5 @@
+2127375	chemical	base	2
+2127375	chemical	solution	1
+2127375	organism	Escherichia coli	2
+2127375	organism	Streptococcus	1
+2127375	sequence	base	2

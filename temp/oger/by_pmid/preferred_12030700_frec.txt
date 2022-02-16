@@ -1,0 +1,26 @@
+12030700	biological_process	symbiotic process	1
+12030700	chemical	sulfur atom	1
+12030700	chemical	DNA, Ribosomal	1
+12030700	gene/protein	Arabinose 5-phosphate isomerase KdsD	9
+12030700	gene/protein	Arabinose 5-phosphate isomerase GutQ	6
+12030700	gene/protein	Arabinose 5-phosphate isomerase KpsF	3
+12030700	gene/protein	Probable arabinose 5-phosphate isomerase	2
+12030700	gene/protein	arabinose 5-phosphate isomerase GutQ	1
+12030700	gene/protein	Guanyl-specific ribonuclease Ap1	1
+12030700	gene/protein	Aspartic protease inhibitor 8	1
+12030700	gene/protein	vacuolar aminopeptidase 1 (yeast)	1
+12030700	gene/protein	Protease 1	1
+12030700	gene/protein	Aminopeptidase S	1
+12030700	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+12030700	organism	Zea mays	15
+12030700	organism	Burkholderia	5
+12030700	organism	Zea luxurians	3
+12030700	organism	Zea diploperennis	3
+12030700	organism	Zea perennis	3
+12030700	organism	Seedlings	1
+12030700	organism	Bees	1
+12030700	sequence	region	2
+12030700	sequence	cytoplasmic_polypeptide_region	1
+12030700	sequence	RFLP_fragment	1
+12030700	sequence	rRNA_gene	1
+12030700	organ/tissue	tissue	2

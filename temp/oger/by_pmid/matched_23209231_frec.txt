@@ -1,0 +1,6 @@
+23209231	gene/protein	bean	3
+23209231	organism	Sinorhizobium fredii	2
+23209231	organism	soybean	2
+23209231	sequence	genome	1
+23209231	cell_line	bean	1
+23209231	clinical_drug	soybean	2

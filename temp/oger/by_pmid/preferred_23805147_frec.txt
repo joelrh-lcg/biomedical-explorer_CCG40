@@ -1,0 +1,15 @@
+23805147	biological_process	obsolete mutagenesis	2
+23805147	chemical	neutron	1
+23805147	gene/protein	protein Red (mouse)	3
+23805147	gene/protein	Protein BEAN1	2
+23805147	gene/protein	protein BEAN	1
+23805147	organism	Hawks	3
+23805147	organism	Phaseolus	1
+23805147	organism	Phaseolus vulgaris	1
+23805147	sequence	deletion	4
+23805147	sequence	genome	2
+23805147	sequence	mutated_variant_site	2
+23805147	sequence	region	1
+23805147	sequence	gene	1
+23805147	sequence	candidate_gene	1
+23805147	cell_line	R1192	1

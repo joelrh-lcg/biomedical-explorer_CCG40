@@ -1,0 +1,21 @@
+2866146	chemical	gln	12
+2866146	chemical	leu	6
+2866146	chemical	glutamine	4
+2866146	chemical	glutamine synthetase	1
+2866146	chemical	complement	1
+2866146	gene/protein	glutamine synthetase	123
+2866146	gene/protein	map	6
+2866146	gene/protein	leu2	3
+2866146	organism	S cerevisiae	4
+2866146	organism	Saccharomyces cerevisiae	2
+2866146	organism	plasmid	2
+2866146	sequence	gln	3
+2866146	sequence	gene	3
+2866146	sequence	glutamine	2
+2866146	sequence	construct	1
+2866146	sequence	plasmid vector	1
+2866146	sequence	plasmid	1
+2866146	sequence	leu	1
+2866146	sequence	clone	1
+2866146	clinical_drug	glutamine	2
+2866146	clinical_drug	Saccharomyces cerevisiae	2

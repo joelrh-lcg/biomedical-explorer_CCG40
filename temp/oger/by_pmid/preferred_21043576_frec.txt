@@ -1,0 +1,45 @@
+21043576	biological_process	cellular respiration	1
+21043576	biological_process	respiratory gaseous exchange by respiratory system	1
+21043576	biological_process	response to nitric oxide	1
+21043576	biological_process	biological regulation	1
+21043576	biological_process	biosynthetic process	1
+21043576	biological_process	response to nitrate	1
+21043576	chemical	Nitric Oxide	4
+21043576	chemical	nitrate	3
+21043576	chemical	Nitrate Reductase	2
+21043576	chemical	Oxidoreductases	2
+21043576	chemical	nitric oxide	2
+21043576	chemical	protein	1
+21043576	chemical	cluster	1
+21043576	chemical	nitrite	1
+21043576	chemical	Nitrite Reductases	1
+21043576	gene/protein	Nitrate reductase	10
+21043576	gene/protein	copper-containing nitrite reductase (Sinorhizobium meliloti 1021)	7
+21043576	gene/protein	Beta-catenin-like protein 1	4
+21043576	gene/protein	Protein BEAN1	4
+21043576	gene/protein	Nitrite reductase	4
+21043576	gene/protein	protein BEAN	2
+21043576	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+21043576	gene/protein	dosage compensation regulator (fruit fly)	1
+21043576	gene/protein	beta-catenin-like protein 1	1
+21043576	gene/protein	napsin-A (mouse)	1
+21043576	gene/protein	NAC transcription factor 29 (Arabidopsis thaliana)	1
+21043576	gene/protein	protein NAP1 (Arabidopsis thaliana)	1
+21043576	gene/protein	napsin-A	1
+21043576	gene/protein	cleavage and polyadenylation specificity factor subunit 4 (human)	1
+21043576	gene/protein	cleavage and polyadenylation specificity factor subunit 4	1
+21043576	molecular_function	nitrate reductase activity	1
+21043576	organism	Rhizobium etli	3
+21043576	sequence	gene	7
+21043576	sequence	operon	1
+21043576	sequence	gene_fusion	1
+21043576	sequence	null_mutation	1
+21043576	sequence	regulatory_region	1
+21043576	sequence	regulatory_region_variant	1
+21043576	sequence	wild_type	1
+21043576	cell_line	R1192	2
+21043576	cell_line	NAP	1
+21043576	organ/tissue	cerebellum vermis lobule X	1
+21043576	organ/tissue	germinal center	1
+21043576	clinical_drug	Nitric Oxide	2
+21043576	molecular_process	reduction	1

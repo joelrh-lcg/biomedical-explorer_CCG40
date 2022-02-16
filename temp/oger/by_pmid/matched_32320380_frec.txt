@@ -1,0 +1,2 @@
+32320380	gene/protein	to human	1
+32320380	organism	human	1

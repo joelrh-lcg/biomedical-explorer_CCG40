@@ -1,0 +1,100 @@
+32989088	biological_process	biosynthetic process	2
+32989088	biological_process	signaling	1
+32989088	cellular_component	dystrophin-associated glycoprotein complex	3
+32989088	cellular_component	phagophore assembly site	2
+32989088	cellular_component	obsolete protein	1
+32989088	chemical	Alginates	22
+32989088	chemical	bis(3',5')-cyclic diguanylic acid	12
+32989088	chemical	alginic acid	11
+32989088	chemical	alginate	11
+32989088	chemical	c-di-GMP	6
+32989088	chemical	oxygen atom	3
+32989088	chemical	exopolysaccharide	2
+32989088	chemical	4-aminosalicylic acid	2
+32989088	chemical	guanosine 5'-monophosphate(2-)	1
+32989088	chemical	guanosine 5'-monophosphate	1
+32989088	chemical	protein	1
+32989088	chemical	(protein)	1
+32989088	chemical	polysaccharide	1
+32989088	chemical	diguanylate cyclase	1
+32989088	chemical	polymer	1
+32989088	chemical	Polymers	1
+32989088	chemical	macromolecule	1
+32989088	disease	Pyridoxine-dependent epilepsy	2
+32989088	gene/protein	Glutamate--cysteine ligase	238
+32989088	gene/protein	Probable diguanylate cyclase DgcQ	30
+32989088	gene/protein	Diguanylate cyclase DosC	18
+32989088	gene/protein	Ceramide glucosyltransferase	16
+32989088	gene/protein	Glutamate--cysteine ligase, chloroplastic	10
+32989088	gene/protein	Mannose-1-phosphate guanylyltransferase	7
+32989088	gene/protein	Streptopain	7
+32989088	gene/protein	Probable diguanylate cyclase DgcI	6
+32989088	gene/protein	Probable diguanylate cyclase DgcF	6
+32989088	gene/protein	Probable diguanylate cyclase DgcC	6
+32989088	gene/protein	Diguanylate cyclase DgcM	6
+32989088	gene/protein	Glutamate--cysteine ligase EgtA	6
+32989088	gene/protein	Venom phosphodiesterase	4
+32989088	gene/protein	Probable diguanylate cyclase DgcT	3
+32989088	gene/protein	Diguanylate cyclase DgcN	3
+32989088	gene/protein	Probable diguanylate cyclase DgcJ	3
+32989088	gene/protein	diguanylate cyclase DgcM	3
+32989088	gene/protein	probable diguanylate cyclase DgcT	3
+32989088	gene/protein	Probable diguanylate cyclase DgcE	3
+32989088	gene/protein	Diguanylate cyclase VdcA	3
+32989088	gene/protein	probable diguanylate cyclase DgcC	3
+32989088	gene/protein	diguanylate cyclase DgcN	3
+32989088	gene/protein	Probable diguanylate cyclase CdgI	3
+32989088	gene/protein	diguanylate cyclase DgcZ	3
+32989088	gene/protein	probable diguanylate cyclase DgcQ	3
+32989088	gene/protein	probable diguanylate cyclase DgcJ	3
+32989088	gene/protein	diguanylate cyclase DosC	3
+32989088	gene/protein	Putative diguanylate cyclase DgcQ	3
+32989088	gene/protein	probable diguanylate cyclase DgcE	3
+32989088	gene/protein	Diguanylate cyclase DgcP	3
+32989088	gene/protein	diguanylate cyclase DgcP	3
+32989088	gene/protein	Diguanylate cyclase DgcZ	3
+32989088	gene/protein	innexin shaking-B (fruit fly)	2
+32989088	gene/protein	Venom phosphodiesterase 2	2
+32989088	gene/protein	Venom phosphodiesterase 1	2
+32989088	gene/protein	ceramide glucosyltransferase	2
+32989088	gene/protein	glutamate--cysteine ligase	2
+32989088	gene/protein	Citrate synthase, glyoxysomal	2
+32989088	gene/protein	oxytocin receptor (rat)	2
+32989088	gene/protein	Mannose-1-phosphate guanylyltransferase RfbM	1
+32989088	gene/protein	Mannose-1-phosphate guanylyltransferase ManC	1
+32989088	gene/protein	mannose-1-phosphate guanylyltransferase	1
+32989088	gene/protein	Putative mannose-1-phosphate guanylyltransferase	1
+32989088	gene/protein	protein	1
+32989088	gene/protein	hepcidin	1
+32989088	gene/protein	hepcidin (mouse)	1
+32989088	gene/protein	hepcidin (human)	1
+32989088	gene/protein	hepcidin (rat)	1
+32989088	gene/protein	Multifunctional alkaline phosphatase superfamily protein pRL90232	1
+32989088	gene/protein	Multifunctional alkaline phosphatase superfamily protein PehA	1
+32989088	gene/protein	minor histocompatibility antigen H13	1
+32989088	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+32989088	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+32989088	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+32989088	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+32989088	gene/protein	minor histocompatibility antigen H13 (human)	1
+32989088	gene/protein	sphingosine-1-phosphate phosphatase	1
+32989088	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+32989088	gene/protein	SD07518p (fruit fly)	1
+32989088	molecular_function	3',5'-cyclic-nucleotide phosphodiesterase activity	2
+32989088	molecular_function	phosphoric diester hydrolase activity	1
+32989088	molecular_function	obsolete signal peptide peptidase activity	1
+32989088	organism	hybrid	1
+32989088	organism	Chimera	1
+32989088	organism	bacterium IFAM-3211	1
+32989088	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+32989088	organism	bacterium IFAM-3215	1
+32989088	organism	bacterium IFAM-2074	1
+32989088	organism	bacterium IFAM-3359	1
+32989088	organism	bacterium	1
+32989088	organism	bacterium IFAM-1493	1
+32989088	sequence	polypeptide_domain	2
+32989088	sequence	linear	1
+32989088	sequence	polypeptide	1
+32989088	cell	granulocyte monocyte progenitor cell	1
+32989088	organ/tissue	sense organ	1
+32989088	clinical_drug	Oxygen	3

@@ -1,0 +1,54 @@
+8626293	biological_process	symbiotic process	3
+8626293	biological_process	nitrogen fixation	1
+8626293	biological_process	seed development	1
+8626293	biological_process	biosynthetic process	1
+8626293	biological_process	tricarboxylic acid cycle	1
+8626293	chemical	poly(hydroxybutyrate)	5
+8626293	chemical	Pyruvic Acid	4
+8626293	chemical	nitrogen atom	2
+8626293	chemical	nitrogen(.)	2
+8626293	chemical	Lactic Acid	2
+8626293	chemical	pyruvate	2
+8626293	chemical	malic acid	2
+8626293	chemical	Glucose	2
+8626293	chemical	elemental carbon	1
+8626293	chemical	carbon atom	1
+8626293	chemical	electron	1
+8626293	chemical	poly-beta-hydroxybutyrate polymerase	1
+8626293	chemical	(S)-lactate	1
+8626293	chemical	lactate	1
+8626293	chemical	acetate ester	1
+8626293	chemical	acetate	1
+8626293	chemical	fumarate	1
+8626293	chemical	fumarate(2-)	1
+8626293	chemical	(S)-malic acid	1
+8626293	chemical	malate(2-)	1
+8626293	chemical	malate	1
+8626293	chemical	aldehydo-D-glucose	1
+8626293	chemical	D-glucopyranose	1
+8626293	chemical	glucose	1
+8626293	chemical	tricarboxylic acid	1
+8626293	chemical	oxygen atom	1
+8626293	gene/protein	prohibitin (mouse)	5
+8626293	gene/protein	prohibitin (rat)	5
+8626293	gene/protein	homeobox-leucine zipper protein ATHB-14 (Arabidopsis thaliana)	5
+8626293	gene/protein	prohibitin (chicken)	5
+8626293	gene/protein	prohibitin-1 (yeast)	5
+8626293	gene/protein	prohibitin	5
+8626293	gene/protein	prohibitin (human)	5
+8626293	gene/protein	Poly(3-hydroxyalkanoate) polymerase subunit PhaE	1
+8626293	gene/protein	Bifunctional polyhydroxybutyrate synthase / ABC transporter periplasmic binding protein	1
+8626293	organism	Rhizobium etli	2
+8626293	organism	Phaseolus	1
+8626293	sequence	gene	2
+8626293	sequence	engineered_region	1
+8626293	sequence	insertion	1
+8626293	sequence	region	1
+8626293	organ/tissue	cerebellum vermis lobule X	1
+8626293	organ/tissue	germinal center	1
+8626293	clinical_drug	Nitrogen	2
+8626293	clinical_drug	Pyruvate	2
+8626293	clinical_drug	Lactate	1
+8626293	clinical_drug	Acetate	1
+8626293	clinical_drug	Dextrose, Unspecified Form	1
+8626293	clinical_drug	Oxygen	1

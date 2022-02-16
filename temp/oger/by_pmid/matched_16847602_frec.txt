@@ -1,0 +1,15 @@
+16847602	biological_process	rhamnolipid production	1
+16847602	cellular_component	haa	4
+16847602	chemical	rhamnolipid	10
+16847602	chemical	rhamnose	3
+16847602	chemical	fatty acid	3
+16847602	chemical	acid	2
+16847602	gene/protein	rhlb	2
+16847602	gene/protein	rhla	1
+16847602	organism	e coli	10
+16847602	organism	bacterium	7
+16847602	organism	Pseudomonas aeruginosa	2
+16847602	organism	Escherichia coli	2
+16847602	sequence	operon	1
+16847602	sequence	enzymatic	1
+16847602	sequence	chain	1

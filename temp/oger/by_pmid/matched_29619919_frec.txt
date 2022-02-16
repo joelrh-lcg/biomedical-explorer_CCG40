@@ -1,0 +1,38 @@
+29619919	biological_process	synthesis	2
+29619919	biological_process	biosynthesis	1
+29619919	biological_process	gene expression	1
+29619919	cellular_component	pas	1
+29619919	cellular_component	smc	1
+29619919	chemical	ornithine	8
+29619919	chemical	putrescine	4
+29619919	chemical	spermidine	4
+29619919	chemical	norspermidine	4
+29619919	chemical	lysine	4
+29619919	chemical	salt	4
+29619919	chemical	polyamine	3
+29619919	chemical	acid	3
+29619919	chemical	polycation	2
+29619919	chemical	Spd	2
+29619919	chemical	spd	2
+29619919	chemical	physiological role	1
+29619919	chemical	pas	1
+29619919	chemical	homospermidine	1
+29619919	chemical	macromolecule	1
+29619919	chemical	ornithine decarboxylase	1
+29619919	disease	smc	1
+29619919	gene/protein	odc	93
+29619919	gene/protein	odc2	24
+29619919	gene/protein	odc1	24
+29619919	gene/protein	ornithine decarboxylase	21
+29619919	gene/protein	hspd	2
+29619919	gene/protein	pas	1
+29619919	gene/protein	smc	1
+29619919	organism	Sinorhizobium	1
+29619919	organism	melilotus	1
+29619919	sequence	gene	2
+29619919	sequence	genome	1
+29619919	sequence	lysine	1
+29619919	sequence	double	1
+29619919	organ/tissue	layer	2
+29619919	clinical_drug	ornithine	3
+29619919	clinical_drug	lysine	1

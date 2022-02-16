@@ -1,0 +1,13 @@
+31605487	cellular_component	sex chromosome	6
+31605487	cellular_component	chromosome	2
+31605487	chemical	maleate(2-)	3
+31605487	organism	Eutheria	2
+31605487	organism	Mammals	1
+31605487	organism	Ornithorhynchus anatinus	1
+31605487	organism	Platypus	1
+31605487	sequence	chromosome	8
+31605487	sequence	sequence_variant_obs	3
+31605487	sequence	substitution	2
+31605487	sequence	signature	2
+31605487	sequence	region	1
+31605487	organ/tissue	male organism	3

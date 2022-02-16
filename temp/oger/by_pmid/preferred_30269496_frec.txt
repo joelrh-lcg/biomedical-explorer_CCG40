@@ -1,0 +1,27 @@
+30269496	cellular_component	obsolete protein	3
+30269496	cellular_component	chromosome	1
+30269496	chemical	protein	15
+30269496	chemical	Proteome	7
+30269496	chemical	(protein)	3
+30269496	chemical	Uridine Monophosphate	2
+30269496	chemical	penciclovir	1
+30269496	chemical	uridine 5'-monophosphate	1
+30269496	chemical	uridine 5'-monophosphate(2-)	1
+30269496	chemical	biomarker	1
+30269496	chemical	drug	1
+30269496	gene/protein	Pectinesterase 1	6
+30269496	gene/protein	ETS translocation variant 3	6
+30269496	gene/protein	protein	3
+30269496	gene/protein	ETS translocation variant 3 (human)	2
+30269496	gene/protein	ETS translocation variant 3 (mouse)	2
+30269496	gene/protein	ETS domain-containing transcription factor ERF	2
+30269496	gene/protein	Pectinesterase 2	2
+30269496	gene/protein	Pectinesterase 4	1
+30269496	organism	Humans	6
+30269496	sequence	polypeptide	3
+30269496	sequence	ORF	1
+30269496	sequence	chromosome	1
+30269496	sequence	genome	1
+30269496	cell_line	PE-1 [Human]	2
+30269496	cell_line	PE-2	1
+30269496	entity_type	preferred_term	8

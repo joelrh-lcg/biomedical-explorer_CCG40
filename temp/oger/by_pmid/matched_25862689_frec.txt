@@ -1,0 +1,20 @@
+25862689	biological_process	formation	1
+25862689	cellular_component	membrane	9
+25862689	chemical	lipid	7
+25862689	chemical	phosphatidylcholine	5
+25862689	chemical	phosphatidylethanolamine	4
+25862689	chemical	phosphatidylinositol	4
+25862689	chemical	cardiolipin	3
+25862689	chemical	phospholipid	2
+25862689	chemical	phosphatidylglycerol	2
+25862689	chemical	ornithine lipid	2
+25862689	chemical	pathway	2
+25862689	chemical	glycolipid	1
+25862689	chemical	sphingolipid	1
+25862689	chemical	hopanoid	1
+25862689	organism	bacterium	7
+25862689	organism	Escherichia coli	2
+25862689	organism	ornithine lipid	1
+25862689	organ/tissue	membrane	18
+25862689	organ/tissue	organism	1
+25862689	clinical_drug	ornithine	1

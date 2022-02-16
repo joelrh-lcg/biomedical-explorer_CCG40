@@ -1,0 +1,36 @@
+15025998	biological_process	catabolic process	1
+15025998	biological_process	flight	1
+15025998	cellular_component	membrane	1
+15025998	cellular_component	obsolete soluble fraction	1
+15025998	chemical	peptide	4
+15025998	chemical	Scorpion Venoms	2
+15025998	chemical	Venoms	2
+15025998	chemical	toxin	2
+15025998	chemical	Proline	2
+15025998	chemical	mixture	1
+15025998	chemical	venom	1
+15025998	chemical	amino-acid residue	1
+15025998	chemical	electron	1
+15025998	chemical	proline residue	1
+15025998	chemical	disulfide	1
+15025998	chemical	proline	1
+15025998	chemical	L-proline	1
+15025998	chemical	protein	1
+15025998	chemical	Immunoglobulins	1
+15025998	gene/protein	proteolytic cleavage product	4
+15025998	gene/protein	amino acid chain	4
+15025998	gene/protein	obsolete amino acid chain component	1
+15025998	molecular_function	antigen binding	1
+15025998	organism	Scorpions	3
+15025998	organism	Tityus obscurus	1
+15025998	organism	synthetic construct	1
+15025998	sequence	active_peptide	4
+15025998	sequence	proline	2
+15025998	sequence	amino_acid	1
+15025998	sequence	disulfide_bond	1
+15025998	organ/tissue	venom	2
+15025998	organ/tissue	membrane organ	1
+15025998	organ/tissue	membranous layer	1
+15025998	organ/tissue	matrix compartment	1
+15025998	clinical_drug	Proline	2
+15025998	clinical_drug	Amidate	1

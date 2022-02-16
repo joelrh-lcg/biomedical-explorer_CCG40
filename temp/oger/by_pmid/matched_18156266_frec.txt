@@ -1,0 +1,24 @@
+18156266	biological_process	virulence	3
+18156266	biological_process	stringent response	1
+18156266	biological_process	regulation	1
+18156266	biological_process	biological process	1
+18156266	cellular_component	protein	1
+18156266	chemical	protein	2
+18156266	chemical	intergenic region	1
+18156266	gene/protein	tpx	198
+18156266	gene/protein	sty	48
+18156266	gene/protein	leuo	16
+18156266	gene/protein	ompx	12
+18156266	gene/protein	hns	4
+18156266	gene/protein	HNS	4
+18156266	gene/protein	global regulatory protein	2
+18156266	gene/protein	transcriptional regulator	1
+18156266	molecular_function	asst	3
+18156266	organism	Salmonella	2
+18156266	organism	salmonella enterica serovar Typhi	1
+18156266	sequence	gene	3
+18156266	sequence	fusion	1
+18156266	sequence	protein	1
+18156266	sequence	intergenic region	1
+18156266	sequence	promoter region	1
+18156266	sequence	regulon	1

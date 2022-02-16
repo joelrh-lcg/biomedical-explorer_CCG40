@@ -1,0 +1,26 @@
+31768302	biological_process	pathogenesis	2
+31768302	biological_process	obsolete virulence	2
+31768302	biological_process	viral process	2
+31768302	biological_process	biofilm formation	2
+31768302	chemical	Methicillin	2
+31768302	chemical	Anti-Bacterial Agents	2
+31768302	chemical	methicillin	1
+31768302	chemical	macrolide	1
+31768302	chemical	antimicrobial agent	1
+31768302	chemical	nucleotide	1
+31768302	chemical	isocyanic acid	1
+31768302	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+31768302	gene/protein	inhibitor of carbonic anhydrase (mouse)	1
+31768302	organism	Bacteriophages	2
+31768302	organism	Humans	1
+31768302	organism	collection	1
+31768302	organism	unidentified insertion sequence	1
+31768302	sequence	gene	3
+31768302	sequence	region	2
+31768302	sequence	genome	2
+31768302	sequence	phage_sequence	2
+31768302	sequence	sequence_collection	1
+31768302	sequence	operon	1
+31768302	sequence	insertion_sequence	1
+31768302	sequence	sequence_variant_obs	1
+31768302	organ/tissue	internal carotid artery	1

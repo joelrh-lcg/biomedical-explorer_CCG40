@@ -1,0 +1,20 @@
+30967846	biological_process	fermentation	2
+30967846	biological_process	biosynthesis	1
+30967846	chemical	antibiotic	3
+30967846	chemical	beta	2
+30967846	chemical	nutrient	1
+30967846	chemical	16s rrna	1
+30967846	chemical	cluster	1
+30967846	chemical	vitamin	1
+30967846	chemical	antioxidant	1
+30967846	disease	gastrointestinal disease	2
+30967846	gene/protein	sap	17
+30967846	gene/protein	Tuba	15
+30967846	gene/protein	Palm	4
+30967846	gene/protein	Alpha	1
+30967846	organism	Tuba	3
+30967846	organism	collection	1
+30967846	sequence	16s rrna	1
+30967846	sequence	rrna gene	1
+30967846	sequence	gene	1
+30967846	organ/tissue	palm	2

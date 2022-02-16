@@ -1,0 +1,16 @@
+11136777	cellular_component	chromosome	1
+11136777	chemical	cluster	1
+11136777	chemical	rrna	1
+11136777	organism	Brucella	3
+11136777	organism	Brucella abortus	2
+11136777	organism	Brucella ovis	2
+11136777	organism	Brucella suis	2
+11136777	organism	Brucella canis	2
+11136777	organism	Brucella melitensis	2
+11136777	organism	Rhizobium tropici	2
+11136777	organism	Brucella sp	1
+11136777	organism	neotoma	1
+11136777	organism	strain test	1
+11136777	sequence	rrna gene	1
+11136777	sequence	restriction fragment length polymorphism	1
+11136777	sequence	chromosome	1

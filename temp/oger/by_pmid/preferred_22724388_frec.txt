@@ -1,0 +1,31 @@
+22724388	cellular_component	membrane	3
+22724388	chemical	Ornithine	4
+22724388	chemical	lipid	3
+22724388	chemical	fatty acid	3
+22724388	chemical	ornithine containing aminolipid	2
+22724388	chemical	hydroxy group	2
+22724388	chemical	fatty-acyl group	2
+22724388	chemical	L-ornithinium(2+)	2
+22724388	chemical	ornithine	2
+22724388	chemical	amide	1
+22724388	chemical	azanide	1
+22724388	chemical	alpha-amino acid	1
+22724388	chemical	amino acid	1
+22724388	organism	ornithine containing aminolipid	1
+22724388	organism	Bacteria	1
+22724388	organism	Archaea	1
+22724388	organism	Eukaryota	1
+22724388	organism	bacterium IFAM-3211	1
+22724388	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+22724388	organism	bacterium IFAM-3215	1
+22724388	organism	bacterium IFAM-2074	1
+22724388	organism	bacterium IFAM-3359	1
+22724388	organism	bacterium	1
+22724388	organism	bacterium IFAM-1493	1
+22724388	sequence	amino_acid	1
+22724388	sequence	genome	1
+22724388	sequence	region	1
+22724388	organ/tissue	membrane organ	3
+22724388	organ/tissue	membranous layer	3
+22724388	clinical_drug	Ornithine	3
+22724388	molecular_process	hydroxylation	1

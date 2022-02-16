@@ -1,0 +1,28 @@
+19703488	cellular_component	membrane	3
+19703488	chemical	lysine	12
+19703488	chemical	lipid	10
+19703488	chemical	cardiolipin	9
+19703488	chemical	phosphatidylglycerol	6
+19703488	chemical	alanine	5
+19703488	chemical	arginine	5
+19703488	chemical	phosphatidylethanolamine	4
+19703488	chemical	homoserine	4
+19703488	chemical	phosphatidylserine	3
+19703488	chemical	glycerophospholipid	2
+19703488	chemical	amino	2
+19703488	chemical	amino acid	2
+19703488	chemical	sphingolipid	1
+19703488	molecular_function	molecular function	1
+19703488	organism	bacterium	28
+19703488	organism	Escherichia coli	2
+19703488	sequence	lysine	3
+19703488	sequence	intermediate	1
+19703488	sequence	alanine	1
+19703488	sequence	arginine	1
+19703488	sequence	substitute	1
+19703488	sequence	amino acid	1
+19703488	organ/tissue	membrane	6
+19703488	organ/tissue	organism	1
+19703488	clinical_drug	lysine	3
+19703488	clinical_drug	alanine	1
+19703488	clinical_drug	arginine	1

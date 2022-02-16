@@ -1,0 +1,22 @@
+24138283	biological_process	regulation	2
+24138283	chemical	mirna	11
+24138283	chemical	microrna	1
+24138283	chemical	small noncoding rna	1
+24138283	chemical	molecule	1
+24138283	gene/protein	rna	8
+24138283	gene/protein	crop	1
+24138283	gene/protein	lack	1
+24138283	organism	Vigna mungo	2
+24138283	organism	legume	1
+24138283	sequence	mirna	11
+24138283	sequence	gene	2
+24138283	sequence	genome	2
+24138283	sequence	microrna	1
+24138283	sequence	noncoding rna	1
+24138283	sequence	sequence	1
+24138283	sequence	construct	1
+24138283	sequence	chain	1
+24138283	sequence	target gene	1
+24138283	organ/tissue	crop	1
+24138283	organ/tissue	tissue	1
+24138283	molecular_process	chain reaction	1

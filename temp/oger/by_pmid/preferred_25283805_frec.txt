@@ -1,0 +1,9 @@
+25283805	biological_process	gene expression	3
+25283805	gene/protein	Protein BEAN1	8
+25283805	gene/protein	protein BEAN	4
+25283805	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+25283805	organism	Fabaceae	2
+25283805	organism	Phaseolus	1
+25283805	organism	Phaseolus vulgaris	1
+25283805	sequence	gene	3
+25283805	cell_line	R1192	4

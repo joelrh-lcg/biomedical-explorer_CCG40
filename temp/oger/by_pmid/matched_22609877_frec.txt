@@ -1,0 +1,13 @@
+22609877	biological_process	uptake	2
+22609877	biological_process	homeostasis	1
+22609877	chemical	cys	9
+22609877	chemical	Cys	9
+22609877	chemical	sulfate	3
+22609877	chemical	cd2	1
+22609877	gene/protein	cd2	4
+22609877	gene/protein	cys	2
+22609877	gene/protein	Cys	2
+22609877	organism	Euglena gracilis	2
+22609877	sequence	cys	1
+22609877	sequence	Cys	1
+22609877	organ/tissue	gracilis	1

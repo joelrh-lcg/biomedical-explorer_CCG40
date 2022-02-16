@@ -1,0 +1,12 @@
+33457783	biological_process	maintenance of location	1
+33457783	cellular_component	chloroplast	1
+33457783	cellular_component	mitochondrial chromosome	1
+33457783	disease	NEURODEGENERATION WITH BRAIN IRON ACCUMULATION 2A	1
+33457783	gene/protein	inactivation-no-after-potential D protein (fruit fly)	1
+33457783	organism	Hepatophyta	1
+33457783	organism	Marchantia polymorpha	1
+33457783	organism	Anthocerotophyta	1
+33457783	organism	Ceratophyllum demersum	1
+33457783	sequence	genome	3
+33457783	sequence	region	2
+33457783	sequence	gene	2

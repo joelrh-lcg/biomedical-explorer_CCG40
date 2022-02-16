@@ -1,0 +1,24 @@
+8494746	biological_process	symbiosis	1
+8494746	biological_process	nodulation	1
+8494746	chemical	16s	2
+8494746	chemical	ribosomal dna	2
+8494746	chemical	nitrogenase	1
+8494746	chemical	polysaccharide	1
+8494746	chemical	16s rrna	1
+8494746	gene/protein	bean	3
+8494746	gene/protein	nov	2
+8494746	gene/protein	nodA	1
+8494746	gene/protein	psi	1
+8494746	organism	Rhizobium etli	2
+8494746	organism	Rhizobium leguminosarum	2
+8494746	organism	Rhizobium	1
+8494746	organism	Phaseolus vulgari	1
+8494746	organism	bear	1
+8494746	sequence	gene	5
+8494746	sequence	sequence	4
+8494746	sequence	fragment	1
+8494746	sequence	16s rrna	1
+8494746	sequence	rrna gene	1
+8494746	cell_line	bean	1
+8494746	cell_line	nodA	1
+8494746	cell_line	psi	1

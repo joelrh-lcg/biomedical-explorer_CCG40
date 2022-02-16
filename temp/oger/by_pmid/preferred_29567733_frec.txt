@@ -1,0 +1,43 @@
+29567733	biological_process	detoxification	1
+29567733	biological_process	nitrogen fixation	1
+29567733	biological_process	pathogenesis	1
+29567733	biological_process	obsolete virulence	1
+29567733	biological_process	viral process	1
+29567733	chemical	Catalase	2
+29567733	chemical	nitrogen atom	1
+29567733	chemical	nitrogen(.)	1
+29567733	chemical	Cellulase	1
+29567733	chemical	virulence factor	1
+29567733	gene/protein	Catalase	76
+29567733	gene/protein	Endoglucanase	19
+29567733	gene/protein	Endoglucanase EG-1	4
+29567733	gene/protein	Endoglucanase 1	3
+29567733	gene/protein	Endoglucanase EG-II	2
+29567733	gene/protein	Endoglucanase A	2
+29567733	gene/protein	2-imino-3-(indol-3-yl)propanoate dimerase	1
+29567733	gene/protein	catalase	1
+29567733	gene/protein	Dichlorochromopyrrolate synthase	1
+29567733	gene/protein	Endoglucanase Cel12A	1
+29567733	gene/protein	Putative endoglucanase type F	1
+29567733	gene/protein	Major extracellular endoglucanase	1
+29567733	gene/protein	Putative endoglucanase type K	1
+29567733	gene/protein	Endoglucanase E	1
+29567733	gene/protein	Putative endoglucanase X	1
+29567733	gene/protein	Endoglucanase Cel5A	1
+29567733	gene/protein	endoglucanase	1
+29567733	gene/protein	Endoglucanase-1	1
+29567733	gene/protein	Probable endoglucanase	1
+29567733	gene/protein	Endoglucanase CelA	1
+29567733	gene/protein	Endoglucanase B	1
+29567733	gene/protein	Endo-beta-1,4-glucanase	1
+29567733	gene/protein	Endoglucanase 2	1
+29567733	gene/protein	Endoglucanase type C	1
+29567733	gene/protein	Putative endoglucanase type B	1
+29567733	organism	Saccharum	1
+29567733	organism	Saccharum officinarum	1
+29567733	organism	Saccharum hybrid cultivar	1
+29567733	sequence	genome	1
+29567733	sequence	gene	1
+29567733	clinical_drug	sugarcane extract	1
+29567733	clinical_drug	Saccharum officinarum allergenic extract	1
+29567733	clinical_drug	Nitrogen	1

@@ -1,0 +1,4 @@
+28302777	biological_process	nodulation	1
+28302777	organism	plasmid	1
+28302777	sequence	sequence	1
+28302777	sequence	plasmid	1

@@ -1,0 +1,76 @@
+8170393	biological_process	nodulation	2
+8170393	biological_process	biosynthetic process	1
+8170393	biological_process	tricarboxylic acid cycle	1
+8170393	biological_process	gene expression	1
+8170393	biological_process	import into cell	1
+8170393	biological_process	import across plasma membrane	1
+8170393	chemical	Citrate (si)-Synthase	6
+8170393	chemical	Oxaloacetic Acid	2
+8170393	chemical	Citric Acid	2
+8170393	chemical	Sucrose	2
+8170393	chemical	iron atom	2
+8170393	chemical	elemental carbon	1
+8170393	chemical	carbon atom	1
+8170393	chemical	tricarboxylic acid	1
+8170393	chemical	oxaloacetic acid	1
+8170393	chemical	citrate(3-)	1
+8170393	chemical	citrate salt	1
+8170393	chemical	citrate anion	1
+8170393	chemical	sucrose	1
+8170393	chemical	Complement System Proteins	1
+8170393	gene/protein	Citrate synthase	312
+8170393	gene/protein	2-methylcitrate synthase	42
+8170393	gene/protein	Streptopain	7
+8170393	gene/protein	Citrate/2-methylcitrate synthase	6
+8170393	gene/protein	citrate synthase	6
+8170393	gene/protein	lipopolysaccharide core biosynthesis protein RfaG	6
+8170393	gene/protein	lipopolysaccharide core biosynthesis protein RfaG (Escherichia coli K-12)	6
+8170393	gene/protein	DNA damage-inducible protein D (Escherichia coli K-12)	6
+8170393	gene/protein	DNA damage-inducible protein D	6
+8170393	gene/protein	Protein BEAN1	2
+8170393	gene/protein	protein BEAN	1
+8170393	gene/protein	minor histocompatibility antigen H13	1
+8170393	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+8170393	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+8170393	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+8170393	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+8170393	gene/protein	minor histocompatibility antigen H13 (human)	1
+8170393	gene/protein	sphingosine-1-phosphate phosphatase	1
+8170393	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+8170393	gene/protein	SD07518p (fruit fly)	1
+8170393	gene/protein	phosphatidylcholine:ceramide cholinephosphotransferase 1 (chicken)	1
+8170393	gene/protein	phosphatidylcholine:ceramide cholinephosphotransferase 1	1
+8170393	gene/protein	phosphatidylcholine:ceramide cholinephosphotransferase 1 (human)	1
+8170393	gene/protein	phosphatidylcholine:ceramide cholinephosphotransferase 1 (rat)	1
+8170393	gene/protein	molybdenum cofactor guanylyltransferase (Escherichia coli K-12)	1
+8170393	gene/protein	molybdenum cofactor guanylyltransferase	1
+8170393	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+8170393	molecular_function	citrate (Si)-synthase activity	2
+8170393	molecular_function	citrate synthase activity	2
+8170393	molecular_function	obsolete signal peptide peptidase activity	1
+8170393	organism	unidentified plasmid	4
+8170393	organism	bacterium IFAM-3211	2
+8170393	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+8170393	organism	bacterium IFAM-3215	2
+8170393	organism	bacterium IFAM-2074	2
+8170393	organism	bacterium IFAM-3359	2
+8170393	organism	bacterium	2
+8170393	organism	bacterium IFAM-1493	2
+8170393	organism	Rhizobium tropici	2
+8170393	organism	Rhizobium leguminosarum	2
+8170393	organism	Rhizobium	1
+8170393	organism	Phaseolus	1
+8170393	organism	Phaseolus vulgaris	1
+8170393	organism	Proteobacteria	1
+8170393	sequence	gene	7
+8170393	sequence	plasmid	4
+8170393	sequence	insertion	1
+8170393	sequence	clone	1
+8170393	cell_line	R1192	1
+8170393	cell_line	BTI-Tn-5B1-4	1
+8170393	cell_line	MDCC-MOB1	1
+8170393	cell_line	Mo-B	1
+8170393	organ/tissue	cerebellum vermis lobule X	3
+8170393	organ/tissue	germinal center	3
+8170393	clinical_drug	Iron	2
+8170393	clinical_drug	Sucrose	1

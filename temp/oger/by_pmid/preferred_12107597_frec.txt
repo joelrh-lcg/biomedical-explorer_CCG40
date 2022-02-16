@@ -1,0 +1,9 @@
+12107597	biological_process	biological_process	1
+12107597	chemical	cluster	2
+12107597	organism	Escherichia coli	8
+12107597	organism	Bacillus subtilis	2
+12107597	sequence	operon	5
+12107597	sequence	gene	5
+12107597	sequence	homologous	1
+12107597	sequence	genome	1
+12107597	clinical_drug	Bacillus subtilis	1

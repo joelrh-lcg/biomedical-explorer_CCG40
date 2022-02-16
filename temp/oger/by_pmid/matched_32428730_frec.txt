@@ -1,0 +1,18 @@
+32428730	cellular_component	pore	3
+32428730	chemical	glutamate	6
+32428730	chemical	aspartate	5
+32428730	chemical	amino acid	2
+32428730	chemical	ion channel	1
+32428730	gene/protein	sup	14
+32428730	gene/protein	dedd	6
+32428730	gene/protein	lva	1
+32428730	gene/protein	LVA	1
+32428730	sequence	domain	6
+32428730	sequence	substitution	4
+32428730	sequence	mutation	1
+32428730	sequence	double	1
+32428730	sequence	intermediate	1
+32428730	sequence	amino acid	1
+32428730	organ/tissue	pore	3
+32428730	clinical_drug	aspartate	1
+32428730	clinical_drug	glutamate	1

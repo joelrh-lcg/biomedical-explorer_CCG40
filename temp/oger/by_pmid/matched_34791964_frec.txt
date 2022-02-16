@@ -1,0 +1,28 @@
+34791964	biological_process	PTM	3
+34791964	biological_process	posttranslational modification	1
+34791964	biological_process	protein acetylation	1
+34791964	cellular_component	protein	1
+34791964	chemical	lysine	12
+34791964	chemical	protein	2
+34791964	chemical	proteins	2
+34791964	chemical	histone	2
+34791964	chemical	lysine residue	1
+34791964	chemical	peptide	1
+34791964	chemical	nuclear proteins	1
+34791964	disease	disease	2
+34791964	gene/protein	kat	11
+34791964	gene/protein	PTM	3
+34791964	gene/protein	peptide	2
+34791964	gene/protein	lysine acetyltransferase	1
+34791964	gene/protein	hdac	1
+34791964	gene/protein	protein	1
+34791964	gene/protein	histone	1
+34791964	molecular_function	kat	1
+34791964	organism	human	1
+34791964	sequence	lysine	4
+34791964	sequence	domain	1
+34791964	sequence	protein	1
+34791964	sequence	peptide	1
+34791964	cell_line	PTM	3
+34791964	clinical_drug	lysine	4
+34791964	molecular_process	acetylation	2

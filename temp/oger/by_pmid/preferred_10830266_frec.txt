@@ -1,0 +1,30 @@
+10830266	biological_process	symbiotic process	2
+10830266	biological_process	photosynthesis	1
+10830266	biological_process	biosynthetic process	1
+10830266	biological_process	sulfolipid biosynthetic process	1
+10830266	cellular_component	thylakoid membrane	1
+10830266	cellular_component	membrane	1
+10830266	chemical	sulfolipid	6
+10830266	chemical	1,2-diacyl-3-(alpha-D-6-sulfoquinovosyl)-sn-glycerol	2
+10830266	chemical	1,2-diacyl-3-(alpha-D-6-sulfoquinovosyl)-sn-glycerol(1-)	2
+10830266	chemical	lipid	2
+10830266	gene/protein	UDP-sulfoquinovose synthase, chloroplastic (Arabidopsis thaliana)	1
+10830266	gene/protein	RNA-binding protein squid (fruit fly)	1
+10830266	gene/protein	protein POLAR LOCALIZATION DURING ASYMMETRIC DIVISION AND REDISTRIBUTION (Arabidopsis thaliana)	1
+10830266	organism	bacterium IFAM-3211	3
+10830266	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+10830266	organism	bacterium IFAM-3215	3
+10830266	organism	bacterium IFAM-2074	3
+10830266	organism	bacterium IFAM-3359	3
+10830266	organism	bacterium	3
+10830266	organism	bacterium IFAM-1493	3
+10830266	organism	Sinorhizobium meliloti	2
+10830266	organism	Rhodobacter	1
+10830266	organism	Arabidopsis thaliana	1
+10830266	organism	Arabidopsis	1
+10830266	sequence	gene	6
+10830266	sequence	orthologous_region	1
+10830266	organ/tissue	membrane organ	2
+10830266	organ/tissue	membranous layer	2
+10830266	organ/tissue	cerebellum vermis lobule X	2
+10830266	organ/tissue	germinal center	2

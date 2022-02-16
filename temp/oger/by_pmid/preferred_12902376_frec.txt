@@ -1,0 +1,15 @@
+12902376	cellular_component	chromosome	2
+12902376	chemical	nucleotide	2
+12902376	chemical	base	1
+12902376	chemical	picloram	1
+12902376	organism	Sinorhizobium meliloti	2
+12902376	organism	Medicago sativa	2
+12902376	organism	Melilotus	1
+12902376	sequence	replicon	4
+12902376	sequence	genome	3
+12902376	sequence	region	2
+12902376	sequence	chromosome	2
+12902376	sequence	base	1
+12902376	sequence	cointegrated_plasmid	1
+12902376	sequence	clone	1
+12902376	clinical_drug	Medicago sativa whole extract	1

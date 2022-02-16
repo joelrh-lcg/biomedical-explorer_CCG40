@@ -1,0 +1,26 @@
+30991941	biological_process	transcription, DNA-templated	2
+30991941	biological_process	G1 to G0 transition	1
+30991941	biological_process	single-celled organism vegetative growth phase	1
+30991941	cellular_component	curli	1
+30991941	cellular_component	viral nucleocapsid	1
+30991941	chemical	indole	3
+30991941	chemical	DNA-Directed RNA Polymerases	1
+30991941	chemical	1H-indole	1
+30991941	chemical	effector	1
+30991941	chemical	molecule	1
+30991941	gene/protein	chromophore lyase CRL, chloroplastic (Arabidopsis thaliana)	3
+30991941	gene/protein	sigma factor-binding protein Crl	3
+30991941	gene/protein	sigma factor-binding protein Crl (Escherichia coli K-12)	3
+30991941	gene/protein	RNA polymerase sigma factor RpoS (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	1
+30991941	gene/protein	RNA polymerase sigma factor RpoS	1
+30991941	gene/protein	RNA polymerase sigma factor RpoS (Escherichia coli K-12)	1
+30991941	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+30991941	gene/protein	ribonuclease I	1
+30991941	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+30991941	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+30991941	organism	collection	1
+30991941	sequence	gene	1
+30991941	sequence	transition	1
+30991941	sequence	regulon	1
+30991941	cell_line	CRL	3
+30991941	organ/tissue	multicellular organism	1

@@ -1,0 +1,14 @@
+20459672	biological_process	gene expression	1
+20459672	chemical	glycine	5
+20459672	gene/protein	bean	6
+20459672	gene/protein	max	1
+20459672	organism	soybean	6
+20459672	organism	glycine max	2
+20459672	organism	Phaseolus vulgari	1
+20459672	sequence	glycine	1
+20459672	sequence	coding sequence	1
+20459672	sequence	genome	1
+20459672	sequence	gene	1
+20459672	cell_line	bean	2
+20459672	clinical_drug	soybean	6
+20459672	clinical_drug	glycine	1

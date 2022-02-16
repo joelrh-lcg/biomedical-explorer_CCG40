@@ -1,0 +1,26 @@
+24720747	biological_process	synthesis	4
+24720747	cellular_component	protein	2
+24720747	cellular_component	outer membrane	1
+24720747	chemical	protein	4
+24720747	chemical	sodium deoxycholate	3
+24720747	chemical	bile salt	2
+24720747	gene/protein	porin	32
+24720747	gene/protein	ompr	15
+24720747	gene/protein	ompc	12
+24720747	gene/protein	ompf	6
+24720747	gene/protein	outer membrane protein	3
+24720747	gene/protein	ompR	3
+24720747	gene/protein	ompC	3
+24720747	gene/protein	lysr	2
+24720747	gene/protein	ompF	2
+24720747	gene/protein	protein	1
+24720747	molecular_function	porin	2
+24720747	organism	Salmonella	1
+24720747	sequence	promoter	3
+24720747	sequence	protein	2
+24720747	sequence	regulatory region	2
+24720747	sequence	gene	1
+24720747	organ/tissue	gut	3
+24720747	organ/tissue	membrane	2
+24720747	organ/tissue	bile	1
+24720747	clinical_drug	deoxycholate	1

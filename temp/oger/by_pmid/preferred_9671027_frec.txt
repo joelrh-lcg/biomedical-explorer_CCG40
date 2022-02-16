@@ -1,0 +1,43 @@
+9671027	biological_process	import into cell	3
+9671027	biological_process	import across plasma membrane	3
+9671027	biological_process	transport	1
+9671027	biological_process	metabolic process	1
+9671027	biological_process	nodulation	1
+9671027	cellular_component	obsolete protein	1
+9671027	chemical	Ribose	2
+9671027	chemical	trigonelline	2
+9671027	chemical	nitrogen atom	1
+9671027	chemical	nitrogen(.)	1
+9671027	chemical	protein	1
+9671027	chemical	(protein)	1
+9671027	chemical	abacavir	1
+9671027	chemical	D-ribofuranose	1
+9671027	chemical	ribose	1
+9671027	chemical	alpha-D-ribose	1
+9671027	chemical	beta-D-ribopyranose	1
+9671027	chemical	Carrier Proteins	1
+9671027	chemical	N-methylnicotinate	1
+9671027	disease	COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	1
+9671027	gene/protein	Protein BEAN1	6
+9671027	gene/protein	protein BEAN	3
+9671027	gene/protein	beta-glucuronidase (Escherichia coli K-12)	1
+9671027	gene/protein	protein	1
+9671027	gene/protein	methionine import ATP-binding protein MetN (Escherichia coli K-12)	1
+9671027	gene/protein	methionine import ATP-binding protein MetN	1
+9671027	molecular_function	ABC-type transmembrane transporter activity	1
+9671027	organism	Rhizobium tropici	3
+9671027	organism	Rhizobium leucaenae	2
+9671027	organism	unidentified plasmid	1
+9671027	organism	Macroptilium atropurpureum	1
+9671027	organism	Fabaceae	1
+9671027	organism	Ursus sp.	1
+9671027	sequence	gene	5
+9671027	sequence	insertion	2
+9671027	sequence	transposable_element	1
+9671027	sequence	plasmid	1
+9671027	sequence	polypeptide	1
+9671027	sequence	wild_type	1
+9671027	cell_line	R1192	3
+9671027	cell_line	BTI-Tn-5B1-4	1
+9671027	organ/tissue	exudate	6
+9671027	clinical_drug	Nitrogen	1

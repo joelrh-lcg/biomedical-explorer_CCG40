@@ -1,0 +1,60 @@
+11467726	biological_process	transport	2
+11467726	cellular_component	membrane	1
+11467726	chemical	G(A1) ganglioside	6
+11467726	chemical	CDTA	4
+11467726	chemical	Succinic Acid	4
+11467726	chemical	beta-D-Gal-(1->3)-beta-D-GalNAc-(1->4)-beta-D-Gal-(1->4)-beta-D-Glc-(1<->1')-Cer	3
+11467726	chemical	gibberellin A1	3
+11467726	chemical	malic acid	2
+11467726	chemical	succinate(2-)	2
+11467726	chemical	succinate	2
+11467726	chemical	Ammonia	2
+11467726	chemical	Aspartic Acid	2
+11467726	chemical	Glucose	2
+11467726	chemical	Glycerol	2
+11467726	chemical	Acetylene	2
+11467726	chemical	C4-dicarboxylate	1
+11467726	chemical	fumarate	1
+11467726	chemical	fumarate(2-)	1
+11467726	chemical	(S)-malic acid	1
+11467726	chemical	malate(2-)	1
+11467726	chemical	malate	1
+11467726	chemical	ammonia	1
+11467726	chemical	nitrogen atom	1
+11467726	chemical	nitrogen(.)	1
+11467726	chemical	aspartate(2-)	1
+11467726	chemical	aspartate salt	1
+11467726	chemical	aspartate	1
+11467726	chemical	aldehydo-D-glucose	1
+11467726	chemical	D-glucopyranose	1
+11467726	chemical	glucose	1
+11467726	chemical	glycerol	1
+11467726	chemical	acetylene	1
+11467726	disease	Glutaric Acidemia I	3
+11467726	disease	COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	2
+11467726	gene/protein	Protein BEAN1	4
+11467726	gene/protein	Ent-copalyl diphosphate synthase, chloroplastic (Arabidopsis thaliana)	3
+11467726	gene/protein	C4-dicarboxylate transport protein (Sinorhizobium meliloti 1021)	2
+11467726	gene/protein	aerobic C4-dicarboxylate transport protein	2
+11467726	gene/protein	aerobic C4-dicarboxylate transport protein (Escherichia coli K-12)	2
+11467726	gene/protein	protein BEAN	2
+11467726	gene/protein	C4-dicarboxylate transport protein	1
+11467726	gene/protein	Glucoamylase S1	1
+11467726	gene/protein	DELLA protein GAI (Arabidopsis thaliana)	1
+11467726	gene/protein	ryanodine receptor (fruit fly)	1
+11467726	organism	Rhizobium tropici	4
+11467726	organism	Bacillus virus GA1	3
+11467726	sequence	insertion	1
+11467726	sequence	gene	1
+11467726	sequence	homologous_region	1
+11467726	sequence	engineered_region	1
+11467726	cell_line	R1192	2
+11467726	organ/tissue	membrane organ	1
+11467726	organ/tissue	membranous layer	1
+11467726	organ/tissue	cerebellum vermis lobule X	1
+11467726	organ/tissue	germinal center	1
+11467726	clinical_drug	Ammonia	1
+11467726	clinical_drug	Nitrogen	1
+11467726	clinical_drug	Aspartate	1
+11467726	clinical_drug	Dextrose, Unspecified Form	1
+11467726	molecular_process	acetylene reduction	1

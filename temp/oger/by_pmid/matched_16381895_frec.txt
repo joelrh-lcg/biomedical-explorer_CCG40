@@ -1,0 +1,15 @@
+16381895	biological_process	regulation	1
+16381895	chemical	complement	1
+16381895	chemical	base	1
+16381895	chemical	Access	1
+16381895	gene/protein	k12	9
+16381895	organism	Escherichia coli k12	1
+16381895	sequence	operon	2
+16381895	sequence	genome	2
+16381895	sequence	gene	2
+16381895	sequence	base	1
+16381895	sequence	regulon	1
+16381895	cell_line	k12	2
+16381895	organ/tissue	tabular	2
+16381895	organ/tissue	organism	1
+16381895	organ/tissue	backbone	1

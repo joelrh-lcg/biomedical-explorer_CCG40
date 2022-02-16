@@ -1,0 +1,23 @@
+2522094	chemical	Glutamine	6
+2522094	chemical	glutamine	3
+2522094	chemical	L-glutamine	3
+2522094	chemical	Glutamic Acid	2
+2522094	chemical	Glutamate Synthase	1
+2522094	chemical	picloram	1
+2522094	chemical	Glutamate Dehydrogenase	1
+2522094	chemical	Glutamate-Ammonia Ligase	1
+2522094	chemical	nitrogen atom	1
+2522094	chemical	nitrogen(.)	1
+2522094	chemical	glutamate(2-)	1
+2522094	chemical	L-glutamic acid	1
+2522094	chemical	glutamate(1-)	1
+2522094	chemical	glutamic acid	1
+2522094	gene/protein	Glutamine synthetase	122
+2522094	gene/protein	Glutamate dehydrogenase	16
+2522094	gene/protein	Catabolic NAD-specific glutamate dehydrogenase RocG	1
+2522094	gene/protein	glutamine synthetase	1
+2522094	organism	Neurospora crassa	2
+2522094	sequence	glutamine	4
+2522094	clinical_drug	Glutamine	4
+2522094	clinical_drug	Glutamate	3
+2522094	clinical_drug	Nitrogen	1

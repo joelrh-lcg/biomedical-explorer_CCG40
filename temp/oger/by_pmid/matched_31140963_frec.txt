@@ -1,0 +1,9 @@
+31140963	biological_process	nodulation	1
+31140963	chemical	base	1
+31140963	organism	collection	1
+31140963	sequence	sequence	3
+31140963	sequence	genome	2
+31140963	sequence	base	1
+31140963	sequence	sequence comparison	1
+31140963	sequence	gene	1
+31140963	cell_line	be 1 a	1

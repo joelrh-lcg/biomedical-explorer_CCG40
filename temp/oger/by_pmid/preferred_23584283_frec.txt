@@ -1,0 +1,70 @@
+23584283	chemical	2,6-diisopropylnaphthalene	1
+23584283	chemical	DNA, Ribosomal	1
+23584283	chemical	RNA, Ribosomal, 16S	1
+23584283	disease	Indifference to Pain, Congenital, Autosomal Recessive	3
+23584283	gene/protein	Muscular LMNA-interacting protein	9
+23584283	gene/protein	Lipopolysaccharide-binding protein	5
+23584283	gene/protein	cardiolipin synthase A	3
+23584283	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	3
+23584283	gene/protein	muscular LMNA-interacting protein (mouse)	3
+23584283	gene/protein	muscular LMNA-interacting protein (rat)	3
+23584283	gene/protein	muscular LMNA-interacting protein	3
+23584283	gene/protein	CD59 glycoprotein	3
+23584283	gene/protein	muscular LMNA-interacting protein (human)	3
+23584283	gene/protein	protein RecA (Brucella abortus bv. 1 str. 9-941)	1
+23584283	gene/protein	protein RecA (Mycobacterium tuberculosis H37Rv)	1
+23584283	gene/protein	DNA repair protein RAD51 homolog 1 (mouse)	1
+23584283	gene/protein	protein RecA	1
+23584283	gene/protein	DNA repair protein RAD51 homolog 1	1
+23584283	gene/protein	protein RecA (Brucella suis 1330)	1
+23584283	gene/protein	mitochondrial DNA repair protein recA homolog (Dictyostelium discoideum)	1
+23584283	gene/protein	protein RecA (Escherichia coli K-12)	1
+23584283	gene/protein	protein RecA (Brucella canis ATCC 23365)	1
+23584283	gene/protein	DNA repair protein RAD51 homolog 1 (human)	1
+23584283	gene/protein	protein RecA (Brucella suis ATCC 23445)	1
+23584283	gene/protein	protein RecA (Brucella melitensis ATCC 23457)	1
+23584283	gene/protein	DNA repair protein recA homolog 1, chloroplastic (Arabidopsis thaliana)	1
+23584283	gene/protein	protein RecA (Brucella abortus 2308)	1
+23584283	gene/protein	ATP synthase subunit delta, chloroplastic (Arabidopsis thaliana)	1
+23584283	gene/protein	ATP synthase subunit beta (Aeromonas hydrophila subsp. hydrophila ATCC 7966)	1
+23584283	gene/protein	ATP synthase subunit beta (Clostridium botulinum A str. Hall)	1
+23584283	gene/protein	ATP synthase subunit beta (Mycobacterium tuberculosis H37Rv)	1
+23584283	gene/protein	ATP synthase subunit beta	1
+23584283	gene/protein	ATP synthase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+23584283	gene/protein	ATP synthase subunit beta (Escherichia coli K-12)	1
+23584283	gene/protein	ATP synthase subunit beta (Leptospira interrogans serovar Lai str. 56601)	1
+23584283	gene/protein	DNA-directed RNA polymerase subunit beta (Thermus thermophilus HB8)	1
+23584283	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis ATCC 23445)	1
+23584283	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus 2308)	1
+23584283	gene/protein	DNA-directed RNA polymerase subunit beta (Escherichia coli K-12)	1
+23584283	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella canis ATCC 23365)	1
+23584283	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella ovis ATCC 25840)	1
+23584283	gene/protein	DNA-directed RNA polymerase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+23584283	gene/protein	DNA-directed RNA polymerase subunit beta (Peptoclostridium difficile 630)	1
+23584283	gene/protein	DNA-directed RNA polymerase subunit beta (Clostridium botulinum A str. Hall)	1
+23584283	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella melitensis ATCC 23457)	1
+23584283	gene/protein	DNA-directed RNA polymerase subunit beta	1
+23584283	gene/protein	DNA-directed RNA polymerase subunit beta (Arabidopsis thaliana)	1
+23584283	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis 1330)	1
+23584283	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus bv. 1 str. 9-941)	1
+23584283	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+23584283	gene/protein	lipopolysaccharide-binding protein (mouse)	1
+23584283	gene/protein	lipopolysaccharide-binding protein, signal peptide removed form (human)	1
+23584283	gene/protein	Lactose-binding protein	1
+23584283	gene/protein	lipopolysaccharide-binding protein (rat)	1
+23584283	gene/protein	lipopolysaccharide-binding protein	1
+23584283	gene/protein	lipopolysaccharide-binding protein (human)	1
+23584283	gene/protein	Luciferin-binding protein	1
+23584283	organism	Rhizobium calliandrae	5
+23584283	organism	Rhizobium mayense	5
+23584283	organism	Rhizobium jaguaris	5
+23584283	organism	Rhizobium	2
+23584283	organism	Rhizobium tropici	2
+23584283	organism	Plants, Medicinal	1
+23584283	sequence	rRNA_gene	2
+23584283	sequence	rRNA_16S	1
+23584283	sequence	region	1
+23584283	sequence	gene	1
+23584283	cell_line	RECA	1
+23584283	organ/tissue	cerebellum vermis lobule X	1
+23584283	organ/tissue	germinal center	1

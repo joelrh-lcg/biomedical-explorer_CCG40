@@ -1,0 +1,27 @@
+27226009	biological_process	biofilm formation	4
+27226009	biological_process	synthesis	3
+27226009	biological_process	transport	2
+27226009	biological_process	symbiosis	1
+27226009	biological_process	chemotaxis	1
+27226009	biological_process	lactone synthesis	1
+27226009	biological_process	nodulation	1
+27226009	cellular_component	extracellular	1
+27226009	cellular_component	membrane	1
+27226009	chemical	exopolysaccharide	2
+27226009	chemical	lipopolysaccharide	2
+27226009	chemical	nitrogen	2
+27226009	chemical	extracellular polymeric substance	1
+27226009	chemical	proteins	1
+27226009	chemical	flagellin	1
+27226009	chemical	lactone	1
+27226009	gene/protein	flagellin	35
+27226009	organism	bacterium	7
+27226009	organism	Rhizobium	1
+27226009	organism	cfn42	1
+27226009	sequence	gene	6
+27226009	sequence	transition	1
+27226009	cell_line	24h	1
+27226009	organ/tissue	membrane	2
+27226009	organ/tissue	organism	1
+27226009	organ/tissue	matrix	1
+27226009	clinical_drug	nitrogen	1

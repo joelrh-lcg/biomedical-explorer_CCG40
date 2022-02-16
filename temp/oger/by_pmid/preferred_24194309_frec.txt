@@ -1,0 +1,14 @@
+24194309	biological_process	nodulation	4
+24194309	gene/protein	ryanodine receptor (fruit fly)	1
+24194309	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+24194309	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+24194309	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+24194309	organism	Medicago sativa	4
+24194309	organism	Sinorhizobium meliloti	2
+24194309	sequence	genotype	1
+24194309	sequence	transit_peptide	1
+24194309	sequence	signal_peptide	1
+24194309	organ/tissue	exudate	3
+24194309	organ/tissue	cerebellum vermis lobule X	1
+24194309	organ/tissue	germinal center	1
+24194309	clinical_drug	Medicago sativa whole extract	2

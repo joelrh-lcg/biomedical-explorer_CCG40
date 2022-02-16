@@ -1,0 +1,28 @@
+2145504	biological_process	synthesis	1
+2145504	biological_process	catabolism	1
+2145504	biological_process	anabolism	1
+2145504	chemical	glutamine	32
+2145504	chemical	glutamate	30
+2145504	chemical	ammonium	9
+2145504	chemical	carbon	6
+2145504	chemical	nitrogen	4
+2145504	chemical	2oxoglutarate	3
+2145504	chemical	glutamate synthase	2
+2145504	chemical	beta	2
+2145504	chemical	alpha	2
+2145504	chemical	amide	2
+2145504	chemical	pathway	1
+2145504	chemical	glutamine synthetase	1
+2145504	chemical	polypeptide	1
+2145504	chemical	glutamate dehydrogenase	1
+2145504	chemical	buffer	1
+2145504	chemical	nutrient	1
+2145504	gene/protein	glutamine synthetase	123
+2145504	gene/protein	glutamate dehydrogenase	17
+2145504	gene/protein	polypeptide	2
+2145504	organism	Neurospora crassa	2
+2145504	sequence	glutamine	9
+2145504	sequence	polypeptide	1
+2145504	clinical_drug	glutamine	9
+2145504	clinical_drug	glutamate	8
+2145504	clinical_drug	nitrogen	2

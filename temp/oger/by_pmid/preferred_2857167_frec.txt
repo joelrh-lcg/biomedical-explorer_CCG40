@@ -1,0 +1,20 @@
+2857167	chemical	Glutamine	6
+2857167	chemical	glutamine	3
+2857167	chemical	L-glutamine	3
+2857167	chemical	Aminooxyacetic Acid	2
+2857167	chemical	Ammonium Compounds	2
+2857167	chemical	picloram	1
+2857167	chemical	glutamine-pyruvate aminotransferase	1
+2857167	chemical	inhibitor	1
+2857167	chemical	aminooxyacetic acid	1
+2857167	chemical	diazo group	1
+2857167	chemical	ammonium	1
+2857167	chemical	Glutamate Dehydrogenase	1
+2857167	chemical	Glutamate Synthase	1
+2857167	gene/protein	Glutamate dehydrogenase	16
+2857167	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+2857167	gene/protein	Catabolic NAD-specific glutamate dehydrogenase RocG	1
+2857167	organism	Neurospora crassa	2
+2857167	sequence	glutamine	4
+2857167	clinical_drug	Glutamine	4
+2857167	clinical_drug	Glutamate	2

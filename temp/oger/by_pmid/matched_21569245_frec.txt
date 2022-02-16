@@ -1,0 +1,23 @@
+21569245	biological_process	cell proliferation	1
+21569245	biological_process	cell cycle	1
+21569245	biological_process	regulation of gene expression	1
+21569245	biological_process	neurogenesis	1
+21569245	biological_process	energy homeostasis	1
+21569245	biological_process	neuron development	1
+21569245	chemical	hormone	3
+21569245	chemical	thyrotropin	2
+21569245	chemical	trh	1
+21569245	chemical	peptide	1
+21569245	chemical	TRH	1
+21569245	disease	hypothalamic	4
+21569245	gene/protein	trh	13
+21569245	gene/protein	TRH	13
+21569245	gene/protein	peptide	2
+21569245	gene/protein	thyrotropin	1
+21569245	sequence	gene	1
+21569245	sequence	peptide	1
+21569245	sequence	genome	1
+21569245	cell	neuroendocrine cell	1
+21569245	cell	neuron	1
+21569245	organ/tissue	proliferation	1
+21569245	organ/tissue	cell cycle	1

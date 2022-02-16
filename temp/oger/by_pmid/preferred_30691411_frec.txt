@@ -1,0 +1,7 @@
+30691411	biological_process	gene expression	3
+30691411	biological_process	cellular response to stimulus	1
+30691411	gene/protein	Stationary-phase-induced ribosome-associated protein	11
+30691411	gene/protein	protein sarah (fruit fly)	1
+30691411	gene/protein	stationary-phase-induced ribosome-associated protein (Escherichia coli K-12)	1
+30691411	gene/protein	stationary-phase-induced ribosome-associated protein	1
+30691411	sequence	gene	3

@@ -1,0 +1,16 @@
+14529615	chemical	sigma70	3
+14529615	chemical	base	1
+14529615	chemical	cluster	1
+14529615	gene/protein	sigma70	114
+14529615	gene/protein	k12	9
+14529615	gene/protein	rna	2
+14529615	gene/protein	transcriptional regulator	1
+14529615	organism	Escherichia coli	2
+14529615	sequence	promoter	15
+14529615	sequence	signal	8
+14529615	sequence	gene	4
+14529615	sequence	score	3
+14529615	sequence	upstream	2
+14529615	sequence	base	1
+14529615	cell_line	k12	2
+14529615	organ/tissue	matrix	5

@@ -1,0 +1,26 @@
+18840678	biological_process	regulation	2
+18840678	biological_process	transcription	2
+18840678	cellular_component	chromosome	5
+18840678	cellular_component	telomere	2
+18840678	cellular_component	centromere	2
+18840678	cellular_component	nucleus	1
+18840678	chemical	nucleus	1
+18840678	chemical	cluster	1
+18840678	disease	disease	2
+18840678	disease	chromosomal aberration	2
+18840678	molecular_function	transcription factor	1
+18840678	organism	eukaryote	2
+18840678	organism	Saccharomyces cerevisiae	2
+18840678	organism	unknown	1
+18840678	organism	yeast	1
+18840678	sequence	chromosome	5
+18840678	sequence	gene	4
+18840678	sequence	linear	1
+18840678	sequence	genome	1
+18840678	sequence	target gene	1
+18840678	sequence	telomere	1
+18840678	sequence	centromere	1
+18840678	organ/tissue	nucleus	1
+18840678	clinical_drug	Saccharomyces cerevisiae	2
+18840678	clinical_drug	yeast	1
+18840678	molecular_process	coordination	1

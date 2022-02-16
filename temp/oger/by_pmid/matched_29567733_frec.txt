@@ -1,0 +1,14 @@
+29567733	biological_process	virulence	3
+29567733	biological_process	detoxification	1
+29567733	biological_process	nitrogen fixation	1
+29567733	chemical	nitrogen	2
+29567733	chemical	catalase	2
+29567733	chemical	cellulase	1
+29567733	chemical	virulence factor	1
+29567733	gene/protein	catalase	79
+29567733	gene/protein	cellulase	46
+29567733	organism	sugarcane	3
+29567733	sequence	genome	1
+29567733	sequence	gene	1
+29567733	clinical_drug	sugarcane	2
+29567733	clinical_drug	nitrogen	1

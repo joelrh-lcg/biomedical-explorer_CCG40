@@ -1,0 +1,15 @@
+27150362	biological_process	pathogenesis	1
+27150362	biological_process	obsolete virulence	1
+27150362	biological_process	viral process	1
+27150362	chemical	Anti-Bacterial Agents	2
+27150362	chemical	sulfoxaflor	1
+27150362	chemical	antimicrobial agent	1
+27150362	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+27150362	gene/protein	extracellular adherence protein	1
+27150362	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+27150362	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+27150362	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+27150362	gene/protein	methionine aminopeptidase	1
+27150362	organism	Staphylococcus aureus	2
+27150362	sequence	clone	1
+27150362	sequence	gene	1

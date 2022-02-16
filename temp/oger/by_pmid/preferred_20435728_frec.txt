@@ -1,0 +1,44 @@
+20435728	biological_process	transcription, DNA-templated	1
+20435728	biological_process	biological regulation	1
+20435728	cellular_component	obsolete protein	1
+20435728	chemical	atom	1
+20435728	chemical	RNA, Antisense	1
+20435728	chemical	protein	1
+20435728	chemical	(protein)	1
+20435728	chemical	molecule	1
+20435728	gene/protein	Replication-associated protein A	30
+20435728	gene/protein	RepFIB replication protein A (Escherichia coli K-12)	4
+20435728	gene/protein	RepFIB replication protein A	4
+20435728	gene/protein	transcriptional repressor PifC (Escherichia coli K-12)	3
+20435728	gene/protein	Repressor c protein	3
+20435728	gene/protein	transcriptional repressor pifC	3
+20435728	gene/protein	Repressor protein c	3
+20435728	gene/protein	general transcription and DNA repair factor IIH helicase subunit XPB (Dictyostelium discoideum)	2
+20435728	gene/protein	mobilization protein A (Escherichia coli)	2
+20435728	gene/protein	replication regulatory protein repA2 (Shigella flexneri)	2
+20435728	gene/protein	bifunctional glutamate/proline--tRNA ligase (human)	2
+20435728	gene/protein	bifunctional glutamate/proline--tRNA ligase	2
+20435728	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+20435728	gene/protein	ribonuclease I	1
+20435728	gene/protein	protein	1
+20435728	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+20435728	gene/protein	extracellular adherence protein	1
+20435728	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+20435728	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+20435728	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+20435728	gene/protein	methionine aminopeptidase	1
+20435728	molecular_function	obsolete antisense RNA	1
+20435728	organism	Rhizobium etli	2
+20435728	organism	unidentified plasmid	2
+20435728	sequence	operon	4
+20435728	sequence	gene	3
+20435728	sequence	plasmid	2
+20435728	sequence	antisense_RNA	1
+20435728	sequence	INR_motif	1
+20435728	sequence	polypeptide	1
+20435728	sequence	polypeptide_secondary_structure	1
+20435728	sequence	polypeptide_conserved_motif	1
+20435728	sequence	polypeptide_motif	1
+20435728	sequence	antisense	1
+20435728	cell_line	REPC	3
+20435728	organ/tissue	organ	1

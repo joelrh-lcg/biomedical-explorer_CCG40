@@ -1,0 +1,23 @@
+32571917	biological_process	pathogenesis	1
+32571917	biological_process	obsolete virulence	1
+32571917	biological_process	viral process	1
+32571917	chemical	Anti-Bacterial Agents	4
+32571917	chemical	antimicrobial agent	2
+32571917	chemical	atom	1
+32571917	molecular_function	cargo receptor ligand activity	1
+32571917	organism	bacterium IFAM-3211	2
+32571917	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+32571917	organism	bacterium IFAM-3215	2
+32571917	organism	bacterium IFAM-2074	2
+32571917	organism	bacterium IFAM-3359	2
+32571917	organism	bacterium	2
+32571917	organism	bacterium IFAM-1493	2
+32571917	organism	unidentified plasmid	1
+32571917	organism	Humans	1
+32571917	sequence	mobile_genetic_element	7
+32571917	sequence	gene	5
+32571917	sequence	plasmid	1
+32571917	sequence	sequence_variant_obs	1
+32571917	sequence	allele	1
+32571917	organ/tissue	medial ganglionic eminence	6
+32571917	organ/tissue	organ	1

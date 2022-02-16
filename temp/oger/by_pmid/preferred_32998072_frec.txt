@@ -1,0 +1,76 @@
+32998072	biological_process	nitrogen fixation	1
+32998072	biological_process	biosynthetic process	1
+32998072	biological_process	xenobiotic catabolic process	1
+32998072	biological_process	catabolic process	1
+32998072	biological_process	chemotaxis	1
+32998072	biological_process	secretion	1
+32998072	cellular_component	pilus	1
+32998072	chemical	indoleacetic acid	2
+32998072	chemical	Cellulose	2
+32998072	chemical	Starch	2
+32998072	chemical	RNA, Ribosomal, 16S	1
+32998072	chemical	nucleotide	1
+32998072	chemical	nitrogen atom	1
+32998072	chemical	nitrogen(.)	1
+32998072	chemical	indole-3-acetic acid	1
+32998072	chemical	antimicrobial agent	1
+32998072	chemical	terpene	1
+32998072	chemical	phosphonate	1
+32998072	chemical	phosphonic acid	1
+32998072	chemical	phosphonate(2-)	1
+32998072	chemical	bacteriocin	1
+32998072	chemical	xenobiotic	1
+32998072	chemical	Chitinases	1
+32998072	chemical	Isoamylase	1
+32998072	chemical	(1->4)-beta-D-glucan	1
+32998072	chemical	starch	1
+32998072	chemical	sodium chloride	1
+32998072	chemical	fatty acid	1
+32998072	chemical	base	1
+32998072	gene/protein	Bacteriocin	3
+32998072	gene/protein	Isoamylase	3
+32998072	gene/protein	protein STRUBBELIG (Arabidopsis thaliana)	2
+32998072	gene/protein	kinesin-like protein subito (fruit fly)	2
+32998072	gene/protein	glutamate synthase [NADPH] large chain (Escherichia coli K-12)	1
+32998072	gene/protein	glutamate synthase [NADPH] small chain (Bacillus subtilis subsp. subtilis str. 168)	1
+32998072	gene/protein	glutamate synthase [NADPH] large chain	1
+32998072	gene/protein	elongation factor 4 (Escherichia coli K-12)	1
+32998072	gene/protein	elongation factor 4 (Clostridium botulinum A str. Hall)	1
+32998072	gene/protein	elongation factor 4	1
+32998072	gene/protein	elongation factor 4 (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+32998072	gene/protein	protein RecA (Brucella abortus bv. 1 str. 9-941)	1
+32998072	gene/protein	protein RecA (Mycobacterium tuberculosis H37Rv)	1
+32998072	gene/protein	DNA repair protein RAD51 homolog 1 (mouse)	1
+32998072	gene/protein	protein RecA	1
+32998072	gene/protein	DNA repair protein RAD51 homolog 1	1
+32998072	gene/protein	protein RecA (Brucella suis 1330)	1
+32998072	gene/protein	mitochondrial DNA repair protein recA homolog (Dictyostelium discoideum)	1
+32998072	gene/protein	protein RecA (Escherichia coli K-12)	1
+32998072	gene/protein	protein RecA (Brucella canis ATCC 23365)	1
+32998072	gene/protein	DNA repair protein RAD51 homolog 1 (human)	1
+32998072	gene/protein	protein RecA (Brucella suis ATCC 23445)	1
+32998072	gene/protein	protein RecA (Brucella melitensis ATCC 23457)	1
+32998072	gene/protein	DNA repair protein recA homolog 1, chloroplastic (Arabidopsis thaliana)	1
+32998072	gene/protein	protein RecA (Brucella abortus 2308)	1
+32998072	gene/protein	Putative chitinase	1
+32998072	gene/protein	intron-encoded endonuclease I-SceI (yeast)	1
+32998072	gene/protein	cardiolipin synthase A	1
+32998072	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+32998072	gene/protein	AT07979p1 (fruit fly)	1
+32998072	organism	collection	1
+32998072	organism	Solanum lycopersicum	1
+32998072	organism	Lycopersicon esculentum	1
+32998072	organism	bacterium BE	1
+32998072	sequence	region	5
+32998072	sequence	gene	5
+32998072	sequence	genome	3
+32998072	sequence	rRNA_16S	1
+32998072	sequence	rRNA_gene	1
+32998072	sequence	base	1
+32998072	cell_line	RECA	1
+32998072	organ/tissue	collection of hairs	1
+32998072	organ/tissue	secretion of exocrine gland	1
+32998072	clinical_drug	tomato allergenic extract	1
+32998072	clinical_drug	Nitrogen	1
+32998072	clinical_drug	.ALPHA.-CELLULOSE	1
+32998072	clinical_drug	Starch	1

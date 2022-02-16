@@ -1,0 +1,18 @@
+25201548	biological_process	regulation	1
+25201548	biological_process	transcription	1
+25201548	biological_process	symbiotic interaction	1
+25201548	chemical	noncoding rna	1
+25201548	disease	ncrna	1
+25201548	gene/protein	bean	3
+25201548	gene/protein	rna	2
+25201548	gene/protein	cope	1
+25201548	organism	rhizobium etli	2
+25201548	organism	bacterium be	2
+25201548	organism	Phaseolus vulgaris	2
+25201548	sequence	gene	2
+25201548	sequence	inside	1
+25201548	sequence	noncoding rna	1
+25201548	sequence	ncrna	1
+25201548	sequence	promoter region	1
+25201548	cell_line	bean	1
+25201548	organ/tissue	organism	1

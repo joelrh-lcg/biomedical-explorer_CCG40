@@ -1,0 +1,13 @@
+33976161	biological_process	conjugation	1
+33976161	chemical	Anti-Bacterial Agents	2
+33976161	chemical	antimicrobial agent	1
+33976161	gene/protein	elongation factor P--(R)-beta-lysine ligase (Escherichia coli K-12)	3
+33976161	gene/protein	elongation factor P--(R)-beta-lysine ligase	3
+33976161	gene/protein	peroxinectin A (Dictyostelium discoideum)	3
+33976161	organism	unidentified plasmid	8
+33976161	organism	human gut metagenome	1
+33976161	sequence	plasmid	8
+33976161	organ/tissue	digestive tract	1
+33976161	organ/tissue	lower digestive tract	1
+33976161	organ/tissue	digestive system	1
+33976161	molecular_process	reduction	1

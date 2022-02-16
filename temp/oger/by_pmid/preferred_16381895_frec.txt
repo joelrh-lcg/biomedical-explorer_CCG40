@@ -1,0 +1,22 @@
+16381895	biological_process	biological regulation	1
+16381895	chemical	Complement System Proteins	1
+16381895	chemical	base	1
+16381895	chemical	picloram	1
+16381895	gene/protein	Keratin, type I cytoskeletal 12	4
+16381895	gene/protein	secreted and transmembrane protein 1	1
+16381895	gene/protein	secreted and transmembrane protein 1 (human)	1
+16381895	gene/protein	secreted and transmembrane protein 1b	1
+16381895	gene/protein	keratin, type I cytoskeletal 12	1
+16381895	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+16381895	organism	Escherichia coli K12	1
+16381895	sequence	operon	2
+16381895	sequence	genome	2
+16381895	sequence	gene	2
+16381895	sequence	base	1
+16381895	sequence	regulon	1
+16381895	cell_line	K12 [Mouse osteosarcoma]	1
+16381895	cell_line	K12-72.1	1
+16381895	organ/tissue	multicellular organism	1
+16381895	organ/tissue	vertebral column	1
+16381895	organ/tissue	tabular bone	1
+16381895	organ/tissue	extrascapula	1

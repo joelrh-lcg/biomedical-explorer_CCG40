@@ -1,0 +1,10 @@
+31506045	biological_process	drug resistance	2
+31506045	chemical	antibiotic	12
+31506045	chemical	drug	3
+31506045	chemical	molecule	2
+31506045	chemical	antimicrobial	1
+31506045	chemical	base	1
+31506045	chemical	label	1
+31506045	organism	human	1
+31506045	sequence	base	1
+31506045	organ/tissue	tissue	2

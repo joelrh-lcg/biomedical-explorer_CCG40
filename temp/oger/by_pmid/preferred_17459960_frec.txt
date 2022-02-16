@@ -1,0 +1,12 @@
+17459960	biological_process	cellular process	1
+17459960	biological_process	biological regulation	1
+17459960	cellular_component	viral nucleocapsid	1
+17459960	cellular_component	cell projection	1
+17459960	chemical	protein	1
+17459960	chemical	molecule	1
+17459960	chemical	protein polypeptide chain	1
+17459960	molecular_function	binding	1
+17459960	sequence	polypeptide_binding_motif	1
+17459960	sequence	non_covalent_binding_site	1
+17459960	organ/tissue	scale	1
+17459960	organ/tissue	matrix compartment	1

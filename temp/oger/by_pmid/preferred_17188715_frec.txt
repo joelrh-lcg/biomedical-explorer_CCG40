@@ -1,0 +1,8 @@
+17188715	biological_process	biological regulation	1
+17188715	chemical	picloram	1
+17188715	organism	Ursus sp.	1
+17188715	sequence	gene	6
+17188715	sequence	duplication	2
+17188715	sequence	point_mutation	1
+17188715	sequence	deletion	1
+17188715	organ/tissue	multicellular organism	5

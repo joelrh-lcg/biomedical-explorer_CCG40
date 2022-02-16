@@ -1,0 +1,44 @@
+19700546	cellular_component	obsolete protein	1
+19700546	chemical	1-aminocyclopropane-1-carboxylate deaminase	6
+19700546	chemical	ethylene	6
+19700546	chemical	ethylene group	2
+19700546	chemical	ethene	2
+19700546	chemical	protein	1
+19700546	chemical	(protein)	1
+19700546	gene/protein	1-aminocyclopropane-1-carboxylate deaminase	282
+19700546	gene/protein	Putative 1-aminocyclopropane-1-carboxylate deaminase	20
+19700546	gene/protein	Probable 1-aminocyclopropane-1-carboxylate deaminase	10
+19700546	gene/protein	Acetyl-CoA carboxylase 1	5
+19700546	gene/protein	acetyl-CoA carboxylase 1 (human)	1
+19700546	gene/protein	fractalkine (rat)	1
+19700546	gene/protein	Biotin carboxylase 1	1
+19700546	gene/protein	1-aminocyclopropane-1-carboxylate synthase 2 (Arabidopsis thaliana)	1
+19700546	gene/protein	acetyl-CoA carboxylase 1	1
+19700546	gene/protein	1-aminocyclopropane-1-carboxylate synthase 2	1
+19700546	gene/protein	acetyl-CoA carboxylase (yeast)	1
+19700546	gene/protein	acetylcholine-gated chloride channel subunit acc-1 (worm)	1
+19700546	gene/protein	acetyl-CoA carboxylase 1 (Arabidopsis thaliana)	1
+19700546	gene/protein	protein	1
+19700546	molecular_function	1-aminocyclopropane-1-carboxylate deaminase activity	4
+19700546	organism	Burkholderia	7
+19700546	organism	Paraburkholderia unamae	2
+19700546	organism	Humans	1
+19700546	organism	Burkholderia cepacia complex	1
+19700546	organism	bacterium IFAM-3211	1
+19700546	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+19700546	organism	bacterium IFAM-3215	1
+19700546	organism	bacterium IFAM-2074	1
+19700546	organism	bacterium IFAM-3359	1
+19700546	organism	bacterium	1
+19700546	organism	bacterium IFAM-1493	1
+19700546	organism	Solanum lycopersicum	1
+19700546	organism	Lycopersicon esculentum	1
+19700546	sequence	gene	3
+19700546	sequence	region	2
+19700546	sequence	polypeptide	1
+19700546	sequence	fusion	1
+19700546	sequence	engineered_region	1
+19700546	organ/tissue	animal hemisphere	1
+19700546	organ/tissue	multicellular organism	1
+19700546	clinical_drug	Ethylene	2
+19700546	clinical_drug	tomato allergenic extract	1

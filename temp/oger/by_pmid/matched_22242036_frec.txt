@@ -1,0 +1,37 @@
+22242036	biological_process	immune response	1
+22242036	cellular_component	outer membrane	1
+22242036	cellular_component	vesicle	1
+22242036	cellular_component	protein	1
+22242036	cellular_component	igg2a	1
+22242036	chemical	Omp	3
+22242036	chemical	protein	2
+22242036	chemical	il12	2
+22242036	chemical	tnfα	2
+22242036	chemical	proteins	1
+22242036	chemical	immunogen	1
+22242036	chemical	omp	1
+22242036	chemical	igg2a	1
+22242036	disease	bone marrow	2
+22242036	gene/protein	GroES	13
+22242036	gene/protein	Omp25	7
+22242036	gene/protein	rev1	7
+22242036	gene/protein	Omp	6
+22242036	gene/protein	omp	6
+22242036	gene/protein	Omp19	4
+22242036	gene/protein	protein	1
+22242036	gene/protein	SOD	1
+22242036	gene/protein	bp26	1
+22242036	gene/protein	igg2a	1
+22242036	molecular_function	SOD	1
+22242036	molecular_function	il12	1
+22242036	organism	strain b	14
+22242036	organism	omv	6
+22242036	organism	mouse	6
+22242036	organism	Brucella	1
+22242036	organism	strain 16 m	1
+22242036	sequence	protein	1
+22242036	sequence	gene	1
+22242036	cell	dendritic cell	2
+22242036	organ/tissue	membrane	2
+22242036	organ/tissue	bone marrow	1
+22242036	organ/tissue	serum	1

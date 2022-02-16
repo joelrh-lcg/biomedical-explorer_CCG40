@@ -1,0 +1,22 @@
+30586650	chemical	Potassium	2
+30586650	chemical	potassium atom	1
+30586650	gene/protein	Calcium-activated potassium channel subunit alpha-1	90
+30586650	gene/protein	potassium channel subfamily U member 1	11
+30586650	gene/protein	potassium channel subfamily U member 1 (mouse)	11
+30586650	gene/protein	potassium channel subfamily U member 1 (human)	11
+30586650	gene/protein	calcium-activated potassium channel subunit alpha-1	10
+30586650	gene/protein	SCOCO-like protein 1 (yeast)	9
+30586650	gene/protein	calcium-activated potassium channel slo-1 (worm)	9
+30586650	gene/protein	calcium-activated potassium channel slowpoke (fruit fly)	1
+30586650	gene/protein	calcium-activated potassium channel subunit alpha-1 (human)	1
+30586650	organism	unidentified	1
+30586650	organism	Vertebrates	1
+30586650	sequence	paralogous_region	1
+30586650	sequence	gene	1
+30586650	sequence	duplication	1
+30586650	sequence	polypeptide_domain	1
+30586650	sequence	orthologous_region	1
+30586650	cell	sperm	1
+30586650	organ/tissue	obsolete spermatozoon	1
+30586650	organ/tissue	semen	1
+30586650	clinical_drug	Potassium	1

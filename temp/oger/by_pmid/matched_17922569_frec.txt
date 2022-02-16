@@ -1,0 +1,19 @@
+17922569	biological_process	nitrogen fixation	4
+17922569	biological_process	symbiosis	1
+17922569	biological_process	transport	1
+17922569	chemical	nitrogen	12
+17922569	chemical	ammonia	3
+17922569	chemical	pathway	2
+17922569	chemical	chemical compound	1
+17922569	gene/protein	FBA	14
+17922569	gene/protein	ior	13
+17922569	molecular_function	ior	1
+17922569	organism	bacterium	14
+17922569	organism	Rhizobium etli	2
+17922569	organism	legume	1
+17922569	organism	cfn42	1
+17922569	sequence	gene	1
+17922569	sequence	deletion	1
+17922569	organ/tissue	organism	1
+17922569	clinical_drug	nitrogen	6
+17922569	clinical_drug	ammonia	1

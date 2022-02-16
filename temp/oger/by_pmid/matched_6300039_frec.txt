@@ -1,0 +1,13 @@
+6300039	biological_process	regulation	1
+6300039	biological_process	synthesis	1
+6300039	chemical	glutamate	12
+6300039	chemical	nitrogen	4
+6300039	chemical	glutamine	4
+6300039	chemical	ammonium	3
+6300039	chemical	nitrate	1
+6300039	molecular_function	enzyme activity	1
+6300039	organism	Neurospora crassa	2
+6300039	sequence	glutamine	1
+6300039	clinical_drug	glutamate	2
+6300039	clinical_drug	nitrogen	2
+6300039	clinical_drug	glutamine	1

@@ -1,0 +1,18 @@
+19214572	chemical	albendazole	15
+19214572	chemical	amino acid	2
+19214572	chemical	amplify	1
+19214572	chemical	proteins	1
+19214572	gene/protein	rod	2
+19214572	organism	Giardia intestinalis	2
+19214572	organism	strain ic	1
+19214572	sequence	mutation	5
+19214572	sequence	sequence	4
+19214572	sequence	gene	3
+19214572	sequence	domain	3
+19214572	sequence	repeat	2
+19214572	sequence	nest	1
+19214572	sequence	chain	1
+19214572	sequence	amplicon	1
+19214572	sequence	amino acid	1
+19214572	clinical_drug	albendazole	5
+19214572	molecular_process	chain reaction	1

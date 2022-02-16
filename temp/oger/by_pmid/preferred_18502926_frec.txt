@@ -1,0 +1,9 @@
+18502926	chemical	RNA, Ribosomal, 16S	1
+18502926	chemical	nitrogen-15 atom	1
+18502926	chemical	cluster	1
+18502926	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+18502926	organism	Burkholderia	2
+18502926	sequence	genome	2
+18502926	sequence	rRNA_16S	1
+18502926	sequence	gene	1
+18502926	sequence	region	1

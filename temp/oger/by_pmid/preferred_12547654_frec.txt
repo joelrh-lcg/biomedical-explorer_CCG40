@@ -1,0 +1,52 @@
+12547654	biological_process	methylation	3
+12547654	biological_process	biosynthetic process	2
+12547654	cellular_component	membrane	1
+12547654	cellular_component	cell surface	1
+12547654	chemical	picloram	11
+12547654	chemical	Choline	8
+12547654	chemical	choline	4
+12547654	chemical	Phosphorylcholine	4
+12547654	chemical	phosphatidylethanolamine	3
+12547654	chemical	Phosphatidylcholines	2
+12547654	chemical	phosphocholine	2
+12547654	chemical	phosphatidylcholine	1
+12547654	chemical	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	1
+12547654	chemical	1,2-diacyl-sn-glycero-3-phosphocholine	1
+12547654	chemical	phospholipid	1
+12547654	chemical	base	1
+12547654	chemical	(S)-1,2-distearoylphosphatidylethanolaminium	1
+12547654	chemical	choline phosphate(1-)	1
+12547654	chemical	phosphocholine group	1
+12547654	disease	Pneumonia	2
+12547654	disease	Influenza, Human	2
+12547654	gene/protein	Phosphatidylcholine synthase	20
+12547654	gene/protein	phosphatidylcholine synthase	2
+12547654	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+12547654	organism	bacterium IFAM-3211	5
+12547654	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	5
+12547654	organism	bacterium IFAM-3215	5
+12547654	organism	bacterium IFAM-2074	5
+12547654	organism	bacterium IFAM-3359	5
+12547654	organism	bacterium	5
+12547654	organism	bacterium IFAM-1493	5
+12547654	organism	Sinorhizobium meliloti	2
+12547654	organism	Rhizobium leguminosarum	2
+12547654	organism	Mesorhizobium loti	2
+12547654	organism	Brucella melitensis	2
+12547654	organism	Pseudomonas aeruginosa	2
+12547654	organism	Legionella pneumophila	2
+12547654	organism	Eukaryota	1
+12547654	organism	Agrobacterium	1
+12547654	organism	Borrelia burgdorferi	1
+12547654	organism	Borreliella burgdorferi	1
+12547654	organism	Streptococcus	1
+12547654	organism	Haemophilus	1
+12547654	sequence	intermediate	3
+12547654	sequence	base	1
+12547654	sequence	enzymatic	1
+12547654	sequence	substitution	1
+12547654	organ/tissue	membrane organ	1
+12547654	organ/tissue	membranous layer	1
+12547654	organ/tissue	epithelium	1
+12547654	clinical_drug	Choline	5
+12547654	molecular_process	methylation	3

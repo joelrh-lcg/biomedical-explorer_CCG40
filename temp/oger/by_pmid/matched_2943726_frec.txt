@@ -1,0 +1,11 @@
+2943726	chemical	glutamate synthase	6
+2943726	chemical	c24	1
+2943726	gene/protein	enam	9
+2943726	gene/protein	lack	2
+2943726	molecular_function	glutamate synthase activity	2
+2943726	molecular_function	enzyme activity	1
+2943726	organism	Neurospora crassa	2
+2943726	sequence	gene	5
+2943726	sequence	mutation	3
+2943726	sequence	allele	1
+2943726	clinical_drug	glutamate	6

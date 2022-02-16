@@ -1,0 +1,15 @@
+27633769	biological_process	virulence	6
+27633769	biological_process	pathogenesis	1
+27633769	biological_process	genetic exchange	1
+27633769	disease	Legionnaires Disease	2
+27633769	disease	infection	2
+27633769	disease	disease	2
+27633769	gene/protein	lp1	2
+27633769	organism	legionella	2
+27633769	organism	Legionella	1
+27633769	organism	lp1	1
+27633769	sequence	genome	2
+27633769	sequence	sequence	2
+27633769	sequence	gene	2
+27633769	sequence	CRISPR	1
+27633769	cell_line	lp1	1

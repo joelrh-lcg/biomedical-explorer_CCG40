@@ -1,0 +1,31 @@
+15025998	biological_process	degradation	1
+15025998	biological_process	flight	1
+15025998	cellular_component	membrane	1
+15025998	cellular_component	soluble	1
+15025998	chemical	peptide	4
+15025998	chemical	proline	4
+15025998	chemical	venom	3
+15025998	chemical	scorpion venom	2
+15025998	chemical	toxin	2
+15025998	chemical	mixture	1
+15025998	chemical	amino acid residue	1
+15025998	chemical	electron	1
+15025998	chemical	proline residue	1
+15025998	chemical	disulfide	1
+15025998	chemical	proteins	1
+15025998	chemical	immunoglobulin	1
+15025998	gene/protein	peptide	8
+15025998	gene/protein	amino acid residue	1
+15025998	molecular_function	immunoglobulin	1
+15025998	organism	scorpion	3
+15025998	organism	Tityus cambridgei	1
+15025998	organism	artificial	1
+15025998	sequence	peptide	4
+15025998	sequence	proline	2
+15025998	sequence	amino acid	1
+15025998	sequence	disulfide	1
+15025998	organ/tissue	venom	2
+15025998	organ/tissue	membrane	2
+15025998	organ/tissue	matrix	1
+15025998	clinical_drug	proline	2
+15025998	clinical_drug	amidate	1

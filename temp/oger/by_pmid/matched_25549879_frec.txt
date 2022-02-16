@@ -1,0 +1,18 @@
+25549879	biological_process	biofilm formation	7
+25549879	biological_process	virulence	3
+25549879	chemical	norspermidine	36
+25549879	chemical	Norspermidine	12
+25549879	chemical	spermidine	8
+25549879	chemical	putrescine	8
+25549879	chemical	cadaverine	8
+25549879	chemical	polyamine	3
+25549879	chemical	virulence factor	1
+25549879	disease	ocular infection	2
+25549879	organism	Staphylococcus epidermidis	2
+25549879	organism	bacillus subtilis	2
+25549879	organism	strain test	1
+25549879	organ/tissue	skin	4
+25549879	organ/tissue	plate	2
+25549879	organ/tissue	lens	2
+25549879	organ/tissue	conjunctiva	1
+25549879	clinical_drug	bacillus subtilis	1

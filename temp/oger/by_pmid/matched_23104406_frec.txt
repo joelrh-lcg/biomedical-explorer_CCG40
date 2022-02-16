@@ -1,0 +1,8 @@
+23104406	biological_process	nutrient uptake	1
+23104406	biological_process	degradation	1
+23104406	biological_process	gene expression	1
+23104406	chemical	nutrient	3
+23104406	organism	bacterium	7
+23104406	sequence	gene	1
+23104406	organ/tissue	gut	6
+23104406	organ/tissue	animal	2

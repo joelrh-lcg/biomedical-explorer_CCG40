@@ -1,0 +1,16 @@
+9811668	cellular_component	chromosome	2
+9811668	gene/protein	Reticulon-4 receptor	4
+9811668	gene/protein	reticulon-4 receptor	1
+9811668	organism	Rhizobium sp. IRc78	1
+9811668	organism	Rhizobium sp.	1
+9811668	organism	Rhizobium sp. SIN-1	1
+9811668	organism	Ensifer sp. BR816	1
+9811668	organism	Rhizobium sp. MPIK3030	1
+9811668	organism	Rhizobium sp. N33	1
+9811668	organism	unidentified plasmid	1
+9811668	sequence	region	3
+9811668	sequence	chromosome	2
+9811668	sequence	gene	2
+9811668	sequence	homologous	2
+9811668	sequence	replicon	1
+9811668	sequence	plasmid	1

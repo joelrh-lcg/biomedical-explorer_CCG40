@@ -1,0 +1,41 @@
+18708506	biological_process	symbiosis	2
+18708506	biological_process	nodule formation	2
+18708506	cellular_component	membrane	1
+18708506	chemical	phosphate	8
+18708506	chemical	phosphatidylcholine	5
+18708506	chemical	phosphatidylethanolamine	4
+18708506	chemical	serine	4
+18708506	chemical	nitrogen	4
+18708506	chemical	cardiolipin	3
+18708506	chemical	phosphatidylserine	3
+18708506	chemical	choline	3
+18708506	chemical	phosphatidylglycerol	2
+18708506	chemical	lipid	2
+18708506	chemical	phosphatidylserine synthase	1
+18708506	chemical	pss	1
+18708506	chemical	phosphatidylserine decarboxylase	1
+18708506	chemical	anionic phospholipid	1
+18708506	chemical	Pss	1
+18708506	chemical	inorganic phosphate	1
+18708506	disease	pss	2
+18708506	disease	Pss	2
+18708506	gene/protein	psd	24
+18708506	gene/protein	Psd	16
+18708506	gene/protein	phosphatidylserine synthase	14
+18708506	gene/protein	pss	4
+18708506	gene/protein	Pss	4
+18708506	gene/protein	lack	1
+18708506	organism	bacterium	7
+18708506	organism	mav	4
+18708506	organism	alfalfa	4
+18708506	organism	Sinorhizobium meliloti	2
+18708506	sequence	wild type	5
+18708506	sequence	serine	1
+18708506	sequence	gene	1
+18708506	sequence	rescue	1
+18708506	organ/tissue	nodule	14
+18708506	organ/tissue	membrane	2
+18708506	clinical_drug	alfalfa	2
+18708506	clinical_drug	nitrogen	2
+18708506	clinical_drug	serine	1
+18708506	clinical_drug	choline	1

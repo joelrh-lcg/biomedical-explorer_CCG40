@@ -1,0 +1,28 @@
+10675620	biological_process	mutagenesis	1
+10675620	biological_process	dna repair	1
+10675620	chemical	methyl methanesulfonate	3
+10675620	chemical	nitrofurantoin	3
+10675620	chemical	amino acid	2
+10675620	chemical	polypeptide	1
+10675620	gene/protein	ruvb	20
+10675620	gene/protein	ruva	12
+10675620	gene/protein	polypeptide	2
+10675620	gene/protein	dna helicase	1
+10675620	organism	bacterium	7
+10675620	organism	Rhizobium etli	2
+10675620	organism	primer	1
+10675620	organism	plasmid	1
+10675620	sequence	motif	4
+10675620	sequence	gene	2
+10675620	sequence	clone	1
+10675620	sequence	primer match	1
+10675620	sequence	amino acid	1
+10675620	sequence	sequence	1
+10675620	sequence	polypeptide	1
+10675620	sequence	homolog	1
+10675620	sequence	construct	1
+10675620	sequence	mutagenesis	1
+10675620	sequence	deficiency	1
+10675620	sequence	homologous	1
+10675620	sequence	plasmid	1
+10675620	clinical_drug	nitrofurantoin	1

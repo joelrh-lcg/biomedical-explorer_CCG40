@@ -1,0 +1,21 @@
+18158297	biological_process	transcription	2
+18158297	biological_process	gene ontology	1
+18158297	biological_process	regulation	1
+18158297	chemical	effector	1
+18158297	chemical	sigma70	1
+18158297	chemical	element	1
+18158297	chemical	riboswitch	1
+18158297	gene/protein	sigma70	38
+18158297	gene/protein	K12	9
+18158297	gene/protein	map	6
+18158297	gene/protein	rna	4
+18158297	gene/protein	add	3
+18158297	molecular_function	transcription factor	1
+18158297	organism	Escherichia coli K12	1
+18158297	sequence	gene	2
+18158297	sequence	promoter	2
+18158297	sequence	riboswitch	1
+18158297	sequence	attenuator	1
+18158297	cell_line	K12	2
+18158297	organ/tissue	organism	1
+18158297	organ/tissue	element	1

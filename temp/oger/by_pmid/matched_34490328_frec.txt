@@ -1,0 +1,31 @@
+34490328	biological_process	fermentation	2
+34490328	biological_process	synthesis	1
+34490328	cellular_component	enzyme complex	1
+34490328	chemical	lactic acid	6
+34490328	chemical	carbohydrate	3
+34490328	chemical	starch	3
+34490328	chemical	hemicellulose	3
+34490328	chemical	cellulose	3
+34490328	chemical	acetoin	3
+34490328	chemical	nitrogen	2
+34490328	chemical	proteins	2
+34490328	chemical	carbon	2
+34490328	chemical	amino acid	2
+34490328	chemical	lipid	1
+34490328	chemical	bacterial proteins	1
+34490328	chemical	yeast proteins	1
+34490328	chemical	organic acid	1
+34490328	chemical	butanediol	1
+34490328	chemical	fatty acid	1
+34490328	organism	bacterium	7
+34490328	organism	yeast	1
+34490328	organism	filamentous fungus	1
+34490328	organism	unknown	1
+34490328	sequence	intermediate	1
+34490328	sequence	amino acid	1
+34490328	clinical_drug	nitrogen	1
+34490328	clinical_drug	lactic acid	1
+34490328	clinical_drug	yeast	1
+34490328	clinical_drug	starch	1
+34490328	clinical_drug	cellulose	1
+34490328	molecular_process	hydrolysis	1

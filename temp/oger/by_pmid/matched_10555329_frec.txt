@@ -1,0 +1,20 @@
+10555329	chemical	melanin	3
+10555329	chemical	affinis	2
+10555329	chemical	rrna	1
+10555329	gene/protein	bean	6
+10555329	gene/protein	nifH	1
+10555329	organism	Rhizobium etli	2
+10555329	organism	Mimosa	1
+10555329	organism	Phaseolus vulgari	1
+10555329	organism	plasmid	1
+10555329	organism	Rhizobium	1
+10555329	organism	common bean plant	1
+10555329	organism	mimosa	1
+10555329	organism	Leucaena leucocephala	1
+10555329	sequence	rflp	1
+10555329	sequence	rrna gene	1
+10555329	sequence	plasmid	1
+10555329	sequence	gene	1
+10555329	sequence	sequence	1
+10555329	cell_line	bean	2
+10555329	organ/tissue	nodule	4

@@ -1,0 +1,12 @@
+33635432	chemical	antimicrobial agent	1
+33635432	gene/protein	phi	1818
+33635432	gene/protein	gap	2
+33635432	organism	bacterium	14
+33635432	organism	bacteriophage	4
+33635432	organism	phage	4
+33635432	organism	Acinetobacter baumannii	2
+33635432	organism	Acinetobacter	1
+33635432	sequence	phage	4
+33635432	sequence	bacteriophage	2
+33635432	sequence	gap	1
+33635432	cell_line	phi	3

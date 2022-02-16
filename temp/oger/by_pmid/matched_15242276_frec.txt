@@ -1,0 +1,19 @@
+15242276	biological_process	symbiosis	1
+15242276	gene/protein	map	6
+15242276	gene/protein	ngr	5
+15242276	gene/protein	orf	2
+15242276	organism	Rhizobium sp	6
+15242276	organism	Bradyrhizobium japonicum	2
+15242276	organism	Mesorhizobium loti	2
+15242276	organism	Rhizobium leguminosarum	2
+15242276	organism	rhizobium etli	2
+15242276	organism	sinorhizobium	1
+15242276	organism	melilotus	1
+15242276	organism	plasmid	1
+15242276	sequence	genome	2
+15242276	sequence	sequence	2
+15242276	sequence	open reading frame	1
+15242276	sequence	orf	1
+15242276	sequence	gene	1
+15242276	sequence	promoter	1
+15242276	sequence	plasmid	1

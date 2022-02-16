@@ -1,0 +1,6 @@
+25302567	chemical	antibiotic	6
+25302567	organism	plasmid	11
+25302567	organism	Pseudomonas aeruginosa	2
+25302567	sequence	plasmid	11
+25302567	molecular_process	reduction	1
+25302567	entity_type	term	2

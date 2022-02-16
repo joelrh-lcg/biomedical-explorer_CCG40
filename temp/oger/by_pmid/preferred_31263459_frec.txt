@@ -1,0 +1,21 @@
+31263459	biological_process	nodulation	1
+31263459	chemical	nucleotide	1
+31263459	chemical	atom	1
+31263459	gene/protein	anillin (fruit fly)	1
+31263459	organism	bacterium IFAM-3211	2
+31263459	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+31263459	organism	bacterium IFAM-3215	2
+31263459	organism	bacterium IFAM-2074	2
+31263459	organism	bacterium IFAM-3359	2
+31263459	organism	bacterium	2
+31263459	organism	bacterium IFAM-1493	2
+31263459	organism	Bradyrhizobiaceae	1
+31263459	organism	unidentified plasmid	1
+31263459	sequence	genome	3
+31263459	sequence	region	2
+31263459	sequence	gene	2
+31263459	sequence	plasmid	1
+31263459	sequence	mobile_genetic_element	1
+31263459	organ/tissue	cerebellum vermis lobule X	1
+31263459	organ/tissue	germinal center	1
+31263459	organ/tissue	organ	1

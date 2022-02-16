@@ -1,0 +1,17 @@
+33925391	cellular_component	protein	1
+33925391	chemical	outer surface protein a	2
+33925391	chemical	16s rrna	1
+33925391	chemical	cluster	1
+33925391	chemical	base	1
+33925391	disease	outer surface protein a	1
+33925391	gene/protein	outer surface protein a	10
+33925391	gene/protein	impact	2
+33925391	gene/protein	for ii	1
+33925391	organism	tick	5
+33925391	organism	Borrelia	1
+33925391	organism	outer surface protein a	1
+33925391	sequence	vector	3
+33925391	sequence	sequence	3
+33925391	sequence	16s rrna	1
+33925391	sequence	protein	1
+33925391	sequence	base	1

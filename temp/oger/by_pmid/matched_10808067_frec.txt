@@ -1,0 +1,16 @@
+10808067	biological_process	regeneration	1
+10808067	biological_process	organogenesis	1
+10808067	biological_process	somatic embryogenesis	1
+10808067	chemical	kinetin	6
+10808067	chemical	1naphthaleneacetic acid	3
+10808067	chemical	procera	2
+10808067	chemical	NAA	2
+10808067	chemical	ester	1
+10808067	chemical	acid	1
+10808067	gene/protein	ssp	4
+10808067	organism	Valeriana	1
+10808067	organism	Valeriana edulis	1
+10808067	organ/tissue	embryo	3
+10808067	organ/tissue	ssp	1
+10808067	organ/tissue	embryogenesis	1
+10808067	clinical_drug	kinetin	2

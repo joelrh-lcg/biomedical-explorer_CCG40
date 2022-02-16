@@ -1,0 +1,29 @@
+7896698	biological_process	nitrogen fixation	1
+7896698	biological_process	gene expression	1
+7896698	biological_process	synthesis	1
+7896698	cellular_component	protein	2
+7896698	chemical	protein	4
+7896698	chemical	nitrogen	2
+7896698	chemical	nucleotide	2
+7896698	chemical	rna polymerase sigma 54	1
+7896698	chemical	oxygen	1
+7896698	chemical	rna polymerase	1
+7896698	gene/protein	rna	4
+7896698	gene/protein	protein	2
+7896698	gene/protein	omega	1
+7896698	organism	Bradyrhizobium japonicum	2
+7896698	organism	primer	1
+7896698	sequence	promoter	6
+7896698	sequence	transcript	4
+7896698	sequence	mutation	3
+7896698	sequence	protein	2
+7896698	sequence	operon	2
+7896698	sequence	downstream	2
+7896698	sequence	promoter region	2
+7896698	sequence	gene	1
+7896698	sequence	primer	1
+7896698	sequence	upstream	1
+7896698	organ/tissue	nodule	2
+7896698	organ/tissue	extension	1
+7896698	clinical_drug	nitrogen	1
+7896698	clinical_drug	oxygen	1

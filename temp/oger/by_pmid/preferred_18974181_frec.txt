@@ -1,0 +1,14 @@
+18974181	biological_process	biological regulation	1
+18974181	biological_process	obsolete Gene_Ontology	1
+18974181	biological_process	obsolete electron transport	1
+18974181	biological_process	respiratory electron transport chain	1
+18974181	chemical	electron	1
+18974181	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+18974181	gene/protein	ribonuclease I	1
+18974181	organism	Escherichia coli	12
+18974181	sequence	genome	5
+18974181	sequence	gene	2
+18974181	sequence	engineered_region	1
+18974181	organ/tissue	webbed interdigital region	2
+18974181	molecular_process	electron transfer	1
+18974181	entity_type	preferred_term	4

@@ -1,0 +1,39 @@
+18312393	biological_process	biosynthetic process	1
+18312393	biological_process	behavior	1
+18312393	biological_process	defense response	1
+18312393	cellular_component	viral nucleocapsid	1
+18312393	chemical	LPS with O-antigen	7
+18312393	chemical	lipopolysaccharide	7
+18312393	chemical	1-acyl-sn-glycero-3-phosphoserine	6
+18312393	chemical	O Antigens	4
+18312393	chemical	O-polysaccharide	2
+18312393	chemical	O antigen	2
+18312393	chemical	N,N'-bis(4-azidobenzoyl)cystine	2
+18312393	chemical	antimicrobial agent	2
+18312393	chemical	6-methoxybenzoxazolinone	2
+18312393	chemical	Adenosine Triphosphatases	1
+18312393	chemical	GDP-alpha-D-mannose	1
+18312393	chemical	LPS core	1
+18312393	disease	Van der Woude syndrome	7
+18312393	disease	Disease Susceptibility	2
+18312393	disease	COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	1
+18312393	gene/protein	Toll-like receptor 4 (mouse)	7
+18312393	gene/protein	Toll-like receptor 4	7
+18312393	gene/protein	Inorganic triphosphatase	1
+18312393	gene/protein	Triphosphate tunnel metalloenzyme 3	1
+18312393	gene/protein	protein SMG8	1
+18312393	gene/protein	ATP-binding cassette sub-family A member 2 (mouse)	1
+18312393	gene/protein	ATP-binding cassette sub-family A member 2	1
+18312393	gene/protein	ATP-binding cassette sub-family A member 2 (human)	1
+18312393	gene/protein	ATP-binding cassette transporter abc2 (Schizosaccharomyces pombe 972h-)	1
+18312393	gene/protein	ATP-binding cassette sub-family A member 2 (rat)	1
+18312393	gene/protein	protein SMG8 (human)	1
+18312393	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+18312393	gene/protein	modification methylase MboIA (Moraxella bovis)	1
+18312393	organism	Zea mays	8
+18312393	organism	Rhizobium tropici	3
+18312393	organism	Pseudarthrobacter sulfonivorans	1
+18312393	sequence	transposable_element	1
+18312393	sequence	gene	1
+18312393	sequence	sequence_variant_obs	1
+18312393	cell	band form neutrophil	3

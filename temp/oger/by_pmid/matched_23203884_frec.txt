@@ -1,0 +1,14 @@
+23203884	biological_process	regulation	2
+23203884	biological_process	transcription	1
+23203884	chemical	base	1
+23203884	chemical	element	1
+23203884	gene/protein	K12	9
+23203884	gene/protein	past 2	4
+23203884	organism	Escherichia coli K12	1
+23203884	organism	collection	1
+23203884	sequence	regulatory region	2
+23203884	sequence	base	1
+23203884	sequence	transcription start site	1
+23203884	sequence	gene	1
+23203884	cell_line	K12	2
+23203884	organ/tissue	element	1

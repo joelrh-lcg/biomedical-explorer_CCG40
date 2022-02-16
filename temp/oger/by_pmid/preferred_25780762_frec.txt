@@ -1,0 +1,18 @@
+25780762	chemical	Anti-Bacterial Agents	6
+25780762	chemical	antimicrobial agent	3
+25780762	chemical	Azithromycin	2
+25780762	chemical	Cefixime	2
+25780762	chemical	azithromycin	1
+25780762	chemical	cefixime	1
+25780762	disease	Gonorrhea	2
+25780762	disease	Infections	2
+25780762	disease	Sexually Transmitted Diseases	2
+25780762	gene/protein	protein STICHEL (Arabidopsis thaliana)	1
+25780762	gene/protein	Alanine--tRNA ligase, cytoplasmic	1
+25780762	organism	Neisseria gonorrhoeae	2
+25780762	sequence	genome	1
+25780762	sequence	region	1
+25780762	sequence	sequence_variant_obs	1
+25780762	organ/tissue	eyeball of camera-type eye	1
+25780762	clinical_drug	Azithromycin	1
+25780762	clinical_drug	Cefixime	1

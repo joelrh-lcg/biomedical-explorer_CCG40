@@ -1,0 +1,21 @@
+19291210	biological_process	secondary metabolic process	1
+19291210	gene/protein	Streptopain	7
+19291210	gene/protein	minor histocompatibility antigen H13	1
+19291210	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+19291210	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+19291210	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+19291210	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+19291210	gene/protein	minor histocompatibility antigen H13 (human)	1
+19291210	gene/protein	sphingosine-1-phosphate phosphatase	1
+19291210	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+19291210	gene/protein	SD07518p (fruit fly)	1
+19291210	molecular_function	obsolete signal peptide peptidase activity	1
+19291210	organism	Pseudomonas	2
+19291210	organism	bacterium IFAM-3211	1
+19291210	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+19291210	organism	bacterium IFAM-3215	1
+19291210	organism	bacterium IFAM-2074	1
+19291210	organism	bacterium IFAM-3359	1
+19291210	organism	bacterium	1
+19291210	organism	bacterium IFAM-1493	1
+19291210	entity_type	preferred_term	2

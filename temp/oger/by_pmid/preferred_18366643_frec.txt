@@ -1,0 +1,2 @@
+18366643	organism	Escherichia coli	2
+18366643	organ/tissue	multicellular organism	2

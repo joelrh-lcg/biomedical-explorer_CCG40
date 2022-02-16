@@ -1,0 +1,4 @@
+25468217	sequence	genome	3
+25468217	sequence	region	1
+25468217	organ/tissue	multicellular organism	1
+25468217	clinical_drug	Align	1

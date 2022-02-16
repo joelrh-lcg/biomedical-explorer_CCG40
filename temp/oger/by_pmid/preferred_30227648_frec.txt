@@ -1,0 +1,41 @@
+30227648	biological_process	gene expression	1
+30227648	biological_process	heart development	1
+30227648	biological_process	signal transduction	1
+30227648	biological_process	signaling	1
+30227648	chemical	MicroRNAs	2
+30227648	chemical	RNA, Long Noncoding	2
+30227648	chemical	RNA, Untranslated	1
+30227648	chemical	molecule	1
+30227648	chemical	protein	1
+30227648	chemical	modulator	1
+30227648	chemical	Receptors, Opioid	1
+30227648	chemical	picloram	1
+30227648	disease	Retinal Nonattachment, Nonsyndromic Congenital	3
+30227648	disease	Cardiovascular Diseases	2
+30227648	disease	Coronary Artery Disease	2
+30227648	disease	Myocardial Infarction	2
+30227648	disease	Disease	2
+30227648	gene/protein	Probable cinnamyl alcohol dehydrogenase	9
+30227648	gene/protein	DNA fragmentation factor subunit beta	4
+30227648	gene/protein	Cis-aconitate decarboxylase	4
+30227648	gene/protein	ribonuclease I (Escherichia coli K-12)	3
+30227648	gene/protein	ribonuclease I	3
+30227648	gene/protein	caldesmon (chicken)	1
+30227648	gene/protein	DNA fragmentation factor subunit beta (mouse)	1
+30227648	gene/protein	cinnamyl alcohol dehydrogenase 4 (Arabidopsis thaliana)	1
+30227648	gene/protein	CAD protein	1
+30227648	gene/protein	CAD protein (mouse)	1
+30227648	gene/protein	DNA fragmentation factor subunit beta (rat)	1
+30227648	gene/protein	DNA fragmentation factor subunit beta (human)	1
+30227648	gene/protein	CAD protein (human)	1
+30227648	gene/protein	caldesmon	1
+30227648	gene/protein	immune-responsive gene 1 protein	1
+30227648	gene/protein	caldesmon (human)	1
+30227648	gene/protein	Glutaryl-7-aminocephalosporanic-acid acylase	1
+30227648	gene/protein	homeotic protein caudal (fruit fly)	1
+30227648	sequence	ncRNA	5
+30227648	sequence	miRNA	2
+30227648	sequence	gene	1
+30227648	cell	cardiac muscle cell	1
+30227648	cell_line	CAD	1
+30227648	organ/tissue	coronary artery	1

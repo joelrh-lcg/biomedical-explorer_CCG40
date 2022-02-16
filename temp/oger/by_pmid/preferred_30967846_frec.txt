@@ -1,0 +1,38 @@
+30967846	biological_process	fermentation	2
+30967846	biological_process	biosynthetic process	1
+30967846	chemical	Anti-Bacterial Agents	2
+30967846	chemical	nutrient	1
+30967846	chemical	RNA, Ribosomal, 16S	1
+30967846	chemical	electron	1
+30967846	chemical	positron	1
+30967846	chemical	cluster	1
+30967846	chemical	vitamin	1
+30967846	chemical	antimicrobial agent	1
+30967846	chemical	antioxidant	1
+30967846	disease	Gastrointestinal Diseases	2
+30967846	gene/protein	Serum amyloid P-component	8
+30967846	gene/protein	dynamin-binding protein (human)	3
+30967846	gene/protein	tubulin alpha chain (Dictyostelium discoideum)	3
+30967846	gene/protein	dynamin-binding protein (mouse)	3
+30967846	gene/protein	dynamin-binding protein	3
+30967846	gene/protein	dynamin-binding protein (rat)	3
+30967846	gene/protein	lens fiber major intrinsic protein	1
+30967846	gene/protein	paralemmin-1 (mouse)	1
+30967846	gene/protein	lens fiber major intrinsic protein (mouse)	1
+30967846	gene/protein	paralemmin-1 (rat)	1
+30967846	gene/protein	syntaxin-1A (rat)	1
+30967846	gene/protein	transcriptional regulator STERILE APETALA (Arabidopsis thaliana)	1
+30967846	gene/protein	serum amyloid P-component (mouse)	1
+30967846	gene/protein	Sperm-activating peptide	1
+30967846	gene/protein	serum amyloid P-component	1
+30967846	gene/protein	SH2 domain-containing protein 1A (human)	1
+30967846	gene/protein	serum amyloid P-component (rat)	1
+30967846	gene/protein	SH2 domain-containing protein 1A	1
+30967846	gene/protein	S-layer protein	1
+30967846	gene/protein	transient receptor potential cation channel TRPV1 isoform 1	1
+30967846	organism	Derris trifoliata	3
+30967846	organism	collection	1
+30967846	sequence	rRNA_16S	1
+30967846	sequence	rRNA_gene	1
+30967846	sequence	gene	1
+30967846	organ/tissue	palmar part of manus	2

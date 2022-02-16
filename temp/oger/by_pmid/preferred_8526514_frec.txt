@@ -1,0 +1,31 @@
+8526514	biological_process	nodulation	2
+8526514	biological_process	tricarboxylic acid cycle	1
+8526514	cellular_component	chromosome	1
+8526514	chemical	Citrate (si)-Synthase	5
+8526514	chemical	Complement System Proteins	1
+8526514	gene/protein	Citrate synthase	260
+8526514	gene/protein	2-methylcitrate synthase	35
+8526514	gene/protein	Citrate/2-methylcitrate synthase	5
+8526514	gene/protein	citrate synthase	5
+8526514	molecular_function	citrate (Si)-synthase activity	1
+8526514	molecular_function	citrate synthase activity	1
+8526514	organism	Rhizobium tropici	2
+8526514	organism	Escherichia coli	2
+8526514	organism	unidentified plasmid	1
+8526514	organism	bacterium IFAM-3211	1
+8526514	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+8526514	organism	bacterium IFAM-3215	1
+8526514	organism	bacterium IFAM-2074	1
+8526514	organism	bacterium IFAM-3359	1
+8526514	organism	bacterium	1
+8526514	organism	bacterium IFAM-1493	1
+8526514	sequence	gene	6
+8526514	sequence	region	2
+8526514	sequence	chromosome	1
+8526514	sequence	plasmid	1
+8526514	sequence	polypeptide_structural_region	1
+8526514	sequence	regulatory_region	1
+8526514	sequence	regulatory_region_variant	1
+8526514	sequence	double	1
+8526514	organ/tissue	cerebellum vermis lobule X	3
+8526514	organ/tissue	germinal center	3

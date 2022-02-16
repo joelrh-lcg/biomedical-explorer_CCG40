@@ -1,0 +1,33 @@
+15388727	cellular_component	obsolete protein	1
+15388727	chemical	polychlorobiphenyl	2
+15388727	chemical	Coffee	2
+15388727	chemical	fatty acid	2
+15388727	chemical	pentachlorobenzene	1
+15388727	chemical	RNA, Ribosomal, 16S	1
+15388727	chemical	protein	1
+15388727	chemical	(protein)	1
+15388727	chemical	hexadecenoic acid	1
+15388727	chemical	hexadec-9-enoic acid	1
+15388727	chemical	hexadecanoic acid	1
+15388727	gene/protein	Pyruvate carboxylase	6
+15388727	gene/protein	Pyruvate carboxylase, mitochondrial	4
+15388727	gene/protein	intron-encoded endonuclease I-SceI (yeast)	2
+15388727	gene/protein	16 kDa beta-galactoside-binding lectin	2
+15388727	gene/protein	pyruvate carboxylase, mitochondrial	1
+15388727	gene/protein	Plastocyanin B, chloroplastic	1
+15388727	gene/protein	protein	1
+15388727	gene/protein	cardiolipin synthase A	1
+15388727	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+15388727	gene/protein	AT07979p1 (fruit fly)	1
+15388727	organism	Paraburkholderia xenovorans	7
+15388727	organism	Burkholderia	3
+15388727	organism	Paraburkholderia graminis	2
+15388727	organism	Paraburkholderia terricola	2
+15388727	organism	Coffea arabica	1
+15388727	sequence	region	2
+15388727	sequence	PCB	1
+15388727	sequence	rRNA_16S	1
+15388727	sequence	rRNA_gene	1
+15388727	sequence	polypeptide	1
+15388727	cell_line	C16	2
+15388727	organ/tissue	multicellular organism	2

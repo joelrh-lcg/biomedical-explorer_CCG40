@@ -1,0 +1,19 @@
+27724938	biological_process	behaviour	2
+27724938	chemical	endocrine	1
+27724938	disease	malaria	4
+27724938	disease	nervous system	2
+27724938	disease	endocrine system	2
+27724938	gene/protein	spp	16
+27724938	gene/protein	to human	1
+27724938	molecular_function	spp	1
+27724938	organism	Anopheles	56
+27724938	organism	Plasmodium	46
+27724938	organism	mosquito	4
+27724938	organism	parasite	4
+27724938	organism	Plasmodium berghei	2
+27724938	organism	human	1
+27724938	sequence	vector	1
+27724938	organ/tissue	brain	2
+27724938	organ/tissue	the brain	1
+27724938	organ/tissue	nervous system	1
+27724938	organ/tissue	endocrine system	1

@@ -1,0 +1,27 @@
+15640222	chemical	Acetylene	4
+15640222	chemical	ethylene	3
+15640222	chemical	base	2
+15640222	chemical	acetylene	2
+15640222	chemical	2,6-diisopropylnaphthalene	2
+15640222	chemical	RNA, Ribosomal, 16S	2
+15640222	chemical	Nitrogen-15	2
+15640222	chemical	sulfur atom	1
+15640222	chemical	ribosomal RNA	1
+15640222	chemical	ethylene group	1
+15640222	chemical	ethene	1
+15640222	gene/protein	Protochlorophyllide reductase, chloroplastic	5
+15640222	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	3
+15640222	gene/protein	Light-dependent protochlorophyllide reductase	2
+15640222	gene/protein	Protochlorophyllide reductase	1
+15640222	organism	Frankia	3
+15640222	organism	Casuarina equisetifolia	1
+15640222	organism	Actinobacteria	1
+15640222	organism	Micromonosporaceae	1
+15640222	sequence	region	3
+15640222	sequence	base	2
+15640222	sequence	rRNA_16S	2
+15640222	sequence	rRNA_gene	2
+15640222	sequence	rRNA	1
+15640222	sequence	gene	1
+15640222	clinical_drug	Ethylene	1
+15640222	molecular_process	acetylene reduction	1

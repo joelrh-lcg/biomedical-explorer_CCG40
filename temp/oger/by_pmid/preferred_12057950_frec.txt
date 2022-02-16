@@ -1,0 +1,33 @@
+12057950	biological_process	biosynthetic process	1
+12057950	biological_process	symbiotic process	1
+12057950	cellular_component	obsolete protein	2
+12057950	chemical	Cyclic AMP	2
+12057950	chemical	Adenosine Triphosphate	2
+12057950	chemical	protein	2
+12057950	chemical	(protein)	2
+12057950	chemical	Hydrogen Peroxide	2
+12057950	chemical	Adenylyl Cyclases	1
+12057950	chemical	3',5'-cyclic AMP	1
+12057950	chemical	ATP(4-)	1
+12057950	chemical	ATP	1
+12057950	chemical	hydroperoxide	1
+12057950	chemical	ROOH	1
+12057950	gene/protein	Adenylate cyclase	26
+12057950	gene/protein	adenylate cyclase	4
+12057950	gene/protein	adenylate cyclase (Escherichia coli K-12)	3
+12057950	gene/protein	calmodulin-sensitive adenylate cyclase (Bacillus anthracis)	3
+12057950	gene/protein	protein	2
+12057950	organism	Escherichia coli	6
+12057950	organism	Rhizobium etli	2
+12057950	organism	Mesorhizobium loti	2
+12057950	organism	Sinorhizobium meliloti	2
+12057950	organism	Xanthomonas campestris	2
+12057950	organism	unidentified	1
+12057950	organism	Agrobacterium	1
+12057950	organism	Xanthomonas citri	1
+12057950	sequence	gene	5
+12057950	sequence	polypeptide	2
+12057950	sequence	fusion	1
+12057950	sequence	genome	1
+12057950	cell_line	OHR	1
+12057950	clinical_drug	Adenosine Triphosphate	1

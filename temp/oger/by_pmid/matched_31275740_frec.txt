@@ -1,0 +1,11 @@
+31275740	chemical	base	2
+31275740	chemical	16s rrna	1
+31275740	disease	disease	2
+31275740	disease	bacterial skin	2
+31275740	organism	amphibian	4
+31275740	sequence	base	2
+31275740	sequence	16s rrna	1
+31275740	sequence	rrna gene	1
+31275740	sequence	amplicon	1
+31275740	organ/tissue	skin	28
+31275740	organ/tissue	scale	1

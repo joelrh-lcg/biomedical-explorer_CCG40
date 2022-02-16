@@ -1,0 +1,35 @@
+11523004	biological_process	homeostatic process	1
+11523004	cellular_component	obsolete protein	1
+11523004	chemical	protein	5
+11523004	chemical	(protein)	1
+11523004	gene/protein	Hypertrehalosaemic hormone	12
+11523004	gene/protein	protein HOTHEAD (Arabidopsis thaliana)	3
+11523004	gene/protein	tyrosine 3-monooxygenase (human)	3
+11523004	gene/protein	homeobox protein homothorax (fruit fly)	3
+11523004	gene/protein	Transcriptional regulator	2
+11523004	gene/protein	protein	1
+11523004	gene/protein	multiple antibiotic resistance protein MarR	1
+11523004	gene/protein	multiple antibiotic resistance protein MarR (Escherichia coli K-12)	1
+11523004	gene/protein	regulatory protein AsnC (Escherichia coli K-12)	1
+11523004	gene/protein	regulatory protein AsnC	1
+11523004	gene/protein	transcriptional activator protein LysR	1
+11523004	gene/protein	transcriptional activator protein LysR (Escherichia coli K-12)	1
+11523004	organism	bacterium IFAM-3211	5
+11523004	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	5
+11523004	organism	bacterium IFAM-3215	5
+11523004	organism	bacterium IFAM-2074	5
+11523004	organism	bacterium IFAM-3359	5
+11523004	organism	bacterium	5
+11523004	organism	bacterium IFAM-1493	5
+11523004	organism	Escherichia coli	2
+11523004	organism	collection	1
+11523004	organism	Archaea	1
+11523004	sequence	polypeptide_conserved_motif	4
+11523004	sequence	polypeptide_motif	4
+11523004	sequence	helix_turn_helix	3
+11523004	sequence	polypeptide_DNA_contact	1
+11523004	sequence	sequence_comparison	1
+11523004	sequence	genome	1
+11523004	sequence	polypeptide	1
+11523004	sequence	region	1
+11523004	sequence	gene	1

@@ -1,0 +1,6 @@
+33717711	biological_process	immune response	1
+33717711	cellular_component	ribosome	1
+33717711	chemical	proteins	1
+33717711	gene/protein	rip	17
+33717711	gene/protein	wasp	4
+33717711	organism	wasp	1

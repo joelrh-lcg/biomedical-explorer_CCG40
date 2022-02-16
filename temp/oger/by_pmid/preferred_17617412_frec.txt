@@ -1,0 +1,30 @@
+17617412	biological_process	transcription, DNA-templated	3
+17617412	biological_process	transport	1
+17617412	biological_process	cellular metabolic process	1
+17617412	biological_process	regulation of transcription, DNA-templated	1
+17617412	biological_process	cellular process	1
+17617412	biological_process	DNA replication	1
+17617412	cellular_component	cell projection	1
+17617412	chemical	effector	7
+17617412	chemical	metabolite	2
+17617412	gene/protein	Keratin, type I cytoskeletal 12	4
+17617412	gene/protein	secreted and transmembrane protein 1	1
+17617412	gene/protein	secreted and transmembrane protein 1 (human)	1
+17617412	gene/protein	secreted and transmembrane protein 1b	1
+17617412	gene/protein	keratin, type I cytoskeletal 12	1
+17617412	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+17617412	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	3
+17617412	organism	Escherichia coli	2
+17617412	organism	collection	1
+17617412	organism	Escherichia coli K12	1
+17617412	organism	Salmonella	1
+17617412	sequence	gene	6
+17617412	sequence	transit_peptide	3
+17617412	sequence	signal_peptide	3
+17617412	sequence	genome	2
+17617412	sequence	orthologous	1
+17617412	sequence	polypeptide_domain	1
+17617412	cell_line	K12 [Mouse osteosarcoma]	1
+17617412	cell_line	K12-72.1	1
+17617412	organ/tissue	scale	1
+17617412	organ/tissue	multicellular organism	1

@@ -1,0 +1,9 @@
+14597655	biological_process	regulation	1
+14597655	chemical	base	1
+14597655	chemical	effector	1
+14597655	chemical	metabolite	1
+14597655	chemical	proteins	1
+14597655	organism	Escherichia coli	2
+14597655	organism	e coli	2
+14597655	sequence	base	1
+14597655	sequence	operon	1

@@ -1,0 +1,11 @@
+34066536	biological_process	defense response	3
+34066536	chemical	fungicide	3
+34066536	chemical	gadolinium	3
+34066536	chemical	calcium	2
+34066536	chemical	element	1
+34066536	gene/protein	cope	1
+34066536	organism	synthetic	2
+34066536	organism	Plant food	1
+34066536	organism	fungus	1
+34066536	organ/tissue	element	1
+34066536	clinical_drug	calcium	1

@@ -1,0 +1,18 @@
+33177665	gene/protein	Synaptosomal-associated protein 25	10
+33177665	gene/protein	transcriptional regulator SUPERMAN (Arabidopsis thaliana)	2
+33177665	gene/protein	synaptosomal-associated protein 25	2
+33177665	gene/protein	mast/stem cell growth factor receptor kita (zebrafish)	1
+33177665	gene/protein	granzyme C	1
+33177665	gene/protein	Ectonucleotide pyrophosphatase/phosphodiesterase family member 3	1
+33177665	gene/protein	Granzyme C	1
+33177665	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+33177665	gene/protein	extracellular adherence protein	1
+33177665	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+33177665	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+33177665	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+33177665	gene/protein	methionine aminopeptidase	1
+33177665	organism	Birds	1
+33177665	sequence	genome	5
+33177665	sequence	region	1
+33177665	sequence	orthologous_region	1
+33177665	sequence	double	1

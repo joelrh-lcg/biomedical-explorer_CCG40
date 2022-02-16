@@ -1,0 +1,42 @@
+29083947	cellular_component	obsolete protein	5
+29083947	cellular_component	membrane	2
+29083947	cellular_component	outer membrane	1
+29083947	cellular_component	vesicle	1
+29083947	chemical	protein	11
+29083947	chemical	(protein)	5
+29083947	chemical	peptide	3
+29083947	chemical	Antigens	2
+29083947	chemical	4CMenB vaccine	2
+29083947	chemical	pharmaceutical	1
+29083947	chemical	lipid	1
+29083947	chemical	ligand	1
+29083947	chemical	acid	1
+29083947	chemical	N-acetyldopamine	1
+29083947	chemical	glycol nucleic acid	1
+29083947	chemical	antigen	1
+29083947	gene/protein	protein	5
+29083947	gene/protein	proteolytic cleavage product	3
+29083947	gene/protein	amino acid chain	3
+29083947	gene/protein	probable iron export ATP-binding protein FetA (Escherichia coli K-12)	1
+29083947	gene/protein	phospholipid-transporting ATPase FetA	1
+29083947	gene/protein	phospholipid-transporting ATPase FetA (mouse)	1
+29083947	gene/protein	protochlorophyllide reductase A, chloroplastic (Arabidopsis thaliana)	1
+29083947	gene/protein	mitochondrial outer membrane protein porin (Dictyostelium discoideum)	1
+29083947	gene/protein	protochlorophyllide reductase B, chloroplastic (Arabidopsis thaliana)	1
+29083947	gene/protein	Outer membrane protein class 4	1
+29083947	gene/protein	quinolinate synthase A	1
+29083947	gene/protein	quinolinate synthase A (Escherichia coli K-12)	1
+29083947	molecular_function	binding	1
+29083947	organism	Oat mosaic virus	5
+29083947	organism	Neisseria meningitidis, Serogroup B	1
+29083947	sequence	polypeptide	5
+29083947	sequence	active_peptide	3
+29083947	sequence	genome	2
+29083947	sequence	tandem	1
+29083947	sequence	GNA	1
+29083947	sequence	gene	1
+29083947	organ/tissue	membrane organ	3
+29083947	organ/tissue	membranous layer	3
+29083947	clinical_drug	TANDEM	1
+29083947	clinical_drug	Bexsero	1
+29083947	clinical_drug	Trumenba	1

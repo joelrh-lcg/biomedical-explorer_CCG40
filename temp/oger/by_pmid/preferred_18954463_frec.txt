@@ -1,0 +1,11 @@
+18954463	biological_process	transcription, DNA-templated	1
+18954463	chemical	atom	2
+18954463	chemical	cluster	1
+18954463	chemical	base	1
+18954463	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+18954463	organism	Escherichia coli	2
+18954463	sequence	gene	2
+18954463	sequence	base	1
+18954463	organ/tissue	organ	2
+18954463	organ/tissue	cell layer	1
+18954463	organ/tissue	nervous system cell part layer	1

@@ -1,0 +1,19 @@
+2013564	biological_process	cell localization	1
+2013564	chemical	element	2
+2013564	chemical	nitrogenase	1
+2013564	disease	nod	1
+2013564	gene/protein	nod	45
+2013564	gene/protein	map	6
+2013564	organism	plasmid	3
+2013564	organism	Rhizobium leguminosarum	2
+2013564	organism	cfn42	1
+2013564	organism	Rhizobium	1
+2013564	sequence	sequence	6
+2013564	sequence	plasmid	3
+2013564	sequence	gene	3
+2013564	sequence	physical map	1
+2013564	sequence	circular	1
+2013564	sequence	operon	1
+2013564	sequence	replicon	1
+2013564	sequence	repeat	1
+2013564	organ/tissue	element	2

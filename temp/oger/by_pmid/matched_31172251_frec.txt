@@ -1,0 +1,31 @@
+31172251	biological_process	translation	1
+31172251	biological_process	cell wall biogenesis	1
+31172251	biological_process	carbohydrate metabolism	1
+31172251	biological_process	transport	1
+31172251	biological_process	nodulation	1
+31172251	cellular_component	outer membrane	1
+31172251	cellular_component	vesicle	1
+31172251	cellular_component	protein	1
+31172251	cellular_component	membrane	1
+31172251	cellular_component	cell wall	1
+31172251	chemical	naringenin	12
+31172251	chemical	proteins	7
+31172251	chemical	carbohydrate	3
+31172251	chemical	protein	2
+31172251	chemical	ce3	1
+31172251	chemical	Proteins	1
+31172251	chemical	nodulation factor	1
+31172251	gene/protein	lack	1
+31172251	gene/protein	protein	1
+31172251	molecular_function	binding	1
+31172251	organism	omv	7
+31172251	organism	Rhizobium etli	2
+31172251	organism	somv	2
+31172251	organism	unknown	1
+31172251	sequence	binding site	2
+31172251	sequence	protein	1
+31172251	sequence	promoter	1
+31172251	sequence	gene	1
+31172251	cell_line	ce3	1
+31172251	organ/tissue	membrane	4
+31172251	organ/tissue	wall	1

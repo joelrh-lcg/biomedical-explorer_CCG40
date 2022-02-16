@@ -1,0 +1,18 @@
+26527724	biological_process	transcription	1
+26527724	cellular_component	nucleic acid	1
+26527724	chemical	nucleic acid	1
+26527724	chemical	pathway	1
+26527724	chemical	cluster	1
+26527724	gene/protein	k12	9
+26527724	gene/protein	rna	2
+26527724	molecular_function	transcription factor	1
+26527724	organism	Escherichia coli k12	1
+26527724	organism	collection	1
+26527724	sequence	gene	3
+26527724	sequence	signal	2
+26527724	sequence	nucleic acid	1
+26527724	sequence	operon	1
+26527724	sequence	regulon	1
+26527724	cell_line	k12	2
+26527724	organ/tissue	organism	1
+26527724	organ/tissue	matrix	1

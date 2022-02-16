@@ -1,0 +1,30 @@
+29231872	chemical	Venoms	10
+29231872	chemical	Scorpion Venoms	6
+29231872	chemical	venom	5
+29231872	chemical	peptide	2
+29231872	chemical	Calcium Channels	1
+29231872	chemical	toxin	1
+29231872	chemical	protein	1
+29231872	chemical	molecule	1
+29231872	chemical	Ion Channels	1
+29231872	gene/protein	proteolytic cleavage product	2
+29231872	gene/protein	amino acid chain	2
+29231872	organism	Scorpions	5
+29231872	organism	Hadrurus aztecus	1
+29231872	organism	Centruroides limpidus	1
+29231872	organism	Centruroides noxius	1
+29231872	organism	Centruroides suffusus	1
+29231872	organism	Spiders	1
+29231872	organism	Trachinotus falcatus	1
+29231872	sequence	transcript	5
+29231872	sequence	active_peptide	2
+29231872	sequence	tandem	1
+29231872	sequence	region	1
+29231872	sequence	match	1
+29231872	cell_line	RERF-LC-MS	1
+29231872	organ/tissue	venom	7
+29231872	organ/tissue	snake venom gland	1
+29231872	organ/tissue	venom gland	1
+29231872	organ/tissue	epidermal ridge of digit	1
+29231872	clinical_drug	TANDEM	1
+29231872	clinical_drug	Calcium	1

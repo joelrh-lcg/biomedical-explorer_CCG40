@@ -1,0 +1,22 @@
+27886269	biological_process	virulence	12
+27886269	biological_process	gene expression	1
+27886269	biological_process	regulation	1
+27886269	cellular_component	chromosomal region	2
+27886269	chemical	spi1	12
+27886269	chemical	phoH	1
+27886269	chemical	phoh	1
+27886269	disease	infection	2
+27886269	gene/protein	spi1	54
+27886269	gene/protein	transcriptional regulator hild	2
+27886269	gene/protein	phoH	2
+27886269	gene/protein	phoh	2
+27886269	gene/protein	to human	1
+27886269	organism	bacterium	7
+27886269	organism	Salmonella enterica	2
+27886269	organism	Salmonella	2
+27886269	organism	human	1
+27886269	organism	salmonella	1
+27886269	sequence	gene	12
+27886269	sequence	regulon	1
+27886269	cell_line	spi	6
+27886269	organ/tissue	animal	2

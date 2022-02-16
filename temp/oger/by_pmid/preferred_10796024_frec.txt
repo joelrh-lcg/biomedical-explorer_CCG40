@@ -1,0 +1,32 @@
+10796024	biological_process	export across plasma membrane	2
+10796024	biological_process	export from cell	2
+10796024	biological_process	membrane fusion	1
+10796024	cellular_component	efflux pump complex	2
+10796024	cellular_component	membrane	1
+10796024	chemical	naringenin	3
+10796024	chemical	Anti-Bacterial Agents	2
+10796024	chemical	flavonoids	2
+10796024	chemical	flavonoid	2
+10796024	chemical	phytoalexins	2
+10796024	chemical	Salicylic Acid	2
+10796024	chemical	antimicrobial agent	1
+10796024	chemical	protein	1
+10796024	chemical	phytoalexin	1
+10796024	chemical	salicylic acid	1
+10796024	chemical	Complement System Proteins	1
+10796024	chemical	(S)-naringenin	1
+10796024	gene/protein	Protein BEAN1	4
+10796024	gene/protein	protein BEAN	2
+10796024	organism	Rhizobium etli	2
+10796024	organism	Escherichia coli	2
+10796024	organism	bacterium BE	1
+10796024	organism	Phaseolus	1
+10796024	organism	Phaseolus vulgaris	1
+10796024	sequence	gene	4
+10796024	sequence	fusion	2
+10796024	cell_line	R1192	2
+10796024	organ/tissue	membrane organ	1
+10796024	organ/tissue	membranous layer	1
+10796024	organ/tissue	cerebellum vermis lobule X	1
+10796024	organ/tissue	germinal center	1
+10796024	clinical_drug	Salicylic Acid	1

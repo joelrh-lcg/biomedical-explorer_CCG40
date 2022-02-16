@@ -1,0 +1,26 @@
+22194828	biological_process	sphingolipid metabolic process	1
+22194828	cellular_component	endoplasmic reticulum	2
+22194828	cellular_component	membrane	1
+22194828	cellular_component	plasma membrane	1
+22194828	chemical	Ergosterol	6
+22194828	chemical	picloram	4
+22194828	chemical	sphingolipid	3
+22194828	chemical	ergosterol	3
+22194828	chemical	drug	3
+22194828	chemical	sterol	1
+22194828	disease	Lupus Erythematosus, Systemic	3
+22194828	gene/protein	protein slender lobes (fruit fly)	3
+22194828	gene/protein	myelin-associated glycoprotein	1
+22194828	gene/protein	myelin-associated glycoprotein (human)	1
+22194828	organism	Yeasts	4
+22194828	sequence	polypeptide_domain	1
+22194828	sequence	engineered_region	1
+22194828	cell_line	SLE005	3
+22194828	organ/tissue	ruminant reticulum	2
+22194828	organ/tissue	membrane organ	2
+22194828	organ/tissue	membranous layer	2
+22194828	organ/tissue	bed nucleus of stria terminalis	2
+22194828	organ/tissue	cell layer	1
+22194828	organ/tissue	nervous system cell part layer	1
+22194828	organ/tissue	blood plasma	1
+22194828	clinical_drug	Yeast, Unspecified	4

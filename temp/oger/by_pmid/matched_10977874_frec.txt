@@ -1,0 +1,32 @@
+10977874	biological_process	nodulation	3
+10977874	biological_process	colony morphology	2
+10977874	biological_process	Nodulation	1
+10977874	chemical	ethanol	3
+10977874	chemical	hs2	2
+10977874	chemical	16s rrna	2
+10977874	chemical	rdna	1
+10977874	chemical	oxygen	1
+10977874	chemical	Sn2	1
+10977874	disease	hs2	2
+10977874	gene/protein	hs2	6
+10977874	gene/protein	Sn2	4
+10977874	gene/protein	nifH	1
+10977874	organism	bacterium	7
+10977874	organism	hs2	2
+10977874	organism	Mesorhizobium sp	2
+10977874	organism	Rhizobium	2
+10977874	organism	legume	1
+10977874	organism	rhizobium	1
+10977874	organism	plasmid	1
+10977874	organism	Mesorhizobium	1
+10977874	organism	Sinorhizobium	1
+10977874	sequence	16s rrna	2
+10977874	sequence	rrna gene	2
+10977874	sequence	plasmid	1
+10977874	sequence	rflp	1
+10977874	sequence	gene	1
+10977874	sequence	rdna	1
+10977874	organ/tissue	nodule	4
+10977874	organ/tissue	Sn2	1
+10977874	clinical_drug	oxygen	1
+10977874	clinical_drug	ethanol	1

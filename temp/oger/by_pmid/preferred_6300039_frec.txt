@@ -1,0 +1,21 @@
+6300039	biological_process	biological regulation	1
+6300039	biological_process	biosynthetic process	1
+6300039	chemical	Glutamic Acid	4
+6300039	chemical	glutamate(2-)	2
+6300039	chemical	L-glutamic acid	2
+6300039	chemical	glutamate(1-)	2
+6300039	chemical	glutamic acid	2
+6300039	chemical	Ammonium Compounds	2
+6300039	chemical	nitrogen atom	2
+6300039	chemical	nitrogen(.)	2
+6300039	chemical	Glutamine	2
+6300039	chemical	ammonium	1
+6300039	chemical	nitrate	1
+6300039	chemical	glutamine	1
+6300039	chemical	L-glutamine	1
+6300039	molecular_function	catalytic activity	1
+6300039	organism	Neurospora crassa	2
+6300039	sequence	glutamine	1
+6300039	clinical_drug	Glutamate	2
+6300039	clinical_drug	Nitrogen	2
+6300039	clinical_drug	Glutamine	1

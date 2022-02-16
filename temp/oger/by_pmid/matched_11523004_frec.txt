@@ -1,0 +1,24 @@
+11523004	biological_process	homeostasis	1
+11523004	cellular_component	protein	1
+11523004	chemical	proteins	4
+11523004	chemical	protein	2
+11523004	gene/protein	hth	14
+11523004	gene/protein	HTH	7
+11523004	gene/protein	transcriptional regulator	2
+11523004	gene/protein	marr	2
+11523004	gene/protein	asnc	2
+11523004	gene/protein	lysr	2
+11523004	gene/protein	protein	1
+11523004	organism	bacterium	35
+11523004	organism	Escherichia coli	2
+11523004	organism	collection	1
+11523004	organism	archaea	1
+11523004	sequence	motif	8
+11523004	sequence	hth	2
+11523004	sequence	dna bind	1
+11523004	sequence	sequence comparison	1
+11523004	sequence	genome	1
+11523004	sequence	protein	1
+11523004	sequence	sequence	1
+11523004	sequence	HTH	1
+11523004	sequence	gene	1

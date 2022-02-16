@@ -1,0 +1,13 @@
+3308639	cellular_component	RNA polymerase complex	1
+3308639	chemical	atom	4
+3308639	chemical	Sigma Factor	2
+3308639	chemical	DNA-Directed RNA Polymerases	1
+3308639	gene/protein	type-1 glutamine synthetase 1 (Dictyostelium discoideum)	2
+3308639	gene/protein	glutamine synthetase (Escherichia coli K-12)	2
+3308639	gene/protein	bacterial-type glutamine synthetase	2
+3308639	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+3308639	gene/protein	ribonuclease I	1
+3308639	organism	Escherichia coli	2
+3308639	sequence	promoter	4
+3308639	sequence	gene	2
+3308639	organ/tissue	organ	4

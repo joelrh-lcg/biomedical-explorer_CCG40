@@ -1,0 +1,6 @@
+34238210	biological_process	gene expression	2
+34238210	chemical	base	1
+34238210	gene/protein	path	1
+34238210	sequence	gene	10
+34238210	sequence	signal	2
+34238210	sequence	base	1

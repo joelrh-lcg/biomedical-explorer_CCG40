@@ -1,0 +1,34 @@
+20030724	biological_process	symbiosis	2
+20030724	biological_process	phosphatidylcholine formation	1
+20030724	biological_process	methylation	1
+20030724	chemical	phosphatidylcholine	20
+20030724	chemical	Phosphatidylcholine	10
+20030724	chemical	phospholipid	2
+20030724	chemical	Phospholipid	1
+20030724	chemical	phosphatidylcholine synthase	1
+20030724	chemical	pathway	1
+20030724	disease	pcs	1
+20030724	gene/protein	pcs	16
+20030724	gene/protein	phosphatidylcholine synthase	11
+20030724	gene/protein	pmt	4
+20030724	gene/protein	Pmt	2
+20030724	gene/protein	pmta	1
+20030724	molecular_function	pmt	2
+20030724	molecular_function	Pmt	1
+20030724	organism	bacterium	7
+20030724	organism	Bradyrhizobium sp SEMIA 6144	4
+20030724	organism	Bradyrhizobium japonicum	2
+20030724	organism	USDA 110	2
+20030724	organism	soybean	2
+20030724	organism	Arachis hypogaea	2
+20030724	organism	peanut	2
+20030724	organism	eukaryote	1
+20030724	organism	Bradyrhizobium	1
+20030724	sequence	homologue	1
+20030724	sequence	construct	1
+20030724	sequence	wild type	1
+20030724	organ/tissue	pcs	2
+20030724	organ/tissue	nodule	2
+20030724	clinical_drug	soybean	2
+20030724	clinical_drug	peanut	1
+20030724	molecular_process	methylation	1

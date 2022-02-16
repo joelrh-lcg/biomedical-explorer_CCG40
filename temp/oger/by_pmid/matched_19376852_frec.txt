@@ -1,0 +1,39 @@
+19376852	biological_process	regulation	1
+19376852	biological_process	transcription	1
+19376852	biological_process	dna repair	1
+19376852	biological_process	cell wall degradation	1
+19376852	cellular_component	cell envelope	3
+19376852	cellular_component	protein	3
+19376852	cellular_component	peptidoglycan	1
+19376852	cellular_component	cell wall	1
+19376852	chemical	protein	4
+19376852	chemical	proteins	3
+19376852	chemical	factor a	3
+19376852	chemical	pyridoxine phosphate	3
+19376852	chemical	peptidoglycan	3
+19376852	chemical	sigma factor	2
+19376852	chemical	protein a	2
+19376852	chemical	oxidase	1
+19376852	chemical	exonuclease iii	1
+19376852	chemical	phospholipase d	1
+19376852	gene/protein	phospholipase d	228
+19376852	gene/protein	rpoe	52
+19376852	gene/protein	protein a	11
+19376852	gene/protein	exonuclease iii	5
+19376852	gene/protein	sigma factor a	3
+19376852	gene/protein	rpoh	2
+19376852	gene/protein	xtha	2
+19376852	gene/protein	protein	2
+19376852	molecular_function	dna repair protein	2
+19376852	organism	Rhizobium etli	2
+19376852	organism	unknown	1
+19376852	sequence	gene	5
+19376852	sequence	protein	3
+19376852	sequence	motif	2
+19376852	sequence	regulatory region	2
+19376852	sequence	fusion	1
+19376852	sequence	promoter	1
+19376852	sequence	upstream	1
+19376852	organ/tissue	wall	1
+19376852	clinical_drug	pyridoxine	1
+19376852	molecular_process	alkylation	1

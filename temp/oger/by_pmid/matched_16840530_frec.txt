@@ -1,0 +1,35 @@
+16840530	biological_process	transcription	1
+16840530	biological_process	cellular process	1
+16840530	biological_process	synthesis	1
+16840530	biological_process	transport	1
+16840530	biological_process	SOS response	1
+16840530	biological_process	regulation	1
+16840530	cellular_component	cellular process	1
+16840530	chemical	phosphate	8
+16840530	chemical	ribose	6
+16840530	chemical	arginine	5
+16840530	chemical	amino acid	2
+16840530	chemical	element	1
+16840530	chemical	iron	1
+16840530	gene/protein	trn	24
+16840530	gene/protein	k12	9
+16840530	gene/protein	SOS	1
+16840530	molecular_function	transcription factor	1
+16840530	organism	bacterium	35
+16840530	organism	bacillus subtilis	2
+16840530	organism	Escherichia coli k12	1
+16840530	organism	Archaea	1
+16840530	organism	Eukarya	1
+16840530	organism	bacterium be	1
+16840530	sequence	regulon	2
+16840530	sequence	genome	1
+16840530	sequence	target gene	1
+16840530	sequence	arginine	1
+16840530	sequence	amino acid	1
+16840530	cell_line	k12	2
+16840530	organ/tissue	trn	6
+16840530	organ/tissue	organism	2
+16840530	organ/tissue	element	1
+16840530	clinical_drug	bacillus subtilis	1
+16840530	clinical_drug	arginine	1
+16840530	clinical_drug	iron	1

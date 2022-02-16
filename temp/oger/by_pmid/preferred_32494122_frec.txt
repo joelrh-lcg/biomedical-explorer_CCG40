@@ -1,0 +1,10 @@
+32494122	chemical	8-(3-chlorostyryl)caffeine	3
+32494122	chemical	drug	1
+32494122	chemical	antagonist	1
+32494122	disease	Neoplasms	2
+32494122	disease	Breast Neoplasms	2
+32494122	gene/protein	Collagenolytic protease	3
+32494122	gene/protein	integrin alpha-6	3
+32494122	cell	stem cell	1
+32494122	cell_line	PAE-iPS-4	1
+32494122	organ/tissue	breast	3

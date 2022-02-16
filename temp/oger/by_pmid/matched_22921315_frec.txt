@@ -1,0 +1,8 @@
+22921315	disease	influenza	6
+22921315	disease	disease	2
+22921315	gene/protein	April	1
+22921315	organism	swine	6
+22921315	organism	influenza virus	2
+22921315	organism	human	1
+22921315	sequence	sequence	2
+22921315	cell_line	Gloria	1

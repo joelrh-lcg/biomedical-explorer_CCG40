@@ -1,0 +1,38 @@
+17977153	biological_process	biosynthetic process	3
+17977153	cellular_component	membrane	1
+17977153	chemical	lipophosphoglycan	5
+17977153	chemical	lysylphosphatidylglycerol	2
+17977153	chemical	lipid	2
+17977153	chemical	Polymyxin B	2
+17977153	chemical	peptide	1
+17977153	disease	Lipoprotein Glomerulopathy	5
+17977153	gene/protein	phosphatidylglycerol lysyltransferase (Staphylococcus aureus subsp. aureus NCTC 8325)	3
+17977153	gene/protein	proteolytic cleavage product	1
+17977153	gene/protein	amino acid chain	1
+17977153	organism	bacterium IFAM-3211	2
+17977153	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+17977153	organism	bacterium IFAM-3215	2
+17977153	organism	bacterium IFAM-2074	2
+17977153	organism	bacterium IFAM-3359	2
+17977153	organism	bacterium	2
+17977153	organism	bacterium IFAM-1493	2
+17977153	organism	Staphylococcus aureus	2
+17977153	organism	Rhizobium tropici	2
+17977153	organism	Escherichia coli	2
+17977153	organism	Sinorhizobium meliloti	2
+17977153	organism	Alphaproteobacteria	1
+17977153	organism	Sinorhizobium	1
+17977153	organism	Yeasts	1
+17977153	sequence	gene	4
+17977153	sequence	homologous_region	2
+17977153	sequence	region	1
+17977153	sequence	genome	1
+17977153	sequence	delete	1
+17977153	sequence	active_peptide	1
+17977153	sequence	wild_type	1
+17977153	organ/tissue	membrane organ	1
+17977153	organ/tissue	membranous layer	1
+17977153	organ/tissue	multicellular organism	1
+17977153	clinical_drug	Yeast, Unspecified	1
+17977153	clinical_drug	Polymyxin B	1
+17977153	entity_type	preferred_term	2

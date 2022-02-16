@@ -1,0 +1,18 @@
+10028247	biological_process	symbiosis	1
+10028247	chemical	16s rrna	5
+10028247	chemical	acid	1
+10028247	chemical	base	1
+10028247	gene/protein	accc	2
+10028247	gene/protein	nov	2
+10028247	organism	bacterium	7
+10028247	organism	plasmid	2
+10028247	organism	Mesorhizobium amorphae	2
+10028247	organism	Amorpha fruticosa	1
+10028247	organism	Mesorhizobium	1
+10028247	organism	accc 19665	1
+10028247	sequence	16s rrna	5
+10028247	sequence	rrna gene	5
+10028247	sequence	rflp	2
+10028247	sequence	plasmid	2
+10028247	sequence	base	1
+10028247	organ/tissue	nodule	2

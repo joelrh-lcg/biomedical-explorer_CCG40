@@ -1,0 +1,15 @@
+29386127	biological_process	cell growth	2
+29386127	biological_process	cell physiology	1
+29386127	chemical	atp	4
+29386127	chemical	inhibitor	2
+29386127	chemical	biological role	1
+29386127	gene/protein	sub	4
+29386127	gene/protein	lack	1
+29386127	molecular_function	atp synthase	2
+29386127	organism	Paracoccus	1
+29386127	sequence	gene	2
+29386127	sequence	deletion	1
+29386127	sequence	construct	1
+29386127	sequence	delete	1
+29386127	cell_line	mimic	1
+29386127	clinical_drug	atp	1

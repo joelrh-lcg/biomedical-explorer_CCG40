@@ -1,0 +1,34 @@
+9421916	biological_process	sulfation	2
+9421916	chemical	Anti-Bacterial Agents	2
+9421916	chemical	nodulation factor	2
+9421916	chemical	sulfate	1
+9421916	chemical	metabolite	1
+9421916	chemical	antimicrobial agent	1
+9421916	chemical	Complement System Proteins	1
+9421916	chemical	alpha-amino acid	1
+9421916	chemical	amino acid	1
+9421916	disease	Myoclonic Epilepsies, Progressive	3
+9421916	gene/protein	Flavohemoprotein	129
+9421916	gene/protein	flavohemoprotein	3
+9421916	gene/protein	kinesin-like protein Nod (fruit fly)	3
+9421916	gene/protein	Lipocalin-1	2
+9421916	gene/protein	Acyl carrier protein AcpXL	1
+9421916	gene/protein	120.7 kDa protein in NOF-FB transposable element (fruit fly)	1
+9421916	gene/protein	lipocalin-1	1
+9421916	organism	Sinorhizobium meliloti	2
+9421916	organism	Rhizobium	1
+9421916	organism	Paenibacillus darwinianus	1
+9421916	organism	Treponema maltophilum	1
+9421916	organism	Vulcanibacillus modesticaldus	1
+9421916	organism	Ensifer sp. BR816	1
+9421916	organism	unidentified plasmid	1
+9421916	sequence	gene	5
+9421916	sequence	homologous	2
+9421916	sequence	ORF	1
+9421916	sequence	region	1
+9421916	sequence	plasmid	1
+9421916	sequence	insertion	1
+9421916	sequence	engineered_region	1
+9421916	sequence	double	1
+9421916	sequence	sequence_variant_obs	1
+9421916	sequence	amino_acid	1

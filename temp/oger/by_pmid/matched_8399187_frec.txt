@@ -1,0 +1,16 @@
+8399187	cellular_component	extracellular	1
+8399187	chemical	glucosamine	3
+8399187	chemical	nod factor	1
+8399187	chemical	molecule	1
+8399187	chemical	sulfate	1
+8399187	disease	nod	2
+8399187	gene/protein	nod	90
+8399187	gene/protein	bean	6
+8399187	organism	Rhizobium tropici	2
+8399187	organism	Phaseolus vulgari	1
+8399187	organism	Rhizobium	1
+8399187	organism	legume	1
+8399187	sequence	gene	1
+8399187	cell_line	bean	2
+8399187	organ/tissue	backbone	1
+8399187	clinical_drug	glucosamine	1

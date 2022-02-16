@@ -1,0 +1,12 @@
+17088283	biological_process	transcription	1
+17088283	cellular_component	core	1
+17088283	chemical	complement	1
+17088283	gene/protein	map	6
+17088283	gene/protein	add	3
+17088283	molecular_function	transcription factor	1
+17088283	organism	Escherichia coli	2
+17088283	organism	collection	1
+17088283	organism	gammaproteobacteria	1
+17088283	sequence	genome	2
+17088283	cell_line	tab	1
+17088283	organ/tissue	organism	1

@@ -1,0 +1,12 @@
+19767616	cellular_component	obsolete protein	2
+19767616	chemical	protein	6
+19767616	chemical	(protein)	2
+19767616	chemical	protein polypeptide chain	1
+19767616	chemical	oligonucleotide	1
+19767616	gene/protein	protein	2
+19767616	sequence	polypeptide	2
+19767616	sequence	DNA_motif	1
+19767616	sequence	oligo	1
+19767616	sequence	region	1
+19767616	sequence	natural_variant_site	1
+19767616	organ/tissue	webbed interdigital region	1

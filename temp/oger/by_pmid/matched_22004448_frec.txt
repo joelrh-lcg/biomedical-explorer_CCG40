@@ -1,0 +1,10 @@
+22004448	chemical	nucleotide	2
+22004448	gene/protein	snp	1
+22004448	organism	bacterium	14
+22004448	organism	Rhizobium etli	4
+22004448	sequence	sequence	2
+22004448	sequence	single nucleotide polymorphism	1
+22004448	sequence	snp	1
+22004448	sequence	mutation	1
+22004448	sequence	gene	1
+22004448	cell_line	snp	1

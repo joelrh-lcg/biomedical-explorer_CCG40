@@ -1,0 +1,58 @@
+8589413	biological_process	nodulation	3
+8589413	biological_process	symbiosis	2
+8589413	biological_process	symbiotic interaction	1
+8589413	biological_process	synthesis	1
+8589413	biological_process	excretion	1
+8589413	biological_process	gene expression	1
+8589413	biological_process	regulation	1
+8589413	chemical	pAM	12
+8589413	chemical	ammonium	9
+8589413	chemical	pam	9
+8589413	chemical	naringenin	4
+8589413	chemical	amino acid	2
+8589413	chemical	nitrogen	2
+8589413	chemical	pathway	1
+8589413	chemical	base	1
+8589413	chemical	nod factor	1
+8589413	disease	nod	2
+8589413	disease	ptr	1
+8589413	gene/protein	GDH	110
+8589413	gene/protein	gdh	110
+8589413	gene/protein	nod	90
+8589413	gene/protein	pAM1	24
+8589413	gene/protein	pam1	18
+8589413	gene/protein	bean	9
+8589413	gene/protein	ntrc	6
+8589413	gene/protein	ptr	4
+8589413	gene/protein	add	3
+8589413	gene/protein	noda	3
+8589413	gene/protein	gdhA	2
+8589413	gene/protein	gogat	2
+8589413	gene/protein	gdha	2
+8589413	molecular_function	GDH	2
+8589413	molecular_function	gdh	2
+8589413	molecular_function	gogat activity	2
+8589413	molecular_function	ptr	1
+8589413	organism	plasmid	3
+8589413	organism	Rhizobium etli	2
+8589413	organism	Escherichia coli	2
+8589413	organism	CFN42	2
+8589413	organism	strain at 10	2
+8589413	organism	cfn42	1
+8589413	sequence	gene	6
+8589413	sequence	plasmid	3
+8589413	sequence	base	1
+8589413	sequence	vector	1
+8589413	sequence	terminator	1
+8589413	sequence	construct	1
+8589413	sequence	wild type	1
+8589413	sequence	amino acid	1
+8589413	cell_line	pAM1	4
+8589413	cell_line	bean	3
+8589413	cell_line	pam1	3
+8589413	cell_line	noda	3
+8589413	cell_line	ptr	1
+8589413	organ/tissue	flank	1
+8589413	organ/tissue	excretion	1
+8589413	organ/tissue	exudate	1
+8589413	clinical_drug	nitrogen	1

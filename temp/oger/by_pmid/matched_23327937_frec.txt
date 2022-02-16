@@ -1,0 +1,19 @@
+23327937	biological_process	transcription	2
+23327937	biological_process	false	2
+23327937	biological_process	regulation	1
+23327937	cellular_component	nucleic acid	1
+23327937	cellular_component	chromatin	1
+23327937	chemical	nucleic acid	1
+23327937	chemical	chromatin	1
+23327937	gene/protein	k12	9
+23327937	gene/protein	add	3
+23327937	gene/protein	60 a	1
+23327937	organism	Escherichia coli	2
+23327937	organism	Escherichia Coli k12	1
+23327937	sequence	motif	2
+23327937	sequence	gene	1
+23327937	sequence	promoter	1
+23327937	sequence	nucleic acid	1
+23327937	sequence	score	1
+23327937	cell_line	k12	2
+23327937	organ/tissue	matrix	1

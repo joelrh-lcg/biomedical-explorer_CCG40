@@ -1,0 +1,40 @@
+11959430	biological_process	biosynthesis	4
+11959430	biological_process	nodulation	1
+11959430	biological_process	lipid a biosynthesis	1
+11959430	cellular_component	protein	4
+11959430	chemical	acp	12
+11959430	chemical	protein	6
+11959430	chemical	lipid a	5
+11959430	chemical	acyl carrier protein	3
+11959430	chemical	donor	2
+11959430	chemical	molecule	2
+11959430	chemical	ACP	2
+11959430	chemical	27hydroxyoctacosanoic acid	2
+11959430	chemical	carrier	1
+11959430	chemical	fatty acid	1
+11959430	chemical	a sugar	1
+11959430	chemical	capsular polysaccharide	1
+11959430	disease	acp	6
+11959430	disease	ACP	1
+11959430	gene/protein	acp	3462
+11959430	gene/protein	ACP	577
+11959430	gene/protein	acyl carrier protein	518
+11959430	gene/protein	acpp	25
+11959430	gene/protein	small acidic protein	10
+11959430	gene/protein	nodulation protein	2
+11959430	gene/protein	nodf	1
+11959430	gene/protein	protein	1
+11959430	molecular_function	carrier	2
+11959430	organism	bacterium	7
+11959430	organism	Escherichia coli	2
+11959430	organism	e coli	2
+11959430	organism	Mesorhizobium loti	2
+11959430	organism	legume	1
+11959430	organism	sinorhizobium	1
+11959430	organism	melilotus	1
+11959430	sequence	protein	4
+11959430	sequence	chain	2
+11959430	sequence	donor	1
+11959430	sequence	sequence	1
+11959430	sequence	genome	1
+11959430	organ/tissue	backbone	1

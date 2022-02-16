@@ -1,0 +1,39 @@
+1707606	biological_process	symbiotic process	1
+1707606	chemical	Anti-Bacterial Agents	2
+1707606	chemical	antimicrobial agent	1
+1707606	chemical	probe	1
+1707606	chemical	cluster	1
+1707606	chemical	ribosomal RNA	1
+1707606	chemical	nucleotide	1
+1707606	chemical	RNA, Ribosomal, 16S	1
+1707606	chemical	Complement System Proteins	1
+1707606	chemical	nitrogen atom	1
+1707606	chemical	nitrogen(.)	1
+1707606	gene/protein	Protein BEAN1	6
+1707606	gene/protein	protein BEAN	3
+1707606	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+1707606	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+1707606	gene/protein	nucleoporin Nup43	1
+1707606	gene/protein	peroxidase 42 (Arabidopsis thaliana)	1
+1707606	gene/protein	Capsid protein	1
+1707606	gene/protein	Glutamine synthetase	1
+1707606	gene/protein	Movement protein TGB1	1
+1707606	gene/protein	Nucleoporin Nup43	1
+1707606	gene/protein	Transcription initiation factor TFIID subunit 9	1
+1707606	gene/protein	tRNA-aminoacylation cofactor ARC1	1
+1707606	organism	Rhizobium leguminosarum	2
+1707606	organism	Rhizobium	1
+1707606	organism	Plasmid p42d	1
+1707606	sequence	probe	1
+1707606	sequence	rRNA	1
+1707606	sequence	operon	1
+1707606	sequence	RFLP_fragment	1
+1707606	sequence	region	1
+1707606	sequence	fragmentary	1
+1707606	sequence	rRNA_16S	1
+1707606	sequence	rRNA_gene	1
+1707606	sequence	plasmid	1
+1707606	cell_line	R1192	3
+1707606	organ/tissue	cerebellum vermis lobule X	1
+1707606	organ/tissue	germinal center	1
+1707606	clinical_drug	Nitrogen	1

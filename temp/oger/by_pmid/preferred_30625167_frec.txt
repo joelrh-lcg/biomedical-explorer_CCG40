@@ -1,0 +1,15 @@
+30625167	cellular_component	subrhabdomeral cisterna	5
+30625167	chemical	sperm ganglioside 1	8
+30625167	chemical	RNA, Ribosomal, 16S	1
+30625167	disease	Smith-McCort Dysplasia	5
+30625167	gene/protein	mucin-4 (rat)	5
+30625167	gene/protein	protein SLOW GREEN 1, chloroplastic (Arabidopsis thaliana)	4
+30625167	organism	Scorpions	7
+30625167	organism	Tenericutes	3
+30625167	organism	Vaejovis smithi	2
+30625167	organism	Arachnida	1
+30625167	organism	Centruroides limpidus	1
+30625167	organism	Mycoplasma ovis	1
+30625167	organism	Mycoplasma	1
+30625167	sequence	candidate_gene	1
+30625167	sequence	rRNA_16S	1

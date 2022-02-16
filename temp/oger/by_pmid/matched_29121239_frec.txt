@@ -1,0 +1,33 @@
+29121239	biological_process	arginine synthesis	1
+29121239	biological_process	translation	1
+29121239	biological_process	posttranslational modification	1
+29121239	biological_process	cellular growth	1
+29121239	biological_process	nodulation	1
+29121239	biological_process	nitrogen fixation	1
+29121239	biological_process	synthesis	1
+29121239	cellular_component	protein	4
+29121239	chemical	plac	16
+29121239	chemical	arginine	10
+29121239	chemical	phosphate	8
+29121239	chemical	protein	8
+29121239	chemical	nitrogen	2
+29121239	chemical	reductase	1
+29121239	chemical	pathway	1
+29121239	chemical	proteome	1
+29121239	gene/protein	argc	24
+29121239	gene/protein	argC	8
+29121239	gene/protein	protein	4
+29121239	gene/protein	plac	4
+29121239	gene/protein	fold	4
+29121239	molecular_function	argc	6
+29121239	molecular_function	argC	2
+29121239	organism	Sinorhizobium meliloti	2
+29121239	organism	Medicago sativa	2
+29121239	sequence	protein	4
+29121239	sequence	arginine	2
+29121239	sequence	construct	2
+29121239	sequence	promoter	2
+29121239	sequence	translation start	1
+29121239	organ/tissue	organism	1
+29121239	clinical_drug	arginine	2
+29121239	clinical_drug	nitrogen	1

@@ -1,0 +1,47 @@
+25054342	biological_process	pathogenesis	1
+25054342	biological_process	obsolete virulence	1
+25054342	biological_process	viral process	1
+25054342	biological_process	homeostatic process	1
+25054342	cellular_component	obsolete protein	2
+25054342	chemical	manganese(2+)	10
+25054342	chemical	zinc(2+)	4
+25054342	chemical	dizinc	4
+25054342	chemical	zinc atom	4
+25054342	chemical	protein	4
+25054342	chemical	cadmium(2+)	3
+25054342	chemical	iron(2+)	3
+25054342	chemical	2 Fe(2+)	3
+25054342	chemical	Manganese	2
+25054342	chemical	(protein)	2
+25054342	chemical	manganese(0)	1
+25054342	chemical	manganese atom	1
+25054342	chemical	cation	1
+25054342	disease	Pneumonia	2
+25054342	gene/protein	Interleukin-6	3
+25054342	gene/protein	interleukin-6	3
+25054342	gene/protein	T-cell surface antigen CD2 (human)	3
+25054342	gene/protein	T-cell surface antigen CD2 (rat)	3
+25054342	gene/protein	T-cell surface antigen CD2 (mouse)	3
+25054342	gene/protein	CD2 molecule	3
+25054342	gene/protein	protein	2
+25054342	gene/protein	adenosine 3'-phospho 5'-phosphosulfate transporter 1 (fruit fly)	1
+25054342	organism	Thermus thermophilus	2
+25054342	organism	Rhizobium etli	2
+25054342	organism	Escherichia coli	2
+25054342	organism	Streptococcus	1
+25054342	organism	Deinococcus radiodurans	1
+25054342	organism	Deinococcus	1
+25054342	organism	Synechocystis sp. PCC 6714	1
+25054342	organism	Synechocystis sp. BO8402	1
+25054342	organism	Synechocystis sp. PCC 9413	1
+25054342	organism	Synechocystis sp.	1
+25054342	organism	Synechocystis sp. PCC 6803	1
+25054342	organism	Synechocystis sp. PCC 6701	1
+25054342	organism	Alphaproteobacteria	1
+25054342	sequence	gene	4
+25054342	sequence	homologous_region	2
+25054342	sequence	polypeptide	2
+25054342	sequence	orthologous_region	1
+25054342	cell_line	MN-2	10
+25054342	clinical_drug	Magnesium Cation	10
+25054342	clinical_drug	Manganese	1

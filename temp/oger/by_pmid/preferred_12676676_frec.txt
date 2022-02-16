@@ -1,0 +1,94 @@
+12676676	biological_process	sulfation	3
+12676676	biological_process	biosynthetic process	2
+12676676	biological_process	gene expression	1
+12676676	biological_process	nitrogen fixation	1
+12676676	chemical	sulfate	6
+12676676	chemical	nodulation factor	6
+12676676	chemical	Somatomedins	4
+12676676	chemical	Sulfur	4
+12676676	chemical	3'-phospho-5'-adenylyl sulfate	2
+12676676	chemical	polysulfur	2
+12676676	chemical	sulfur atom	2
+12676676	chemical	Cysteine	2
+12676676	chemical	Methionine	2
+12676676	chemical	adenosine 3',5'-bismonophosphate	1
+12676676	chemical	PAP	1
+12676676	chemical	Sulfate Adenylyltransferase	1
+12676676	chemical	cysteinyl radical	1
+12676676	chemical	cysteine	1
+12676676	chemical	L-cysteine	1
+12676676	chemical	3'-phosphonato-5'-adenylyl sulfate(4-)	1
+12676676	chemical	alpha-amino acid	1
+12676676	chemical	amino acid	1
+12676676	chemical	nitrogen atom	1
+12676676	chemical	nitrogen(.)	1
+12676676	chemical	L-methionine	1
+12676676	chemical	methionine zwitterion	1
+12676676	chemical	methionine	1
+12676676	chemical	nutrient	1
+12676676	chemical	solution	1
+12676676	disease	Myoclonic Epilepsies, Progressive	7
+12676676	gene/protein	Flavohemoprotein	301
+12676676	gene/protein	Sulfate adenylyltransferase	113
+12676676	gene/protein	Proline iminopeptidase	29
+12676676	gene/protein	DNA polymerase processivity factor	16
+12676676	gene/protein	flavohemoprotein	7
+12676676	gene/protein	kinesin-like protein Nod (fruit fly)	7
+12676676	gene/protein	28 kDa heat- and acid-stable phosphoprotein	4
+12676676	gene/protein	Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 2	3
+12676676	gene/protein	Polyphosphate:AMP phosphotransferase	3
+12676676	gene/protein	Poly(A) polymerase	3
+12676676	gene/protein	sulfate adenylyltransferase subunit 2 (Escherichia coli K-12)	3
+12676676	gene/protein	sulfate adenylyltransferase subunit 2	3
+12676676	gene/protein	Poly(A) RNA polymerase, mitochondrial	2
+12676676	gene/protein	Probable proline iminopeptidase	2
+12676676	gene/protein	Protein-arginine-phosphatase	2
+12676676	gene/protein	Putative proline iminopeptidase	2
+12676676	gene/protein	Protein BEAN1	2
+12676676	gene/protein	Poly(A) RNA polymerase cid11	1
+12676676	gene/protein	Fe(3+)-Zn(2+) purple acid phosphatase	1
+12676676	gene/protein	Poly(A) polymerase type 3	1
+12676676	gene/protein	Fe(3+)-Zn(2+) purple acid phosphatase 12	1
+12676676	gene/protein	regenerating islet-derived protein 3-beta	1
+12676676	gene/protein	poly(A) polymerase alpha	1
+12676676	gene/protein	Terminal uridylyltransferase cid1	1
+12676676	gene/protein	regenerating islet-derived protein 3-alpha	1
+12676676	gene/protein	Poly(A) polymerase pla1	1
+12676676	gene/protein	mediator of RNA polymerase II transcription subunit 13 (fruit fly)	1
+12676676	gene/protein	Poly(A) RNA polymerase cid12	1
+12676676	gene/protein	poly(A) RNA polymerase, mitochondrial	1
+12676676	gene/protein	Phosphatidate phosphatase APP1	1
+12676676	gene/protein	poly(A) polymerase I	1
+12676676	gene/protein	regenerating islet-derived protein 3-beta (mouse)	1
+12676676	gene/protein	regenerating islet-derived protein 3-alpha (human)	1
+12676676	gene/protein	poly(A) polymerase alpha (human)	1
+12676676	gene/protein	poly(A) polymerase alpha (mouse)	1
+12676676	gene/protein	regenerating islet-derived protein 3-beta (rat)	1
+12676676	gene/protein	Poly(A) RNA polymerase cid14	1
+12676676	gene/protein	Prostatic acid phosphatase	1
+12676676	gene/protein	Poly(A) RNA polymerase cid13	1
+12676676	gene/protein	Probable sulfate adenylyltransferase	1
+12676676	gene/protein	protein BEAN	1
+12676676	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+12676676	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+12676676	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+12676676	molecular_function	polyphosphate:AMP phosphotransferase activity	1
+12676676	organism	Ensifer sp. USDA 6670	2
+12676676	organism	Sinorhizobium sp.	2
+12676676	organism	Paenibacillus darwinianus	2
+12676676	organism	Treponema maltophilum	2
+12676676	organism	Vulcanibacillus modesticaldus	2
+12676676	organism	Sinorhizobium meliloti	2
+12676676	sequence	gene	2
+12676676	sequence	double	1
+12676676	sequence	ORF	1
+12676676	sequence	cysteine	1
+12676676	sequence	amino_acid	1
+12676676	sequence	methionine	1
+12676676	cell_line	R1192	1
+12676676	organ/tissue	plantar part of pes	1
+12676676	clinical_drug	Sulfur	2
+12676676	clinical_drug	Adenosine Triphosphate	1
+12676676	clinical_drug	Cysteine	1
+12676676	clinical_drug	Nitrogen	1
+12676676	clinical_drug	Methionine	1

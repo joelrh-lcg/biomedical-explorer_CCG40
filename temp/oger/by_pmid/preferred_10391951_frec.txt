@@ -1,0 +1,33 @@
+10391951	biological_process	phosphatidylcholine biosynthetic process	2
+10391951	biological_process	methylation	1
+10391951	cellular_component	membrane	1
+10391951	chemical	Phosphatidylcholines	12
+10391951	chemical	Choline	8
+10391951	chemical	phosphatidylcholine	6
+10391951	chemical	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	6
+10391951	chemical	1,2-diacyl-sn-glycero-3-phosphocholine	6
+10391951	chemical	choline	4
+10391951	chemical	phosphatidylethanolamine	3
+10391951	chemical	picloram	3
+10391951	chemical	phospholipid	2
+10391951	chemical	lipid	1
+10391951	chemical	(S)-1,2-distearoylphosphatidylethanolaminium	1
+10391951	chemical	CDP-diacylglycerol choline O-phosphatidyltransferase	1
+10391951	chemical	CDP-diacylglycerol	1
+10391951	gene/protein	Phosphatidylcholine synthase	10
+10391951	gene/protein	phosphatidylcholine synthase	1
+10391951	organism	bacterium IFAM-3211	2
+10391951	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+10391951	organism	bacterium IFAM-3215	2
+10391951	organism	bacterium IFAM-2074	2
+10391951	organism	bacterium IFAM-3359	2
+10391951	organism	bacterium	2
+10391951	organism	bacterium IFAM-1493	2
+10391951	organism	Sinorhizobium meliloti	2
+10391951	organism	Sinorhizobium	1
+10391951	sequence	enzymatic	2
+10391951	sequence	wild_type	1
+10391951	organ/tissue	membrane organ	1
+10391951	organ/tissue	membranous layer	1
+10391951	clinical_drug	Choline	4
+10391951	molecular_process	methylation	1

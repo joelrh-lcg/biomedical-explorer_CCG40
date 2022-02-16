@@ -1,0 +1,25 @@
+10972799	biological_process	methylation	3
+10972799	biological_process	biosynthesis	2
+10972799	biological_process	formation	2
+10972799	chemical	phosphatidylcholine	10
+10972799	chemical	choline	9
+10972799	chemical	pathway	6
+10972799	chemical	complement	2
+10972799	chemical	dimethylphosphatidylethanolamine	2
+10972799	chemical	phospholipid	1
+10972799	gene/protein	pc synthase	11
+10972799	gene/protein	pmt	6
+10972799	gene/protein	Pmt	2
+10972799	molecular_function	pmt	3
+10972799	molecular_function	Pmt	1
+10972799	organism	Rhizobium meliloti	2
+10972799	organism	Sinorhizobium	1
+10972799	organism	Rhodobacter	1
+10972799	organism	melilotus	1
+10972799	sequence	gene	2
+10972799	sequence	sequence	1
+10972799	sequence	intermediate	1
+10972799	sequence	wild type	1
+10972799	sequence	double	1
+10972799	clinical_drug	choline	3
+10972799	molecular_process	methylation	3

@@ -1,0 +1,15 @@
+9226921	chemical	16s rrna	2
+9226921	chemical	cluster	2
+9226921	chemical	sodium	1
+9226921	chemical	dodecyl	1
+9226921	chemical	proteins	1
+9226921	chemical	base	1
+9226921	organism	bacterium	7
+9226921	organism	Mesorhizobium tianshanense	2
+9226921	organism	Mesorhizobium loti	2
+9226921	organism	rhizobium	1
+9226921	organism	Mesorhizobium	1
+9226921	sequence	16s rrna	2
+9226921	sequence	rrna gene	2
+9226921	sequence	base	1
+9226921	sequence	sequence	1

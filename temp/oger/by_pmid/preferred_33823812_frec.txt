@@ -1,0 +1,12 @@
+33823812	chemical	carminic acid	3
+33823812	chemical	Carmine	2
+33823812	organism	Spiroplasma	4
+33823812	organism	Arthropods	1
+33823812	organism	Dactylopius coccus	1
+33823812	sequence	region	1
+33823812	organ/tissue	digestive tract	1
+33823812	organ/tissue	lower digestive tract	1
+33823812	organ/tissue	digestive system	1
+33823812	organ/tissue	hemolymph	1
+33823812	organ/tissue	reproductive organ	1
+33823812	clinical_drug	Cochineal	2

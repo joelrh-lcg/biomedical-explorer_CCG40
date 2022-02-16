@@ -1,0 +1,22 @@
+28605770	biological_process	gene expression	1
+28605770	biological_process	biological process	1
+28605770	biological_process	pathogenesis	1
+28605770	chemical	mirna	6
+28605770	chemical	a factor	3
+28605770	chemical	microrna	1
+28605770	chemical	noncoding rna	1
+28605770	chemical	molecule	1
+28605770	chemical	complement	1
+28605770	chemical	base	1
+28605770	disease	disease	12
+28605770	disease	idiopathic pulmonary fibrosis	2
+28605770	disease	pneumonia	2
+28605770	gene/protein	ODIN	5
+28605770	gene/protein	rna	2
+28605770	gene/protein	impact	2
+28605770	sequence	mirna	6
+28605770	sequence	microrna	1
+28605770	sequence	noncoding rna	1
+28605770	sequence	gene	1
+28605770	sequence	base	1
+28605770	organ/tissue	corpus	2

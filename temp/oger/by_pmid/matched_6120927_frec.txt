@@ -1,0 +1,28 @@
+6120927	biological_process	synthesis	3
+6120927	biological_process	translation	1
+6120927	chemical	ammonium	12
+6120927	chemical	beta	6
+6120927	chemical	glutamate	6
+6120927	chemical	polypeptide	4
+6120927	chemical	nitrogen	4
+6120927	chemical	glutamine	4
+6120927	chemical	alpha	3
+6120927	chemical	agarose	3
+6120927	chemical	methylmercury hydroxide	2
+6120927	chemical	pathway	1
+6120927	chemical	dehydrogenase	1
+6120927	chemical	glutamine synthetase	1
+6120927	chemical	alpha gs	1
+6120927	chemical	glutamate synthase	1
+6120927	gene/protein	glutamine synthetase	123
+6120927	gene/protein	polypeptide	8
+6120927	gene/protein	rna	2
+6120927	gene/protein	dehydrogenase	1
+6120927	organism	Neurospora crassa	2
+6120927	organism	fungus	1
+6120927	sequence	polypeptide	4
+6120927	sequence	glutamine	2
+6120927	sequence	intermediate	1
+6120927	clinical_drug	glutamine	2
+6120927	clinical_drug	nitrogen	2
+6120927	clinical_drug	glutamate	2

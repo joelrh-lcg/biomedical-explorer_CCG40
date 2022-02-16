@@ -1,0 +1,20 @@
+21310789	biological_process	glycerol metabolism	1
+21310789	chemical	glycerol	3
+21310789	chemical	base	2
+21310789	chemical	sigma factor	1
+21310789	gene/protein	K12	9
+21310789	gene/protein	rpos	3
+21310789	organism	bacterium	14
+21310789	organism	bacillus subtilis	2
+21310789	organism	Escherichia coli K12	1
+21310789	organism	Geobacter	1
+21310789	organism	Borrelia	1
+21310789	sequence	gene	7
+21310789	sequence	base	2
+21310789	sequence	genome	1
+21310789	sequence	sequence	1
+21310789	sequence	regulon	1
+21310789	sequence	orthologue	1
+21310789	cell_line	K12	2
+21310789	organ/tissue	organism	3
+21310789	clinical_drug	bacillus subtilis	1

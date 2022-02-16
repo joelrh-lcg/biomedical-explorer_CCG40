@@ -1,0 +1,61 @@
+29453341	biological_process	import into cell	2
+29453341	biological_process	import across plasma membrane	2
+29453341	biological_process	riboflavin biosynthetic process	1
+29453341	biological_process	protein folding	1
+29453341	biological_process	oxidation-reduction process	1
+29453341	biological_process	obsolete Gene_Ontology	1
+29453341	biological_process	cytochrome complex assembly	1
+29453341	cellular_component	extracellular region	1
+29453341	cellular_component	obsolete protein	1
+29453341	cellular_component	cytochrome complex	1
+29453341	chemical	Riboflavin	14
+29453341	chemical	riboflavin(1-)	7
+29453341	chemical	riboflavin	7
+29453341	chemical	iron atom	4
+29453341	chemical	picloram	2
+29453341	chemical	vitamin	1
+29453341	chemical	protein	1
+29453341	chemical	(protein)	1
+29453341	chemical	Cytochromes	1
+29453341	chemical	cytochrome	1
+29453341	disease	Cholera	4
+29453341	disease	Proteostasis Deficiencies	2
+29453341	gene/protein	Retinol-binding protein 4	18
+29453341	gene/protein	Riboflavin-binding protein	6
+29453341	gene/protein	Protochlorophyllide reductase, chloroplastic	5
+29453341	gene/protein	Receptor binding protein	4
+29453341	gene/protein	riboflavin biosynthesis protein RibD	3
+29453341	gene/protein	riboflavin biosynthesis protein RibD (Escherichia coli K-12)	3
+29453341	gene/protein	Receptor-binding protein	2
+29453341	gene/protein	Retinol binding protein 4	2
+29453341	gene/protein	retinol-binding protein 4	2
+29453341	gene/protein	Light-dependent protochlorophyllide reductase	2
+29453341	gene/protein	Protochlorophyllide reductase	1
+29453341	gene/protein	protein	1
+29453341	molecular_function	electron transporter, transferring electrons within the noncyclic electron transport pathway of photosynthesis activity	1
+29453341	molecular_function	electron transporter, transferring electrons from CoQH2-cytochrome c reductase complex and cytochrome c oxidase complex activity	1
+29453341	molecular_function	electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity	1
+29453341	molecular_function	electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity	1
+29453341	molecular_function	electron transporter, transferring electrons within cytochrome c oxidase complex activity	1
+29453341	molecular_function	obsolete cytochrome	1
+29453341	molecular_function	electron transporter, transferring electrons within CoQH2-cytochrome c reductase complex activity	1
+29453341	organism	Vibrio cholerae	1
+29453341	organism	bacterium BE	1
+29453341	organism	bacterium IFAM-3211	1
+29453341	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+29453341	organism	bacterium IFAM-3215	1
+29453341	organism	bacterium IFAM-2074	1
+29453341	organism	bacterium IFAM-3359	1
+29453341	organism	bacterium	1
+29453341	organism	bacterium IFAM-1493	1
+29453341	sequence	gene	8
+29453341	sequence	deletion	2
+29453341	sequence	copy_number_gain	1
+29453341	sequence	regulon	1
+29453341	sequence	polypeptide	1
+29453341	sequence	assembly	1
+29453341	clinical_drug	Riboflavin	7
+29453341	clinical_drug	Iron	4
+29453341	molecular_process	oxidation	1
+29453341	molecular_process	reduction	1
+29453341	entity_type	preferred_term	4

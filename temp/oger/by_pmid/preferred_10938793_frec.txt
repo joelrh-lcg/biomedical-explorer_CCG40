@@ -1,0 +1,79 @@
+10938793	biological_process	flower development	1
+10938793	biological_process	pollen development	1
+10938793	cellular_component	obsolete protein	1
+10938793	chemical	nitrogen atom	1
+10938793	chemical	nitrogen(.)	1
+10938793	chemical	Glutamate-Ammonia Ligase	1
+10938793	chemical	Glutamate Synthase	1
+10938793	chemical	Aspartate Aminotransferases	1
+10938793	chemical	protein	1
+10938793	chemical	(protein)	1
+10938793	chemical	Aspartate-Ammonia Ligase	1
+10938793	chemical	Phosphoenolpyruvate Carboxylase	1
+10938793	chemical	nitrate	1
+10938793	chemical	maleate(2-)	1
+10938793	disease	Aortic Aneurysm, Familial Thoracic 2	2
+10938793	disease	Anemia, Hypochromic	2
+10938793	gene/protein	Phosphoenolpyruvate carboxylase	738
+10938793	gene/protein	Glutamine synthetase	122
+10938793	gene/protein	Aspartate aminotransferase	27
+10938793	gene/protein	Ethanol acetyltransferase 1	9
+10938793	gene/protein	Probable alcohol acetyltransferase	5
+10938793	gene/protein	alpha-1-antitrypsin 1-2	3
+10938793	gene/protein	phosphoenolpyruvate carboxylase	3
+10938793	gene/protein	Glutamate synthase [NADPH] large chain	2
+10938793	gene/protein	Glutamate synthase [NADPH] small chain	2
+10938793	gene/protein	aspartate aminotransferase, cytoplasmic	2
+10938793	gene/protein	aspartate aminotransferase, mitochondrial	2
+10938793	gene/protein	alpha-1-antitrypsin 1-2 (mouse)	2
+10938793	gene/protein	alanine aminotransferase 2 (mouse)	2
+10938793	gene/protein	alanine aminotransferase 2 (human)	2
+10938793	gene/protein	aspartate aminotransferase, cytoplasmic (yeast)	2
+10938793	gene/protein	aspartate aminotransferase, cytoplasmic isozyme 1 (Arabidopsis thaliana)	2
+10938793	gene/protein	aspartate aminotransferase, cytoplasmic (Schizosaccharomyces pombe 972h-)	2
+10938793	gene/protein	alanine aminotransferase 2	2
+10938793	gene/protein	phosphoenolpyruvate carboxylase 3 (Arabidopsis thaliana)	2
+10938793	gene/protein	phosphoenolpyruvate carboxykinase (ATP) (yeast)	2
+10938793	gene/protein	Phosphoenolpyruvate carboxylase, housekeeping isozyme	2
+10938793	gene/protein	glutamine synthetase	1
+10938793	gene/protein	Tyrosine aminotransferase	1
+10938793	gene/protein	aspartate aminotransferase	1
+10938793	gene/protein	protein	1
+10938793	gene/protein	phosphoenolpyruvate carboxykinase [GTP], mitochondrial	1
+10938793	gene/protein	phosphoenolpyruvate carboxykinase, cytosolic [GTP]	1
+10938793	gene/protein	phosphoenolpyruvate carboxykinase (ATP)	1
+10938793	gene/protein	leucyl/phenylalanyl-tRNA--protein transferase	1
+10938793	gene/protein	Ethanol acetyltransferase 2	1
+10938793	gene/protein	bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase (Arabidopsis thaliana)	1
+10938793	gene/protein	Alpha-1-antitrypsin 1-1	1
+10938793	gene/protein	leucyl/phenylalanyl-tRNA--protein transferase (Escherichia coli K-12)	1
+10938793	gene/protein	Alpha-1-antiproteinase	1
+10938793	gene/protein	Alpha-1-antitrypsin	1
+10938793	gene/protein	Alpha-1-antitrypsin 1-2	1
+10938793	gene/protein	alpha-1-antitrypsin 1-1	1
+10938793	gene/protein	alpha-1-antitrypsin (human)	1
+10938793	gene/protein	alpha-1-antitrypsin	1
+10938793	gene/protein	calcium channel flower (fruit fly)	1
+10938793	molecular_function	L-aspartate:2-oxoglutarate aminotransferase activity	3
+10938793	molecular_function	catalytic activity	3
+10938793	molecular_function	phosphoenolpyruvate carboxylase activity	2
+10938793	organism	Medicago sativa	4
+10938793	organism	Fabaceae	1
+10938793	sequence	antisense	4
+10938793	sequence	transgenic	2
+10938793	sequence	transcript	2
+10938793	sequence	glutamine	1
+10938793	sequence	promoter	1
+10938793	sequence	polypeptide	1
+10938793	sequence	asparagine	1
+10938793	sequence	transgene	1
+10938793	organ/tissue	cerebellum vermis lobule X	1
+10938793	organ/tissue	germinal center	1
+10938793	organ/tissue	male organism	1
+10938793	clinical_drug	Nitrogen	1
+10938793	clinical_drug	Glutamine	1
+10938793	clinical_drug	Glutamate	1
+10938793	clinical_drug	Medicago sativa whole extract	1
+10938793	clinical_drug	Aspartate	1
+10938793	clinical_drug	Asparagine	1
+10938793	molecular_process	reduction	2

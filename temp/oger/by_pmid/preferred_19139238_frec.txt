@@ -1,0 +1,35 @@
+19139238	biological_process	transcription, DNA-templated	1
+19139238	biological_process	glucose transmembrane transport	1
+19139238	biological_process	secretion	1
+19139238	cellular_component	extracellular region	1
+19139238	cellular_component	periplasmic space	1
+19139238	cellular_component	outer membrane	1
+19139238	chemical	levan	4
+19139238	chemical	Sucrose	2
+19139238	chemical	(2->6)-beta-D-fructan	2
+19139238	chemical	fructan	2
+19139238	chemical	Fructose	2
+19139238	chemical	Glucose	2
+19139238	chemical	sucrose	1
+19139238	chemical	levansucrase	1
+19139238	chemical	beta-D-fructofuranose	1
+19139238	chemical	fructose	1
+19139238	chemical	aldehydo-D-glucose	1
+19139238	chemical	D-glucopyranose	1
+19139238	chemical	glucose	1
+19139238	chemical	Protein Sorting Signals	1
+19139238	gene/protein	Levansucrase	13
+19139238	gene/protein	obsolete signal peptide removal	1
+19139238	organism	Gluconacetobacter diazotrophicus	2
+19139238	sequence	reverse	1
+19139238	sequence	5KB_downstream_variant	1
+19139238	sequence	gene	1
+19139238	sequence	operon	1
+19139238	sequence	signal_peptide	1
+19139238	organ/tissue	secretion of exocrine gland	1
+19139238	organ/tissue	membrane organ	1
+19139238	organ/tissue	membranous layer	1
+19139238	clinical_drug	Sucrose	1
+19139238	clinical_drug	Fructose	1
+19139238	clinical_drug	Dextrose, Unspecified Form	1
+19139238	molecular_process	hydrolysis	1

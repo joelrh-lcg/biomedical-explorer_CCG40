@@ -1,0 +1,15 @@
+24903516	biological_process	regulation	2
+24903516	biological_process	transcription	1
+24903516	biological_process	regulation of gene expression	1
+24903516	chemical	base	2
+24903516	gene/protein	k12	9
+24903516	gene/protein	oxyr	6
+24903516	molecular_function	transcription factor	1
+24903516	organism	bacterium	7
+24903516	organism	e coli	2
+24903516	organism	Escherichia coli k12	1
+24903516	sequence	base	2
+24903516	sequence	gene	2
+24903516	sequence	target gene	1
+24903516	cell_line	k12	2
+24903516	organ/tissue	corpus	2

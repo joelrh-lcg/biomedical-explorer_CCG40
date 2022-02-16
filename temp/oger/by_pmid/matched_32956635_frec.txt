@@ -1,0 +1,34 @@
+32956635	biological_process	regulation	2
+32956635	biological_process	apoptosis	2
+32956635	biological_process	immune response	1
+32956635	biological_process	signaling	1
+32956635	biological_process	carbohydrate metabolism	1
+32956635	biological_process	detoxification	1
+32956635	cellular_component	protein	1
+32956635	chemical	proteins	5
+32956635	chemical	molecule	3
+32956635	chemical	carbohydrate	3
+32956635	chemical	protein	2
+32956635	chemical	base	1
+32956635	chemical	drug	1
+32956635	disease	infection	6
+32956635	disease	cysticercosis	4
+32956635	disease	immune system	2
+32956635	gene/protein	th1	21
+32956635	gene/protein	orf	4
+32956635	gene/protein	th2	4
+32956635	gene/protein	protein	1
+32956635	organism	mouse	8
+32956635	organism	parasite	2
+32956635	organism	Taenia	1
+32956635	organism	cysticercus	1
+32956635	sequence	orf	2
+32956635	sequence	protein	1
+32956635	sequence	enzymatic	1
+32956635	sequence	base	1
+32956635	cell_line	th1	12
+32956635	cell_line	th2	4
+32956635	organ/tissue	female	1
+32956635	organ/tissue	cysticercus	1
+32956635	organ/tissue	larval stage	1
+32956635	organ/tissue	immune system	1

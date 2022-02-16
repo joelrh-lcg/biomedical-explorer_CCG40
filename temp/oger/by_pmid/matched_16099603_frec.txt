@@ -1,0 +1,24 @@
+16099603	biological_process	uptake	4
+16099603	biological_process	biotin transport	2
+16099603	biological_process	biotin biosynthesis	1
+16099603	biological_process	retention	1
+16099603	cellular_component	chromosomal region	1
+16099603	cellular_component	intracellular	1
+16099603	chemical	biotin	40
+16099603	chemical	ce3	1
+16099603	chemical	atpase	1
+16099603	gene/protein	biob	7
+16099603	gene/protein	bean	3
+16099603	gene/protein	atpase	2
+16099603	gene/protein	lack	1
+16099603	organism	Rhizobium etli	2
+16099603	organism	sinorhizobium meliloti	2
+16099603	sequence	gene	4
+16099603	sequence	homolog	1
+16099603	sequence	wild type	1
+16099603	sequence	operon	1
+16099603	cell_line	ce3	1
+16099603	cell_line	bean	1
+16099603	organ/tissue	organism	2
+16099603	organ/tissue	nodule	2
+16099603	clinical_drug	biotin	10

@@ -1,0 +1,99 @@
+11139607	biological_process	transcription, DNA-templated	1
+11139607	cellular_component	obsolete protein	1
+11139607	chemical	RNA polymerase sigma 70	6
+11139607	chemical	Cyclic AMP Receptor Protein	1
+11139607	chemical	Codon, Initiator	1
+11139607	disease	Pneumonia	2
+11139607	gene/protein	RNA polymerase sigma factor RpoD	210
+11139607	gene/protein	RNA polymerase sigma factor SigA	18
+11139607	gene/protein	cAMP-activated global transcriptional regulator CRP	16
+11139607	gene/protein	Cysteine and glycine-rich protein 1	12
+11139607	gene/protein	CRP-like cAMP-activated global transcriptional regulator	6
+11139607	gene/protein	Cysteine and glycine-rich protein 2	6
+11139607	gene/protein	Cysteine-rich protein 2	5
+11139607	gene/protein	RNA polymerase sigma factor RpoH (Escherichia coli K-12)	4
+11139607	gene/protein	RNA polymerase sigma factor RpoH	4
+11139607	gene/protein	Cysteine-rich protein 1	4
+11139607	gene/protein	Keratin, type I cytoskeletal 12	4
+11139607	gene/protein	chromosomal replication initiator protein DnaA (Aeromonas hydrophila subsp. hydrophila ATCC 7966)	2
+11139607	gene/protein	chromosomal replication initiator protein DnaA (Staphylococcus aureus subsp. aureus NCTC 8325)	2
+11139607	gene/protein	chromosomal replication initiator protein DnaA (Clostridium botulinum A str. Hall)	2
+11139607	gene/protein	chromosomal replication initiator protein DnaA	2
+11139607	gene/protein	chromosomal replication initiator protein DnaA (Bacillus subtilis subsp. subtilis str. 168)	2
+11139607	gene/protein	chromosomal replication initiator protein DnaA (Escherichia coli K-12)	2
+11139607	gene/protein	chromosomal replication initiator protein DnaA (Thermotoga maritima MSB8)	2
+11139607	gene/protein	catabolite gene activator	2
+11139607	gene/protein	Cyclic AMP receptor protein	2
+11139607	gene/protein	C-reactive protein	2
+11139607	gene/protein	cysteine and glycine-rich protein 1	2
+11139607	gene/protein	Large cysteine-rich periplasmic protein OmcB	2
+11139607	gene/protein	C-reactive protein (rat)	1
+11139607	gene/protein	RNA silencing suppressor	1
+11139607	gene/protein	LIM domain-containing protein E (Dictyostelium discoideum)	1
+11139607	gene/protein	C-reactive protein (mouse)	1
+11139607	gene/protein	cyclin-dependent kinase 5 homolog (Dictyostelium discoideum)	1
+11139607	gene/protein	C-reactive protein (human)	1
+11139607	gene/protein	Submandibular gland secretory Glx-rich protein CB	1
+11139607	gene/protein	cAMP-activated global transcriptional regulator CRP (Escherichia coli K-12)	1
+11139607	gene/protein	drosomycin (fruit fly)	1
+11139607	gene/protein	cAMP-activated global transcriptional regulator CRP (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	1
+11139607	gene/protein	mediator of RNA polymerase II transcription subunit 12 (Arabidopsis thaliana)	1
+11139607	gene/protein	nucleoplasmin-like protein (fruit fly)	1
+11139607	gene/protein	cysteine and glycine-rich protein 1 (mouse)	1
+11139607	gene/protein	Cystatin-related protein 1	1
+11139607	gene/protein	CCAAT/enhancer-binding protein epsilon (rat)	1
+11139607	gene/protein	pentatricopeptide repeat-containing protein At5g42310, chloroplastic (Arabidopsis thaliana)	1
+11139607	gene/protein	cysteine-rich protein 1	1
+11139607	gene/protein	inducible T-cell costimulator	1
+11139607	gene/protein	cruciform DNA-recognizing protein 1 (yeast)	1
+11139607	gene/protein	cystatin-related protein 1 (rat)	1
+11139607	gene/protein	60S ribosomal protein L28	1
+11139607	gene/protein	cysteine-rich protein 1 (human)	1
+11139607	gene/protein	Inducible T-cell costimulator	1
+11139607	gene/protein	cysteine-rich protein 2	1
+11139607	gene/protein	cysteine-rich protein 2 (human)	1
+11139607	gene/protein	cysteine-rich protein 2 (mouse)	1
+11139607	gene/protein	cystatin-related protein 2 (rat)	1
+11139607	gene/protein	cysteine and glycine-rich protein 2	1
+11139607	gene/protein	40S ribosomal protein S14	1
+11139607	gene/protein	cysteine-rich protein 2 (rat)	1
+11139607	gene/protein	CCAAT/enhancer-binding protein beta (rat)	1
+11139607	gene/protein	HTH-type transcriptional repressor CytR (Escherichia coli K-12)	1
+11139607	gene/protein	HTH-type transcriptional repressor CytR	1
+11139607	gene/protein	secreted and transmembrane protein 1	1
+11139607	gene/protein	secreted and transmembrane protein 1 (human)	1
+11139607	gene/protein	secreted and transmembrane protein 1b	1
+11139607	gene/protein	keratin, type I cytoskeletal 12	1
+11139607	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+11139607	organism	bacterium IFAM-3211	6
+11139607	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	6
+11139607	organism	bacterium IFAM-3215	6
+11139607	organism	bacterium IFAM-2074	6
+11139607	organism	bacterium IFAM-3359	6
+11139607	organism	bacterium	6
+11139607	organism	bacterium IFAM-1493	6
+11139607	organism	Yersinia frederiksenii	2
+11139607	organism	Shigella flexneri	2
+11139607	organism	Salmonella enterica	2
+11139607	organism	Citrobacter freundii	2
+11139607	organism	Proteus	1
+11139607	organism	Mirabilis	1
+11139607	organism	Escherichia coli K12	1
+11139607	organism	Enterobacter	1
+11139607	organism	Klebsiella	1
+11139607	sequence	promoter	11
+11139607	sequence	region	3
+11139607	sequence	regulatory_region	2
+11139607	sequence	regulatory_region_variant	2
+11139607	sequence	polypeptide	1
+11139607	sequence	gene	1
+11139607	sequence	5KB_upstream_variant	1
+11139607	sequence	start_codon	1
+11139607	cell_line	CRP-1	1
+11139607	cell_line	CRP-2	1
+11139607	cell_line	CRP2	1
+11139607	cell_line	K12 [Mouse osteosarcoma]	1
+11139607	cell_line	K12-72.1	1
+11139607	organ/tissue	cloaca	1
+11139607	organ/tissue	anal canal	1
+11139607	organ/tissue	embryonic cloaca	1

@@ -1,0 +1,9 @@
+30738957	biological_process	immune response	1
+30738957	chemical	antigen	3
+30738957	chemical	base	1
+30738957	disease	immune system	2
+30738957	disease	autoimmune disease	2
+30738957	sequence	base	1
+30738957	cell	dendritic cell	4
+30738957	cell	t cell	3
+30738957	organ/tissue	immune system	1

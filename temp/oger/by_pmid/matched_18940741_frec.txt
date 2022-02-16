@@ -1,0 +1,17 @@
+18940741	cellular_component	protein	2
+18940741	chemical	HPA	12
+18940741	chemical	protein	4
+18940741	chemical	proteins	3
+18940741	chemical	biomarker	1
+18940741	disease	uterine cancer	4
+18940741	gene/protein	HPA	12
+18940741	gene/protein	PIKE	10
+18940741	gene/protein	human protein	1
+18940741	gene/protein	protein	1
+18940741	organism	PIKE	2
+18940741	organism	human	1
+18940741	sequence	protein	2
+18940741	cell_line	HPA	3
+18940741	organ/tissue	cervix	2
+18940741	organ/tissue	Atlas	1
+18940741	organ/tissue	tissue	1

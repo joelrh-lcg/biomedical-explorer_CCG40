@@ -1,0 +1,28 @@
+34745182	biological_process	biofilm formation	2
+34745182	biological_process	synthesis	1
+34745182	biological_process	signaling	1
+34745182	cellular_component	dgc	2
+34745182	cellular_component	extracellular	1
+34745182	cellular_component	protein	1
+34745182	chemical	cdigmp	9
+34745182	chemical	indoleacetic acid	3
+34745182	chemical	nitrogen	2
+34745182	chemical	diguanylate cyclase	2
+34745182	chemical	protein	2
+34745182	chemical	phytohormone	1
+34745182	chemical	extracellular polymeric substance	1
+34745182	chemical	modulator	1
+34745182	chemical	exopolysaccharide	1
+34745182	gene/protein	dgc	86
+34745182	gene/protein	bis	3
+34745182	gene/protein	phosphodiesterase	2
+34745182	gene/protein	protein	1
+34745182	molecular_function	bis	1
+34745182	molecular_function	phosphodiesterase	1
+34745182	organism	bacterium	7
+34745182	organism	wheat	4
+34745182	sequence	deletion	1
+34745182	sequence	protein	1
+34745182	organ/tissue	matrix	1
+34745182	clinical_drug	wheat	4
+34745182	clinical_drug	nitrogen	1

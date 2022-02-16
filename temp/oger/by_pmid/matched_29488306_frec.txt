@@ -1,0 +1,29 @@
+29488306	biological_process	biofilm formation	2
+29488306	biological_process	behaviour	2
+29488306	biological_process	uptake	2
+29488306	biological_process	nodulation	1
+29488306	chemical	2tridecanone	3
+29488306	chemical	synthetase	1
+29488306	chemical	lipid	1
+29488306	chemical	tridecanone 2	1
+29488306	chemical	insecticide	1
+29488306	chemical	iron	1
+29488306	disease	disease	2
+29488306	gene/protein	fadd	21
+29488306	gene/protein	tdc	20
+29488306	gene/protein	pure	5
+29488306	gene/protein	lack	1
+29488306	molecular_function	synthetase activity	1
+29488306	molecular_function	pure	1
+29488306	organism	bacterium	14
+29488306	organism	Sinorhizobium meliloti	2
+29488306	organism	alfalfa	2
+29488306	organism	tomato	2
+29488306	sequence	signal	2
+29488306	sequence	translocation	1
+29488306	sequence	gene	1
+29488306	organ/tissue	animal	2
+29488306	organ/tissue	tissue	1
+29488306	clinical_drug	iron	1
+29488306	clinical_drug	alfalfa	1
+29488306	clinical_drug	tomato	1

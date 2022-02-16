@@ -1,0 +1,12 @@
+31605487	cellular_component	sex chromosome	6
+31605487	cellular_component	chromosome	2
+31605487	chemical	male	3
+31605487	organism	placental mammal	2
+31605487	organism	platypus	2
+31605487	organism	mammal	1
+31605487	sequence	chromosome	8
+31605487	sequence	mutation	3
+31605487	sequence	substitution	2
+31605487	sequence	signature	2
+31605487	sequence	sequence	1
+31605487	organ/tissue	male	3

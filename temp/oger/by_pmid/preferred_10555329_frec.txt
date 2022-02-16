@@ -1,0 +1,21 @@
+10555329	chemical	Melanins	2
+10555329	chemical	vinyl polysiloxane	2
+10555329	chemical	ribosomal RNA	1
+10555329	chemical	Melanin	1
+10555329	gene/protein	Protein BEAN1	4
+10555329	gene/protein	protein BEAN	2
+10555329	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+10555329	organism	Mimosa	2
+10555329	organism	Rhizobium etli	2
+10555329	organism	Phaseolus	2
+10555329	organism	unidentified plasmid	1
+10555329	organism	Rhizobium	1
+10555329	organism	Leucaena leucocephala	1
+10555329	sequence	RFLP_fragment	1
+10555329	sequence	rRNA_gene	1
+10555329	sequence	plasmid	1
+10555329	sequence	gene	1
+10555329	sequence	region	1
+10555329	cell_line	R1192	2
+10555329	organ/tissue	cerebellum vermis lobule X	2
+10555329	organ/tissue	germinal center	2

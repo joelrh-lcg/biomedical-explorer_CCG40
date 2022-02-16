@@ -1,0 +1,22 @@
+3309138	biological_process	glutamine catabolic process	1
+3309138	chemical	Glutaminase	9
+3309138	chemical	Pyruvic Acid	6
+3309138	chemical	pyruvate	3
+3309138	chemical	Glutamine	2
+3309138	chemical	Ketoglutaric Acids	2
+3309138	chemical	glutamine	1
+3309138	chemical	L-glutamine	1
+3309138	chemical	2-oxo monocarboxylic acid	1
+3309138	chemical	2-oxoglutarate(2-)	1
+3309138	chemical	physiological role	1
+3309138	gene/protein	Glutaminase	1064
+3309138	gene/protein	Thermolabile glutaminase	2
+3309138	gene/protein	Glutaminase A	2
+3309138	molecular_function	glutaminase activity	3
+3309138	organism	Saccharomyces cerevisiae	2
+3309138	sequence	glutamine	1
+3309138	sequence	wild_type	1
+3309138	clinical_drug	Pyruvate	3
+3309138	clinical_drug	Glutamine	1
+3309138	clinical_drug	saccharomyces cerevisiae allergenic extract	1
+3309138	clinical_drug	Saccharomyces cerevisiae	1

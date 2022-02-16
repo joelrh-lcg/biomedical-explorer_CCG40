@@ -1,0 +1,7 @@
+2352433	biological_process	cell differentiation	3
+2352433	chemical	dioxygen	9
+2352433	chemical	base	1
+2352433	sequence	base	1
+2352433	sequence	transition	1
+2352433	organ/tissue	organism	1
+2352433	molecular_process	reduction	1

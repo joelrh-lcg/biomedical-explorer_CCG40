@@ -1,0 +1,52 @@
+18398195	chemical	sodium chloride	2
+18398195	chemical	RNA, Ribosomal, 16S	2
+18398195	chemical	fatty acid	1
+18398195	chemical	tetradecanoic acid	1
+18398195	chemical	hexadecanoic acid	1
+18398195	chemical	base	1
+18398195	chemical	ribosomal RNA	1
+18398195	gene/protein	Anti-Muellerian hormone type-2 receptor	1
+18398195	gene/protein	Beta-galactoside-binding lectin	1
+18398195	gene/protein	16 kDa beta-galactoside-binding lectin	1
+18398195	gene/protein	protein RecA (Brucella abortus bv. 1 str. 9-941)	1
+18398195	gene/protein	protein RecA (Mycobacterium tuberculosis H37Rv)	1
+18398195	gene/protein	DNA repair protein RAD51 homolog 1 (mouse)	1
+18398195	gene/protein	protein RecA	1
+18398195	gene/protein	DNA repair protein RAD51 homolog 1	1
+18398195	gene/protein	protein RecA (Brucella suis 1330)	1
+18398195	gene/protein	mitochondrial DNA repair protein recA homolog (Dictyostelium discoideum)	1
+18398195	gene/protein	protein RecA (Escherichia coli K-12)	1
+18398195	gene/protein	protein RecA (Brucella canis ATCC 23365)	1
+18398195	gene/protein	DNA repair protein RAD51 homolog 1 (human)	1
+18398195	gene/protein	protein RecA (Brucella suis ATCC 23445)	1
+18398195	gene/protein	protein RecA (Brucella melitensis ATCC 23457)	1
+18398195	gene/protein	DNA repair protein recA homolog 1, chloroplastic (Arabidopsis thaliana)	1
+18398195	gene/protein	protein RecA (Brucella abortus 2308)	1
+18398195	gene/protein	cardiolipin synthase A	1
+18398195	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+18398195	organism	Mycoplasma iners	5
+18398195	organism	Chlorobaculum macestae	5
+18398195	organism	Bacillus coahuilensis	4
+18398195	organism	Bacillus	3
+18398195	organism	Bacillus aquimaris	2
+18398195	organism	Bacillus vietnamensis	2
+18398195	organism	bacterium IFAM-3211	1
+18398195	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+18398195	organism	bacterium IFAM-3215	1
+18398195	organism	bacterium IFAM-2074	1
+18398195	organism	bacterium IFAM-3359	1
+18398195	organism	bacterium	1
+18398195	organism	bacterium IFAM-1493	1
+18398195	sequence	region	3
+18398195	sequence	rRNA_16S	2
+18398195	sequence	genomic_DNA	1
+18398195	sequence	base	1
+18398195	sequence	gene	1
+18398195	sequence	rRNA_gene	1
+18398195	sequence	rRNA	1
+18398195	sequence	operon	1
+18398195	cell_line	C14	1
+18398195	cell_line	C16	1
+18398195	cell_line	RLC-18	1
+18398195	cell_line	CCCL-4	1
+18398195	cell_line	RECA	1

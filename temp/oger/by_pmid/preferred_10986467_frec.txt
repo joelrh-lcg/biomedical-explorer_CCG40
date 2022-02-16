@@ -1,0 +1,11 @@
+10986467	chemical	deoxyhemoglobin	1
+10986467	chemical	hemoglobin	1
+10986467	chemical	Hemoglobins	1
+10986467	chemical	Plant Proteins	1
+10986467	chemical	Leghemoglobin	1
+10986467	chemical	leghemoglobin	1
+10986467	gene/protein	Leghemoglobin	5
+10986467	gene/protein	Group 1 truncated hemoglobin	2
+10986467	gene/protein	Group 1 truncated hemoglobin GlbN	1
+10986467	gene/protein	Group 1 truncated hemoglobin trHbN	1
+10986467	organ/tissue	tissue	1

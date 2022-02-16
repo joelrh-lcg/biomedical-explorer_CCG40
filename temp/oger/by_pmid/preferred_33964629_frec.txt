@@ -1,0 +1,48 @@
+33964629	biological_process	fatty acid catabolic process	1
+33964629	biological_process	regulation of lipid metabolic process	1
+33964629	biological_process	biological regulation	1
+33964629	biological_process	unsaturated fatty acid metabolic process	1
+33964629	cellular_component	membrane	1
+33964629	chemical	cyclopropane	6
+33964629	chemical	unsaturated fatty acid	4
+33964629	chemical	fatty acid	3
+33964629	chemical	lipid	1
+33964629	chemical	Glycogen Synthase	1
+33964629	gene/protein	Streptopain	7
+33964629	gene/protein	serine/threonine-protein phosphatase 2A regulatory subunit psrA (Dictyostelium discoideum)	6
+33964629	gene/protein	RNA polymerase sigma factor RpoS (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	2
+33964629	gene/protein	RNA polymerase sigma factor RpoS	2
+33964629	gene/protein	RNA polymerase sigma factor RpoS (Escherichia coli K-12)	2
+33964629	gene/protein	minor histocompatibility antigen H13	1
+33964629	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+33964629	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+33964629	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+33964629	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+33964629	gene/protein	minor histocompatibility antigen H13 (human)	1
+33964629	gene/protein	sphingosine-1-phosphate phosphatase	1
+33964629	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+33964629	gene/protein	SD07518p (fruit fly)	1
+33964629	gene/protein	(-)-alpha-pinene synthase, chloroplastic	1
+33964629	gene/protein	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase (Pseudomonas aeruginosa PAO1)	1
+33964629	gene/protein	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase (Escherichia coli K-12)	1
+33964629	gene/protein	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase	1
+33964629	molecular_function	binding	2
+33964629	molecular_function	obsolete signal peptide peptidase activity	1
+33964629	molecular_function	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase activity	1
+33964629	organism	Pseudomonas	2
+33964629	organism	bacterium IFAM-3211	2
+33964629	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+33964629	organism	bacterium IFAM-3215	2
+33964629	organism	bacterium IFAM-2074	2
+33964629	organism	bacterium IFAM-3359	2
+33964629	organism	bacterium	2
+33964629	organism	bacterium IFAM-1493	2
+33964629	organism	Azotobacter	1
+33964629	sequence	gene	2
+33964629	sequence	operon	2
+33964629	sequence	non_covalent_binding_site	2
+33964629	sequence	polypeptide_binding_motif	1
+33964629	sequence	promoter_region	1
+33964629	sequence	binding_site	1
+33964629	organ/tissue	membrane organ	1
+33964629	organ/tissue	membranous layer	1

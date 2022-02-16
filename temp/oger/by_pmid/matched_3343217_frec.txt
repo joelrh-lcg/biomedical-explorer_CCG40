@@ -1,0 +1,8 @@
+3343217	biological_process	colony morphology	2
+3343217	chemical	probe	2
+3343217	organism	Rhizobium	2
+3343217	organism	rhizobium	1
+3343217	organism	plasmid	1
+3343217	sequence	probe	2
+3343217	sequence	plasmid	1
+3343217	sequence	cosmid	1

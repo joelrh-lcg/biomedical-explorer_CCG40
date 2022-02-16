@@ -1,0 +1,22 @@
+11741857	biological_process	biosynthetic process	1
+11741857	cellular_component	chromosome	2
+11741857	chemical	DNA Transposable Elements	1
+11741857	gene/protein	Reticulon-4 receptor	8
+11741857	gene/protein	reticulon-4 receptor	2
+11741857	gene/protein	antigen 43 (Escherichia coli K-12)	1
+11741857	organism	Rhizobium sp. IRc78	1
+11741857	organism	Rhizobium sp.	1
+11741857	organism	Rhizobium sp. SIN-1	1
+11741857	organism	Ensifer sp. BR816	1
+11741857	organism	Rhizobium sp. MPIK3030	1
+11741857	organism	Rhizobium sp. N33	1
+11741857	organism	unidentified plasmid	1
+11741857	organism	unidentified insertion sequence	1
+11741857	organism	Rhizobium	1
+11741857	sequence	genome	6
+11741857	sequence	replicon	5
+11741857	sequence	chromosome	2
+11741857	sequence	sequence_variant_obs	1
+11741857	sequence	plasmid	1
+11741857	sequence	insertion_sequence	1
+11741857	organ/tissue	organ	1

@@ -1,0 +1,292 @@
+30787915	biological_process	pathogenesis	2
+30787915	biological_process	obsolete virulence	2
+30787915	biological_process	viral process	2
+30787915	biological_process	biosynthetic process	1
+30787915	cellular_component	chromosome	1
+30787915	cellular_component	pilus	1
+30787915	chemical	Anti-Bacterial Agents	6
+30787915	chemical	4-Aminobenzoic Acid	4
+30787915	chemical	antimicrobial agent	3
+30787915	chemical	4-aminobenzoic acid	2
+30787915	chemical	carbapenem	1
+30787915	chemical	oxacillinase	1
+30787915	chemical	diphenylmethane-4,4'-diisocyanate	1
+30787915	chemical	cluster	1
+30787915	chemical	lipooligosaccharide	1
+30787915	chemical	Phospholipase D	1
+30787915	chemical	virulence factor	1
+30787915	disease	Infections	4
+30787915	disease	Leukemia	2
+30787915	disease	Disease Susceptibility	2
+30787915	disease	Aphakia, congenital primary	1
+30787915	gene/protein	Phospholipase D	11
+30787915	gene/protein	Beta-lactamase OXA-9	2
+30787915	gene/protein	Inactive C-alpha-formylglycine-generating enzyme 2	2
+30787915	gene/protein	aminodeoxychorismate synthase component 2 (Escherichia coli K-12)	2
+30787915	gene/protein	aminodeoxychorismate synthase component 2	2
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB1ai	2
+30787915	gene/protein	Dermonecrotic toxin LspiSicTox-betaIII1	2
+30787915	gene/protein	protein STRUBBELIG (Arabidopsis thaliana)	1
+30787915	gene/protein	kinesin-like protein subito (fruit fly)	1
+30787915	gene/protein	carboxypeptidase A1 (human)	1
+30787915	gene/protein	F-actin-capping protein subunit alpha (fruit fly)	1
+30787915	gene/protein	carboxypeptidase A1 (cow)	1
+30787915	gene/protein	carboxypeptidase A1	1
+30787915	gene/protein	N-carbamoylputrescine amidase (Arabidopsis thaliana)	1
+30787915	gene/protein	carboxypeptidase A1 (rat)	1
+30787915	gene/protein	carboxypeptidase B	1
+30787915	gene/protein	carboxypeptidase B (rat)	1
+30787915	gene/protein	carboxypeptidase B (pig)	1
+30787915	gene/protein	carboxypeptidase B (human)	1
+30787915	gene/protein	F-actin-capping protein subunit beta (fruit fly)	1
+30787915	gene/protein	Mitochondrial inner membrane protein oxa1-1	1
+30787915	gene/protein	mitochondrial inner membrane protein oxa1-1 (Schizosaccharomyces pombe 972h-)	1
+30787915	gene/protein	Venom serine proteinase-like protein	1
+30787915	gene/protein	transcription factor Sp1	1
+30787915	gene/protein	DAN domain family member 5 (mouse)	1
+30787915	gene/protein	Sex-specific storage protein 1	1
+30787915	gene/protein	transcription factor Sp1 (rat)	1
+30787915	gene/protein	Sex-specific storage-protein 1	1
+30787915	gene/protein	transcription factor Sp1 (mouse)	1
+30787915	gene/protein	transcription factor Sp1 (human)	1
+30787915	gene/protein	E3 ubiquitin-protein ligase SP1 (Arabidopsis thaliana)	1
+30787915	gene/protein	DAN domain family member 5	1
+30787915	gene/protein	DAN domain family member 5 (human)	1
+30787915	gene/protein	Dermonecrotic toxin LlSicTox-alphaIV2i	1
+30787915	gene/protein	Dermonecrotic toxin LapSicTox-alphaIB1b2	1
+30787915	gene/protein	Dermonecrotic toxin StSicTox-betaIC1	1
+30787915	gene/protein	Dermonecrotic toxin LsaSicTox-alphaIB1aiii	1
+30787915	gene/protein	Dermonecrotic toxin LdSicTox-alphaIB1avi	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB1bxiii	1
+30787915	gene/protein	Dermonecrotic toxin LspaSicTox-alphaIA2ii	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA2avi	1
+30787915	gene/protein	Dermonecrotic toxin LcsSicTox-betaIC1	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB1bvi	1
+30787915	gene/protein	Dermonecrotic toxin LsaSicTox-alphaIB1avi	1
+30787915	gene/protein	Dermonecrotic toxin LarSicTox-alphaIV1	1
+30787915	gene/protein	Dermonecrotic toxin SpeSicTox-betaIB4	1
+30787915	gene/protein	Dermonecrotic toxin LsaSicTox-alphaIB2iii	1
+30787915	gene/protein	Dermonecrotic toxin LapSicTox-alphaIB1aii	1
+30787915	gene/protein	Dermonecrotic toxin LarSicTox-alphaIB2a	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA2aii	1
+30787915	gene/protein	Dermonecrotic toxin LlSicTox-alphaIV1i	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB2ii	1
+30787915	gene/protein	Dermonecrotic toxin SpeSicTox-betaIIA2iii	1
+30787915	gene/protein	Dermonecrotic toxin LspaSicTox-alphaIA1i	1
+30787915	gene/protein	Dermonecrotic toxin LrSicTox-alphaIA1ii	1
+30787915	gene/protein	Dermonecrotic toxin LbSicTox-alphaIB1a	1
+30787915	gene/protein	Dermonecrotic toxin LruSicTox-alphaIC1b	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB1biii	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA2avii	1
+30787915	gene/protein	Dermonecrotic toxin LdSicTox-alpha-1	1
+30787915	gene/protein	Dermonecrotic toxin LspiSicTox-betaIE1i	1
+30787915	gene/protein	Dermonecrotic toxin LgSicTox-alphaIA1	1
+30787915	gene/protein	Dermonecrotic toxin LiSicTox-betaID1	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA1i	1
+30787915	gene/protein	Dermonecrotic toxin LvSicTox-alphaIC1bi	1
+30787915	gene/protein	Dermonecrotic toxin LiSicTox-betaIA1ii	1
+30787915	gene/protein	Dermonecrotic toxin LarSicTox-alphaIB1aiv	1
+30787915	gene/protein	Dermonecrotic toxin LapSicTox-alphaIB1c	1
+30787915	gene/protein	Dermonecrotic toxin LiSicTox-alphaIA1bi	1
+30787915	gene/protein	Dermonecrotic toxin SaSicTox-betaIIB1	1
+30787915	gene/protein	Dermonecrotic toxin LbSicTox-alphaIB1b	1
+30787915	gene/protein	Dermonecrotic toxin SpeSicTox-betaIB1b	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA2bii	1
+30787915	gene/protein	Dermonecrotic toxin LlSicTox-alphaIV3	1
+30787915	gene/protein	Dermonecrotic toxin LsaSicTox-alphaIB1aii	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA2aiv	1
+30787915	gene/protein	Dermonecrotic toxin SpeSicTox-betaIB1a	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB1bxiv	1
+30787915	gene/protein	Dermonecrotic toxin LruSicTox-alphaIC1a	1
+30787915	gene/protein	Dermonecrotic toxin LarSicTox-alphaIB2bii	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA2aviii	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA2biii	1
+30787915	gene/protein	Dermonecrotic toxin LspiSicTox-betaIE4i	1
+30787915	gene/protein	Dermonecrotic toxin LamSicTox-alphaIC1	1
+30787915	gene/protein	Dermonecrotic toxin LsaSicTox-alphaIB1bii	1
+30787915	gene/protein	Dermonecrotic toxin SpeSicTox-betaIIA3i	1
+30787915	gene/protein	Dermonecrotic toxin LsaSicTox-alphaIB1aiv	1
+30787915	gene/protein	Dermonecrotic toxin LdSicTox-alphaIB1aiv	1
+30787915	gene/protein	Dermonecrotic toxin LiSicTox-alphaII1	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB1aii	1
+30787915	gene/protein	Dermonecrotic toxin LgSicTox-beta-LOXN3	1
+30787915	gene/protein	Dermonecrotic toxin LapSicTox-alphaIB2	1
+30787915	gene/protein	Dermonecrotic toxin LspiSicTox-betaIE3ii	1
+30787915	gene/protein	Dermonecrotic toxin LarSicTox-alphaIB2bi	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA2biv	1
+30787915	gene/protein	Dermonecrotic toxin LvSicTox-alphaIC1bv	1
+30787915	gene/protein	Dermonecrotic toxin LdSicTox-alphaIB3avi	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA2bi	1
+30787915	gene/protein	Dermonecrotic toxin LapSicTox-alphaIB1aiii	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB1aiii	1
+30787915	gene/protein	Dermonecrotic toxin LspaSicTox-alphaIA1iii	1
+30787915	gene/protein	Dermonecrotic toxin LlSicTox-alphaIV2ii	1
+30787915	gene/protein	Dermonecrotic toxin LgSicTox-LOXN5	1
+30787915	gene/protein	Dermonecrotic toxin LlSicTox-alphaIV2iv	1
+30787915	gene/protein	Dermonecrotic toxin LiSicTox-alphaIA2aiii	1
+30787915	gene/protein	Dermonecrotic toxin LdSicTox-alphaIB1aiii	1
+30787915	gene/protein	Dermonecrotic toxin SpeSicTox-betaIB2b	1
+30787915	gene/protein	Dermonecrotic toxin LvSicTox-alphaII1	1
+30787915	gene/protein	Dermonecrotic toxin LsaSicTox-alphaIB1ai	1
+30787915	gene/protein	Dermonecrotic toxin Hl-PLD1	1
+30787915	gene/protein	Dermonecrotic toxin LarSicTox-alphaVII1	1
+30787915	gene/protein	Dermonecrotic toxin LdSicTox-alphaIB2	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIV1i	1
+30787915	gene/protein	Dermonecrotic toxin LrSicTox-alphaI-1	1
+30787915	gene/protein	Dermonecrotic toxin SpeSicTox-betaIIA2iv	1
+30787915	gene/protein	Dermonecrotic toxin LlSicTox-alphaIV2iii	1
+30787915	gene/protein	Dermonecrotic toxin SpeSicTox-betaIIA1	1
+30787915	gene/protein	Dermonecrotic toxin LvSicTox-alphaIC1aii	1
+30787915	gene/protein	Dermonecrotic toxin LiSicTox-betaIA1i	1
+30787915	gene/protein	Dermonecrotic toxin LruSicTox-alphaIC1c	1
+30787915	gene/protein	Dermonecrotic toxin LgSicTox-beta-LOXN1/LOXN7	1
+30787915	gene/protein	Dermonecrotic toxin LspaSicTox-alphaII1	1
+30787915	gene/protein	Dermonecrotic toxin SpeSicTox-betaIF1	1
+30787915	gene/protein	Dermonecrotic toxin LarSicTox-alphaIB1c	1
+30787915	gene/protein	Dermonecrotic toxin SpeSicTox-betaIIA2v	1
+30787915	gene/protein	Dermonecrotic toxin LapSicTox-alphaIB1ai	1
+30787915	gene/protein	Dermonecrotic toxin LsaSicTox-alphaIB2ii	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA2ai	1
+30787915	gene/protein	Dermonecrotic toxin LdSicTox-alphaIB1aii	1
+30787915	gene/protein	Dermonecrotic toxin LsaSicTox-alphaIB1bi	1
+30787915	gene/protein	Dermonecrotic toxin LlSicTox-alphaIII3iii	1
+30787915	gene/protein	Dermonecrotic toxin LlSicTox-alphaIV1ii	1
+30787915	gene/protein	Dermonecrotic toxin LamSicTox-alphaIV1ii	1
+30787915	gene/protein	Dermonecrotic toxin LlSicTox-alphaIII1i	1
+30787915	gene/protein	Dermonecrotic toxin LiSicTox-alphaIA1bii	1
+30787915	gene/protein	Dermonecrotic toxin SpeSicTox-betaIIA2i	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB1bx	1
+30787915	gene/protein	Dermonecrotic toxin LgSicTox-beta-LOXN8	1
+30787915	gene/protein	Dermonecrotic toxin LspiSicTox-betaIE2iii	1
+30787915	gene/protein	Dermonecrotic toxin LrSicTox-alphaIA1i	1
+30787915	gene/protein	Dermonecrotic toxin LarSicTox-alphaII1	1
+30787915	gene/protein	Dermonecrotic toxin LgSicTox-LOXN6	1
+30787915	gene/protein	Dermonecrotic toxin LdSicTox-alphaIB3av	1
+30787915	gene/protein	Dermonecrotic toxin LruSicTox-alphaIV1	1
+30787915	gene/protein	Dermonecrotic toxin StSicTox-betaIF1	1
+30787915	gene/protein	Dermonecrotic toxin LamSicTox-alphaIV1iii	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB1bii	1
+30787915	gene/protein	Dermonecrotic toxin LiSicTox-alphaIA2bii	1
+30787915	gene/protein	Dermonecrotic toxin LspaSicTox-alphaIA2iv	1
+30787915	gene/protein	Dermonecrotic toxin SpaSicTox-betaIIA3	1
+30787915	gene/protein	Dermonecrotic toxin LlSicTox-alphaIII-1	1
+30787915	gene/protein	Dermonecrotic toxin Ls4SicTox-alphaIII1ii	1
+30787915	gene/protein	Dermonecrotic toxin SpaSicTox-betaIIA2	1
+30787915	gene/protein	Dermonecrotic toxin LiSicTox-alphaIVA1	1
+30787915	gene/protein	Dermonecrotic toxin LlSicTox-alphaIII2	1
+30787915	gene/protein	Dermonecrotic toxin LgSicTox-alphaI-1	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB1bix	1
+30787915	gene/protein	Dermonecrotic toxin LvSicTox-alphaIC1biv	1
+30787915	gene/protein	Dermonecrotic toxin LspiSicTox-betaIE2ii	1
+30787915	gene/protein	Dermonecrotic toxin LdSicTox-alphaIB3aii	1
+30787915	gene/protein	Dermonecrotic toxin LarSicTox-alphaIII1	1
+30787915	gene/protein	Dermonecrotic toxin LdSicTox-alphaIB3b	1
+30787915	gene/protein	Dermonecrotic toxin SpeSicTox-betaIB3	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA2aiii	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB1bi	1
+30787915	gene/protein	Dermonecrotic toxin LvSicTox-alphaIC1bii	1
+30787915	gene/protein	Dermonecrotic toxin LlSicTox-alphaIII3ii	1
+30787915	gene/protein	Dermonecrotic toxin LgSicTox-beta-LOXN4	1
+30787915	gene/protein	Dermonecrotic toxin LlSicTox-alphaIII3i	1
+30787915	gene/protein	Dermonecrotic toxin LvSicTox-alphaIC1ai	1
+30787915	gene/protein	Dermonecrotic toxin LiSicTox-alphaV1	1
+30787915	gene/protein	Dermonecrotic toxin LgSicTox-alphaI-Loxn-A	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaVI1i	1
+30787915	gene/protein	Dermonecrotic toxin LamSicTox-alphaIV1i	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB1bv	1
+30787915	gene/protein	Dermonecrotic toxin LspiSicTox-betaIE2i	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB1bxii	1
+30787915	gene/protein	Dermonecrotic toxin LapSicTox-alphaIB1bi	1
+30787915	gene/protein	Dermonecrotic toxin LarSicTox-alphaIB1aiii	1
+30787915	gene/protein	Dermonecrotic toxin LafSicTox-betaIE1	1
+30787915	gene/protein	Dermonecrotic toxin LsaSicTox-alphaIB2i	1
+30787915	gene/protein	Dermonecrotic toxin SpeSicTox-betaIIA3ii	1
+30787915	gene/protein	Dermonecrotic toxin LiSicTox-alphaIA1a	1
+30787915	gene/protein	Dermonecrotic toxin LspaSicTox-alphaIA2i	1
+30787915	gene/protein	Dermonecrotic toxin LarSicTox-alphaIB1b	1
+30787915	gene/protein	Dermonecrotic toxin LapSicTox-alphaII1	1
+30787915	gene/protein	Dermonecrotic toxin LspaSicTox-alphaIA2iii	1
+30787915	gene/protein	Dermonecrotic toxin LapSicTox-alphaIB1b3	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB2i	1
+30787915	gene/protein	Dermonecrotic toxin LvSicTox-alphaIC1biii	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIV1ii	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB1bvii	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA1ii	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA1iv	1
+30787915	gene/protein	Dermonecrotic toxin LvSicTox-alphaIC1aiii	1
+30787915	gene/protein	Dermonecrotic toxin LiSicTox-alphaIA2aii	1
+30787915	gene/protein	Dermonecrotic toxin LiSicTox-alphaII2	1
+30787915	gene/protein	Dermonecrotic toxin LafSicTox-betaIE2	1
+30787915	gene/protein	Dermonecrotic toxin LapSicTox-alphaIB1aiv	1
+30787915	gene/protein	Dermonecrotic toxin LdSicTox-alphaIB3ai	1
+30787915	gene/protein	Dermonecrotic toxin LgSicTox-beta-LOXN2	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA2bv	1
+30787915	gene/protein	Dermonecrotic toxin LspaSicTox-alphaIA1ii	1
+30787915	gene/protein	Dermonecrotic toxin StSicTox-betaIB1i	1
+30787915	gene/protein	Dermonecrotic toxin LarSicTox-alphaIB1ai	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaVI1ii	1
+30787915	gene/protein	Dermonecrotic toxin LiSicTox-alphaI-1	1
+30787915	gene/protein	Dermonecrotic toxin LiSicTox-alphaIA2bi	1
+30787915	gene/protein	Dermonecrotic toxin SpeSicTox-betaIB2a	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA2bvi	1
+30787915	gene/protein	Dermonecrotic toxin LlSicTox-alphaIII1ii	1
+30787915	gene/protein	Dermonecrotic toxin LdSicTox-alphaIB3aiv	1
+30787915	gene/protein	Dermonecrotic toxin LdSicTox-alphaIB1bii	1
+30787915	gene/protein	Dermonecrotic toxin LarSicTox-betaID1	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB1biv	1
+30787915	gene/protein	Dermonecrotic toxin LdSicTox-alphaIB1av	1
+30787915	gene/protein	Dermonecrotic toxin LrSicTox-alphaIB1	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIF1	1
+30787915	gene/protein	Dermonecrotic toxin Ls4SicTox-alphaIII1i	1
+30787915	gene/protein	Dermonecrotic toxin LspiSicTox-betaIE4ii	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA1iii	1
+30787915	gene/protein	Dermonecrotic toxin LdSicTox-alphaIB1ai	1
+30787915	gene/protein	Dermonecrotic toxin LiSicTox-alphaIA2ai	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIV2	1
+30787915	gene/protein	Dermonecrotic toxin SpaSicTox-betaIIA1	1
+30787915	gene/protein	Dermonecrotic toxin LarSicTox-alphaIB2c	1
+30787915	gene/protein	Dermonecrotic toxin LruSicTox-alphaIC1d	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB1bxi	1
+30787915	gene/protein	Dermonecrotic toxin LspiSicTox-betaIII2	1
+30787915	gene/protein	Dermonecrotic toxin SpeSicTox-betaIIA2ii	1
+30787915	gene/protein	Dermonecrotic toxin LruSicTox-alphaIC2	1
+30787915	gene/protein	Dermonecrotic toxin LspiSicTox-betaIE1ii	1
+30787915	gene/protein	Dermonecrotic toxin LdSicTox-alphaIB1bi	1
+30787915	gene/protein	Dermonecrotic toxin SPH	1
+30787915	gene/protein	Dermonecrotic toxin LsSicTox-alphaIA1	1
+30787915	gene/protein	Dermonecrotic toxin LdSicTox-alphaIB3aiii	1
+30787915	gene/protein	Dermonecrotic toxin LspiSicTox-betaIE3i	1
+30787915	gene/protein	Dermonecrotic toxin LarSicTox-alphaIB1aii	1
+30787915	gene/protein	Dermonecrotic toxin LlSicTox-betaIA1	1
+30787915	gene/protein	Dermonecrotic toxin SpaSicTox-betaIF1	1
+30787915	gene/protein	Dermonecrotic toxin LgSicTox-alphaIC1	1
+30787915	gene/protein	Dermonecrotic toxin LsaSicTox-alphaIB1av	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIV1iii	1
+30787915	gene/protein	Dermonecrotic toxin SdSicTox-betaIIB1bviii	1
+30787915	gene/protein	Dermonecrotic toxin LarSicTox-alphaI-1	1
+30787915	gene/protein	Dermonecrotic toxin LhSicTox-alphaIA2av	1
+30787915	molecular_function	retinol dehydrogenase activity	1
+30787915	organism	unidentified plasmid	2
+30787915	organism	bacterium IFAM-3211	1
+30787915	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+30787915	organism	bacterium IFAM-3215	1
+30787915	organism	bacterium IFAM-2074	1
+30787915	organism	bacterium IFAM-3359	1
+30787915	organism	bacterium	1
+30787915	organism	bacterium IFAM-1493	1
+30787915	sequence	gene	9
+30787915	sequence	region	3
+30787915	sequence	plasmid	2
+30787915	sequence	SNV	2
+30787915	sequence	circular	1
+30787915	sequence	chromosome	1
+30787915	sequence	natural_variant_site	1
+30787915	sequence	genome	1
+30787915	cell_line	A-549	1
+30787915	cell_line	CPA	1
+30787915	cell_line	CPB	1
+30787915	cell_line	Pten-/- Spry2+/- SP1	1
+30787915	cell_line	SP-1	1
+30787915	cell_line	SP1	1
+30787915	cell_line	KERA-SP1	1
+30787915	organ/tissue	collection of hairs	1

@@ -1,0 +1,34 @@
+15545451	biological_process	colony morphology	2
+15545451	cellular_component	protein	1
+15545451	chemical	carbon	2
+15545451	chemical	protein	2
+15545451	chemical	ppe	2
+15545451	chemical	culture media	1
+15545451	chemical	16s rrna	1
+15545451	chemical	amplify	1
+15545451	chemical	16s	1
+15545451	chemical	rdna	1
+15545451	chemical	base	1
+15545451	gene/protein	api	26
+15545451	gene/protein	ppe	11
+15545451	gene/protein	nov	2
+15545451	gene/protein	protein	1
+15545451	organism	bacterium	7
+15545451	organism	teosinte	4
+15545451	organism	sugarcane	3
+15545451	organism	maize	2
+15545451	organism	Burkholderia	2
+15545451	organism	Burkholderia sacchari	2
+15545451	organism	Burkholderia tropica	2
+15545451	organism	bacterium be	1
+15545451	organism	api	1
+15545451	organism	strain ppe8	1
+15545451	organism	atcc baa831	1
+15545451	sequence	protein	1
+15545451	sequence	16s rrna	1
+15545451	sequence	rrna gene	1
+15545451	sequence	sequence	1
+15545451	sequence	rdna	1
+15545451	sequence	base	1
+15545451	organ/tissue	ppe	1
+15545451	clinical_drug	sugarcane	2

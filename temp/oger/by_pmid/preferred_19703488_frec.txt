@@ -1,0 +1,50 @@
+19703488	cellular_component	membrane	3
+19703488	chemical	lipid	10
+19703488	chemical	Cardiolipins	6
+19703488	chemical	Lysine	6
+19703488	chemical	phosphatidylethanolamine	3
+19703488	chemical	phosphatidylglycerol	3
+19703488	chemical	1,2-diacyl-sn-glycero-3-phospho-(1'-sn-glycerol)	3
+19703488	chemical	cardiolipin	3
+19703488	chemical	lysine	3
+19703488	chemical	L-lysine	3
+19703488	chemical	glycerophospholipid	2
+19703488	chemical	primary amino group	2
+19703488	chemical	Phosphatidylserines	2
+19703488	chemical	Alanine	2
+19703488	chemical	Arginine	2
+19703488	chemical	Homoserine	2
+19703488	chemical	(S)-1,2-distearoylphosphatidylethanolaminium	1
+19703488	chemical	phosphatidyl-L-serine	1
+19703488	chemical	L-alanine	1
+19703488	chemical	L-alanine residue	1
+19703488	chemical	alanine	1
+19703488	chemical	L-arginine	1
+19703488	chemical	argininium(1+)	1
+19703488	chemical	arginine	1
+19703488	chemical	L-homoserine	1
+19703488	chemical	homoserine	1
+19703488	chemical	alpha-amino acid	1
+19703488	chemical	amino acid	1
+19703488	chemical	sphingolipid	1
+19703488	molecular_function	molecular_function	1
+19703488	organism	bacterium IFAM-3211	4
+19703488	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	4
+19703488	organism	bacterium IFAM-3215	4
+19703488	organism	bacterium IFAM-2074	4
+19703488	organism	bacterium IFAM-3359	4
+19703488	organism	bacterium	4
+19703488	organism	bacterium IFAM-1493	4
+19703488	organism	Escherichia coli	2
+19703488	sequence	lysine	3
+19703488	sequence	intermediate	1
+19703488	sequence	alanine	1
+19703488	sequence	arginine	1
+19703488	sequence	substitute	1
+19703488	sequence	amino_acid	1
+19703488	organ/tissue	membrane organ	3
+19703488	organ/tissue	membranous layer	3
+19703488	organ/tissue	multicellular organism	1
+19703488	clinical_drug	Lysine	3
+19703488	clinical_drug	Alanine	1
+19703488	clinical_drug	Arginine	1

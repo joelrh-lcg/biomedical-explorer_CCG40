@@ -1,0 +1,11 @@
+11897025	cellular_component	protein	1
+11897025	chemical	protein	2
+11897025	chemical	proteins	1
+11897025	gene/protein	protein	1
+11897025	molecular_function	binding	2
+11897025	organism	collection	1
+11897025	sequence	gene	4
+11897025	sequence	binding site	4
+11897025	sequence	sequence	1
+11897025	sequence	protein	1
+11897025	sequence	regulon	1

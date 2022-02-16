@@ -1,0 +1,22 @@
+26598365	biological_process	gene conversion	7
+26598365	biological_process	homologous recombination	1
+26598365	biological_process	retention	1
+26598365	chemical	nitrogenase	1
+26598365	chemical	molecule	1
+26598365	chemical	a dna	1
+26598365	gene/protein	nifH	5
+26598365	gene/protein	lack	3
+26598365	gene/protein	scei	1
+26598365	organism	plasmid	7
+26598365	organism	Rhizobium etli	2
+26598365	sequence	gene	9
+26598365	sequence	plasmid	7
+26598365	sequence	homolog	4
+26598365	sequence	rflp	3
+26598365	sequence	homologous	1
+26598365	sequence	restriction fragment length polymorphism	1
+26598365	sequence	gain	1
+26598365	sequence	clone	1
+26598365	sequence	score	1
+26598365	sequence	sequence	1
+26598365	cell_line	clone a	1

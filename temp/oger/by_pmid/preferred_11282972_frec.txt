@@ -1,0 +1,36 @@
+11282972	biological_process	transcription, DNA-templated	4
+11282972	biological_process	biological regulation	1
+11282972	cellular_component	obsolete protein	5
+11282972	chemical	protein	4
+11282972	chemical	(protein)	4
+11282972	chemical	base	1
+11282972	chemical	Cyclic AMP Receptor Protein	1
+11282972	chemical	fumarate	1
+11282972	chemical	fumarate(2-)	1
+11282972	chemical	nitrate	1
+11282972	disease	Influenza, Human	2
+11282972	gene/protein	Fumarate and nitrate reduction regulatory protein	11
+11282972	gene/protein	cAMP-activated global transcriptional regulator CRP	8
+11282972	gene/protein	protein	3
+11282972	gene/protein	CRP-like cAMP-activated global transcriptional regulator	3
+11282972	gene/protein	catabolite gene activator	1
+11282972	gene/protein	Cyclic AMP receptor protein	1
+11282972	gene/protein	fumarate and nitrate reduction regulatory protein	1
+11282972	molecular_function	binding	3
+11282972	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	2
+11282972	molecular_function	transcription factor binding	1
+11282972	organism	Escherichia coli	4
+11282972	organism	Haemophilus influenzae	2
+11282972	sequence	polypeptide	5
+11282972	sequence	gene	4
+11282972	sequence	non_covalent_binding_site	3
+11282972	sequence	binding_site	2
+11282972	sequence	orthologous	2
+11282972	sequence	regulon	1
+11282972	sequence	polypeptide_binding_motif	1
+11282972	sequence	TF_binding_site	1
+11282972	sequence	base	1
+11282972	sequence	genome	1
+11282972	sequence	copy_number_gain	1
+11282972	organ/tissue	multicellular organism	1
+11282972	molecular_process	reduction	1

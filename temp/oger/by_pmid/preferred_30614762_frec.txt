@@ -1,0 +1,15 @@
+30614762	chemical	Anti-Bacterial Agents	10
+30614762	chemical	antimicrobial agent	5
+30614762	chemical	diphenylmethane-4,4'-diisocyanate	2
+30614762	chemical	drug	1
+30614762	disease	Disease Susceptibility	2
+30614762	gene/protein	Metallo-beta-lactamase type 2	1
+30614762	molecular_function	retinol dehydrogenase activity	2
+30614762	organism	unidentified	1
+30614762	sequence	region	4
+30614762	sequence	gene	4
+30614762	sequence	genome	2
+30614762	sequence	allele	2
+30614762	sequence	engineered_region	1
+30614762	sequence	clone	1
+30614762	sequence	GAGA_motif	1

@@ -1,0 +1,71 @@
+31222094	biological_process	depurination	3
+31222094	biological_process	reproduction	1
+31222094	biological_process	asexual reproduction	1
+31222094	cellular_component	ribosome	1
+31222094	cellular_component	obsolete protein	1
+31222094	chemical	maleate(2-)	4
+31222094	chemical	ribosomal RNA	2
+31222094	chemical	protein	1
+31222094	chemical	(protein)	1
+31222094	disease	Feminization	2
+31222094	disease	Embryo Loss	2
+31222094	disease	Anodontia	1
+31222094	gene/protein	Hydrogenase-1 small chain	4
+31222094	gene/protein	Hydrogenase-1 large chain	3
+31222094	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	2
+31222094	gene/protein	receptor-interacting serine/threonine-protein kinase 1 (human)	2
+31222094	gene/protein	RPA-interacting protein (human)	2
+31222094	gene/protein	RPA-interacting protein	2
+31222094	gene/protein	Arf-GAP domain and FG repeat-containing protein 1 (human)	2
+31222094	gene/protein	DDB1- and CUL4-associated factor 1 (human)	2
+31222094	gene/protein	Type I ribosome-inactivating protein trichoanguina	2
+31222094	gene/protein	Arf-GAP domain and FG repeat-containing protein 1	2
+31222094	gene/protein	DDB1- and CUL4-associated factor 1	2
+31222094	gene/protein	RNAP inhibitory protein	2
+31222094	gene/protein	receptor-interacting serine/threonine-protein kinase 1	2
+31222094	gene/protein	receptor-interacting serine/threonine-protein kinase 1 (mouse)	2
+31222094	gene/protein	Arf-GAP domain and FG repeat-containing protein 1 (mouse)	2
+31222094	gene/protein	RPA-interacting protein (mouse)	2
+31222094	gene/protein	Arf-GAP domain and FG repeat-containing protein 1 (rat)	2
+31222094	gene/protein	cytochrome P450 2B9	2
+31222094	gene/protein	RPA-interacting protein (rat)	2
+31222094	gene/protein	cytochrome P450 2B9 (mouse)	2
+31222094	gene/protein	histone-lysine N-methyltransferase eggless (fruit fly)	1
+31222094	gene/protein	hydrogenase-1 large chain	1
+31222094	gene/protein	hydrogenase-1 small chain	1
+31222094	gene/protein	protein	1
+31222094	organism	Spiroplasma poulsonii	6
+31222094	organism	Drosophila melanogaster	4
+31222094	organism	Drosophila puberula	2
+31222094	organism	Scaptomyza undulata	2
+31222094	organism	Drosophila albipalpis	2
+31222094	organism	Drosophila orthophallata	2
+31222094	organism	Drosophila gracilipalpis	2
+31222094	organism	Drosophila malayana	2
+31222094	organism	Drosophila qiongzhouensis	2
+31222094	organism	Drosophila dissimilis	2
+31222094	organism	Drosophila	2
+31222094	organism	Drosophila anomalata	2
+31222094	organism	Wolbachia	2
+31222094	organism	bacterium BE	1
+31222094	organism	Arthropods	1
+31222094	organism	bacterium IFAM-3211	1
+31222094	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+31222094	organism	bacterium IFAM-3215	1
+31222094	organism	bacterium IFAM-2074	1
+31222094	organism	bacterium IFAM-3359	1
+31222094	organism	bacterium	1
+31222094	organism	bacterium IFAM-1493	1
+31222094	organism	Drosophila hydei	1
+31222094	organism	Spiroplasma	1
+31222094	sequence	transit_peptide	3
+31222094	sequence	signal_peptide	3
+31222094	sequence	rRNA	2
+31222094	sequence	transcript	1
+31222094	sequence	polypeptide	1
+31222094	organ/tissue	male organism	4
+31222094	organ/tissue	early embryo	3
+31222094	organ/tissue	embryo	3
+31222094	organ/tissue	life cycle stage	1
+31222094	organ/tissue	shelled egg	1
+31222094	organ/tissue	obsolete oocyte	1

@@ -1,0 +1,14 @@
+1644746	biological_process	symbiosis	1
+1644746	biological_process	nodulation	1
+1644746	biological_process	lipopolysaccharide synthesis	1
+1644746	chemical	lipopolysaccharide	2
+1644746	gene/protein	lack	1
+1644746	organism	plasmid	8
+1644746	organism	Rhizobium leguminosarum	2
+1644746	organism	CFN42	1
+1644746	organism	Rhizobium	1
+1644746	sequence	plasmid	8
+1644746	sequence	delete	3
+1644746	sequence	wild type	2
+1644746	sequence	gene	1
+1644746	sequence	genome	1

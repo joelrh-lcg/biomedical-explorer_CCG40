@@ -1,0 +1,9 @@
+30252986	chemical	tetra	1
+30252986	gene/protein	ago	1
+30252986	organism	mexican tetra	1
+30252986	organism	Astyanax mexicanus	1
+30252986	organism	mya	1
+30252986	sequence	gene	6
+30252986	sequence	repeat	2
+30252986	sequence	genome	2
+30252986	sequence	qtl	1

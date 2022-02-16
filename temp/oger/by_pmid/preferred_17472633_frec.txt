@@ -1,0 +1,39 @@
+17472633	biological_process	obsolete mutagenesis	1
+17472633	chemical	cluster	5
+17472633	chemical	Ammonium Chloride	2
+17472633	chemical	Genetic Markers	2
+17472633	chemical	nitrogen atom	1
+17472633	chemical	nitrogen(.)	1
+17472633	chemical	Nitrogenase	1
+17472633	chemical	ammonium chloride	1
+17472633	chemical	alpha-amino acid	1
+17472633	chemical	amino acid	1
+17472633	chemical	Glutamate Synthase	1
+17472633	disease	Cystic Fibrosis	2
+17472633	gene/protein	Nitrogenase molybdenum-iron protein alpha chain	27
+17472633	gene/protein	Nitrogenase molybdenum-iron protein beta chain	19
+17472633	gene/protein	CTD small phosphatase-like protein (chicken)	6
+17472633	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+17472633	gene/protein	glutamate synthase [NADPH] large chain (Escherichia coli K-12)	1
+17472633	gene/protein	glutamate synthase [NADPH] small chain (Bacillus subtilis subsp. subtilis str. 168)	1
+17472633	gene/protein	glutamate synthase [NADPH] large chain	1
+17472633	organism	Burkholderia vietnamiensis	2
+17472633	organism	Burkholderia cepacia complex	1
+17472633	organism	Agrococcus carbonis	1
+17472633	organism	Litorimicrobium taeanense	1
+17472633	organism	Chitinimonas taiwanensis	1
+17472633	sequence	sequence_variant_obs	2
+17472633	sequence	gene	2
+17472633	sequence	deletion	2
+17472633	sequence	amino_acid	1
+17472633	sequence	genome	1
+17472633	sequence	region	1
+17472633	sequence	transposable_element	1
+17472633	sequence	mutated_variant_site	1
+17472633	sequence	genetic_marker	1
+17472633	sequence	genomic_DNA	1
+17472633	sequence	chromosomal_deletion	1
+17472633	organ/tissue	lung	1
+17472633	clinical_drug	Nitrogen	1
+17472633	clinical_drug	Ammonium Chloride	1
+17472633	clinical_drug	Glutamate	1

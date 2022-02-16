@@ -1,0 +1,22 @@
+32894363	biological_process	sporulation	2
+32894363	chemical	Captan	3
+32894363	chemical	bacillomycin d	3
+32894363	chemical	cluster	2
+32894363	chemical	metabolite	1
+32894363	chemical	surfactin	1
+32894363	gene/protein	pgpb	2
+32894363	gene/protein	ten	1
+32894363	organism	mango	4
+32894363	organism	bacillus velezensis	2
+32894363	organism	maize	2
+32894363	organism	seedling	2
+32894363	organism	Arabidopsis thaliana	2
+32894363	organism	bacterium be	1
+32894363	sequence	genome	3
+32894363	sequence	gene	3
+32894363	sequence	sequence	1
+32894363	sequence	circular	1
+32894363	sequence	assembly	1
+32894363	organ/tissue	bca	1
+32894363	clinical_drug	mango	4
+32894363	clinical_drug	Captan	1

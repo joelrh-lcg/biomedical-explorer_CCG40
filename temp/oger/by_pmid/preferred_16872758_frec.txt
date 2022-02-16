@@ -1,0 +1,60 @@
+16872758	chemical	DNA, Intergenic	9
+16872758	chemical	Growth Hormone	2
+16872758	chemical	Hormones	2
+16872758	chemical	atom	2
+16872758	chemical	growth hormone	1
+16872758	chemical	cluster	1
+16872758	chemical	hormone	1
+16872758	chemical	DNA, A-Form	1
+16872758	gene/protein	Somatotropin	91
+16872758	gene/protein	Probable AP endonuclease	10
+16872758	gene/protein	Girdin	4
+16872758	gene/protein	somatotropin	2
+16872758	gene/protein	DNA-(apurinic or apyrimidinic site) lyase (rat)	2
+16872758	gene/protein	60S acidic ribosomal protein P0 (fruit fly)	2
+16872758	gene/protein	DNA-(apurinic or apyrimidinic site) lyase (human)	2
+16872758	gene/protein	DNA-(apurinic or apyrimidinic site) lyase	2
+16872758	gene/protein	DNA-(apurinic or apyrimidinic site) lyase (mouse)	2
+16872758	gene/protein	girdin	2
+16872758	gene/protein	girdin (human)	2
+16872758	gene/protein	somatotropin (human)	1
+16872758	gene/protein	somatotropin (rat)	1
+16872758	gene/protein	somatotropin (mouse)	1
+16872758	gene/protein	prolactin-3D1 (rat)	1
+16872758	gene/protein	chorionic somatomammotropin hormone 1	1
+16872758	gene/protein	mannosyl phosphorylinositol ceramide synthase CSH1 (yeast)	1
+16872758	gene/protein	chorionic somatomammotropin hormone 1 (human)	1
+16872758	gene/protein	prolactin-3D1	1
+16872758	gene/protein	prolactin-3D1 (mouse)	1
+16872758	gene/protein	growth hormone variant	1
+16872758	gene/protein	growth hormone variant (human)	1
+16872758	gene/protein	chorionic somatomammotropin hormone 2	1
+16872758	gene/protein	prolactin-3B1 (rat)	1
+16872758	gene/protein	prolactin-3B1 (mouse)	1
+16872758	gene/protein	chorionic somatomammotropin hormone 2 (human)	1
+16872758	gene/protein	prolactin-3B1	1
+16872758	gene/protein	protein csh3 (Schizosaccharomyces pombe 972h-)	1
+16872758	molecular_function	growth hormone receptor binding	1
+16872758	organism	Hominidae	2
+16872758	organism	Alocasia macrorrhizos	2
+16872758	organism	Macaca mulatta	2
+16872758	organism	Humans	2
+16872758	organism	Ateles sp.	2
+16872758	organism	Atelinae	2
+16872758	organism	Mammals	1
+16872758	organism	Platyrrhini	1
+16872758	organism	Cercopithecidae	1
+16872758	organism	unidentified	1
+16872758	sequence	intergenic_region	9
+16872758	sequence	gene	7
+16872758	sequence	region	1
+16872758	sequence	insertion	1
+16872758	sequence	insert	1
+16872758	sequence	enhancer	1
+16872758	cell_line	CSH	6
+16872758	cell_line	GH1	1
+16872758	cell_line	GH-1	1
+16872758	cell_line	GH-2	1
+16872758	organ/tissue	organ	2
+16872758	organ/tissue	pituitary gland	1
+16872758	organ/tissue	extension	1

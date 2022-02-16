@@ -1,0 +1,12 @@
+20096123	biological_process	homologous recombination	1
+20096123	chemical	base	2
+20096123	organism	Humans	2
+20096123	sequence	polypeptide_repeat	2
+20096123	sequence	genome	2
+20096123	sequence	region	1
+20096123	sequence	base_pair	1
+20096123	sequence	homologous	1
+20096123	sequence	gene	1
+20096123	sequence	base	1
+20096123	sequence	assembly	1
+20096123	organ/tissue	vertebral column	1

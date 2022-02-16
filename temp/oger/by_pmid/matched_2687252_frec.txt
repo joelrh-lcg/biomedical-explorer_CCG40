@@ -1,0 +1,17 @@
+2687252	biological_process	mutagenesis	1
+2687252	biological_process	regulation	1
+2687252	chemical	glutamate	12
+2687252	chemical	glutamate synthase	1
+2687252	gene/protein	gdh	55
+2687252	gene/protein	gus	10
+2687252	gene/protein	GOGAT	8
+2687252	gene/protein	gogat	4
+2687252	gene/protein	lack	1
+2687252	molecular_function	gogat activity	4
+2687252	molecular_function	gdh	1
+2687252	organism	Saccharomyces cerevisiae	2
+2687252	organism	S cerevisiae	2
+2687252	sequence	mutation	3
+2687252	sequence	mutagenesis	1
+2687252	clinical_drug	glutamate	3
+2687252	clinical_drug	Saccharomyces cerevisiae	2

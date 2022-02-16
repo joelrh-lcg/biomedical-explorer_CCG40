@@ -1,0 +1,73 @@
+34211444	biological_process	aerobic respiration	2
+34211444	biological_process	cellular respiration	1
+34211444	biological_process	respiratory gaseous exchange by respiratory system	1
+34211444	biological_process	biosynthetic process	1
+34211444	cellular_component	obsolete protein	1
+34211444	chemical	heme a	12
+34211444	chemical	ferroheme a(2-)	4
+34211444	chemical	Electron Transport Complex IV	1
+34211444	chemical	Oxidoreductases	1
+34211444	chemical	protein	1
+34211444	chemical	(protein)	1
+34211444	chemical	iron atom	1
+34211444	gene/protein	Heme A synthase	316
+34211444	gene/protein	Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial	18
+34211444	gene/protein	Oxygen-dependent coproporphyrinogen-III oxidase	12
+34211444	gene/protein	Streptopain	7
+34211444	gene/protein	Prostaglandin G/H synthase 1	7
+34211444	gene/protein	Probable oxygen-dependent coproporphyrinogen-III oxidase	6
+34211444	gene/protein	oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial	6
+34211444	gene/protein	Nitrite reductase	4
+34211444	gene/protein	uroporphyrinogen decarboxylase (Dictyostelium discoideum)	2
+34211444	gene/protein	uroporphyrinogen decarboxylase (Staphylococcus aureus subsp. aureus NCTC 8325)	2
+34211444	gene/protein	uroporphyrinogen decarboxylase (Escherichia coli K-12)	2
+34211444	gene/protein	minor histocompatibility antigen H13	1
+34211444	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+34211444	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+34211444	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+34211444	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+34211444	gene/protein	minor histocompatibility antigen H13 (human)	1
+34211444	gene/protein	sphingosine-1-phosphate phosphatase	1
+34211444	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+34211444	gene/protein	SD07518p (fruit fly)	1
+34211444	gene/protein	cytochrome c oxidase subunit 1 (zebrafish)	1
+34211444	gene/protein	prostaglandin G/H synthase 1 (human)	1
+34211444	gene/protein	cytochrome c oxidase subunit 1 (worm)	1
+34211444	gene/protein	cytochrome c oxidase subunit 1 (Schizosaccharomyces pombe 972h-)	1
+34211444	gene/protein	prostaglandin G/H synthase 1 (rabbit)	1
+34211444	gene/protein	cytochrome c oxidase subunit 1 (yeast)	1
+34211444	gene/protein	prostaglandin G/H synthase 1 (rat)	1
+34211444	gene/protein	cytochrome c oxidase subunit 1 (Arabidopsis thaliana)	1
+34211444	gene/protein	prostaglandin G/H synthase 1	1
+34211444	gene/protein	prostaglandin G/H synthase 1 (sheep)	1
+34211444	gene/protein	prostaglandin G/H synthase 1 (mouse)	1
+34211444	gene/protein	prostaglandin G/H synthase 1 (cow)	1
+34211444	gene/protein	cytochrome c oxidase subunit 1+2 (Dictyostelium discoideum)	1
+34211444	gene/protein	Cytokinin dehydrogenase 1	1
+34211444	gene/protein	cancer/testis antigen 1 (human)	1
+34211444	gene/protein	cancer/testis antigen 1	1
+34211444	gene/protein	protein	1
+34211444	molecular_function	electron transporter, transferring electrons within the noncyclic electron transport pathway of photosynthesis activity	1
+34211444	molecular_function	electron transporter, transferring electrons from CoQH2-cytochrome c reductase complex and cytochrome c oxidase complex activity	1
+34211444	molecular_function	electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity	1
+34211444	molecular_function	electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity	1
+34211444	molecular_function	electron transporter, transferring electrons within cytochrome c oxidase complex activity	1
+34211444	molecular_function	obsolete cytochrome	1
+34211444	molecular_function	electron transporter, transferring electrons within CoQH2-cytochrome c reductase complex activity	1
+34211444	molecular_function	obsolete signal peptide peptidase activity	1
+34211444	organism	bacterium IFAM-3211	3
+34211444	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+34211444	organism	bacterium IFAM-3215	3
+34211444	organism	bacterium IFAM-2074	3
+34211444	organism	bacterium IFAM-3359	3
+34211444	organism	bacterium	3
+34211444	organism	bacterium IFAM-1493	3
+34211444	organism	unidentified	1
+34211444	organism	Proteobacteria	1
+34211444	sequence	region	1
+34211444	sequence	natural_variant_site	1
+34211444	sequence	polypeptide	1
+34211444	cell_line	COX	7
+34211444	cell_line	GM11418	1
+34211444	clinical_drug	Iron	1
+34211444	molecular_process	oxidation	1

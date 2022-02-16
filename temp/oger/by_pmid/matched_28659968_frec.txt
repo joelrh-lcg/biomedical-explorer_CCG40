@@ -1,0 +1,13 @@
+28659968	chemical	base	1
+28659968	disease	obesity	2
+28659968	disease	neurological disorder	2
+28659968	gene/protein	gap	4
+28659968	organism	human	3
+28659968	organism	human microbiome	2
+28659968	organism	none	1
+28659968	sequence	genome	5
+28659968	sequence	gap	2
+28659968	sequence	variant	1
+28659968	sequence	base	1
+28659968	sequence	gene	1
+28659968	sequence	genotype	1

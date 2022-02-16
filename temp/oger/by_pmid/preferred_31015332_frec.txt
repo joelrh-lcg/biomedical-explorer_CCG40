@@ -1,0 +1,70 @@
+31015332	biological_process	biofilm formation	5
+31015332	biological_process	biosynthetic process	3
+31015332	biological_process	biological regulation	1
+31015332	biological_process	signaling	1
+31015332	biological_process	pathogenesis	1
+31015332	biological_process	obsolete virulence	1
+31015332	biological_process	viral process	1
+31015332	cellular_component	dystrophin-associated glycoprotein complex	5
+31015332	cellular_component	intracellular	2
+31015332	cellular_component	obsolete protein	1
+31015332	chemical	bis(3',5')-cyclic diguanylic acid	20
+31015332	chemical	c-di-GMP	10
+31015332	chemical	LPS with O-antigen	3
+31015332	chemical	lipopolysaccharide	3
+31015332	chemical	monophosphate	2
+31015332	chemical	modulator	2
+31015332	chemical	1-acyl-sn-glycero-3-phosphoserine	2
+31015332	chemical	diguanylate cyclase	1
+31015332	chemical	protein	1
+31015332	chemical	(protein)	1
+31015332	chemical	effector	1
+31015332	chemical	signalling molecule	1
+31015332	disease	Van der Woude syndrome	2
+31015332	disease	Disease	2
+31015332	disease	Cholera	2
+31015332	gene/protein	Probable diguanylate cyclase DgcQ	50
+31015332	gene/protein	Diguanylate cyclase DosC	30
+31015332	gene/protein	Probable diguanylate cyclase DgcI	10
+31015332	gene/protein	Probable diguanylate cyclase DgcF	10
+31015332	gene/protein	Probable diguanylate cyclase DgcC	10
+31015332	gene/protein	Diguanylate cyclase DgcM	10
+31015332	gene/protein	GDP-mannose 6-dehydrogenase	6
+31015332	gene/protein	Probable diguanylate cyclase DgcT	5
+31015332	gene/protein	Diguanylate cyclase DgcN	5
+31015332	gene/protein	Probable diguanylate cyclase DgcJ	5
+31015332	gene/protein	diguanylate cyclase DgcM	5
+31015332	gene/protein	probable diguanylate cyclase DgcT	5
+31015332	gene/protein	Probable diguanylate cyclase DgcE	5
+31015332	gene/protein	Diguanylate cyclase VdcA	5
+31015332	gene/protein	probable diguanylate cyclase DgcC	5
+31015332	gene/protein	diguanylate cyclase DgcN	5
+31015332	gene/protein	Probable diguanylate cyclase CdgI	5
+31015332	gene/protein	diguanylate cyclase DgcZ	5
+31015332	gene/protein	probable diguanylate cyclase DgcQ	5
+31015332	gene/protein	probable diguanylate cyclase DgcJ	5
+31015332	gene/protein	diguanylate cyclase DosC	5
+31015332	gene/protein	Putative diguanylate cyclase DgcQ	5
+31015332	gene/protein	probable diguanylate cyclase DgcE	5
+31015332	gene/protein	Diguanylate cyclase DgcP	5
+31015332	gene/protein	diguanylate cyclase DgcP	5
+31015332	gene/protein	Diguanylate cyclase DgcZ	5
+31015332	gene/protein	GDP-mannose 4,6 dehydratase	5
+31015332	gene/protein	Toll-like receptor 4 (mouse)	2
+31015332	gene/protein	Toll-like receptor 4	2
+31015332	gene/protein	GDP-mannose 4,6 dehydratase 1	2
+31015332	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+31015332	gene/protein	protein IMPACT (zebrafish)	1
+31015332	gene/protein	GDP-mannose 4,6 dehydratase (Dictyostelium discoideum)	1
+31015332	gene/protein	GDP-mannose 4,6-dehydratase (Escherichia coli K-12)	1
+31015332	gene/protein	GDP-mannose 4,6 dehydratase 2	1
+31015332	gene/protein	GDP-mannose 4,6 dehydratase (fruit fly)	1
+31015332	gene/protein	GDP-mannose 4,6-dehydratase	1
+31015332	gene/protein	protein	1
+31015332	molecular_function	GDP-mannose 4,6-dehydratase activity	1
+31015332	molecular_function	receptor ligand activity	1
+31015332	sequence	delete	1
+31015332	sequence	gene	1
+31015332	sequence	polypeptide	1
+31015332	organ/tissue	sclerite	1
+31015332	organ/tissue	obsolete sclerite	1

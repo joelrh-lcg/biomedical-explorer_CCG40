@@ -1,0 +1,59 @@
+33813711	biological_process	catabolic process	3
+33813711	biological_process	response to stress	1
+33813711	biological_process	export across plasma membrane	1
+33813711	biological_process	export from cell	1
+33813711	cellular_component	membrane	1
+33813711	cellular_component	efflux pump complex	1
+33813711	chemical	4-nitrophenol	7
+33813711	chemical	Methyl Parathion	2
+33813711	chemical	pesticide	2
+33813711	chemical	Methyl parathion	1
+33813711	chemical	parathion-methyl	1
+33813711	chemical	organophosphorus pesticide	1
+33813711	chemical	methyl group	1
+33813711	chemical	methyl	1
+33813711	chemical	2-methylpentane-2,4-diol	1
+33813711	chemical	cluster	1
+33813711	chemical	Phe-Asp-Cys	1
+33813711	chemical	perfluorodecalin	1
+33813711	chemical	aromatic compound	1
+33813711	disease	Familial dilated cardiomyopathy	1
+33813711	gene/protein	Purine nucleoside phosphorylase DeoD-type	1316
+33813711	gene/protein	Purine nucleoside phosphorylase	98
+33813711	gene/protein	Probable 6-oxopurine nucleoside phosphorylase	49
+33813711	gene/protein	Mannitol-1-phosphate 5-dehydrogenase	23
+33813711	gene/protein	polyribonucleotide nucleotidyltransferase (Escherichia coli K-12)	7
+33813711	gene/protein	purine nucleoside phosphorylase (human)	7
+33813711	gene/protein	polyribonucleotide nucleotidyltransferase (Clostridium botulinum A str. Hall)	7
+33813711	gene/protein	polyribonucleotide nucleotidyltransferase	7
+33813711	gene/protein	polyribonucleotide nucleotidyltransferase (Staphylococcus aureus subsp. aureus NCTC 8325)	7
+33813711	gene/protein	pancreatic prohormone	7
+33813711	gene/protein	purine nucleoside phosphorylase (mouse)	7
+33813711	gene/protein	pancreatic prohormone (human)	7
+33813711	gene/protein	purine nucleoside phosphorylase	7
+33813711	gene/protein	Putative purine nucleoside phosphorylase	7
+33813711	gene/protein	purine nucleoside phosphorylase (rat)	7
+33813711	gene/protein	EG45-like domain containing protein	7
+33813711	gene/protein	purine nucleoside phosphorylase deoD-type	7
+33813711	gene/protein	cysteine-rich motor neuron 1 protein (human)	3
+33813711	gene/protein	cysteine-rich motor neuron 1 protein	3
+33813711	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+33813711	gene/protein	protein IMPACT (zebrafish)	1
+33813711	gene/protein	diphosphomevalonate decarboxylase (rat)	1
+33813711	gene/protein	diphosphomevalonate decarboxylase (yeast)	1
+33813711	gene/protein	diphosphomevalonate decarboxylase	1
+33813711	gene/protein	diphosphomevalonate decarboxylase (human)	1
+33813711	gene/protein	lymphocyte activation gene 3 protein	1
+33813711	gene/protein	lymphocyte activation gene 3 protein (human)	1
+33813711	organism	Burkholderia cenocepacia	2
+33813711	organism	bacterium IFAM-3211	1
+33813711	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+33813711	organism	bacterium IFAM-3215	1
+33813711	organism	bacterium IFAM-2074	1
+33813711	organism	bacterium IFAM-3359	1
+33813711	organism	bacterium	1
+33813711	organism	bacterium IFAM-1493	1
+33813711	sequence	gene	9
+33813711	organ/tissue	membrane organ	1
+33813711	organ/tissue	membranous layer	1
+33813711	molecular_process	hydrolysis	1

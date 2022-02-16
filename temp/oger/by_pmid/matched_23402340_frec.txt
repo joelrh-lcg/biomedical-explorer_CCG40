@@ -1,0 +1,16 @@
+23402340	biological_process	transcription	2
+23402340	biological_process	JA signaling	1
+23402340	biological_process	defense response	1
+23402340	chemical	jasmonate	4
+23402340	chemical	10c	1
+23402340	gene/protein	JAZ	3
+23402340	gene/protein	bean	3
+23402340	gene/protein	10c	1
+23402340	gene/protein	transcriptional regulator	1
+23402340	molecular_function	transcription factor	1
+23402340	organism	Phaseolus vulgaris	2
+23402340	organism	Arabidopsis	1
+23402340	organism	legume	1
+23402340	sequence	gene	3
+23402340	sequence	domain	1
+23402340	cell_line	bean	1

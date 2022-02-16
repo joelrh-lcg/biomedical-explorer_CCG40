@@ -1,0 +1,13 @@
+28530509	gene/protein	pcr	8
+28530509	organism	sheep	6
+28530509	organism	parasite	3
+28530509	organism	Toxoplasma gondii	2
+28530509	sequence	gene	3
+28530509	sequence	sequence	3
+28530509	sequence	haplotype	3
+28530509	sequence	genotype	2
+28530509	sequence	amplicon	1
+28530509	sequence	allele	1
+28530509	sequence	intermediate	1
+28530509	organ/tissue	tissue	2
+28530509	organ/tissue	central zone	1

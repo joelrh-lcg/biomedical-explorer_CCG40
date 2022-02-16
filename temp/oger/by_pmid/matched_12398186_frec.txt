@@ -1,0 +1,12 @@
+12398186	biological_process	mating	6
+12398186	organism	bacterium	7
+12398186	organism	plasmid	5
+12398186	organism	e coli	4
+12398186	organism	Rhizobium	3
+12398186	sequence	clone	5
+12398186	sequence	plasmid	5
+12398186	sequence	insert	2
+12398186	sequence	vector	1
+12398186	sequence	fragment	1
+12398186	sequence	replicon	1
+12398186	cell_line	tn5	2

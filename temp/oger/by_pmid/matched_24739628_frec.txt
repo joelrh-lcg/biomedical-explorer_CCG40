@@ -1,0 +1,19 @@
+24739628	biological_process	virulence	9
+24739628	cellular_component	extracellular	1
+24739628	chemical	proteins	4
+24739628	chemical	pyocyanin	4
+24739628	chemical	pyoverdine	3
+24739628	chemical	virulence factor	2
+24739628	chemical	rhamnolipid	2
+24739628	chemical	proteome	1
+24739628	chemical	molecule	1
+24739628	disease	polymicrobial infection	4
+24739628	disease	disease	2
+24739628	gene/protein	protease	39
+24739628	organism	bacterium	7
+24739628	organism	Pseudomonas aeruginosa	2
+24739628	organism	Candida albican	1
+24739628	organism	fungus	1
+24739628	organism	bacterium be	1
+24739628	organism	human	1
+24739628	molecular_process	oxidation	1

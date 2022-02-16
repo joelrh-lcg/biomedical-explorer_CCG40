@@ -1,0 +1,52 @@
+30519218	biological_process	pathogenesis	1
+30519218	biological_process	obsolete virulence	1
+30519218	biological_process	viral process	1
+30519218	biological_process	lymphocyte activation	1
+30519218	biological_process	execution phase of apoptosis	1
+30519218	biological_process	apoptotic process	1
+30519218	cellular_component	vesicle	4
+30519218	cellular_component	extracellular region	2
+30519218	cellular_component	outer membrane	1
+30519218	cellular_component	obsolete protein	1
+30519218	cellular_component	host cell	1
+30519218	chemical	Agar	2
+30519218	chemical	protein	2
+30519218	chemical	agar	1
+30519218	chemical	virulence factor	1
+30519218	chemical	toxin	1
+30519218	chemical	Lipase	1
+30519218	chemical	(protein)	1
+30519218	gene/protein	Synaptosomal-associated protein 25	15
+30519218	gene/protein	Triacylglycerol lipase	7
+30519218	gene/protein	transcriptional regulator SUPERMAN (Arabidopsis thaliana)	3
+30519218	gene/protein	synaptosomal-associated protein 25	3
+30519218	gene/protein	SPARC protein (human)	1
+30519218	gene/protein	putative aga operon transcriptional repressor	1
+30519218	gene/protein	putative aga operon transcriptional repressor (Escherichia coli K-12)	1
+30519218	gene/protein	adenosylhomocysteinase (worm)	1
+30519218	gene/protein	GDSL esterase/lipase	1
+30519218	gene/protein	Extracellular lipase	1
+30519218	gene/protein	Lipase	1
+30519218	gene/protein	protein	1
+30519218	organism	Oat mosaic virus	6
+30519218	organism	bacterium IFAM-3211	1
+30519218	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+30519218	organism	bacterium IFAM-3215	1
+30519218	organism	bacterium IFAM-2074	1
+30519218	organism	bacterium IFAM-3359	1
+30519218	organism	bacterium	1
+30519218	organism	bacterium IFAM-1493	1
+30519218	organism	Humans	1
+30519218	sequence	polypeptide	1
+30519218	cell	peripheral blood mononuclear cell	1
+30519218	cell	mononuclear cell	1
+30519218	cell	lymphocyte	1
+30519218	cell	CD14-positive monocyte	1
+30519218	cell	monocyte	1
+30519218	cell_line	AHH-1	1
+30519218	organ/tissue	membrane organ	1
+30519218	organ/tissue	membranous layer	1
+30519218	organ/tissue	sclerite	1
+30519218	organ/tissue	obsolete sclerite	1
+30519218	clinical_drug	Agar, Unspecified	1
+30519218	clinical_drug	Lipase	1

@@ -1,0 +1,35 @@
+17386032	chemical	RNA, Ribosomal, 16S	1
+17386032	chemical	sulfur atom	1
+17386032	chemical	RNA, Ribosomal, 23S	1
+17386032	gene/protein	Protochlorophyllide reductase, chloroplastic	5
+17386032	gene/protein	Light-dependent protochlorophyllide reductase	2
+17386032	gene/protein	Protochlorophyllide reductase	1
+17386032	gene/protein	protein RecA (Brucella abortus bv. 1 str. 9-941)	1
+17386032	gene/protein	protein RecA (Mycobacterium tuberculosis H37Rv)	1
+17386032	gene/protein	DNA repair protein RAD51 homolog 1 (mouse)	1
+17386032	gene/protein	protein RecA	1
+17386032	gene/protein	DNA repair protein RAD51 homolog 1	1
+17386032	gene/protein	protein RecA (Brucella suis 1330)	1
+17386032	gene/protein	mitochondrial DNA repair protein recA homolog (Dictyostelium discoideum)	1
+17386032	gene/protein	protein RecA (Escherichia coli K-12)	1
+17386032	gene/protein	protein RecA (Brucella canis ATCC 23365)	1
+17386032	gene/protein	DNA repair protein RAD51 homolog 1 (human)	1
+17386032	gene/protein	protein RecA (Brucella suis ATCC 23445)	1
+17386032	gene/protein	protein RecA (Brucella melitensis ATCC 23457)	1
+17386032	gene/protein	DNA repair protein recA homolog 1, chloroplastic (Arabidopsis thaliana)	1
+17386032	gene/protein	protein RecA (Brucella abortus 2308)	1
+17386032	gene/protein	chitooligosaccharide deacetylase (Sinorhizobium meliloti 1021)	1
+17386032	organism	Medicago sativa	2
+17386032	organism	Sinorhizobium meliloti	2
+17386032	organism	unidentified plasmid	1
+17386032	organism	Sinorhizobium	1
+17386032	sequence	rRNA_gene	2
+17386032	sequence	plasmid	1
+17386032	sequence	RFLP_fragment	1
+17386032	sequence	rRNA_16S	1
+17386032	sequence	intergenic_variant	1
+17386032	sequence	rRNA_23S	1
+17386032	sequence	region	1
+17386032	cell_line	RECA	1
+17386032	organ/tissue	cerebellum vermis lobule X	1
+17386032	organ/tissue	germinal center	1

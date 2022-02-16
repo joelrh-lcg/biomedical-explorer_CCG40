@@ -1,0 +1,21 @@
+30520095	gene/protein	Protochlorophyllide reductase, chloroplastic	10
+30520095	gene/protein	Light-dependent protochlorophyllide reductase	4
+30520095	gene/protein	Protochlorophyllide reductase	2
+30520095	organism	Bifidobacterium	2
+30520095	organism	bacterium IFAM-3211	1
+30520095	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+30520095	organism	bacterium IFAM-3215	1
+30520095	organism	bacterium IFAM-2074	1
+30520095	organism	bacterium IFAM-3359	1
+30520095	organism	bacterium	1
+30520095	organism	bacterium IFAM-1493	1
+30520095	organism	gut metagenome	1
+30520095	organism	Alouatta	1
+30520095	organism	Alouatta guariba	1
+30520095	organism	Alouatta seniculus	1
+30520095	organism	Alouatta caraya	1
+30520095	sequence	mature_protein_region	1
+30520095	organ/tissue	digestive tract	1
+30520095	organ/tissue	lower digestive tract	1
+30520095	organ/tissue	digestive system	1
+30520095	molecular_process	chain reaction	1

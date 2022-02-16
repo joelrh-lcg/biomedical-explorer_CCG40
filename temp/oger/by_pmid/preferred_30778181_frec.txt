@@ -1,0 +1,11 @@
+30778181	biological_process	sleep	1
+30778181	biological_process	antibiotic biosynthetic process	1
+30778181	chemical	Anti-Bacterial Agents	2
+30778181	chemical	antimicrobial agent	1
+30778181	organism	Amphibians	3
+30778181	sequence	gene	2
+30778181	organ/tissue	integument	4
+30778181	organ/tissue	zone of skin	4
+30778181	organ/tissue	skin epidermis	4
+30778181	organ/tissue	skin of body	4
+30778181	organ/tissue	scale	1

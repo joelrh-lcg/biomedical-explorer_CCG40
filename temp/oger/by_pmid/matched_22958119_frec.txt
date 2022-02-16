@@ -1,0 +1,24 @@
+22958119	biological_process	biosynthesis	1
+22958119	biological_process	formation	1
+22958119	cellular_component	membrane	2
+22958119	chemical	ornithine	8
+22958119	chemical	ornithine lipid	2
+22958119	chemical	lipid	2
+22958119	chemical	hydroxy	2
+22958119	chemical	fatty acyl group	2
+22958119	chemical	amide	2
+22958119	chemical	fatty acid	1
+22958119	gene/protein	lack	2
+22958119	organism	bacterium	7
+22958119	organism	Rhizobium tropici	2
+22958119	organism	Burkholderia cenocepacia	2
+22958119	organism	potato	2
+22958119	organism	ornithine lipid	1
+22958119	organism	agrobacterium	1
+22958119	sequence	gene	1
+22958119	sequence	construct	1
+22958119	organ/tissue	membrane	4
+22958119	organ/tissue	tuber	2
+22958119	organ/tissue	organism	1
+22958119	clinical_drug	ornithine	3
+22958119	clinical_drug	potato	1

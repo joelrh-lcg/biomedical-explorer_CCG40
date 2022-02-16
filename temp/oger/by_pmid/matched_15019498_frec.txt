@@ -1,0 +1,7 @@
+15019498	biological_process	transcription	5
+15019498	gene/protein	ball	5
+15019498	sequence	gene	4
+15019498	sequence	genome	4
+15019498	sequence	operon	2
+15019498	sequence	sequence	1
+15019498	organ/tissue	ball	5

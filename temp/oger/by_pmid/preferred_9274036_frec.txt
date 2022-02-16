@@ -1,0 +1,64 @@
+9274036	chemical	PH.3	4
+9274036	chemical	trihydridophosphate(.1-)	2
+9274036	chemical	phosphane	2
+9274036	chemical	phosphaniumyl group	2
+9274036	chemical	trihydridophosphorus(.1+)	2
+9274036	chemical	Prolactin	1
+9274036	gene/protein	Prolactin	40
+9274036	gene/protein	Replication-associated protein A	15
+9274036	gene/protein	polyhomeotic-like protein 3 (human)	2
+9274036	gene/protein	polyhomeotic-like protein 3	2
+9274036	gene/protein	Acyl carrier protein AcpXL	2
+9274036	gene/protein	120.7 kDa protein in NOF-FB transposable element (fruit fly)	2
+9274036	gene/protein	RepFIB replication protein A (Escherichia coli K-12)	2
+9274036	gene/protein	RepFIB replication protein A	2
+9274036	gene/protein	protein RecA (Brucella abortus bv. 1 str. 9-941)	1
+9274036	gene/protein	protein RecA (Mycobacterium tuberculosis H37Rv)	1
+9274036	gene/protein	DNA repair protein RAD51 homolog 1 (mouse)	1
+9274036	gene/protein	protein RecA	1
+9274036	gene/protein	DNA repair protein RAD51 homolog 1	1
+9274036	gene/protein	protein RecA (Brucella suis 1330)	1
+9274036	gene/protein	mitochondrial DNA repair protein recA homolog (Dictyostelium discoideum)	1
+9274036	gene/protein	protein RecA (Escherichia coli K-12)	1
+9274036	gene/protein	protein RecA (Brucella canis ATCC 23365)	1
+9274036	gene/protein	DNA repair protein RAD51 homolog 1 (human)	1
+9274036	gene/protein	protein RecA (Brucella suis ATCC 23445)	1
+9274036	gene/protein	protein RecA (Brucella melitensis ATCC 23457)	1
+9274036	gene/protein	DNA repair protein recA homolog 1, chloroplastic (Arabidopsis thaliana)	1
+9274036	gene/protein	protein RecA (Brucella abortus 2308)	1
+9274036	gene/protein	general transcription and DNA repair factor IIH helicase subunit XPB (Dictyostelium discoideum)	1
+9274036	gene/protein	mobilization protein A (Escherichia coli)	1
+9274036	gene/protein	replication regulatory protein repA2 (Shigella flexneri)	1
+9274036	gene/protein	transcriptional repressor PifC (Escherichia coli K-12)	1
+9274036	gene/protein	Repressor c protein	1
+9274036	gene/protein	transcriptional repressor pifC	1
+9274036	gene/protein	Repressor protein c	1
+9274036	gene/protein	primosomal protein N' (Escherichia coli K-12)	1
+9274036	gene/protein	primosomal protein N'	1
+9274036	gene/protein	pre-B-cell leukemia transcription factor 1	1
+9274036	gene/protein	prolactin (human)	1
+9274036	gene/protein	prolactin	1
+9274036	gene/protein	prolactin (chicken)	1
+9274036	gene/protein	pre-B-cell leukemia transcription factor 1 (human)	1
+9274036	gene/protein	prolactin (mouse)	1
+9274036	gene/protein	DNA replication licensing factor MCM7 (Arabidopsis thaliana)	1
+9274036	gene/protein	prolactin (rat)	1
+9274036	gene/protein	nucleoporin Nup43	1
+9274036	gene/protein	peroxidase 42 (Arabidopsis thaliana)	1
+9274036	gene/protein	Capsid protein	1
+9274036	gene/protein	Glutamine synthetase	1
+9274036	gene/protein	Movement protein TGB1	1
+9274036	gene/protein	Nucleoporin Nup43	1
+9274036	gene/protein	Transcription initiation factor TFIID subunit 9	1
+9274036	gene/protein	tRNA-aminoacylation cofactor ARC1	1
+9274036	organism	unidentified plasmid	9
+9274036	organism	Rhizobium etli	3
+9274036	organism	Agrobacterium	1
+9274036	sequence	plasmid	9
+9274036	sequence	region	5
+9274036	sequence	fragmentary	4
+9274036	sequence	ORF	2
+9274036	sequence	cryptic	2
+9274036	sequence	clone	1
+9274036	cell_line	RECA	1
+9274036	cell_line	REPC	1

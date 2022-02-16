@@ -1,0 +1,11 @@
+29735690	chemical	medicine	2
+29735690	chemical	nucleotide	2
+29735690	gene/protein	trio	15
+29735690	gene/protein	map	6
+29735690	sequence	snv	3
+29735690	sequence	single nucleotide variant	2
+29735690	sequence	match	2
+29735690	sequence	genome	2
+29735690	sequence	sequence	2
+29735690	sequence	variant	1
+29735690	sequence	reference genome	1

@@ -1,0 +1,56 @@
+12631328	biological_process	nitrogen fixation	1
+12631328	biological_process	photosynthesis	1
+12631328	cellular_component	obsolete protein	1
+12631328	chemical	nitrogen atom	5
+12631328	chemical	nitrogen(.)	5
+12631328	chemical	Sucrose	2
+12631328	chemical	Glutamate-Ammonia Ligase	1
+12631328	chemical	Glutamate Synthase	1
+12631328	chemical	DNA, Complementary	1
+12631328	chemical	Leghemoglobin	1
+12631328	chemical	leghemoglobin	1
+12631328	chemical	protein	1
+12631328	chemical	(protein)	1
+12631328	chemical	elemental carbon	1
+12631328	chemical	carbon atom	1
+12631328	chemical	alpha-amino acid	1
+12631328	chemical	amino acid	1
+12631328	chemical	amide	1
+12631328	chemical	azanide	1
+12631328	chemical	sucrose	1
+12631328	gene/protein	Glutamine synthetase	122
+12631328	gene/protein	Leghemoglobin	5
+12631328	gene/protein	glutamine synthetase	1
+12631328	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+12631328	gene/protein	protein IMPACT (zebrafish)	1
+12631328	gene/protein	A-kinase anchor protein 13 (human)	1
+12631328	gene/protein	A-kinase anchor protein 13	1
+12631328	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+12631328	gene/protein	ribonuclease I	1
+12631328	gene/protein	protein	1
+12631328	gene/protein	Glutamate synthase [NADPH] large chain	1
+12631328	gene/protein	Glutamate synthase [NADPH] small chain	1
+12631328	organism	Medicago sativa	6
+12631328	organism	Sinorhizobium meliloti	2
+12631328	organism	Fabaceae	1
+12631328	organism	Glycine max	1
+12631328	organism	Soybeans	1
+12631328	sequence	antisense	4
+12631328	sequence	glutamine	1
+12631328	sequence	transgenic	1
+12631328	sequence	cDNA	1
+12631328	sequence	fragmentary	1
+12631328	sequence	promoter	1
+12631328	sequence	transgene	1
+12631328	sequence	polypeptide	1
+12631328	sequence	amino_acid	1
+12631328	cell_line	A2780/C30	1
+12631328	organ/tissue	cerebellum vermis lobule X	4
+12631328	organ/tissue	germinal center	4
+12631328	clinical_drug	Nitrogen	5
+12631328	clinical_drug	Medicago sativa whole extract	2
+12631328	clinical_drug	Glutamine	1
+12631328	clinical_drug	Glutamate	1
+12631328	clinical_drug	Soybean preparation	1
+12631328	clinical_drug	Soybean	1
+12631328	clinical_drug	Sucrose	1

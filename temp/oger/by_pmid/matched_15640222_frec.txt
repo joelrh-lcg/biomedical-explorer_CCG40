@@ -1,0 +1,23 @@
+15640222	chemical	acetylene	6
+15640222	chemical	ethylene	5
+15640222	chemical	base	2
+15640222	chemical	amplify	2
+15640222	chemical	16s rrna	2
+15640222	chemical	15n isotope	2
+15640222	chemical	16s	1
+15640222	chemical	rrna	1
+15640222	gene/protein	pcr	8
+15640222	gene/protein	nifH	2
+15640222	gene/protein	nifh	1
+15640222	organism	Frankia	3
+15640222	organism	Casuarina equisetifolia	1
+15640222	organism	actinobacteria	1
+15640222	organism	Micromonosporaceae	1
+15640222	sequence	sequence	3
+15640222	sequence	base	2
+15640222	sequence	16s rrna	2
+15640222	sequence	rrna gene	2
+15640222	sequence	rrna	1
+15640222	sequence	gene	1
+15640222	clinical_drug	ethylene	1
+15640222	molecular_process	acetylene reduction	1

@@ -1,0 +1,45 @@
+11491326	chemical	Coffee	2
+11491326	chemical	Acetic Acid	2
+11491326	chemical	demeton-S-methyl	2
+11491326	chemical	acetic acid	1
+11491326	chemical	Culture Media	1
+11491326	chemical	alpha-amino acid	1
+11491326	chemical	amino acid	1
+11491326	chemical	nitrogen atom	1
+11491326	chemical	nitrogen(.)	1
+11491326	chemical	2,6-diisopropylnaphthalene	1
+11491326	chemical	DNA, Ribosomal	1
+11491326	chemical	RNA, Ribosomal, 16S	1
+11491326	gene/protein	vacuolar protein sorting-associated protein 18 homolog (fruit fly)	7
+11491326	gene/protein	tumor protein p53-inducible nuclear protein 2	7
+11491326	gene/protein	F-box protein DOR (Arabidopsis thaliana)	7
+11491326	gene/protein	tumor protein p53-inducible nuclear protein 2 (mouse)	7
+11491326	gene/protein	tumor protein p53-inducible nuclear protein 2 (human)	7
+11491326	gene/protein	succinate semialdehyde dehydrogenase [NAD(P)+] Sad	7
+11491326	gene/protein	acetylcholine receptor subunit alpha-like 2 (fruit fly)	7
+11491326	gene/protein	succinate semialdehyde dehydrogenase [NAD(P)+] Sad (Escherichia coli K-12)	7
+11491326	gene/protein	cytochrome P450 315a1, mitochondrial (fruit fly)	7
+11491326	gene/protein	cardiolipin synthase A	2
+11491326	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	2
+11491326	organism	Gluconacetobacter diazotrophicus	6
+11491326	organism	Gluconacetobacter johannae	4
+11491326	organism	Gluconacetobacter	3
+11491326	organism	Acetobacteraceae	2
+11491326	organism	Gluconacetobacter sacchari	2
+11491326	organism	bacterium BE	1
+11491326	organism	Coffea arabica	1
+11491326	organism	bacterium IFAM-3211	1
+11491326	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+11491326	organism	bacterium IFAM-3215	1
+11491326	organism	bacterium IFAM-2074	1
+11491326	organism	bacterium IFAM-3359	1
+11491326	organism	bacterium	1
+11491326	organism	bacterium IFAM-1493	1
+11491326	organism	Gluconacetobacter liquefaciens	1
+11491326	organism	Gluconacetobacter azotocaptans	1
+11491326	sequence	region	2
+11491326	sequence	amino_acid	1
+11491326	sequence	rRNA_gene	1
+11491326	sequence	rRNA_16S	1
+11491326	clinical_drug	Acetic Acid	1
+11491326	clinical_drug	Nitrogen	1

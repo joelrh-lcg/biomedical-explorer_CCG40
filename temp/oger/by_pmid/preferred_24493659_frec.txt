@@ -1,0 +1,32 @@
+24493659	chemical	Sewage	4
+24493659	chemical	citrate-binding transport protein	2
+24493659	chemical	Thr-Thr-Thr	2
+24493659	chemical	alpha-amino acid	2
+24493659	chemical	amino acid	2
+24493659	chemical	Citric Acid	2
+24493659	chemical	citrate(3-)	1
+24493659	chemical	citrate salt	1
+24493659	chemical	citrate anion	1
+24493659	gene/protein	Citrate-sodium symporter	6
+24493659	gene/protein	Deubiquitinase SseL	6
+24493659	gene/protein	Zinc finger-containing ubiquitin peptidase 1	5
+24493659	gene/protein	Citrate-proton symporter	4
+24493659	gene/protein	Protease ElaD	3
+24493659	gene/protein	Citrate/succinate antiporter	2
+24493659	gene/protein	Citrate transporter	1
+24493659	gene/protein	citrate/succinate antiporter	1
+24493659	gene/protein	zinc finger-containing ubiquitin peptidase 1	1
+24493659	gene/protein	protease ElaD	1
+24493659	gene/protein	kinesin-like protein subito (fruit fly)	1
+24493659	gene/protein	Ubiquitin carboxyl-terminal hydrolase mug105	1
+24493659	gene/protein	T-cell leukemia translocation-altered gene protein homolog (zebrafish)	1
+24493659	gene/protein	T-cell leukemia translocation-altered gene protein (human)	1
+24493659	gene/protein	T-cell leukemia translocation-altered gene protein homolog (mouse)	1
+24493659	gene/protein	T-cell leukemia translocation-altered gene protein homolog (rat)	1
+24493659	gene/protein	T-cell leukemia translocation-altered gene protein	1
+24493659	organism	Comamonas testosteroni	2
+24493659	organism	Betaproteobacteria	1
+24493659	sequence	region	2
+24493659	sequence	amino_acid	2
+24493659	sequence	polypeptide_repeat	2
+24493659	sequence	signature	1

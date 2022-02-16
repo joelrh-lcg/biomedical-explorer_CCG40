@@ -1,0 +1,38 @@
+24601835	biological_process	metabolic process	4
+24601835	biological_process	biosynthetic process	1
+24601835	biological_process	transport	1
+24601835	biological_process	catabolic process	1
+24601835	biological_process	symbiotic process	1
+24601835	biological_process	biological regulation	1
+24601835	biological_process	amino acid transport	1
+24601835	chemical	alpha-amino acid	6
+24601835	chemical	amino acid	6
+24601835	chemical	nitrogen atom	3
+24601835	chemical	nitrogen(.)	3
+24601835	chemical	Sulfur	2
+24601835	chemical	protein	1
+24601835	chemical	elemental carbon	1
+24601835	chemical	carbon atom	1
+24601835	chemical	polysulfur	1
+24601835	chemical	sulfur atom	1
+24601835	chemical	metabolite	1
+24601835	gene/protein	cartilage oligomeric matrix protein isoform 1	1
+24601835	gene/protein	nodal protein isoform 1	1
+24601835	organism	bacterium IFAM-3211	1
+24601835	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+24601835	organism	bacterium IFAM-3215	1
+24601835	organism	bacterium IFAM-2074	1
+24601835	organism	bacterium IFAM-3359	1
+24601835	organism	bacterium	1
+24601835	organism	bacterium IFAM-1493	1
+24601835	organism	Rhizobium	1
+24601835	organism	Sinorhizobium	1
+24601835	organism	Mesorhizobium	1
+24601835	organism	Azorhizobium	1
+24601835	organism	Bradyrhizobium	1
+24601835	sequence	amino_acid	6
+24601835	sequence	transit_peptide	1
+24601835	sequence	signal_peptide	1
+24601835	sequence	genome	1
+24601835	clinical_drug	Nitrogen	3
+24601835	clinical_drug	Sulfur	1

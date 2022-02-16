@@ -1,0 +1,21 @@
+8374070	biological_process	biological regulation	1
+8374070	biological_process	transcription, DNA-templated	1
+8374070	chemical	base	2
+8374070	chemical	RNA polymerase sigma 70	2
+8374070	chemical	atom	2
+8374070	chemical	dimethoxymethane	1
+8374070	gene/protein	RNA polymerase sigma factor RpoD	70
+8374070	gene/protein	RNA polymerase sigma factor SigA	6
+8374070	molecular_function	binding	1
+8374070	organism	Escherichia coli	2
+8374070	organism	Trachinotus falcatus	1
+8374070	sequence	promoter	7
+8374070	sequence	base	2
+8374070	sequence	regulatory_region	2
+8374070	sequence	regulatory_region_variant	2
+8374070	sequence	gene	1
+8374070	sequence	region	1
+8374070	sequence	operator	1
+8374070	sequence	non_covalent_binding_site	1
+8374070	sequence	binding_site	1
+8374070	organ/tissue	organ	2

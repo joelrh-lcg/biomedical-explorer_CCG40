@@ -1,0 +1,15 @@
+26059339	biological_process	gene expression	1
+26059339	biological_process	nodulation	1
+26059339	chemical	MicroRNAs	4
+26059339	gene/protein	ribonuclease I (Escherichia coli K-12)	2
+26059339	gene/protein	ribonuclease I	2
+26059339	gene/protein	Protein BEAN1	2
+26059339	gene/protein	protein BEAN	1
+26059339	organism	Fabaceae	1
+26059339	organism	Phaseolus	1
+26059339	organism	Phaseolus vulgaris	1
+26059339	sequence	miRNA	3
+26059339	sequence	gene	1
+26059339	sequence	genome	1
+26059339	cell_line	R1192	1
+26059339	organ/tissue	multicellular organism	1

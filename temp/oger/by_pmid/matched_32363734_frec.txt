@@ -1,0 +1,16 @@
+32363734	biological_process	metaplasia	1
+32363734	disease	gastric cancer	2
+32363734	disease	infection	2
+32363734	disease	gastritis	2
+32363734	disease	metaplasia	2
+32363734	gene/protein	caga	6
+32363734	gene/protein	precursor	2
+32363734	organism	Helicobacter pylori	2
+32363734	organism	human	1
+32363734	organism	none	1
+32363734	sequence	genome	1
+32363734	sequence	gene	1
+32363734	sequence	score	1
+32363734	cell_line	cag	1
+32363734	organ/tissue	stomach	1
+32363734	organ/tissue	metaplasia	1

@@ -1,0 +1,24 @@
+32385221	biological_process	gene expression	1
+32385221	biological_process	biological regulation	1
+32385221	chemical	MicroRNAs	14
+32385221	gene/protein	cartilage oligomeric matrix protein isoform 1	2
+32385221	gene/protein	nodal protein isoform 1	2
+32385221	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+32385221	gene/protein	ribonuclease I	1
+32385221	organism	Arachis	2
+32385221	organism	Arachis hypogaea	2
+32385221	organism	Fabaceae	1
+32385221	organism	bacterium IFAM-3211	1
+32385221	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+32385221	organism	bacterium IFAM-3215	1
+32385221	organism	bacterium IFAM-2074	1
+32385221	organism	bacterium IFAM-3359	1
+32385221	organism	bacterium	1
+32385221	organism	bacterium IFAM-1493	1
+32385221	sequence	miRNA	13
+32385221	sequence	gene	1
+32385221	organ/tissue	cerebellum vermis lobule X	6
+32385221	organ/tissue	germinal center	6
+32385221	organ/tissue	organ	1
+32385221	organ/tissue	compound organ	1
+32385221	clinical_drug	peanut allergenic extract	2

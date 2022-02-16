@@ -1,0 +1,15 @@
+26659678	biological_process	biosynthesis	1
+26659678	cellular_component	chromosome	1
+26659678	chemical	element	1
+26659678	chemical	natural product	1
+26659678	chemical	cluster	1
+26659678	chemical	peptide	1
+26659678	gene/protein	peptide	2
+26659678	organism	Stenotrophomonas acidaminiphila	2
+26659678	sequence	genome	1
+26659678	sequence	sequence	1
+26659678	sequence	circular	1
+26659678	sequence	chromosome	1
+26659678	sequence	mobile genetic element	1
+26659678	sequence	peptide	1
+26659678	organ/tissue	element	1

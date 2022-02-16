@@ -1,0 +1,7 @@
+12066843	biological_process	transcription, DNA-templated	1
+12066843	organism	Escherichia coli	6
+12066843	sequence	gene	6
+12066843	sequence	operon	4
+12066843	sequence	genome	3
+12066843	sequence	orthologous	1
+12066843	sequence	intergenic_variant	1

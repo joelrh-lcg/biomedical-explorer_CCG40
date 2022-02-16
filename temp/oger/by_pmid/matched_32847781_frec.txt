@@ -1,0 +1,9 @@
+32847781	biological_process	defense response	1
+32847781	gene/protein	ago	1
+32847781	gene/protein	crop	1
+32847781	organism	bacterium	7
+32847781	organism	human	2
+32847781	organism	cereal	1
+32847781	organism	legume	1
+32847781	organism	bacterium be	1
+32847781	organ/tissue	crop	1

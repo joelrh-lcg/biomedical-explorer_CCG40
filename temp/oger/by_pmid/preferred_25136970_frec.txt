@@ -1,0 +1,11 @@
+25136970	biological_process	pathogenesis	6
+25136970	biological_process	obsolete virulence	6
+25136970	biological_process	viral process	6
+25136970	biological_process	gene expression	2
+25136970	chemical	Anti-Bacterial Agents	12
+25136970	chemical	antimicrobial agent	6
+25136970	chemical	virulence factor	1
+25136970	disease	Infections	2
+25136970	organism	Salmonella typhimurium	1
+25136970	sequence	gene	5
+25136970	organ/tissue	multicellular organism	2

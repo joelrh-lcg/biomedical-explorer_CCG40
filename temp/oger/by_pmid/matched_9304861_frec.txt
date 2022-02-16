@@ -1,0 +1,42 @@
+9304861	biological_process	biosynthesis	2
+9304861	biological_process	nodulation	1
+9304861	biological_process	polysaccharide biosynthesis	1
+9304861	cellular_component	protein	1
+9304861	chemical	beta	16
+9304861	chemical	lps	6
+9304861	chemical	amino acid	4
+9304861	chemical	lipopolysaccharide	2
+9304861	chemical	protein	2
+9304861	chemical	polypeptide	1
+9304861	chemical	transferase	1
+9304861	chemical	proteins	1
+9304861	chemical	polysaccharide	1
+9304861	disease	lps	2
+9304861	disease	pertussis	2
+9304861	disease	tumor	2
+9304861	gene/protein	beta 2	6
+9304861	gene/protein	lps	4
+9304861	gene/protein	bean	3
+9304861	gene/protein	beta 1	3
+9304861	gene/protein	polypeptide	2
+9304861	gene/protein	protein	1
+9304861	organism	plasmid	4
+9304861	organism	Rhizobium etli	2
+9304861	organism	Pseudomonas aeruginosa	2
+9304861	organism	Bordetella pertussis	2
+9304861	organism	Yersinia enterocolitica	2
+9304861	organism	Agrobacterium	2
+9304861	organism	CFN42	1
+9304861	organism	cfn42	1
+9304861	organism	Bradyrhizobium	1
+9304861	organism	Azorhizobium	1
+9304861	organism	Rhizobium	1
+9304861	sequence	plasmid	4
+9304861	sequence	sequence	4
+9304861	sequence	amino acid	2
+9304861	sequence	fragment	1
+9304861	sequence	open reading frame	1
+9304861	sequence	polypeptide	1
+9304861	sequence	protein	1
+9304861	sequence	homologous	1
+9304861	cell_line	bean	1

@@ -1,0 +1,38 @@
+12730270	biological_process	synthesis	3
+12730270	biological_process	ureide synthesis	1
+12730270	cellular_component	plastid	1
+12730270	chemical	amide	8
+12730270	chemical	ureide	4
+12730270	chemical	cdna	3
+12730270	chemical	allopurinol	3
+12730270	chemical	amino acid	2
+12730270	chemical	nitrogen	2
+12730270	chemical	aspartate aminotransferase	1
+12730270	chemical	nucleotide	1
+12730270	chemical	peptide	1
+12730270	chemical	inhibitor	1
+12730270	chemical	asparagine synthetase	1
+12730270	disease	aat2	2
+12730270	gene/protein	aspartate aminotransferase	26
+12730270	gene/protein	aat2	16
+12730270	gene/protein	bean	9
+12730270	gene/protein	transit peptide	1
+12730270	molecular_function	aat	2
+12730270	organism	Phaseolus vulgaris	2
+12730270	sequence	sequence	4
+12730270	sequence	cdna	2
+12730270	sequence	gene	2
+12730270	sequence	cdna clone	1
+12730270	sequence	amino acid	1
+12730270	sequence	isoform	1
+12730270	sequence	transit peptide	1
+12730270	sequence	clone	1
+12730270	sequence	genome	1
+12730270	sequence	transcript	1
+12730270	sequence	asparagine	1
+12730270	cell_line	bean	3
+12730270	organ/tissue	nodule	8
+12730270	clinical_drug	aspartate	1
+12730270	clinical_drug	allopurinol	1
+12730270	clinical_drug	asparagine	1
+12730270	clinical_drug	nitrogen	1

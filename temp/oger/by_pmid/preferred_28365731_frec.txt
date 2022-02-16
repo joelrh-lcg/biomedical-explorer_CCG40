@@ -1,0 +1,4 @@
+28365731	gene/protein	coatomer subunit epsilon (Dictyostelium discoideum)	2
+28365731	organism	collection	1
+28365731	sequence	polypeptide_domain	2
+28365731	entity_type	preferred_term	2

@@ -1,0 +1,25 @@
+33063925	biological_process	stationary phase	4
+33063925	biological_process	asymmetric cell division	1
+33063925	biological_process	biosynthesis	1
+33063925	biological_process	sphingolipid biosynthesis	1
+33063925	cellular_component	membrane	2
+33063925	cellular_component	outer membrane	1
+33063925	chemical	dihydroceramide	12
+33063925	chemical	sphingolipid	3
+33063925	chemical	serine palmitoyltransferase	1
+33063925	chemical	cluster	1
+33063925	gene/protein	spt	52
+33063925	gene/protein	lack	1
+33063925	gene/protein	serine palmitoyltransferase	1
+33063925	molecular_function	spt	8
+33063925	molecular_function	serine palmitoyltransferase	1
+33063925	organism	bacterium	7
+33063925	organism	Caulobacter crescentus	2
+33063925	organism	bacterium be	1
+33063925	sequence	gene	5
+33063925	sequence	wild type	3
+33063925	sequence	serine	1
+33063925	organ/tissue	membrane	6
+33063925	organ/tissue	organism	2
+33063925	organ/tissue	cell division	1
+33063925	clinical_drug	serine	1

@@ -1,0 +1,9 @@
+21702991	gene/protein	bean	6
+21702991	gene/protein	pret	4
+21702991	organism	plasmid	4
+21702991	organism	Rhizobium etli	2
+21702991	organism	Sinorhizobium fredii	2
+21702991	organism	cfn42	1
+21702991	sequence	plasmid	4
+21702991	cell_line	bean	2
+21702991	organ/tissue	nodule	2

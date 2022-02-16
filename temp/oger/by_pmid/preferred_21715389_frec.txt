@@ -1,0 +1,21 @@
+21715389	biological_process	transcription, DNA-templated	1
+21715389	chemical	atom	1
+21715389	chemical	picloram	1
+21715389	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+21715389	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+21715389	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+21715389	gene/protein	cleavage and polyadenylation specificity factor subunit 4 (human)	1
+21715389	gene/protein	cleavage and polyadenylation specificity factor subunit 4	1
+21715389	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+21715389	molecular_function	binding	1
+21715389	organism	collection	2
+21715389	sequence	polypeptide_conserved_motif	6
+21715389	sequence	polypeptide_motif	6
+21715389	sequence	region	5
+21715389	sequence	genome	1
+21715389	sequence	match	1
+21715389	sequence	non_covalent_binding_site	1
+21715389	sequence	binding_site	1
+21715389	organ/tissue	webbed interdigital region	3
+21715389	organ/tissue	organ	1
+21715389	organ/tissue	matrix compartment	1

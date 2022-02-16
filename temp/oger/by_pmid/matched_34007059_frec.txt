@@ -1,0 +1,11 @@
+34007059	chemical	cytochrome	2
+34007059	chemical	proteins	1
+34007059	chemical	ubiquinol oxidase	1
+34007059	gene/protein	ubiquinol oxidase	8
+34007059	gene/protein	sub	2
+34007059	molecular_function	cytochrome	7
+34007059	organism	bacterium	7
+34007059	organism	acidithiobacillus	1
+34007059	organism	Proteobacteria	1
+34007059	sequence	genome	2
+34007059	clinical_drug	ubiquinol	1

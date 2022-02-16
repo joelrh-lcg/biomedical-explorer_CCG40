@@ -1,0 +1,31 @@
+32651884	biological_process	degradation	1
+32651884	chemical	pcb	12
+32651884	chemical	contaminant	2
+32651884	chemical	PCA	2
+32651884	chemical	aroclor 1260	2
+32651884	chemical	persistent organic pollutant	1
+32651884	chemical	polychlorinated biphenyl	1
+32651884	chemical	16s rrna	1
+32651884	chemical	amplify	1
+32651884	disease	PCA	1
+32651884	gene/protein	pcb	72
+32651884	gene/protein	sup	7
+32651884	gene/protein	SOM	4
+32651884	gene/protein	PCA	1
+32651884	organism	bacterium	28
+32651884	organism	Comamonas	2
+32651884	organism	bacillus cereus	2
+32651884	organism	Burkholderia cepacia	2
+32651884	organism	synthetic	1
+32651884	organism	human	1
+32651884	organism	Proteobacteria	1
+32651884	organism	Firmicutes	1
+32651884	organism	Burkholderia	1
+32651884	organism	bacillus	1
+32651884	organism	Acinetobacter	1
+32651884	organism	Cupriavidus	1
+32651884	organism	acinetobacter	1
+32651884	sequence	pcb	6
+32651884	sequence	16s rrna	1
+32651884	sequence	rrna gene	1
+32651884	organ/tissue	PCA	1

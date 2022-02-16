@@ -1,0 +1,20 @@
+26627477	biological_process	biosynthesis	1
+26627477	biological_process	carbon utilization	1
+26627477	biological_process	glucose transport	1
+26627477	cellular_component	intracellular	1
+26627477	chemical	glucose	10
+26627477	chemical	phosphoenolpyruvate	5
+26627477	chemical	carbon	4
+26627477	chemical	pb12	2
+26627477	chemical	pathway	1
+26627477	gene/protein	PTS	5
+26627477	gene/protein	lack	1
+26627477	organism	Escherichia coli	2
+26627477	organism	ale	1
+26627477	sequence	clone	1
+26627477	sequence	genome	1
+26627477	sequence	sequence	1
+26627477	cell_line	PTS	1
+26627477	cell_line	pb11	1
+26627477	cell_line	pb13	1
+26627477	clinical_drug	glucose	2

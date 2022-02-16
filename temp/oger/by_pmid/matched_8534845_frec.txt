@@ -1,0 +1,29 @@
+8534845	biological_process	formation	2
+8534845	biological_process	transcription	1
+8534845	chemical	lco	3
+8534845	chemical	stearic acid	3
+8534845	chemical	flavonoid	2
+8534845	chemical	oligosaccharide	1
+8534845	chemical	ce3	1
+8534845	chemical	pentasaccharide	1
+8534845	chemical	acid	1
+8534845	chemical	carbamoyl group	1
+8534845	chemical	den	1
+8534845	disease	nod	1
+8534845	gene/protein	nod	45
+8534845	gene/protein	den	1
+8534845	organism	bacterium	14
+8534845	organism	Lotus	4
+8534845	organism	Phaseolus	3
+8534845	organism	Rhizobium etli	2
+8534845	organism	Phaseolus vulgaris	2
+8534845	sequence	gene	3
+8534845	sequence	substitute	1
+8534845	cell_line	ce3	1
+8534845	cell_line	c180	1
+8534845	cell_line	den	1
+8534845	cell_line	Thomas	1
+8534845	organ/tissue	nodule	4
+8534845	organ/tissue	primordium	1
+8534845	organ/tissue	tissue	1
+8534845	clinical_drug	stearic acid	1

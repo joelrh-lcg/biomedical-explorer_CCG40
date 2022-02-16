@@ -1,0 +1,14 @@
+2522094	chemical	glutamine	12
+2522094	chemical	glutamate	6
+2522094	chemical	nitrogen	2
+2522094	chemical	glutamate synthase	1
+2522094	chemical	pathway	1
+2522094	chemical	glutamate dehydrogenase	1
+2522094	chemical	glutamine synthetase	1
+2522094	gene/protein	glutamine synthetase	123
+2522094	gene/protein	glutamate dehydrogenase	17
+2522094	organism	Neurospora crassa	2
+2522094	sequence	glutamine	4
+2522094	clinical_drug	glutamine	4
+2522094	clinical_drug	glutamate	3
+2522094	clinical_drug	nitrogen	1

@@ -1,0 +1,19 @@
+29459707	biological_process	homeostatic process	1
+29459707	chemical	atom	2
+29459707	chemical	vitamin	1
+29459707	chemical	lipid	1
+29459707	chemical	nitrogen atom	1
+29459707	chemical	nitrogen(.)	1
+29459707	chemical	radical	1
+29459707	gene/protein	Leghemoglobin C1	2
+29459707	organism	Desmodus rotundus	3
+29459707	organism	gut metagenome	2
+29459707	organism	Mammals	1
+29459707	sequence	reference_genome	1
+29459707	sequence	supercontig	1
+29459707	sequence	contig	1
+29459707	organ/tissue	digestive tract	2
+29459707	organ/tissue	lower digestive tract	2
+29459707	organ/tissue	digestive system	2
+29459707	organ/tissue	organ	2
+29459707	clinical_drug	Nitrogen	1

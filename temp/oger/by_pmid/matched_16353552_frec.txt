@@ -1,0 +1,35 @@
+16353552	biological_process	symbiosis	2
+16353552	biological_process	mutagenesis	1
+16353552	biological_process	nodule development	1
+16353552	biological_process	nodulation	1
+16353552	cellular_component	symbiosome	1
+16353552	cellular_component	membrane	1
+16353552	chemical	acid	2
+16353552	chemical	lipid	2
+16353552	chemical	chloride channel	1
+16353552	chemical	electron	1
+16353552	chemical	complement	1
+16353552	disease	CIAT	1
+16353552	disease	ciat	1
+16353552	gene/protein	clc	22
+16353552	gene/protein	bean	3
+16353552	gene/protein	clh	1
+16353552	organism	Rhizobium tropici	2
+16353552	organism	Phaseolus vulgaris	2
+16353552	organism	CIAT899	1
+16353552	organism	common bean plant	1
+16353552	organism	ciat899	1
+16353552	sequence	gene	3
+16353552	sequence	homolog	2
+16353552	sequence	deletion	2
+16353552	sequence	transposon	1
+16353552	sequence	mutagenesis	1
+16353552	sequence	insertion	1
+16353552	sequence	deficiency	1
+16353552	sequence	downstream	1
+16353552	sequence	homologous	1
+16353552	cell_line	bean	1
+16353552	cell_line	tn5	1
+16353552	organ/tissue	nodule	6
+16353552	organ/tissue	membrane	2
+16353552	molecular_process	hydroxylation	1

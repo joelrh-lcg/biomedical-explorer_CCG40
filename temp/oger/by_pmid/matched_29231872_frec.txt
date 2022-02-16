@@ -1,0 +1,24 @@
+29231872	chemical	venom	15
+29231872	chemical	scorpion venom	6
+29231872	chemical	peptide	2
+29231872	chemical	calcium channel	1
+29231872	chemical	toxin	1
+29231872	chemical	proteins	1
+29231872	chemical	molecule	1
+29231872	chemical	ion channel	1
+29231872	gene/protein	peptide	4
+29231872	organism	scorpion	5
+29231872	organism	mexican scorpion	4
+29231872	organism	spider	1
+29231872	organism	permit	1
+29231872	sequence	transcript	5
+29231872	sequence	peptide	2
+29231872	sequence	tandem	1
+29231872	sequence	sequence	1
+29231872	sequence	match	1
+29231872	cell_line	LCMS	1
+29231872	organ/tissue	venom	7
+29231872	organ/tissue	venom gland	2
+29231872	organ/tissue	fingerprint	1
+29231872	clinical_drug	tandem	1
+29231872	clinical_drug	calcium	1

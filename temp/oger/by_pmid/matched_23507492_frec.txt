@@ -1,0 +1,15 @@
+23507492	chemical	melanin	3
+23507492	chemical	Basta	2
+23507492	chemical	acid oxalic	2
+23507492	chemical	16s	1
+23507492	chemical	rdna	1
+23507492	chemical	metabolite	1
+23507492	chemical	sulphuric acid	1
+23507492	chemical	carotenoid	1
+23507492	chemical	hydrogen sulphide	1
+23507492	gene/protein	tomb	4
+23507492	gene/protein	Nile	1
+23507492	organism	Streptomyces	1
+23507492	sequence	rdna	1
+23507492	sequence	sequence	1
+23507492	organ/tissue	scale	1

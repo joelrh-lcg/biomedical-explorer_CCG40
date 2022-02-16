@@ -1,0 +1,50 @@
+23432573	biological_process	nitrogen fixation	1
+23432573	biological_process	symbiotic process	1
+23432573	biological_process	obsolete Gene_Ontology	1
+23432573	biological_process	biological_process	1
+23432573	biological_process	metabolic process	1
+23432573	biological_process	reverse transcription	1
+23432573	biological_process	transcription, DNA-templated	1
+23432573	biological_process	gene expression	1
+23432573	chemical	Reactive Oxygen Species	2
+23432573	chemical	reactive oxygen species	2
+23432573	chemical	Paraquat	2
+23432573	chemical	nitrogen atom	1
+23432573	chemical	nitrogen(.)	1
+23432573	chemical	herbicide	1
+23432573	chemical	paraquat	1
+23432573	chemical	safranin O	1
+23432573	chemical	ethane	1
+23432573	chemical	hydrate	1
+23432573	chemical	Nitrogenase	1
+23432573	chemical	N-acylurea	1
+23432573	chemical	probe	1
+23432573	chemical	base	1
+23432573	chemical	picloram	1
+23432573	gene/protein	Protein BEAN1	8
+23432573	gene/protein	protein BEAN	4
+23432573	gene/protein	U1 small nuclear ribonucleoprotein A (fruit fly)	2
+23432573	gene/protein	proto-oncogene tyrosine-protein kinase ROS (human)	1
+23432573	gene/protein	proto-oncogene tyrosine-protein kinase ROS	1
+23432573	gene/protein	DNA-3-methyladenine glycosylase 1 (Escherichia coli K-12)	1
+23432573	gene/protein	UPF0410 protein YmgE	1
+23432573	gene/protein	UPF0410 protein YmgE (Escherichia coli K-12)	1
+23432573	gene/protein	DNA-3-methyladenine glycosylase 1	1
+23432573	gene/protein	DNA-3-methyladenine glycosylase	1
+23432573	molecular_function	nitrogenase activity	1
+23432573	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+23432573	organism	Phaseolus	1
+23432573	organism	Phaseolus vulgaris	1
+23432573	sequence	gene	7
+23432573	sequence	EST	2
+23432573	sequence	probe	1
+23432573	sequence	region	1
+23432573	sequence	tag	1
+23432573	sequence	base	1
+23432573	sequence	reverse	1
+23432573	sequence	promoter_region	1
+23432573	cell_line	R1192	4
+23432573	organ/tissue	cerebellum vermis lobule X	6
+23432573	organ/tissue	germinal center	6
+23432573	clinical_drug	Oxygen	1
+23432573	clinical_drug	Nitrogen	1

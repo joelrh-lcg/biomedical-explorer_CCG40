@@ -1,0 +1,38 @@
+17526694	biological_process	acetate metabolism	2
+17526694	biological_process	acetate utilization	1
+17526694	biological_process	nodulation	1
+17526694	biological_process	nitrogen fixation	1
+17526694	biological_process	glyoxylate cycle	1
+17526694	biological_process	symbiosis	1
+17526694	cellular_component	smc	11
+17526694	chemical	acetate	16
+17526694	chemical	glyoxylate	4
+17526694	chemical	isocitrate lyase	3
+17526694	chemical	malate synthase	2
+17526694	chemical	complement	2
+17526694	chemical	nitrogen	2
+17526694	disease	smc	11
+17526694	gene/protein	isocitrate lyase	138
+17526694	gene/protein	acea	24
+17526694	gene/protein	malate synthase	22
+17526694	gene/protein	glcb	12
+17526694	gene/protein	smc	11
+17526694	gene/protein	glcB	8
+17526694	gene/protein	aceA	6
+17526694	gene/protein	lack	1
+17526694	molecular_function	malate synthase activity	1
+17526694	organism	strain rm	3
+17526694	organism	Sinorhizobium meliloti	2
+17526694	organism	alfalfa	2
+17526694	organism	alphaproteobacteria	1
+17526694	sequence	gene	3
+17526694	sequence	double	3
+17526694	sequence	open reading frame	2
+17526694	sequence	construct	2
+17526694	sequence	enzymatic	2
+17526694	sequence	downstream	1
+17526694	sequence	gene fusion	1
+17526694	sequence	operon	1
+17526694	clinical_drug	acetate	8
+17526694	clinical_drug	alfalfa	1
+17526694	clinical_drug	nitrogen	1

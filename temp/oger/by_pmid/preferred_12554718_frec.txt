@@ -1,0 +1,53 @@
+12554718	biological_process	transport	2
+12554718	biological_process	metabolic process	1
+12554718	biological_process	nodulation	1
+12554718	biological_process	biological regulation	1
+12554718	biological_process	nitrogen fixation	1
+12554718	cellular_component	obsolete protein	1
+12554718	chemical	Sucrose	4
+12554718	chemical	sucrose	2
+12554718	chemical	DNA, Complementary	2
+12554718	chemical	probe	2
+12554718	chemical	Glutamine	2
+12554718	chemical	Allantoin	2
+12554718	chemical	Allopurinol	2
+12554718	chemical	N-acylurea	2
+12554718	chemical	sucrose synthase	1
+12554718	chemical	protein	1
+12554718	chemical	(protein)	1
+12554718	chemical	elemental carbon	1
+12554718	chemical	carbon atom	1
+12554718	chemical	glutamine	1
+12554718	chemical	L-glutamine	1
+12554718	chemical	allantoin	1
+12554718	chemical	allopurinol	1
+12554718	chemical	nitrogen atom	1
+12554718	chemical	nitrogen(.)	1
+12554718	gene/protein	Sucrose synthase	15
+12554718	gene/protein	Protein BEAN1	6
+12554718	gene/protein	protein BEAN	3
+12554718	gene/protein	protein	1
+12554718	molecular_function	catalytic activity	1
+12554718	organism	Glycine max	1
+12554718	organism	Soybeans	1
+12554718	organism	Phaseolus	1
+12554718	organism	Phaseolus vulgaris	1
+12554718	sequence	gene	3
+12554718	sequence	cDNA_clone	2
+12554718	sequence	probe	2
+12554718	sequence	transcript	2
+12554718	sequence	polypeptide	1
+12554718	sequence	glutamine	1
+12554718	cell_line	R1192	3
+12554718	organ/tissue	cerebellum vermis lobule X	7
+12554718	organ/tissue	germinal center	7
+12554718	organ/tissue	tissue	1
+12554718	clinical_drug	Sucrose	3
+12554718	clinical_drug	Soybean preparation	1
+12554718	clinical_drug	Soybean	1
+12554718	clinical_drug	Glutamine	1
+12554718	clinical_drug	ALLANTOIN, (+)-	1
+12554718	clinical_drug	Allantoin	1
+12554718	clinical_drug	Allopurinol	1
+12554718	clinical_drug	Nitrogen	1
+12554718	molecular_process	reduction	1

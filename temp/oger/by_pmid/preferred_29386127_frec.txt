@@ -1,0 +1,19 @@
+29386127	biological_process	cell growth	2
+29386127	biological_process	cellular process	1
+29386127	chemical	inhibitor	2
+29386127	chemical	Adenosine Triphosphate	2
+29386127	chemical	biological role	1
+29386127	chemical	ATP(4-)	1
+29386127	chemical	ATP	1
+29386127	gene/protein	protein STRUBBELIG (Arabidopsis thaliana)	2
+29386127	gene/protein	kinesin-like protein subito (fruit fly)	2
+29386127	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+29386127	molecular_function	obsolete hydrogen-translocating F-type ATPase activity	1
+29386127	molecular_function	obsolete sodium-translocating F-type ATPase activity	1
+29386127	organism	Paracoccus	1
+29386127	sequence	gene	2
+29386127	sequence	deletion	1
+29386127	sequence	engineered_region	1
+29386127	sequence	delete	1
+29386127	cell_line	SfSWT-1	1
+29386127	clinical_drug	Adenosine Triphosphate	1

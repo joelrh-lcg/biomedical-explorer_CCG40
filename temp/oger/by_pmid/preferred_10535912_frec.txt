@@ -1,0 +1,35 @@
+10535912	biological_process	cellular respiration	4
+10535912	biological_process	respiratory gaseous exchange by respiratory system	4
+10535912	biological_process	catabolic process	2
+10535912	biological_process	obsolete germination	1
+10535912	chemical	7,8-dimethylalloxazine	14
+10535912	chemical	lumichrome	7
+10535912	chemical	Riboflavin	6
+10535912	chemical	riboflavin(1-)	3
+10535912	chemical	riboflavin	3
+10535912	chemical	elemental carbon	2
+10535912	chemical	carbon atom	2
+10535912	chemical	signalling molecule	1
+10535912	chemical	oxidooxomethyl	1
+10535912	chemical	cobalt(2+)	1
+10535912	chemical	carbon dioxide	1
+10535912	chemical	oxidocarbon(2+)	1
+10535912	organism	Medicago sativa	10
+10535912	organism	Sinorhizobium meliloti	2
+10535912	organism	bacterium IFAM-3211	1
+10535912	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+10535912	organism	bacterium IFAM-3215	1
+10535912	organism	bacterium IFAM-2074	1
+10535912	organism	bacterium IFAM-3359	1
+10535912	organism	bacterium	1
+10535912	organism	bacterium IFAM-1493	1
+10535912	organism	rhizosphere bacterium	1
+10535912	sequence	transit_peptide	2
+10535912	sequence	signal_peptide	2
+10535912	sequence	enhancer	1
+10535912	organ/tissue	cerebellum vermis lobule X	1
+10535912	organ/tissue	germinal center	1
+10535912	organ/tissue	life cycle stage	1
+10535912	clinical_drug	Medicago sativa whole extract	3
+10535912	clinical_drug	Riboflavin	3
+10535912	clinical_drug	alfalfa seed extract	1

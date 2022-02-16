@@ -1,0 +1,29 @@
+31947717	biological_process	metabolic process	1
+31947717	biological_process	transcription, DNA-templated	1
+31947717	cellular_component	obsolete protein	1
+31947717	chemical	protein	3
+31947717	chemical	DNA-Directed RNA Polymerases	1
+31947717	chemical	(protein)	1
+31947717	chemical	base	1
+31947717	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+31947717	gene/protein	ribonuclease I	1
+31947717	gene/protein	protein	1
+31947717	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+31947717	organism	collection	2
+31947717	organism	bacterium IFAM-3211	1
+31947717	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+31947717	organism	bacterium IFAM-3215	1
+31947717	organism	bacterium IFAM-2074	1
+31947717	organism	bacterium IFAM-3359	1
+31947717	organism	bacterium	1
+31947717	organism	bacterium IFAM-1493	1
+31947717	organism	Archaea	1
+31947717	sequence	genome	8
+31947717	sequence	gene	2
+31947717	sequence	polypeptide	1
+31947717	sequence	base	1
+31947717	sequence	duplication	1
+31947717	sequence	polypeptide_domain	1
+31947717	sequence	transit_peptide	1
+31947717	sequence	signal_peptide	1
+31947717	organ/tissue	multicellular organism	1

@@ -1,0 +1,29 @@
+18840678	biological_process	biological regulation	2
+18840678	biological_process	transcription, DNA-templated	2
+18840678	cellular_component	chromosome	5
+18840678	cellular_component	nucleus	1
+18840678	cellular_component	obsolete telomere	1
+18840678	cellular_component	chromosome, telomeric region	1
+18840678	cellular_component	chromosome, centromeric region	1
+18840678	cellular_component	obsolete centromere	1
+18840678	chemical	atomic nucleus	1
+18840678	chemical	cluster	1
+18840678	disease	Disease	2
+18840678	disease	Chromosome Aberrations	2
+18840678	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+18840678	organism	Eukaryota	2
+18840678	organism	Saccharomyces cerevisiae	2
+18840678	organism	unidentified	1
+18840678	organism	Yeasts	1
+18840678	sequence	chromosome	5
+18840678	sequence	gene	4
+18840678	sequence	linear	1
+18840678	sequence	genome	1
+18840678	sequence	candidate_gene	1
+18840678	sequence	telomere	1
+18840678	sequence	centromere	1
+18840678	organ/tissue	neural nucleus	1
+18840678	clinical_drug	Yeast, Unspecified	1
+18840678	clinical_drug	saccharomyces cerevisiae allergenic extract	1
+18840678	clinical_drug	Saccharomyces cerevisiae	1
+18840678	molecular_process	coordination	1

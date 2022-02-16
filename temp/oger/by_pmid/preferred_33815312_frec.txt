@@ -1,0 +1,39 @@
+33815312	biological_process	fermentation	2
+33815312	biological_process	metabolic process	1
+33815312	chemical	xylooligosaccharide	9
+33815312	chemical	Sucrose	6
+33815312	chemical	sucrose	3
+33815312	chemical	hemicellulose	3
+33815312	chemical	elemental carbon	2
+33815312	chemical	carbon atom	2
+33815312	chemical	xylan	2
+33815312	chemical	Carbohydrates	2
+33815312	chemical	Cellulose	2
+33815312	chemical	Starch	2
+33815312	chemical	sulfur atom	1
+33815312	chemical	DNA, Ribosomal	1
+33815312	chemical	carbohydrate	1
+33815312	chemical	(1->4)-beta-D-glucan	1
+33815312	chemical	starch	1
+33815312	chemical	natural product	1
+33815312	molecular_function	general transcription initiation factor activity	1
+33815312	organism	Zea mays	2
+33815312	organism	bacterium IFAM-3211	1
+33815312	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+33815312	organism	bacterium IFAM-3215	1
+33815312	organism	bacterium IFAM-2074	1
+33815312	organism	bacterium IFAM-3359	1
+33815312	organism	bacterium	1
+33815312	organism	bacterium IFAM-1493	1
+33815312	organism	Edible Grain	1
+33815312	organism	Betula	1
+33815312	sequence	contig	2
+33815312	sequence	gene	2
+33815312	sequence	region	1
+33815312	sequence	rRNA_gene	1
+33815312	sequence	genome	1
+33815312	sequence	enzymatic	1
+33815312	cell_line	Rh36	1
+33815312	clinical_drug	Sucrose	3
+33815312	clinical_drug	.ALPHA.-CELLULOSE	1
+33815312	clinical_drug	Starch	1

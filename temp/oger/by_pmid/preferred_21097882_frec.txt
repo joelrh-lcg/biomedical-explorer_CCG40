@@ -1,0 +1,26 @@
+21097882	biological_process	biological regulation	2
+21097882	biological_process	gene expression	1
+21097882	biological_process	signal transduction	1
+21097882	cellular_component	obsolete protein	2
+21097882	chemical	protein	2
+21097882	chemical	(protein)	2
+21097882	chemical	picloram	2
+21097882	chemical	magnesium atom	1
+21097882	gene/protein	Keratin, type I cytoskeletal 12	4
+21097882	gene/protein	protein	2
+21097882	gene/protein	secreted and transmembrane protein 1	1
+21097882	gene/protein	secreted and transmembrane protein 1 (human)	1
+21097882	gene/protein	secreted and transmembrane protein 1b	1
+21097882	gene/protein	keratin, type I cytoskeletal 12	1
+21097882	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+21097882	organism	Escherichia coli	2
+21097882	organism	Escherichia coli K12	1
+21097882	sequence	gene	2
+21097882	sequence	polypeptide	2
+21097882	sequence	operon	1
+21097882	sequence	transit_peptide	1
+21097882	sequence	signal_peptide	1
+21097882	cell_line	K12 [Mouse osteosarcoma]	1
+21097882	cell_line	K12-72.1	1
+21097882	organ/tissue	multicellular organism	1
+21097882	organ/tissue	webbed interdigital region	1

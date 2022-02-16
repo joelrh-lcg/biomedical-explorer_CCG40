@@ -1,0 +1,52 @@
+21926226	biological_process	G1 to G0 transition	3
+21926226	biological_process	single-celled organism vegetative growth phase	3
+21926226	biological_process	nodulation	1
+21926226	biological_process	fatty acid catabolic process	1
+21926226	cellular_component	membrane	4
+21926226	chemical	fatty acid	11
+21926226	chemical	lipid	3
+21926226	chemical	Acyl Coenzyme A	2
+21926226	chemical	Coenzyme A	2
+21926226	chemical	long-chain fatty acid	2
+21926226	chemical	acyl-CoA	1
+21926226	chemical	coenzyme A(4-)	1
+21926226	chemical	coenzyme A	1
+21926226	chemical	Ligases	1
+21926226	chemical	mixture	1
+21926226	chemical	delta-5 fatty acid desaturase	1
+21926226	chemical	phospholipid	1
+21926226	gene/protein	long-chain-fatty-acid--CoA ligase	7
+21926226	gene/protein	sn-2 acyl-lipid omega-3 desaturase (ferredoxin), chloroplastic (Arabidopsis thaliana)	7
+21926226	gene/protein	FAS-associated death domain protein (mouse)	7
+21926226	gene/protein	Fas-associated death domain protein (fruit fly)	7
+21926226	gene/protein	FAS-associated death domain protein (human)	7
+21926226	gene/protein	long-chain-fatty-acid--CoA ligase (Escherichia coli K-12)	7
+21926226	gene/protein	FAS-associated death domain protein	7
+21926226	gene/protein	Acyl-CoA (8-3)-desaturase	4
+21926226	gene/protein	Acyl-lipid (8-3)-desaturase	2
+21926226	gene/protein	outer membrane porin F (Escherichia coli K-12)	1
+21926226	gene/protein	Hermansky-Pudlak syndrome 3 protein	1
+21926226	gene/protein	outer membrane porin F	1
+21926226	gene/protein	coagulase	1
+21926226	gene/protein	Hermansky-Pudlak syndrome 3 protein homolog (mouse)	1
+21926226	gene/protein	acyl-CoA (8-3)-desaturase	1
+21926226	gene/protein	Fatty acid desaturase	1
+21926226	gene/protein	long-chain fatty acid transport protein	1
+21926226	gene/protein	long-chain fatty acid transport protein (Escherichia coli K-12)	1
+21926226	molecular_function	lathosterol oxidase activity	1
+21926226	organism	Escherichia coli	4
+21926226	organism	bacterium IFAM-3211	2
+21926226	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+21926226	organism	bacterium IFAM-3215	2
+21926226	organism	bacterium IFAM-2074	2
+21926226	organism	bacterium IFAM-3359	2
+21926226	organism	bacterium	2
+21926226	organism	bacterium IFAM-1493	2
+21926226	organism	Sinorhizobium meliloti	2
+21926226	organism	Medicago sativa	2
+21926226	sequence	sequence_variant_obs	1
+21926226	sequence	cytoplasmic_polypeptide_region	1
+21926226	sequence	gene	1
+21926226	organ/tissue	membrane organ	4
+21926226	organ/tissue	membranous layer	4
+21926226	clinical_drug	Medicago sativa whole extract	1

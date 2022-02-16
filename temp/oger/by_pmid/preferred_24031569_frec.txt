@@ -1,0 +1,44 @@
+24031569	chemical	antagonist	2
+24031569	chemical	Indoleacetic Acids	2
+24031569	chemical	indoleacetic acid	2
+24031569	chemical	tricalcium phosphate	2
+24031569	chemical	auxin	1
+24031569	chemical	indole-3-acetic acid	1
+24031569	chemical	tricalcium bis(phosphate)	1
+24031569	gene/protein	Phosphoglycolate phosphatase	264
+24031569	gene/protein	Glycerol-3-phosphate phosphatase	15
+24031569	gene/protein	Streptopain	7
+24031569	gene/protein	Probable phosphoglycolate phosphatase	6
+24031569	gene/protein	Luc7-like protein (Dictyostelium discoideum)	3
+24031569	gene/protein	Phosphoglycolate phosphatase, plasmid	3
+24031569	gene/protein	glycerol-3-phosphate phosphatase (human)	3
+24031569	gene/protein	glycerol-3-phosphate phosphatase	3
+24031569	gene/protein	phosphoglycolate phosphatase Gph	3
+24031569	gene/protein	glycerol-3-phosphate phosphatase (rat)	3
+24031569	gene/protein	Phosphoglycolate phosphatase, chromosomal	3
+24031569	gene/protein	glycerol-3-phosphate phosphatase (chicken)	3
+24031569	gene/protein	glycerol-3-phosphate phosphatase (mouse)	3
+24031569	gene/protein	minor histocompatibility antigen H13	1
+24031569	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+24031569	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+24031569	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+24031569	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+24031569	gene/protein	minor histocompatibility antigen H13 (human)	1
+24031569	gene/protein	sphingosine-1-phosphate phosphatase	1
+24031569	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+24031569	gene/protein	SD07518p (fruit fly)	1
+24031569	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+24031569	gene/protein	protein IMPACT (zebrafish)	1
+24031569	molecular_function	obsolete signal peptide peptidase activity	1
+24031569	organism	Solanum tuberosum	10
+24031569	organism	Bacillus	4
+24031569	organism	Fungi	1
+24031569	organism	Rhizoctonia	1
+24031569	organism	Fusarium	1
+24031569	sequence	BAC	3
+24031569	cell_line	AL 1-27	1
+24031569	cell_line	DV3-M11	1
+24031569	organ/tissue	crop	3
+24031569	clinical_drug	potato allergenic extract	5
+24031569	clinical_drug	Acetic Acid	1
+24031569	clinical_drug	Tricalcium Phosphate	1

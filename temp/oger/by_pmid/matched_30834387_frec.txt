@@ -1,0 +1,8 @@
+30834387	chemical	metric	2
+30834387	organism	bacterium	7
+30834387	organism	Rhizobium jaguaris	4
+30834387	organism	Rhizobium tropici	2
+30834387	organism	Phaseolus vulgaris	2
+30834387	sequence	genome	1
+30834387	sequence	sequence	1
+30834387	organ/tissue	nodule	4

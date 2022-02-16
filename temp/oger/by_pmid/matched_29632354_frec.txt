@@ -1,0 +1,16 @@
+29632354	cellular_component	central element	1
+29632354	cellular_component	protein	1
+29632354	cellular_component	tem	1
+29632354	chemical	protein	2
+29632354	chemical	element	1
+29632354	chemical	tem	1
+29632354	gene/protein	tem1	6
+29632354	gene/protein	protein	1
+29632354	organism	bacterium	14
+29632354	organism	plasmid	4
+29632354	sequence	plasmid	4
+29632354	sequence	mutation	1
+29632354	sequence	gene	1
+29632354	sequence	protein	1
+29632354	cell_line	tem	1
+29632354	organ/tissue	element	1

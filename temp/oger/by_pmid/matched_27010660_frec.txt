@@ -1,0 +1,17 @@
+27010660	biological_process	nitrogen fixation	4
+27010660	chemical	nitrogen	8
+27010660	chemical	oxygen	3
+27010660	disease	tcs	6
+27010660	gene/protein	fixn	5
+27010660	gene/protein	sm11	4
+27010660	gene/protein	FixJ	1
+27010660	organism	Sinorhizobium meliloti	2
+27010660	organism	Rhizobium etli	2
+27010660	sequence	orthologue	1
+27010660	sequence	null mutation	1
+27010660	sequence	mutation	1
+27010660	sequence	genome	1
+27010660	cell_line	tcs	6
+27010660	organ/tissue	nodule	2
+27010660	clinical_drug	nitrogen	4
+27010660	clinical_drug	oxygen	3

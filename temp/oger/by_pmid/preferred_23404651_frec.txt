@@ -1,0 +1,61 @@
+23404651	chemical	RNA, Ribosomal, 16S	2
+23404651	chemical	cluster	2
+23404651	gene/protein	protein RecA (Brucella abortus bv. 1 str. 9-941)	2
+23404651	gene/protein	protein RecA (Mycobacterium tuberculosis H37Rv)	2
+23404651	gene/protein	DNA repair protein RAD51 homolog 1 (mouse)	2
+23404651	gene/protein	protein RecA	2
+23404651	gene/protein	DNA repair protein RAD51 homolog 1	2
+23404651	gene/protein	protein RecA (Brucella suis 1330)	2
+23404651	gene/protein	mitochondrial DNA repair protein recA homolog (Dictyostelium discoideum)	2
+23404651	gene/protein	protein RecA (Escherichia coli K-12)	2
+23404651	gene/protein	protein RecA (Brucella canis ATCC 23365)	2
+23404651	gene/protein	DNA repair protein RAD51 homolog 1 (human)	2
+23404651	gene/protein	protein RecA (Brucella suis ATCC 23445)	2
+23404651	gene/protein	protein RecA (Brucella melitensis ATCC 23457)	2
+23404651	gene/protein	DNA repair protein recA homolog 1, chloroplastic (Arabidopsis thaliana)	2
+23404651	gene/protein	protein RecA (Brucella abortus 2308)	2
+23404651	gene/protein	DNA gyrase subunit B (Staphylococcus aureus)	1
+23404651	gene/protein	DNA gyrase subunit B (Streptococcus pneumoniae TIGR4)	1
+23404651	gene/protein	DNA gyrase subunit B (Escherichia coli K-12)	1
+23404651	gene/protein	DNA gyrase subunit B	1
+23404651	gene/protein	DNA gyrase subunit B (Staphylococcus epidermidis RP62A)	1
+23404651	gene/protein	DNA-directed RNA polymerase subunit beta (Thermus thermophilus HB8)	1
+23404651	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis ATCC 23445)	1
+23404651	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus 2308)	1
+23404651	gene/protein	DNA-directed RNA polymerase subunit beta (Escherichia coli K-12)	1
+23404651	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella canis ATCC 23365)	1
+23404651	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella ovis ATCC 25840)	1
+23404651	gene/protein	DNA-directed RNA polymerase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+23404651	gene/protein	DNA-directed RNA polymerase subunit beta (Peptoclostridium difficile 630)	1
+23404651	gene/protein	DNA-directed RNA polymerase subunit beta (Clostridium botulinum A str. Hall)	1
+23404651	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella melitensis ATCC 23457)	1
+23404651	gene/protein	DNA-directed RNA polymerase subunit beta	1
+23404651	gene/protein	DNA-directed RNA polymerase subunit beta (Arabidopsis thaliana)	1
+23404651	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis 1330)	1
+23404651	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus bv. 1 str. 9-941)	1
+23404651	gene/protein	ATP synthase subunit delta, chloroplastic (Arabidopsis thaliana)	1
+23404651	gene/protein	ATP synthase subunit beta (Aeromonas hydrophila subsp. hydrophila ATCC 7966)	1
+23404651	gene/protein	ATP synthase subunit beta (Clostridium botulinum A str. Hall)	1
+23404651	gene/protein	ATP synthase subunit beta (Mycobacterium tuberculosis H37Rv)	1
+23404651	gene/protein	ATP synthase subunit beta	1
+23404651	gene/protein	ATP synthase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+23404651	gene/protein	ATP synthase subunit beta (Escherichia coli K-12)	1
+23404651	gene/protein	ATP synthase subunit beta (Leptospira interrogans serovar Lai str. 56601)	1
+23404651	gene/protein	glutamate synthase [NADPH] large chain (Escherichia coli K-12)	1
+23404651	gene/protein	glutamate synthase [NADPH] small chain (Bacillus subtilis subsp. subtilis str. 168)	1
+23404651	gene/protein	glutamate synthase [NADPH] large chain	1
+23404651	gene/protein	elongation factor 4 (Escherichia coli K-12)	1
+23404651	gene/protein	elongation factor 4 (Clostridium botulinum A str. Hall)	1
+23404651	gene/protein	elongation factor 4	1
+23404651	gene/protein	elongation factor 4 (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+23404651	organism	Burkholderia	6
+23404651	organism	Humans	2
+23404651	sequence	region	3
+23404651	sequence	rRNA_16S	2
+23404651	sequence	gene	2
+23404651	sequence	genome	1
+23404651	sequence	sequence_comparison	1
+23404651	sequence	rRNA_gene	1
+23404651	cell_line	RECA	2
+23404651	organ/tissue	animal hemisphere	1
+23404651	organ/tissue	multicellular organism	1

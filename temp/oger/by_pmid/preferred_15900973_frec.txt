@@ -1,0 +1,22 @@
+15900973	chemical	base	1
+15900973	chemical	sulfur atom	1
+15900973	chemical	DNA, Ribosomal	1
+15900973	gene/protein	Protochlorophyllide reductase, chloroplastic	10
+15900973	gene/protein	Light-dependent protochlorophyllide reductase	4
+15900973	gene/protein	Protochlorophyllide reductase	2
+15900973	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	2
+15900973	organism	Gluconacetobacter diazotrophicus	4
+15900973	organism	Acetobacteraceae	2
+15900973	organism	Oryza sativa	2
+15900973	organism	Oryza	2
+15900973	organism	synthetic construct	2
+15900973	organism	Acetobacter aceti	2
+15900973	organism	Gluconacetobacter liquefaciens	2
+15900973	organism	Acetobacter	2
+15900973	organism	bacterium BE	1
+15900973	sequence	primer	2
+15900973	sequence	base	1
+15900973	sequence	rRNA_gene	1
+15900973	sequence	region	1
+15900973	sequence	gene	1
+15900973	clinical_drug	Brown Rice	2

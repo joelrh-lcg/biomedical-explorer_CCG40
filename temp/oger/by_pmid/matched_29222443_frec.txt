@@ -1,0 +1,37 @@
+29222443	biological_process	metabolism	1
+29222443	biological_process	aerobic respiration	1
+29222443	biological_process	fermentation	1
+29222443	chemical	carbon	4
+29222443	chemical	nitrogen	4
+29222443	chemical	atp	4
+29222443	chemical	iron	3
+29222443	chemical	AMD	2
+29222443	chemical	base	2
+29222443	chemical	peat	2
+29222443	chemical	amino acid	2
+29222443	chemical	acid	1
+29222443	chemical	16s rrna	1
+29222443	chemical	saccharide	1
+29222443	chemical	proteins	1
+29222443	chemical	pathway	1
+29222443	chemical	nucleotide	1
+29222443	disease	AMD	2
+29222443	gene/protein	mat	653
+29222443	gene/protein	AMD	8
+29222443	gene/protein	lack	2
+29222443	molecular_function	mat	1
+29222443	organism	archaea	3
+29222443	organism	Thermoplasmatales	3
+29222443	sequence	genome	4
+29222443	sequence	base	2
+29222443	sequence	gene	2
+29222443	sequence	16s rrna	1
+29222443	sequence	rrna gene	1
+29222443	sequence	syntenic	1
+29222443	sequence	amino acid	1
+29222443	cell_line	mat	1
+29222443	organ/tissue	scale	1
+29222443	clinical_drug	iron	3
+29222443	clinical_drug	nitrogen	2
+29222443	clinical_drug	atp	1
+29222443	molecular_process	oxidation	1

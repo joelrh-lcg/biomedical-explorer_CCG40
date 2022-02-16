@@ -1,0 +1,31 @@
+16665575	biological_process	nodulation	1
+16665575	biological_process	nitrogen fixation	1
+16665575	cellular_component	polysome	2
+16665575	cellular_component	obsolete soluble fraction	1
+16665575	cellular_component	obsolete protein	1
+16665575	chemical	Urate Oxidase	6
+16665575	chemical	DNA, Complementary	3
+16665575	chemical	protein	1
+16665575	chemical	(protein)	1
+16665575	chemical	nitrogen atom	1
+16665575	chemical	nitrogen(.)	1
+16665575	chemical	label	1
+16665575	gene/protein	Uricase	50
+16665575	gene/protein	Uricase-2	4
+16665575	gene/protein	uricase	2
+16665575	gene/protein	protein	1
+16665575	organism	Phaseolus	1
+16665575	organism	Glycine max	1
+16665575	organism	Soybeans	1
+16665575	sequence	cDNA	2
+16665575	sequence	polypeptide	1
+16665575	sequence	cDNA_clone	1
+16665575	sequence	homologous	1
+16665575	sequence	clone	1
+16665575	sequence	transcript	1
+16665575	organ/tissue	cerebellum vermis lobule X	3
+16665575	organ/tissue	germinal center	3
+16665575	organ/tissue	tissue	1
+16665575	clinical_drug	Nitrogen	1
+16665575	clinical_drug	Soybean preparation	1
+16665575	clinical_drug	Soybean	1

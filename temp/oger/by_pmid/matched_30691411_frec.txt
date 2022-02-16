@@ -1,0 +1,4 @@
+30691411	biological_process	gene expression	3
+30691411	biological_process	cellular response to stimulus	1
+30691411	gene/protein	SRA	14
+30691411	sequence	gene	3

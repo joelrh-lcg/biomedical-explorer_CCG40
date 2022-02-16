@@ -1,0 +1,51 @@
+26111345	cellular_component	obsolete protein	1
+26111345	chemical	Calcitriol	16
+26111345	chemical	calcitriol	8
+26111345	chemical	MicroRNAs	6
+26111345	chemical	Vitamin D	6
+26111345	chemical	24,25-Dihydroxyvitamin D	3
+26111345	chemical	vitamin D	3
+26111345	chemical	Cholecalciferol	2
+26111345	chemical	atom	2
+26111345	chemical	picloram	2
+26111345	chemical	calciol	1
+26111345	chemical	protein	1
+26111345	chemical	(protein)	1
+26111345	chemical	Retinoid X Receptors	1
+26111345	disease	Neoplasms	2
+26111345	disease	Uterine Cervical Neoplasms	2
+26111345	gene/protein	E3 ubiquitin-protein ligase MYLIP	12
+26111345	gene/protein	endoribonuclease Dicer (chicken)	5
+26111345	gene/protein	endoribonuclease Dicer (mouse)	5
+26111345	gene/protein	endoribonuclease Dicer	5
+26111345	gene/protein	endoribonuclease Dicer (human)	5
+26111345	gene/protein	MLX-interacting protein	3
+26111345	gene/protein	MLX-interacting protein (human)	3
+26111345	gene/protein	E3 ubiquitin-protein ligase MARCH8 (mouse)	3
+26111345	gene/protein	Miraculin	3
+26111345	gene/protein	Insulin-like receptor	3
+26111345	gene/protein	E3 ubiquitin-protein ligase MARCH8 (human)	3
+26111345	gene/protein	MLX-interacting protein (mouse)	3
+26111345	gene/protein	E3 ubiquitin-protein ligase MARCH8	3
+26111345	gene/protein	E3 ubiquitin-protein ligase MYLIP-A (zebrafish)	3
+26111345	gene/protein	ribonuclease 3	2
+26111345	gene/protein	ribonuclease 3 (mouse)	2
+26111345	gene/protein	ribonuclease 3 (human)	2
+26111345	gene/protein	Retinoic acid receptor RXR	2
+26111345	gene/protein	protein	1
+26111345	gene/protein	ATP-dependent RNA helicase ddx54 (Dictyostelium discoideum)	1
+26111345	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+26111345	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+26111345	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+26111345	sequence	miRNA	6
+26111345	sequence	response_element	2
+26111345	sequence	promoter	2
+26111345	sequence	polypeptide	1
+26111345	cell	neoplastic cell	1
+26111345	cell	malignant cell	1
+26111345	cell_line	SiHa	3
+26111345	cell_line	HeLa	1
+26111345	cell_line	C-33 A	1
+26111345	organ/tissue	organ	2
+26111345	clinical_drug	Calcitriol	8
+26111345	clinical_drug	Vitamin D	4

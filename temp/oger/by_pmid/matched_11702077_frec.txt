@@ -1,0 +1,26 @@
+11702077	biological_process	mutagenesis	1
+11702077	biological_process	transcription	1
+11702077	chemical	glucose	5
+11702077	chemical	biotin	4
+11702077	chemical	oxaloacetate	4
+11702077	chemical	pyruvate	3
+11702077	chemical	carbon	2
+11702077	chemical	alpha	2
+11702077	chemical	pyruvate carboxylase	1
+11702077	gene/protein	pyc	18
+11702077	gene/protein	pyruvate carboxylase	9
+11702077	gene/protein	PYC	3
+11702077	organism	sinorhizobium meliloti	2
+11702077	organism	Rhizobium tropici	2
+11702077	organism	alfalfa	2
+11702077	sequence	gene	2
+11702077	sequence	cosmid	1
+11702077	sequence	transposon	1
+11702077	sequence	mutagenesis	1
+11702077	sequence	gene fusion	1
+11702077	organ/tissue	sole	1
+11702077	clinical_drug	pyruvate	2
+11702077	clinical_drug	glucose	1
+11702077	clinical_drug	alfalfa	1
+11702077	clinical_drug	biotin	1
+11702077	molecular_process	biotinylation	1

@@ -1,0 +1,12 @@
+27854363	chemical	base	1
+27854363	disease	disease	4
+27854363	disease	autism	1
+27854363	organism	human	2
+27854363	sequence	indel	5
+27854363	sequence	mutation	2
+27854363	sequence	genome	1
+27854363	sequence	insertion	1
+27854363	sequence	deletion	1
+27854363	sequence	base	1
+27854363	sequence	candidate gene	1
+27854363	sequence	Indel	1

@@ -1,0 +1,8 @@
+34638169	biological_process	ner	2
+34638169	chemical	ner	2
+34638169	chemical	label	1
+34638169	disease	covid19	4
+34638169	disease	coronavirus disease 2019	1
+34638169	gene/protein	ner	8
+34638169	organism	coronavirus	1
+34638169	sequence	gain	1

@@ -1,0 +1,5 @@
+16229745	sequence	gene	2
+16229745	sequence	natural_variant_site	1
+16229745	sequence	alternate_sequence_site	1
+16229745	sequence	sequence_alteration	1
+16229745	sequence	genome	1

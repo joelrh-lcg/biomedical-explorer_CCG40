@@ -1,0 +1,29 @@
+9202472	biological_process	regulation	2
+9202472	chemical	gln	8
+9202472	chemical	oxidase	5
+9202472	chemical	acid	4
+9202472	chemical	glutamine	4
+9202472	chemical	ammonium	3
+9202472	chemical	glutamine synthetase	2
+9202472	chemical	beta	2
+9202472	chemical	amino acid	2
+9202472	chemical	nitrogen	2
+9202472	chemical	alpha	1
+9202472	chemical	inhibitor	1
+9202472	gene/protein	glutamine synthetase	246
+9202472	gene/protein	nit2	20
+9202472	gene/protein	gln1	4
+9202472	gene/protein	lack	1
+9202472	molecular_function	glutamine synthetase activity	1
+9202472	organism	Neurospora crassa	2
+9202472	sequence	glutamine	3
+9202472	sequence	gln	2
+9202472	sequence	amino acid	1
+9202472	sequence	mutation	1
+9202472	sequence	double	1
+9202472	cell_line	1br	2
+9202472	cell_line	br8	2
+9202472	cell_line	nit2	2
+9202472	organ/tissue	MSO	2
+9202472	clinical_drug	glutamine	3
+9202472	clinical_drug	nitrogen	1

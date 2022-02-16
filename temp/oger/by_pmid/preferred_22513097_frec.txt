@@ -1,0 +1,7 @@
+22513097	biological_process	biosynthetic process	1
+22513097	chemical	Glycerol	2
+22513097	chemical	Biofuels	2
+22513097	chemical	2-(9-oxo)nonanoyl glycerol	2
+22513097	chemical	glycerol	1
+22513097	organism	Escherichia coli	2
+22513097	sequence	gene	1

@@ -1,0 +1,18 @@
+9293018	chemical	coffee	10
+9293018	chemical	rrna	1
+9293018	gene/protein	pai	7
+9293018	gene/protein	crop	1
+9293018	organism	bacterium	14
+9293018	organism	Acetobacter	6
+9293018	organism	coffee	5
+9293018	organism	Acetobacter diazotrophicus	4
+9293018	organism	fungus	1
+9293018	organism	spore	1
+9293018	organism	Planococcus citri	1
+9293018	organism	bacterium be	1
+9293018	sequence	inside	1
+9293018	sequence	rrna	1
+9293018	sequence	restriction fragment length polymorphism	1
+9293018	cell_line	pai	2
+9293018	organ/tissue	tissue	1
+9293018	organ/tissue	crop	1

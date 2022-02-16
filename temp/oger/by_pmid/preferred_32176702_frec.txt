@@ -1,0 +1,43 @@
+32176702	biological_process	biofilm formation	5
+32176702	biological_process	signal transduction	2
+32176702	biological_process	gene expression	1
+32176702	biological_process	obsolete flagellum assembly	1
+32176702	biological_process	signaling	1
+32176702	cellular_component	obsolete flagellum	3
+32176702	cellular_component	cilium	3
+32176702	cellular_component	pilus	1
+32176702	cellular_component	cell surface	1
+32176702	chemical	bis(3',5')-cyclic diguanylic acid	8
+32176702	chemical	c-di-GMP	4
+32176702	chemical	Guanosine Monophosphate	2
+32176702	chemical	picloram	2
+32176702	chemical	Hemagglutinins	2
+32176702	chemical	molecule	1
+32176702	chemical	guanosine 5'-monophosphate	1
+32176702	chemical	guanosine monophosphate	1
+32176702	chemical	Flagellin	1
+32176702	chemical	diguanylate cyclase	1
+32176702	disease	Cholera	2
+32176702	gene/protein	Hemagglutinin	209
+32176702	gene/protein	Outer capsid protein VP4	68
+32176702	gene/protein	Flagellin	34
+32176702	gene/protein	Protein A56	8
+32176702	gene/protein	Outer capsid protein sigma-1	3
+32176702	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	2
+32176702	gene/protein	Flagellar filament 41 kDa core protein	1
+32176702	organism	bacterium IFAM-3211	1
+32176702	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+32176702	organism	bacterium IFAM-3215	1
+32176702	organism	bacterium IFAM-2074	1
+32176702	organism	bacterium IFAM-3359	1
+32176702	organism	bacterium	1
+32176702	organism	bacterium IFAM-1493	1
+32176702	sequence	assembly	3
+32176702	sequence	transition	2
+32176702	sequence	transit_peptide	2
+32176702	sequence	signal_peptide	2
+32176702	sequence	gene	1
+32176702	sequence	reverse	1
+32176702	sequence	deletion	1
+32176702	sequence	sequence_variant_obs	1
+32176702	molecular_process	reduction	1

@@ -1,0 +1,90 @@
+8589413	biological_process	symbiotic process	3
+8589413	biological_process	nodulation	3
+8589413	biological_process	biosynthetic process	1
+8589413	biological_process	excretion	1
+8589413	biological_process	gene expression	1
+8589413	biological_process	biological regulation	1
+8589413	chemical	palmitoyl group	7
+8589413	chemical	poly(acrylamide) macromolecule	7
+8589413	chemical	poly(acrylamide) polymer	7
+8589413	chemical	Ammonium Compounds	6
+8589413	chemical	ammonium	3
+8589413	chemical	naringenin	3
+8589413	chemical	picloram	1
+8589413	chemical	base	1
+8589413	chemical	alpha-amino acid	1
+8589413	chemical	amino acid	1
+8589413	chemical	(S)-naringenin	1
+8589413	chemical	nodulation factor	1
+8589413	chemical	nitrogen atom	1
+8589413	chemical	nitrogen(.)	1
+8589413	disease	Myoclonic Epilepsies, Progressive	2
+8589413	disease	Pilomatrixoma	1
+8589413	gene/protein	Flavohemoprotein	86
+8589413	gene/protein	Glutamate dehydrogenase	64
+8589413	gene/protein	Glucose 1-dehydrogenase	36
+8589413	gene/protein	Glycerol dehydrogenase	24
+8589413	gene/protein	Glucarate dehydratase	16
+8589413	gene/protein	Glutamate dehydrogenase, mitochondrial	12
+8589413	gene/protein	Glycerate dehydrogenase	12
+8589413	gene/protein	Galactitol 2-dehydrogenase	8
+8589413	gene/protein	Probable glucarate dehydratase	8
+8589413	gene/protein	puromycin-sensitive aminopeptidase (worm)	7
+8589413	gene/protein	Junctional adhesion molecule A	7
+8589413	gene/protein	probable proteasome subunit beta type-6 (Schizosaccharomyces pombe 972h-)	7
+8589413	gene/protein	junctional adhesion molecule A	7
+8589413	gene/protein	protein arginine N-methyltransferase 1.1 (Arabidopsis thaliana)	7
+8589413	gene/protein	protein PAM1 (yeast)	7
+8589413	gene/protein	Protein BEAN1	6
+8589413	gene/protein	kinesin-like protein Nod (fruit fly)	5
+8589413	gene/protein	Glycerate dehydrogenase HPR, peroxisomal	4
+8589413	gene/protein	Pyranose dehydrogenase	4
+8589413	gene/protein	Probable glutamate dehydrogenase	4
+8589413	gene/protein	glucarate dehydratase	4
+8589413	gene/protein	GDH/6PGL endoplasmic bifunctional protein	4
+8589413	gene/protein	D-lactate dehydrogenase [cytochrome], mitochondrial (Arabidopsis thaliana)	4
+8589413	gene/protein	Glycerol dehydrogenase 1	4
+8589413	gene/protein	glutamate dehydrogenase, mitochondrial (fruit fly)	4
+8589413	gene/protein	GDH/6PGL endoplasmic bifunctional protein (human)	4
+8589413	gene/protein	glycerol dehydrogenase	4
+8589413	gene/protein	protein BEAN	3
+8589413	gene/protein	NADP-specific glutamate dehydrogenase (Escherichia coli K-12)	2
+8589413	gene/protein	NADP-specific glutamate dehydrogenase	2
+8589413	gene/protein	DNA-binding transcriptional regulator NtrC (Escherichia coli K-12)	2
+8589413	gene/protein	DNA-binding transcriptional regulator NtrC	2
+8589413	gene/protein	NADPH-dependent thioredoxin reductase 3 (Arabidopsis thaliana)	2
+8589413	gene/protein	flavohemoprotein	2
+8589413	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+8589413	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+8589413	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+8589413	gene/protein	protease 3	1
+8589413	gene/protein	patched domain-containing protein 3	1
+8589413	gene/protein	patched domain-containing protein 3 (human)	1
+8589413	gene/protein	protease 3 (Escherichia coli K-12)	1
+8589413	gene/protein	Glutamate synthase [NADPH] large chain	1
+8589413	gene/protein	Glutamate synthase [NADPH] small chain	1
+8589413	molecular_function	glucose-6-phosphate dehydrogenase activity	4
+8589413	molecular_function	obsolete pitrilysin activity	1
+8589413	molecular_function	glutamate synthase (NADH) activity	1
+8589413	molecular_function	glutamate synthase (NADPH) activity	1
+8589413	organism	Rhizobium etli	5
+8589413	organism	unidentified plasmid	3
+8589413	organism	Escherichia coli	2
+8589413	organism	Galactobacillus timonensis	1
+8589413	organism	Streptomyces thermospinosisporus	1
+8589413	sequence	gene	6
+8589413	sequence	plasmid	3
+8589413	sequence	base	1
+8589413	sequence	vector_replicon	1
+8589413	sequence	terminator	1
+8589413	sequence	engineered_region	1
+8589413	sequence	wild_type	1
+8589413	sequence	amino_acid	1
+8589413	cell_line	PAM-1	7
+8589413	cell_line	R1192	3
+8589413	cell_line	HBM-Noda	3
+8589413	cell_line	pTr	1
+8589413	organ/tissue	lateral lumbar region of abdomen	1
+8589413	organ/tissue	excreta	1
+8589413	organ/tissue	exudate	1
+8589413	clinical_drug	Nitrogen	1

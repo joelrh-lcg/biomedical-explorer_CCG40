@@ -1,0 +1,22 @@
+19076632	biological_process	biological regulation	5
+19076632	biological_process	transcription, DNA-templated	2
+19076632	biological_process	gene expression	2
+19076632	biological_process	homeostatic process	1
+19076632	biological_process	chromosome organization	1
+19076632	cellular_component	chromosome	1
+19076632	chemical	TimeLine	2
+19076632	chemical	atom	1
+19076632	gene/protein	Importin subunit beta-2	8
+19076632	gene/protein	Cytokine-inducible SH2-containing protein	5
+19076632	gene/protein	transportin-1	4
+19076632	gene/protein	transportin-1 (human)	4
+19076632	gene/protein	cytokine-inducible SH2-containing protein (chicken)	1
+19076632	gene/protein	cytokine-inducible SH2-containing protein	1
+19076632	gene/protein	cytokine-inducible SH2-containing protein (mouse)	1
+19076632	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+19076632	organism	synthetic construct	1
+19076632	sequence	gene	4
+19076632	sequence	chromosome	1
+19076632	organ/tissue	terminal nerve	4
+19076632	organ/tissue	central sulcus of insula	1
+19076632	organ/tissue	organ	1

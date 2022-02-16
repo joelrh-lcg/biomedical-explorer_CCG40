@@ -1,0 +1,61 @@
+23824666	biological_process	biosynthetic process	2
+23824666	cellular_component	obsolete protein	2
+23824666	chemical	Chitin	6
+23824666	chemical	protein	4
+23824666	chemical	Chitinases	4
+23824666	chemical	chitin	3
+23824666	chemical	(protein)	2
+23824666	chemical	chitinase ChiA	1
+23824666	chemical	Acetylglucosaminidase	1
+23824666	chemical	Recombinant Proteins	1
+23824666	chemical	mixture	1
+23824666	disease	COLORBLINDNESS, PARTIAL, PROTAN SERIES	3
+23824666	gene/protein	Chitinase	20
+23824666	gene/protein	L-cystine-binding protein FliY	9
+23824666	gene/protein	profilin (fruit fly)	5
+23824666	gene/protein	class V chitinase (Arabidopsis thaliana)	5
+23824666	gene/protein	CLIP-associating protein (fruit fly)	4
+23824666	gene/protein	Endochitinase	4
+23824666	gene/protein	DNA-binding protein TubR	3
+23824666	gene/protein	Phospholipase C	3
+23824666	gene/protein	CREB-binding protein (rat)	3
+23824666	gene/protein	CREB-binding protein	3
+23824666	gene/protein	phosphoprotein associated with glycosphingolipid-enriched microdomains 1 (rat)	3
+23824666	gene/protein	CREB-binding protein (human)	3
+23824666	gene/protein	Poly(rC)-binding protein 2	3
+23824666	gene/protein	Basic blue protein	3
+23824666	gene/protein	phosphoprotein associated with glycosphingolipid-enriched microdomains 1 (human)	3
+23824666	gene/protein	poly(rC)-binding protein 2	3
+23824666	gene/protein	poly(rC)-binding protein 2 (mouse)	3
+23824666	gene/protein	phosphoprotein associated with glycosphingolipid-enriched microdomains 1	3
+23824666	gene/protein	Calcium-binding protein	3
+23824666	gene/protein	CREB-binding protein (mouse)	3
+23824666	gene/protein	phosphoprotein associated with glycosphingolipid-enriched microdomains 1 (mouse)	3
+23824666	gene/protein	Putative beta-hexosaminidase	2
+23824666	gene/protein	protein	2
+23824666	gene/protein	Chitinase ChiA	1
+23824666	gene/protein	Chitobiase	1
+23824666	gene/protein	Beta-hexosaminidase	1
+23824666	gene/protein	N,N'-diacetylchitobiase	1
+23824666	gene/protein	Beta-hexosaminidase A	1
+23824666	gene/protein	DNA-3-methyladenine glycosylase 1 (Escherichia coli K-12)	1
+23824666	gene/protein	UPF0410 protein YmgE	1
+23824666	gene/protein	UPF0410 protein YmgE (Escherichia coli K-12)	1
+23824666	gene/protein	DNA-3-methyladenine glycosylase 1	1
+23824666	gene/protein	DNA-3-methyladenine glycosylase	1
+23824666	gene/protein	acidic mammalian chitinase (human)	1
+23824666	gene/protein	acidic mammalian chitinase	1
+23824666	gene/protein	probable bifunctional chitinase/lysozyme (Escherichia coli K-12)	1
+23824666	gene/protein	acidic mammalian chitinase (rat)	1
+23824666	gene/protein	probable bifunctional chitinase/lysozyme	1
+23824666	gene/protein	acidic mammalian chitinase (mouse)	1
+23824666	molecular_function	cAMP response element binding protein binding	3
+23824666	molecular_function	chitinase activity	1
+23824666	organism	Escherichia coli	2
+23824666	organism	Serratia	1
+23824666	sequence	polypeptide	2
+23824666	sequence	gene	1
+23824666	sequence	clone	1
+23824666	sequence	fusion	1
+23824666	sequence	tag	1
+23824666	cell_line	CHB	4

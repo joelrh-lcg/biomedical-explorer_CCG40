@@ -1,0 +1,5 @@
+30701503	chemical	MicroRNAs	3
+30701503	gene/protein	cartilage oligomeric matrix protein isoform 1	1
+30701503	gene/protein	nodal protein isoform 1	1
+30701503	sequence	miRNA	3
+30701503	sequence	genome	1

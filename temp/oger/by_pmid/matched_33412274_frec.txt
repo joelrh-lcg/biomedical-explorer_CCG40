@@ -1,0 +1,33 @@
+33412274	biological_process	tca cycle	4
+33412274	biological_process	glycolysis	2
+33412274	biological_process	formation	2
+33412274	biological_process	cellular process	1
+33412274	biological_process	pentose phosphate pathway	1
+33412274	biological_process	gluconeogenesis	1
+33412274	biological_process	glucose metabolism	1
+33412274	cellular_component	cellular process	1
+33412274	chemical	lactate	8
+33412274	chemical	formate	8
+33412274	chemical	proteins	6
+33412274	chemical	pyruvate	6
+33412274	chemical	acetoin	6
+33412274	chemical	glucose	5
+33412274	chemical	tca	4
+33412274	chemical	atp	4
+33412274	chemical	tricarboxylic acid	1
+33412274	chemical	metabolite	1
+33412274	chemical	proteome	1
+33412274	chemical	lactate dehydrogenase	1
+33412274	chemical	formate acetyltransferase	1
+33412274	chemical	acetoin reductase	1
+33412274	chemical	pentose phosphate	1
+33412274	chemical	pathway	1
+33412274	gene/protein	formate acetyltransferase	17
+33412274	gene/protein	dehydrogenase	1
+33412274	organism	Staphylococcus epidermidis	2
+33412274	organism	bacterium be	1
+33412274	cell_line	tca	4
+33412274	clinical_drug	lactate	3
+33412274	clinical_drug	pyruvate	2
+33412274	clinical_drug	atp	1
+33412274	clinical_drug	glucose	1

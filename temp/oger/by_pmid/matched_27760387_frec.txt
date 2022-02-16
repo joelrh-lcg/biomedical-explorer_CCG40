@@ -1,0 +1,43 @@
+27760387	biological_process	anammox	2
+27760387	biological_process	synthesis	1
+27760387	biological_process	formation	1
+27760387	cellular_component	membrane	7
+27760387	cellular_component	outer membrane	1
+27760387	cellular_component	anammoxosome	1
+27760387	cellular_component	organelle	1
+27760387	chemical	diacylglycerol	308
+27760387	chemical	lipid	12
+27760387	chemical	phosphatidylcholine	5
+27760387	chemical	alanine	5
+27760387	chemical	arginine	5
+27760387	chemical	phosphatidylethanolamine	4
+27760387	chemical	phosphatidylinositol	4
+27760387	chemical	lysine	4
+27760387	chemical	cardiolipin	3
+27760387	chemical	lipopolysaccharides	3
+27760387	chemical	phosphatidylglycerol	2
+27760387	chemical	glycerophospholipid	1
+27760387	chemical	amino acid residue	1
+27760387	chemical	glycerolipid	1
+27760387	chemical	glycolipid	1
+27760387	chemical	sulfolipid	1
+27760387	chemical	isoprenoid	1
+27760387	chemical	hopanoid	1
+27760387	chemical	sphingolipid	1
+27760387	chemical	ladderane	1
+27760387	disease	cyst	2
+27760387	gene/protein	cyst	2
+27760387	gene/protein	amino acid residue	1
+27760387	organism	bacterium	35
+27760387	organism	Azotobacter vinelandii	2
+27760387	organism	Archaea	1
+27760387	organism	Eukarya	1
+27760387	sequence	amino acid	1
+27760387	sequence	lysine	1
+27760387	sequence	alanine	1
+27760387	sequence	arginine	1
+27760387	organ/tissue	membrane	16
+27760387	organ/tissue	scale	1
+27760387	clinical_drug	lysine	1
+27760387	clinical_drug	alanine	1
+27760387	clinical_drug	arginine	1

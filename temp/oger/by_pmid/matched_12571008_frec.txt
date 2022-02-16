@@ -1,0 +1,19 @@
+12571008	biological_process	genetic exchange	1
+12571008	chemical	cluster	1
+12571008	chemical	16s	1
+12571008	chemical	ribosomal dna	1
+12571008	gene/protein	bean	3
+12571008	gene/protein	nifH	2
+12571008	gene/protein	nifh	1
+12571008	gene/protein	nodb	1
+12571008	organism	plasmid	3
+12571008	organism	Rhizobium etli	2
+12571008	organism	rhizobium gallicum	2
+12571008	organism	Phaseolus vulgari	1
+12571008	sequence	plasmid	3
+12571008	sequence	sequence	1
+12571008	sequence	clone	1
+12571008	sequence	fragment	1
+12571008	sequence	genotype	1
+12571008	cell_line	bean	1
+12571008	organ/tissue	nodule	2

@@ -1,0 +1,24 @@
+31346014	biological_process	catabolic process	2
+31346014	chemical	naphthalene	3
+31346014	chemical	anthracene	3
+31346014	chemical	p-aminohippuric acid	2
+31346014	chemical	sodium p-aminohippurate	2
+31346014	chemical	polycyclic arene	2
+31346014	chemical	poly(allylamine hydrochloride)	2
+31346014	chemical	diphenyl	2
+31346014	chemical	hydrocarbon	1
+31346014	chemical	phenanthridine	1
+31346014	chemical	biphenyl	1
+31346014	chemical	elemental carbon	1
+31346014	chemical	carbon atom	1
+31346014	gene/protein	Phenylalanine-4-hydroxylase	24
+31346014	gene/protein	Protein henna	2
+31346014	gene/protein	phenylalanine-4-hydroxylase	2
+31346014	gene/protein	phenylalanine-4-hydroxylase (human)	2
+31346014	gene/protein	phenylalanine-4-hydroxylase (rat)	2
+31346014	gene/protein	phenylalanine-4-hydroxylase (Dictyostelium discoideum)	2
+31346014	gene/protein	phenylalanine-4-hydroxylase (mouse)	2
+31346014	gene/protein	protein henna (fruit fly)	2
+31346014	molecular_function	proclavaminate amidinohydrolase activity	2
+31346014	sequence	genome	1
+31346014	sequence	gene	1

@@ -1,0 +1,47 @@
+31081746	biological_process	obsolete mutagenesis	1
+31081746	biological_process	export across plasma membrane	1
+31081746	biological_process	export from cell	1
+31081746	biological_process	symbiotic process	1
+31081746	cellular_component	intracellular	1
+31081746	chemical	copper atom	1
+31081746	chemical	copper(0)	1
+31081746	chemical	Oxidoreductases	1
+31081746	chemical	Heavy metal	1
+31081746	chemical	Adenosine Triphosphatases	1
+31081746	chemical	Nitrogenase	1
+31081746	chemical	hydrogen peroxide	1
+31081746	chemical	Complement System Proteins	1
+31081746	disease	COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	3
+31081746	gene/protein	Synaptosomal-associated protein 25	25
+31081746	gene/protein	transcriptional regulator SUPERMAN (Arabidopsis thaliana)	5
+31081746	gene/protein	synaptosomal-associated protein 25	5
+31081746	gene/protein	coatomer subunit alpha (human)	3
+31081746	gene/protein	coatomer subunit alpha	3
+31081746	gene/protein	copper-exporting P-type ATPase (Escherichia coli K-12)	3
+31081746	gene/protein	coatomer subunit alpha (mouse)	3
+31081746	gene/protein	coatomer subunit alpha (Dictyostelium discoideum)	3
+31081746	gene/protein	copper-exporting P-type ATPase	3
+31081746	gene/protein	copper-exporting P-type ATPase (Staphylococcus aureus subsp. aureus NCTC 8325)	3
+31081746	gene/protein	60S acidic ribosomal protein P1-beta	1
+31081746	gene/protein	trefoil factor 3	1
+31081746	gene/protein	Inorganic triphosphatase	1
+31081746	gene/protein	Triphosphate tunnel metalloenzyme 3	1
+31081746	gene/protein	ryanodine receptor (fruit fly)	1
+31081746	gene/protein	bifunctional protein FolD	1
+31081746	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+31081746	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+31081746	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+31081746	molecular_function	nitrogenase activity	1
+31081746	organism	Rhizobium tropici	5
+31081746	organism	Rhizobium	1
+31081746	organism	Sinorhizobium	1
+31081746	organism	Phaseolus	1
+31081746	sequence	gene	3
+31081746	sequence	mutated_variant_site	1
+31081746	sequence	insertion	1
+31081746	cell_line	COPA 159	3
+31081746	cell_line	BTI-Tn-5B1-4	2
+31081746	cell_line	CRISPRi Gen1B 1	1
+31081746	organ/tissue	cerebellum vermis lobule X	3
+31081746	organ/tissue	germinal center	3
+31081746	molecular_process	reduction	2

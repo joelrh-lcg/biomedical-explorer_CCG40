@@ -1,0 +1,32 @@
+2155209	biological_process	obsolete mutagenesis	1
+2155209	biological_process	nitrogen fixation	1
+2155209	cellular_component	host cell	1
+2155209	chemical	cerium(3+)	3
+2155209	chemical	Cytochromes	2
+2155209	chemical	cytochrome	2
+2155209	chemical	Electron Transport Complex IV	2
+2155209	chemical	nitrogen atom	1
+2155209	chemical	nitrogen(.)	1
+2155209	gene/protein	phosphatidylcholine:ceramide cholinephosphotransferase 1 (chicken)	1
+2155209	gene/protein	phosphatidylcholine:ceramide cholinephosphotransferase 1	1
+2155209	gene/protein	phosphatidylcholine:ceramide cholinephosphotransferase 1 (human)	1
+2155209	gene/protein	phosphatidylcholine:ceramide cholinephosphotransferase 1 (rat)	1
+2155209	gene/protein	molybdenum cofactor guanylyltransferase (Escherichia coli K-12)	1
+2155209	gene/protein	molybdenum cofactor guanylyltransferase	1
+2155209	molecular_function	electron transporter, transferring electrons within the noncyclic electron transport pathway of photosynthesis activity	4
+2155209	molecular_function	electron transporter, transferring electrons from CoQH2-cytochrome c reductase complex and cytochrome c oxidase complex activity	4
+2155209	molecular_function	electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity	4
+2155209	molecular_function	electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity	4
+2155209	molecular_function	electron transporter, transferring electrons within cytochrome c oxidase complex activity	4
+2155209	molecular_function	obsolete cytochrome	4
+2155209	molecular_function	electron transporter, transferring electrons within CoQH2-cytochrome c reductase complex activity	4
+2155209	organism	Rhizobium phaseoli	2
+2155209	sequence	mutated_variant_site	1
+2155209	sequence	cytoplasmic_polypeptide_region	1
+2155209	cell_line	CE-3	3
+2155209	cell_line	BTI-Tn-5B1-4	1
+2155209	cell_line	MDCC-MOB1	1
+2155209	cell_line	Mo-B	1
+2155209	organ/tissue	pharyngeal arch artery 3	2
+2155209	organ/tissue	proliferative region	1
+2155209	clinical_drug	Nitrogen	1

@@ -1,0 +1,14 @@
+32823980	chemical	xylene	6
+32823980	chemical	toluene	6
+32823980	chemical	hydrocarbon	4
+32823980	chemical	aromatic compound	3
+32823980	chemical	benzene	3
+32823980	chemical	pyrene	3
+32823980	chemical	phenanthrene	3
+32823980	chemical	carbon	2
+32823980	chemical	salt	2
+32823980	organism	fungus	1
+32823980	organism	yeast	1
+32823980	clinical_drug	xylene	2
+32823980	clinical_drug	toluene	2
+32823980	clinical_drug	yeast	1

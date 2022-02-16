@@ -1,0 +1,5 @@
+28096304	biological_process	drug resistance	2
+28096304	chemical	antibiotic	21
+28096304	chemical	drug	2
+28096304	disease	infection	2
+28096304	organ/tissue	scale	1

@@ -1,0 +1,24 @@
+24288657	biological_process	lactation	2
+24288657	biological_process	regulation	1
+24288657	biological_process	transcription	1
+24288657	biological_process	gene expression	1
+24288657	biological_process	signaling pathway	1
+24288657	biological_process	mammary gland development	1
+24288657	cellular_component	chromosome	1
+24288657	chemical	cluster	1
+24288657	chemical	pathway	1
+24288657	gene/protein	rat	6
+24288657	gene/protein	map	6
+24288657	gene/protein	rna	2
+24288657	molecular_function	transcription factor binding	1
+24288657	organism	rat	4
+24288657	organism	human	2
+24288657	organism	mouse	2
+24288657	organism	rodent	1
+24288657	sequence	gene	9
+24288657	sequence	orthologous	5
+24288657	sequence	transcript	2
+24288657	sequence	transition	1
+24288657	sequence	chromosome	1
+24288657	sequence	transcription factor binding site	1
+24288657	organ/tissue	mammary gland	4

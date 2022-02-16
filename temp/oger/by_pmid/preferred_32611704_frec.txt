@@ -1,0 +1,18 @@
+32611704	chemical	N(2)-L-arginino group	3
+32611704	chemical	L-arginine	3
+32611704	chemical	L-arginyl group	3
+32611704	chemical	L-arginine residue	3
+32611704	chemical	argininate	3
+32611704	chemical	Anti-Bacterial Agents	2
+32611704	chemical	antimicrobial agent	1
+32611704	chemical	nucleotide	1
+32611704	gene/protein	arginine-glutamic acid dipeptide repeats protein	3
+32611704	gene/protein	tyrosine-protein kinase ABL2 (human)	3
+32611704	gene/protein	arginine-glutamic acid dipeptide repeats protein (human)	3
+32611704	gene/protein	tyrosine-protein kinase ABL2 (mouse)	3
+32611704	gene/protein	tyrosine-protein kinase ABL2	3
+32611704	sequence	arginine	3
+32611704	sequence	gene	2
+32611704	sequence	SNP	1
+32611704	sequence	transit_peptide	1
+32611704	sequence	signal_peptide	1

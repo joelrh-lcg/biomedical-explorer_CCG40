@@ -1,0 +1,16 @@
+18599833	biological_process	nitrogen fixation	2
+18599833	biological_process	regulation	2
+18599833	biological_process	signalling	1
+18599833	chemical	ahl	4
+18599833	chemical	nitrogen	4
+18599833	chemical	lactone	2
+18599833	chemical	AHL	2
+18599833	chemical	cluster	1
+18599833	chemical	molecule	1
+18599833	gene/protein	ahl	4
+18599833	gene/protein	AHL	2
+18599833	organism	Burkholderia	4
+18599833	organism	Burkholderia kururiensis	2
+18599833	organism	Pseudomonas aeruginosa	2
+18599833	sequence	gene	2
+18599833	clinical_drug	nitrogen	2

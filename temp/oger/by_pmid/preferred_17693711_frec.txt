@@ -1,0 +1,58 @@
+17693711	biological_process	symbiotic process	2
+17693711	biological_process	biosynthetic process	1
+17693711	biological_process	biological regulation	1
+17693711	biological_process	nodulation	1
+17693711	biological_process	nitrogen fixation	1
+17693711	chemical	Monophenol Monooxygenase	3
+17693711	chemical	cerium(3+)	3
+17693711	chemical	syringic acid	3
+17693711	chemical	Melanins	2
+17693711	chemical	Reactive Oxygen Species	2
+17693711	chemical	Oxidoreductases	1
+17693711	chemical	Melanin	1
+17693711	chemical	Complement System Proteins	1
+17693711	chemical	nitrogen atom	1
+17693711	chemical	nitrogen(.)	1
+17693711	chemical	hydrogen peroxide	1
+17693711	chemical	peroxide	1
+17693711	chemical	reactive oxygen species	1
+17693711	gene/protein	Tyrosinase	66
+17693711	gene/protein	alpha-galactosidase (Escherichia coli K-12)	6
+17693711	gene/protein	probable alpha-galactosidase (Dictyostelium discoideum)	6
+17693711	gene/protein	alpha-galactosidase	6
+17693711	gene/protein	tyrosinase	3
+17693711	gene/protein	Sex-specific storage-protein 2	2
+17693711	gene/protein	Snake venom serine protease 2	2
+17693711	gene/protein	U2 small nuclear ribonucleoprotein auxiliary factor 35 kDa subunit-related protein 1	2
+17693711	gene/protein	mitochondrial inner membrane protein oxa1-2 (Schizosaccharomyces pombe 972h-)	2
+17693711	gene/protein	transcription factor Sp2 (human)	2
+17693711	gene/protein	Mitochondrial inner membrane protein oxa1-2	2
+17693711	gene/protein	U2 small nuclear ribonucleoprotein auxiliary factor 35 kDa subunit-related protein 1 (mouse)	2
+17693711	gene/protein	putative U2 small nuclear ribonucleoprotein auxiliary factor 35 kDa subunit-related protein 1	2
+17693711	gene/protein	transcription factor Sp2	2
+17693711	gene/protein	transcription factor Sp2 (mouse)	2
+17693711	gene/protein	N-acetyl-6-hydroxytryptophan oxidase ivoB	1
+17693711	gene/protein	nucleoporin Nup43	1
+17693711	gene/protein	peroxidase 42 (Arabidopsis thaliana)	1
+17693711	gene/protein	Capsid protein	1
+17693711	gene/protein	Glutamine synthetase	1
+17693711	gene/protein	Movement protein TGB1	1
+17693711	gene/protein	Nucleoporin Nup43	1
+17693711	gene/protein	Transcription initiation factor TFIID subunit 9	1
+17693711	gene/protein	tRNA-aminoacylation cofactor ARC1	1
+17693711	organism	Rhizobium etli	4
+17693711	organism	Escherichia coli	2
+17693711	organism	Plasmid p42d	1
+17693711	organism	Bacillus caseinilyticus	1
+17693711	organism	Sphingobium francense	1
+17693711	sequence	gene	1
+17693711	sequence	plasmid	1
+17693711	cell_line	CE-3	3
+17693711	cell_line	Pten-/- Spry2+/- SP2	2
+17693711	cell_line	SP-2	2
+17693711	cell_line	Sp2/0-Ag14	2
+17693711	cell_line	HCC-1.1	1
+17693711	organ/tissue	cerebellum vermis lobule X	2
+17693711	organ/tissue	germinal center	2
+17693711	clinical_drug	Nitrogen	1
+17693711	clinical_drug	Oxygen	1

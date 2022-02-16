@@ -1,0 +1,19 @@
+22728391	biological_process	transcription, DNA-templated	1
+22728391	cellular_component	viral nucleocapsid	1
+22728391	chemical	Sigma Factor	1
+22728391	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+22728391	organism	Escherichia coli	2
+22728391	organism	Bacillus subtilis	2
+22728391	organism	bacterium IFAM-3211	1
+22728391	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+22728391	organism	bacterium IFAM-3215	1
+22728391	organism	bacterium IFAM-2074	1
+22728391	organism	bacterium IFAM-3359	1
+22728391	organism	bacterium	1
+22728391	organism	bacterium IFAM-1493	1
+22728391	sequence	gene	2
+22728391	sequence	orthologous	1
+22728391	cell	basal cell	1
+22728391	organ/tissue	multicellular organism	4
+22728391	clinical_drug	Bacillus subtilis	1
+22728391	molecular_process	coordination	1

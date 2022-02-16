@@ -1,0 +1,20 @@
+24057982	chemical	16s rrna	1
+24057982	chemical	base	1
+24057982	disease	cip	1
+24057982	gene/protein	cip	8
+24057982	gene/protein	nov	2
+24057982	gene/protein	lmg	1
+24057982	organism	tomato	2
+24057982	organism	Burkholderia kururiensis	2
+24057982	organism	Burkholderia mimosarum	2
+24057982	organism	Burkholderia caballeronis	2
+24057982	organism	Burkholderia	1
+24057982	organism	Phaseolus vulgari	1
+24057982	organism	lmg 26416	1
+24057982	organism	cip 110324	1
+24057982	sequence	16s rrna	1
+24057982	sequence	rrna gene	1
+24057982	sequence	sequence	1
+24057982	sequence	base	1
+24057982	organ/tissue	nodule	2
+24057982	clinical_drug	tomato	1

@@ -1,0 +1,17 @@
+29867794	biological_process	purine metabolism	3
+29867794	biological_process	metabolism	1
+29867794	biological_process	iron acquisition	1
+29867794	cellular_component	core	1
+29867794	chemical	purine	4
+29867794	chemical	amino acid	2
+29867794	chemical	pathway	1
+29867794	chemical	iron	1
+29867794	disease	salmonellosis	2
+29867794	organism	tomato	8
+29867794	sequence	gene	4
+29867794	sequence	genome	3
+29867794	sequence	amino acid	1
+29867794	sequence	homolog	1
+29867794	organ/tissue	animal	4
+29867794	clinical_drug	tomato	4
+29867794	clinical_drug	iron	1

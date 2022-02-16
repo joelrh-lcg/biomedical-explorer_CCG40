@@ -1,0 +1,11 @@
+25098225	chemical	base	1
+25098225	gene/protein	nov	2
+25098225	organism	bacterium	7
+25098225	organism	maize	2
+25098225	organism	sorghum	2
+25098225	organism	Cupriavidus respiraculi	2
+25098225	organism	Cupriavidus plantarum	2
+25098225	organism	bacterium be	1
+25098225	organism	agave	1
+25098225	organism	Cupriavidus	1
+25098225	sequence	base	1

@@ -1,0 +1,33 @@
+15317780	biological_process	regulation of adenylate cyclase-inhibiting adrenergic receptor signaling pathway	1
+15317780	biological_process	negative regulation of adenylate cyclase-activating adrenergic receptor signaling pathway	1
+15317780	biological_process	biological regulation	1
+15317780	biological_process	gene expression	1
+15317780	chemical	dibromine	1
+15317780	chemical	cluster	1
+15317780	chemical	hydrogen donor	1
+15317780	chemical	donor	1
+15317780	gene/protein	phosphatidylcholine:ceramide cholinephosphotransferase 1 (chicken)	5
+15317780	gene/protein	phosphatidylcholine:ceramide cholinephosphotransferase 1	5
+15317780	gene/protein	phosphatidylcholine:ceramide cholinephosphotransferase 1 (human)	5
+15317780	gene/protein	phosphatidylcholine:ceramide cholinephosphotransferase 1 (rat)	5
+15317780	gene/protein	molybdenum cofactor guanylyltransferase (Escherichia coli K-12)	5
+15317780	gene/protein	molybdenum cofactor guanylyltransferase	5
+15317780	gene/protein	M1-specific T cell receptor alpha chain (human)	3
+15317780	gene/protein	female-specific protein transformer (fruit fly)	3
+15317780	gene/protein	pilin (Escherichia coli K-12)	2
+15317780	gene/protein	pilin	2
+15317780	gene/protein	symplekin (fruit fly)	1
+15317780	organism	Rhizobium etli	5
+15317780	organism	unidentified plasmid	4
+15317780	organism	Sym plasmid	1
+15317780	sequence	plasmid	5
+15317780	sequence	gene	5
+15317780	sequence	oriT	2
+15317780	sequence	genome	2
+15317780	sequence	clone	1
+15317780	sequence	cosmid	1
+15317780	sequence	five_prime_cis_splice_site	1
+15317780	sequence	ORF	1
+15317780	sequence	5KB_downstream_variant	1
+15317780	cell_line	MDCC-MOB1	5
+15317780	cell_line	Mo-B	5

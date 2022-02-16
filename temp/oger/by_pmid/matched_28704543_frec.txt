@@ -1,0 +1,26 @@
+28704543	biological_process	virulence	6
+28704543	biological_process	invasion of host	1
+28704543	cellular_component	intracellular	4
+28704543	cellular_component	chromosomal region	1
+28704543	cellular_component	host cell	1
+28704543	chemical	spi1	12
+28704543	chemical	SPI1	2
+28704543	chemical	virulence factor	1
+28704543	disease	infection	2
+28704543	disease	infection salmonella	2
+28704543	gene/protein	spi1	54
+28704543	gene/protein	spi2	35
+28704543	gene/protein	SPI1	9
+28704543	gene/protein	transcriptional regulator	1
+28704543	gene/protein	lack	1
+28704543	organism	salmonella	4
+28704543	organism	Salmonella	2
+28704543	organism	mouse	2
+28704543	sequence	gene	6
+28704543	sequence	inside	1
+28704543	sequence	transition	1
+28704543	cell_line	spi	11
+28704543	cell_line	SPI	1
+28704543	organ/tissue	intestine	1
+28704543	organ/tissue	gut epithelium	1
+28704543	molecular_process	reduction	1

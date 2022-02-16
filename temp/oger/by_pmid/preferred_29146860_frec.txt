@@ -1,0 +1,14 @@
+29146860	chemical	acetyloxy group	1
+29146860	chemical	nitrogen atom	1
+29146860	chemical	nitrogen(.)	1
+29146860	chemical	nucleotide	1
+29146860	gene/protein	aconitate hydratase 1 (Arabidopsis thaliana)	1
+29146860	gene/protein	1-aminocyclopropane-1-carboxylate oxidase (Dictyostelium discoideum)	1
+29146860	gene/protein	Apocarotenoid-15,15'-oxygenase	1
+29146860	organism	unidentified plasmid	1
+29146860	sequence	gene	2
+29146860	sequence	genome	1
+29146860	sequence	region	1
+29146860	sequence	operon	1
+29146860	sequence	plasmid	1
+29146860	clinical_drug	Nitrogen	1

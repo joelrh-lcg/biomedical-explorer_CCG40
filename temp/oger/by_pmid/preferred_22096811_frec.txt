@@ -1,0 +1,50 @@
+22096811	chemical	Glutamine	12
+22096811	chemical	glutamine	6
+22096811	chemical	L-glutamine	6
+22096811	chemical	alpha-amino acid	5
+22096811	chemical	amino acid	5
+22096811	chemical	Alanine	4
+22096811	chemical	Glutamic Acid	4
+22096811	chemical	L-alanine	2
+22096811	chemical	L-alanine residue	2
+22096811	chemical	alanine	2
+22096811	chemical	glutamate(2-)	2
+22096811	chemical	L-glutamic acid	2
+22096811	chemical	glutamate(1-)	2
+22096811	chemical	glutamic acid	2
+22096811	chemical	Arginine	2
+22096811	chemical	primary amino group	2
+22096811	chemical	L-arginine	1
+22096811	chemical	argininium(1+)	1
+22096811	chemical	arginine	1
+22096811	chemical	mixture	1
+22096811	chemical	nitrogen atom	1
+22096811	chemical	nitrogen(.)	1
+22096811	chemical	food additive carrier	1
+22096811	disease	Starvation	4
+22096811	gene/protein	S-adenosylmethionine synthase	3230
+22096811	gene/protein	GMP synthase [glutamine-hydrolyzing]	582
+22096811	gene/protein	GMP synthase [glutamine-hydrolyzing] subunit A	36
+22096811	gene/protein	transmembrane protease serine 11D	5
+22096811	gene/protein	Probable S-adenosylmethionine synthase	5
+22096811	gene/protein	Maltose O-acetyltransferase	5
+22096811	gene/protein	S-adenosylmethionine synthetase	5
+22096811	gene/protein	transmembrane protease serine 11D (mouse)	5
+22096811	gene/protein	acetyl-CoA acetyltransferase, mitochondrial (human)	5
+22096811	gene/protein	acetyl-CoA acetyltransferase, mitochondrial	5
+22096811	gene/protein	Probable GMP synthase [glutamine-hydrolyzing]	4
+22096811	gene/protein	Putative GMP synthase [glutamine-hydrolyzing]	2
+22096811	molecular_function	[acyl-carrier-protein] S-malonyltransferase activity	5
+22096811	molecular_function	transporter activity	1
+22096811	organism	Neurospora crassa	2
+22096811	organism	Spores, Fungal	1
+22096811	sequence	glutamine	6
+22096811	sequence	amino_acid	5
+22096811	sequence	alanine	2
+22096811	sequence	arginine	1
+22096811	cell_line	MAT	5
+22096811	clinical_drug	Glutamine	6
+22096811	clinical_drug	Alanine	2
+22096811	clinical_drug	Glutamate	2
+22096811	clinical_drug	Arginine	1
+22096811	clinical_drug	Nitrogen	1

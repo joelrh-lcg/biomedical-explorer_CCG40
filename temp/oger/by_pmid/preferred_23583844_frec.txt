@@ -1,0 +1,39 @@
+23583844	biological_process	nodulation	2
+23583844	biological_process	immune response	1
+23583844	cellular_component	obsolete protein	1
+23583844	cellular_component	membrane	1
+23583844	chemical	Lipid A	18
+23583844	chemical	lipid A(4-)	9
+23583844	chemical	lipid As	9
+23583844	chemical	lipid A	9
+23583844	chemical	protein	2
+23583844	chemical	LPS with O-antigen	1
+23583844	chemical	lipopolysaccharide	1
+23583844	chemical	mixture	1
+23583844	chemical	(protein)	1
+23583844	chemical	calcium(0)	1
+23583844	chemical	calcium atom	1
+23583844	disease	Infections	2
+23583844	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+23583844	gene/protein	protein	1
+23583844	organism	Rhizobium etli	2
+23583844	organism	Salmonella enterica	2
+23583844	organism	bacterium IFAM-3211	1
+23583844	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+23583844	organism	bacterium IFAM-3215	1
+23583844	organism	bacterium IFAM-2074	1
+23583844	organism	bacterium IFAM-3359	1
+23583844	organism	bacterium	1
+23583844	organism	bacterium IFAM-1493	1
+23583844	organism	Phaseolus	1
+23583844	organism	Phaseolus vulgaris	1
+23583844	sequence	mature_protein_region	1
+23583844	sequence	homologous_region	1
+23583844	sequence	polypeptide	1
+23583844	sequence	gene	1
+23583844	organ/tissue	membrane organ	1
+23583844	organ/tissue	membranous layer	1
+23583844	organ/tissue	cerebellum vermis lobule X	1
+23583844	organ/tissue	germinal center	1
+23583844	clinical_drug	Calcium	1
+23583844	molecular_process	deacylation	1

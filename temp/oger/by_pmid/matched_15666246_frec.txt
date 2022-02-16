@@ -1,0 +1,7 @@
+15666246	gene/protein	spp	16
+15666246	gene/protein	ago	1
+15666246	molecular_function	spp	1
+15666246	organism	bacterium	7
+15666246	organism	Klebsiella	1
+15666246	organism	klebsiella	1
+15666246	organism	bacterium be	1

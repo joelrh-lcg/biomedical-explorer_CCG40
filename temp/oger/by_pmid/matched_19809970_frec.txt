@@ -1,0 +1,29 @@
+19809970	biological_process	growth regulator	1
+19809970	chemical	maslinic acid	6
+19809970	chemical	glaucacetalin a	4
+19809970	chemical	glaucacetalin d	4
+19809970	chemical	sedative	2
+19809970	chemical	transform	2
+19809970	chemical	nutrient	2
+19809970	chemical	triterpene	2
+19809970	chemical	growth regulator	1
+19809970	chemical	triterpenoid	1
+19809970	chemical	sodium	1
+19809970	gene/protein	mgl	36
+19809970	gene/protein	pcr	8
+19809970	gene/protein	Cav	5
+19809970	gene/protein	ROL	3
+19809970	gene/protein	10 a	1
+19809970	gene/protein	dry	1
+19809970	organism	GALPHIMIA GLAUCA	2
+19809970	organism	Cav	2
+19809970	organism	icr mouse	1
+19809970	organism	human	1
+19809970	sequence	gene	1
+19809970	sequence	genome	1
+19809970	cell	cancer cell	1
+19809970	cell_line	Cav	1
+19809970	cell_line	10 a	1
+19809970	cell_line	mcf7	1
+19809970	organ/tissue	a 10 a	1
+19809970	organ/tissue	tissue	1

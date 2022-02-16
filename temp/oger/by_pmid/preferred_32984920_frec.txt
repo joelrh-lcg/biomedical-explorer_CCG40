@@ -1,0 +1,55 @@
+32984920	biological_process	glutamine biosynthetic process	1
+32984920	chemical	Pregnenolone Carbonitrile	10
+32984920	chemical	phenazine	6
+32984920	chemical	pregnenolone 16alpha-carbonitrile	5
+32984920	chemical	phenazine-1-carboxamide	3
+32984920	chemical	elemental carbon	3
+32984920	chemical	carbon atom	3
+32984920	chemical	Sucrose	2
+32984920	chemical	Trehalose	2
+32984920	chemical	Mannose	2
+32984920	chemical	Galactose	2
+32984920	chemical	Glucose	2
+32984920	chemical	Glycerol	2
+32984920	chemical	Glutamine	2
+32984920	chemical	sucrose	1
+32984920	chemical	trehalose	1
+32984920	chemical	alpha,alpha-trehalose	1
+32984920	chemical	mannose	1
+32984920	chemical	galactose	1
+32984920	chemical	fatty acid	1
+32984920	chemical	aldehydo-D-glucose	1
+32984920	chemical	D-glucopyranose	1
+32984920	chemical	glucose	1
+32984920	chemical	glycerol	1
+32984920	chemical	trichloroacetic acid	1
+32984920	chemical	glutamine	1
+32984920	chemical	L-glutamine	1
+32984920	gene/protein	Plectin	20
+32984920	gene/protein	proliferating cell nuclear antigen (Schizosaccharomyces pombe 972h-)	5
+32984920	gene/protein	WD repeat-containing protein PCN (Arabidopsis thaliana)	5
+32984920	gene/protein	plectin-1	5
+32984920	gene/protein	protein STRUBBELIG (Arabidopsis thaliana)	2
+32984920	gene/protein	kinesin-like protein subito (fruit fly)	2
+32984920	gene/protein	homeotic protein Sex combs reduced (fruit fly)	1
+32984920	gene/protein	protein SCARECROW (Arabidopsis thaliana)	1
+32984920	organism	Pseudomonas chlororaphis	3
+32984920	organism	bacterium IFAM-3211	1
+32984920	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+32984920	organism	bacterium IFAM-3215	1
+32984920	organism	bacterium IFAM-2074	1
+32984920	organism	bacterium IFAM-3359	1
+32984920	organism	bacterium	1
+32984920	organism	bacterium IFAM-1493	1
+32984920	organism	Pseudomonas	1
+32984920	sequence	engineered_region	1
+32984920	sequence	gene	1
+32984920	sequence	glutamine	1
+32984920	cell_line	BCIRL-TcA-CLG1	1
+32984920	organ/tissue	multicellular organism	3
+32984920	clinical_drug	Sucrose	1
+32984920	clinical_drug	Trehalose	1
+32984920	clinical_drug	MANNOSE, D-	1
+32984920	clinical_drug	Galactose	1
+32984920	clinical_drug	Dextrose, Unspecified Form	1
+32984920	clinical_drug	Glutamine	1

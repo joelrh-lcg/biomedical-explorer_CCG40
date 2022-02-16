@@ -1,0 +1,57 @@
+33075080	biological_process	methylation	2
+33075080	biological_process	ribosome assembly	1
+33075080	biological_process	transposition	1
+33075080	cellular_component	ribosome	1
+33075080	cellular_component	obsolete protein	1
+33075080	chemical	protein	4
+33075080	chemical	fibrillarin	2
+33075080	chemical	ribosomal RNA	2
+33075080	chemical	Histones	1
+33075080	chemical	RNA, Viral	1
+33075080	chemical	(protein)	1
+33075080	gene/protein	Histone H2A	59
+33075080	gene/protein	fibrinogen-binding protein (Staphylococcus aureus subsp. aureus COL)	9
+33075080	gene/protein	Fibrillarin-like rRNA/tRNA 2'-O-methyltransferase	9
+33075080	gene/protein	rRNA 2'-O-methyltransferase fibrillarin (Schizosaccharomyces pombe 972h-)	9
+33075080	gene/protein	fibrinogen-binding protein (Staphylococcus aureus subsp. aureus MSSA476)	9
+33075080	gene/protein	fibrinogen-binding protein (Staphylococcus aureus subsp. aureus Mu50)	9
+33075080	gene/protein	fibrinogen-binding protein (Staphylococcus aureus subsp. aureus MW2)	9
+33075080	gene/protein	rRNA 2'-O-methyltransferase fibrillarin (fruit fly)	9
+33075080	gene/protein	fibrinogen-binding protein (Staphylococcus aureus subsp. aureus MRSA252)	9
+33075080	gene/protein	fibrinogen-binding protein (Staphylococcus aureus subsp. aureus N315)	9
+33075080	gene/protein	fibrinogen-binding protein (Staphylococcus aureus subsp. aureus str. Newman)	9
+33075080	gene/protein	fibrinogen-binding protein	9
+33075080	gene/protein	histone H2A	1
+33075080	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+33075080	gene/protein	ribonuclease I	1
+33075080	gene/protein	protein	1
+33075080	organism	Eukaryota	3
+33075080	organism	Mammals	3
+33075080	organism	Archaea	2
+33075080	organism	Eutheria	2
+33075080	organism	Trees	1
+33075080	organism	bacterium IFAM-3211	1
+33075080	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+33075080	organism	bacterium IFAM-3215	1
+33075080	organism	bacterium IFAM-2074	1
+33075080	organism	bacterium IFAM-3359	1
+33075080	organism	bacterium	1
+33075080	organism	bacterium IFAM-1493	1
+33075080	organism	Ruminants	1
+33075080	organism	Primates	1
+33075080	organism	Marsupialia	1
+33075080	sequence	gene	4
+33075080	sequence	region	3
+33075080	sequence	rRNA	1
+33075080	sequence	assembly	1
+33075080	sequence	promoter_region	1
+33075080	sequence	rRNA_gene	1
+33075080	sequence	genome	1
+33075080	sequence	tandem_duplication	1
+33075080	sequence	syntenic	1
+33075080	sequence	chromosomal_transposition	1
+33075080	sequence	polypeptide	1
+33075080	organ/tissue	animal hemisphere	1
+33075080	organ/tissue	multicellular organism	1
+33075080	clinical_drug	TANDEM	1
+33075080	molecular_process	methylation	2

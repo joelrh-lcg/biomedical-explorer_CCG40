@@ -1,0 +1,49 @@
+32998072	biological_process	nitrogen fixation	1
+32998072	biological_process	biosynthesis	1
+32998072	biological_process	xenobiotic degradation	1
+32998072	biological_process	degradation	1
+32998072	biological_process	chemotaxis	1
+32998072	biological_process	secretion	1
+32998072	cellular_component	pili	1
+32998072	chemical	indoleacetic acid	3
+32998072	chemical	phosphonate	3
+32998072	chemical	cellulose	3
+32998072	chemical	starch	3
+32998072	chemical	nitrogen	2
+32998072	chemical	16s rrna	1
+32998072	chemical	nucleotide	1
+32998072	chemical	antimicrobial	1
+32998072	chemical	terpene	1
+32998072	chemical	bacteriocin	1
+32998072	chemical	xenobiotic	1
+32998072	chemical	chitinase	1
+32998072	chemical	isoamylase	1
+32998072	chemical	nacl	1
+32998072	chemical	fatty acid	1
+32998072	chemical	base	1
+32998072	gene/protein	reca	14
+32998072	gene/protein	lepa	4
+32998072	gene/protein	sub	4
+32998072	gene/protein	gltb	3
+32998072	gene/protein	bacteriocin	3
+32998072	gene/protein	isoamylase	3
+32998072	gene/protein	nov	2
+32998072	gene/protein	putative chitinase	1
+32998072	gene/protein	ω	1
+32998072	gene/protein	lmg	1
+32998072	organism	tomato	2
+32998072	organism	collection	1
+32998072	organism	bacterium be	1
+32998072	sequence	sequence	5
+32998072	sequence	gene	5
+32998072	sequence	genome	3
+32998072	sequence	16s rrna	1
+32998072	sequence	rrna gene	1
+32998072	sequence	base	1
+32998072	cell_line	reca	1
+32998072	organ/tissue	pili	1
+32998072	organ/tissue	secretion	1
+32998072	clinical_drug	tomato	1
+32998072	clinical_drug	nitrogen	1
+32998072	clinical_drug	cellulose	1
+32998072	clinical_drug	starch	1

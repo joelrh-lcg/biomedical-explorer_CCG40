@@ -1,0 +1,29 @@
+18312393	biological_process	biosynthesis	1
+18312393	biological_process	behaviour	1
+18312393	biological_process	defence response	1
+18312393	cellular_component	core	1
+18312393	chemical	lps	18
+18312393	chemical	o antigen	8
+18312393	chemical	lipopolysaccharide	2
+18312393	chemical	abc2	2
+18312393	chemical	antimicrobial	2
+18312393	chemical	6methoxy2benzoxazolinone	2
+18312393	chemical	atpase	1
+18312393	chemical	GDPmannose	1
+18312393	chemical	lps core	1
+18312393	disease	lps	7
+18312393	disease	susceptibility	2
+18312393	disease	CIAT	1
+18312393	gene/protein	lps	14
+18312393	gene/protein	abc2	7
+18312393	gene/protein	atpase	2
+18312393	gene/protein	lack	1
+18312393	gene/protein	mboa	1
+18312393	organism	maize	8
+18312393	organism	Rhizobium tropici	2
+18312393	organism	CIAT899	1
+18312393	organism	strain all	1
+18312393	sequence	transposon	1
+18312393	sequence	gene	1
+18312393	sequence	mutation	1
+18312393	cell	band	3

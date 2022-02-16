@@ -1,0 +1,53 @@
+2448295	cellular_component	chromosome	1
+2448295	chemical	Glutamate Synthase	3
+2448295	chemical	Anti-Bacterial Agents	2
+2448295	chemical	Complement System Proteins	2
+2448295	chemical	antimicrobial agent	1
+2448295	chemical	nitrogen atom	1
+2448295	chemical	nitrogen(.)	1
+2448295	chemical	Glutamate-Ammonia Ligase	1
+2448295	chemical	peptide	1
+2448295	chemical	molecule	1
+2448295	chemical	probe	1
+2448295	chemical	polypeptide	1
+2448295	gene/protein	Glutamine synthetase	122
+2448295	gene/protein	glutamate synthase [NADPH] large chain (Escherichia coli K-12)	7
+2448295	gene/protein	glutamate synthase [NADPH] small chain (Bacillus subtilis subsp. subtilis str. 168)	7
+2448295	gene/protein	glutamate synthase [NADPH] large chain	7
+2448295	gene/protein	intron-encoded endonuclease I-SceI (yeast)	3
+2448295	gene/protein	proteolytic cleavage product	2
+2448295	gene/protein	amino acid chain	2
+2448295	gene/protein	protein GltF	2
+2448295	gene/protein	protein GltF (Escherichia coli K-12)	2
+2448295	gene/protein	glutamine synthetase	1
+2448295	gene/protein	proteobacterial-type glutamate synthase [NADPH] small chain	1
+2448295	gene/protein	glutamate synthase [NADPH] small chain (Escherichia coli K-12)	1
+2448295	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+2448295	gene/protein	extracellular adherence protein	1
+2448295	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+2448295	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+2448295	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+2448295	gene/protein	methionine aminopeptidase	1
+2448295	gene/protein	protein POLAR LOCALIZATION DURING ASYMMETRIC DIVISION AND REDISTRIBUTION (Arabidopsis thaliana)	1
+2448295	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+2448295	gene/protein	ribonuclease I	1
+2448295	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+2448295	molecular_function	glutamate synthase activity	1
+2448295	organism	Escherichia coli	4
+2448295	organism	unidentified plasmid	3
+2448295	sequence	gene	3
+2448295	sequence	plasmid	3
+2448295	sequence	operon	3
+2448295	sequence	sequence_variant_obs	2
+2448295	sequence	fragmentary	1
+2448295	sequence	insert	1
+2448295	sequence	clone	1
+2448295	sequence	glutamine	1
+2448295	sequence	active_peptide	1
+2448295	sequence	chromosome	1
+2448295	sequence	probe	1
+2448295	sequence	polypeptide	1
+2448295	cell_line	MIN	1
+2448295	clinical_drug	Glutamate	3
+2448295	clinical_drug	Nitrogen	1
+2448295	clinical_drug	Glutamine	1

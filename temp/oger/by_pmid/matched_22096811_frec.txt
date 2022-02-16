@@ -1,0 +1,26 @@
+22096811	chemical	glutamine	24
+22096811	chemical	glutamate	12
+22096811	chemical	amino acid	10
+22096811	chemical	alanine	10
+22096811	chemical	arginine	5
+22096811	chemical	amino	2
+22096811	chemical	nitrogen	2
+22096811	chemical	mixture	1
+22096811	chemical	carrier	1
+22096811	disease	starvation	4
+22096811	gene/protein	mat	3265
+22096811	gene/protein	glutamine amidotransferase	624
+22096811	molecular_function	mat	5
+22096811	molecular_function	carrier	1
+22096811	organism	Neurospora crassa	2
+22096811	organism	conidia	1
+22096811	sequence	glutamine	6
+22096811	sequence	amino acid	5
+22096811	sequence	alanine	2
+22096811	sequence	arginine	1
+22096811	cell_line	mat	5
+22096811	clinical_drug	glutamine	6
+22096811	clinical_drug	alanine	2
+22096811	clinical_drug	glutamate	2
+22096811	clinical_drug	arginine	1
+22096811	clinical_drug	nitrogen	1

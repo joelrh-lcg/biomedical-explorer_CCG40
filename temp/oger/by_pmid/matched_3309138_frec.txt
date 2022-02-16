@@ -1,0 +1,16 @@
+3309138	biological_process	glutamine degradation	1
+3309138	chemical	glutaminase	9
+3309138	chemical	pyruvate	9
+3309138	chemical	glutamine	4
+3309138	chemical	2oxoglutarate	3
+3309138	chemical	2oxo acid	1
+3309138	chemical	physiological role	1
+3309138	gene/protein	glutaminase	1064
+3309138	gene/protein	glutaminase a	4
+3309138	molecular_function	glutaminase activity	3
+3309138	organism	Saccharomyces cerevisiae	2
+3309138	sequence	glutamine	1
+3309138	sequence	wild type	1
+3309138	clinical_drug	pyruvate	3
+3309138	clinical_drug	Saccharomyces cerevisiae	2
+3309138	clinical_drug	glutamine	1

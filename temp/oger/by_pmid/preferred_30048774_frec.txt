@@ -1,0 +1,52 @@
+30048774	biological_process	metaplastic ossification	3
+30048774	biological_process	DNA replication	1
+30048774	cellular_component	spliceosomal complex	1
+30048774	chemical	protein	3
+30048774	chemical	picloram	3
+30048774	chemical	Epithelial Cell Adhesion Molecule	2
+30048774	chemical	Ribosomal Proteins	1
+30048774	chemical	Sirtuin 3	1
+30048774	chemical	biomarker	1
+30048774	disease	Stomach Neoplasms	10
+30048774	disease	Metaplasia	6
+30048774	disease	Gastritis	4
+30048774	disease	Neoplasms	2
+30048774	disease	Disease	2
+30048774	disease	Adenocarcinoma	2
+30048774	gene/protein	Phosphoenolpyruvate carboxykinase (ATP) 2	2
+30048774	gene/protein	protein-cysteine N-palmitoyltransferase Rasp (fruit fly)	1
+30048774	gene/protein	glutathione S-transferase P 1	1
+30048774	gene/protein	glutathione S-transferase P	1
+30048774	gene/protein	glutathione S-transferase P (human)	1
+30048774	gene/protein	glutathione S-transferase P 1 (mouse)	1
+30048774	gene/protein	glutathione S-transferase P (rat)	1
+30048774	gene/protein	epithelial cell adhesion molecule (rat)	1
+30048774	gene/protein	epithelial cell adhesion molecule	1
+30048774	gene/protein	epithelial cell adhesion molecule (mouse)	1
+30048774	gene/protein	epithelial cell adhesion molecule (human)	1
+30048774	gene/protein	epithelial cell adhesion molecule (chicken)	1
+30048774	gene/protein	NAD-dependent protein deacetylase sirtuin-3, mitochondrial	1
+30048774	gene/protein	NAD-dependent protein deacetylase sirtuin-3 (mouse)	1
+30048774	gene/protein	NAD-dependent protein deacetylase sirtuin-3, mitochondrial (human)	1
+30048774	gene/protein	NAD-dependent deacetylase sirtuin-5	1
+30048774	gene/protein	NAD-dependent protein deacylase sirtuin-5, mitochondrial (human)	1
+30048774	gene/protein	NAD-dependent protein deacylase sirtuin-5, mitochondrial (rat)	1
+30048774	gene/protein	NAD-dependent protein deacylase sirtuin-5, mitochondrial (chicken)	1
+30048774	gene/protein	NAD-dependent protein deacylase sirtuin-5, mitochondrial (zebrafish)	1
+30048774	gene/protein	NAD-dependent protein deacylase sirtuin-5, mitochondrial (mouse)	1
+30048774	gene/protein	hexokinase-3 (human)	1
+30048774	gene/protein	protein Hook homolog 3	1
+30048774	gene/protein	hexokinase-3 (rat)	1
+30048774	gene/protein	protein hook homolog (Dictyostelium discoideum)	1
+30048774	gene/protein	hexokinase-3 (mouse)	1
+30048774	gene/protein	hexokinase-3	1
+30048774	gene/protein	phosphoenolpyruvate carboxykinase [GTP], mitochondrial (mouse)	1
+30048774	gene/protein	phosphoenolpyruvate carboxykinase [GTP], mitochondrial (human)	1
+30048774	gene/protein	phosphoenolpyruvate carboxykinase [GTP], mitochondrial	1
+30048774	gene/protein	phosphoenolpyruvate carboxykinase [GTP], mitochondrial (Dictyostelium discoideum)	1
+30048774	gene/protein	phosphoenolpyruvate carboxykinase [GTP], mitochondrial (chicken)	1
+30048774	gene/protein	protein kinase C-like 2 (Schizosaccharomyces pombe 972h-)	1
+30048774	molecular_function	protein histidine tele-kinase activity	1
+30048774	cell_line	HK3	1
+30048774	organ/tissue	obsolete metaplastic ossification	3
+30048774	entity_type	preferred_term	4

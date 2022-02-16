@@ -1,0 +1,7 @@
+30778181	biological_process	dormancy	1
+30778181	biological_process	antibiotic synthesis	1
+30778181	chemical	antibiotic	3
+30778181	organism	amphibian	3
+30778181	sequence	gene	2
+30778181	organ/tissue	skin	16
+30778181	organ/tissue	scale	1

@@ -1,0 +1,16 @@
+24493659	chemical	citrate	5
+24493659	chemical	amino acid	4
+24493659	chemical	ttt	2
+24493659	chemical	sludge	2
+24493659	chemical	sewage	2
+24493659	chemical	citrate transporter	1
+24493659	chemical	tricarboxylate transporter	1
+24493659	gene/protein	dub	18
+24493659	gene/protein	citrate transporter	14
+24493659	gene/protein	tcta	5
+24493659	organism	Comamonas testosteroni	2
+24493659	organism	βProteobacteria	1
+24493659	sequence	sequence	2
+24493659	sequence	amino acid	2
+24493659	sequence	repeat	2
+24493659	sequence	signature	1

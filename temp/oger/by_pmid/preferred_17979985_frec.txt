@@ -1,0 +1,45 @@
+17979985	biological_process	biosynthetic process	3
+17979985	cellular_component	cell envelope	2
+17979985	cellular_component	host cell	2
+17979985	cellular_component	intracellular	1
+17979985	cellular_component	cytosol	1
+17979985	cellular_component	obsolete protein	1
+17979985	chemical	Phosphatidylcholines	2
+17979985	chemical	Staphylococcal Protein A	2
+17979985	chemical	phosphatidylcholine	1
+17979985	chemical	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	1
+17979985	chemical	1,2-diacyl-sn-glycero-3-phosphocholine	1
+17979985	chemical	lipid	1
+17979985	chemical	phospholipid	1
+17979985	chemical	CDP-diacylglycerol choline O-phosphatidyltransferase	1
+17979985	chemical	picloram	1
+17979985	chemical	Complement System Proteins	1
+17979985	chemical	Flagellin	1
+17979985	gene/protein	Flagellin	34
+17979985	gene/protein	Phosphatidylcholine synthase	10
+17979985	gene/protein	RNA-directed RNA polymerase	8
+17979985	gene/protein	phospholipid N-methyltransferase	2
+17979985	gene/protein	lipopolysaccharide core biosynthesis protein RfaG	2
+17979985	gene/protein	lipopolysaccharide core biosynthesis protein RfaG (Escherichia coli K-12)	2
+17979985	gene/protein	DNA damage-inducible protein D (Escherichia coli K-12)	2
+17979985	gene/protein	DNA damage-inducible protein D	2
+17979985	gene/protein	phosphatidylcholine synthase	1
+17979985	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+17979985	gene/protein	Flagellar filament 41 kDa core protein	1
+17979985	gene/protein	Replication initiation protein	1
+17979985	gene/protein	Calcium homeostasis modulator protein 3	1
+17979985	gene/protein	53 kDa membrane antigen A	1
+17979985	molecular_function	obsolete bacterial cell surface binding	1
+17979985	organism	Legionella pneumophila	2
+17979985	organism	bacterium IFAM-3211	1
+17979985	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+17979985	organism	bacterium IFAM-3215	1
+17979985	organism	bacterium IFAM-2074	1
+17979985	organism	bacterium IFAM-3359	1
+17979985	organism	bacterium	1
+17979985	organism	bacterium IFAM-1493	1
+17979985	sequence	cryptic	1
+17979985	sequence	polypeptide_binding_motif	1
+17979985	sequence	non_covalent_binding_site	1
+17979985	sequence	polypeptide	1
+17979985	cell	macrophage	2

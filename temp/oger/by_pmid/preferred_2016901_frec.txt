@@ -1,0 +1,12 @@
+2016901	biological_process	biological regulation	3
+2016901	biological_process	transcription, DNA-templated	1
+2016901	chemical	base	2
+2016901	chemical	atom	1
+2016901	chemical	cluster	1
+2016901	sequence	operon	2
+2016901	sequence	promoter	2
+2016901	sequence	operator	2
+2016901	sequence	base	2
+2016901	sequence	gene	1
+2016901	sequence	linear	1
+2016901	organ/tissue	organ	1

@@ -1,0 +1,17 @@
+14722690	biological_process	nitrogen fixation	2
+14722690	biological_process	fertilization	2
+14722690	chemical	nitrogen	8
+14722690	chemical	pal	3
+14722690	gene/protein	pal	58
+14722690	gene/protein	mex	6
+14722690	gene/protein	pal 3	2
+14722690	molecular_function	pal	3
+14722690	organism	sugarcane	27
+14722690	organism	gluconacetobacter diazotrophicus	2
+14722690	organism	bacterium be	1
+14722690	organism	unknown	1
+14722690	organism	strain pal 5	1
+14722690	sequence	genotype	3
+14722690	sequence	inside	1
+14722690	clinical_drug	sugarcane	18
+14722690	clinical_drug	nitrogen	4

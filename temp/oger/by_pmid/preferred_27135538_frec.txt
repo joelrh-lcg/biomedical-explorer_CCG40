@@ -1,0 +1,13 @@
+27135538	biological_process	cellular process	1
+27135538	biological_process	cell growth	1
+27135538	cellular_component	cell projection	1
+27135538	chemical	DNA-Directed RNA Polymerases	1
+27135538	chemical	Proteome	1
+27135538	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+27135538	gene/protein	ribonuclease I	1
+27135538	organism	Escherichia coli	2
+27135538	organism	Plantago princeps	1
+27135538	sequence	sequence_variant_obs	4
+27135538	sequence	natural_variant_site	1
+27135538	organ/tissue	scale	1
+27135538	organ/tissue	multicellular organism	1

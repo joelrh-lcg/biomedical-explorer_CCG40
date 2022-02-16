@@ -1,0 +1,14 @@
+31263459	biological_process	nodulation	1
+31263459	chemical	nucleotide	1
+31263459	chemical	element	1
+31263459	gene/protein	ANI	1
+31263459	organism	bacterium	14
+31263459	organism	Bradyrhizobiaceae	1
+31263459	organism	plasmid	1
+31263459	sequence	genome	3
+31263459	sequence	sequence	2
+31263459	sequence	gene	2
+31263459	sequence	plasmid	1
+31263459	sequence	mobile genetic element	1
+31263459	organ/tissue	nodule	2
+31263459	organ/tissue	element	1

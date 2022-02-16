@@ -1,0 +1,32 @@
+20435728	biological_process	transcription	1
+20435728	biological_process	regulation	1
+20435728	cellular_component	protein	1
+20435728	chemical	protein	2
+20435728	chemical	element	1
+20435728	chemical	antisense rna	1
+20435728	chemical	molecule	1
+20435728	gene/protein	repA	17
+20435728	gene/protein	repa	17
+20435728	gene/protein	repc	8
+20435728	gene/protein	map	6
+20435728	gene/protein	repB	5
+20435728	gene/protein	repb	5
+20435728	gene/protein	repC	4
+20435728	gene/protein	pars	4
+20435728	gene/protein	rna	2
+20435728	gene/protein	protein	1
+20435728	molecular_function	antisense rna	1
+20435728	organism	Rhizobium etli	2
+20435728	organism	plasmid	2
+20435728	sequence	operon	4
+20435728	sequence	gene	3
+20435728	sequence	plasmid	2
+20435728	sequence	motif	2
+20435728	sequence	antisense rna	1
+20435728	sequence	initiator	1
+20435728	sequence	protein	1
+20435728	sequence	secondary structure	1
+20435728	sequence	antisense	1
+20435728	cell_line	repc	2
+20435728	cell_line	repC	1
+20435728	organ/tissue	element	1

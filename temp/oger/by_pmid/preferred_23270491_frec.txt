@@ -1,0 +1,21 @@
+23270491	biological_process	symbiotic process	1
+23270491	chemical	antimicrobial agent	1
+23270491	chemical	pesticide	1
+23270491	disease	COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	1
+23270491	gene/protein	Protein BEAN1	2
+23270491	gene/protein	Transcription factor Spi-C	1
+23270491	gene/protein	transcription factor Spi-C	1
+23270491	gene/protein	protein BEAN	1
+23270491	organism	Rhizobium tropici	3
+23270491	organism	Rhizobium sp. IRc78	1
+23270491	organism	Rhizobium sp.	1
+23270491	organism	Rhizobium sp. SIN-1	1
+23270491	organism	Ensifer sp. BR816	1
+23270491	organism	Rhizobium sp. MPIK3030	1
+23270491	organism	Rhizobium sp. N33	1
+23270491	organism	Alphaproteobacteria	1
+23270491	organism	Fabaceae	1
+23270491	organism	Phaseolus	1
+23270491	organism	Phaseolus vulgaris	1
+23270491	organism	unidentified	1
+23270491	cell_line	R1192	1

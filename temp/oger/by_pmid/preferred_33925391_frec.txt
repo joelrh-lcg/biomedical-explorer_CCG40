@@ -1,0 +1,18 @@
+33925391	cellular_component	obsolete protein	1
+33925391	chemical	OspA protein	2
+33925391	chemical	RNA, Ribosomal, 16S	1
+33925391	chemical	cluster	1
+33925391	chemical	base	1
+33925391	disease	OspA protein	1
+33925391	gene/protein	Outer surface protein A	10
+33925391	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+33925391	gene/protein	protein IMPACT (zebrafish)	1
+33925391	gene/protein	WW domain-containing oxidoreductase isoform 1	1
+33925391	organism	Ticks	5
+33925391	organism	Borrelia	1
+33925391	organism	OspA protein	1
+33925391	sequence	vector_replicon	3
+33925391	sequence	region	3
+33925391	sequence	rRNA_16S	1
+33925391	sequence	polypeptide	1
+33925391	sequence	base	1

@@ -1,0 +1,19 @@
+27010660	biological_process	nitrogen fixation	4
+27010660	chemical	nitrogen atom	4
+27010660	chemical	nitrogen(.)	4
+27010660	chemical	oxygen atom	3
+27010660	disease	Mandibulofacial Dysostosis	6
+27010660	gene/protein	cytochrome c oxidase subunit 1 homolog, bacteroid (Sinorhizobium meliloti 1021)	5
+27010660	gene/protein	Small nuclear ribonucleoprotein-associated protein B	4
+27010660	gene/protein	transcriptional regulatory protein FixJ (Sinorhizobium meliloti 1021)	1
+27010660	organism	Sinorhizobium meliloti	2
+27010660	organism	Rhizobium etli	2
+27010660	sequence	orthologous_region	1
+27010660	sequence	null_mutation	1
+27010660	sequence	sequence_variant_obs	1
+27010660	sequence	genome	1
+27010660	cell_line	TCS	6
+27010660	organ/tissue	cerebellum vermis lobule X	1
+27010660	organ/tissue	germinal center	1
+27010660	clinical_drug	Nitrogen	4
+27010660	clinical_drug	Oxygen	3

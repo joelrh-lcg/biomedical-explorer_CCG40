@@ -1,0 +1,15 @@
+1715738	biological_process	dna organization	1
+1715738	chemical	ribosomal dna	1
+1715738	chemical	16s	1
+1715738	chemical	rdna	1
+1715738	gene/protein	spp	32
+1715738	gene/protein	nov	2
+1715738	gene/protein	nif	1
+1715738	molecular_function	spp	2
+1715738	organism	Phaseolus vulgaris	2
+1715738	organism	Rhizobium tropici	2
+1715738	organism	Rhizobium leguminosarum	2
+1715738	organism	Rhizobium	1
+1715738	sequence	sequence	1
+1715738	sequence	rdna	1
+1715738	sequence	gene	1

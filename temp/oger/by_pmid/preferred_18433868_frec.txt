@@ -1,0 +1,33 @@
+18433868	biological_process	biological regulation	1
+18433868	cellular_component	obsolete protein	1
+18433868	chemical	protein	2
+18433868	chemical	(protein)	1
+18433868	gene/protein	Replication-associated protein A	15
+18433868	gene/protein	transcriptional repressor PifC (Escherichia coli K-12)	3
+18433868	gene/protein	Repressor c protein	3
+18433868	gene/protein	transcriptional repressor pifC	3
+18433868	gene/protein	Repressor protein c	3
+18433868	gene/protein	RepFIB replication protein A (Escherichia coli K-12)	2
+18433868	gene/protein	RepFIB replication protein A	2
+18433868	gene/protein	general transcription and DNA repair factor IIH helicase subunit XPB (Dictyostelium discoideum)	1
+18433868	gene/protein	mobilization protein A (Escherichia coli)	1
+18433868	gene/protein	replication regulatory protein repA2 (Shigella flexneri)	1
+18433868	gene/protein	protein	1
+18433868	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+18433868	gene/protein	extracellular adherence protein	1
+18433868	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+18433868	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+18433868	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+18433868	gene/protein	methionine aminopeptidase	1
+18433868	gene/protein	bifunctional glutamate/proline--tRNA ligase (human)	1
+18433868	gene/protein	bifunctional glutamate/proline--tRNA ligase	1
+18433868	organism	unidentified plasmid	4
+18433868	organism	Alphaproteobacteria	1
+18433868	sequence	plasmid	4
+18433868	sequence	operon	3
+18433868	sequence	gene	3
+18433868	sequence	replicon	2
+18433868	sequence	region	2
+18433868	sequence	polypeptide	1
+18433868	sequence	origin_of_replication	1
+18433868	cell_line	REPC	3

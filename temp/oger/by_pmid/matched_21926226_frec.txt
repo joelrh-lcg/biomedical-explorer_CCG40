@@ -1,0 +1,29 @@
+21926226	biological_process	stationary phase	6
+21926226	biological_process	nodulation	1
+21926226	biological_process	fatty acid degradation	1
+21926226	cellular_component	membrane	4
+21926226	chemical	fatty acid	11
+21926226	chemical	coa	4
+21926226	chemical	acyl coenzyme a	3
+21926226	chemical	lipid	3
+21926226	chemical	lcfa	2
+21926226	chemical	synthetase	1
+21926226	chemical	mixture	1
+21926226	chemical	δ5desaturase	1
+21926226	chemical	phospholipid	1
+21926226	gene/protein	fadd	42
+21926226	gene/protein	δ5desaturase	8
+21926226	gene/protein	fadD	7
+21926226	gene/protein	coa	5
+21926226	gene/protein	fadl	2
+21926226	molecular_function	5des	1
+21926226	organism	bacterium	14
+21926226	organism	Sinorhizobium meliloti	2
+21926226	organism	alfalfa	2
+21926226	organism	Escherichia coli	2
+21926226	organism	e coli	2
+21926226	sequence	mutation	1
+21926226	sequence	inside	1
+21926226	sequence	gene	1
+21926226	organ/tissue	membrane	8
+21926226	clinical_drug	alfalfa	1

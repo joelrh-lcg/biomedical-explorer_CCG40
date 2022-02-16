@@ -1,0 +1,9 @@
+27566552	chemical	probe	3
+27566552	chemical	probe molecular	2
+27566552	chemical	ancient dna	1
+27566552	chemical	dinucleotide	1
+27566552	gene/protein	impact	2
+27566552	sequence	probe	4
+27566552	sequence	genome	2
+27566552	sequence	sequence	1
+27566552	cell_line	cpg	1

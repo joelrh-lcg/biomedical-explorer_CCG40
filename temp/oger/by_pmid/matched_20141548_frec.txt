@@ -1,0 +1,11 @@
+20141548	chemical	amplify	1
+20141548	disease	scar	2
+20141548	gene/protein	pcr	8
+20141548	gene/protein	scar	2
+20141548	organism	maize	2
+20141548	organism	Azospirillum brasilense	2
+20141548	organism	primer	1
+20141548	sequence	sequence	1
+20141548	sequence	RAPD	1
+20141548	sequence	fragment	1
+20141548	sequence	primer	1

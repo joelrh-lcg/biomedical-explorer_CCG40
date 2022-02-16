@@ -1,0 +1,6 @@
+29456457	chemical	proteins	1
+29456457	disease	epithelial ovarian cancer	2
+29456457	disease	Ascites	2
+29456457	disease	disease	2
+29456457	disease	ovarian cancer	2
+29456457	organ/tissue	Ascites	1

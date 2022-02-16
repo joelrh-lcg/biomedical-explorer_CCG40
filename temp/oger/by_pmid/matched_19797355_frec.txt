@@ -1,0 +1,43 @@
+19797355	biological_process	polyketide synthesis	1
+19797355	cellular_component	smc	6
+19797355	cellular_component	chromosome	1
+19797355	cellular_component	protein	1
+19797355	chemical	4phosphopantetheine	8
+19797355	chemical	acp	6
+19797355	chemical	ACP	2
+19797355	chemical	protein	2
+19797355	chemical	carrier proteins	1
+19797355	chemical	fatty acid	1
+19797355	chemical	polyketide	1
+19797355	chemical	label	1
+19797355	chemical	prosthetic group	1
+19797355	chemical	malonyl group	1
+19797355	disease	smc	6
+19797355	disease	acp	3
+19797355	disease	ACP	1
+19797355	gene/protein	acp	1731
+19797355	gene/protein	ACP	577
+19797355	gene/protein	smb	28
+19797355	gene/protein	acpp	25
+19797355	gene/protein	smc	6
+19797355	gene/protein	orf	4
+19797355	gene/protein	ACPs	3
+19797355	gene/protein	transacylase	2
+19797355	gene/protein	nodf	1
+19797355	gene/protein	protein	1
+19797355	molecular_function	carrier	1
+19797355	molecular_function	ACPs	1
+19797355	organism	Sinorhizobium meliloti	2
+19797355	organism	Escherichia coli	2
+19797355	organism	plasmid	1
+19797355	sequence	orf	2
+19797355	sequence	intermediate	1
+19797355	sequence	domain	1
+19797355	sequence	genome	1
+19797355	sequence	sequence	1
+19797355	sequence	chromosome	1
+19797355	sequence	plasmid	1
+19797355	sequence	duplication	1
+19797355	sequence	protein	1
+19797355	sequence	delete	1
+19797355	cell_line	smb	2

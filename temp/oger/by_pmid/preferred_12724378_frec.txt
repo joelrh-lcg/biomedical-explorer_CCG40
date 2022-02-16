@@ -1,0 +1,53 @@
+12724378	biological_process	symbiotic process	2
+12724378	biological_process	G1 to G0 transition	1
+12724378	biological_process	single-celled organism vegetative growth phase	1
+12724378	biological_process	nodulation	1
+12724378	biological_process	nitrogen fixation	1
+12724378	cellular_component	obsolete protein	1
+12724378	chemical	Catalase	6
+12724378	chemical	hydrogen peroxide	3
+12724378	chemical	Peroxidase	2
+12724378	chemical	Hydrogen Peroxide	2
+12724378	chemical	protein	2
+12724378	chemical	base	1
+12724378	chemical	(protein)	1
+12724378	chemical	nitrogen atom	1
+12724378	chemical	nitrogen(.)	1
+12724378	chemical	Proteome	1
+12724378	gene/protein	Catalase	228
+12724378	gene/protein	catalase-peroxidase	11
+12724378	gene/protein	catalase-peroxidase (Escherichia coli K-12)	11
+12724378	gene/protein	Peroxidase	11
+12724378	gene/protein	2-imino-3-(indol-3-yl)propanoate dimerase	3
+12724378	gene/protein	catalase	3
+12724378	gene/protein	Dichlorochromopyrrolate synthase	3
+12724378	gene/protein	hydrogen peroxide-inducible genes activator	3
+12724378	gene/protein	hydrogen peroxide-inducible genes activator (Escherichia coli K-12)	3
+12724378	gene/protein	transcriptional regulator OxyR	3
+12724378	gene/protein	Purple acid phosphatase 17	1
+12724378	gene/protein	Cytochrome P450 119	1
+12724378	gene/protein	protein	1
+12724378	gene/protein	Acyl carrier protein AcpXL	1
+12724378	gene/protein	120.7 kDa protein in NOF-FB transposable element (fruit fly)	1
+12724378	molecular_function	peroxidase activity	1
+12724378	molecular_function	catalase activity	1
+12724378	molecular_function	binding	1
+12724378	organism	Rhizobium etli	2
+12724378	organism	Escherichia coli	2
+12724378	organism	Phaseolus	1
+12724378	organism	Phaseolus vulgaris	1
+12724378	sequence	gene	4
+12724378	sequence	base	1
+12724378	sequence	region	1
+12724378	sequence	polypeptide_domain	1
+12724378	sequence	polypeptide	1
+12724378	sequence	insertion	1
+12724378	sequence	promoter	1
+12724378	sequence	ORF	1
+12724378	sequence	promoter_region	1
+12724378	sequence	sequence_motif	1
+12724378	sequence	non_covalent_binding_site	1
+12724378	sequence	binding_site	1
+12724378	clinical_drug	MYELOPEROXIDASE	1
+12724378	clinical_drug	Hydrogen Peroxide	1
+12724378	clinical_drug	Nitrogen	1

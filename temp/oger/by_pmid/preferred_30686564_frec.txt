@@ -1,0 +1,35 @@
+30686564	biological_process	pathogenesis	1
+30686564	biological_process	obsolete virulence	1
+30686564	biological_process	viral process	1
+30686564	cellular_component	B cell receptor complex	1
+30686564	cellular_component	immunoglobulin complex, circulating	1
+30686564	cellular_component	immunoglobulin complex	1
+30686564	chemical	Immunoglobulin G	3
+30686564	chemical	Antigens	2
+30686564	chemical	Immunoglobulin A	1
+30686564	chemical	Immunoglobulin M	1
+30686564	chemical	virulence factor	1
+30686564	chemical	antigen	1
+30686564	disease	Infections	8
+30686564	disease	Immune System Diseases	2
+30686564	gene/protein	Heparin-binding hemagglutinin	5
+30686564	gene/protein	Intimin	5
+30686564	gene/protein	pH 6 antigen	3
+30686564	gene/protein	DNA adenine methylase (Escherichia coli K-12)	2
+30686564	gene/protein	DNA adenine methylase	2
+30686564	gene/protein	B-cell antigen receptor complex-associated protein alpha chain (human)	1
+30686564	gene/protein	B-cell antigen receptor complex-associated protein alpha chain (mouse)	1
+30686564	gene/protein	B-cell antigen receptor complex-associated protein alpha chain	1
+30686564	gene/protein	Fimbrial protein PrsG	1
+30686564	gene/protein	Heparin-binding hemagglutinin homolog	1
+30686564	gene/protein	Major antigen	1
+30686564	molecular_function	antigen binding	1
+30686564	organism	Citrobacter rodentium	2
+30686564	cell	enterocyte	1
+30686564	organ/tissue	breast	2
+30686564	organ/tissue	milk	2
+30686564	organ/tissue	immune system	1
+30686564	organ/tissue	adult organism	1
+30686564	organ/tissue	female organism	1
+30686564	organ/tissue	lumen of intestine	1
+30686564	organ/tissue	coat of hair	1

@@ -1,0 +1,78 @@
+29280343	biological_process	import into cell	2
+29280343	biological_process	import across plasma membrane	2
+29280343	biological_process	export across plasma membrane	2
+29280343	biological_process	export from cell	2
+29280343	biological_process	biological_process	1
+29280343	biological_process	transport	1
+29280343	biological_process	transcription, DNA-templated	1
+29280343	cellular_component	intracellular	1
+29280343	cellular_component	outer membrane	1
+29280343	cellular_component	obsolete protein	1
+29280343	chemical	copper atom	7
+29280343	chemical	copper(0)	7
+29280343	chemical	Micronutrients	2
+29280343	chemical	protein	2
+29280343	chemical	N-(3-iodo-4-azidophenylpropionamido)-S-(2-thiopyridyl)cysteine	2
+29280343	chemical	micronutrient	1
+29280343	chemical	cofactor	1
+29280343	chemical	fungicide	1
+29280343	chemical	(protein)	1
+29280343	chemical	omeprazole	1
+29280343	chemical	alpha-particle	1
+29280343	gene/protein	Major outer membrane protein P.IB	10
+29280343	gene/protein	Synaptosomal-associated protein 25	5
+29280343	gene/protein	Outer membrane protein	3
+29280343	gene/protein	Porin	2
+29280343	gene/protein	transcriptional regulator SUPERMAN (Arabidopsis thaliana)	1
+29280343	gene/protein	synaptosomal-associated protein 25	1
+29280343	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+29280343	gene/protein	NAD-dependent dihydropyrimidine dehydrogenase subunit PreT (Escherichia coli K-12)	1
+29280343	gene/protein	NAD-dependent dihydropyrimidine dehydrogenase subunit PreT	1
+29280343	gene/protein	protein STRUBBELIG (Arabidopsis thaliana)	1
+29280343	gene/protein	kinesin-like protein subito (fruit fly)	1
+29280343	gene/protein	Intimin	1
+29280343	gene/protein	Ovary maturating parsin	1
+29280343	gene/protein	olfactory marker protein (human)	1
+29280343	gene/protein	olfactory marker protein	1
+29280343	gene/protein	Major outer membrane protein P44	1
+29280343	gene/protein	olfactory marker protein (mouse)	1
+29280343	gene/protein	olfactory marker protein (rat)	1
+29280343	gene/protein	cation/acetate symporter ActP	1
+29280343	gene/protein	alpha-parvin (mouse)	1
+29280343	gene/protein	alpha-parvin (rat)	1
+29280343	gene/protein	cation/acetate symporter ActP (Escherichia coli K-12)	1
+29280343	gene/protein	alpha-parvin	1
+29280343	gene/protein	coatomer subunit alpha (human)	1
+29280343	gene/protein	coatomer subunit alpha	1
+29280343	gene/protein	copper-exporting P-type ATPase (Escherichia coli K-12)	1
+29280343	gene/protein	coatomer subunit alpha (mouse)	1
+29280343	gene/protein	coatomer subunit alpha (Dictyostelium discoideum)	1
+29280343	gene/protein	copper-exporting P-type ATPase	1
+29280343	gene/protein	copper-exporting P-type ATPase (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+29280343	gene/protein	Voltage-dependent anion-selective channel	1
+29280343	gene/protein	Major outer membrane protein	1
+29280343	gene/protein	voltage-dependent anion-selective channel (fruit fly)	1
+29280343	molecular_function	acetate:cation symporter activity	1
+29280343	molecular_function	porin activity	1
+29280343	organism	Rhizobium	2
+29280343	organism	bacterium IFAM-3211	1
+29280343	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+29280343	organism	bacterium IFAM-3215	1
+29280343	organism	bacterium IFAM-2074	1
+29280343	organism	bacterium IFAM-3359	1
+29280343	organism	bacterium	1
+29280343	organism	bacterium IFAM-1493	1
+29280343	organism	unidentified plasmid	1
+29280343	organism	Rhizobiaceae	1
+29280343	organism	Alphaproteobacteria	1
+29280343	sequence	gene	4
+29280343	sequence	deletion	1
+29280343	sequence	plasmid	1
+29280343	sequence	polypeptide	1
+29280343	sequence	paralogous_region	1
+29280343	sequence	orthologous_region	1
+29280343	cell_line	COPA 159	1
+29280343	organ/tissue	crop	1
+29280343	organ/tissue	membrane organ	1
+29280343	organ/tissue	membranous layer	1
+29280343	molecular_process	oxidation	1

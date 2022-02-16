@@ -1,0 +1,7 @@
+25283805	biological_process	gene expression	3
+25283805	gene/protein	bean	12
+25283805	gene/protein	lack	1
+25283805	organism	Phaseolus vulgaris	2
+25283805	organism	legume	2
+25283805	sequence	gene	3
+25283805	cell_line	bean	4

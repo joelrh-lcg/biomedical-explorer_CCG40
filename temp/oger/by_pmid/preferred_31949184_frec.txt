@@ -1,0 +1,11 @@
+31949184	biological_process	gene expression	1
+31949184	disease	Pulmonary Disease, Chronic Obstructive	6
+31949184	disease	Idiopathic Pulmonary Fibrosis	4
+31949184	disease	Disease	4
+31949184	gene/protein	coatomer subunit delta (human)	2
+31949184	gene/protein	coatomer subunit delta (chicken)	2
+31949184	gene/protein	coatomer subunit delta (mouse)	2
+31949184	gene/protein	coatomer subunit delta (rat)	2
+31949184	gene/protein	coatomer subunit delta	2
+31949184	gene/protein	coatomer subunit delta (Dictyostelium discoideum)	2
+31949184	sequence	gene	2

@@ -1,0 +1,3 @@
+9284644	gene/protein	glyceraldehyde-3-phosphate dehydrogenase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+9284644	gene/protein	GTPase-activating protein pac-1 (worm)	1
+9284644	sequence	gap	1

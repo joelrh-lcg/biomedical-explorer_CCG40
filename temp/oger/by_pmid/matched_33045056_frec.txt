@@ -1,0 +1,34 @@
+33045056	biological_process	regulation	3
+33045056	biological_process	gene expression	1
+33045056	chemical	adh	14
+33045056	chemical	mirna	3
+33045056	chemical	microrna	2
+33045056	chemical	ALCOHOL dehydrogenase	1
+33045056	chemical	SUPEROXIDE dismutase 1	1
+33045056	disease	csd	2
+33045056	gene/protein	mir	169
+33045056	gene/protein	adh1	84
+33045056	gene/protein	ALCOHOL dehydrogenase 1	51
+33045056	gene/protein	SUPEROXIDE dismutase 1	20
+33045056	gene/protein	MIR	13
+33045056	gene/protein	precursor	4
+33045056	gene/protein	csd1	1
+33045056	gene/protein	crop	1
+33045056	molecular_function	adh	14
+33045056	organism	eukaryote	1
+33045056	organism	Phaseolus vulgari	1
+33045056	organism	Leguminosae	1
+33045056	organism	human	1
+33045056	organism	legume	1
+33045056	sequence	gene	11
+33045056	sequence	microrna	2
+33045056	sequence	mirna	2
+33045056	sequence	sequence	2
+33045056	sequence	dicistronic	1
+33045056	sequence	transcript	1
+33045056	sequence	genome	1
+33045056	sequence	mirna gene	1
+33045056	sequence	polycistronic gene	1
+33045056	sequence	duplication	1
+33045056	organ/tissue	crop	1
+33045056	clinical_drug	ALCOHOL	1

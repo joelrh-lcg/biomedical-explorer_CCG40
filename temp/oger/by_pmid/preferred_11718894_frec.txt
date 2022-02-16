@@ -1,0 +1,47 @@
+11718894	biological_process	biological regulation	1
+11718894	biological_process	obsolete germination	1
+11718894	chemical	2-hydroxybenzothiazole	4
+11718894	chemical	protein	4
+11718894	chemical	deoxyhemoglobin	1
+11718894	chemical	hemoglobin	1
+11718894	chemical	Hemoglobins	1
+11718894	disease	Telangiectasia, Hereditary Benign	4
+11718894	gene/protein	Non-symbiotic hemoglobin	8
+11718894	gene/protein	hemoglobin subunit mu (human)	4
+11718894	gene/protein	hemoglobin subunit mu	4
+11718894	gene/protein	cell division cycle protein 27 homolog B (Arabidopsis thaliana)	4
+11718894	gene/protein	Non-symbiotic hemoglobin 1	4
+11718894	gene/protein	Histone H3.3C	3
+11718894	gene/protein	histone H3.3C	3
+11718894	gene/protein	Group 1 truncated hemoglobin	2
+11718894	gene/protein	stringent starvation protein A	2
+11718894	gene/protein	Probable salivary secreted peptide	2
+11718894	gene/protein	stringent starvation protein A (Escherichia coli K-12)	2
+11718894	gene/protein	probable inactive receptor-like kinase BSK12 (Arabidopsis thaliana)	2
+11718894	gene/protein	homeobox-DDT domain protein RLT1 (Arabidopsis thaliana)	2
+11718894	gene/protein	Hemoglobin subunit beta-1	2
+11718894	gene/protein	Hemoglobin subunit alpha-1	2
+11718894	gene/protein	Group 1 truncated hemoglobin GlbN	1
+11718894	gene/protein	Group 1 truncated hemoglobin trHbN	1
+11718894	gene/protein	DNA-binding protein HU 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+11718894	organism	Zea mays	19
+11718894	organism	Zea luxurians	6
+11718894	organism	Zea diploperennis	6
+11718894	organism	Zea perennis	6
+11718894	organism	Oryza sativa	2
+11718894	organism	Oryza	2
+11718894	organism	Hordeum	1
+11718894	organism	Hordeum vulgare	1
+11718894	organism	Edible Grain	1
+11718894	sequence	gene	5
+11718894	sequence	transcript	3
+11718894	sequence	CDS	1
+11718894	sequence	intron	1
+11718894	sequence	intron_variant	1
+11718894	sequence	region	1
+11718894	sequence	hydrophobic_region_of_peptide	1
+11718894	organ/tissue	organ	4
+11718894	organ/tissue	compound organ	4
+11718894	organ/tissue	supraspinal nucleus	2
+11718894	clinical_drug	Brown Rice	2
+11718894	clinical_drug	barley allergenic extract	1

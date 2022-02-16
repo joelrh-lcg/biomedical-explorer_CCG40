@@ -1,0 +1,31 @@
+31401107	biological_process	cellular process	1
+31401107	biological_process	cell proliferation	1
+31401107	biological_process	regulation	1
+31401107	cellular_component	cellular process	1
+31401107	cellular_component	hnrnp	1
+31401107	cellular_component	chromatin	1
+31401107	chemical	lncrna	5
+31401107	chemical	histone	2
+31401107	chemical	molecule	1
+31401107	chemical	shrna	1
+31401107	chemical	proteins	1
+31401107	chemical	hnrnp	1
+31401107	chemical	chromatin	1
+31401107	disease	tumor	6
+31401107	disease	hypoxia	4
+31401107	disease	breast cancer	4
+31401107	disease	Tumor	2
+31401107	disease	acidosis	2
+31401107	gene/protein	p27	25
+31401107	gene/protein	cue	1
+31401107	gene/protein	histone	1
+31401107	gene/protein	hnrnp	1
+31401107	molecular_function	hnrnp	1
+31401107	sequence	shrna	1
+31401107	cell	stem cell	4
+31401107	cell	cancer cell	1
+31401107	cell_line	mcf7	3
+31401107	cell_line	mimic	1
+31401107	cell_line	MCF7	1
+31401107	organ/tissue	proliferation	3
+31401107	organ/tissue	breast	2

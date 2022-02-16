@@ -1,0 +1,20 @@
+12571008	biological_process	genetic transfer	1
+12571008	chemical	cluster	1
+12571008	chemical	sulfur atom	1
+12571008	chemical	DNA, Ribosomal	1
+12571008	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	3
+12571008	gene/protein	Protein BEAN1	2
+12571008	gene/protein	chitooligosaccharide deacetylase (Sinorhizobium meliloti 1021)	1
+12571008	gene/protein	protein BEAN	1
+12571008	organism	unidentified plasmid	3
+12571008	organism	Rhizobium etli	2
+12571008	organism	Rhizobium gallicum	2
+12571008	organism	Phaseolus	1
+12571008	sequence	plasmid	3
+12571008	sequence	region	1
+12571008	sequence	clone	1
+12571008	sequence	fragmentary	1
+12571008	sequence	genotype	1
+12571008	cell_line	R1192	1
+12571008	organ/tissue	cerebellum vermis lobule X	1
+12571008	organ/tissue	germinal center	1

@@ -1,0 +1,29 @@
+30936856	biological_process	fermentation	1
+30936856	biological_process	metabolic process	1
+30936856	cellular_component	obsolete soluble fraction	1
+30936856	cellular_component	hydrogenosome	1
+30936856	chemical	oxygen atom	7
+30936856	chemical	Oxidoreductases	7
+30936856	chemical	Heme	2
+30936856	chemical	Adenosine Triphosphate	2
+30936856	chemical	ferroheme b	1
+30936856	chemical	heme	1
+30936856	chemical	heme b	1
+30936856	chemical	ATP(4-)	1
+30936856	chemical	ATP	1
+30936856	gene/protein	protein STRUBBELIG (Arabidopsis thaliana)	4
+30936856	gene/protein	kinesin-like protein subito (fruit fly)	4
+30936856	gene/protein	F-box/WD repeat-containing protein 7 (fruit fly)	2
+30936856	gene/protein	uroporphyrinogen decarboxylase (Dictyostelium discoideum)	1
+30936856	gene/protein	uroporphyrinogen decarboxylase (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+30936856	gene/protein	uroporphyrinogen decarboxylase (Escherichia coli K-12)	1
+30936856	gene/protein	staphylococcal-like nuclease CAN2 (Arabidopsis thaliana)	1
+30936856	organism	Eukaryota	4
+30936856	organism	Alphaproteobacteria	3
+30936856	organism	Rhodospirillaceae	1
+30936856	sequence	genome	3
+30936856	sequence	operon	1
+30936856	sequence	signature	1
+30936856	sequence	transition	1
+30936856	clinical_drug	Oxygen	7
+30936856	clinical_drug	Adenosine Triphosphate	1

@@ -1,0 +1,16 @@
+22806790	biological_process	germination	2
+22806790	chemical	prodigiosin	12
+22806790	chemical	chitinase	3
+22806790	chemical	chitin	3
+22806790	chemical	metabolite	1
+22806790	gene/protein	chitinase	18
+22806790	gene/protein	bean	3
+22806790	organism	peanut	4
+22806790	organism	sesame	2
+22806790	organism	soybean	2
+22806790	organism	castor bean	2
+22806790	organism	serratia	1
+22806790	organism	Colletotrichum	1
+22806790	cell_line	bean	1
+22806790	clinical_drug	peanut	2
+22806790	clinical_drug	soybean	2

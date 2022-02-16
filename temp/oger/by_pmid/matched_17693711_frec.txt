@@ -1,0 +1,33 @@
+17693711	biological_process	symbiosis	2
+17693711	biological_process	synthesis	1
+17693711	biological_process	regulation	1
+17693711	biological_process	nodule formation	1
+17693711	biological_process	nitrogen fixation	1
+17693711	chemical	tyrosinase	3
+17693711	chemical	melanin	3
+17693711	chemical	ce3	3
+17693711	chemical	syringic acid	3
+17693711	chemical	reactive oxygen species	3
+17693711	chemical	nitrogen	2
+17693711	chemical	oxidase	1
+17693711	chemical	complement	1
+17693711	chemical	h2o2	1
+17693711	chemical	peroxide	1
+17693711	gene/protein	tyrosinase	69
+17693711	gene/protein	sp2	20
+17693711	gene/protein	mela	18
+17693711	gene/protein	p42	8
+17693711	gene/protein	monophenol oxidase	1
+17693711	organism	Rhizobium etli	2
+17693711	organism	CFN42	2
+17693711	organism	strain sp	2
+17693711	organism	Escherichia coli	2
+17693711	organism	plasmid p42d	1
+17693711	sequence	gene	1
+17693711	sequence	plasmid	1
+17693711	cell_line	sp2	6
+17693711	cell_line	ce3	3
+17693711	cell_line	3 sp	1
+17693711	organ/tissue	nodule	4
+17693711	clinical_drug	nitrogen	1
+17693711	clinical_drug	oxygen	1

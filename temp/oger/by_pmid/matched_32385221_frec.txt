@@ -1,0 +1,16 @@
+32385221	biological_process	gene expression	1
+32385221	biological_process	regulation	1
+32385221	chemical	mirna	12
+32385221	chemical	microrna	1
+32385221	chemical	miRNAs	1
+32385221	gene/protein	precursor	4
+32385221	gene/protein	rna	2
+32385221	organism	bacterium	7
+32385221	organism	peanut	4
+32385221	organism	legume	1
+32385221	sequence	mirna	12
+32385221	sequence	microrna	1
+32385221	sequence	gene	1
+32385221	organ/tissue	nodule	12
+32385221	organ/tissue	organ	2
+32385221	clinical_drug	peanut	2

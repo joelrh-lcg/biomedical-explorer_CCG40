@@ -1,0 +1,43 @@
+18596979	biological_process	transport	1
+18596979	cellular_component	viral nucleocapsid	1
+18596979	cellular_component	chromosome	1
+18596979	chemical	prolactin, polymeric	2
+18596979	chemical	Prolactin	2
+18596979	chemical	protein	1
+18596979	chemical	metabolite	1
+18596979	chemical	atom	1
+18596979	gene/protein	Prolactin	80
+18596979	gene/protein	nucleoporin Nup43	5
+18596979	gene/protein	peroxidase 42 (Arabidopsis thaliana)	5
+18596979	gene/protein	Capsid protein	5
+18596979	gene/protein	Glutamine synthetase	5
+18596979	gene/protein	Movement protein TGB1	5
+18596979	gene/protein	Nucleoporin Nup43	5
+18596979	gene/protein	Transcription initiation factor TFIID subunit 9	5
+18596979	gene/protein	tRNA-aminoacylation cofactor ARC1	5
+18596979	gene/protein	pre-B-cell leukemia transcription factor 1	2
+18596979	gene/protein	prolactin (human)	2
+18596979	gene/protein	prolactin	2
+18596979	gene/protein	prolactin (chicken)	2
+18596979	gene/protein	pre-B-cell leukemia transcription factor 1 (human)	2
+18596979	gene/protein	prolactin (mouse)	2
+18596979	gene/protein	DNA replication licensing factor MCM7 (Arabidopsis thaliana)	2
+18596979	gene/protein	prolactin (rat)	2
+18596979	gene/protein	proton-coupled amino acid transporter-like protein pathetic (fruit fly)	1
+18596979	organism	Rhizobium etli	3
+18596979	organism	unidentified plasmid	3
+18596979	organism	Rhizobium leguminosarum	2
+18596979	organism	bacterium IFAM-3211	1
+18596979	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+18596979	organism	bacterium IFAM-3215	1
+18596979	organism	bacterium IFAM-2074	1
+18596979	organism	bacterium IFAM-3359	1
+18596979	organism	bacterium	1
+18596979	organism	bacterium IFAM-1493	1
+18596979	organism	Vicia	1
+18596979	organism	Plasmid p42d	1
+18596979	sequence	plasmid	4
+18596979	sequence	syntenic	2
+18596979	sequence	chromosome	1
+18596979	sequence	genome	1
+18596979	organ/tissue	organ	1

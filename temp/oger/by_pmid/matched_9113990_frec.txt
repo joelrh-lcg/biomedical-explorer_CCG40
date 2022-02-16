@@ -1,0 +1,29 @@
+9113990	cellular_component	protein	4
+9113990	cellular_component	core	2
+9113990	chemical	chitin	12
+9113990	chemical	protein	8
+9113990	chemical	oligosaccharide	7
+9113990	chemical	fucose	4
+9113990	chemical	glycoprotein	4
+9113990	chemical	antigen	3
+9113990	chemical	donor	2
+9113990	chemical	glycan	2
+9113990	chemical	lco	1
+9113990	chemical	signal molecule	1
+9113990	chemical	pentasaccharide	1
+9113990	gene/protein	glycoprotein	106
+9113990	gene/protein	protein	4
+9113990	gene/protein	add	3
+9113990	organism	bacterium	7
+9113990	organism	Bradyrhizobium japonicum	2
+9113990	organism	Rhizobium loti	2
+9113990	organism	Escherichia coli	2
+9113990	organism	Azorhizobium	1
+9113990	organism	Rhizobium	1
+9113990	organism	eukaryote	1
+9113990	sequence	protein	4
+9113990	sequence	signal	2
+9113990	sequence	gene	1
+9113990	sequence	donor	1
+9113990	cell	leukocyte	1
+9113990	molecular_process	acylation	1

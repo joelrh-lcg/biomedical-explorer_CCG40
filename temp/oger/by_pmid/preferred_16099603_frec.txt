@@ -1,0 +1,36 @@
+16099603	biological_process	import into cell	2
+16099603	biological_process	import across plasma membrane	2
+16099603	biological_process	biotin transport	2
+16099603	biological_process	biotin biosynthetic process	1
+16099603	biological_process	maintenance of location	1
+16099603	cellular_component	chromosomal region	1
+16099603	cellular_component	intracellular	1
+16099603	chemical	Biotin	20
+16099603	chemical	biotinate	10
+16099603	chemical	biotin	10
+16099603	chemical	cerium(3+)	1
+16099603	chemical	Adenosine Triphosphatases	1
+16099603	gene/protein	Protein BEAN1	2
+16099603	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+16099603	gene/protein	Inorganic triphosphatase	1
+16099603	gene/protein	Triphosphate tunnel metalloenzyme 3	1
+16099603	gene/protein	pimeloyl-[acyl-carrier protein] methyl ester esterase (Escherichia coli K-12)	1
+16099603	gene/protein	biotin synthase	1
+16099603	gene/protein	biotin synthase (Escherichia coli K-12)	1
+16099603	gene/protein	carboxylesterase bioH	1
+16099603	gene/protein	biotin synthase, mitochondrial (Arabidopsis thaliana)	1
+16099603	gene/protein	biotin synthase (Clostridium botulinum A str. Hall)	1
+16099603	gene/protein	biotin synthase (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+16099603	gene/protein	protein BEAN	1
+16099603	organism	Rhizobium etli	2
+16099603	organism	Sinorhizobium meliloti	2
+16099603	sequence	gene	4
+16099603	sequence	homologous_region	1
+16099603	sequence	wild_type	1
+16099603	sequence	operon	1
+16099603	cell_line	CE-3	1
+16099603	cell_line	R1192	1
+16099603	organ/tissue	multicellular organism	2
+16099603	organ/tissue	cerebellum vermis lobule X	1
+16099603	organ/tissue	germinal center	1
+16099603	clinical_drug	Biotin	10

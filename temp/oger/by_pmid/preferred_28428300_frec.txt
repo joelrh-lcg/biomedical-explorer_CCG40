@@ -1,0 +1,32 @@
+28428300	disease	Infections	2
+28428300	gene/protein	Streptopain	14
+28428300	gene/protein	minor histocompatibility antigen H13	2
+28428300	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	2
+28428300	gene/protein	Sucrose 6(F)-phosphate phosphorylase	2
+28428300	gene/protein	sphingosine-1-phosphate phosphatase 1	2
+28428300	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	2
+28428300	gene/protein	minor histocompatibility antigen H13 (human)	2
+28428300	gene/protein	sphingosine-1-phosphate phosphatase	2
+28428300	gene/protein	Sphingosine-1-phosphate phosphatase 1	2
+28428300	gene/protein	SD07518p (fruit fly)	2
+28428300	gene/protein	protein STRUBBELIG (Arabidopsis thaliana)	1
+28428300	gene/protein	kinesin-like protein subito (fruit fly)	1
+28428300	molecular_function	obsolete signal peptide peptidase activity	2
+28428300	organism	bacterium IFAM-3211	1
+28428300	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+28428300	organism	bacterium IFAM-3215	1
+28428300	organism	bacterium IFAM-2074	1
+28428300	organism	bacterium IFAM-3359	1
+28428300	organism	bacterium	1
+28428300	organism	bacterium IFAM-1493	1
+28428300	organism	Mammals	1
+28428300	organism	Arthropods	1
+28428300	organism	Vertebrates	1
+28428300	organism	Invertebrates	1
+28428300	sequence	genome	1
+28428300	sequence	region	1
+28428300	sequence	contig	1
+28428300	organ/tissue	subdivision of digestive tract	1
+28428300	organ/tissue	intestine	1
+28428300	organ/tissue	animal hemisphere	1
+28428300	organ/tissue	multicellular organism	1

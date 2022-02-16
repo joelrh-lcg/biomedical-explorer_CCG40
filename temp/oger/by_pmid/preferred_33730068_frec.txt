@@ -1,0 +1,61 @@
+33730068	biological_process	glycolytic process	2
+33730068	biological_process	regulation of adenylate cyclase-inhibiting adrenergic receptor signaling pathway	1
+33730068	biological_process	negative regulation of adenylate cyclase-activating adrenergic receptor signaling pathway	1
+33730068	biological_process	cell population proliferation	1
+33730068	biological_process	metabolic process	1
+33730068	biological_process	transcription, DNA-templated	1
+33730068	biological_process	obsolete flagellum assembly	1
+33730068	biological_process	galactose metabolic process	1
+33730068	cellular_component	membrane	2
+33730068	cellular_component	obsolete flagellum	1
+33730068	cellular_component	cilium	1
+33730068	chemical	elemental carbon	2
+33730068	chemical	carbon atom	2
+33730068	chemical	Glucose	2
+33730068	chemical	Glycerol	2
+33730068	chemical	Sodium Acetate	2
+33730068	chemical	Galactose	2
+33730068	chemical	aldehydo-D-glucose	1
+33730068	chemical	D-glucopyranose	1
+33730068	chemical	glucose	1
+33730068	chemical	glycerol	1
+33730068	chemical	sodium acetate	1
+33730068	chemical	alpha-amino acid	1
+33730068	chemical	amino acid	1
+33730068	chemical	protein	1
+33730068	chemical	Monosaccharide Transport Proteins	1
+33730068	chemical	Membrane Proteins	1
+33730068	chemical	galactose	1
+33730068	disease	Retinal Nonattachment, Nonsyndromic Congenital	1
+33730068	gene/protein	cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG2 (Arabidopsis thaliana)	1
+33730068	gene/protein	probable E3 ubiquitin-protein ligase LOG2 (Arabidopsis thaliana)	1
+33730068	gene/protein	bifunctional protein FolD	1
+33730068	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+33730068	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+33730068	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+33730068	gene/protein	RNA polymerase sigma factor FliA (Escherichia coli K-12)	1
+33730068	gene/protein	alpha-actinin, sarcomeric (fruit fly)	1
+33730068	gene/protein	RNA polymerase sigma factor FliA	1
+33730068	gene/protein	flagellar transcriptional regulator FlhD (Escherichia coli K-12)	1
+33730068	gene/protein	flagellar transcriptional regulator FlhD	1
+33730068	gene/protein	flagellar transcriptional regulator FlhC (Escherichia coli K-12)	1
+33730068	gene/protein	flagellar transcriptional regulator FlhC	1
+33730068	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+33730068	organism	Escherichia coli	6
+33730068	organism	Schizosaccharomyces	4
+33730068	organism	Schizosaccharomyces pombe	2
+33730068	organism	Eukaryota	1
+33730068	organism	Bacteria	1
+33730068	sequence	gene	5
+33730068	sequence	assembly	2
+33730068	sequence	engineered_region	1
+33730068	sequence	amino_acid	1
+33730068	sequence	ncRNA	1
+33730068	organ/tissue	multicellular organism	2
+33730068	organ/tissue	membrane organ	2
+33730068	organ/tissue	membranous layer	2
+33730068	organ/tissue	proliferative region	1
+33730068	clinical_drug	Yeast, Unspecified	1
+33730068	clinical_drug	Dextrose, Unspecified Form	1
+33730068	clinical_drug	Sodium Acetate	1
+33730068	clinical_drug	Galactose	1

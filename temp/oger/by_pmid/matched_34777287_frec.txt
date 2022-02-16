@@ -1,0 +1,38 @@
+34777287	biological_process	degradation	3
+34777287	biological_process	nodulation	2
+34777287	biological_process	transport	1
+34777287	biological_process	symbiosis	1
+34777287	biological_process	metabolism	1
+34777287	biological_process	proline metabolism	1
+34777287	chemical	ferulic acid	6
+34777287	chemical	proline	4
+34777287	chemical	pectin	3
+34777287	chemical	phytoalexin	3
+34777287	chemical	amino acid	2
+34777287	chemical	flavonoid	2
+34777287	chemical	aromatic compound	1
+34777287	chemical	mucilage	1
+34777287	chemical	dicarboxylic acid	1
+34777287	chemical	iron	1
+34777287	chemical	polygalacturonase	1
+34777287	chemical	carbonic anhydrase	1
+34777287	gene/protein	polygalacturonase	24
+34777287	gene/protein	carbonic anhydrase	22
+34777287	gene/protein	bean	18
+34777287	organism	maize	6
+34777287	organism	ferulic acid	2
+34777287	organism	legume	1
+34777287	organism	cereal	1
+34777287	sequence	gene	8
+34777287	sequence	amino acid	1
+34777287	sequence	fusion	1
+34777287	sequence	proline	1
+34777287	sequence	enzymatic	1
+34777287	cell_line	bean	6
+34777287	cell_line	a 2h	1
+34777287	organ/tissue	exudate	4
+34777287	organ/tissue	nodule	2
+34777287	clinical_drug	ferulic acid	2
+34777287	clinical_drug	iron	1
+34777287	clinical_drug	pectin	1
+34777287	clinical_drug	proline	1

@@ -1,0 +1,30 @@
+25040623	biological_process	formation	3
+25040623	biological_process	biosynthesis	1
+25040623	cellular_component	membrane	1
+25040623	cellular_component	protein	1
+25040623	chemical	ornithine lipid	2
+25040623	chemical	protein	2
+25040623	chemical	lipid	1
+25040623	chemical	pathway	1
+25040623	chemical	γ	1
+25040623	disease	cholera	2
+25040623	disease	pneumonia	2
+25040623	gene/protein	lack	1
+25040623	gene/protein	protein	1
+25040623	gene/protein	γ	1
+25040623	organism	bacterium	21
+25040623	organism	Flavobacterium	3
+25040623	organism	Escherichia coli	2
+25040623	organism	ornithine lipid	1
+25040623	organism	archaea	1
+25040623	organism	eukaryote	1
+25040623	organism	Serratia	1
+25040623	organism	εproteobacteria	1
+25040623	organism	Vibrio cholera	1
+25040623	organism	klebsiella	1
+25040623	sequence	homologue	2
+25040623	sequence	gene	1
+25040623	sequence	protein	1
+25040623	sequence	deletion	1
+25040623	organ/tissue	membrane	2
+25040623	clinical_drug	ornithine	1

@@ -1,0 +1,19 @@
+17088283	biological_process	transcription, DNA-templated	1
+17088283	cellular_component	viral nucleocapsid	1
+17088283	chemical	Complement System Proteins	1
+17088283	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+17088283	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+17088283	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+17088283	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+17088283	gene/protein	extracellular adherence protein	1
+17088283	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+17088283	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+17088283	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+17088283	gene/protein	methionine aminopeptidase	1
+17088283	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+17088283	organism	Escherichia coli	2
+17088283	organism	collection	1
+17088283	organism	Gammaproteobacteria	1
+17088283	sequence	genome	2
+17088283	cell_line	TAB089	1
+17088283	organ/tissue	multicellular organism	1

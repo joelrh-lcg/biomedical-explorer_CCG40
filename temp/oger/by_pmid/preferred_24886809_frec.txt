@@ -1,0 +1,72 @@
+24886809	biological_process	metabolic process	1
+24886809	biological_process	inflammatory response	1
+24886809	biological_process	proteolysis	1
+24886809	biological_process	glucose catabolic process	1
+24886809	biological_process	cytolysis	1
+24886809	biological_process	cell death	1
+24886809	biological_process	obsolete necrosis	1
+24886809	biological_process	cell killing	1
+24886809	biological_process	necrotic cell death	1
+24886809	biological_process	signal transduction	1
+24886809	cellular_component	obsolete protein	1
+24886809	cellular_component	endoplasmic reticulum	1
+24886809	chemical	protein	7
+24886809	chemical	Insulin	4
+24886809	chemical	insulin (human)	2
+24886809	chemical	insulin	2
+24886809	chemical	Lithostathine	2
+24886809	chemical	Carbohydrates	2
+24886809	chemical	Glucose	2
+24886809	chemical	(protein)	1
+24886809	chemical	poly(acrylamide) macromolecule	1
+24886809	chemical	polyacrylamide macromolecule	1
+24886809	chemical	polyacrylamide	1
+24886809	chemical	polyacrylamide polymer	1
+24886809	chemical	Cytochromes b5	1
+24886809	chemical	cytochrome b5	1
+24886809	chemical	Chymotrypsinogen	1
+24886809	chemical	Peroxiredoxins	1
+24886809	chemical	Glutamyl Aminopeptidase	1
+24886809	chemical	endoplasmin	1
+24886809	chemical	carbohydrate	1
+24886809	chemical	aldehydo-D-glucose	1
+24886809	chemical	D-glucopyranose	1
+24886809	chemical	glucose	1
+24886809	chemical	picloram	1
+24886809	disease	Diabetes Mellitus, Type 2	2
+24886809	disease	Hyperglycemia	2
+24886809	disease	Inflammation	2
+24886809	disease	Neoplasms	2
+24886809	disease	Necrosis	2
+24886809	disease	Insulin Resistance	2
+24886809	disease	Tetralogy of Fallot	1
+24886809	disease	Common Variable Immunodeficiency	1
+24886809	gene/protein	Insulin	162
+24886809	gene/protein	Cytochrome b5	21
+24886809	gene/protein	Endoplasmin	11
+24886809	gene/protein	Aspartyl aminopeptidase	7
+24886809	gene/protein	Peroxiredoxin-4	6
+24886809	gene/protein	Chymotrypsinogen B	4
+24886809	gene/protein	insulin	2
+24886809	gene/protein	protein	1
+24886809	gene/protein	cytochrome b5	1
+24886809	gene/protein	Lithostathine-1	1
+24886809	gene/protein	lithostathine-1	1
+24886809	gene/protein	lithostathine-2	1
+24886809	gene/protein	Lithostathine-2	1
+24886809	gene/protein	chymotrypsinogen B	1
+24886809	gene/protein	peroxiredoxin-4	1
+24886809	gene/protein	aspartyl aminopeptidase	1
+24886809	gene/protein	endoplasmin	1
+24886809	molecular_function	obsolete insulin	2
+24886809	molecular_function	obsolete cytochrome b5	1
+24886809	molecular_function	obsolete electron transporter activity	1
+24886809	molecular_function	peptidase activity	1
+24886809	organism	Mus musculus	3
+24886809	organism	Mice	3
+24886809	sequence	wild_type	2
+24886809	sequence	polypeptide	1
+24886809	organ/tissue	first pancreatic bud	1
+24886809	organ/tissue	pancreas	1
+24886809	organ/tissue	ruminant reticulum	1
+24886809	clinical_drug	Dextrose, Unspecified Form	1

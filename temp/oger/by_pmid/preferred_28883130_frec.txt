@@ -1,0 +1,17 @@
+28883130	gene/protein	hydrogen peroxide-inducible genes activator	1
+28883130	gene/protein	mu-type opioid receptor (mouse)	1
+28883130	gene/protein	mu-type opioid receptor	1
+28883130	gene/protein	hydrogen peroxide-inducible genes activator (Escherichia coli K-12)	1
+28883130	gene/protein	Middle operon regulator	1
+28883130	organism	bacterium IFAM-3211	1
+28883130	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+28883130	organism	bacterium IFAM-3215	1
+28883130	organism	bacterium IFAM-2074	1
+28883130	organism	bacterium IFAM-3359	1
+28883130	organism	bacterium	1
+28883130	organism	bacterium IFAM-1493	1
+28883130	sequence	genome	2
+28883130	sequence	region	1
+28883130	sequence	moR	1
+28883130	sequence	contig	1
+28883130	cell_line	MOR	1

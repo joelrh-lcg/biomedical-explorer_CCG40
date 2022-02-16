@@ -1,0 +1,14 @@
+27357704	cellular_component	chromosome	3
+27357704	chemical	Integrases	1
+27357704	chemical	H4atta	1
+27357704	gene/protein	Integrase	18
+27357704	gene/protein	Transposase from transposon Tn1545	2
+27357704	gene/protein	prophage integrase IntA (Escherichia coli K-12)	2
+27357704	gene/protein	prophage integrase IntA	2
+27357704	gene/protein	Transposase from transposon Tn916	1
+27357704	gene/protein	attacin-A (fruit fly)	1
+27357704	gene/protein	Attacin-A	1
+27357704	organism	Rhizobium etli	3
+27357704	organism	unidentified plasmid	1
+27357704	sequence	chromosome	3
+27357704	sequence	plasmid	1

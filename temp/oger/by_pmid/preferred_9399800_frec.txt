@@ -1,0 +1,15 @@
+9399800	biological_process	biological regulation	2
+9399800	biological_process	transcription, DNA-templated	1
+9399800	cellular_component	chromosome	1
+9399800	chemical	atom	1
+9399800	chemical	RNA polymerase sigma 70	1
+9399800	gene/protein	RNA polymerase sigma factor RpoD	35
+9399800	gene/protein	RNA polymerase sigma factor SigA	3
+9399800	organism	Escherichia coli	2
+9399800	sequence	operon	2
+9399800	sequence	gene	1
+9399800	sequence	transit_peptide	1
+9399800	sequence	signal_peptide	1
+9399800	sequence	chromosome	1
+9399800	sequence	promoter	1
+9399800	organ/tissue	organ	1

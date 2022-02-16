@@ -1,0 +1,24 @@
+23485966	biological_process	parasitism	1
+23485966	biological_process	detoxification	1
+23485966	biological_process	metabolism	1
+23485966	chemical	antigen	3
+23485966	chemical	drug	2
+23485966	chemical	pathway	2
+23485966	chemical	nutrient	1
+23485966	chemical	heat shock proteins	1
+23485966	chemical	pharmaceutical	1
+23485966	disease	disease	2
+23485966	gene/protein	fluke	2
+23485966	organism	tapeworm	3
+23485966	organism	Echinococcus multilocularis	2
+23485966	organism	Taenia solium	2
+23485966	organism	Cestoda	1
+23485966	organism	Hymenolepis microstoma	1
+23485966	organism	fluke	1
+23485966	sequence	genome	3
+23485966	sequence	sequence	1
+23485966	sequence	gene	1
+23485966	cell	stem cell	1
+23485966	organ/tissue	tapeworm	3
+23485966	organ/tissue	animal	2
+23485966	organ/tissue	fluke	1

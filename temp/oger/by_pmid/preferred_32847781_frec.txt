@@ -1,0 +1,15 @@
+32847781	biological_process	defense response	1
+32847781	gene/protein	F-box/WD repeat-containing protein 7 (fruit fly)	1
+32847781	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+32847781	organism	Humans	2
+32847781	organism	Edible Grain	1
+32847781	organism	Fabaceae	1
+32847781	organism	bacterium BE	1
+32847781	organism	bacterium IFAM-3211	1
+32847781	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+32847781	organism	bacterium IFAM-3215	1
+32847781	organism	bacterium IFAM-2074	1
+32847781	organism	bacterium IFAM-3359	1
+32847781	organism	bacterium	1
+32847781	organism	bacterium IFAM-1493	1
+32847781	organ/tissue	crop	1

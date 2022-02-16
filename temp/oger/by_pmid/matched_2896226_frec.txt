@@ -1,0 +1,23 @@
+2896226	biological_process	transport	1
+2896226	chemical	glyoxylate	24
+2896226	chemical	pyruvate	6
+2896226	chemical	glutamate	6
+2896226	chemical	citrate synthase	3
+2896226	chemical	ammonium	3
+2896226	chemical	2oxoglutarate	3
+2896226	chemical	glutamate dehydrogenase	1
+2896226	chemical	glutamine synthetase	1
+2896226	disease	attribute	2
+2896226	gene/protein	citrate synthase	183
+2896226	gene/protein	gdh	165
+2896226	gene/protein	glutamine synthetase	123
+2896226	gene/protein	GDH	55
+2896226	gene/protein	glutamate dehydrogenase	17
+2896226	molecular_function	gdh	3
+2896226	molecular_function	GDH	1
+2896226	organism	Saccharomyces cerevisiae	2
+2896226	sequence	glutamine	1
+2896226	clinical_drug	glutamate	2
+2896226	clinical_drug	Saccharomyces cerevisiae	2
+2896226	clinical_drug	pyruvate	2
+2896226	clinical_drug	glutamine	1

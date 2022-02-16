@@ -1,0 +1,35 @@
+2872202	chemical	Glutamate-Ammonia Ligase	4
+2872202	chemical	manganese chloride	4
+2872202	chemical	Edetic Acid	4
+2872202	chemical	ethylenediaminetetraacetic acid	2
+2872202	chemical	EDTA(2-)	2
+2872202	chemical	Sodium Azide	2
+2872202	chemical	NADP	2
+2872202	chemical	polypeptide	2
+2872202	chemical	ascorbate	1
+2872202	chemical	L-ascorbate	1
+2872202	chemical	trichloroferrate(1-)	1
+2872202	chemical	iron trichloride	1
+2872202	chemical	hydrogen peroxide	1
+2872202	chemical	iron(2+) sulfate (anhydrous)	1
+2872202	chemical	oxygen atom	1
+2872202	chemical	sodium azide	1
+2872202	chemical	NADPH(4-)	1
+2872202	chemical	NADPH	1
+2872202	chemical	alpha-particle	1
+2872202	chemical	electron	1
+2872202	chemical	positron	1
+2872202	gene/protein	Glutamine synthetase	488
+2872202	gene/protein	glutamine synthetase	4
+2872202	gene/protein	nucleolin (mouse)	2
+2872202	gene/protein	proteolytic cleavage product	2
+2872202	gene/protein	amino acid chain	2
+2872202	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+2872202	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+2872202	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+2872202	organism	Neurospora crassa	2
+2872202	sequence	glutamine	4
+2872202	sequence	polypeptide	2
+2872202	clinical_drug	Glutamine	4
+2872202	clinical_drug	Oxygen	1
+2872202	molecular_process	oxidation	1

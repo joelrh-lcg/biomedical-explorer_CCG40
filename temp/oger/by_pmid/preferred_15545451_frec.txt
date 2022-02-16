@@ -1,0 +1,59 @@
+15545451	biological_process	obsolete colony morphology	1
+15545451	biological_process	invasive growth in response to glucose limitation	1
+15545451	cellular_component	obsolete protein	1
+15545451	chemical	Culture Media	1
+15545451	chemical	elemental carbon	1
+15545451	chemical	carbon atom	1
+15545451	chemical	protein	1
+15545451	chemical	(protein)	1
+15545451	chemical	RNA, Ribosomal, 16S	1
+15545451	chemical	2,6-diisopropylnaphthalene	1
+15545451	chemical	sulfur atom	1
+15545451	chemical	DNA, Ribosomal	1
+15545451	chemical	base	1
+15545451	chemical	poly(p-phenylene ethynylene) polymer	1
+15545451	chemical	poly(p-phenylene ethynylene) macromolecule	1
+15545451	gene/protein	Arabinose 5-phosphate isomerase KdsD	9
+15545451	gene/protein	Arabinose 5-phosphate isomerase GutQ	6
+15545451	gene/protein	Ribulose-phosphate 3-epimerase	6
+15545451	gene/protein	Arabinose 5-phosphate isomerase KpsF	3
+15545451	gene/protein	Ribulose-phosphate 3-epimerase, chloroplastic	3
+15545451	gene/protein	Probable arabinose 5-phosphate isomerase	2
+15545451	gene/protein	arabinose 5-phosphate isomerase GutQ	1
+15545451	gene/protein	Guanyl-specific ribonuclease Ap1	1
+15545451	gene/protein	Aspartic protease inhibitor 8	1
+15545451	gene/protein	vacuolar aminopeptidase 1 (yeast)	1
+15545451	gene/protein	Protease 1	1
+15545451	gene/protein	Aminopeptidase S	1
+15545451	gene/protein	protein	1
+15545451	gene/protein	cardiolipin synthase A	1
+15545451	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+15545451	gene/protein	Ribulose-phosphate 3-epimerase, cytoplasmic isoform	1
+15545451	gene/protein	ribulose-phosphate 3-epimerase	1
+15545451	organism	Paraburkholderia tropica	4
+15545451	organism	Zea mays	3
+15545451	organism	Burkholderia	2
+15545451	organism	Paraburkholderia sacchari	2
+15545451	organism	bacterium IFAM-3211	1
+15545451	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+15545451	organism	bacterium IFAM-3215	1
+15545451	organism	bacterium IFAM-2074	1
+15545451	organism	bacterium IFAM-3359	1
+15545451	organism	bacterium	1
+15545451	organism	bacterium IFAM-1493	1
+15545451	organism	Saccharum	1
+15545451	organism	Saccharum officinarum	1
+15545451	organism	Saccharum hybrid cultivar	1
+15545451	organism	Zea luxurians	1
+15545451	organism	Zea diploperennis	1
+15545451	organism	Zea perennis	1
+15545451	organism	bacterium BE	1
+15545451	organism	Bees	1
+15545451	sequence	rRNA_gene	2
+15545451	sequence	polypeptide	1
+15545451	sequence	rRNA_16S	1
+15545451	sequence	region	1
+15545451	sequence	base	1
+15545451	organ/tissue	posterior periventricular nucleus	1
+15545451	clinical_drug	sugarcane extract	1
+15545451	clinical_drug	Saccharum officinarum allergenic extract	1

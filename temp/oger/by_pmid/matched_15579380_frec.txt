@@ -1,0 +1,14 @@
+15579380	biological_process	homologous recombination	1
+15579380	chemical	base	1
+15579380	gene/protein	recA	14
+15579380	gene/protein	atpD	8
+15579380	gene/protein	nifH	1
+15579380	gene/protein	nifh	1
+15579380	organism	Bradyrhizobium	2
+15579380	organism	legume	1
+15579380	sequence	gene	2
+15579380	sequence	homologous	1
+15579380	sequence	sequence	1
+15579380	sequence	base	1
+15579380	cell_line	recA	1
+15579380	organ/tissue	fingerprint	1

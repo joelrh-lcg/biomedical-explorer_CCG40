@@ -1,0 +1,13 @@
+21595554	biological_process	catabolic process	1
+21595554	disease	Infections	2
+21595554	disease	Disease	2
+21595554	gene/protein	tryptophan 2,3-dioxygenase (human)	2
+21595554	organism	Humans	6
+21595554	organism	Mycobacterium	5
+21595554	organism	bacterium IFAM-3211	2
+21595554	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+21595554	organism	bacterium IFAM-3215	2
+21595554	organism	bacterium IFAM-2074	2
+21595554	organism	bacterium IFAM-3359	2
+21595554	organism	bacterium	2
+21595554	organism	bacterium IFAM-1493	2

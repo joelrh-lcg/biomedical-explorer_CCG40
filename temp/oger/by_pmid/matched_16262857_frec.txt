@@ -1,0 +1,15 @@
+16262857	cellular_component	core	1
+16262857	chemical	nucleotide	1
+16262857	chemical	base	1
+16262857	chemical	16s	1
+16262857	chemical	rdna	1
+16262857	gene/protein	atpd	8
+16262857	gene/protein	nifH	1
+16262857	gene/protein	nodB	1
+16262857	organism	Rhizobium gallicum	2
+16262857	organism	Rhizobium mongolense	2
+16262857	organism	rhizobium yanglingense	2
+16262857	sequence	gene	5
+16262857	sequence	sequence	2
+16262857	sequence	base	1
+16262857	sequence	rdna	1

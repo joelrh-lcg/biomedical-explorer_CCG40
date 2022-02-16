@@ -1,0 +1,47 @@
+30358529	biological_process	efflux	2
+30358529	biological_process	localization	1
+30358529	biological_process	carbohydrate metabolism	1
+30358529	biological_process	transport	1
+30358529	biological_process	excretion	1
+30358529	cellular_component	periplasm	3
+30358529	cellular_component	protein	2
+30358529	cellular_component	outer membrane	1
+30358529	cellular_component	vesicle	1
+30358529	cellular_component	periplasmic space	1
+30358529	cellular_component	peptidoglycan	1
+30358529	chemical	proteins	13
+30358529	chemical	protein	4
+30358529	chemical	peptidoglycan	3
+30358529	chemical	carbohydrate	3
+30358529	chemical	amino acid	2
+30358529	chemical	ce3	1
+30358529	chemical	proteome	1
+30358529	chemical	h in	1
+30358529	chemical	polysaccharide	1
+30358529	chemical	transferase	1
+30358529	chemical	ABC	1
+30358529	chemical	heat shock proteins	1
+30358529	chemical	nanoparticle	1
+30358529	gene/protein	porin	16
+30358529	gene/protein	rap	8
+30358529	gene/protein	protein	2
+30358529	gene/protein	rnd	2
+30358529	gene/protein	ABC	2
+30358529	gene/protein	phosphodiesterase	2
+30358529	gene/protein	phosphatase	1
+30358529	molecular_function	peptidoglycan binding	1
+30358529	molecular_function	porin	1
+30358529	molecular_function	ABC transporter	1
+30358529	molecular_function	phosphatase	1
+30358529	molecular_function	phosphodiesterase	1
+30358529	organism	omv	6
+30358529	organism	Rhizobium etli	2
+30358529	organism	Rhizobium	1
+30358529	sequence	protein	2
+30358529	sequence	binding	2
+30358529	sequence	crosslink	1
+30358529	sequence	amino acid	1
+30358529	cell_line	24 h	2
+30358529	cell_line	ce3	1
+30358529	organ/tissue	membrane	2
+30358529	organ/tissue	excretion	1

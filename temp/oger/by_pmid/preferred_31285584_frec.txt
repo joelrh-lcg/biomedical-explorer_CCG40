@@ -1,0 +1,20 @@
+31285584	chemical	cluster	1
+31285584	chemical	propyzamide	1
+31285584	disease	Disease	2
+31285584	organism	uncultured crAssphage	6
+31285584	organism	Humans	5
+31285584	organism	Primates	2
+31285584	organism	gut metagenome	1
+31285584	organism	bacterium IFAM-3211	1
+31285584	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+31285584	organism	bacterium IFAM-3215	1
+31285584	organism	bacterium IFAM-2074	1
+31285584	organism	bacterium IFAM-3359	1
+31285584	organism	bacterium	1
+31285584	organism	bacterium IFAM-1493	1
+31285584	organism	Bacteroidetes	1
+31285584	sequence	region	1
+31285584	sequence	genome	1
+31285584	organ/tissue	digestive tract	4
+31285584	organ/tissue	lower digestive tract	4
+31285584	organ/tissue	digestive system	4

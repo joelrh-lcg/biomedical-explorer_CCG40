@@ -1,0 +1,13 @@
+23785373	chemical	nutrient	3
+23785373	organism	bacterium IFAM-3211	3
+23785373	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+23785373	organism	bacterium IFAM-3215	3
+23785373	organism	bacterium IFAM-2074	3
+23785373	organism	bacterium IFAM-3359	3
+23785373	organism	bacterium	3
+23785373	organism	bacterium IFAM-1493	3
+23785373	organism	rhizosphere bacterium	2
+23785373	organism	unidentified	1
+23785373	sequence	gene	2
+23785373	sequence	genome	1
+23785373	sequence	promoter	1

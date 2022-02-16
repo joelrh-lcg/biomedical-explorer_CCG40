@@ -1,0 +1,26 @@
+30048774	biological_process	metaplasia	3
+30048774	biological_process	dna replication	1
+30048774	cellular_component	spliceosome	1
+30048774	chemical	proteins	3
+30048774	chemical	pathway	3
+30048774	chemical	EPCAM	2
+30048774	chemical	ribosomal proteins	1
+30048774	chemical	sirt3	1
+30048774	chemical	biomarker	1
+30048774	disease	gastric cancer	10
+30048774	disease	metaplasia	6
+30048774	disease	gastritis	4
+30048774	disease	malignancy	2
+30048774	disease	disease	2
+30048774	disease	adenocarcinoma	2
+30048774	gene/protein	pck2	8
+30048774	gene/protein	sirt5	6
+30048774	gene/protein	hk3	6
+30048774	gene/protein	gstp1	5
+30048774	gene/protein	EPCAM	5
+30048774	gene/protein	sirt3	3
+30048774	gene/protein	sit	1
+30048774	molecular_function	hk3	1
+30048774	cell_line	hk3	1
+30048774	organ/tissue	metaplasia	3
+30048774	entity_type	term	4

@@ -1,0 +1,5 @@
+9442891	chemical	biological role	1
+9442891	sequence	gene	3
+9442891	sequence	genome	2
+9442891	sequence	mutation	1
+9442891	organ/tissue	organism	1

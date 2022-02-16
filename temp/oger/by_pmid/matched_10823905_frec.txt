@@ -1,0 +1,11 @@
+10823905	biological_process	transcription	7
+10823905	chemical	base	1
+10823905	organism	bacterium	14
+10823905	organism	e coli	4
+10823905	organism	Escherichia coli	2
+10823905	sequence	gene	10
+10823905	sequence	operon	8
+10823905	sequence	sequence	2
+10823905	sequence	genome	2
+10823905	sequence	intergenic	1
+10823905	sequence	base	1

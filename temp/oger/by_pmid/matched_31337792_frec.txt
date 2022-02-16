@@ -1,0 +1,14 @@
+31337792	chemical	base	1
+31337792	disease	pneumonia	2
+31337792	gene/protein	cc1	2
+31337792	gene/protein	to human	1
+31337792	organism	bacterium	7
+31337792	organism	human	3
+31337792	organism	klebsiella variicola	2
+31337792	organism	klebsiella	1
+31337792	sequence	sequence	2
+31337792	sequence	base	1
+31337792	sequence	genome	1
+31337792	sequence	clone	1
+31337792	cell_line	cc1	2
+31337792	organ/tissue	animal	2

@@ -1,0 +1,8 @@
+24214998	biological_process	gene expression	2
+24214998	gene/protein	api	26
+24214998	gene/protein	add	3
+24214998	gene/protein	rna	2
+24214998	organism	api	1
+24214998	sequence	gene	2
+24214998	organ/tissue	organism	2
+24214998	organ/tissue	web	2

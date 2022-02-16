@@ -1,0 +1,43 @@
+10977874	biological_process	nodulation	4
+10977874	biological_process	obsolete colony morphology	1
+10977874	biological_process	invasive growth in response to glucose limitation	1
+10977874	chemical	disulfanide	2
+10977874	chemical	RNA, Ribosomal, 16S	2
+10977874	chemical	Ethanol	2
+10977874	chemical	DNA, Ribosomal	1
+10977874	chemical	oxygen atom	1
+10977874	chemical	ethanol	1
+10977874	chemical	tin(2+)	1
+10977874	disease	SPHEROCYTOSIS, TYPE 2	2
+10977874	gene/protein	30S ribosomal protein S2	2
+10977874	gene/protein	terminal uridylyltransferase 7	2
+10977874	gene/protein	terminal uridylyltransferase 7 (human)	2
+10977874	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+10977874	gene/protein	sodium-coupled neutral amino acid transporter 5 (rat)	1
+10977874	gene/protein	sodium-coupled neutral amino acid transporter 5 (human)	1
+10977874	gene/protein	sodium-coupled neutral amino acid transporter 5	1
+10977874	gene/protein	sodium-coupled neutral amino acid transporter 5 (mouse)	1
+10977874	organism	Rhizobium	3
+10977874	organism	Hirudo sulukii	2
+10977874	organism	Mesorhizobium sp.	2
+10977874	organism	Fabaceae	1
+10977874	organism	unidentified plasmid	1
+10977874	organism	Mesorhizobium	1
+10977874	organism	Sinorhizobium	1
+10977874	organism	bacterium IFAM-3211	1
+10977874	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+10977874	organism	bacterium IFAM-3215	1
+10977874	organism	bacterium IFAM-2074	1
+10977874	organism	bacterium IFAM-3359	1
+10977874	organism	bacterium	1
+10977874	organism	bacterium IFAM-1493	1
+10977874	sequence	rRNA_gene	3
+10977874	sequence	rRNA_16S	2
+10977874	sequence	plasmid	1
+10977874	sequence	RFLP_fragment	1
+10977874	sequence	gene	1
+10977874	organ/tissue	cerebellum vermis lobule X	2
+10977874	organ/tissue	germinal center	2
+10977874	organ/tissue	supraneural 2 bone	1
+10977874	clinical_drug	Oxygen	1
+10977874	clinical_drug	Ethanol	1

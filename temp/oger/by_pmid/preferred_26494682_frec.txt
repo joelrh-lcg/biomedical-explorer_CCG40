@@ -1,0 +1,5 @@
+26494682	organism	Aeromonas caviae	4
+26494682	organism	Humans	1
+26494682	sequence	genome	1
+26494682	sequence	region	1
+26494682	sequence	gene	1

@@ -1,0 +1,41 @@
+26507799	biological_process	homologous recombination	1
+26507799	cellular_component	intracellular	1
+26507799	cellular_component	viral nucleocapsid	1
+26507799	chemical	base	1
+26507799	chemical	nucleotide	1
+26507799	disease	Infections	2
+26507799	disease	Zoonoses	2
+26507799	gene/protein	ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)	2
+26507799	gene/protein	protein RTE1-HOMOLOG (Arabidopsis thaliana)	2
+26507799	gene/protein	ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific) (Escherichia coli K-12)	2
+26507799	gene/protein	tyrosine 3-monooxygenase (rat)	2
+26507799	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+26507799	organism	Chlamydiaceae	4
+26507799	organism	Chlamydia abortus	4
+26507799	organism	Humans	2
+26507799	organism	Chlamydia pecorum	2
+26507799	organism	Bacillus anthracis	2
+26507799	organism	Hawks	2
+26507799	organism	bacterium IFAM-3211	1
+26507799	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+26507799	organism	bacterium IFAM-3215	1
+26507799	organism	bacterium IFAM-2074	1
+26507799	organism	bacterium IFAM-3359	1
+26507799	organism	bacterium	1
+26507799	organism	bacterium IFAM-1493	1
+26507799	organism	Livestock	1
+26507799	organism	Chlamydia psittaci	1
+26507799	organism	Chlamydophila psittaci	1
+26507799	organism	unidentified plasmid	1
+26507799	organism	Buteo jamaicensis	1
+26507799	sequence	genome	2
+26507799	sequence	gene	2
+26507799	sequence	region	1
+26507799	sequence	base	1
+26507799	sequence	plasmid	1
+26507799	sequence	homologous	1
+26507799	cell_line	RTH	2
+26507799	organ/tissue	scale	1
+26507799	organ/tissue	placenta	1
+26507799	organ/tissue	subdivision of digestive tract	1
+26507799	organ/tissue	intestine	1

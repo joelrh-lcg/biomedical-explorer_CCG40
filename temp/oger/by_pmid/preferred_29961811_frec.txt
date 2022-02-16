@@ -1,0 +1,25 @@
+29961811	cellular_component	obsolete protein	1
+29961811	chemical	bis(3',5')-cyclic diguanylic acid	2
+29961811	chemical	Genetic Markers	2
+29961811	chemical	base	1
+29961811	chemical	c-di-GMP	1
+29961811	chemical	aminoimidazole	1
+29961811	chemical	Protein Kinases	1
+29961811	disease	Cholera	4
+29961811	gene/protein	Protochlorophyllide reductase, chloroplastic	10
+29961811	gene/protein	Light-dependent protochlorophyllide reductase	4
+29961811	gene/protein	Protochlorophyllide reductase	2
+29961811	gene/protein	protein	1
+29961811	organism	bacterium IFAM-3211	2
+29961811	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+29961811	organism	bacterium IFAM-3215	2
+29961811	organism	bacterium IFAM-2074	2
+29961811	organism	bacterium IFAM-3359	2
+29961811	organism	bacterium	2
+29961811	organism	bacterium IFAM-1493	2
+29961811	organism	Vibrio cholerae	1
+29961811	organism	synthetic construct	1
+29961811	sequence	gene	4
+29961811	sequence	base	1
+29961811	sequence	polypeptide	1
+29961811	sequence	genetic_marker	1

@@ -1,0 +1,91 @@
+9649445	biological_process	translation	4
+9649445	biological_process	biosynthetic process	3
+9649445	cellular_component	obsolete protein	3
+9649445	cellular_component	ribosome	1
+9649445	chemical	Methionine	4
+9649445	chemical	protein	3
+9649445	chemical	(protein)	3
+9649445	chemical	RNA, Transfer	2
+9649445	chemical	transfer RNA	2
+9649445	chemical	polypeptide	2
+9649445	chemical	L-isoleucine	2
+9649445	chemical	L-methionine	2
+9649445	chemical	methionine zwitterion	2
+9649445	chemical	methionine	2
+9649445	chemical	Isoleucine	2
+9649445	chemical	Codon	1
+9649445	chemical	L-isoleucyl group	1
+9649445	chemical	L-isoleucine residue	1
+9649445	chemical	isoleucinate	1
+9649445	chemical	L-isoleucino group	1
+9649445	chemical	Ala-Ala-Ala	1
+9649445	chemical	acetoacetamide	1
+9649445	chemical	lysine	1
+9649445	chemical	lysinate	1
+9649445	chemical	L-lysine zwitterion	1
+9649445	chemical	L-lysyl group	1
+9649445	chemical	N(2)-L-lysino group	1
+9649445	chemical	L-lysine residue	1
+9649445	chemical	L-lysine	1
+9649445	chemical	isoleucine	1
+9649445	chemical	solution	1
+9649445	chemical	primary amino group	1
+9649445	disease	Starvation	2
+9649445	disease	Aortic Aneurysm, Familial Abdominal 1	1
+9649445	gene/protein	Peptidyl-tRNA hydrolase	3004
+9649445	gene/protein	Parathyroid hormone	36
+9649445	gene/protein	Probable peptidyl-tRNA hydrolase	12
+9649445	gene/protein	UbiA prenyltransferase domain-containing protein 1 (zebrafish)	9
+9649445	gene/protein	Peptidyl-tRNA hydrolase ArfB	8
+9649445	gene/protein	peptidyl-tRNA hydrolase Pth	4
+9649445	gene/protein	probable peptidyl-tRNA hydrolase PTRH1	4
+9649445	gene/protein	peptidyl-tRNA hydrolase (Escherichia coli K-12)	4
+9649445	gene/protein	parathyroid hormone (human)	4
+9649445	gene/protein	peptidyl-tRNA hydrolase (Clostridium botulinum A str. Hall)	4
+9649445	gene/protein	peptidyl-tRNA hydrolase (Brucella suis ATCC 23445)	4
+9649445	gene/protein	parathyroid hormone (rat)	4
+9649445	gene/protein	peptidyl-tRNA hydrolase (Brucella ovis ATCC 25840)	4
+9649445	gene/protein	peptidyl-tRNA hydrolase (Brucella abortus 2308)	4
+9649445	gene/protein	peptidyl-tRNA hydrolase (Brucella abortus bv. 1 str. 9-941)	4
+9649445	gene/protein	parathyroid hormone	4
+9649445	gene/protein	peptidyl-tRNA hydrolase (Brucella suis 1330)	4
+9649445	gene/protein	peptidyl-tRNA hydrolase ArfB	4
+9649445	gene/protein	parathyroid hormone (chicken)	4
+9649445	gene/protein	peptidyl-tRNA hydrolase (Brucella canis ATCC 23365)	4
+9649445	gene/protein	peptidyl-tRNA hydrolase (Brucella melitensis ATCC 23457)	4
+9649445	gene/protein	peptidyl-tRNA hydrolase (Staphylococcus aureus subsp. aureus NCTC 8325)	4
+9649445	gene/protein	Putative peptidyl-tRNA hydrolase	4
+9649445	gene/protein	lin-9	4
+9649445	gene/protein	signal transduction histidine-protein kinase BarA	4
+9649445	gene/protein	protein lin-9 homolog (mouse)	4
+9649445	gene/protein	protein lin-9 homolog (human)	4
+9649445	gene/protein	signal transduction histidine-protein kinase BarA (Escherichia coli K-12)	4
+9649445	gene/protein	protein	3
+9649445	gene/protein	proteolytic cleavage product	2
+9649445	gene/protein	amino acid chain	2
+9649445	gene/protein	ATP-dependent zinc metalloprotease FTSH 1, chloroplastic (Arabidopsis thaliana)	1
+9649445	gene/protein	N5-carboxyaminoimidazole ribonucleotide mutase (Brucella suis 1330)	1
+9649445	gene/protein	bifunctional purine synthesis protein purC/E (Dictyostelium discoideum)	1
+9649445	gene/protein	N5-carboxyaminoimidazole ribonucleotide mutase (Brucella melitensis bv. 1 str. 16M)	1
+9649445	gene/protein	N5-carboxyaminoimidazole ribonucleotide mutase (Escherichia coli K-12)	1
+9649445	gene/protein	N5-carboxyaminoimidazole ribonucleotide mutase	1
+9649445	molecular_function	triplet codon-amino acid adaptor activity	2
+9649445	molecular_function	5-(carboxyamino)imidazole ribonucleotide mutase activity	1
+9649445	organism	Bacteriophage lambda	1
+9649445	organism	Escherichia virus Lambda	1
+9649445	sequence	polypeptide	5
+9649445	sequence	tRNA	2
+9649445	sequence	isoleucine	2
+9649445	sequence	methionine	2
+9649445	sequence	phage_sequence	1
+9649445	sequence	transcript	1
+9649445	sequence	gene	1
+9649445	sequence	vector_replicon	1
+9649445	sequence	reverse	1
+9649445	sequence	codon	1
+9649445	sequence	lysine	1
+9649445	organ/tissue	melanophore stripe	9
+9649445	organ/tissue	posterior nucleus of thalamus	4
+9649445	organ/tissue	anatomical point connecting sagittal and lambdoidal sutures	1
+9649445	clinical_drug	Methionine	2
+9649445	clinical_drug	Isoleucine	1

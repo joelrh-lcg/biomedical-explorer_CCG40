@@ -1,0 +1,7 @@
+28096304	biological_process	response to drug	1
+28096304	biological_process	obsolete drug resistance	1
+28096304	chemical	Anti-Bacterial Agents	14
+28096304	chemical	antimicrobial agent	7
+28096304	chemical	drug	2
+28096304	disease	Infections	2
+28096304	organ/tissue	scale	1

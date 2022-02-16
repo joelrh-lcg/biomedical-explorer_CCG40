@@ -1,0 +1,34 @@
+2022610	biological_process	transcription	1
+2022610	biological_process	localization	1
+2022610	biological_process	mutagenesis	1
+2022610	biological_process	nodulation	1
+2022610	chemical	methyl methanesulfonate	3
+2022610	chemical	nitrofurantoin	3
+2022610	chemical	probe	1
+2022610	disease	cnf	1
+2022610	gene/protein	recA	42
+2022610	gene/protein	reca	42
+2022610	gene/protein	fold	4
+2022610	gene/protein	cnf	1
+2022610	organism	plasmid	4
+2022610	organism	Rhizobium phaseoli	2
+2022610	organism	bacteriophage lambda	2
+2022610	organism	Escherichia coli	2
+2022610	organism	e coli	2
+2022610	organism	phage	1
+2022610	sequence	plasmid	4
+2022610	sequence	gene	3
+2022610	sequence	clone	2
+2022610	sequence	deletion	2
+2022610	sequence	bacteriophage	1
+2022610	sequence	mutagenesis	1
+2022610	sequence	phage	1
+2022610	sequence	probe	1
+2022610	sequence	mutation	1
+2022610	cell_line	recA	3
+2022610	cell_line	reca	3
+2022610	cell_line	Fec	1
+2022610	organ/tissue	lambda	1
+2022610	organ/tissue	cnf	1
+2022610	clinical_drug	nitrofurantoin	1
+2022610	molecular_process	reduction	1

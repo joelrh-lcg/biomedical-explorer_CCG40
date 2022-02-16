@@ -1,0 +1,17 @@
+1827113	biological_process	excretion	1
+1827113	cellular_component	extracellular	1
+1827113	chemical	glutathione disulfide	8
+1827113	chemical	nad	5
+1827113	chemical	nadp	5
+1827113	chemical	coenzyme	2
+1827113	chemical	carbon	2
+1827113	chemical	proteins	1
+1827113	gene/protein	mat	1959
+1827113	gene/protein	add	3
+1827113	molecular_function	mat	3
+1827113	organism	Neurospora crassa	2
+1827113	sequence	disulfide	2
+1827113	cell_line	mat	3
+1827113	cell_line	min	2
+1827113	organ/tissue	excretion	1
+1827113	clinical_drug	glutathione	2

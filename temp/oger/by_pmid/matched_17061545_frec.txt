@@ -1,0 +1,35 @@
+17061545	biological_process	nitrogen fixation	2
+17061545	biological_process	nodulation	2
+17061545	biological_process	Nitrogen fixation	1
+17061545	biological_process	flowering	1
+17061545	biological_process	symbiosis	1
+17061545	biological_process	organogenesis	1
+17061545	chemical	nitrogen	4
+17061545	chemical	Nitrogen	3
+17061545	chemical	nodulation factor	1
+17061545	chemical	nod factor	1
+17061545	chemical	16s rrna	1
+17061545	disease	nod	3
+17061545	gene/protein	nod	135
+17061545	gene/protein	nif	1
+17061545	organism	bacterium	7
+17061545	organism	legume	2
+17061545	organism	Euryarchaeota	1
+17061545	organism	flowering plant	1
+17061545	organism	plasmid	1
+17061545	organism	alphaProteobacteria	1
+17061545	organism	Bradyrhizobium	1
+17061545	organism	Mesorhizobium	1
+17061545	organism	Rhizobium	1
+17061545	organism	Sinorhizobium	1
+17061545	organism	Methylobacterium	1
+17061545	organism	Burkholderia	1
+17061545	organism	Wautersia	1
+17061545	sequence	gene	5
+17061545	sequence	inside	1
+17061545	sequence	plasmid	1
+17061545	sequence	genome	1
+17061545	sequence	16s rrna	1
+17061545	organ/tissue	nodule	4
+17061545	clinical_drug	nitrogen	2
+17061545	clinical_drug	Nitrogen	1

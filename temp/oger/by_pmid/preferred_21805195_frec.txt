@@ -1,0 +1,39 @@
+21805195	chemical	base	1
+21805195	chemical	N-(3-carboxypropanoyl)-N-hydroxyputrescine	1
+21805195	chemical	RNA, Ribosomal, 16S	1
+21805195	gene/protein	neurotrimin	5
+21805195	gene/protein	neurotrimin (human)	5
+21805195	gene/protein	neurotrimin (rat)	5
+21805195	gene/protein	neurotrimin (mouse)	5
+21805195	gene/protein	60 kDa heat shock protein, mitochondrial	3
+21805195	gene/protein	60 kDa chaperonin 2 (Mycobacterium tuberculosis H37Rv)	1
+21805195	gene/protein	DNA-directed RNA polymerase subunit beta (Thermus thermophilus HB8)	1
+21805195	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis ATCC 23445)	1
+21805195	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus 2308)	1
+21805195	gene/protein	DNA-directed RNA polymerase subunit beta (Escherichia coli K-12)	1
+21805195	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella canis ATCC 23365)	1
+21805195	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella ovis ATCC 25840)	1
+21805195	gene/protein	DNA-directed RNA polymerase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+21805195	gene/protein	DNA-directed RNA polymerase subunit beta (Peptoclostridium difficile 630)	1
+21805195	gene/protein	DNA-directed RNA polymerase subunit beta (Clostridium botulinum A str. Hall)	1
+21805195	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella melitensis ATCC 23457)	1
+21805195	gene/protein	DNA-directed RNA polymerase subunit beta	1
+21805195	gene/protein	DNA-directed RNA polymerase subunit beta (Arabidopsis thaliana)	1
+21805195	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis 1330)	1
+21805195	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus bv. 1 str. 9-941)	1
+21805195	gene/protein	stringent starvation protein A	1
+21805195	gene/protein	Probable salivary secreted peptide	1
+21805195	gene/protein	stringent starvation protein A (Escherichia coli K-12)	1
+21805195	gene/protein	probable inactive receptor-like kinase BSK12 (Arabidopsis thaliana)	1
+21805195	gene/protein	Endochitinase A	1
+21805195	organism	Mycolicibacterium peregrinum	2
+21805195	organism	Nontuberculous Mycobacteria	1
+21805195	organism	Humans	1
+21805195	sequence	region	1
+21805195	sequence	base	1
+21805195	sequence	rRNA_16S	1
+21805195	sequence	fragmentary	1
+21805195	cell_line	USCi002-A	1
+21805195	cell_line	iPSc-GD-C21	1
+21805195	cell_line	AS-M	1
+21805195	organ/tissue	supraspinal nucleus	1

@@ -1,0 +1,15 @@
+16236313	biological_process	biological regulation	4
+16236313	biological_process	transcription, DNA-templated	4
+16236313	chemical	atom	2
+16236313	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+16236313	molecular_function	transcription factor binding	1
+16236313	organism	Escherichia coli	8
+16236313	organism	Gammaproteobacteria	2
+16236313	sequence	genome	3
+16236313	sequence	region	1
+16236313	sequence	regulon	1
+16236313	sequence	TF_binding_site	1
+16236313	sequence	regulatory_region	1
+16236313	sequence	regulatory_region_variant	1
+16236313	organ/tissue	multicellular organism	3
+16236313	organ/tissue	organ	2

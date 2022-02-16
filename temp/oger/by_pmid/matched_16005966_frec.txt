@@ -1,0 +1,23 @@
+16005966	cellular_component	protein	1
+16005966	chemical	protein	2
+16005966	chemical	antisense rna	2
+16005966	chemical	proteins	1
+16005966	chemical	base	1
+16005966	gene/protein	repc	28
+16005966	gene/protein	rna	6
+16005966	gene/protein	protein	1
+16005966	molecular_function	antisense rna	2
+16005966	organism	alphaproteobacteria	1
+16005966	organism	plasmid	1
+16005966	sequence	initiator	2
+16005966	sequence	gene	2
+16005966	sequence	antisense rna	2
+16005966	sequence	replicon	1
+16005966	sequence	plasmid	1
+16005966	sequence	protein	1
+16005966	sequence	promoter region	1
+16005966	sequence	nest	1
+16005966	sequence	terminator	1
+16005966	sequence	base	1
+16005966	cell_line	repc	7
+16005966	cell_line	gr4	1

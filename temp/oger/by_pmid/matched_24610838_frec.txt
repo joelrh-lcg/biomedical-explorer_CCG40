@@ -1,0 +1,17 @@
+24610838	biological_process	biosynthesis	1
+24610838	chemical	amino acid	4
+24610838	chemical	nitrogen	2
+24610838	gene/protein	axin	20
+24610838	gene/protein	precursor	2
+24610838	organism	bacterium	7
+24610838	organism	scale insect	2
+24610838	organism	Hemiptera	1
+24610838	organism	Llaveia axin	1
+24610838	organism	Candidatus Walczuchella monophlebidarum	1
+24610838	sequence	genome	2
+24610838	sequence	amino acid	2
+24610838	sequence	sequence	1
+24610838	sequence	gene	1
+24610838	sequence	syntenic	1
+24610838	organ/tissue	scale	2
+24610838	clinical_drug	nitrogen	1

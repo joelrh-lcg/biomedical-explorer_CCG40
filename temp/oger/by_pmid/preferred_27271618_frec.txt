@@ -1,0 +1,28 @@
+27271618	biological_process	biological regulation	2
+27271618	biological_process	nodulation	2
+27271618	biological_process	symbiotic process	1
+27271618	cellular_component	root hair	1
+27271618	chemical	MicroRNAs	10
+27271618	chemical	nodulation factor	1
+27271618	chemical	signalling molecule	1
+27271618	gene/protein	Protein BEAN1	4
+27271618	gene/protein	protein BEAN	2
+27271618	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+27271618	gene/protein	ribonuclease I	1
+27271618	gene/protein	N5-carboxyaminoimidazole ribonucleotide mutase (Brucella suis 1330)	1
+27271618	gene/protein	bifunctional purine synthesis protein purC/E (Dictyostelium discoideum)	1
+27271618	gene/protein	N5-carboxyaminoimidazole ribonucleotide mutase (Brucella melitensis bv. 1 str. 16M)	1
+27271618	gene/protein	N5-carboxyaminoimidazole ribonucleotide mutase (Escherichia coli K-12)	1
+27271618	gene/protein	N5-carboxyaminoimidazole ribonucleotide mutase	1
+27271618	molecular_function	5-(carboxyamino)imidazole ribonucleotide mutase activity	1
+27271618	organism	Phaseolus	2
+27271618	organism	Rhizobium etli	2
+27271618	organism	Fabaceae	1
+27271618	organism	Phaseolus vulgaris	1
+27271618	sequence	miRNA	10
+27271618	sequence	transit_peptide	1
+27271618	sequence	signal_peptide	1
+27271618	sequence	region	1
+27271618	cell_line	R1192	2
+27271618	organ/tissue	tissue	2
+27271618	organ/tissue	strand of hair	1

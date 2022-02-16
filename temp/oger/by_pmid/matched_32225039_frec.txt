@@ -1,0 +1,26 @@
+32225039	biological_process	stationary phase	4
+32225039	biological_process	degradation	1
+32225039	biological_process	fatty acid degradation	1
+32225039	cellular_component	smc	1
+32225039	cellular_component	membrane	1
+32225039	chemical	coa	4
+32225039	chemical	fatty acid	4
+32225039	chemical	carbon	4
+32225039	chemical	oleate	4
+32225039	chemical	lcfa	2
+32225039	chemical	synthetase	1
+32225039	chemical	lipid	1
+32225039	disease	smc	1
+32225039	gene/protein	fadd	49
+32225039	gene/protein	smb	14
+32225039	gene/protein	fadD	7
+32225039	gene/protein	coa	5
+32225039	gene/protein	smc	1
+32225039	organism	Escherichia coli	2
+32225039	organism	e coli	2
+32225039	organism	Sinorhizobium	1
+32225039	organism	melilotus	1
+32225039	sequence	homologue	1
+32225039	cell_line	smb	1
+32225039	organ/tissue	sole	2
+32225039	organ/tissue	membrane	2

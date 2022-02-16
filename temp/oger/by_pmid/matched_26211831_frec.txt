@@ -1,0 +1,22 @@
+26211831	biological_process	organogenesis	2
+26211831	biological_process	nodulation	2
+26211831	biological_process	transcription	1
+26211831	biological_process	symbiosis	1
+26211831	biological_process	regulation	1
+26211831	cellular_component	ap2	3
+26211831	gene/protein	mir	52
+26211831	gene/protein	ap2	30
+26211831	gene/protein	spl	15
+26211831	gene/protein	agl	10
+26211831	gene/protein	bean	6
+26211831	gene/protein	cap	6
+26211831	gene/protein	erf	4
+26211831	molecular_function	transcription factor	1
+26211831	organism	Phaseolus vulgaris	2
+26211831	organism	legume	1
+26211831	sequence	cap	1
+26211831	cell_line	ap2	6
+26211831	cell_line	bean	2
+26211831	cell_line	spl	1
+26211831	organ/tissue	nodule	2
+26211831	organ/tissue	node	1

@@ -1,0 +1,35 @@
+24288657	biological_process	lactation	2
+24288657	biological_process	biological regulation	1
+24288657	biological_process	transcription, DNA-templated	1
+24288657	biological_process	gene expression	1
+24288657	biological_process	signal transduction	1
+24288657	biological_process	mammary gland development	1
+24288657	cellular_component	chromosome	1
+24288657	chemical	cluster	1
+24288657	chemical	picloram	1
+24288657	gene/protein	(rat)	2
+24288657	gene/protein	HTH-type transcriptional regulator MgrA (Staphylococcus aureus subsp. aureus NCTC 8325)	2
+24288657	gene/protein	transmembrane protease serine 11D (rat)	2
+24288657	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+24288657	gene/protein	ribonuclease I	1
+24288657	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+24288657	gene/protein	extracellular adherence protein	1
+24288657	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+24288657	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+24288657	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+24288657	gene/protein	methionine aminopeptidase	1
+24288657	molecular_function	transcription factor binding	1
+24288657	organism	Rattus norvegicus	2
+24288657	organism	Rats	2
+24288657	organism	Humans	2
+24288657	organism	Mus musculus	1
+24288657	organism	Mice	1
+24288657	organism	Rodentia	1
+24288657	sequence	gene	9
+24288657	sequence	orthologous	5
+24288657	sequence	transcript	2
+24288657	sequence	transition	1
+24288657	sequence	chromosome	1
+24288657	sequence	TF_binding_site	1
+24288657	organ/tissue	mammary gland	2
+24288657	organ/tissue	thoracic mammary gland	2

@@ -1,0 +1,18 @@
+34458021	chemical	tannin	1
+34458021	gene/protein	protein Red (mouse)	1
+34458021	gene/protein	serine protease grass (fruit fly)	1
+34458021	gene/protein	serine recombinase PinE	1
+34458021	gene/protein	serine recombinase PinE (Escherichia coli K-12)	1
+34458021	organism	Romerolagus diazi	2
+34458021	organism	Lagomorpha	1
+34458021	organism	Seedlings	1
+34458021	organism	Pinus	1
+34458021	organism	bacterium IFAM-3211	1
+34458021	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+34458021	organism	bacterium IFAM-3215	1
+34458021	organism	bacterium IFAM-2074	1
+34458021	organism	bacterium IFAM-3359	1
+34458021	organism	bacterium	1
+34458021	organism	bacterium IFAM-1493	1
+34458021	organ/tissue	multicellular organism	1
+34458021	clinical_drug	rabbit allergenic extract	2

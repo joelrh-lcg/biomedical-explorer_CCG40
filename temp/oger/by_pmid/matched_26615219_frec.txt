@@ -1,0 +1,15 @@
+26615219	cellular_component	complex I	6
+26615219	cellular_component	core	2
+26615219	chemical	ubiquinone	4
+26615219	chemical	inhibitor	2
+26615219	chemical	respiratory complex I	1
+26615219	chemical	nife hydrogenase	1
+26615219	chemical	hydrogenase	1
+26615219	chemical	reductase	1
+26615219	gene/protein	nife hydrogenase	17
+26615219	gene/protein	complex I	6
+26615219	gene/protein	hydrogenase	2
+26615219	organism	bacterium	7
+26615219	organism	eukaryote	1
+26615219	sequence	homologous	1
+26615219	organ/tissue	cavity	1

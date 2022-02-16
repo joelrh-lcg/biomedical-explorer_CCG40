@@ -1,0 +1,18 @@
+16862424	chemical	16s rrna	1
+16862424	gene/protein	rod	1
+16862424	organism	bacterium	21
+16862424	organism	Conzattia multiflora	1
+16862424	organism	seedling	1
+16862424	organism	Pantoea	1
+16862424	organism	Erwinia	1
+16862424	organism	Salmonella	1
+16862424	organism	Enterobacter	1
+16862424	organism	Citrobacter	1
+16862424	organism	Klebsiella	1
+16862424	organism	salmonella	1
+16862424	organism	unknown	1
+16862424	sequence	RFLP	1
+16862424	sequence	16s rrna	1
+16862424	sequence	rrna gene	1
+16862424	organ/tissue	epidermis	4
+16862424	organ/tissue	tissue	1

@@ -1,0 +1,31 @@
+28671531	biological_process	catabolism	1
+28671531	cellular_component	chromosome	1
+28671531	chemical	glucose	10
+28671531	chemical	adp	5
+28671531	chemical	citrate	5
+28671531	chemical	carbon	4
+28671531	chemical	xylose	4
+28671531	chemical	catechol	4
+28671531	chemical	antibiotic	3
+28671531	chemical	glycerol	3
+28671531	chemical	pathway	3
+28671531	chemical	acetate	2
+28671531	chemical	nucleotide	1
+28671531	chemical	aromatic compound	1
+28671531	chemical	antimicrobial agent	1
+28671531	gene/protein	spp	16
+28671531	gene/protein	adp1	2
+28671531	gene/protein	lack	1
+28671531	molecular_function	spp	1
+28671531	organism	acinetobacter baylyi	2
+28671531	organism	Acinetobacter	2
+28671531	organism	acinetobacter	1
+28671531	organism	plasmid	1
+28671531	sequence	gene	4
+28671531	sequence	genome	2
+28671531	sequence	sequence	1
+28671531	sequence	circular	1
+28671531	sequence	chromosome	1
+28671531	sequence	plasmid	1
+28671531	clinical_drug	glucose	2
+28671531	clinical_drug	acetate	1

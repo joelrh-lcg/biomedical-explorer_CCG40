@@ -1,0 +1,24 @@
+18940741	cellular_component	obsolete protein	2
+18940741	chemical	protein	5
+18940741	chemical	3-hydroxypicolinic acid	3
+18940741	chemical	phosphinic acid	3
+18940741	chemical	heteropolyacid polymer	3
+18940741	chemical	heteropolyacid macromolecule	3
+18940741	chemical	(protein)	2
+18940741	chemical	biomarker	1
+18940741	disease	Uterine Neoplasms	4
+18940741	gene/protein	Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 2	8
+18940741	gene/protein	heparanase	3
+18940741	gene/protein	heparanase (mouse)	3
+18940741	gene/protein	heparanase (chicken)	3
+18940741	gene/protein	heparanase (human)	3
+18940741	gene/protein	phosphatidylinositol 3-kinase VPS34-like (Dictyostelium discoideum)	2
+18940741	gene/protein	Homo sapiens protein	1
+18940741	gene/protein	protein	1
+18940741	organism	Esocidae	2
+18940741	organism	Humans	1
+18940741	sequence	polypeptide	2
+18940741	cell_line	HPA	3
+18940741	organ/tissue	uterine cervix	2
+18940741	organ/tissue	vertebral bone 1	1
+18940741	organ/tissue	tissue	1

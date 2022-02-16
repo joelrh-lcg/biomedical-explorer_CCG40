@@ -1,0 +1,36 @@
+17005985	biological_process	cell growth	2
+17005985	biological_process	transcription	2
+17005985	cellular_component	transmembrane	2
+17005985	cellular_component	membrane	2
+17005985	cellular_component	protein	1
+17005985	chemical	calcium	4
+17005985	chemical	acid	3
+17005985	chemical	tcsA	3
+17005985	chemical	protein	2
+17005985	chemical	lysylphosphatidylglycerol	2
+17005985	chemical	lpg	2
+17005985	chemical	lipid	2
+17005985	chemical	synthetase	1
+17005985	chemical	start codon	1
+17005985	disease	lpg	2
+17005985	gene/protein	fold	4
+17005985	gene/protein	tcrA	4
+17005985	gene/protein	gusA	2
+17005985	gene/protein	gusa	1
+17005985	gene/protein	transmembrane protein	1
+17005985	organism	Sinorhizobium meliloti	2
+17005985	organism	Rhizobium tropici	2
+17005985	organism	Staphylococcus aureus	2
+17005985	organism	Sinorhizobium	1
+17005985	organism	Alphaproteobacteria	1
+17005985	organism	Agrobacterium	1
+17005985	sequence	fusion	5
+17005985	sequence	gene	3
+17005985	sequence	sequence	2
+17005985	sequence	transmembrane	1
+17005985	sequence	protein	1
+17005985	sequence	promoter	1
+17005985	sequence	upstream	1
+17005985	sequence	start codon	1
+17005985	organ/tissue	membrane	4
+17005985	clinical_drug	calcium	2

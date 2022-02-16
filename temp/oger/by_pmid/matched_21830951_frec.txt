@@ -1,0 +1,27 @@
+21830951	biological_process	symbiosis	2
+21830951	chemical	nitrogen	2
+21830951	chemical	carbon	2
+21830951	chemical	alpha	1
+21830951	gene/protein	spp	32
+21830951	gene/protein	bean	3
+21830951	gene/protein	as B	1
+21830951	molecular_function	spp	2
+21830951	organism	legume	6
+21830951	organism	Burkholderia	6
+21830951	organism	betaproteobacteria	2
+21830951	organism	Phaseolus vulgaris	2
+21830951	organism	Fabaceae	1
+21830951	organism	Rhizobium	1
+21830951	organism	Alphaproteobacteria	1
+21830951	organism	Mimosa	1
+21830951	organism	Cupriavidus	1
+21830951	organism	bacterium be	1
+21830951	organism	cupriavidus	1
+21830951	organism	human	1
+21830951	sequence	genome	2
+21830951	sequence	sequence	2
+21830951	sequence	gene	1
+21830951	cell_line	center	1
+21830951	cell_line	bean	1
+21830951	organ/tissue	nodule	2
+21830951	clinical_drug	nitrogen	1

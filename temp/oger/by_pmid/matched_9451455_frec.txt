@@ -1,0 +1,52 @@
+9451455	biological_process	protein synthesis	5
+9451455	biological_process	translation	2
+9451455	biological_process	synthesis	1
+9451455	biological_process	behaviour	1
+9451455	cellular_component	protein	5
+9451455	cellular_component	ribosome	3
+9451455	cellular_component	30s ribosomal subunit	1
+9451455	chemical	protein	10
+9451455	chemical	methionine	5
+9451455	chemical	sense codon	2
+9451455	chemical	trna	2
+9451455	chemical	polypeptide chain	1
+9451455	chemical	nucleotide	1
+9451455	chemical	Base	1
+9451455	chemical	stop codon	1
+9451455	chemical	initiator trna	1
+9451455	disease	starvation	2
+9451455	gene/protein	pth	3132
+9451455	gene/protein	Pth	783
+9451455	gene/protein	bar	9
+9451455	gene/protein	protein	5
+9451455	gene/protein	rna	4
+9451455	gene/protein	polypeptide	2
+9451455	molecular_function	trna	2
+9451455	organism	Escherichia coli	2
+9451455	organism	e coli	2
+9451455	organism	bacteriophage lambda	2
+9451455	organism	phage	1
+9451455	organism	plasmid	1
+9451455	sequence	protein	5
+9451455	sequence	sequence	4
+9451455	sequence	codon	2
+9451455	sequence	transcript	2
+9451455	sequence	trna	2
+9451455	sequence	polypeptide	1
+9451455	sequence	chain	1
+9451455	sequence	bacteriophage	1
+9451455	sequence	phage	1
+9451455	sequence	mutation	1
+9451455	sequence	genome	1
+9451455	sequence	plasmid	1
+9451455	sequence	construct	1
+9451455	sequence	coding sequence	1
+9451455	sequence	stop codon	1
+9451455	sequence	initiator	1
+9451455	sequence	methionine	1
+9451455	organ/tissue	bar	9
+9451455	organ/tissue	pth	4
+9451455	organ/tissue	lambda	2
+9451455	organ/tissue	Pth	1
+9451455	organ/tissue	segment	1
+9451455	clinical_drug	methionine	1

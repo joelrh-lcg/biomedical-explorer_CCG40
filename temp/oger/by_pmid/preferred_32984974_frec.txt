@@ -1,0 +1,40 @@
+32984974	biological_process	nitrogen fixation	4
+32984974	biological_process	biosynthetic process	2
+32984974	biological_process	'de novo' IMP biosynthetic process	2
+32984974	biological_process	cell division	1
+32984974	cellular_component	obsolete nucleic acid	1
+32984974	chemical	Folic Acid	10
+32984974	chemical	purine	9
+32984974	chemical	nitrogen atom	6
+32984974	chemical	nitrogen(.)	6
+32984974	chemical	folate(2-)	5
+32984974	chemical	folic acid	5
+32984974	chemical	folates	5
+32984974	chemical	folic acids	5
+32984974	chemical	7H-purine	3
+32984974	chemical	Glycine	2
+32984974	chemical	metabolite	1
+32984974	chemical	nucleic acid	1
+32984974	chemical	alpha-amino acid	1
+32984974	chemical	amino acid	1
+32984974	chemical	cofactor	1
+32984974	chemical	plant hormone	1
+32984974	chemical	Plant Growth Regulators	1
+32984974	chemical	glycine	1
+32984974	chemical	glycine zwitterion	1
+32984974	chemical	glycine residue	1
+32984974	chemical	Glycine Hydroxymethyltransferase	1
+32984974	chemical	picloram	1
+32984974	gene/protein	Serine hydroxymethyltransferase	724
+32984974	gene/protein	serine hydroxymethyltransferase	1
+32984974	organism	Fabaceae	1
+32984974	sequence	nucleic_acid	1
+32984974	sequence	amino_acid	1
+32984974	sequence	translocation	1
+32984974	sequence	glycine	1
+32984974	sequence	serine	1
+32984974	organ/tissue	proliferative region	1
+32984974	organ/tissue	tissue	1
+32984974	clinical_drug	Nitrogen	6
+32984974	clinical_drug	Glycine	1
+32984974	clinical_drug	Serine	1

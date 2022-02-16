@@ -1,0 +1,51 @@
+18407964	biological_process	nitrogen fixation	1
+18407964	biological_process	asparagine biosynthetic process	1
+18407964	biological_process	biosynthetic process	1
+18407964	chemical	Asparagine	8
+18407964	chemical	Glucose	6
+18407964	chemical	L-asparagine residue	4
+18407964	chemical	L-asparaginyl group	4
+18407964	chemical	L-asparagine	4
+18407964	chemical	asparagine	4
+18407964	chemical	Aspartate-Ammonia Ligase	3
+18407964	chemical	aldehydo-D-glucose	3
+18407964	chemical	D-glucopyranose	3
+18407964	chemical	glucose	3
+18407964	chemical	purine	3
+18407964	chemical	elemental carbon	2
+18407964	chemical	carbon atom	2
+18407964	chemical	N-acylurea	2
+18407964	chemical	Glutamine	2
+18407964	chemical	DNA, Complementary	1
+18407964	chemical	nitrogen atom	1
+18407964	chemical	nitrogen(.)	1
+18407964	chemical	EC 2.7.1.1 (hexokinase) inhibitor	1
+18407964	chemical	Hexokinase	1
+18407964	chemical	glutamine	1
+18407964	chemical	L-glutamine	1
+18407964	chemical	7H-purine	1
+18407964	gene/protein	Hexokinase	14
+18407964	gene/protein	Protein BEAN1	6
+18407964	gene/protein	protein BEAN	3
+18407964	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+18407964	gene/protein	ribonuclease I	1
+18407964	gene/protein	beta-glucuronidase (Escherichia coli K-12)	1
+18407964	organism	Phaseolus	1
+18407964	organism	Phaseolus vulgaris	1
+18407964	sequence	asparagine	7
+18407964	sequence	cDNA_clone	1
+18407964	sequence	gene	1
+18407964	sequence	promoter	1
+18407964	sequence	fusion	1
+18407964	sequence	glutamine	1
+18407964	cell_line	R1192	3
+18407964	organ/tissue	cerebellum vermis lobule X	7
+18407964	organ/tissue	germinal center	7
+18407964	organ/tissue	tissue	2
+18407964	organ/tissue	organ	1
+18407964	organ/tissue	compound organ	1
+18407964	clinical_drug	Asparagine	7
+18407964	clinical_drug	Dextrose, Unspecified Form	3
+18407964	clinical_drug	Nitrogen	1
+18407964	clinical_drug	Glutamine	1
+18407964	molecular_process	reduction	1

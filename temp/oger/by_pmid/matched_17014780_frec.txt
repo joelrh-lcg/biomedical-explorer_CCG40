@@ -1,0 +1,21 @@
+17014780	biological_process	vesicle fusion	1
+17014780	cellular_component	membrane	2
+17014780	cellular_component	vesicle	2
+17014780	cellular_component	cellular membrane	1
+17014780	chemical	phospholipid	2
+17014780	chemical	solution	1
+17014780	chemical	ca2	1
+17014780	gene/protein	ca2	8
+17014780	gene/protein	polar	1
+17014780	molecular_function	binding	1
+17014780	molecular_function	vesicle fusion	1
+17014780	sequence	domain	3
+17014780	sequence	transition	2
+17014780	sequence	binding	2
+17014780	sequence	circular	1
+17014780	sequence	boundary	1
+17014780	sequence	fusion	1
+17014780	cell_line	ca2	1
+17014780	organ/tissue	membrane	6
+17014780	organ/tissue	ca2	1
+17014780	clinical_drug	ca2	1

@@ -1,0 +1,40 @@
+31923208	biological_process	ribosome-associated ubiquitin-dependent protein catabolic process	4
+31923208	biological_process	DNA repair	3
+31923208	biological_process	homologous recombination	1
+31923208	cellular_component	obsolete protein	1
+31923208	chemical	51 C	8
+31923208	chemical	MicroRNAs	2
+31923208	chemical	mixture	1
+31923208	chemical	protein	1
+31923208	chemical	(protein)	1
+31923208	chemical	Luciferases	1
+31923208	disease	Carcinogenesis	4
+31923208	disease	Dyschromatosis symmetrica hereditaria 1	4
+31923208	disease	Disease	2
+31923208	gene/protein	E3 ubiquitin-protein ligase MYLIP	16
+31923208	gene/protein	Luciferin 4-monooxygenase	5
+31923208	gene/protein	MLX-interacting protein	4
+31923208	gene/protein	MLX-interacting protein (human)	4
+31923208	gene/protein	E3 ubiquitin-protein ligase MARCH8 (mouse)	4
+31923208	gene/protein	Miraculin	4
+31923208	gene/protein	Insulin-like receptor	4
+31923208	gene/protein	E3 ubiquitin-protein ligase MARCH8 (human)	4
+31923208	gene/protein	MLX-interacting protein (mouse)	4
+31923208	gene/protein	E3 ubiquitin-protein ligase MARCH8	4
+31923208	gene/protein	E3 ubiquitin-protein ligase MYLIP-A (zebrafish)	4
+31923208	gene/protein	DNA repair protein RAD51 homolog 3 (Arabidopsis thaliana)	4
+31923208	gene/protein	DNA repair protein RAD51 homolog 3 (mouse)	4
+31923208	gene/protein	DNA repair protein RAD51 homolog 3	4
+31923208	gene/protein	DNA repair protein RAD51 homolog 3 (human)	4
+31923208	gene/protein	DNA repair protein RAD51 homolog 3 (Dictyostelium discoideum)	4
+31923208	gene/protein	protein	1
+31923208	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+31923208	gene/protein	ribonuclease I	1
+31923208	organism	Calloplesiops altivelis	1
+31923208	sequence	miRNA	2
+31923208	sequence	gene	2
+31923208	sequence	polypeptide	1
+31923208	sequence	homologous	1
+31923208	sequence	INR_motif	1
+31923208	cell_line	NIH 3T3	1
+31923208	cell_line	3T3-Swiss albino	1

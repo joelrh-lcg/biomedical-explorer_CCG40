@@ -1,0 +1,15 @@
+17293429	biological_process	synthesis	1
+17293429	biological_process	swimming	1
+17293429	cellular_component	flagellum	6
+17293429	cellular_component	cell surface	1
+17293429	chemical	proteins	1
+17293429	chemical	cluster	1
+17293429	gene/protein	polar	1
+17293429	organism	bacterium	14
+17293429	organism	rhodobacter	1
+17293429	organism	bacterium be	1
+17293429	organism	alphaproteobacteria	1
+17293429	sequence	gene	4
+17293429	sequence	assembly	1
+17293429	sequence	genome	1
+17293429	sequence	sequence	1

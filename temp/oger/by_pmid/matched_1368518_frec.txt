@@ -1,0 +1,32 @@
+1368518	cellular_component	membrane	1
+1368518	cellular_component	pore	1
+1368518	chemical	karatasin	5
+1368518	chemical	2mercaptoethanol	3
+1368518	chemical	acetate	2
+1368518	chemical	buffer	2
+1368518	chemical	phenyl mercuric acetate	2
+1368518	chemical	amino acid	2
+1368518	chemical	solution	1
+1368518	chemical	sds	1
+1368518	chemical	disulfide	1
+1368518	chemical	molecule	1
+1368518	chemical	amino	1
+1368518	chemical	papain	1
+1368518	chemical	stem bromelain	1
+1368518	disease	sds	1
+1368518	gene/protein	proteinase	36
+1368518	gene/protein	sds	9
+1368518	gene/protein	karatasin	5
+1368518	gene/protein	papain	1
+1368518	gene/protein	stem bromelain	1
+1368518	molecular_function	proteinase	2
+1368518	molecular_function	proteinase activity	1
+1368518	organism	Bromelia plumieri	1
+1368518	organism	karatas	1
+1368518	sequence	disulfide bond	1
+1368518	sequence	amino acid	1
+1368518	sequence	sequence	1
+1368518	organ/tissue	membrane	2
+1368518	organ/tissue	pore	1
+1368518	clinical_drug	acetate	3
+1368518	clinical_drug	papain	1

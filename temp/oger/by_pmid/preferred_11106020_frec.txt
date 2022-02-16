@@ -1,0 +1,38 @@
+11106020	biological_process	nitrogen fixation	2
+11106020	biological_process	biological regulation	1
+11106020	biological_process	biosynthetic process	1
+11106020	biological_process	transcription, DNA-templated	1
+11106020	cellular_component	obsolete protein	2
+11106020	chemical	nitrogen atom	2
+11106020	chemical	nitrogen(.)	2
+11106020	chemical	protein	2
+11106020	chemical	(protein)	2
+11106020	chemical	Electron Transport Complex IV	1
+11106020	chemical	polypeptide	1
+11106020	chemical	atom	1
+11106020	gene/protein	Nitrite reductase	4
+11106020	gene/protein	protein	2
+11106020	gene/protein	cytochrome c oxidase subunit 1 homolog, bacteroid (Sinorhizobium meliloti 1021)	2
+11106020	gene/protein	proteolytic cleavage product	1
+11106020	gene/protein	amino acid chain	1
+11106020	molecular_function	electron transporter, transferring electrons within the noncyclic electron transport pathway of photosynthesis activity	1
+11106020	molecular_function	electron transporter, transferring electrons from CoQH2-cytochrome c reductase complex and cytochrome c oxidase complex activity	1
+11106020	molecular_function	electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity	1
+11106020	molecular_function	electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity	1
+11106020	molecular_function	electron transporter, transferring electrons within cytochrome c oxidase complex activity	1
+11106020	molecular_function	obsolete cytochrome	1
+11106020	molecular_function	electron transporter, transferring electrons within CoQH2-cytochrome c reductase complex activity	1
+11106020	organism	Rhizobium etli	3
+11106020	organism	unidentified plasmid	2
+11106020	organism	Rhizobiaceae	1
+11106020	sequence	gene	3
+11106020	sequence	polypeptide	3
+11106020	sequence	sequence_variant_obs	3
+11106020	sequence	plasmid	2
+11106020	sequence	natural_variant_site	1
+11106020	sequence	homologous_region	1
+11106020	sequence	cryptic	1
+11106020	sequence	fusion	1
+11106020	sequence	gene_fusion	1
+11106020	organ/tissue	organ	1
+11106020	clinical_drug	Nitrogen	2

@@ -1,0 +1,10 @@
+14574106	chemical	Laccase	5
+14574106	chemical	biological role	1
+14574106	chemical	Oxidoreductases	1
+14574106	gene/protein	Laccase	55
+14574106	organism	Trachinotus falcatus	1
+14574106	sequence	clone	1
+14574106	sequence	region	1
+14574106	sequence	gene	1
+14574106	sequence	substitute	1
+14574106	cell_line	BONA	1

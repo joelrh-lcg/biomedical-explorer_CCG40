@@ -1,0 +1,33 @@
+1827113	biological_process	excretion	1
+1827113	cellular_component	extracellular region	1
+1827113	chemical	Glutathione Disulfide	4
+1827113	chemical	NAD	3
+1827113	chemical	NADP	3
+1827113	chemical	coenzyme	2
+1827113	chemical	glutathione disulfide(2-)	2
+1827113	chemical	glutathione disulfide	2
+1827113	chemical	protein	1
+1827113	chemical	NAD(1-)	1
+1827113	chemical	NAD(+)	1
+1827113	chemical	NADP(3-)	1
+1827113	chemical	NADP(+)	1
+1827113	chemical	elemental carbon	1
+1827113	chemical	carbon atom	1
+1827113	gene/protein	S-adenosylmethionine synthase	1938
+1827113	gene/protein	transmembrane protease serine 11D	3
+1827113	gene/protein	Probable S-adenosylmethionine synthase	3
+1827113	gene/protein	Maltose O-acetyltransferase	3
+1827113	gene/protein	S-adenosylmethionine synthetase	3
+1827113	gene/protein	transmembrane protease serine 11D (mouse)	3
+1827113	gene/protein	acetyl-CoA acetyltransferase, mitochondrial (human)	3
+1827113	gene/protein	acetyl-CoA acetyltransferase, mitochondrial	3
+1827113	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+1827113	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+1827113	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+1827113	molecular_function	[acyl-carrier-protein] S-malonyltransferase activity	3
+1827113	organism	Neurospora crassa	2
+1827113	sequence	disulfide_bond	2
+1827113	cell_line	MAT	3
+1827113	cell_line	MIN	2
+1827113	organ/tissue	excreta	1
+1827113	clinical_drug	Glutathione	2

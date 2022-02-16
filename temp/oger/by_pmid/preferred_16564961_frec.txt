@@ -1,0 +1,51 @@
+16564961	chemical	sulfur atom	1
+16564961	chemical	DNA, Ribosomal	1
+16564961	gene/protein	Protein BEAN1	6
+16564961	gene/protein	LIM domain-containing protein A (Dictyostelium discoideum)	3
+16564961	gene/protein	protein BEAN	3
+16564961	gene/protein	transducin-like enhancer protein 3 (mouse)	2
+16564961	gene/protein	protein escargot (fruit fly)	2
+16564961	gene/protein	epsilon-sarcoglycan (human)	2
+16564961	gene/protein	epsilon-sarcoglycan	2
+16564961	gene/protein	transducin-like enhancer protein 3	2
+16564961	gene/protein	Transducin-like enhancer protein 3	2
+16564961	gene/protein	transcription factor unc-37 (worm)	2
+16564961	gene/protein	DNA-directed RNA polymerase subunit beta (Thermus thermophilus HB8)	1
+16564961	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis ATCC 23445)	1
+16564961	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus 2308)	1
+16564961	gene/protein	DNA-directed RNA polymerase subunit beta (Escherichia coli K-12)	1
+16564961	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella canis ATCC 23365)	1
+16564961	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella ovis ATCC 25840)	1
+16564961	gene/protein	DNA-directed RNA polymerase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+16564961	gene/protein	DNA-directed RNA polymerase subunit beta (Peptoclostridium difficile 630)	1
+16564961	gene/protein	DNA-directed RNA polymerase subunit beta (Clostridium botulinum A str. Hall)	1
+16564961	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella melitensis ATCC 23457)	1
+16564961	gene/protein	DNA-directed RNA polymerase subunit beta	1
+16564961	gene/protein	DNA-directed RNA polymerase subunit beta (Arabidopsis thaliana)	1
+16564961	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis 1330)	1
+16564961	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus bv. 1 str. 9-941)	1
+16564961	gene/protein	chaperone protein DnaK (Brucella suis 1330)	1
+16564961	gene/protein	chaperone protein DnaK (Escherichia coli K-12)	1
+16564961	gene/protein	chaperone protein DnaK (Brucella melitensis bv. 1 str. 16M)	1
+16564961	gene/protein	chaperone protein DnaK (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+16564961	gene/protein	chaperone protein DnaK (Brucella abortus bv. 1 str. 9-941)	1
+16564961	gene/protein	chaperone protein DnaK (Brucella ovis ATCC 25840)	1
+16564961	gene/protein	chaperone protein DnaK	1
+16564961	gene/protein	chaperone protein DnaK (Clostridium botulinum A str. Hall)	1
+16564961	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+16564961	gene/protein	chitooligosaccharide deacetylase (Sinorhizobium meliloti 1021)	1
+16564961	organism	Phaseolus lunatus	4
+16564961	organism	Bradyrhizobium yuanmingense	2
+16564961	organism	collection	1
+16564961	organism	synthetic construct	1
+16564961	organism	Bradyrhizobium	1
+16564961	organism	Lespedeza	1
+16564961	sequence	gene	3
+16564961	sequence	genotype	3
+16564961	sequence	region	2
+16564961	sequence	primer	1
+16564961	sequence	rRNA_gene	1
+16564961	cell_line	LIMA 97	3
+16564961	cell_line	R1192	3
+16564961	organ/tissue	epidermal ridge of digit	1
+16564961	clinical_drug	Phaseolus lunatus allergenic extract	3

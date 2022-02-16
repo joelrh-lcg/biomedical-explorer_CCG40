@@ -1,0 +1,10 @@
+24237659	biological_process	transcription, DNA-templated	2
+24237659	biological_process	regulation of gene expression	1
+24237659	chemical	base	1
+24237659	molecular_function	DNA binding	1
+24237659	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+24237659	sequence	gene	2
+24237659	sequence	base	1
+24237659	sequence	polypeptide_binding_motif	1
+24237659	sequence	non_covalent_binding_site	1
+24237659	organ/tissue	multicellular organism	1

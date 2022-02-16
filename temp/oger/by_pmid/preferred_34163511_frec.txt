@@ -1,0 +1,34 @@
+34163511	biological_process	symbiotic process	4
+34163511	biological_process	transcription, DNA-templated	2
+34163511	biological_process	root development	1
+34163511	biological_process	nodulation	1
+34163511	chemical	protein	3
+34163511	chemical	sulfoxaflor	1
+34163511	disease	Infections	2
+34163511	gene/protein	Protein BEAN1	4
+34163511	gene/protein	glycogen debranching enzyme (rabbit)	2
+34163511	gene/protein	alpha-glucosidase Agl1 (Schizosaccharomyces pombe 972h-)	2
+34163511	gene/protein	glycogen debranching enzyme	2
+34163511	gene/protein	glycogen debranching enzyme (human)	2
+34163511	gene/protein	Alpha-glucosidase	2
+34163511	gene/protein	protein BEAN	2
+34163511	gene/protein	ninein (human)	1
+34163511	gene/protein	ninein (mouse)	1
+34163511	gene/protein	ninein	1
+34163511	gene/protein	Transcriptional regulator	1
+34163511	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	2
+34163511	molecular_function	DNA binding	1
+34163511	organism	Arabidopsis	2
+34163511	organism	Fabaceae	2
+34163511	sequence	gene	4
+34163511	sequence	engineered_region	4
+34163511	sequence	region	3
+34163511	sequence	transgenic	2
+34163511	sequence	consensus	1
+34163511	sequence	polypeptide_binding_motif	1
+34163511	sequence	non_covalent_binding_site	1
+34163511	cell_line	R1192	2
+34163511	organ/tissue	cerebellum vermis lobule X	5
+34163511	organ/tissue	germinal center	5
+34163511	organ/tissue	organ	1
+34163511	organ/tissue	compound organ	1

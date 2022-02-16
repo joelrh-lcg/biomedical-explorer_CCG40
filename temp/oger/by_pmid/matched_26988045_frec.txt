@@ -1,0 +1,7 @@
+26988045	organism	bacterium	7
+26988045	organism	Bradyrhizobium sp	5
+26988045	organism	Phaseolus microcarpus	1
+26988045	organism	Phaseolus	1
+26988045	sequence	genome	2
+26988045	sequence	sequence	2
+26988045	organ/tissue	nodule	2

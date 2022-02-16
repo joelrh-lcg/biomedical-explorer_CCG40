@@ -1,0 +1,31 @@
+32468038	biological_process	apoptosis	2
+32468038	biological_process	autophagy	2
+32468038	biological_process	brain development	1
+32468038	biological_process	oxidative metabolism	1
+32468038	biological_process	metabolism	1
+32468038	biological_process	flight	1
+32468038	biological_process	gene ontology	1
+32468038	biological_process	translation	1
+32468038	cellular_component	protein	3
+32468038	chemical	protein	6
+32468038	chemical	t98	4
+32468038	chemical	proteins	2
+32468038	chemical	mitochondrial proteins	1
+32468038	chemical	base	1
+32468038	disease	glioblastoma	14
+32468038	disease	disease	4
+32468038	disease	tumor	4
+32468038	disease	metastasis	4
+32468038	disease	tof	1
+32468038	gene/protein	protein	3
+32468038	gene/protein	msms	2
+32468038	sequence	protein	1
+32468038	sequence	tandem	1
+32468038	sequence	protein ‑ protein interaction	1
+32468038	sequence	gene	1
+32468038	sequence	base	1
+32468038	cell_line	u87mg	4
+32468038	cell_line	t98g	2
+32468038	organ/tissue	brain	2
+32468038	organ/tissue	matrix	1
+32468038	clinical_drug	tandem	1

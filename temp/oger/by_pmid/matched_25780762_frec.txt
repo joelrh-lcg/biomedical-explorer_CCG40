@@ -1,0 +1,14 @@
+25780762	chemical	antibiotic	9
+25780762	chemical	azithromycin	3
+25780762	chemical	cefixime	3
+25780762	disease	gonorrhea	2
+25780762	disease	infection	2
+25780762	disease	sti	2
+25780762	gene/protein	sti	2
+25780762	organism	Neisseria gonorrhoeae	2
+25780762	sequence	genome	1
+25780762	sequence	sequence	1
+25780762	sequence	mutation	1
+25780762	organ/tissue	globe	1
+25780762	clinical_drug	azithromycin	1
+25780762	clinical_drug	cefixime	1

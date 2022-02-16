@@ -1,0 +1,4 @@
+27632983	disease	Lyme Borreliosis	2
+27632983	organism	bacterium	7
+27632983	organism	Borrelia burgdorferi sensu lato	1
+27632983	sequence	vector	1

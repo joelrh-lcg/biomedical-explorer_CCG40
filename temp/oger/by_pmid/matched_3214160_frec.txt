@@ -1,0 +1,14 @@
+3214160	chemical	cluster	1
+3214160	chemical	base	1
+3214160	gene/protein	spp	16
+3214160	gene/protein	bean	3
+3214160	molecular_function	spp	1
+3214160	organism	bacterium	7
+3214160	organism	Rhizobium leguminosarum	2
+3214160	organism	Rhizobium	1
+3214160	sequence	allele	3
+3214160	sequence	gene	2
+3214160	sequence	genome	2
+3214160	sequence	genotype	1
+3214160	sequence	base	1
+3214160	cell_line	bean	1

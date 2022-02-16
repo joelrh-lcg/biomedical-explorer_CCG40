@@ -1,0 +1,16 @@
+2882477	chemical	nucleotide	2
+2882477	chemical	glutamine synthetase	1
+2882477	disease	pneumonia	2
+2882477	gene/protein	glutamine synthetase	123
+2882477	gene/protein	ntrb	3
+2882477	gene/protein	ntrc	3
+2882477	gene/protein	glnl	2
+2882477	gene/protein	glng	2
+2882477	organism	e coli	2
+2882477	organism	klebsiella	1
+2882477	sequence	sequence	2
+2882477	sequence	operon	2
+2882477	sequence	gene	2
+2882477	sequence	glutamine	1
+2882477	sequence	domain	1
+2882477	clinical_drug	glutamine	1

@@ -1,0 +1,19 @@
+14681419	biological_process	regulation	1
+14681419	biological_process	transcription	1
+14681419	cellular_component	ribosome	1
+14681419	chemical	element	1
+14681419	chemical	complement	1
+14681419	gene/protein	K12	9
+14681419	gene/protein	TUs	2
+14681419	gene/protein	tus	2
+14681419	gene/protein	transcriptional regulator	1
+14681419	molecular_function	ribosome binding	1
+14681419	organism	Escherichia coli K12	1
+14681419	sequence	promoter	2
+14681419	sequence	binding site	2
+14681419	sequence	operon	1
+14681419	sequence	terminator	1
+14681419	sequence	gene	1
+14681419	cell_line	K12	2
+14681419	organ/tissue	element	1
+14681419	organ/tissue	web	1

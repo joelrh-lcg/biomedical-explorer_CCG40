@@ -1,0 +1,19 @@
+34427721	disease	Infections	8
+34427721	disease	Disease Susceptibility	6
+34427721	gene/protein	serine recombinase PinE	2
+34427721	gene/protein	serine recombinase PinE (Escherichia coli K-12)	2
+34427721	organism	Anaxyrus boreas	3
+34427721	organism	Amphibians	2
+34427721	organism	bacterium IFAM-3211	2
+34427721	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+34427721	organism	bacterium IFAM-3215	2
+34427721	organism	bacterium IFAM-2074	2
+34427721	organism	bacterium IFAM-3359	2
+34427721	organism	bacterium	2
+34427721	organism	bacterium IFAM-1493	2
+34427721	organism	Fungi	1
+34427721	sequence	copy_number_gain	1
+34427721	organ/tissue	integument	6
+34427721	organ/tissue	zone of skin	6
+34427721	organ/tissue	skin epidermis	6
+34427721	organ/tissue	skin of body	6

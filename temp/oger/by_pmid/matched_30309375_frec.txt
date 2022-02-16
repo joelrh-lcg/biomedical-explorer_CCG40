@@ -1,0 +1,13 @@
+30309375	chemical	aura	1
+30309375	disease	aura	2
+30309375	gene/protein	aura	4
+30309375	organism	black vulture Coragyps atratus	1
+30309375	organism	turkey vulture	1
+30309375	sequence	genome	1
+30309375	sequence	gene	1
+30309375	organ/tissue	gut	3
+30309375	organ/tissue	animal	2
+30309375	organ/tissue	facial skin	2
+30309375	organ/tissue	carcass	1
+30309375	organ/tissue	large intestine	1
+30309375	clinical_drug	turkey	1

@@ -1,0 +1,4 @@
+27852447	chemical	biogenic silica	3
+27852447	disease	Infections	2
+27852447	disease	Hematologic Neoplasms	2
+27852447	organism	Enterococcus faecium	2

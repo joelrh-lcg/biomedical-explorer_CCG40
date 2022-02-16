@@ -1,0 +1,63 @@
+31786251	cellular_component	obsolete protein	1
+31786251	cellular_component	peptidoglycan-based cell wall	1
+31786251	cellular_component	envelope	1
+31786251	chemical	pranlukast	8
+31786251	chemical	drug	3
+31786251	chemical	antrafenine	3
+31786251	chemical	Natamycin	3
+31786251	chemical	conivaptan	3
+31786251	chemical	pharmaceutical	2
+31786251	chemical	Anti-Bacterial Agents	2
+31786251	chemical	Ergotamine	2
+31786251	chemical	4-methyl-N-(3-(4-methylimidazol-1-yl)-5-(trifluoromethyl)phenyl)-3-((4-pyridin-3-ylpyrimidin-2-yl)amino)benzamide	2
+31786251	chemical	Itraconazole	2
+31786251	chemical	Novobiocin	2
+31786251	chemical	4-(2-(4-isopropylbenzamido)ethoxy)benzoic acid	2
+31786251	chemical	molecule	1
+31786251	chemical	antimicrobial agent	1
+31786251	chemical	Viral Proteins	1
+31786251	chemical	ergotamine	1
+31786251	chemical	nilotinib	1
+31786251	chemical	itraconazole	1
+31786251	chemical	novobiocin	1
+31786251	chemical	novobiocin(1-)	1
+31786251	chemical	antiviral agent	1
+31786251	chemical	protein	1
+31786251	chemical	(protein)	1
+31786251	chemical	Envelope glycoprotein E2	1
+31786251	disease	Disease	6
+31786251	disease	Zika Virus Infection	4
+31786251	disease	Dengue	2
+31786251	disease	Infections	2
+31786251	disease	Noonan Syndrome	1
+31786251	gene/protein	Non-structural protein 1	159
+31786251	gene/protein	Initiator protein NS1	23
+31786251	gene/protein	DNA-binding protein HU-beta	8
+31786251	gene/protein	viral protein	1
+31786251	gene/protein	guanine nucleotide-binding protein-like 3 homolog (fruit fly)	1
+31786251	gene/protein	influenza virus NS1A-binding protein	1
+31786251	gene/protein	influenza virus NS1A-binding protein homolog (mouse)	1
+31786251	gene/protein	NS1	1
+31786251	gene/protein	influenza virus NS1A-binding protein (human)	1
+31786251	gene/protein	Putative non-structural protein 1	1
+31786251	gene/protein	asparagine--tRNA ligase, chloroplastic/mitochondrial (Arabidopsis thaliana)	1
+31786251	molecular_function	binding	1
+31786251	organism	Zika Virus	4
+31786251	organism	Zika virus	4
+31786251	organism	Humans	2
+31786251	organism	Capsid	1
+31786251	sequence	polypeptide_binding_motif	1
+31786251	sequence	non_covalent_binding_site	1
+31786251	sequence	polypeptide	1
+31786251	sequence	score	1
+31786251	sequence	supercontig	1
+31786251	cell	hepatocyte	1
+31786251	cell_line	Huh-7	1
+31786251	cell_line	Neuroscreen-1	1
+31786251	cell_line	NS1	1
+31786251	cell_line	P3/NS1/1-Ag4.1	1
+31786251	clinical_drug	Ergotamine	1
+31786251	clinical_drug	Natamycin	1
+31786251	clinical_drug	nilotinib	1
+31786251	clinical_drug	Itraconazole	1
+31786251	clinical_drug	conivaptan	1

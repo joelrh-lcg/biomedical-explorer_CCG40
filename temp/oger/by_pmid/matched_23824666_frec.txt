@@ -1,0 +1,32 @@
+23824666	biological_process	formation	2
+23824666	cellular_component	protein	2
+23824666	chemical	chitin	9
+23824666	chemical	protein	4
+23824666	chemical	chitinase	4
+23824666	chemical	proteins	2
+23824666	chemical	chitinase chia	1
+23824666	chemical	chitobiase	1
+23824666	chemical	recombinant proteins	1
+23824666	chemical	mixture	1
+23824666	disease	CBP	3
+23824666	gene/protein	CBP	54
+23824666	gene/protein	chitinase	24
+23824666	gene/protein	chic	10
+23824666	gene/protein	chitobiase	6
+23824666	gene/protein	chia	6
+23824666	gene/protein	tag	5
+23824666	gene/protein	Chb	3
+23824666	gene/protein	protein	2
+23824666	gene/protein	chitinase chia	1
+23824666	gene/protein	chb	1
+23824666	molecular_function	CBP	3
+23824666	molecular_function	chitinase activity	1
+23824666	organism	Escherichia coli	2
+23824666	organism	serratia	1
+23824666	sequence	protein	2
+23824666	sequence	gene	1
+23824666	sequence	clone	1
+23824666	sequence	fusion	1
+23824666	sequence	tag	1
+23824666	cell_line	Chb	3
+23824666	cell_line	chb	1

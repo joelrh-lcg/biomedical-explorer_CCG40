@@ -1,0 +1,21 @@
+15053318	chemical	adonitol	3
+15053318	disease	pneumonia	2
+15053318	gene/protein	mdh	18
+15053318	gene/protein	rpoB	14
+15053318	gene/protein	gyrA	7
+15053318	gene/protein	infb	4
+15053318	gene/protein	f2r	4
+15053318	gene/protein	phoe	2
+15053318	gene/protein	nifh	1
+15053318	molecular_function	mdh	3
+15053318	organism	bacterium	7
+15053318	organism	banana	3
+15053318	organism	rice	2
+15053318	organism	maize	2
+15053318	organism	klebsiella	1
+15053318	organism	atcc baa830	1
+15053318	organism	CFNE 2004	1
+15053318	sequence	sequence	1
+15053318	sequence	gene	1
+15053318	clinical_drug	banana	2
+15053318	clinical_drug	rice	1

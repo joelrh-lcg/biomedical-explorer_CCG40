@@ -1,0 +1,14 @@
+20141548	chemical	2,6-diisopropylnaphthalene	1
+20141548	disease	Cicatrix	2
+20141548	gene/protein	Protochlorophyllide reductase, chloroplastic	5
+20141548	gene/protein	Light-dependent protochlorophyllide reductase	2
+20141548	gene/protein	40S ribosomal protein S4, X isoform	1
+20141548	gene/protein	40S ribosomal protein S4, X isoform (human)	1
+20141548	gene/protein	Protochlorophyllide reductase	1
+20141548	organism	Zea mays	2
+20141548	organism	Azospirillum brasilense	2
+20141548	organism	synthetic construct	1
+20141548	sequence	region	1
+20141548	sequence	RAPD	1
+20141548	sequence	fragmentary	1
+20141548	sequence	primer	1

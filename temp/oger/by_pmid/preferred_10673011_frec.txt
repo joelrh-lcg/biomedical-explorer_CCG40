@@ -1,0 +1,21 @@
+10673011	biological_process	homologous recombination	1
+10673011	biological_process	transposition	1
+10673011	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+10673011	gene/protein	extracellular adherence protein	1
+10673011	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+10673011	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+10673011	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+10673011	gene/protein	methionine aminopeptidase	1
+10673011	organism	collection	2
+10673011	organism	unidentified plasmid	1
+10673011	sequence	polypeptide_repeat	4
+10673011	sequence	genome	4
+10673011	sequence	region	2
+10673011	sequence	copy_number_gain	1
+10673011	sequence	plasmid	1
+10673011	sequence	invert	1
+10673011	sequence	deletion	1
+10673011	sequence	inversion	1
+10673011	sequence	translocation	1
+10673011	sequence	homologous	1
+10673011	sequence	chromosomal_transposition	1

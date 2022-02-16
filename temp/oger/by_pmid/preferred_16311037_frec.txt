@@ -1,0 +1,12 @@
+16311037	biological_process	transcription, DNA-templated	2
+16311037	chemical	metabolite	2
+16311037	chemical	heteroatomic molecular entity	1
+16311037	chemical	base	1
+16311037	gene/protein	glyceraldehyde-3-phosphate dehydrogenase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+16311037	gene/protein	GTPase-activating protein pac-1 (worm)	1
+16311037	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+16311037	organism	Escherichia coli	2
+16311037	sequence	base	1
+16311037	sequence	transit_peptide	1
+16311037	sequence	signal_peptide	1
+16311037	sequence	gap	1

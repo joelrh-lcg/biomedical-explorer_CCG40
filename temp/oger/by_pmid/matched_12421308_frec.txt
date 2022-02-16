@@ -1,0 +1,11 @@
+12421308	chemical	ce3	1
+12421308	chemical	resolvase	1
+12421308	gene/protein	p42	32
+12421308	gene/protein	resolvase	6
+12421308	organism	Rhizobium etli	2
+12421308	organism	plasmid	2
+12421308	organism	plasmid p42d	1
+12421308	sequence	plasmid	3
+12421308	sequence	operon	1
+12421308	sequence	construct	1
+12421308	cell_line	ce3	1

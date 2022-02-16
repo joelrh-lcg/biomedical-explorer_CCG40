@@ -1,0 +1,25 @@
+14529615	chemical	RNA polymerase sigma 70	3
+14529615	chemical	base	1
+14529615	chemical	cluster	1
+14529615	gene/protein	RNA polymerase sigma factor RpoD	105
+14529615	gene/protein	RNA polymerase sigma factor SigA	9
+14529615	gene/protein	Keratin, type I cytoskeletal 12	4
+14529615	gene/protein	secreted and transmembrane protein 1	1
+14529615	gene/protein	secreted and transmembrane protein 1 (human)	1
+14529615	gene/protein	secreted and transmembrane protein 1b	1
+14529615	gene/protein	keratin, type I cytoskeletal 12	1
+14529615	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+14529615	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+14529615	gene/protein	ribonuclease I	1
+14529615	gene/protein	Transcriptional regulator	1
+14529615	organism	Escherichia coli	2
+14529615	sequence	promoter	15
+14529615	sequence	transit_peptide	4
+14529615	sequence	signal_peptide	4
+14529615	sequence	gene	4
+14529615	sequence	score	3
+14529615	sequence	5KB_upstream_variant	2
+14529615	sequence	base	1
+14529615	cell_line	K12 [Mouse osteosarcoma]	1
+14529615	cell_line	K12-72.1	1
+14529615	organ/tissue	matrix compartment	5

@@ -1,0 +1,46 @@
+19809970	biological_process	response to hormone	1
+19809970	chemical	maslinic acid	6
+19809970	chemical	glaucacetalin A	4
+19809970	chemical	glaucacetalin D	4
+19809970	chemical	sedative	2
+19809970	chemical	sulfoxaflor	2
+19809970	chemical	nutrient	2
+19809970	chemical	triterpene	2
+19809970	chemical	growth regulator	1
+19809970	chemical	triterpenoid	1
+19809970	chemical	sodium atom	1
+19809970	gene/protein	L-methionine gamma-lyase	14
+19809970	gene/protein	Monoglyceride lipase	8
+19809970	gene/protein	Protochlorophyllide reductase, chloroplastic	5
+19809970	gene/protein	Monoacylglycerol lipase	4
+19809970	gene/protein	Light-dependent protochlorophyllide reductase	2
+19809970	gene/protein	C-type lectin domain family 10 member A (rat)	2
+19809970	gene/protein	monoglyceride lipase	2
+19809970	gene/protein	Putative monoglyceride lipase	2
+19809970	gene/protein	methionine gamma-lyase (Arabidopsis thaliana)	2
+19809970	gene/protein	C-type lectin domain family 10 member A (mouse)	2
+19809970	gene/protein	caveolin-1 (human)	1
+19809970	gene/protein	telomere-binding protein cav (fruit fly)	1
+19809970	gene/protein	caveolin-1 (mouse)	1
+19809970	gene/protein	caveolin-1	1
+19809970	gene/protein	caveolin-1 (rat)	1
+19809970	gene/protein	Protochlorophyllide reductase	1
+19809970	gene/protein	chain length determinant protein (Escherichia coli K-12)	1
+19809970	gene/protein	Lipase	1
+19809970	gene/protein	chain length determinant protein	1
+19809970	gene/protein	caspase-10 isoform 1	1
+19809970	gene/protein	ryanodine receptor (fruit fly)	1
+19809970	organism	Galphimia	1
+19809970	organism	Galphimia glauca	1
+19809970	organism	Chicken anemia virus	1
+19809970	organism	Chara australis virus	1
+19809970	organism	Mice, Inbred ICR	1
+19809970	organism	Humans	1
+19809970	sequence	gene	1
+19809970	sequence	genome	1
+19809970	cell	malignant cell	1
+19809970	cell_line	CAV	1
+19809970	cell_line	UMR-201-10A	1
+19809970	cell_line	MCF-7	1
+19809970	organ/tissue	ventral tegmental area	1
+19809970	organ/tissue	tissue	1

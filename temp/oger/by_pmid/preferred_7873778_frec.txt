@@ -1,0 +1,70 @@
+7873778	biological_process	nodulation	2
+7873778	cellular_component	obsolete protein	2
+7873778	chemical	alpha-amino acid	2
+7873778	chemical	amino acid	2
+7873778	chemical	protein	2
+7873778	chemical	(protein)	2
+7873778	chemical	Ornithine	2
+7873778	chemical	Proline	2
+7873778	chemical	ornithine cyclodeaminase	1
+7873778	chemical	L-ornithinium(2+)	1
+7873778	chemical	ornithine	1
+7873778	chemical	proline	1
+7873778	chemical	L-proline	1
+7873778	disease	Obsessive-Compulsive Disorder	1
+7873778	gene/protein	Ornithine cyclodeaminase	12
+7873778	gene/protein	Streptopain	7
+7873778	gene/protein	Insertion element IS150 uncharacterized 14 kDa protein	6
+7873778	gene/protein	Uncharacterized 34.3 kDa protein in ATP6 5'region	6
+7873778	gene/protein	Uncharacterized 10.2 kDa protein in HgiEIM 5'region	6
+7873778	gene/protein	Uncharacterized oxidoreductase MexAM1_META1p0182	6
+7873778	gene/protein	Uncharacterized 10.2 kDa protein in HgiCIIM 5'region	6
+7873778	gene/protein	Putative kinase MCAP_0235	6
+7873778	gene/protein	Uncharacterized 31.7 kDa protein in traX-finO intergenic region	6
+7873778	gene/protein	Transcriptional activator for HgiCI restriction system	6
+7873778	gene/protein	Uncharacterized 10.2 kDa protein in HgiBIM 5'region	6
+7873778	gene/protein	Uncharacterized protein CPE0190	6
+7873778	gene/protein	Envelope phospholipase F13	5
+7873778	gene/protein	transcription factor NF-E2 45 kDa subunit (mouse)	1
+7873778	gene/protein	transcription factor NF-E2 45 kDa subunit (human)	1
+7873778	gene/protein	transcription factor NF-E2 45 kDa subunit	1
+7873778	gene/protein	transcription factor NF-E2 45 kDa subunit (rat)	1
+7873778	gene/protein	protein	1
+7873778	gene/protein	protein SAR DEFICIENT 4 (Arabidopsis thaliana)	1
+7873778	gene/protein	2-hydroxyacyl-CoA lyase (Arabidopsis thaliana)	1
+7873778	gene/protein	Capsid protein VP1/VP2	1
+7873778	gene/protein	Movement protein	1
+7873778	gene/protein	Enterotoxin	1
+7873778	gene/protein	Envelope protein F13	1
+7873778	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+7873778	gene/protein	ribonuclease I	1
+7873778	gene/protein	minor histocompatibility antigen H13	1
+7873778	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+7873778	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+7873778	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+7873778	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+7873778	gene/protein	minor histocompatibility antigen H13 (human)	1
+7873778	gene/protein	sphingosine-1-phosphate phosphatase	1
+7873778	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+7873778	gene/protein	SD07518p (fruit fly)	1
+7873778	molecular_function	obsolete signal peptide peptidase activity	1
+7873778	organism	unidentified plasmid	2
+7873778	organism	Sinorhizobium meliloti	2
+7873778	organism	Medicago sativa	2
+7873778	organism	Timaviella circinata	2
+7873778	organism	Agrobacterium	1
+7873778	organism	Rhizobium	1
+7873778	sequence	gene	6
+7873778	sequence	plasmid	2
+7873778	sequence	amino_acid	2
+7873778	sequence	polypeptide	2
+7873778	sequence	region	2
+7873778	sequence	5KB_downstream_variant	1
+7873778	sequence	ORF	1
+7873778	sequence	proline	1
+7873778	sequence	homologous	1
+7873778	cell_line	PC-9/GR4	5
+7873778	cell_line	OCD	1
+7873778	clinical_drug	Ornithine	2
+7873778	clinical_drug	Medicago sativa whole extract	1
+7873778	clinical_drug	Proline	1

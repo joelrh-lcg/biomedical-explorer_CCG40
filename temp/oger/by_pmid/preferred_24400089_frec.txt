@@ -1,0 +1,64 @@
+24400089	biological_process	homeostatic process	1
+24400089	biological_process	detoxification	1
+24400089	biological_process	biological regulation	1
+24400089	biological_process	respiratory burst	1
+24400089	chemical	MicroRNAs	3
+24400089	chemical	reactive oxygen species	3
+24400089	chemical	Reactive Oxygen Species	2
+24400089	chemical	Anthocyanins	2
+24400089	chemical	Superoxide Dismutase-1	1
+24400089	chemical	nodulin	1
+24400089	chemical	copper atom	1
+24400089	chemical	copper(0)	1
+24400089	chemical	protein	1
+24400089	chemical	anthocyanin	1
+24400089	disease	DIARRHEA 8, SECRETORY SODIUM, CONGENITAL	6
+24400089	disease	Diarrhea 3, Secretory Sodium, Congenital	6
+24400089	disease	Myoclonic Epilepsies, Progressive	5
+24400089	gene/protein	Flavohemoprotein	215
+24400089	gene/protein	E3 ubiquitin-protein ligase MYLIP	40
+24400089	gene/protein	Protein BEAN1	20
+24400089	gene/protein	Superoxide dismutase [Cu-Zn]	20
+24400089	gene/protein	protein BEAN	10
+24400089	gene/protein	MLX-interacting protein	10
+24400089	gene/protein	MLX-interacting protein (human)	10
+24400089	gene/protein	E3 ubiquitin-protein ligase MARCH8 (mouse)	10
+24400089	gene/protein	Miraculin	10
+24400089	gene/protein	Insulin-like receptor	10
+24400089	gene/protein	E3 ubiquitin-protein ligase MARCH8 (human)	10
+24400089	gene/protein	MLX-interacting protein (mouse)	10
+24400089	gene/protein	E3 ubiquitin-protein ligase MARCH8	10
+24400089	gene/protein	E3 ubiquitin-protein ligase MYLIP-A (zebrafish)	10
+24400089	gene/protein	superoxide dismutase [Cu-Zn] 1 (Arabidopsis thaliana)	5
+24400089	gene/protein	flavohemoprotein	5
+24400089	gene/protein	kinesin-like protein Nod (fruit fly)	5
+24400089	gene/protein	proto-oncogene tyrosine-protein kinase ROS (human)	2
+24400089	gene/protein	proto-oncogene tyrosine-protein kinase ROS	2
+24400089	gene/protein	superoxide dismutase [Cu-Zn] (zebrafish)	1
+24400089	gene/protein	Nodulin	1
+24400089	gene/protein	bifunctional protein FolD	1
+24400089	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+24400089	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+24400089	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+24400089	gene/protein	Cysteine/Cysteine sulfinic acid decarboxylase	1
+24400089	gene/protein	cysteine sulfinic acid decarboxylase	1
+24400089	gene/protein	cysteine sulfinic acid decarboxylase (rat)	1
+24400089	gene/protein	Cysteine desulfurase CsdA	1
+24400089	gene/protein	cysteine desulfurase CsdA	1
+24400089	gene/protein	cysteine sulfinic acid decarboxylase (human)	1
+24400089	gene/protein	coatomer subunit epsilon (Dictyostelium discoideum)	1
+24400089	organism	Phaseolus	3
+24400089	organism	Rhizobium tropici	2
+24400089	organism	Fabaceae	1
+24400089	organism	Ascomycota	1
+24400089	organism	Nicotiana benthamiana	1
+24400089	sequence	miRNA	3
+24400089	sequence	candidate_gene	1
+24400089	sequence	transgenic	1
+24400089	sequence	transcript	1
+24400089	sequence	gene	1
+24400089	sequence	chromosomal_deletion	1
+24400089	cell_line	R1192	10
+24400089	organ/tissue	cerebellum vermis lobule X	1
+24400089	organ/tissue	germinal center	1
+24400089	clinical_drug	Oxygen	1

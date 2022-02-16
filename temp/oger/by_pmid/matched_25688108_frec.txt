@@ -1,0 +1,18 @@
+25688108	cellular_component	protein	1
+25688108	chemical	oxidase	7
+25688108	chemical	cytochrome	2
+25688108	chemical	protein	2
+25688108	chemical	cluster	2
+25688108	chemical	ubiquinol oxidase	1
+25688108	chemical	bdi	1
+25688108	gene/protein	ubiquinol oxidase	8
+25688108	gene/protein	protein	1
+25688108	molecular_function	cytochrome	7
+25688108	organism	αproteobacteria	2
+25688108	organism	Rhodospirillales	1
+25688108	organism	γproteobacteria	1
+25688108	sequence	gene	3
+25688108	sequence	duplication	2
+25688108	sequence	protein	1
+25688108	sequence	genome	1
+25688108	clinical_drug	ubiquinol	1

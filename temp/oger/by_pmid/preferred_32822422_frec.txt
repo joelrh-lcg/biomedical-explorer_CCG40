@@ -1,0 +1,57 @@
+32822422	biological_process	transcription, DNA-templated	1
+32822422	biological_process	regulation of gene expression	1
+32822422	biological_process	biological regulation	1
+32822422	biological_process	pathogenesis	1
+32822422	biological_process	obsolete virulence	1
+32822422	biological_process	viral process	1
+32822422	biological_process	phosphorylation	1
+32822422	biological_process	cellular aromatic compound metabolic process	1
+32822422	biological_process	response to drug	1
+32822422	cellular_component	spanning component of plasma membrane	1
+32822422	cellular_component	integral component of membrane	1
+32822422	chemical	protein	6
+32822422	chemical	Anti-Bacterial Agents	2
+32822422	chemical	antimicrobial agent	1
+32822422	chemical	alpha-amino acid	1
+32822422	chemical	amino acid	1
+32822422	chemical	aromatic compound	1
+32822422	chemical	drug	1
+32822422	gene/protein	Keratin, type I cytoskeletal 12	4
+32822422	gene/protein	secreted and transmembrane protein 1	1
+32822422	gene/protein	secreted and transmembrane protein 1 (human)	1
+32822422	gene/protein	secreted and transmembrane protein 1b	1
+32822422	gene/protein	keratin, type I cytoskeletal 12	1
+32822422	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+32822422	gene/protein	transcriptional activator protein LysR	1
+32822422	gene/protein	transcriptional activator protein LysR (Escherichia coli K-12)	1
+32822422	gene/protein	multiple antibiotic resistance protein MarR	1
+32822422	gene/protein	multiple antibiotic resistance protein MarR (Escherichia coli K-12)	1
+32822422	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+32822422	molecular_function	binding	1
+32822422	molecular_function	amino acid transmembrane transporter activity	1
+32822422	organism	collection	4
+32822422	organism	Bacillus subtilis	2
+32822422	organism	Corynebacterium glutamicum	2
+32822422	organism	Streptomyces coelicolor	2
+32822422	organism	Escherichia coli K12	1
+32822422	organism	Archaea	1
+32822422	organism	bacterium IFAM-3211	1
+32822422	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+32822422	organism	bacterium IFAM-3215	1
+32822422	organism	bacterium IFAM-2074	1
+32822422	organism	bacterium IFAM-3359	1
+32822422	organism	bacterium	1
+32822422	organism	bacterium IFAM-1493	1
+32822422	sequence	gene	5
+32822422	sequence	genome	4
+32822422	sequence	region	1
+32822422	sequence	enzymatic	1
+32822422	sequence	polypeptide_binding_motif	1
+32822422	sequence	non_covalent_binding_site	1
+32822422	sequence	amino_acid	1
+32822422	sequence	transmembrane_polypeptide_region	1
+32822422	cell_line	K12 [Mouse osteosarcoma]	1
+32822422	cell_line	K12-72.1	1
+32822422	organ/tissue	multicellular organism	2
+32822422	clinical_drug	Bacillus subtilis	1
+32822422	entity_type	preferred_term	2

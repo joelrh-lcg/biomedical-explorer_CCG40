@@ -1,0 +1,36 @@
+18158297	biological_process	transcription, DNA-templated	2
+18158297	biological_process	obsolete Gene_Ontology	1
+18158297	biological_process	biological regulation	1
+18158297	chemical	effector	1
+18158297	chemical	RNA polymerase sigma 70	1
+18158297	chemical	atom	1
+18158297	chemical	Riboswitch	1
+18158297	gene/protein	RNA polymerase sigma factor RpoD	35
+18158297	gene/protein	Keratin, type I cytoskeletal 12	4
+18158297	gene/protein	RNA polymerase sigma factor SigA	3
+18158297	gene/protein	ribonuclease I (Escherichia coli K-12)	2
+18158297	gene/protein	ribonuclease I	2
+18158297	gene/protein	secreted and transmembrane protein 1	1
+18158297	gene/protein	secreted and transmembrane protein 1 (human)	1
+18158297	gene/protein	secreted and transmembrane protein 1b	1
+18158297	gene/protein	keratin, type I cytoskeletal 12	1
+18158297	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+18158297	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+18158297	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+18158297	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+18158297	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+18158297	gene/protein	extracellular adherence protein	1
+18158297	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+18158297	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+18158297	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+18158297	gene/protein	methionine aminopeptidase	1
+18158297	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+18158297	organism	Escherichia coli K12	1
+18158297	sequence	gene	2
+18158297	sequence	promoter	2
+18158297	sequence	riboswitch	1
+18158297	sequence	attenuator	1
+18158297	cell_line	K12 [Mouse osteosarcoma]	1
+18158297	cell_line	K12-72.1	1
+18158297	organ/tissue	multicellular organism	1
+18158297	organ/tissue	organ	1

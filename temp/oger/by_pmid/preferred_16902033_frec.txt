@@ -1,0 +1,16 @@
+16902033	chemical	RNA, Ribosomal, 16S	2
+16902033	chemical	fatty acid	1
+16902033	gene/protein	cardiolipin synthase A	1
+16902033	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+16902033	gene/protein	AT07979p1 (fruit fly)	1
+16902033	organism	Zea mays	4
+16902033	organism	Paraburkholderia silvatlantica	4
+16902033	organism	Burkholderia	2
+16902033	organism	Saccharum	1
+16902033	organism	Saccharum officinarum	1
+16902033	organism	Saccharum hybrid cultivar	1
+16902033	sequence	rRNA_16S	2
+16902033	sequence	rRNA_gene	2
+16902033	sequence	region	2
+16902033	clinical_drug	sugarcane extract	1
+16902033	clinical_drug	Saccharum officinarum allergenic extract	1

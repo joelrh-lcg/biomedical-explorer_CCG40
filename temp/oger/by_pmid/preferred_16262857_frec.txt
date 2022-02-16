@@ -1,0 +1,22 @@
+16262857	cellular_component	viral nucleocapsid	1
+16262857	chemical	nucleotide	1
+16262857	chemical	base	1
+16262857	chemical	sulfur atom	1
+16262857	chemical	DNA, Ribosomal	1
+16262857	gene/protein	ATP synthase subunit delta, chloroplastic (Arabidopsis thaliana)	1
+16262857	gene/protein	ATP synthase subunit beta (Aeromonas hydrophila subsp. hydrophila ATCC 7966)	1
+16262857	gene/protein	ATP synthase subunit beta (Clostridium botulinum A str. Hall)	1
+16262857	gene/protein	ATP synthase subunit beta (Mycobacterium tuberculosis H37Rv)	1
+16262857	gene/protein	ATP synthase subunit beta	1
+16262857	gene/protein	ATP synthase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+16262857	gene/protein	ATP synthase subunit beta (Escherichia coli K-12)	1
+16262857	gene/protein	ATP synthase subunit beta (Leptospira interrogans serovar Lai str. 56601)	1
+16262857	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+16262857	gene/protein	chitooligosaccharide deacetylase (Sinorhizobium meliloti 1021)	1
+16262857	organism	Rhizobium gallicum	2
+16262857	organism	Rhizobium mongolense	2
+16262857	organism	Rhizobium yanglingense	2
+16262857	sequence	gene	5
+16262857	sequence	region	2
+16262857	sequence	base	1
+16262857	sequence	rRNA_gene	1

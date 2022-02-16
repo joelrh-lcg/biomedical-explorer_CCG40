@@ -1,0 +1,41 @@
+24464102	biological_process	synthesis	1
+24464102	biological_process	transcription	1
+24464102	cellular_component	core	1
+24464102	chemical	cys	9
+24464102	chemical	asp	7
+24464102	chemical	zn2	3
+24464102	chemical	cd2	3
+24464102	chemical	pc2	3
+24464102	chemical	phytochelatin synthase	1
+24464102	chemical	phytochelatin2	1
+24464102	chemical	phytochelatin4	1
+24464102	chemical	pc4	1
+24464102	chemical	gsh	1
+24464102	chemical	GSH	1
+24464102	chemical	peroxide	1
+24464102	chemical	amino acid residue	1
+24464102	disease	pc2	3
+24464102	disease	pc4	1
+24464102	disease	gsh	1
+24464102	disease	GSH	1
+24464102	gene/protein	asp	61
+24464102	gene/protein	pc2	42
+24464102	gene/protein	cd2	12
+24464102	gene/protein	pc4	12
+24464102	gene/protein	cys	2
+24464102	gene/protein	phytochelatin synthase	1
+24464102	gene/protein	amino acid residue	1
+24464102	gene/protein	ycf1 yeast	1
+24464102	organism	Euglena gracilis	2
+24464102	organism	asp	1
+24464102	organism	Euglena	1
+24464102	organism	yeast	1
+24464102	sequence	domain	5
+24464102	sequence	cys	1
+24464102	sequence	asp	1
+24464102	sequence	amino acid	1
+24464102	cell_line	pc2	6
+24464102	cell_line	pc4	2
+24464102	organ/tissue	gracilis	1
+24464102	organ/tissue	organism	1
+24464102	clinical_drug	yeast	1

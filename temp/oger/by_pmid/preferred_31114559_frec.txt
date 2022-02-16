@@ -1,0 +1,20 @@
+31114559	biological_process	biosynthetic process	1
+31114559	cellular_component	viral nucleocapsid	2
+31114559	cellular_component	chromosome	1
+31114559	chemical	cluster	5
+31114559	chemical	Ribosomal Proteins	2
+31114559	chemical	nucleotide	2
+31114559	chemical	atom	2
+31114559	chemical	base	1
+31114559	gene/protein	anillin (fruit fly)	1
+31114559	organism	unidentified plasmid	5
+31114559	organism	Fabaceae	1
+31114559	sequence	plasmid	5
+31114559	sequence	genome	4
+31114559	sequence	gene	3
+31114559	sequence	base	1
+31114559	sequence	chromosome	1
+31114559	sequence	synonymous	1
+31114559	sequence	substitution	1
+31114559	sequence	substitute	1
+31114559	organ/tissue	organ	2

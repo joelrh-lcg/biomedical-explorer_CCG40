@@ -1,0 +1,27 @@
+12115061	biological_process	nodulation	1
+12115061	chemical	RNA, Ribosomal, 16S	1
+12115061	gene/protein	Streptopain	7
+12115061	gene/protein	Provicilin	1
+12115061	gene/protein	minor histocompatibility antigen H13	1
+12115061	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+12115061	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+12115061	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+12115061	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+12115061	gene/protein	minor histocompatibility antigen H13 (human)	1
+12115061	gene/protein	sphingosine-1-phosphate phosphatase	1
+12115061	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+12115061	gene/protein	SD07518p (fruit fly)	1
+12115061	molecular_function	obsolete signal peptide peptidase activity	1
+12115061	organism	Rhizobium etli	2
+12115061	organism	Rhizobium	1
+12115061	organism	Fabaceae	1
+12115061	organism	Gliricidia sepium	1
+12115061	organism	unidentified plasmid	1
+12115061	organism	Rhizobium leucaenae	1
+12115061	organism	Sinorhizobium	1
+12115061	sequence	region	1
+12115061	sequence	rRNA_16S	1
+12115061	sequence	rRNA_gene	1
+12115061	sequence	plasmid	1
+12115061	organ/tissue	cerebellum vermis lobule X	2
+12115061	organ/tissue	germinal center	2

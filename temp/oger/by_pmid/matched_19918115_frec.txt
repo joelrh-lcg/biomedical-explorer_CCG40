@@ -1,0 +1,17 @@
+19918115	biological_process	response to nutrient	1
+19918115	biological_process	cellular localization	1
+19918115	biological_process	metabolism	1
+19918115	cellular_component	protein	1
+19918115	chemical	biotin	4
+19918115	chemical	folic acid	3
+19918115	chemical	nutrient	2
+19918115	chemical	proteome	1
+19918115	chemical	complex protein	1
+19918115	chemical	mixture	1
+19918115	chemical	proteins	1
+19918115	chemical	molecule	1
+19918115	chemical	vitamin	1
+19918115	gene/protein	protein	1
+19918115	sequence	protein	1
+19918115	clinical_drug	biotin	1
+19918115	clinical_drug	folic acid	1

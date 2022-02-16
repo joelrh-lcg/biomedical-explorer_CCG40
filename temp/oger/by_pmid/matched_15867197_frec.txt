@@ -1,0 +1,9 @@
+15867197	chemical	base	2
+15867197	sequence	genome	6
+15867197	sequence	operon	5
+15867197	sequence	gene	5
+15867197	sequence	base	2
+15867197	sequence	intergenic	1
+15867197	sequence	member of regulon	1
+15867197	sequence	Operon	1
+15867197	organ/tissue	shell	2

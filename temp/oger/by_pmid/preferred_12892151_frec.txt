@@ -1,0 +1,34 @@
+12892151	chemical	sulfur atom	1
+12892151	chemical	DNA, Ribosomal	1
+12892151	chemical	solution	1
+12892151	gene/protein	protein RecA (Brucella abortus bv. 1 str. 9-941)	1
+12892151	gene/protein	protein RecA (Mycobacterium tuberculosis H37Rv)	1
+12892151	gene/protein	DNA repair protein RAD51 homolog 1 (mouse)	1
+12892151	gene/protein	protein RecA	1
+12892151	gene/protein	DNA repair protein RAD51 homolog 1	1
+12892151	gene/protein	protein RecA (Brucella suis 1330)	1
+12892151	gene/protein	mitochondrial DNA repair protein recA homolog (Dictyostelium discoideum)	1
+12892151	gene/protein	protein RecA (Escherichia coli K-12)	1
+12892151	gene/protein	protein RecA (Brucella canis ATCC 23365)	1
+12892151	gene/protein	DNA repair protein RAD51 homolog 1 (human)	1
+12892151	gene/protein	protein RecA (Brucella suis ATCC 23445)	1
+12892151	gene/protein	protein RecA (Brucella melitensis ATCC 23457)	1
+12892151	gene/protein	DNA repair protein recA homolog 1, chloroplastic (Arabidopsis thaliana)	1
+12892151	gene/protein	protein RecA (Brucella abortus 2308)	1
+12892151	gene/protein	cardiolipin synthase A	1
+12892151	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+12892151	organism	Sinorhizobium	5
+12892151	organism	bacterium IFAM-3211	1
+12892151	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+12892151	organism	bacterium IFAM-3215	1
+12892151	organism	bacterium IFAM-2074	1
+12892151	organism	bacterium IFAM-3359	1
+12892151	organism	bacterium	1
+12892151	organism	bacterium IFAM-1493	1
+12892151	organism	Alphaproteobacteria	1
+12892151	sequence	rRNA_gene	1
+12892151	sequence	gene	1
+12892151	sequence	region	1
+12892151	sequence	forward	1
+12892151	cell_line	RECA	1
+12892151	organ/tissue	comb	1

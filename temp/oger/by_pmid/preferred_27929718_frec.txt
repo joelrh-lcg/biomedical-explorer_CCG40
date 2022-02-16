@@ -1,0 +1,36 @@
+27929718	biological_process	biosynthetic process	2
+27929718	biological_process	cell division	1
+27929718	biological_process	transcription, DNA-templated	1
+27929718	biological_process	nodulation	1
+27929718	chemical	nuclear factor Y	1
+27929718	chemical	protein	1
+27929718	disease	Bacterial Infections	2
+27929718	gene/protein	Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3	3
+27929718	gene/protein	mitogen-activated protein kinase HOG1	1
+27929718	gene/protein	protein SHI RELATED SEQUENCE 1 (Arabidopsis thaliana)	1
+27929718	gene/protein	mitogen-activated protein kinase sty1 (Schizosaccharomyces pombe 972h-)	1
+27929718	gene/protein	protein kinase wis1 (Schizosaccharomyces pombe 972h-)	1
+27929718	gene/protein	protein SHI RELATED SEQUENCE 2 (Arabidopsis thaliana)	1
+27929718	gene/protein	alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3	1
+27929718	gene/protein	protein sprouty (fruit fly)	1
+27929718	gene/protein	dual specificity protein kinase CLK1 (mouse)	1
+27929718	gene/protein	dual specificity protein kinase CLK1	1
+27929718	gene/protein	protein giant-lens (fruit fly)	1
+27929718	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+27929718	organism	Fabaceae	1
+27929718	organism	bacterium IFAM-3211	1
+27929718	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+27929718	organism	bacterium IFAM-3215	1
+27929718	organism	bacterium IFAM-2074	1
+27929718	organism	bacterium IFAM-3359	1
+27929718	organism	bacterium	1
+27929718	organism	bacterium IFAM-1493	1
+27929718	organism	Lotus japonicus	1
+27929718	organism	Lotus	1
+27929718	sequence	gene	2
+27929718	sequence	5KB_downstream_variant	1
+27929718	organ/tissue	cerebellum vermis lobule X	4
+27929718	organ/tissue	germinal center	4
+27929718	organ/tissue	organ	1
+27929718	organ/tissue	compound organ	1
+27929718	organ/tissue	proliferative region	1

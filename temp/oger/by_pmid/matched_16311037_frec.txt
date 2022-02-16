@@ -1,0 +1,10 @@
+16311037	biological_process	transcription	2
+16311037	chemical	metabolite	2
+16311037	chemical	chemical compound	1
+16311037	chemical	base	1
+16311037	gene/protein	gap	2
+16311037	molecular_function	transcription factor	1
+16311037	organism	Escherichia coli	2
+16311037	sequence	signal	2
+16311037	sequence	base	1
+16311037	sequence	gap	1

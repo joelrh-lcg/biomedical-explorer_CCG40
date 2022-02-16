@@ -1,0 +1,41 @@
+14663079	biological_process	biosynthesis	2
+14663079	biological_process	methylation	2
+14663079	biological_process	signalling	1
+14663079	biological_process	formation	1
+14663079	cellular_component	membrane	2
+14663079	chemical	pathway	7
+14663079	chemical	phosphatidylcholine	5
+14663079	chemical	phosphatidylethanolamine	4
+14663079	chemical	choline	3
+14663079	chemical	phospholipid	2
+14663079	chemical	PMTs	2
+14663079	chemical	phosphatidylcholine synthase	1
+14663079	chemical	base	1
+14663079	chemical	lipid	1
+14663079	disease	pcs	8
+14663079	gene/protein	pcs	128
+14663079	gene/protein	phosphatidylcholine synthase	11
+14663079	gene/protein	pmt	4
+14663079	gene/protein	PMT	2
+14663079	gene/protein	lack	1
+14663079	molecular_function	pmt	2
+14663079	molecular_function	PMT	1
+14663079	organism	bacterium	21
+14663079	organism	Brucella melitensis	4
+14663079	organism	Borrelia burgdorferi	4
+14663079	organism	Sinorhizobium meliloti	2
+14663079	organism	Rhizobium leguminosarum	2
+14663079	organism	Bradyrhizobium japonicum	2
+14663079	organism	Mesorhizobium loti	2
+14663079	organism	Pseudomonas aeruginosa	2
+14663079	organism	eukaryote	1
+14663079	organism	agrobacterium	1
+14663079	organism	legionella	1
+14663079	organism	Rhodobacter	1
+14663079	organism	Borrelia	1
+14663079	sequence	gene	2
+14663079	sequence	base	1
+14663079	organ/tissue	pcs	16
+14663079	organ/tissue	membrane	4
+14663079	clinical_drug	choline	1
+14663079	molecular_process	methylation	2

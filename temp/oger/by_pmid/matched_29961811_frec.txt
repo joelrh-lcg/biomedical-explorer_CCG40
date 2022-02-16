@@ -1,0 +1,16 @@
+29961811	cellular_component	protein	1
+29961811	chemical	cyclic diguanylic acid	3
+29961811	chemical	genetic marker	2
+29961811	chemical	base	1
+29961811	chemical	aminoimidazole	1
+29961811	chemical	kinase protein	1
+29961811	disease	cholera	4
+29961811	gene/protein	pcr	16
+29961811	gene/protein	protein	1
+29961811	organism	bacterium	14
+29961811	organism	Vibrio cholera	1
+29961811	organism	artificial	1
+29961811	sequence	gene	4
+29961811	sequence	base	1
+29961811	sequence	protein	1
+29961811	sequence	genetic marker	1

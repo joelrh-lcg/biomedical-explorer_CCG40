@@ -1,0 +1,32 @@
+32984920	biological_process	glutamine synthesis	1
+32984920	chemical	pcn	15
+32984920	chemical	phenazine	6
+32984920	chemical	carbon	6
+32984920	chemical	glucose	5
+32984920	chemical	trehalose	4
+32984920	chemical	glutamine	4
+32984920	chemical	phenazine1carboxamide	3
+32984920	chemical	sucrose	3
+32984920	chemical	mannose	3
+32984920	chemical	galactose	3
+32984920	chemical	glycerol	3
+32984920	chemical	fatty acid	1
+32984920	chemical	tca	1
+32984920	gene/protein	pcn	35
+32984920	gene/protein	sub	4
+32984920	gene/protein	Scr	2
+32984920	organism	bacterium	7
+32984920	organism	Pseudomonas chlororaphis	2
+32984920	organism	Pseudomonas	1
+32984920	organism	atcc 9446	1
+32984920	sequence	construct	1
+32984920	sequence	gene	1
+32984920	sequence	glutamine	1
+32984920	cell_line	tca	1
+32984920	organ/tissue	organism	3
+32984920	clinical_drug	sucrose	1
+32984920	clinical_drug	trehalose	1
+32984920	clinical_drug	mannose	1
+32984920	clinical_drug	galactose	1
+32984920	clinical_drug	glucose	1
+32984920	clinical_drug	glutamine	1

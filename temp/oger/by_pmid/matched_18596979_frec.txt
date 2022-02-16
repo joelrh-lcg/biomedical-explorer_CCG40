@@ -1,0 +1,23 @@
+18596979	biological_process	transport	1
+18596979	cellular_component	core	1
+18596979	cellular_component	chromosome	1
+18596979	chemical	bprl	2
+18596979	chemical	prl	2
+18596979	chemical	proteins	1
+18596979	chemical	metabolite	1
+18596979	chemical	element	1
+18596979	gene/protein	prl	96
+18596979	gene/protein	p42	40
+18596979	gene/protein	path	1
+18596979	organism	bacterium	7
+18596979	organism	plasmid	3
+18596979	organism	Rhizobium leguminosarum	2
+18596979	organism	Rhizobium etli	2
+18596979	organism	vicia	1
+18596979	organism	CFN42	1
+18596979	organism	plasmid p42d	1
+18596979	sequence	plasmid	4
+18596979	sequence	syntenic	2
+18596979	sequence	chromosome	1
+18596979	sequence	genome	1
+18596979	organ/tissue	element	1

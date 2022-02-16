@@ -1,0 +1,73 @@
+30284012	biological_process	catabolic process	2
+30284012	biological_process	biosynthetic process	2
+30284012	biological_process	transport	1
+30284012	biological_process	detoxification	1
+30284012	biological_process	translation	1
+30284012	biological_process	glucose import	1
+30284012	cellular_component	obsolete protein	1
+30284012	chemical	N-(2-(4-(4-chlorophenyl)piperazin-1-yl)ethyl)-3-methoxybenzamide	10
+30284012	chemical	Glucose	6
+30284012	chemical	protein	5
+30284012	chemical	aldehydo-D-glucose	3
+30284012	chemical	D-glucopyranose	3
+30284012	chemical	glucose	3
+30284012	chemical	NAD	3
+30284012	chemical	alpha-amino acid	2
+30284012	chemical	amino acid	2
+30284012	chemical	Ribose	2
+30284012	chemical	picloram	2
+30284012	chemical	elemental carbon	1
+30284012	chemical	carbon atom	1
+30284012	chemical	ribonuclease E	1
+30284012	chemical	D-ribofuranose	1
+30284012	chemical	ribose	1
+30284012	chemical	alpha-D-ribose	1
+30284012	chemical	beta-D-ribopyranose	1
+30284012	chemical	NAD(1-)	1
+30284012	chemical	NAD(+)	1
+30284012	chemical	acetyl-CoA	1
+30284012	chemical	(protein)	1
+30284012	chemical	galactose permease	1
+30284012	chemical	Glucose Transport Proteins, Facilitative	1
+30284012	gene/protein	RNA pyrophosphohydrolase	326
+30284012	gene/protein	Ribonuclease E	5
+30284012	gene/protein	RNA pyrophosphohydrolase (Escherichia coli K-12)	3
+30284012	gene/protein	RNA pyrophosphohydrolase (Aliivibrio fischeri ES114)	3
+30284012	gene/protein	6-pyruvoyl tetrahydrobiopterin synthase (human)	2
+30284012	gene/protein	probable phenylalanine--tRNA ligase, mitochondrial (fruit fly)	2
+30284012	gene/protein	6-pyruvoyl tetrahydrobiopterin synthase (mouse)	2
+30284012	gene/protein	6-pyruvoyl tetrahydrobiopterin synthase	2
+30284012	gene/protein	6-pyruvoyl tetrahydrobiopterin synthase (rat)	2
+30284012	gene/protein	galanin-like peptide (mouse)	2
+30284012	gene/protein	galanin-like peptide (human)	2
+30284012	gene/protein	galanin-like peptide (rat)	2
+30284012	gene/protein	galactose-proton symporter (Escherichia coli K-12)	2
+30284012	gene/protein	galactose-proton symporter	2
+30284012	gene/protein	galanin-like peptide	2
+30284012	gene/protein	Putative ribonuclease E	1
+30284012	gene/protein	ribonuclease E	1
+30284012	gene/protein	Ribonuclease E/G-like protein, chloroplastic	1
+30284012	gene/protein	cartilage oligomeric matrix protein isoform 1	1
+30284012	gene/protein	nodal protein isoform 1	1
+30284012	gene/protein	Stress response protein	1
+30284012	gene/protein	Galactose transporter	1
+30284012	gene/protein	Sugar transport protein 1	1
+30284012	gene/protein	D-galactose-binding periplasmic protein	1
+30284012	gene/protein	D-galactose-binding periplasmic protein (Escherichia coli K-12)	1
+30284012	gene/protein	PTS system mannose-specific EIIAB component (Escherichia coli K-12)	1
+30284012	gene/protein	PTS system mannose-specific EIIAB component	1
+30284012	organism	Plantago princeps	6
+30284012	organism	Escherichia coli	2
+30284012	sequence	intermediate	2
+30284012	sequence	sequence_variant_obs	2
+30284012	sequence	amino_acid	2
+30284012	sequence	deletion	1
+30284012	sequence	genome	1
+30284012	sequence	chromosomal_deletion	1
+30284012	sequence	gene	1
+30284012	sequence	polypeptide	1
+30284012	cell_line	PB11	13
+30284012	cell_line	RIF-1	2
+30284012	organ/tissue	plantar part of pes	1
+30284012	clinical_drug	Dextrose, Unspecified Form	4
+30284012	clinical_drug	Galactose	1

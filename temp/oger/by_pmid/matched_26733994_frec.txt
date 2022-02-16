@@ -1,0 +1,23 @@
+26733994	biological_process	sporulation	2
+26733994	biological_process	secondary metabolism	1
+26733994	biological_process	synthesis	1
+26733994	cellular_component	membrane	4
+26733994	cellular_component	cytoplasmic membrane	2
+26733994	chemical	phosphate	8
+26733994	chemical	lipid	6
+26733994	chemical	phosphorus	5
+26733994	chemical	phosphatidylethanolamine	4
+26733994	chemical	actinorhodin	4
+26733994	chemical	Ornithine lipid	2
+26733994	gene/protein	polar	2
+26733994	organism	Streptomyces coelicolor	2
+26733994	organism	life cycle	1
+26733994	organism	Ornithine lipid	1
+26733994	organism	Streptomyces	1
+26733994	sequence	gene	1
+26733994	cell_line	SCO	1
+26733994	organ/tissue	membrane	10
+26733994	organ/tissue	life cycle	1
+26733994	organ/tissue	developmental stage	1
+26733994	organ/tissue	SCO	1
+26733994	clinical_drug	Ornithine	1

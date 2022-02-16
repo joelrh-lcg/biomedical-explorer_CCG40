@@ -1,0 +1,21 @@
+10808067	biological_process	regeneration	1
+10808067	biological_process	animal organ development	1
+10808067	biological_process	somatic embryogenesis	1
+10808067	chemical	Kinetin	4
+10808067	chemical	Procera	2
+10808067	chemical	kinetin	2
+10808067	chemical	1-naphthylacetic acid	2
+10808067	chemical	1-naphthaleneacetic acid	2
+10808067	chemical	ester	1
+10808067	chemical	acid	1
+10808067	chemical	N-acetyl-L-aspartic acid	1
+10808067	gene/protein	stringent starvation protein A	1
+10808067	gene/protein	Probable salivary secreted peptide	1
+10808067	gene/protein	stringent starvation protein A (Escherichia coli K-12)	1
+10808067	gene/protein	probable inactive receptor-like kinase BSK12 (Arabidopsis thaliana)	1
+10808067	organism	Valerian	1
+10808067	organism	Valeriana edulis	1
+10808067	organ/tissue	embryo	3
+10808067	organ/tissue	supraspinal nucleus	1
+10808067	organ/tissue	embryo stage	1
+10808067	clinical_drug	Kinetin	2

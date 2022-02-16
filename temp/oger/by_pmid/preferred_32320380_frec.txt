@@ -1,0 +1,2 @@
+32320380	gene/protein	tryptophan 2,3-dioxygenase (human)	1
+32320380	organism	Humans	1

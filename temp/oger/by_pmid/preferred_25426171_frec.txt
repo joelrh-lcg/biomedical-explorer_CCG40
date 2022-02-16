@@ -1,0 +1,5 @@
+25426171	disease	Disease	2
+25426171	organism	Humans	1
+25426171	sequence	delins	2
+25426171	sequence	genome	1
+25426171	sequence	natural_variant_site	1

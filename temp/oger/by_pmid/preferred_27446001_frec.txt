@@ -1,0 +1,38 @@
+27446001	biological_process	metabolic process	2
+27446001	biological_process	catabolic process	1
+27446001	chemical	carminic acid	2
+27446001	chemical	Carmine	2
+27446001	chemical	Uric Acid	2
+27446001	chemical	Urate Oxidase	2
+27446001	chemical	nitrogen atom	2
+27446001	chemical	nitrogen(.)	2
+27446001	chemical	Culture Media	1
+27446001	chemical	maleate(2-)	1
+27446001	chemical	RNA, ribosomal, 26S	1
+27446001	chemical	uric acid	1
+27446001	chemical	7,9-dihydro-1H-purine-2,6,8(3H)-trione	1
+27446001	chemical	antifungal agent	1
+27446001	gene/protein	Uricase	50
+27446001	gene/protein	uricase	2
+27446001	molecular_function	urate oxidase activity	2
+27446001	organism	Fungi	2
+27446001	organism	Dactylopius coccus	1
+27446001	organism	Cryptococcus	1
+27446001	organism	Rhodotorula	1
+27446001	organism	Trametes	1
+27446001	organism	Penicillium	1
+27446001	organism	Hemiptera	1
+27446001	sequence	rRNA_gene	1
+27446001	sequence	region	1
+27446001	sequence	gene	1
+27446001	organ/tissue	life cycle stage	2
+27446001	organ/tissue	male organism	1
+27446001	organ/tissue	female organism	1
+27446001	organ/tissue	tissue	1
+27446001	organ/tissue	digestive tract	1
+27446001	organ/tissue	lower digestive tract	1
+27446001	organ/tissue	digestive system	1
+27446001	organ/tissue	hemolymph	1
+27446001	organ/tissue	scale	1
+27446001	clinical_drug	Nitrogen	2
+27446001	clinical_drug	Cochineal	1

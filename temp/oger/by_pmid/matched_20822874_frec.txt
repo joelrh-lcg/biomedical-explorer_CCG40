@@ -1,0 +1,37 @@
+20822874	cellular_component	ribosomal rna	1
+20822874	chemical	phytate	6
+20822874	chemical	phosphorus	5
+20822874	chemical	Phytate	3
+20822874	chemical	16s ribosomal rna	1
+20822874	chemical	16s rrna	1
+20822874	gene/protein	reca	14
+20822874	gene/protein	rpob	14
+20822874	gene/protein	bean	9
+20822874	gene/protein	atpd	8
+20822874	gene/protein	dnak	8
+20822874	gene/protein	rna	2
+20822874	molecular_function	ribosomal rna	2
+20822874	organism	Phaseolus vulgaris	2
+20822874	organism	bacillus	2
+20822874	organism	Rhizobium endophyticum	2
+20822874	organism	plasmid	2
+20822874	organism	Acinetobacter	1
+20822874	organism	Enterococcus	1
+20822874	organism	Paracoccus	1
+20822874	organism	Sphingomonas	1
+20822874	organism	bacterium be	1
+20822874	organism	acinetobacter	1
+20822874	organism	Streptomyces	1
+20822874	organism	rhizobium	1
+20822874	organism	ccge2052	1
+20822874	organism	atcc baa2116	1
+20822874	organism	hambi 3153	1
+20822874	organism	CFN299	1
+20822874	sequence	gene	2
+20822874	sequence	sequence	2
+20822874	sequence	plasmid	2
+20822874	sequence	16s ribosomal rna	1
+20822874	sequence	16s rrna	1
+20822874	cell_line	bean	3
+20822874	cell_line	reca	1
+20822874	organ/tissue	nodule	2

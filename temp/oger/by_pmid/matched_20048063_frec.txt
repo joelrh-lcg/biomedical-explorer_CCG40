@@ -1,0 +1,21 @@
+20048063	biological_process	transport	1
+20048063	biological_process	secondary metabolism	1
+20048063	cellular_component	chromosome	2
+20048063	cellular_component	core	1
+20048063	chemical	amino acid	2
+20048063	chemical	element	1
+20048063	chemical	nucleotide	1
+20048063	disease	ciat	2
+20048063	organism	plasmid	6
+20048063	organism	Rhizobium etli	2
+20048063	organism	cfn42	2
+20048063	sequence	sequence	10
+20048063	sequence	genome	5
+20048063	sequence	plasmid	5
+20048063	sequence	chromosome	2
+20048063	sequence	match	2
+20048063	sequence	gene	2
+20048063	sequence	amino acid	1
+20048063	sequence	mobile	1
+20048063	sequence	plasmid sequence	1
+20048063	organ/tissue	element	1

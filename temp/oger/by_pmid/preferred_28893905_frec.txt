@@ -1,0 +1,62 @@
+28893905	biological_process	post-translational protein modification	2
+28893905	biological_process	transcription, DNA-templated	2
+28893905	biological_process	ribosome biogenesis	1
+28893905	biological_process	rRNA processing	1
+28893905	biological_process	biological regulation	1
+28893905	biological_process	biosynthetic process	1
+28893905	biological_process	glycolytic process	1
+28893905	biological_process	pyruvate metabolic process	1
+28893905	cellular_component	ribosome	1
+28893905	cellular_component	obsolete protein	1
+28893905	chemical	Sirtuin 1	5
+28893905	chemical	Lysine	4
+28893905	chemical	6-chloro-2,3,4,9-tetrahydro-1H-carbazole-1-carboxamide	4
+28893905	chemical	protein	3
+28893905	chemical	lysine	2
+28893905	chemical	L-lysine	2
+28893905	chemical	picloram	2
+28893905	chemical	ribosomal RNA	2
+28893905	chemical	rac-selisistat	2
+28893905	chemical	1,2-dihydroxy-4-(nitroethenyl)benzene	2
+28893905	chemical	Pyruvic Acid	2
+28893905	chemical	lysine residue	1
+28893905	chemical	Ribosomal Proteins	1
+28893905	chemical	Sir1 inhibitor	1
+28893905	chemical	sulfolipid-1(1-)	1
+28893905	chemical	DNA-Directed RNA Polymerases	1
+28893905	chemical	Peptide Initiation Factors	1
+28893905	chemical	(protein)	1
+28893905	chemical	effector	1
+28893905	chemical	28S rRNA	1
+28893905	chemical	RNA, Ribosomal, 28S	1
+28893905	chemical	pyruvate	1
+28893905	gene/protein	Stromelysin-1	6
+28893905	gene/protein	NAD-dependent histone deacetylase sirtuin-1 (fruit fly)	5
+28893905	gene/protein	NAD-dependent protein deacetylase sirtuin-1 (rat)	5
+28893905	gene/protein	NAD-dependent protein deacetylase sirtuin-1	5
+28893905	gene/protein	NAD-dependent protein deacetylase sirtuin-1 (mouse)	5
+28893905	gene/protein	NAD-dependent protein deacetylase sirtuin-1 (human)	5
+28893905	gene/protein	Myocyte-specific enhancer factor 2D homolog	1
+28893905	gene/protein	stromelysin-1	1
+28893905	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+28893905	gene/protein	ribonuclease I	1
+28893905	gene/protein	RNA polymerase I-specific transcription initiation factor RRN3 (human)	1
+28893905	gene/protein	RNA polymerase I-specific transcription initiation factor RRN3	1
+28893905	gene/protein	RNA polymerase I-specific transcription initiation factor RRN3 (mouse)	1
+28893905	gene/protein	RNA polymerase I-specific transcription initiation factor RRN3 (yeast)	1
+28893905	gene/protein	RNA polymerase I-specific transcription initiation factor rrn3 (Schizosaccharomyces pombe 972h-)	1
+28893905	gene/protein	protein	1
+28893905	gene/protein	peroxidase (fruit fly)	1
+28893905	organism	Humans	1
+28893905	sequence	lysine	3
+28893905	sequence	rRNA	2
+28893905	sequence	polypeptide	1
+28893905	sequence	rRNA_28S	1
+28893905	cell_line	ACC-LC-177	1
+28893905	cell_line	T24T SL1	1
+28893905	cell_line	Schneider 1	1
+28893905	cell_line	SL1	1
+28893905	cell_line	SL-1-TC	1
+28893905	clinical_drug	Lysine	3
+28893905	clinical_drug	Pyruvate	1
+28893905	molecular_process	acetylation	6

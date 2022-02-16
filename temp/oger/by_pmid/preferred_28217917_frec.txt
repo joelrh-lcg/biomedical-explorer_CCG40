@@ -1,0 +1,47 @@
+28217917	biological_process	transport	2
+28217917	biological_process	export across plasma membrane	1
+28217917	biological_process	export from cell	1
+28217917	cellular_component	plasma membrane	1
+28217917	cellular_component	obsolete cell wall inner membrane	1
+28217917	chemical	copper atom	2
+28217917	chemical	copper(0)	2
+28217917	chemical	Adenosine Triphosphatases	2
+28217917	chemical	base	1
+28217917	chemical	protein	1
+28217917	disease	Menkes Kinky Hair Syndrome	4
+28217917	gene/protein	Synaptosomal-associated protein 25	5
+28217917	gene/protein	protein STRUBBELIG (Arabidopsis thaliana)	4
+28217917	gene/protein	kinesin-like protein subito (fruit fly)	4
+28217917	gene/protein	coatomer subunit zeta-1	2
+28217917	gene/protein	copper chaperone CopZ (Staphylococcus aureus subsp. aureus NCTC 8325)	2
+28217917	gene/protein	coatomer subunit zeta-1 (human)	2
+28217917	gene/protein	coatomer subunit zeta-1 (mouse)	2
+28217917	gene/protein	cation efflux system protein CusF (Escherichia coli K-12)	2
+28217917	gene/protein	cation efflux system protein CusF	2
+28217917	gene/protein	Inorganic triphosphatase	1
+28217917	gene/protein	Triphosphate tunnel metalloenzyme 3	1
+28217917	gene/protein	transcriptional regulator SUPERMAN (Arabidopsis thaliana)	1
+28217917	gene/protein	synaptosomal-associated protein 25	1
+28217917	organism	Sinorhizobium meliloti	2
+28217917	organism	bacterium IFAM-3211	1
+28217917	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+28217917	organism	bacterium IFAM-3215	1
+28217917	organism	bacterium IFAM-2074	1
+28217917	organism	bacterium IFAM-3359	1
+28217917	organism	bacterium	1
+28217917	organism	bacterium IFAM-1493	1
+28217917	organism	unidentified	1
+28217917	organism	Gammaproteobacteria	1
+28217917	sequence	genome	3
+28217917	sequence	gene	3
+28217917	sequence	base	1
+28217917	sequence	polypeptide_conserved_motif	1
+28217917	sequence	polypeptide_motif	1
+28217917	sequence	homologous	1
+28217917	sequence	homologous_region	1
+28217917	cell_line	CRISPRi Gen1B 1	2
+28217917	cell_line	1B3	2
+28217917	cell_line	P5E2-2F7-1B3	2
+28217917	cell_line	CRISPRi Gen1B 3	2
+28217917	organ/tissue	membrane organ	1
+28217917	organ/tissue	membranous layer	1

@@ -1,0 +1,52 @@
+8830693	cellular_component	obsolete protein	1
+8830693	chemical	Pyruvic Acid	6
+8830693	chemical	Succinic Acid	4
+8830693	chemical	Biotin	4
+8830693	chemical	pyruvate	3
+8830693	chemical	Oxaloacetic Acid	2
+8830693	chemical	succinate(2-)	2
+8830693	chemical	succinate	2
+8830693	chemical	biotinate	2
+8830693	chemical	biotin	2
+8830693	chemical	alpha-amino acid	2
+8830693	chemical	amino acid	2
+8830693	chemical	Pyruvate Carboxylase	1
+8830693	chemical	oxaloacetate(2-)	1
+8830693	chemical	oxaloacetate	1
+8830693	chemical	elemental carbon	1
+8830693	chemical	carbon atom	1
+8830693	chemical	protein	1
+8830693	chemical	(protein)	1
+8830693	chemical	alpha-particle	1
+8830693	chemical	acetyl group	1
+8830693	chemical	acetyl	1
+8830693	chemical	coenzyme	1
+8830693	gene/protein	Pyruvate carboxylase	17
+8830693	gene/protein	pyruvate carboxylase	10
+8830693	gene/protein	pyruvate carboxylase (Bacillus subtilis subsp. subtilis str. 168)	9
+8830693	gene/protein	cysteine and histidine-rich domain-containing protein (fruit fly)	1
+8830693	gene/protein	phosphatidylcholine:ceramide cholinephosphotransferase 1 (chicken)	1
+8830693	gene/protein	phosphatidylcholine:ceramide cholinephosphotransferase 1	1
+8830693	gene/protein	phosphatidylcholine:ceramide cholinephosphotransferase 1 (human)	1
+8830693	gene/protein	phosphatidylcholine:ceramide cholinephosphotransferase 1 (rat)	1
+8830693	gene/protein	molybdenum cofactor guanylyltransferase (Escherichia coli K-12)	1
+8830693	gene/protein	molybdenum cofactor guanylyltransferase	1
+8830693	gene/protein	protein	1
+8830693	molecular_function	binding	1
+8830693	organism	Rhizobium etli	2
+8830693	sequence	region	4
+8830693	sequence	amino_acid	2
+8830693	sequence	clone	1
+8830693	sequence	polypeptide	1
+8830693	sequence	homologous	1
+8830693	sequence	polypeptide_domain	1
+8830693	sequence	polypeptide_binding_motif	1
+8830693	sequence	non_covalent_binding_site	1
+8830693	cell_line	Dunn osteosarcoma	1
+8830693	cell_line	MDCC-MOB1	1
+8830693	cell_line	Mo-B	1
+8830693	organ/tissue	plantar part of pes	1
+8830693	clinical_drug	Pyruvate	4
+8830693	clinical_drug	Biotin	2
+8830693	molecular_process	carboxylation	1
+8830693	molecular_process	biotinylation	1

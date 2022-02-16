@@ -1,0 +1,30 @@
+31796995	biological_process	metamorphosis	2
+31796995	biological_process	developmental process	1
+31796995	biological_process	digestion	1
+31796995	biological_process	detoxification	1
+31796995	cellular_component	viral nucleocapsid	1
+31796995	chemical	RNA, Ribosomal, 16S	1
+31796995	gene/protein	histone-lysine N-methyltransferase eggless (fruit fly)	1
+31796995	organism	gut metagenome	3
+31796995	organism	Lepidoptera	2
+31796995	organism	Moths	1
+31796995	organism	Brithys crini	1
+31796995	organism	Larva	1
+31796995	organism	Proteobacteria	1
+31796995	sequence	rRNA_16S	1
+31796995	sequence	rRNA_gene	1
+31796995	sequence	region	1
+31796995	organ/tissue	digestive tract	6
+31796995	organ/tissue	lower digestive tract	6
+31796995	organ/tissue	digestive system	6
+31796995	organ/tissue	adult organism	2
+31796995	organ/tissue	life cycle stage	2
+31796995	organ/tissue	shelled egg	1
+31796995	organ/tissue	obsolete oocyte	1
+31796995	organ/tissue	larval stage	1
+31796995	organ/tissue	larva	1
+31796995	organ/tissue	amphibian larval stage	1
+31796995	organ/tissue	midgut	1
+31796995	organ/tissue	hindgut	1
+31796995	organ/tissue	colon	1
+31796995	organ/tissue	intestine	1

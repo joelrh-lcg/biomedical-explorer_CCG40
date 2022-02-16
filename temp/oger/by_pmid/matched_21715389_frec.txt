@@ -1,0 +1,16 @@
+21715389	biological_process	transcription	1
+21715389	chemical	element	1
+21715389	chemical	Access	1
+21715389	gene/protein	add	3
+21715389	gene/protein	NAR	2
+21715389	molecular_function	transcription factor	1
+21715389	molecular_function	binding	1
+21715389	organism	collection	2
+21715389	sequence	motif	12
+21715389	sequence	sequence	5
+21715389	sequence	binding site	2
+21715389	sequence	genome	1
+21715389	sequence	match	1
+21715389	organ/tissue	web	3
+21715389	organ/tissue	element	1
+21715389	organ/tissue	matrix	1

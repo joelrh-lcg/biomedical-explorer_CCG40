@@ -1,0 +1,8 @@
+25136970	biological_process	virulence	18
+25136970	biological_process	gene expression	2
+25136970	chemical	antibiotic	18
+25136970	chemical	virulence factor	1
+25136970	disease	infection	2
+25136970	organism	Salmonella typhimurium	1
+25136970	sequence	gene	5
+25136970	organ/tissue	organism	2

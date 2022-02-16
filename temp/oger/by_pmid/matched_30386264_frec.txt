@@ -1,0 +1,11 @@
+30386264	chemical	PRISMA	2
+30386264	disease	disease	2
+30386264	disease	mental disorder	1
+30386264	disease	psychiatric disorder	1
+30386264	disease	psychiatric diagnosis	1
+30386264	gene/protein	lack	3
+30386264	organ/tissue	hippocampus	3
+30386264	organ/tissue	brain	2
+30386264	organ/tissue	temporal cortex	2
+30386264	organ/tissue	frontal cortex	2
+30386264	organ/tissue	frontal	1

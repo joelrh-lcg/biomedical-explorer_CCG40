@@ -1,0 +1,27 @@
+33813711	biological_process	degradation	3
+33813711	biological_process	efflux	2
+33813711	biological_process	response to stress	1
+33813711	cellular_component	membrane	1
+33813711	cellular_component	efflux pump	1
+33813711	chemical	pnp	5
+33813711	chemical	methyl parathion	4
+33813711	chemical	pesticide	2
+33813711	chemical	methyl	2
+33813711	chemical	fdc	2
+33813711	chemical	PNP	2
+33813711	chemical	organophosphorus pesticide	1
+33813711	chemical	mpd	1
+33813711	chemical	cluster	1
+33813711	chemical	aromatic compound	1
+33813711	disease	fdc	1
+33813711	gene/protein	pnp	1110
+33813711	gene/protein	PNP	444
+33813711	gene/protein	mpd	27
+33813711	gene/protein	s52	6
+33813711	gene/protein	impact	2
+33813711	gene/protein	fdc	2
+33813711	organism	bacterium	7
+33813711	organism	Burkholderia cenocepacia	2
+33813711	sequence	gene	9
+33813711	organ/tissue	membrane	2
+33813711	molecular_process	hydrolysis	1

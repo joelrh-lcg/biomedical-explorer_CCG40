@@ -1,0 +1,26 @@
+19789986	cellular_component	X chromosome	3
+19789986	cellular_component	sex chromosome	2
+19789986	cellular_component	autosome	1
+19789986	cellular_component	Y chromosome	1
+19789986	chemical	maleate(2-)	1
+19789986	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+19789986	gene/protein	extracellular adherence protein	1
+19789986	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+19789986	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+19789986	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+19789986	gene/protein	methionine aminopeptidase	1
+19789986	organism	Eutheria	10
+19789986	organism	Elephants	4
+19789986	organism	Marsupialia	3
+19789986	organism	Elephas maximus	3
+19789986	organism	Loxodonta cyclotis	3
+19789986	organism	Loxodonta africana	3
+19789986	organism	Mammals	1
+19789986	organism	Primates	1
+19789986	organism	Rodentia	1
+19789986	organism	Ursus sp.	1
+19789986	sequence	chromosome	6
+19789986	sequence	gene	4
+19789986	sequence	natural_variant_site	1
+19789986	sequence	homologous	1
+19789986	organ/tissue	male organism	1

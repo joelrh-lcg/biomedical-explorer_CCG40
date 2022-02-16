@@ -1,0 +1,5 @@
+29689654	biological_process	pathogenesis	1
+29689654	biological_process	obsolete virulence	1
+29689654	biological_process	viral process	1
+29689654	disease	Pneumonia	2
+29689654	sequence	genome	1

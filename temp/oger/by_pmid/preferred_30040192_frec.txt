@@ -1,0 +1,21 @@
+30040192	biological_process	transcription, DNA-templated	5
+30040192	biological_process	biological regulation	1
+30040192	chemical	base	1
+30040192	gene/protein	Keratin, type I cytoskeletal 12	4
+30040192	gene/protein	secreted and transmembrane protein 1	1
+30040192	gene/protein	secreted and transmembrane protein 1 (human)	1
+30040192	gene/protein	secreted and transmembrane protein 1b	1
+30040192	gene/protein	keratin, type I cytoskeletal 12	1
+30040192	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+30040192	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	2
+30040192	organism	Escherichia coli K12	1
+30040192	sequence	genome	2
+30040192	sequence	gene	2
+30040192	sequence	promoter	1
+30040192	sequence	base	1
+30040192	sequence	transit_peptide	1
+30040192	sequence	signal_peptide	1
+30040192	cell_line	K12 [Mouse osteosarcoma]	1
+30040192	cell_line	K12-72.1	1
+30040192	organ/tissue	matrix compartment	1
+30040192	organ/tissue	nucleus incertus	1

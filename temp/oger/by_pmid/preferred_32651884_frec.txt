@@ -1,0 +1,45 @@
+32651884	biological_process	catabolic process	1
+32651884	chemical	polychlorobiphenyl	7
+32651884	chemical	pentachlorobenzene	6
+32651884	chemical	impurity	2
+32651884	chemical	aroclor 1260	2
+32651884	chemical	persistent organic pollutant	1
+32651884	chemical	RNA, Ribosomal, 16S	1
+32651884	chemical	2,6-diisopropylnaphthalene	1
+32651884	chemical	pyrrole-2-carboxylic acid	1
+32651884	chemical	phenazine-1-carboxylate	1
+32651884	disease	Amyloidosis IX	1
+32651884	gene/protein	Pyruvate carboxylase	36
+32651884	gene/protein	Pyruvate carboxylase, mitochondrial	24
+32651884	gene/protein	pyruvate carboxylase, mitochondrial	6
+32651884	gene/protein	Plastocyanin B, chloroplastic	6
+32651884	gene/protein	Synaptosomal-associated protein 25	5
+32651884	gene/protein	transcriptional regulator SUPERMAN (Arabidopsis thaliana)	1
+32651884	gene/protein	synaptosomal-associated protein 25	1
+32651884	gene/protein	Plastocyanin A, chloroplastic	1
+32651884	gene/protein	grainyhead-like protein 3	1
+32651884	gene/protein	grainyhead-like protein 3 homolog (mouse)	1
+32651884	gene/protein	grainyhead-like protein 3 homolog (human)	1
+32651884	gene/protein	Zinc finger CCCH domain-containing protein 2	1
+32651884	organism	bacterium IFAM-3211	4
+32651884	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	4
+32651884	organism	bacterium IFAM-3215	4
+32651884	organism	bacterium IFAM-2074	4
+32651884	organism	bacterium IFAM-3359	4
+32651884	organism	bacterium	4
+32651884	organism	bacterium IFAM-1493	4
+32651884	organism	Acinetobacter	2
+32651884	organism	Comamonas	2
+32651884	organism	Bacillus cereus	2
+32651884	organism	Burkholderia cepacia	2
+32651884	organism	synthetic construct	1
+32651884	organism	Humans	1
+32651884	organism	Proteobacteria	1
+32651884	organism	Firmicutes	1
+32651884	organism	Burkholderia	1
+32651884	organism	Bacillus	1
+32651884	organism	Cupriavidus	1
+32651884	sequence	PCB	6
+32651884	sequence	rRNA_16S	1
+32651884	sequence	rRNA_gene	1
+32651884	organ/tissue	posterior communicating artery	1

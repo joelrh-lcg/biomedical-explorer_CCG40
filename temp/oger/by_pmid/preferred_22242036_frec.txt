@@ -1,0 +1,76 @@
+22242036	biological_process	immune response	1
+22242036	cellular_component	outer membrane	1
+22242036	cellular_component	vesicle	1
+22242036	cellular_component	obsolete protein	1
+22242036	cellular_component	IgG immunoglobulin complex	1
+22242036	chemical	omeprazole	4
+22242036	chemical	protein	2
+22242036	chemical	Interleukin-12	2
+22242036	chemical	Tumor Necrosis Factor-alpha	2
+22242036	chemical	(protein)	1
+22242036	chemical	immunogen	1
+22242036	chemical	Immunoglobulin G	1
+22242036	disease	Bone Marrow Diseases	2
+22242036	gene/protein	Ovary maturating parsin	2
+22242036	gene/protein	olfactory marker protein (human)	2
+22242036	gene/protein	olfactory marker protein	2
+22242036	gene/protein	Major outer membrane protein P44	2
+22242036	gene/protein	olfactory marker protein (mouse)	2
+22242036	gene/protein	olfactory marker protein (rat)	2
+22242036	gene/protein	protein	1
+22242036	gene/protein	superoxide dismutase [Cu-Zn] (fruit fly)	1
+22242036	gene/protein	10 kDa chaperonin (Escherichia coli K-12)	1
+22242036	gene/protein	10 kDa chaperonin (Clostridium botulinum A str. Hall)	1
+22242036	gene/protein	10 kDa chaperonin (Leptospira interrogans serovar Lai str. 56601)	1
+22242036	gene/protein	10 kDa chaperonin (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	1
+22242036	gene/protein	10 kDa chaperonin (Bacillus thuringiensis serovar konkukian str. 97-27)	1
+22242036	gene/protein	10 kDa chaperonin (Agrobacterium fabrum str. C58)	1
+22242036	gene/protein	10 kDa chaperonin (Aeromonas hydrophila subsp. hydrophila ATCC 7966)	1
+22242036	gene/protein	10 kDa chaperonin (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+22242036	gene/protein	10 kDa chaperonin (Lactobacillus paracasei ATCC 334)	1
+22242036	gene/protein	10 kDa chaperonin (Bacillus subtilis subsp. subtilis str. 168)	1
+22242036	gene/protein	10 kDa chaperonin	1
+22242036	gene/protein	10 kDa chaperonin (Campylobacter jejuni subsp. jejuni NCTC 11168)	1
+22242036	gene/protein	10 kDa chaperonin (Xanthomonas campestris pv. campestris str. ATCC 33913)	1
+22242036	gene/protein	25 kDa outer-membrane immunogenic protein (Brucella ovis ATCC 25840)	1
+22242036	gene/protein	synaptojanin-2-binding protein	1
+22242036	gene/protein	synaptojanin-2-binding protein (rat)	1
+22242036	gene/protein	synaptojanin-2-binding protein (mouse)	1
+22242036	gene/protein	synaptojanin-2-binding protein (human)	1
+22242036	gene/protein	25 kDa outer-membrane immunogenic protein (Brucella suis 1330)	1
+22242036	gene/protein	25 kDa outer-membrane immunogenic protein	1
+22242036	gene/protein	outer membrane lipoprotein omp19 (Brucella abortus 2308)	1
+22242036	gene/protein	outer membrane lipoprotein omp19	1
+22242036	gene/protein	outer membrane lipoprotein omp19 (Brucella suis 1330)	1
+22242036	gene/protein	outer membrane lipoprotein omp19 (Brucella abortus bv. 1 str. 9-941)	1
+22242036	gene/protein	26 kDa periplasmic immunogenic protein (Brucella melitensis bv. 1 str. 16M)	1
+22242036	gene/protein	DNA repair protein REV1 (mouse)	1
+22242036	gene/protein	DNA repair protein REV1	1
+22242036	gene/protein	DNA repair protein REV1 (human)	1
+22242036	gene/protein	DNA repair protein rev1 (Schizosaccharomyces pombe 972h-)	1
+22242036	gene/protein	DNA repair protein REV1 (yeast)	1
+22242036	gene/protein	DNA repair protein REV1 (chicken)	1
+22242036	gene/protein	DNA repair protein REV1 (Arabidopsis thaliana)	1
+22242036	gene/protein	Ig gamma-2A chain C region (rat)	1
+22242036	molecular_function	superoxide dismutase activity	1
+22242036	molecular_function	interleukin-12 receptor binding	1
+22242036	organism	Oat mosaic virus	6
+22242036	organism	Mus musculus	3
+22242036	organism	Mice	3
+22242036	organism	Methylophilus glucosoxydans	2
+22242036	organism	[Clostridium] polysaccharolyticum	2
+22242036	organism	Providencia burhodogranariea	2
+22242036	organism	Chloracidobacterium thermophilum	2
+22242036	organism	Paracoccus kocurii	2
+22242036	organism	Blautia schinkii	2
+22242036	organism	Rickettsia slovaca	2
+22242036	organism	Brucella	1
+22242036	organism	Brucella melitensis	1
+22242036	sequence	polypeptide	1
+22242036	sequence	gene	1
+22242036	cell	dendritic cell, human	1
+22242036	cell	dendritic cell	1
+22242036	organ/tissue	membrane organ	1
+22242036	organ/tissue	membranous layer	1
+22242036	organ/tissue	bone marrow	1
+22242036	organ/tissue	blood serum	1

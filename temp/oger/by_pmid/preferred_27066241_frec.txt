@@ -1,0 +1,29 @@
+27066241	biological_process	symbiotic process benefiting host	3
+27066241	disease	Disease Susceptibility	4
+27066241	gene/protein	Wiskott-Aldrich syndrome protein	8
+27066241	gene/protein	Wiskott-Aldrich syndrome protein homolog (mouse)	4
+27066241	gene/protein	Wiskott-Aldrich syndrome protein homolog	4
+27066241	organism	Spiroplasma	5
+27066241	organism	bacterium IFAM-3211	4
+27066241	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	4
+27066241	organism	bacterium IFAM-3215	4
+27066241	organism	bacterium IFAM-2074	4
+27066241	organism	bacterium IFAM-3359	4
+27066241	organism	bacterium	4
+27066241	organism	bacterium IFAM-1493	4
+27066241	organism	Wasps	4
+27066241	organism	Drosophila puberula	4
+27066241	organism	Scaptomyza undulata	4
+27066241	organism	Drosophila albipalpis	4
+27066241	organism	Drosophila orthophallata	4
+27066241	organism	Drosophila gracilipalpis	4
+27066241	organism	Drosophila malayana	4
+27066241	organism	Drosophila qiongzhouensis	4
+27066241	organism	Drosophila dissimilis	4
+27066241	organism	Drosophila	4
+27066241	organism	Drosophila anomalata	4
+27066241	organism	Aphids	1
+27066241	organism	Drosophila melanogaster	1
+27066241	sequence	polypeptide_repeat	1
+27066241	sequence	copy_number_gain	1
+27066241	organ/tissue	larval stage	1

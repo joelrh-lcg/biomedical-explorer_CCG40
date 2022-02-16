@@ -1,0 +1,7 @@
+31406982	gene/protein	acb	3
+31406982	gene/protein	Acb	3
+31406982	gene/protein	hoc	1
+31406982	organism	Acinetobacter	3
+31406982	organism	acinetobacter	1
+31406982	sequence	sequence	1
+31406982	sequence	genome	1

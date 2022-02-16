@@ -1,0 +1,38 @@
+29453341	biological_process	uptake	4
+29453341	biological_process	riboflavin biosynthesis	1
+29453341	biological_process	protein folding	1
+29453341	biological_process	oxidation reduction process	1
+29453341	biological_process	gene ontology	1
+29453341	biological_process	cytochrome complex assembly	1
+29453341	cellular_component	extracellular	1
+29453341	cellular_component	protein	1
+29453341	cellular_component	cytochrome complex	1
+29453341	chemical	riboflavin	28
+29453341	chemical	iron	4
+29453341	chemical	pathway	2
+29453341	chemical	protein	2
+29453341	chemical	cytochrome	2
+29453341	chemical	vitamin	1
+29453341	disease	cholera	4
+29453341	disease	protein folding	2
+29453341	gene/protein	rbp	17
+29453341	gene/protein	RBP	17
+29453341	gene/protein	pcr	8
+29453341	gene/protein	ribD	4
+29453341	gene/protein	ribd	2
+29453341	gene/protein	protein	1
+29453341	molecular_function	cytochrome	7
+29453341	organism	bacterium	7
+29453341	organism	Vibrio cholera	1
+29453341	organism	bacterium be	1
+29453341	sequence	gene	8
+29453341	sequence	deletion	2
+29453341	sequence	gain	1
+29453341	sequence	regulon	1
+29453341	sequence	protein	1
+29453341	sequence	assembly	1
+29453341	clinical_drug	riboflavin	7
+29453341	clinical_drug	iron	4
+29453341	molecular_process	oxidation	1
+29453341	molecular_process	reduction	1
+29453341	entity_type	term	4

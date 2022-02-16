@@ -1,0 +1,14 @@
+21850446	biological_process	nitrogen fixation	1
+21850446	biological_process	nodulation	1
+21850446	chemical	cluster	3
+21850446	chemical	nitrogen	2
+21850446	chemical	aromatic compound	1
+21850446	organism	Burkholderia	3
+21850446	organism	Burkholderia glumae	2
+21850446	organism	Burkholderia pseudomallei	2
+21850446	organism	Burkholderia mallei	2
+21850446	organism	human	1
+21850446	organism	Burkholderia cepacia complex	1
+21850446	sequence	gene	1
+21850446	organ/tissue	animal	2
+21850446	clinical_drug	nitrogen	1

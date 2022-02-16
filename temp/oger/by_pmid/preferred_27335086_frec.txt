@@ -1,0 +1,17 @@
+27335086	biological_process	biological regulation	3
+27335086	biological_process	metabolic process	1
+27335086	biological_process	transcription, DNA-templated	1
+27335086	biological_process	pentose-phosphate shunt	1
+27335086	cellular_component	intracellular	1
+27335086	chemical	pentose phosphate	1
+27335086	chemical	picloram	1
+27335086	gene/protein	ATP-dependent 6-phosphofructokinase	251
+27335086	gene/protein	Probable ATP-dependent 6-phosphofructokinase	4
+27335086	gene/protein	ATP-dependent RNA helicase ddx54 (Dictyostelium discoideum)	2
+27335086	molecular_function	catalytic activity	1
+27335086	sequence	enzymatic	2
+27335086	sequence	transition	1
+27335086	sequence	gene	1
+27335086	cell_line	HeLa	2
+27335086	cell_line	HaCaT	1
+27335086	organ/tissue	proliferative region	2

@@ -1,0 +1,7 @@
+31406982	gene/protein	Adenylate cyclase, terminal-differentiation specific	2
+31406982	gene/protein	adenylate cyclase, terminal-differentiation specific (Dictyostelium discoideum)	2
+31406982	gene/protein	acyl-CoA-binding protein (yeast)	2
+31406982	gene/protein	Highly immunogenic outer capsid protein	1
+31406982	organism	Acinetobacter	4
+31406982	sequence	region	1
+31406982	sequence	genome	1

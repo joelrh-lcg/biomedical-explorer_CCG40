@@ -1,0 +1,55 @@
+28671531	biological_process	catabolic process	1
+28671531	cellular_component	chromosome	1
+28671531	chemical	Glucose	4
+28671531	chemical	catechol	3
+28671531	chemical	picloram	3
+28671531	chemical	elemental carbon	2
+28671531	chemical	carbon atom	2
+28671531	chemical	Anti-Bacterial Agents	2
+28671531	chemical	antimicrobial agent	2
+28671531	chemical	Adenosine Diphosphate	2
+28671531	chemical	aldehydo-D-glucose	2
+28671531	chemical	D-glucopyranose	2
+28671531	chemical	glucose	2
+28671531	chemical	Xylose	2
+28671531	chemical	Glycerol	2
+28671531	chemical	Citric Acid	2
+28671531	chemical	nucleotide	1
+28671531	chemical	acetate ester	1
+28671531	chemical	acetate	1
+28671531	chemical	Ala-Asp-Pro	1
+28671531	chemical	ADP	1
+28671531	chemical	ADP(3-)	1
+28671531	chemical	aromatic compound	1
+28671531	chemical	aldehydo-D-xylose	1
+28671531	chemical	xylose	1
+28671531	chemical	glycerol	1
+28671531	chemical	citrate(3-)	1
+28671531	chemical	citrate salt	1
+28671531	chemical	citrate anion	1
+28671531	chemical	(+)-catechin	1
+28671531	gene/protein	Streptopain	7
+28671531	gene/protein	probable ATP-dependent permease (yeast)	1
+28671531	gene/protein	protein DETOXIFICATION 51 (Arabidopsis thaliana)	1
+28671531	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+28671531	gene/protein	minor histocompatibility antigen H13	1
+28671531	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+28671531	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+28671531	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+28671531	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+28671531	gene/protein	minor histocompatibility antigen H13 (human)	1
+28671531	gene/protein	sphingosine-1-phosphate phosphatase	1
+28671531	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+28671531	gene/protein	SD07518p (fruit fly)	1
+28671531	molecular_function	obsolete signal peptide peptidase activity	1
+28671531	organism	Acinetobacter	3
+28671531	organism	Acinetobacter baylyi	2
+28671531	organism	unidentified plasmid	1
+28671531	sequence	gene	4
+28671531	sequence	genome	2
+28671531	sequence	region	1
+28671531	sequence	circular	1
+28671531	sequence	chromosome	1
+28671531	sequence	plasmid	1
+28671531	clinical_drug	Dextrose, Unspecified Form	2
+28671531	clinical_drug	Acetate	1

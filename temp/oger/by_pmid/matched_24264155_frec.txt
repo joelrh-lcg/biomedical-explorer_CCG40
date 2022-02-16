@@ -1,0 +1,15 @@
+24264155	biological_process	nodule development	1
+24264155	biological_process	nodulation	1
+24264155	chemical	leghaemoglobin	3
+24264155	chemical	nitrogenase	2
+24264155	chemical	glutamine synthetase	1
+24264155	disease	infection	2
+24264155	gene/protein	glutamine synthetase	123
+24264155	gene/protein	gsn	18
+24264155	gene/protein	GSr	6
+24264155	organism	Rhizobium phaseoli	4
+24264155	organism	Phaseolus vulgaris	2
+24264155	sequence	glutamine	1
+24264155	cell_line	gsn1	2
+24264155	organ/tissue	nodule	6
+24264155	clinical_drug	glutamine	1

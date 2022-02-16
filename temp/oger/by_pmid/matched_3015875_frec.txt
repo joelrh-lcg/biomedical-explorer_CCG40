@@ -1,0 +1,13 @@
+3015875	biological_process	nodulation	1
+3015875	gene/protein	mob	6
+3015875	gene/protein	Sym	1
+3015875	gene/protein	nif	1
+3015875	organism	bacterium	7
+3015875	organism	Rhizobium phaseoli	2
+3015875	organism	plasmid	2
+3015875	organism	Sym plasmid	1
+3015875	sequence	plasmid	3
+3015875	sequence	gene	1
+3015875	sequence	insertion	1
+3015875	cell_line	mob	2
+3015875	cell_line	tn5	1

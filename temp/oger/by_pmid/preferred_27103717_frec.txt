@@ -1,0 +1,23 @@
+27103717	cellular_component	chromosome	1
+27103717	chemical	sulfite	1
+27103717	chemical	trioxidosulfate(.1-)	1
+27103717	chemical	sulfur trioxide	1
+27103717	disease	Meningitis	2
+27103717	disease	Infections	2
+27103717	gene/protein	Ribosome-inactivating protein saporin-4	1
+27103717	gene/protein	Omega-conotoxin SO-3	1
+27103717	gene/protein	Ribosome-inactivating protein saporin-3	1
+27103717	gene/protein	protein SPIRRIG (Arabidopsis thaliana)	1
+27103717	gene/protein	protein spitz (fruit fly)	1
+27103717	gene/protein	Papain inhibitor	1
+27103717	organism	Salmonella	1
+27103717	organism	Prophages	1
+27103717	organism	unidentified plasmid	1
+27103717	organism	Potato spindle tuber viroid	1
+27103717	sequence	genome	1
+27103717	sequence	region	1
+27103717	sequence	chromosome	1
+27103717	sequence	prophage	1
+27103717	sequence	genomic_island	1
+27103717	sequence	plasmid	1
+27103717	cell_line	SP1	1

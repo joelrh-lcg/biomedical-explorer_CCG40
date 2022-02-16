@@ -1,0 +1,54 @@
+26780421	biological_process	innate immune response	3
+26780421	chemical	salicylate	1
+26780421	chemical	picloram	1
+26780421	disease	Disease Susceptibility	2
+26780421	gene/protein	Peptide deformylase	400
+26780421	gene/protein	LRR receptor-like serine/threonine-protein kinase FLS2	2
+26780421	gene/protein	LRR receptor-like serine/threonine-protein kinase FLS2 (Arabidopsis thaliana)	2
+26780421	gene/protein	UDP-xylose and UDP-N-acetylglucosamine transporter (fruit fly)	2
+26780421	gene/protein	LRR receptor-like serine/threonine-protein kinase EFR	2
+26780421	gene/protein	LRR receptor-like serine/threonine-protein kinase EFR (Arabidopsis thaliana)	2
+26780421	gene/protein	Bcl-2 homologous antagonist/killer	2
+26780421	gene/protein	Bcl-2 homologous antagonist/killer (human)	2
+26780421	gene/protein	Bcl-2 homologous antagonist/killer (mouse)	2
+26780421	gene/protein	plant-type mitogen-activated protein kinase 3	2
+26780421	gene/protein	mitogen-activated protein kinase 3 (Arabidopsis thaliana)	2
+26780421	gene/protein	mitogen-activated protein kinase 6 (Arabidopsis thaliana)	2
+26780421	gene/protein	discoidin domain-containing receptor 1	2
+26780421	gene/protein	epithelial discoidin domain-containing receptor 1 (mouse)	2
+26780421	gene/protein	plant-type mitogen-activated protein kinase 6	2
+26780421	gene/protein	WRKY transcription factor 22 (Arabidopsis thaliana)	2
+26780421	gene/protein	probable WRKY transcription factor 29 (Arabidopsis thaliana)	1
+26780421	gene/protein	BRASSINOSTEROID INSENSITIVE 1-associated receptor kinase 1 (Arabidopsis thaliana)	1
+26780421	gene/protein	Pathogenesis-related protein	1
+26780421	gene/protein	Pathogenesis-related protein 1	1
+26780421	gene/protein	vomeronasal type-1 receptor A1	1
+26780421	gene/protein	voltage-dependent calcium channel gamma-like subunit (mouse)	1
+26780421	gene/protein	vomeronasal type-1 receptor 51 (mouse)	1
+26780421	gene/protein	voltage-dependent calcium channel gamma-like subunit (rat)	1
+26780421	gene/protein	Cuticle-degrading protease	1
+26780421	gene/protein	PRB1-encoded pathogenesis-related protein 1 (Arabidopsis thaliana)	1
+26780421	gene/protein	voltage-dependent calcium channel gamma-like subunit	1
+26780421	gene/protein	growth/differentiation factor 15 (human)	1
+26780421	gene/protein	protein PDF (fruit fly)	1
+26780421	gene/protein	Peptide deformylase 1	1
+26780421	gene/protein	peptide deformylase	1
+26780421	gene/protein	growth/differentiation factor 15	1
+26780421	gene/protein	peptide deformylase, mitochondrial	1
+26780421	gene/protein	peptide deformylase, mitochondrial (human)	1
+26780421	organism	Arabidopsis	3
+26780421	organism	Paenibacillus alvei	2
+26780421	organism	Dahlia	2
+26780421	organism	Arabidopsis thaliana	1
+26780421	organism	bacterium IFAM-3211	1
+26780421	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+26780421	organism	bacterium IFAM-3215	1
+26780421	organism	bacterium IFAM-2074	1
+26780421	organism	bacterium IFAM-3359	1
+26780421	organism	bacterium	1
+26780421	organism	bacterium IFAM-1493	1
+26780421	organism	Verticillium dahliae	1
+26780421	sequence	transcript	1
+26780421	cell_line	PR1 [Human diffuse large B-cell lymphoma]	1
+26780421	cell_line	PR1 [Rat pituitary tumor]	1
+26780421	cell_line	PDF	1

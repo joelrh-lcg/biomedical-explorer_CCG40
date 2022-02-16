@@ -1,0 +1,13 @@
+8374063	chemical	RNA polymerase sigma 70	2
+8374063	chemical	base	1
+8374063	chemical	atom	1
+8374063	chemical	protein	1
+8374063	gene/protein	RNA polymerase sigma factor RpoD	70
+8374063	gene/protein	RNA polymerase sigma factor SigA	6
+8374063	molecular_function	binding	1
+8374063	sequence	promoter	5
+8374063	sequence	operator	1
+8374063	sequence	base	1
+8374063	sequence	non_covalent_binding_site	1
+8374063	sequence	binding_site	1
+8374063	organ/tissue	organ	1

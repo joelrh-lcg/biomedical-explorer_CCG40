@@ -1,0 +1,24 @@
+2892830	biological_process	symbiosis	1
+2892830	biological_process	nitrogen fixation	1
+2892830	chemical	glutamine	8
+2892830	chemical	ammonium	6
+2892830	chemical	pathway	2
+2892830	chemical	nitrogen	2
+2892830	chemical	glutamate dehydrogenase	1
+2892830	gene/protein	gdh	220
+2892830	gene/protein	GDH	55
+2892830	gene/protein	glutamate dehydrogenase	17
+2892830	gene/protein	gdha	2
+2892830	gene/protein	lack	1
+2892830	molecular_function	gdh	4
+2892830	molecular_function	GDH	1
+2892830	organism	Rhizobium phaseoli	2
+2892830	organism	Escherichia coli	2
+2892830	organism	Phaseolus vulgaris	2
+2892830	sequence	glutamine	2
+2892830	sequence	gene	1
+2892830	sequence	construct	1
+2892830	organ/tissue	nodule	2
+2892830	clinical_drug	glutamine	2
+2892830	clinical_drug	glutamate	1
+2892830	clinical_drug	nitrogen	1

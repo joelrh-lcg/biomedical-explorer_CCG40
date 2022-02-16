@@ -1,0 +1,24 @@
+22906238	biological_process	efflux	2
+22906238	biological_process	detoxification	2
+22906238	cellular_component	efflux pump	1
+22906238	chemical	hemin	18
+22906238	chemical	heme	15
+22906238	chemical	hsss	1
+22906238	chemical	proteins	1
+22906238	chemical	nucleotide	1
+22906238	gene/protein	heme	9
+22906238	gene/protein	hrta	2
+22906238	gene/protein	hrtb	2
+22906238	gene/protein	hssr	1
+22906238	gene/protein	hsss	1
+22906238	organism	Staphylococcus aureus	2
+22906238	organism	Staphylococcus epidermidis	2
+22906238	organism	Staphylococcus	1
+22906238	sequence	gene	3
+22906238	sequence	motif	2
+22906238	sequence	syntenic region	1
+22906238	sequence	secondary structure	1
+22906238	sequence	promoter sequence	1
+22906238	sequence	substitution	1
+22906238	sequence	downstream	1
+22906238	clinical_drug	hemin	6

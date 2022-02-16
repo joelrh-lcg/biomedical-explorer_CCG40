@@ -1,0 +1,24 @@
+23776535	biological_process	transcription, DNA-templated	7
+23776535	biological_process	biological regulation	2
+23776535	cellular_component	obsolete protein	1
+23776535	chemical	Tris(1-aziridinyl)phosphine oxide	3
+23776535	chemical	ampicilloyl group	3
+23776535	chemical	effector	1
+23776535	chemical	protein	1
+23776535	chemical	(protein)	1
+23776535	chemical	metabolite	1
+23776535	gene/protein	Keratin, type I cytoskeletal 12	4
+23776535	gene/protein	secreted and transmembrane protein 1	1
+23776535	gene/protein	secreted and transmembrane protein 1 (human)	1
+23776535	gene/protein	secreted and transmembrane protein 1b	1
+23776535	gene/protein	keratin, type I cytoskeletal 12	1
+23776535	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+23776535	gene/protein	protein	1
+23776535	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	5
+23776535	organism	Escherichia coli	2
+23776535	organism	Escherichia coli K12	1
+23776535	sequence	promoter	3
+23776535	sequence	gene	2
+23776535	sequence	polypeptide	1
+23776535	cell_line	K12 [Mouse osteosarcoma]	1
+23776535	cell_line	K12-72.1	1

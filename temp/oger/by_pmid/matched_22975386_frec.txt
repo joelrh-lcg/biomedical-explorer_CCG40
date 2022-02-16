@@ -1,0 +1,33 @@
+22975386	biological_process	transcription	2
+22975386	biological_process	homologous recombination	1
+22975386	biological_process	regulation	1
+22975386	cellular_component	chromosome	1
+22975386	cellular_component	protein	1
+22975386	chemical	protein	2
+22975386	chemical	element	1
+22975386	chemical	alpha	1
+22975386	chemical	cluster	1
+22975386	chemical	prl	1
+22975386	gene/protein	prl	48
+22975386	gene/protein	repa	34
+22975386	gene/protein	repc	16
+22975386	gene/protein	repb	5
+22975386	gene/protein	repac	4
+22975386	gene/protein	pars	2
+22975386	gene/protein	protein	1
+22975386	organism	plasmid	7
+22975386	organism	Rhizobium leguminosarum	2
+22975386	organism	alphaproteobacteria	1
+22975386	organism	alpha proteobacteria	1
+22975386	sequence	gene	10
+22975386	sequence	plasmid	7
+22975386	sequence	operon	4
+22975386	sequence	chromosome	1
+22975386	sequence	initiator	1
+22975386	sequence	protein	1
+22975386	sequence	sequence	1
+22975386	sequence	homologous	1
+22975386	sequence	genome	1
+22975386	sequence	origin of replication	1
+22975386	cell_line	repc	4
+22975386	organ/tissue	element	1

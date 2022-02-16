@@ -1,0 +1,25 @@
+16167767	biological_process	symbiosis	2
+16167767	biological_process	biosynthesis	1
+16167767	biological_process	formation	1
+16167767	cellular_component	membrane	4
+16167767	chemical	phosphorus	10
+16167767	chemical	phosphate	8
+16167767	chemical	phosphatidylcholine	5
+16167767	chemical	DGTS	5
+16167767	chemical	phosphatidylethanolamine	4
+16167767	chemical	lipid	4
+16167767	chemical	cardiolipin	3
+16167767	chemical	phosphatidylglycerol	2
+16167767	chemical	phospholipid	2
+16167767	chemical	sulphoquinovosyl diacylglycerol	2
+16167767	chemical	dgts	2
+16167767	chemical	culture media	1
+16167767	organism	alfalfa	6
+16167767	organism	sinorhizobium meliloti	2
+16167767	organism	Escherichia coli	2
+16167767	sequence	gene	2
+16167767	sequence	wild type	1
+16167767	organ/tissue	membrane	8
+16167767	organ/tissue	nodule	6
+16167767	organ/tissue	organism	1
+16167767	clinical_drug	alfalfa	3

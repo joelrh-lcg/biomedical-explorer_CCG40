@@ -1,0 +1,20 @@
+29462877	biological_process	symbiosis	1
+29462877	biological_process	response to water	1
+29462877	biological_process	gene expression	1
+29462877	chemical	ce3	1
+29462877	chemical	nitrogenase	1
+29462877	chemical	sucrose synthase	1
+29462877	chemical	oxidase	1
+29462877	disease	water stress	6
+29462877	gene/protein	sucrose synthase	15
+29462877	gene/protein	bean	3
+29462877	gene/protein	dry	1
+29462877	molecular_function	nitrogenase activity	1
+29462877	sequence	gene	4
+29462877	sequence	genotype	2
+29462877	sequence	wild type	1
+29462877	cell_line	bean	1
+29462877	cell_line	ce3	1
+29462877	organ/tissue	nodule	6
+29462877	clinical_drug	sucrose	1
+29462877	molecular_process	reduction	1

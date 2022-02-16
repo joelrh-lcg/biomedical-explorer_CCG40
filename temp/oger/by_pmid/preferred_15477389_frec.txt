@@ -1,0 +1,21 @@
+15477389	biological_process	transcription, DNA-templated	1
+15477389	gene/protein	Keratin, type I cytoskeletal 12	8
+15477389	gene/protein	secreted and transmembrane protein 1	2
+15477389	gene/protein	secreted and transmembrane protein 1 (human)	2
+15477389	gene/protein	secreted and transmembrane protein 1b	2
+15477389	gene/protein	keratin, type I cytoskeletal 12	2
+15477389	gene/protein	secreted and transmembrane protein 1b (mouse)	2
+15477389	organism	Bacillus subtilis	2
+15477389	organism	Escherichia coli K12	1
+15477389	organism	Borrelia burgdorferi	1
+15477389	organism	Borreliella burgdorferi	1
+15477389	sequence	gene	13
+15477389	sequence	operon	4
+15477389	sequence	paralogous	3
+15477389	sequence	orthologous	2
+15477389	sequence	paralogous_region	2
+15477389	sequence	junction	1
+15477389	sequence	beta_strand	1
+15477389	cell_line	K12 [Mouse osteosarcoma]	2
+15477389	cell_line	K12-72.1	2
+15477389	clinical_drug	Bacillus subtilis	1

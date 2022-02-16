@@ -1,0 +1,18 @@
+16914446	biological_process	transcription, DNA-templated	3
+16914446	chemical	oligonucleotide	2
+16914446	chemical	trinucleotide	1
+16914446	chemical	picloram	1
+16914446	gene/protein	tubby protein (mouse)	1
+16914446	gene/protein	protein Tube (fruit fly)	1
+16914446	gene/protein	tubby protein homolog (human)	1
+16914446	gene/protein	tubby protein	1
+16914446	gene/protein	tubby protein homolog (rat)	1
+16914446	sequence	gene	11
+16914446	sequence	operon	8
+16914446	sequence	genome	5
+16914446	sequence	5KB_upstream_variant	3
+16914446	sequence	signature	3
+16914446	sequence	oligo	2
+16914446	sequence	cytoplasmic_polypeptide_region	1
+16914446	sequence	junction	1
+16914446	organ/tissue	multicellular organism	1

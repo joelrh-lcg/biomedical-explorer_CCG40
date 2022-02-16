@@ -1,0 +1,6 @@
+17683642	biological_process	regulation	1
+17683642	chemical	complement	1
+17683642	gene/protein	k12	9
+17683642	organism	collection	1
+17683642	organism	Escherichia coli k12	1
+17683642	cell_line	k12	2

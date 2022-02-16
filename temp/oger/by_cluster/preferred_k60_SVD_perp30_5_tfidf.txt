@@ -1,0 +1,2940 @@
+42	chemical	carminic acid	17	2	25.11106133023426
+42	chemical	Carmine	12	2	17.725455056635948
+42	chemical	Uric Acid	4	2	5.9084850188786495
+42	chemical	maleate(2-)	5	8	4.3753063169585005
+42	chemical	RNA, Ribosomal, 18S	2	1	3.5563025007672873
+42	organism	Spiroplasma	13	1	23.115966254987367
+42	organism	Hemiptera	12	1	21.337815004603723
+42	organism	Spiroplasma poulsonii	6	1	10.668907502301861
+42	organism	Drosophila puberula	6	2	8.862727528317974
+42	organism	Scaptomyza undulata	6	2	8.862727528317974
+42	sequence	rRNA_18S	2	1	3.5563025007672873
+42	sequence	rRNA	3	8	2.6251837901751003
+42	sequence	rRNA_gene	3	15	1.806179973983887
+42	sequence	amino_acid	6	32	1.638007632382426
+42	sequence	chromosomal_deletion	2	10	1.5563025007672873
+42	organ/tissue	hemolymph	5	1	8.890756251918218
+42	organ/tissue	scale	11	11	8.104344217479605
+42	organ/tissue	ovary	4	1	7.1126050015345745
+42	organ/tissue	early embryo	3	1	5.334453751150931
+42	organ/tissue	male organism	5	8	4.3753063169585005
+42	clinical_drug	Cochineal	11	2	16.248333801916285
+42	clinical_drug	Nitrogen	11	36	2.4403362457799203
+42	clinical_drug	Carminic Acid	1	2	1.4771212547196624
+42	clinical_drug	Riboflavin	1	4	1.1760912590556813
+42	clinical_drug	Brown Rice	1	9	0.8239087409443188
+42	biological_process	depurination	3	1	5.334453751150931
+42	biological_process	symbiotic process benefiting host	3	1	5.334453751150931
+42	biological_process	reproduction	1	2	1.4771212547196624
+42	biological_process	asexual reproduction	1	2	1.4771212547196624
+42	biological_process	metabolic process	3	22	1.3071857086843122
+42	cellular_component	ribosome	1	7	0.9330532103693868
+42	cellular_component	obsolete protein	1	47	0.10605339244792619
+42	disease	Disease Susceptibility	6	7	5.598319262216321
+42	disease	Feminization	2	1	3.5563025007672873
+42	disease	Embryo Loss	2	1	3.5563025007672873
+42	disease	Malnutrition	2	2	2.9542425094393248
+42	disease	Anodontia	1	1	1.7781512503836436
+42	gene/protein	Uricase	50	3	65.05149978319906
+42	gene/protein	Serum amyloid P-component	16	3	20.8164799306237
+42	gene/protein	Wiskott-Aldrich syndrome protein	8	2	11.816970037757299
+42	gene/protein	Streptopain	14	17	7.667832606075175
+42	gene/protein	Axin	4	1	7.1126050015345745
+42	molecular_function	urate oxidase activity	2	1	3.5563025007672873
+42	molecular_function	obsolete signal peptide peptidase activity	2	17	1.0954046580107393
+42	molecular_process	chain reaction	1	6	1.0
+42	molecular_process	acetylene reduction	1	9	0.8239087409443188
+42	cell_line	12S	1	1	1.7781512503836436
+14	chemical	norspermidine	26	2	38.40515262271122
+14	chemical	bis(3-aminopropyl)amine	13	2	19.20257631135561
+14	chemical	bis(3-azaniumylpropyl)azanium	13	2	19.20257631135561
+14	chemical	bis(3',5')-cyclic diguanylic acid	8	3	10.40823996531185
+14	chemical	Spermidine	6	2	8.862727528317974
+14	gene/protein	Hemagglutinin	209	1	371.6336113301815
+14	gene/protein	Outer capsid protein VP4	68	1	120.91428502608777
+14	gene/protein	Flagellin	68	3	88.47003970515073
+14	gene/protein	L-tyrosine decarboxylase	20	1	35.56302500767287
+14	gene/protein	Formate acetyltransferase	17	1	30.228571256521942
+14	organism	Medicago sativa	10	13	6.642078980768068
+14	organism	Staphylococcus epidermidis	4	2	5.9084850188786495
+14	organism	Bacillus velezensis	2	1	3.5563025007672873
+14	organism	Mangifera indica	2	1	3.5563025007672873
+14	organism	Mangifera	2	1	3.5563025007672873
+14	sequence	assembly	5	9	4.119543704721594
+14	sequence	transition	3	13	1.9926236942304203
+14	sequence	translocation	1	4	1.1760912590556813
+14	sequence	transit_peptide	3	27	1.040362458673969
+14	sequence	signal_peptide	3	27	1.040362458673969
+14	cell_line	BCIRL-TcA-CLG1	4	4	4.704365036222725
+14	cell_line	SCLC-24H	1	4	1.1760912590556813
+14	cell_line	HBM-Noda	1	9	0.8239087409443188
+14	organ/tissue	extrapyramidal tract system	4	2	5.9084850188786495
+14	organ/tissue	basal communicating artery	1	1	1.7781512503836436
+14	organ/tissue	conjunctiva	1	1	1.7781512503836436
+14	organ/tissue	lens of camera-type eye	1	1	1.7781512503836436
+14	organ/tissue	transparent eye structure	1	1	1.7781512503836436
+14	clinical_drug	Lactate	3	2	4.431363764158987
+14	clinical_drug	Mangifera indica allergenic extract	2	1	3.5563025007672873
+14	clinical_drug	mangifera indica (mango) fruit extract	2	1	3.5563025007672873
+14	clinical_drug	Medicago sativa whole extract	5	13	3.321039490384034
+14	clinical_drug	Captan	1	1	1.7781512503836436
+14	biological_process	biofilm formation	19	5	20.504443674904874
+14	biological_process	tricarboxylic acid cycle	4	7	3.7322128414775473
+14	biological_process	glycolytic process	2	5	2.1583624920952498
+14	biological_process	obsolete virulence	4	19	1.9975905977232586
+14	biological_process	behavior	2	7	1.8661064207387736
+14	cellular_component	obsolete flagellum	6	3	7.8061799739838875
+14	cellular_component	cilium	6	3	7.8061799739838875
+14	cellular_component	cell surface	2	5	2.1583624920952498
+14	cellular_component	extracellular region	2	11	1.4735171304508372
+14	cellular_component	pilus	1	4	1.1760912590556813
+14	disease	Meier-Gorlin syndrome	4	2	5.9084850188786495
+14	disease	Coinfection	4	3	5.204119982655925
+14	disease	Eye Infections	2	1	3.5563025007672873
+14	disease	Disease	4	15	2.4082399653118496
+14	disease	Cholera	2	5	2.1583624920952498
+14	molecular_process	oxidation	1	10	0.7781512503836436
+14	molecular_process	reduction	1	17	0.5477023290053696
+14	molecular_function	ligase activity	1	2	1.4771212547196624
+14	molecular_function	5-(carboxyamino)imidazole ribonucleotide mutase activity	1	4	1.1760912590556813
+1	biological_process	transcription, DNA-templated	31	27	10.750412072964346
+1	biological_process	biological regulation	30	34	7.400170000241655
+1	biological_process	gene expression	8	27	2.7742998897972506
+1	biological_process	animal organ development	2	3	2.6020599913279625
+1	biological_process	cellular process	2	6	2.0
+1	chemical	Sigma Factor	6	6	6.0
+1	chemical	cellodextrin	3	1	5.334453751150931
+1	chemical	Tris(1-aziridinyl)phosphine oxide	3	2	4.431363764158987
+1	chemical	ampicilloyl group	3	2	4.431363764158987
+1	chemical	Deoxycholic Acid	2	2	2.9542425094393248
+1	gene/protein	Ferredoxin--NADP reductase	173	2	255.5419770665016
+1	gene/protein	Importin subunit beta-2	22	2	32.49666760383257
+1	gene/protein	RNA polymerase sigma factor RpoD	35	8	30.627144218709503
+1	gene/protein	Transcription factor AP-2-alpha	15	2	22.156818820794935
+1	gene/protein	Endoglucanase	19	5	20.504443674904874
+1	sequence	regulon	8	11	5.894068521803349
+1	sequence	promoter	14	23	5.82992780112471
+1	sequence	polypeptide_conserved_motif	6	14	3.792139288232433
+1	sequence	polypeptide_motif	6	14	3.792139288232433
+1	sequence	sequence_variant_obs	5	25	1.90105620855803
+1	organism	Escherichia coli	49	30	14.750469787535078
+1	organism	Bacillus subtilis	12	7	11.196638524432641
+1	organism	Enterohemorrhagic Escherichia coli	6	2	8.862727528317974
+1	organism	Corynebacterium glutamicum	4	2	5.9084850188786495
+1	organism	Escherichia coli K12	6	12	4.193820026016113
+1	organ/tissue	terminal nerve	11	2	16.248333801916285
+1	organ/tissue	vertebral bone 1	8	2	11.816970037757299
+1	organ/tissue	multicellular organism	32	36	7.099159987723405
+1	organ/tissue	nervous system cell part layer	5	6	5.0
+1	organ/tissue	cell layer	5	7	4.665266051846934
+1	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	21	13	13.948365859612943
+1	molecular_function	porin activity	2	6	2.0
+1	molecular_function	DNA binding	1	6	1.0
+1	molecular_function	binding	2	19	0.9987952988616293
+1	molecular_function	catalytic activity	1	11	0.7367585652254186
+1	disease	Tuberculosis	4	4	4.704365036222725
+1	disease	Hemolytic-Uremic Syndrome	2	1	3.5563025007672873
+1	disease	Infections	6	22	2.6143714173686243
+1	disease	Disease Attributes	2	7	1.8661064207387736
+1	clinical_drug	Bacillus subtilis	6	7	5.598319262216321
+1	clinical_drug	Deoxycholate	1	2	1.4771212547196624
+1	clinical_drug	Dextrose, Unspecified Form	2	13	1.3284157961536136
+1	clinical_drug	Arginine	1	4	1.1760912590556813
+1	clinical_drug	Iron	1	11	0.7367585652254186
+1	molecular_process	coordination	2	3	2.6020599913279625
+1	cell_line	K12 [Mouse osteosarcoma]	7	12	4.892790030352132
+1	cell_line	K12-72.1	7	12	4.892790030352132
+1	cell_line	CRO-AP2	3	2	4.431363764158987
+1	cell_line	AP2	3	2	4.431363764158987
+1	cell_line	SPACH	1	1	1.7781512503836436
+1	entity_type	preferred_term	10	25	3.80211241711606
+1	cellular_component	obsolete HA2 clathrin adaptor	3	2	4.431363764158987
+1	cellular_component	viral nucleocapsid	5	20	2.385606273598312
+1	cellular_component	cell projection	2	7	1.8661064207387736
+1	cellular_component	outer membrane	1	6	1.0
+1	cellular_component	chromosome	2	28	0.6619864380828488
+1	cell	basal cell	1	1	1.7781512503836436
+18	biological_process	pantothenate biosynthetic process	2	1	3.5563025007672873
+18	biological_process	conjugation	3	7	2.7991596311081604
+18	biological_process	obsolete virulence	5	19	2.496988247154073
+18	biological_process	viral process	5	21	2.279659778248622
+18	biological_process	pathogenesis	5	22	2.1786428478071866
+18	chemical	phencyclidine	6	1	10.668907502301861
+18	chemical	pantothenate	5	1	8.890756251918218
+18	chemical	(R)-pantothenate	5	1	8.890756251918218
+18	chemical	pentachlorophenol	6	2	8.862727528317974
+18	chemical	Anti-Bacterial Agents	14	16	8.036437748188064
+18	gene/protein	3-methyl-2-oxobutanoate hydroxymethyltransferase	549	1	976.2050364606204
+18	gene/protein	Biosynthetic arginine decarboxylase	90	2	132.9409129247696
+18	gene/protein	Replication-associated protein	40	3	52.04119982655925
+18	gene/protein	Prolactin	40	4	47.043650362227254
+18	gene/protein	Probable acetoacetate decarboxylase	25	2	36.92803136799156
+18	organism	unidentified plasmid	70	33	18.174611735402927
+18	organism	Aeromonas caviae	4	1	7.1126050015345745
+18	organism	Rhizobium etli	10	34	2.466723333413885
+18	organism	human gut metagenome	1	1	1.7781512503836436
+18	organism	Pseudomonas aeruginosa	2	10	1.5563025007672873
+18	sequence	plasmid	71	33	18.434249045908683
+18	sequence	replicon	4	9	3.295634963777275
+18	sequence	chromosome	8	28	2.6479457523313954
+18	sequence	orthologous	3	8	2.6251837901751003
+18	sequence	transposable_element	2	8	1.7501225267834002
+18	organ/tissue	capsule	2	2	2.9542425094393248
+18	organ/tissue	septum	1	1	1.7781512503836436
+18	organ/tissue	septum of telencephalon	1	1	1.7781512503836436
+18	organ/tissue	lower digestive tract	1	5	1.0791812460476249
+18	organ/tissue	digestive system	1	5	1.0791812460476249
+18	molecular_process	reduction	3	17	1.6431069870161088
+18	cell_line	1B3	2	1	3.5563025007672873
+18	cell_line	P5E2-2F7-1B3	2	1	3.5563025007672873
+18	cell_line	CRISPRi Gen1B 3	2	1	3.5563025007672873
+18	cell_line	CRISPRi Gen1B 1	2	2	2.9542425094393248
+18	cell_line	TEM	1	1	1.7781512503836436
+18	cellular_component	capsule	2	2	2.9542425094393248
+18	cellular_component	chromosome	8	28	2.6479457523313954
+18	cellular_component	tetraspanin-enriched microdomain	1	1	1.7781512503836436
+18	cellular_component	cell septum	1	1	1.7781512503836436
+18	cellular_component	central element	1	2	1.4771212547196624
+18	disease	Menkes Kinky Hair Syndrome	4	1	7.1126050015345745
+18	disease	Infections	2	22	0.8714571391228747
+18	molecular_function	obsolete serine-type Pro-X carboxypeptidase activity	6	1	10.668907502301861
+18	molecular_function	peptidyl carrier protein activity	6	1	10.668907502301861
+18	molecular_function	Rab GTPase binding	1	3	1.3010299956639813
+18	molecular_function	triplet codon-amino acid adaptor activity	1	5	1.0791812460476249
+18	molecular_function	electron transporter, transferring electrons within the noncyclic electron transport pathway of photosynthesis activity	1	6	1.0
+18	clinical_drug	pantothenate	5	1	8.890756251918218
+18	clinical_drug	Histidine	1	2	1.4771212547196624
+18	clinical_drug	Thiamine	1	4	1.1760912590556813
+18	clinical_drug	Asparagine	1	4	1.1760912590556813
+18	clinical_drug	Fructose	1	4	1.1760912590556813
+18	entity_type	preferred_term	2	25	0.7604224834232121
+50	biological_process	biofilm formation	10	5	10.79181246047625
+50	biological_process	defense response	6	6	6.0
+50	biological_process	signaling	7	14	4.424162502937839
+50	biological_process	cellular respiration	4	6	4.0
+50	biological_process	respiratory gaseous exchange by respiratory system	4	6	4.0
+50	cellular_component	dystrophin-associated glycoprotein complex	10	1	17.781512503836435
+50	cellular_component	extracellular region	6	11	4.420551391352512
+50	cellular_component	phagophore assembly site	2	3	2.6020599913279625
+50	cellular_component	cell wall	2	5	2.1583624920952498
+50	cellular_component	biofilm matrix	1	1	1.7781512503836436
+50	chemical	bis(3',5')-cyclic diguanylic acid	64	3	83.2659197224948
+50	chemical	Alginates	40	1	71.12605001534574
+50	chemical	c-di-GMP	32	3	41.6329598612474
+50	chemical	alginic acid	20	1	35.56302500767287
+50	chemical	alginate	20	1	35.56302500767287
+50	disease	Pyridoxine-dependent epilepsy	6	1	10.668907502301861
+50	disease	Cysts	8	3	10.40823996531185
+50	disease	Malaria	4	1	7.1126050015345745
+50	disease	Growth Hormone-Secreting Pituitary Adenoma	4	2	5.9084850188786495
+50	disease	Infections	10	22	4.357285695614373
+50	gene/protein	Glutamate--cysteine ligase	238	1	423.1999975913072
+50	gene/protein	Probable diguanylate cyclase DgcQ	100	1	177.81512503836436
+50	gene/protein	Diguanylate cyclase DosC	60	1	106.68907502301862
+50	gene/protein	Flavohemoprotein	86	14	54.35399646466488
+50	gene/protein	Glucose-6-phosphate isomerase	45	4	52.92410665750566
+50	organism	Edible Grain	9	6	9.0
+50	organism	Oryza sativa	9	9	7.415178668498869
+50	organism	Oryza	9	9	7.415178668498869
+50	organism	Medicago sativa	10	13	6.642078980768068
+50	organism	Triticum aestivum	3	1	5.334453751150931
+50	sequence	transgenic	3	5	3.2375437381428744
+50	sequence	miRNA	3	7	2.7991596311081604
+50	sequence	MITE	1	1	1.7781512503836436
+50	sequence	promoter	4	23	1.665693657464203
+50	sequence	intermediate	3	17	1.6431069870161088
+50	organ/tissue	eponychium	3	2	4.431363764158987
+50	organ/tissue	chitin-based cuticle	3	2	4.431363764158987
+50	organ/tissue	cuticle	3	2	4.431363764158987
+50	organ/tissue	tissue	6	19	2.996385896584888
+50	organ/tissue	brain	2	3	2.6020599913279625
+50	molecular_function	3',5'-cyclic-nucleotide phosphodiesterase activity	6	1	10.668907502301861
+50	molecular_function	phosphoric diester hydrolase activity	6	2	8.862727528317974
+50	molecular_function	obsolete expansin	1	1	1.7781512503836436
+50	molecular_function	obsolete cytochrome P450	1	1	1.7781512503836436
+50	molecular_function	oxygen binding	1	1	1.7781512503836436
+50	cell	granulocyte monocyte progenitor cell	2	1	3.5563025007672873
+50	molecular_process	polymerisation	1	1	1.7781512503836436
+50	molecular_process	glycosylation	1	2	1.4771212547196624
+50	molecular_process	hydroxylation	1	3	1.3010299956639813
+50	molecular_process	methylation	1	5	1.0791812460476249
+50	clinical_drug	Brown Rice	8	9	6.59126992755455
+50	clinical_drug	Wheat preparation	3	1	5.334453751150931
+50	clinical_drug	whole wheat allergenic extract	3	1	5.334453751150931
+50	clinical_drug	Riboflavin	3	4	3.528273777167044
+50	clinical_drug	Salicylic Acid	2	3	2.6020599913279625
+50	cell_line	ASE	1	1	1.7781512503836436
+59	biological_process	glyoxylate cycle	3	2	4.431363764158987
+59	biological_process	symbiotic process	15	31	4.301843348240564
+59	biological_process	defense response	4	6	4.0
+59	biological_process	acetate metabolic process	2	1	3.5563025007672873
+59	biological_process	obsolete mutagenesis	6	16	3.444187606366313
+59	cellular_component	subrhabdomeral cisterna	12	7	11.196638524432641
+59	cellular_component	hydrogenosome	1	1	1.7781512503836436
+59	cellular_component	plant-type cell wall	1	2	1.4771212547196624
+59	cellular_component	phagophore assembly site	1	3	1.3010299956639813
+59	cellular_component	membrane	2	16	1.1480625354554377
+59	chemical	cutin	18	2	26.588182584953923
+59	chemical	Oxidoreductases	33	11	24.313032652438814
+59	chemical	heme a	12	1	21.337815004603723
+59	chemical	nucleoside 5'-monophosphate	12	1	21.337815004603723
+59	chemical	N-methylpyrrolidin-2-one	12	1	21.337815004603723
+59	disease	Smith-McCort Dysplasia	12	7	11.196638524432641
+59	disease	FEBRILE SEIZURES, FAMILIAL, 8	6	1	10.668907502301861
+59	disease	Meier-Gorlin syndrome	7	2	10.339848783037636
+59	disease	Van der Woude syndrome	8	4	9.40873007244545
+59	disease	Glutaric Acidemia I	3	1	5.334453751150931
+59	gene/protein	Heme A synthase	316	1	561.8957951212313
+59	gene/protein	Citrate synthase	260	5	280.58712397238247
+59	gene/protein	Glutamine synthetase	245	11	180.50584848022757
+59	gene/protein	Cytochrome c	121	2	178.73167182107915
+59	gene/protein	Isocitrate lyase	135	3	175.63904941463747
+59	sequence	insertion	17	14	10.744394649991895
+59	sequence	sequence_variant_obs	17	25	6.463591109097303
+59	sequence	ORF	9	16	5.16628140954947
+59	sequence	double	8	14	5.0561857176432445
+59	sequence	transposable_element	5	8	4.3753063169585005
+59	organ/tissue	pharyngeal arch artery 3	8	1	14.225210003069149
+59	organ/tissue	extrapyramidal tract system	7	2	10.339848783037636
+59	organ/tissue	cerebellum vermis lobule X	34	36	7.542857486956118
+59	organ/tissue	germinal center	34	36	7.542857486956118
+59	organ/tissue	eponychium	3	2	4.431363764158987
+59	clinical_drug	Acetate	9	4	10.584821331501132
+59	clinical_drug	Oxygen	12	14	7.584278576464866
+59	clinical_drug	Ethanol	5	4	5.880456295278407
+59	clinical_drug	Ornithine	4	6	4.0
+59	clinical_drug	Acacia	4	6	4.0
+59	molecular_function	electron transporter, transferring electrons within the noncyclic electron transport pathway of photosynthesis activity	19	6	19.0
+59	molecular_function	electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity	19	6	19.0
+59	molecular_function	electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity	19	6	19.0
+59	molecular_function	electron transporter, transferring electrons within cytochrome c oxidase complex activity	19	6	19.0
+59	molecular_function	obsolete cytochrome	19	6	19.0
+59	organism	Avian avulavirus 1	6	1	10.668907502301861
+59	organism	Rhizobium tropici	14	15	8.428839878591473
+59	organism	Pseudomonas putida	4	1	7.1126050015345745
+59	organism	Avian myeloblastosis-associated virus	4	1	7.1126050015345745
+59	organism	Plantago princeps	6	4	7.056547554334088
+59	cell_line	COX	14	1	24.89411750537101
+59	cell_line	BTI-Tn-5B1-4	17	9	14.006448596053419
+59	cell_line	PCC4-Azal-ECA2	6	1	10.668907502301861
+59	cell_line	cE2	3	1	5.334453751150931
+59	cell_line	SNA-BLL	3	1	5.334453751150931
+59	molecular_process	deamination	2	1	3.5563025007672873
+59	molecular_process	demethylation	1	1	1.7781512503836436
+59	molecular_process	halogenation	1	1	1.7781512503836436
+59	molecular_process	reduction	3	17	1.6431069870161088
+59	molecular_process	acetylene reduction	1	9	0.8239087409443188
+59	entity_type	preferred_term	2	25	0.7604224834232121
+59	cell	band form neutrophil	3	2	4.431363764158987
+22	biological_process	sex determination	11	1	19.55966375422008
+22	biological_process	G1 to G0 transition	10	3	13.010299956639813
+22	biological_process	single-celled organism vegetative growth phase	10	3	13.010299956639813
+22	biological_process	chemotaxis	7	3	9.107209969647869
+22	biological_process	export across plasma membrane	6	7	5.598319262216321
+22	cellular_component	subrhabdomeral cisterna	12	7	11.196638524432641
+22	cellular_component	NADH dehydrogenase complex	6	3	7.8061799739838875
+22	cellular_component	horsetail-astral microtubule array	4	1	7.1126050015345745
+22	cellular_component	B cell receptor complex	6	5	6.475087476285749
+22	cellular_component	immunoglobulin complex, circulating	6	5	6.475087476285749
+22	chemical	fatty acid	29	8	25.376776638359303
+22	chemical	Hemin	12	1	21.337815004603723
+22	chemical	RNA, Circular	11	1	19.55966375422008
+22	chemical	Pregnenolone Carbonitrile	10	1	17.781512503836435
+22	chemical	Calcium Carbonate	10	1	17.781512503836435
+22	disease	Disease	50	15	30.10299956639812
+22	disease	Cysts	12	3	15.612359947967775
+22	disease	Infections	34	22	14.81477136508887
+22	disease	Dengue	8	1	14.225210003069149
+22	disease	Smith-McCort Dysplasia	12	7	11.196638524432641
+22	gene/protein	Phosphoglycolate phosphatase	264	3	343.47191885529105
+22	gene/protein	TATA-box-binding protein	185	1	328.95798132097406
+22	gene/protein	Non-structural protein 1	159	1	282.7260488109993
+22	gene/protein	Isocitrate lyase	180	3	234.18539921951663
+22	gene/protein	Somatotropin	91	1	161.81176378491156
+22	molecular_function	serine C-palmitoyltransferase activity	5	1	8.890756251918218
+22	molecular_function	serine-pyruvate transaminase activity	4	1	7.1126050015345745
+22	molecular_function	antigen binding	6	6	6.0
+22	molecular_function	phosphoglycerate mutase activity	3	1	5.334453751150931
+22	molecular_function	obsolete signal peptide peptidase activity	7	17	3.8339163030375873
+22	organism	Wolbachia	20	2	29.54242509439325
+22	organism	Cucumber necrosis virus	20	2	29.54242509439325
+22	organism	Macaca mulatta	10	1	17.781512503836435
+22	organism	Humans	39	24	15.519660338209466
+22	organism	Zea mays	23	14	14.536533938224329
+22	organ/tissue	integument	24	3	31.22471989593555
+22	organ/tissue	zone of skin	24	3	31.22471989593555
+22	organ/tissue	skin of body	24	3	31.22471989593555
+22	organ/tissue	skin epidermis	26	4	30.578372735447715
+22	organ/tissue	concurrent branch afferent branchial artery	6	1	10.668907502301861
+22	clinical_drug	Hemin	6	1	10.668907502301861
+22	clinical_drug	Yeast, Unspecified	12	15	7.224719895935548
+22	clinical_drug	potato allergenic extract	5	3	6.505149978319906
+22	clinical_drug	Persea gratissima allergenic extract	3	1	5.334453751150931
+22	clinical_drug	Acetate	4	4	4.704365036222725
+22	sequence	copy_number_variation	21	2	31.01954634911291
+22	sequence	delins	8	1	14.225210003069149
+22	sequence	intergenic_region	9	3	11.709269960975831
+22	sequence	rRNA_gene	17	15	10.23501985257536
+22	sequence	PCB	6	2	8.862727528317974
+22	cell_line	LRD	11	1	19.55966375422008
+22	cell_line	Frog-HSA	6	1	10.668907502301861
+22	cell_line	CCB	6	1	10.668907502301861
+22	cell_line	CSH	6	1	10.668907502301861
+22	cell_line	SLE005	5	1	8.890756251918218
+22	molecular_process	hydrolysis	2	4	2.3521825181113627
+22	molecular_process	methylation	2	5	2.1583624920952498
+22	molecular_process	cyclization	1	1	1.7781512503836436
+22	molecular_process	reduction	3	17	1.6431069870161088
+22	molecular_process	oxidation	1	10	0.7781512503836436
+22	cell	basophil progenitor cell	5	1	8.890756251918218
+22	cell	male gamete	5	1	8.890756251918218
+22	cell	sperm	3	2	4.431363764158987
+22	cell	female gamete	2	1	3.5563025007672873
+22	cell	enterocyte	1	1	1.7781512503836436
+22	entity_type	preferred_term	6	25	2.2812674502696364
+38	chemical	MicroRNAs	25	7	23.32633025923467
+38	chemical	altrose	7	1	12.447058752685505
+38	chemical	argipressin	7	1	12.447058752685505
+38	chemical	vasopressin	7	1	12.447058752685505
+38	chemical	Aluminum	8	2	11.816970037757299
+38	organ/tissue	crop	12	16	6.888375212732626
+38	organ/tissue	primitive knot	5	5	5.395906230238125
+38	organ/tissue	cerebellum vermis lobule X	24	36	5.324369990792554
+38	organ/tissue	germinal center	24	36	5.324369990792554
+38	organ/tissue	exudate	5	8	4.3753063169585005
+38	biological_process	nodulation	14	29	4.420545534785626
+38	biological_process	catabolic process	6	16	3.444187606366313
+38	biological_process	signal transduction	5	14	3.160116073527028
+38	biological_process	signaling	5	14	3.160116073527028
+38	biological_process	transcription, DNA-templated	9	27	3.121087376021907
+38	cellular_component	nascent polypeptide-associated complex	1	1	1.7781512503836436
+38	cellular_component	obsolete HA2 clathrin adaptor	1	2	1.4771212547196624
+38	cellular_component	intracellular	2	15	1.2041199826559248
+38	cellular_component	root hair	1	4	1.1760912590556813
+38	cellular_component	outer membrane	1	6	1.0
+38	disease	Starvation	12	4	14.113095108668176
+38	disease	DIARRHEA 8, SECRETORY SODIUM, CONGENITAL	7	1	12.447058752685505
+38	disease	Diarrhea 3, Secretory Sodium, Congenital	7	1	12.447058752685505
+38	disease	Amyotrophic Lateral Sclerosis 3	5	1	8.890756251918218
+38	disease	Tropical Calcific Pancreatitis	5	2	7.385606273598312
+38	gene/protein	E3 ubiquitin-protein ligase MYLIP	228	5	246.05332409885847
+38	gene/protein	Flavohemoprotein	215	14	135.88499116166219
+38	gene/protein	Cysteine desulfurase	58	1	103.13277252225133
+38	gene/protein	Alcohol dehydrogenase 1	56	1	99.57647002148404
+38	gene/protein	Superoxide dismutase [Cu-Zn]	40	1	71.12605001534574
+38	molecular_function	L-alanine:2-oxoglutarate aminotransferase activity	7	1	12.447058752685505
+38	molecular_function	alanopine dehydrogenase activity	7	1	12.447058752685505
+38	molecular_function	alcohol dehydrogenase (NAD+) activity	7	1	12.447058752685505
+38	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	6	13	3.9852473884608406
+38	molecular_function	protein tag	2	1	3.5563025007672873
+38	organism	Zea mays	18	14	11.3764178646973
+38	organism	Phaseolus	20	25	7.60422483423212
+38	organism	Fabaceae	22	30	6.622659904607587
+38	organism	Seedlings	4	4	4.704365036222725
+38	organism	Arabidopsis	6	10	4.668907502301861
+38	sequence	miRNA	22	7	20.52717062812651
+38	sequence	chromosomal_deletion	10	10	7.781512503836437
+38	sequence	genotype	10	16	5.740312677277188
+38	sequence	foreign_gene	2	1	3.5563025007672873
+38	sequence	transcript	6	17	3.2862139740322176
+38	cell_line	R1192	65	30	19.566949718158778
+38	cell_line	ALT	7	1	12.447058752685505
+38	cell_line	SZ-ALS3	5	1	8.890756251918218
+38	cell_line	UUIGPi005-A	1	1	1.7781512503836436
+38	cell_line	NAC	1	1	1.7781512503836436
+38	clinical_drug	Aluminum	4	2	5.9084850188786495
+38	clinical_drug	FERULIC ACID	2	1	3.5563025007672873
+38	clinical_drug	Soybean preparation	3	13	1.9926236942304203
+38	clinical_drug	Soybean	3	13	1.9926236942304203
+38	clinical_drug	Pectin	1	1	1.7781512503836436
+38	molecular_process	oxidation	1	10	0.7781512503836436
+38	molecular_process	reduction	1	17	0.5477023290053696
+3	biological_process	post-translational protein modification	9	2	13.294091292476962
+3	biological_process	memory	5	1	8.890756251918218
+3	biological_process	translation	6	6	6.0
+3	biological_process	cell growth	6	8	5.250367580350201
+3	biological_process	obsolete virulence	9	19	4.494578844877332
+3	cellular_component	obsolete protein	100	47	10.605339244792619
+3	cellular_component	subrhabdomeral cisterna	8	7	7.464425682955095
+3	cellular_component	membrane	10	16	5.740312677277188
+3	cellular_component	chloroplast	5	5	5.395906230238125
+3	cellular_component	complex laminated body	3	1	5.334453751150931
+3	chemical	lambda Spi-1	26	1	46.23193250997473
+3	chemical	Arginine	38	4	44.69146784411589
+3	chemical	holo-[acyl-carrier protein]	23	1	40.8974787588238
+3	chemical	acyl-carrier protein	23	1	40.8974787588238
+3	chemical	Venoms	16	1	28.450420006138298
+3	gene/protein	Acyl carrier protein	10836	1	19268.046949157164
+3	gene/protein	Acetylglutamate kinase	564	1	1002.877305216375
+3	gene/protein	Acetylornithine deacetylase	504	1	896.1882301933564
+3	gene/protein	RNA pyrophosphohydrolase	326	2	481.54152903860995
+3	gene/protein	Insulin	324	2	478.5872865291706
+3	molecular_function	N-acetyl-gamma-aminoadipyl-phosphate reductase activity	16	1	28.450420006138298
+3	molecular_function	transporter activity	9	3	11.709269960975831
+3	molecular_function	arginase activity	4	1	7.1126050015345745
+3	molecular_function	obsolete insulin	4	2	5.9084850188786495
+3	molecular_function	water channel activity	3	1	5.334453751150931
+3	organism	Enterohemorrhagic Escherichia coli	9	2	13.294091292476962
+3	organism	Leiostomus xanthurus	11	4	12.937003849612495
+3	organism	Escherichia coli	42	30	12.64325981788721
+3	organism	Scorpions	10	4	11.760912590556813
+3	organism	Sinorhizobium meliloti	24	21	10.942366935593386
+3	sequence	arginine	20	5	21.5836249209525
+3	sequence	active_peptide	16	10	12.450420006138298
+3	sequence	polypeptide	99	49	8.707561865157867
+3	sequence	orthologous_region	9	11	6.630827087028767
+3	sequence	lysine	7	8	6.125428843741901
+3	cell	T cell	3	2	4.431363764158987
+3	cell	type I pneumocyte	2	1	3.5563025007672873
+3	cell	early lymphoid progenitor	1	1	1.7781512503836436
+3	cell	common lymphoid progenitor	1	1	1.7781512503836436
+3	cell	type II pneumocyte	1	1	1.7781512503836436
+3	organ/tissue	venom	11	1	19.55966375422008
+3	organ/tissue	melanophore spot	11	4	12.937003849612495
+3	organ/tissue	saliva	6	1	10.668907502301861
+3	organ/tissue	membrane organ	13	19	6.4921694426005905
+3	organ/tissue	membranous layer	13	19	6.4921694426005905
+3	molecular_process	acetylation	8	3	10.40823996531185
+3	molecular_process	reduction	6	17	3.2862139740322176
+3	molecular_process	acylation	1	2	1.4771212547196624
+3	molecular_process	oxidation	1	10	0.7781512503836436
+3	disease	Cerebral Palsy, Ataxic, Autosomal Recessive	20	1	35.56302500767287
+3	disease	Glioblastoma	14	1	24.89411750537101
+3	disease	Lipoprotein Glomerulopathy	7	1	12.447058752685505
+3	disease	Pulmonary Disease, Chronic Obstructive	6	2	8.862727528317974
+3	disease	Disease	14	15	8.428839878591473
+3	cell_line	SP1	18	3	23.418539921951663
+3	cell_line	MN-2	13	1	23.115966254987367
+3	cell_line	SMB	14	2	20.679697566075273
+3	cell_line	PB11	13	3	16.913389943631756
+3	cell_line	CHB	4	1	7.1126050015345745
+3	clinical_drug	Magnesium Cation	13	1	23.115966254987367
+3	clinical_drug	Arginine	19	4	22.345733922057946
+3	clinical_drug	Ornithine	9	6	9.0
+3	clinical_drug	Lysine	7	7	6.531372472585708
+3	clinical_drug	Calcium	3	3	3.9030899869919438
+3	entity_type	preferred_term	2	25	0.7604224834232121
+25	biological_process	nucleotide-excision repair	2	1	3.5563025007672873
+25	biological_process	behavior	2	7	1.8661064207387736
+25	biological_process	transcription, DNA-templated	5	27	1.7339374311232816
+25	biological_process	biological regulation	5	34	1.2333616667069425
+25	biological_process	immune response	1	6	1.0
+25	organism	Salmonella enterica	2	7	1.8661064207387736
+25	organism	Escherichia coli	6	30	1.806179973983887
+25	organism	Coronavirus	1	2	1.4771212547196624
+25	organism	Escherichia coli K12	2	12	1.3979400086720377
+25	organism	collection	3	21	1.3677958669491732
+25	chemical	nervonoyl group	2	1	3.5563025007672873
+25	chemical	Biological Products	2	1	3.5563025007672873
+25	chemical	Antigens	2	6	2.0
+25	chemical	nucleoside triphosphate	1	1	1.7781512503836436
+25	chemical	label	1	5	1.0791812460476249
+25	disease	COVID-19	5	1	8.890756251918218
+25	disease	Autoimmune Diseases	2	2	2.9542425094393248
+25	disease	Immune System Diseases	2	6	2.0
+25	gene/protein	Arabinose 5-phosphate isomerase KdsD	9	4	10.584821331501132
+25	gene/protein	Negative regulator of transcription	4	1	7.1126050015345745
+25	gene/protein	Arabinose 5-phosphate isomerase GutQ	6	4	7.056547554334088
+25	gene/protein	Keratin, type I cytoskeletal 12	8	12	5.591760034688151
+25	gene/protein	oxysterols receptor LXR-beta	2	1	3.5563025007672873
+25	sequence	polypeptide_domain	19	22	8.27884282166731
+25	sequence	tandem	1	6	1.0
+25	sequence	score	1	9	0.8239087409443188
+25	sequence	candidate_gene	1	12	0.6989700043360189
+25	sequence	double	1	14	0.6320232147054056
+25	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	2	13	1.3284157961536136
+25	molecular_function	DNA binding	1	6	1.0
+25	cell_line	K12 [Mouse osteosarcoma]	2	12	1.3979400086720377
+25	cell_line	K12-72.1	2	12	1.3979400086720377
+25	organ/tissue	imaginal disc-derived wing	1	1	1.7781512503836436
+25	organ/tissue	wing	1	1	1.7781512503836436
+25	organ/tissue	cauda epididymis	1	4	1.1760912590556813
+25	organ/tissue	corpus	1	4	1.1760912590556813
+25	organ/tissue	immune system	1	6	1.0
+25	cell	T cell	3	2	4.431363764158987
+25	cell	dendritic cell, human	2	3	2.6020599913279625
+25	cell	dendritic cell	2	3	2.6020599913279625
+25	entity_type	preferred_term	4	25	1.5208449668464241
+25	clinical_drug	TANDEM	1	9	0.8239087409443188
+25	cellular_component	obsolete protein	1	47	0.10605339244792619
+44	biological_process	cell division	4	4	4.704365036222725
+44	biological_process	carbohydrate metabolic process	3	4	3.528273777167044
+44	biological_process	metabolic process	7	22	3.0500999869300616
+44	biological_process	immune response	3	6	3.0
+44	biological_process	execution phase of apoptosis	2	3	2.6020599913279625
+44	cellular_component	vesicle	8	4	9.40873007244545
+44	cellular_component	obsolete importin, alpha-subunit transport factor	5	1	8.890756251918218
+44	cellular_component	polytene chromosome weak point	4	1	7.1126050015345745
+44	cellular_component	outer membrane	7	6	7.0
+44	cellular_component	periplasmic space	4	2	5.9084850188786495
+44	chemical	4',6-bis(2'imidazolinyl-4',5'-H)-2-phenylindole	24	1	42.675630009207445
+44	chemical	naringenin	15	5	16.187718690714373
+44	chemical	Proteome	14	9	11.534722373220463
+44	chemical	toxin	7	3	9.107209969647869
+44	chemical	Carbohydrates	8	8	7.000490107133601
+44	organism	Oat mosaic virus	30	1	53.34453751150931
+44	organism	Abelmoschus esculentus	5	1	8.890756251918218
+44	organism	Abelmoschus	5	1	8.890756251918218
+44	organism	Mus musculus	7	7	6.531372472585708
+44	organism	Mice	7	7	6.531372472585708
+44	sequence	polypeptide	33	49	2.9025206217192894
+44	sequence	nucleic_acid	2	3	2.6020599913279625
+44	sequence	active_peptide	3	10	2.3344537511509307
+44	sequence	cross_link	1	1	1.7781512503836436
+44	sequence	GNA	1	1	1.7781512503836436
+44	clinical_drug	Biotin	3	5	3.2375437381428744
+44	clinical_drug	Thiamine	2	4	2.3521825181113627
+44	clinical_drug	Lactic Acid, Unspecified Form	1	1	1.7781512503836436
+44	clinical_drug	Bexsero	1	1	1.7781512503836436
+44	clinical_drug	Trumenba	1	1	1.7781512503836436
+44	molecular_process	hydrolysis	1	4	1.1760912590556813
+44	disease	ASPLENIA, ISOLATED CONGENITAL	16	1	28.450420006138298
+44	disease	Apraxias	5	1	8.890756251918218
+44	disease	Cysticercosis	4	1	7.1126050015345745
+44	disease	Bone Marrow Diseases	2	1	3.5563025007672873
+44	disease	Infections	8	22	3.485828556491499
+44	gene/protein	ATP synthase subunit beta	1412	5	1523.8039194192463
+44	gene/protein	Nucleoside diphosphate kinase	670	1	1191.3613377570412
+44	gene/protein	Malate dehydrogenase	521	2	769.5801737089441
+44	gene/protein	Actin	122	1	216.93445254680452
+44	gene/protein	Flavohemoprotein	86	14	54.35399646466488
+44	molecular_function	porin activity	5	6	5.0
+44	molecular_function	obsolete hydrogen-translocating F-type ATPase activity	2	2	2.9542425094393248
+44	molecular_function	obsolete sodium-translocating F-type ATPase activity	2	2	2.9542425094393248
+44	molecular_function	peptidoglycan binding	1	1	1.7781512503836436
+44	molecular_function	superoxide dismutase activity	1	1	1.7781512503836436
+44	cell_line	UE6E7T-2	4	2	5.9084850188786495
+44	cell_line	TH1	3	1	5.334453751150931
+44	cell_line	TH-1	3	1	5.334453751150931
+44	cell_line	TH-1 subline B1	3	1	5.334453751150931
+44	cell_line	UE6E7T-1	3	1	5.334453751150931
+44	organ/tissue	callosal sulcus	5	1	8.890756251918218
+44	organ/tissue	membrane organ	10	19	4.993976494308146
+44	organ/tissue	membranous layer	10	19	4.993976494308146
+44	organ/tissue	larval stage	5	7	4.665266051846934
+44	organ/tissue	anatomical wall	4	5	4.3167249841904995
+44	entity_type	preferred_term	8	25	3.0416899336928482
+44	cell	CD14-positive monocyte	1	1	1.7781512503836436
+44	cell	monocyte	1	1	1.7781512503836436
+44	cell	peripheral blood mononuclear cell	1	2	1.4771212547196624
+44	cell	mononuclear cell	1	2	1.4771212547196624
+44	cell	lymphocyte	1	2	1.4771212547196624
+13	biological_process	methylation	22	5	23.74198741304775
+13	biological_process	phosphatidylcholine biosynthetic process	9	1	16.00336125345279
+13	biological_process	biosynthetic process	32	45	3.998039571465598
+13	biological_process	CDP-choline pathway	1	1	1.7781512503836436
+13	biological_process	phospholipid metabolic process	1	1	1.7781512503836436
+13	cellular_component	membrane	17	16	9.75853155137122
+13	cellular_component	cell envelope	3	2	4.431363764158987
+13	cellular_component	host cell	2	6	2.0
+13	cellular_component	cytoplasm	1	2	1.4771212547196624
+13	cellular_component	obsolete flagellum	1	3	1.3010299956639813
+13	chemical	Phosphatidylcholines	70	5	75.54268722333374
+13	chemical	Choline	58	3	75.45973974851091
+13	chemical	phosphatidylcholine	35	5	37.77134361166687
+13	chemical	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	35	5	37.77134361166687
+13	chemical	1,2-diacyl-sn-glycero-3-phosphocholine	35	5	37.77134361166687
+13	gene/protein	Phosphatidylcholine synthase	330	1	586.7899126266024
+13	gene/protein	CDP-diacylglycerol--serine O-phosphatidyltransferase	44	2	64.99333520766514
+13	gene/protein	phosphatidylcholine synthase	33	1	58.67899126266024
+13	gene/protein	Flagellin	34	3	44.23501985257536
+13	gene/protein	Dermonecrotic toxin	15	1	26.672268755754654
+13	molecular_function	phenol O-methyltransferase activity	15	1	26.672268755754654
+13	molecular_function	carnitine O-palmitoyltransferase activity	6	1	10.668907502301861
+13	molecular_function	diacylglycerol cholinephosphotransferase activity	6	1	10.668907502301861
+13	molecular_function	cytidylyltransferase activity	1	1	1.7781512503836436
+13	molecular_function	obsolete bacterial cell surface binding	1	1	1.7781512503836436
+13	organism	Legionella pneumophila	6	1	10.668907502301861
+13	organism	Brucella melitensis	6	3	7.8061799739838875
+13	organism	Bradyrhizobium sp. SEMIA 6144	4	1	7.1126050015345745
+13	organism	Eukaryota	13	19	6.4921694426005905
+13	organism	Sinorhizobium meliloti	14	21	6.3830473790961415
+13	sequence	wild_type	10	16	5.740312677277188
+13	sequence	enzymatic	7	14	4.424162502937839
+13	sequence	intermediate	6	17	3.2862139740322176
+13	sequence	transmembrane_helix	1	1	1.7781512503836436
+13	sequence	mutated_variant_site	3	16	1.7220938031831565
+13	cell_line	CMP	3	1	5.334453751150931
+13	cell_line	SfSWT-1	1	4	1.1760912590556813
+13	clinical_drug	Choline	32	3	41.6329598612474
+13	clinical_drug	Soybean preparation	3	13	1.9926236942304203
+13	clinical_drug	Soybean	3	13	1.9926236942304203
+13	clinical_drug	Align	1	2	1.4771212547196624
+13	clinical_drug	Manganese	1	3	1.3010299956639813
+13	organ/tissue	paracentral sulcus	11	1	19.55966375422008
+13	organ/tissue	posterior communicating artery	11	2	16.248333801916285
+13	organ/tissue	membrane organ	17	19	8.48976004032385
+13	organ/tissue	membranous layer	17	19	8.48976004032385
+13	organ/tissue	cerebellum vermis lobule X	10	36	2.218487496163564
+13	disease	PREMATURE CHROMATID SEPARATION TRAIT	11	1	19.55966375422008
+13	disease	Bulbo-Spinal Atrophy, X-Linked	2	1	3.5563025007672873
+13	disease	Influenza, Human	2	4	2.3521825181113627
+13	disease	Pneumonia	2	9	1.6478174818886375
+13	cell	common myeloid progenitor, CD34-positive	3	1	5.334453751150931
+13	cell	common myeloid progenitor	3	1	5.334453751150931
+13	cell	macrophage	2	1	3.5563025007672873
+13	molecular_process	methylation	22	5	23.74198741304775
+2	biological_process	metabolic process	14	22	6.100199973860123
+2	biological_process	transcription, DNA-templated	15	27	5.201812293369845
+2	biological_process	catabolic process	7	16	4.018218874094032
+2	biological_process	root development	3	3	3.9030899869919438
+2	biological_process	gene expression	11	27	3.8146623484712197
+2	cellular_component	symbiosome	3	1	5.334453751150931
+2	cellular_component	cell envelope	3	2	4.431363764158987
+2	cellular_component	efflux pump complex	3	3	3.9030899869919438
+2	cellular_component	membrane	6	16	3.444187606366313
+2	cellular_component	extracellular matrix	1	1	1.7781512503836436
+2	chemical	4-nitrophenol	13	1	23.115966254987367
+2	chemical	DNA, Complementary	14	5	15.108537444666748
+2	chemical	N-acylurea	10	3	13.010299956639813
+2	chemical	(+)-abscisic acid	7	1	12.447058752685505
+2	chemical	(-)-abscisic acid	7	1	12.447058752685505
+2	disease	Dehydration	12	3	15.612359947967775
+2	disease	Hemangioma, Cavernous, Central Nervous System	4	1	7.1126050015345745
+2	disease	Cataract, zonular	4	1	7.1126050015345745
+2	disease	COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	8	8	7.000490107133601
+2	disease	Infections	8	22	3.485828556491499
+2	gene/protein	Purine nucleoside phosphorylase DeoD-type	2444	1	4345.801655937625
+2	gene/protein	Oxygen-dependent choline dehydrogenase	936	1	1664.3495703590904
+2	gene/protein	NAD/NADP-dependent betaine aldehyde dehydrogenase	784	1	1394.0705803007766
+2	gene/protein	Calmodulin	510	1	906.8571376956583
+2	gene/protein	Trehalose-6-phosphate synthase	215	1	382.3025188324834
+2	organism	Rhizobium tropici	14	15	8.428839878591473
+2	organism	Oryza sativa	9	9	7.415178668498869
+2	organism	Oryza	9	9	7.415178668498869
+2	organism	Schizosaccharomyces	4	1	7.1126050015345745
+2	organism	Phaseolus	16	25	6.0833798673856965
+2	sequence	EST	17	2	25.11106133023426
+2	sequence	cDNA	10	5	10.79181246047625
+2	sequence	asparagine	8	4	9.40873007244545
+2	sequence	transcript	12	17	6.572427948064435
+2	sequence	tag	5	5	5.395906230238125
+2	organ/tissue	cerebellum vermis lobule X	77	36	17.08235372045944
+2	organ/tissue	germinal center	77	36	17.08235372045944
+2	organ/tissue	compound organ	4	5	4.3167249841904995
+2	organ/tissue	tissue	7	19	3.4957835460157027
+2	organ/tissue	proliferative region	4	9	3.295634963777275
+2	molecular_process	chain reaction	4	6	4.0
+2	molecular_process	hydrolysis	3	4	3.528273777167044
+2	molecular_process	reduction	4	17	2.1908093160214785
+2	molecular_process	alkylation	1	1	1.7781512503836436
+2	molecular_process	hydroxylation	1	3	1.3010299956639813
+2	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	10	13	6.642078980768068
+2	molecular_function	nitrogenase activity	6	9	4.943452445665913
+2	molecular_function	L-aspartate:2-oxoglutarate aminotransferase activity	2	2	2.9542425094393248
+2	molecular_function	damaged DNA binding	1	1	1.7781512503836436
+2	molecular_function	obsolete DNA repair protein	1	1	1.7781512503836436
+2	cell_line	R1192	38	30	11.439139835231286
+2	cell_line	1-7HB2	1	1	1.7781512503836436
+2	cell_line	HB2	1	1	1.7781512503836436
+2	cell_line	CE-3	2	11	1.4735171304508372
+2	cell_line	PAE-iPS-4	1	3	1.3010299956639813
+2	clinical_drug	Trehalose	8	3	10.40823996531185
+2	clinical_drug	Asparagine	8	4	9.40873007244545
+2	clinical_drug	Brown Rice	8	9	6.59126992755455
+2	clinical_drug	Sucrose	6	7	5.598319262216321
+2	clinical_drug	Betaine	3	1	5.334453751150931
+2	entity_type	preferred_term	2	25	0.7604224834232121
+26	biological_process	obsolete Gene_Ontology	2	6	2.0
+26	biological_process	respiratory electron transport chain	1	2	1.4771212547196624
+26	biological_process	transport	3	20	1.4313637641589874
+26	biological_process	DNA repair	1	4	1.1760912590556813
+26	biological_process	obsolete electron transport	1	4	1.1760912590556813
+26	chemical	magnesium atom	2	2	2.9542425094393248
+26	chemical	Proteins	2	3	2.6020599913279625
+26	chemical	picloram	10	35	2.3408320603336796
+26	chemical	Carrier Proteins	1	3	1.3010299956639813
+26	chemical	cofactor	1	8	0.8750612633917001
+26	gene/protein	Keratin, type I cytoskeletal 12	32	12	22.367040138752603
+26	gene/protein	secreted and transmembrane protein 1	8	12	5.591760034688151
+26	gene/protein	secreted and transmembrane protein 1 (human)	8	12	5.591760034688151
+26	gene/protein	secreted and transmembrane protein 1b	8	12	5.591760034688151
+26	gene/protein	keratin, type I cytoskeletal 12	8	12	5.591760034688151
+26	sequence	TF_binding_site	1	4	1.1760912590556813
+26	sequence	gap	1	7	0.9330532103693868
+26	sequence	operon	3	30	0.9030899869919435
+26	sequence	genome	12	51	0.8469728914284874
+26	sequence	circular	1	11	0.7367585652254186
+26	cell_line	K12 [Mouse osteosarcoma]	8	12	5.591760034688151
+26	cell_line	K12-72.1	8	12	5.591760034688151
+26	organ/tissue	webbed interdigital region	7	8	6.125428843741901
+26	organ/tissue	muscle structure	1	1	1.7781512503836436
+26	organ/tissue	multicellular organism	6	36	1.3310924976981384
+26	organism	Escherichia coli	40	30	12.041199826559248
+26	organism	Escherichia coli K12	7	12	4.892790030352132
+26	organism	Drosophila melanogaster	2	4	2.3521825181113627
+26	organism	Saccharomyces cerevisiae	2	12	1.3979400086720377
+26	organism	Mus musculus	1	7	0.9330532103693868
+26	cellular_component	protein-containing complex	1	2	1.4771212547196624
+26	cellular_component	obsolete protein	2	47	0.21210678489585238
+26	molecular_process	electron transfer	1	2	1.4771212547196624
+26	entity_type	preferred_term	6	25	2.2812674502696364
+26	clinical_drug	saccharomyces cerevisiae allergenic extract	1	12	0.6989700043360189
+26	clinical_drug	Saccharomyces cerevisiae	1	12	0.6989700043360189
+26	molecular_function	transcription factor binding	1	4	1.1760912590556813
+39	cellular_component	viral nucleocapsid	6	20	2.8627275283179747
+39	cellular_component	B cell receptor complex	1	5	1.0791812460476249
+39	cellular_component	immunoglobulin complex, circulating	1	5	1.0791812460476249
+39	cellular_component	immunoglobulin complex	1	5	1.0791812460476249
+39	cellular_component	host cell	1	6	1.0
+39	chemical	Albendazole	10	1	17.781512503836435
+39	chemical	Prodigiosin	8	1	14.225210003069149
+39	chemical	Ethanol	10	3	13.010299956639813
+39	chemical	Sodium Acetate	8	2	11.816970037757299
+39	chemical	albendazole	5	1	8.890756251918218
+39	disease	Bacteremia	6	1	10.668907502301861
+39	disease	Hematologic Neoplasms	4	1	7.1126050015345745
+39	disease	Disease Susceptibility	6	7	5.598319262216321
+39	disease	Infections	12	22	5.228742834737249
+39	disease	Disease	6	15	3.612359947967774
+39	gene/protein	Cytochrome c	121	2	178.73167182107915
+39	gene/protein	Urease	40	2	59.0848501887865
+39	gene/protein	Chitinase	15	3	19.51544993495972
+39	gene/protein	Cytochrome c'	13	2	19.20257631135561
+39	gene/protein	Major outer membrane protein P.IB	10	6	10.0
+39	organism	Acinetobacter baumannii	8	2	11.816970037757299
+39	organism	Bos taurus	5	2	7.385606273598312
+39	organism	Urodela	4	1	7.1126050015345745
+39	organism	Mycobacterium bovis	4	2	5.9084850188786495
+39	organism	Cattle	3	1	5.334453751150931
+39	sequence	SNP	5	7	4.665266051846934
+39	sequence	sequence_variant_obs	7	25	2.6614786919812423
+39	sequence	polypeptide_repeat	3	10	2.3344537511509307
+39	sequence	clone	5	22	2.1786428478071866
+39	sequence	genome	28	51	1.976270079999804
+39	cell_line	SNP	4	6	4.0
+39	cell_line	CC17	2	1	3.5563025007672873
+39	cell_line	NRG	1	1	1.7781512503836436
+39	cell_line	PB13	1	1	1.7781512503836436
+39	cell_line	USCi002-A	1	1	1.7781512503836436
+39	organ/tissue	kidney	1	1	1.7781512503836436
+39	organ/tissue	secretion of exocrine gland	2	8	1.7501225267834002
+39	organ/tissue	cuneiform nucleus	1	2	1.4771212547196624
+39	organ/tissue	supraspinal nucleus	1	2	1.4771212547196624
+39	organ/tissue	scale	2	11	1.4735171304508372
+39	biological_process	obsolete virulence	8	19	3.9951811954465173
+39	biological_process	viral process	8	21	3.647455645197795
+39	biological_process	pathogenesis	8	22	3.485828556491499
+39	biological_process	obsolete germination	2	4	2.3521825181113627
+39	biological_process	purine nucleobase metabolic process	1	1	1.7781512503836436
+39	molecular_function	retinol dehydrogenase activity	3	4	3.528273777167044
+39	molecular_function	antigen binding	2	6	2.0
+39	molecular_function	obsolete cytochrome c	1	2	1.4771212547196624
+39	molecular_function	porin activity	1	6	1.0
+39	molecular_function	electron transporter, transferring electrons from CoQH2-cytochrome c reductase complex and cytochrome c oxidase complex activity	1	7	0.9330532103693868
+39	clinical_drug	Albendazole	5	1	8.890756251918218
+39	clinical_drug	Sodium Acetate	4	2	5.9084850188786495
+39	clinical_drug	Ethanol	5	4	5.880456295278407
+39	clinical_drug	Acetate	4	4	4.704365036222725
+39	clinical_drug	tomato allergenic extract	4	6	4.0
+39	molecular_process	chain reaction	1	6	1.0
+39	cell	hepatocyte	1	2	1.4771212547196624
+34	biological_process	anaerobic respiration, using ammonium as electron donor	2	1	3.5563025007672873
+34	biological_process	secondary metabolic process	2	4	2.3521825181113627
+34	biological_process	immune response	2	6	2.0
+34	biological_process	biosynthetic process	16	45	1.999019785732799
+34	biological_process	membrane lipid biosynthetic process	1	1	1.7781512503836436
+34	cellular_component	membrane	41	16	23.535281976836472
+34	cellular_component	plasma membrane	3	6	3.0
+34	cellular_component	subrhabdomeral cisterna	3	7	2.7991596311081604
+34	cellular_component	anammoxosome	1	1	1.7781512503836436
+34	cellular_component	obsolete cell wall inner membrane	1	2	1.4771212547196624
+34	chemical	Lipid A	32	4	37.6349202897818
+34	chemical	lipid	62	16	35.58993859911857
+34	chemical	phosphatidylethanolamine	21	5	22.662806167000124
+34	chemical	lipid A(4-)	16	4	18.8174601448909
+34	chemical	lipid As	16	4	18.8174601448909
+34	gene/protein	8-amino-7-oxononanoate synthase	226	1	401.86218258670345
+34	gene/protein	Phosphoglycolate phosphatase	176	3	228.9812792368607
+34	gene/protein	DNA polymerase	72	2	106.3527303398157
+34	gene/protein	Cardiolipin synthase	57	1	101.35462127186769
+34	gene/protein	Phospholipase C	26	3	33.82677988726351
+34	molecular_function	phosphatase activity	6	4	7.056547554334088
+34	molecular_function	phosphatidylglycerol-phosphatidylethanolamine phosphatidyltransferase activity	3	1	5.334453751150931
+34	molecular_function	CDP-diacylglycerol-phosphatidylglycerol phosphatidyltransferase activity	3	1	5.334453751150931
+34	molecular_function	molecular_function	1	2	1.4771212547196624
+34	molecular_function	obsolete vesicle fusion	1	2	1.4771212547196624
+34	organism	Flavobacterium johnsoniae	4	1	7.1126050015345745
+34	organism	Bacillus toyonensis	4	1	7.1126050015345745
+34	organism	Streptomyces	4	3	5.204119982655925
+34	organism	Streptomyces coelicolor	4	3	5.204119982655925
+34	organism	Mycobacterium tuberculosis	2	1	3.5563025007672873
+34	sequence	lysine	4	8	3.5002450535668004
+34	sequence	transition	4	13	2.656831592307227
+34	sequence	alanine	2	4	2.3521825181113627
+34	sequence	arginine	2	5	2.1583624920952498
+34	sequence	mature_protein_region	3	13	1.9926236942304203
+34	organ/tissue	membrane organ	45	19	22.47289422438666
+34	organ/tissue	membranous layer	45	19	22.47289422438666
+34	organ/tissue	subcommissural organ	5	1	8.890756251918218
+34	organ/tissue	bodily fluid	1	1	1.7781512503836436
+34	organ/tissue	CA2 field of hippocampus	1	2	1.4771212547196624
+34	disease	Coffin-Lowry Syndrome	3	1	5.334453751150931
+34	disease	von Willebrand Diseases	2	1	3.5563025007672873
+34	disease	Smith-McCort Dysplasia	3	7	2.7991596311081604
+34	disease	Cysts	2	3	2.6020599913279625
+34	disease	Tuberculosis	2	4	2.3521825181113627
+34	clinical_drug	Lysine	4	7	3.7322128414775473
+34	clinical_drug	Glucosamine	2	2	2.9542425094393248
+34	clinical_drug	Alanine	2	4	2.3521825181113627
+34	clinical_drug	Arginine	2	4	2.3521825181113627
+34	clinical_drug	tomato allergenic extract	2	6	2.0
+34	cell_line	Scooter	5	1	8.890756251918218
+34	cell_line	USP-1	1	1	1.7781512503836436
+34	cell_line	MSHRIe002-A	1	2	1.4771212547196624
+34	molecular_process	deacylation	1	1	1.7781512503836436
+11	disease	Infections	8	22	3.485828556491499
+11	disease	Coinfection	2	3	2.6020599913279625
+11	disease	Disease Attributes	2	7	1.8661064207387736
+11	gene/protein	Glucose-6-phosphate isomerase	1722	4	2025.2291480938834
+11	gene/protein	Glucose-6-phosphate isomerase, cytosolic 1	21	3	27.321629908943606
+11	gene/protein	Probable glucose-6-phosphate isomerase	21	3	27.321629908943606
+11	gene/protein	Glucose-6-phosphate isomerase, cytosolic	18	3	23.418539921951663
+11	gene/protein	3-hexulose-6-phosphate isomerase	12	2	17.725455056635948
+11	organism	Bacteriophages	73	12	51.024810316529376
+11	organism	Bacteriophage sp.	7	4	8.23263881338977
+11	organism	Prophages	5	5	5.395906230238125
+11	organism	Acinetobacter baumannii	2	2	2.9542425094393248
+11	organism	Azospirillum	2	2	2.9542425094393248
+11	sequence	phage_sequence	73	13	48.487176559606894
+11	sequence	prophage	5	5	5.395906230238125
+11	sequence	ORF	6	16	3.444187606366313
+11	sequence	orphan	2	2	2.9542425094393248
+11	sequence	plasmid	8	33	2.077098484046049
+11	cell_line	PPM-Phi	3	2	4.431363764158987
+11	cell_line	K12 [Mouse osteosarcoma]	1	12	0.6989700043360189
+11	cell_line	K12-72.1	1	12	0.6989700043360189
+11	cell_line	R1192	2	30	0.6020599913279624
+11	chemical	arginyl-threonyl-prolyl-prolyl-prolyl-seryl-glycine	2	1	3.5563025007672873
+11	chemical	Guanine	2	1	3.5563025007672873
+11	chemical	Mitomycin	2	3	2.6020599913279625
+11	chemical	Sewage	2	4	2.3521825181113627
+11	chemical	Ribosomal Proteins	2	4	2.3521825181113627
+11	biological_process	anatomical structure morphogenesis	2	3	2.6020599913279625
+11	biological_process	DNA biosynthetic process	1	2	1.4771212547196624
+11	biological_process	cytolysis	1	4	1.1760912590556813
+11	biological_process	biosynthetic process	2	45	0.24987747321659987
+11	cell	eosinophil progenitor cell	2	1	3.5563025007672873
+11	organ/tissue	dental plaque	3	1	5.334453751150931
+11	organ/tissue	sclerite	1	5	1.0791812460476249
+11	organ/tissue	obsolete sclerite	1	5	1.0791812460476249
+11	organ/tissue	organ	3	36	0.6655462488490692
+11	cellular_component	viral nucleocapsid	4	20	1.9084850188786497
+11	cellular_component	cytoplasm	1	2	1.4771212547196624
+11	cellular_component	chromosome	1	28	0.3309932190414244
+11	clinical_drug	Mitomycin	1	3	1.3010299956639813
+11	clinical_drug	Nitrogen	1	36	0.2218487496163564
+11	molecular_function	ABC-type transmembrane transporter activity	1	3	1.3010299956639813
+57	biological_process	nitrogen fixation	31	25	11.786548493059787
+57	biological_process	symbiotic process	18	31	5.162212017888677
+57	biological_process	metabolic process	9	22	3.921557126052936
+57	biological_process	'de novo' IMP biosynthetic process	2	1	3.5563025007672873
+57	biological_process	biotin biosynthetic process	2	2	2.9542425094393248
+57	chemical	Folic Acid	10	2	14.771212547196624
+57	chemical	Biotin	10	5	10.79181246047625
+57	chemical	purine	9	4	10.584821331501132
+57	chemical	nitrogen atom	46	36	10.205042482352393
+57	chemical	nitrogen(.)	46	36	10.205042482352393
+57	organism	Glycine max	6	13	3.9852473884608406
+57	organism	Soybeans	6	13	3.9852473884608406
+57	organism	Bradyrhizobium paxllaeri	2	2	2.9542425094393248
+57	organism	Rhizobium etli	10	34	2.466723333413885
+57	organism	Fabaceae	8	30	2.4082399653118496
+57	cellular_component	obsolete nucleic acid	2	3	2.6020599913279625
+57	cellular_component	respirasome	1	1	1.7781512503836436
+57	cellular_component	NADH dehydrogenase complex	1	3	1.3010299956639813
+57	cellular_component	obsolete protein	1	47	0.10605339244792619
+57	gene/protein	Serine hydroxymethyltransferase	724	1	1287.381505277758
+57	gene/protein	Catalase	76	2	112.26121535869434
+57	gene/protein	Citrate synthase	52	5	56.11742479447649
+57	gene/protein	Endoglucanase	19	5	20.504443674904874
+57	gene/protein	Indolepyruvate oxidoreductase subunit IorA	6	1	10.668907502301861
+57	sequence	SNV	5	2	7.385606273598312
+57	sequence	regulon	6	11	4.420551391352512
+57	sequence	nucleic_acid	2	3	2.6020599913279625
+57	sequence	match	2	6	2.0
+57	sequence	amino_acid	7	32	1.9110089044461636
+57	organ/tissue	lobule simplex	1	1	1.7781512503836436
+57	organ/tissue	cerebellum vermis lobule X	4	36	0.8873949984654256
+57	organ/tissue	germinal center	4	36	0.8873949984654256
+57	organ/tissue	secretion of exocrine gland	1	8	0.8750612633917001
+57	organ/tissue	proliferative region	1	9	0.8239087409443188
+57	clinical_drug	Nitrogen	46	36	10.205042482352393
+57	clinical_drug	Biotin	5	5	5.395906230238125
+57	clinical_drug	Soybean preparation	5	13	3.321039490384034
+57	clinical_drug	Soybean	5	13	3.321039490384034
+57	clinical_drug	Oxygen	3	14	1.8960696441162166
+57	molecular_process	acetylene reduction	2	9	1.6478174818886375
+57	disease	Mandibulofacial Dysostosis	6	1	10.668907502301861
+57	disease	Larsen syndrome, dominant type	5	1	8.890756251918218
+57	disease	Bacterial Infections	2	2	2.9542425094393248
+57	disease	Dehydration	2	3	2.6020599913279625
+57	disease	Autism Spectrum Disorder	1	1	1.7781512503836436
+57	cell_line	TCS	6	1	10.668907502301861
+57	cell_line	BCIRL-TcA-CLG1	2	4	2.3521825181113627
+57	cell_line	HBM-Noda	1	9	0.8239087409443188
+57	cell_line	R1192	1	30	0.3010299956639812
+57	molecular_function	indolepyruvate ferredoxin oxidoreductase activity	1	1	1.7781512503836436
+57	molecular_function	malate dehydrogenase (decarboxylating) (NADP+) activity	1	1	1.7781512503836436
+57	molecular_function	malate dehydrogenase (decarboxylating) (NAD+) activity	1	1	1.7781512503836436
+5	chemical	Trehalose	10	3	13.010299956639813
+5	chemical	trehalose	5	3	6.505149978319906
+5	chemical	alpha,alpha-trehalose	5	3	6.505149978319906
+5	chemical	Calcium Gluconate	2	1	3.5563025007672873
+5	chemical	sulfoxaflor	4	9	3.295634963777275
+5	gene/protein	Corticosteroid-binding globulin	11	1	19.55966375422008
+5	gene/protein	Pulmonary surfactant-associated protein B	7	1	12.447058752685505
+5	gene/protein	Protochlorophyllide reductase, chloroplastic	10	15	6.020599913279624
+5	gene/protein	synaptogyrin (fruit fly)	3	1	5.334453751150931
+5	gene/protein	Light-dependent protochlorophyllide reductase	4	15	2.4082399653118496
+5	organism	Zea mays	56	14	35.39330002350271
+5	organism	Azospirillum	17	2	25.11106133023426
+5	organism	Azospirillum brasilense	6	1	10.668907502301861
+5	organism	rhizosphere bacterium	2	2	2.9542425094393248
+5	organism	Sinorhizobium americanum	2	4	2.3521825181113627
+5	sequence	genotype	4	16	2.2961250709108754
+5	sequence	transition	2	13	1.3284157961536136
+5	sequence	RAPD	1	3	1.3010299956639813
+5	sequence	primer	1	8	0.8750612633917001
+5	sequence	PCR_product	1	10	0.7781512503836436
+5	organ/tissue	crop	4	16	2.2961250709108754
+5	organ/tissue	pronephric glomerulus	1	2	1.4771212547196624
+5	organ/tissue	start of neonate stage	1	2	1.4771212547196624
+5	organ/tissue	cerebellum vermis lobule X	3	36	0.6655462488490692
+5	organ/tissue	germinal center	3	36	0.6655462488490692
+5	biological_process	trehalose biosynthetic process	2	1	3.5563025007672873
+5	biological_process	auxin biosynthetic process	1	1	1.7781512503836436
+5	biological_process	drought recovery	1	2	1.4771212547196624
+5	biological_process	obsolete drought tolerance	1	2	1.4771212547196624
+5	biological_process	response to water deprivation	1	3	1.3010299956639813
+5	clinical_drug	Trehalose	5	3	6.505149978319906
+5	clinical_drug	Iron	1	11	0.7367585652254186
+5	clinical_drug	saccharomyces cerevisiae allergenic extract	1	12	0.6989700043360189
+5	clinical_drug	Saccharomyces cerevisiae	1	12	0.6989700043360189
+5	clinical_drug	Nitrogen	3	36	0.6655462488490692
+5	molecular_process	acetylene reduction	1	9	0.8239087409443188
+5	cellular_component	viral nucleocapsid	2	20	0.9542425094393249
+5	cell_line	245A	1	1	1.7781512503836436
+5	cell_line	R1192	3	30	0.9030899869919435
+5	disease	Cicatrix	2	1	3.5563025007672873
+5	disease	COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	1	8	0.8750612633917001
+56	chemical	Calcitriol	16	1	28.450420006138298
+56	chemical	calcitriol	8	1	14.225210003069149
+56	chemical	Vitamin D	6	1	10.668907502301861
+56	chemical	maslinic acid	6	1	10.668907502301861
+56	chemical	MicroRNAs	11	7	10.263585314063254
+56	disease	Uterine Cervical Neoplasms	24	1	42.675630009207445
+56	disease	Neoplasms	30	5	32.375437381428746
+56	disease	Stomach Neoplasms	16	2	23.633940075514598
+56	disease	Breast Neoplasms	10	1	17.781512503836435
+56	disease	Metaplasia	8	1	14.225210003069149
+56	gene/protein	ATP-dependent 6-phosphofructokinase	251	1	446.31596384629455
+56	gene/protein	Phosphoprotein	99	1	176.0369737879807
+56	gene/protein	Calreticulin	30	1	53.34453751150931
+56	gene/protein	Large delta antigen	17	1	30.228571256521942
+56	gene/protein	Protease	27	6	27.0
+56	organism	Helicobacter pylori	4	2	5.9084850188786495
+56	organism	Human papillomavirus 16	2	1	3.5563025007672873
+56	organism	Esocidae	2	1	3.5563025007672873
+56	organism	Human papillomavirus	1	1	1.7781512503836436
+56	organism	Papillomaviridae	1	1	1.7781512503836436
+56	sequence	miRNA	11	7	10.263585314063254
+56	sequence	lysine	6	8	5.250367580350201
+56	sequence	response_element	2	3	2.6020599913279625
+56	sequence	natural_variant_site	3	15	1.806179973983887
+56	sequence	shRNA	1	1	1.7781512503836436
+56	cell_line	MCF-7	5	1	8.890756251918218
+56	cell_line	HeLa	5	1	8.890756251918218
+56	cell_line	SiHa	3	1	5.334453751150931
+56	cell_line	HPA	3	1	5.334453751150931
+56	cell_line	NCE-G 350	2	1	3.5563025007672873
+56	organ/tissue	breast	7	2	10.339848783037636
+56	organ/tissue	proliferative region	9	9	7.415178668498869
+56	organ/tissue	obsolete metaplastic ossification	4	1	7.1126050015345745
+56	organ/tissue	hepatic portal vein	3	1	5.334453751150931
+56	organ/tissue	ascitic fluid	2	1	3.5563025007672873
+56	biological_process	metaplastic ossification	4	1	7.1126050015345745
+56	biological_process	cell population proliferation	3	2	4.431363764158987
+56	biological_process	cellular process	2	6	2.0
+56	biological_process	peptidyl-lysine deacetylation	1	1	1.7781512503836436
+56	biological_process	energy homeostasis	1	1	1.7781512503836436
+56	cellular_component	cell projection	2	7	1.8661064207387736
+56	cellular_component	obsolete heterogeneous nuclear ribonucleoprotein complex	1	1	1.7781512503836436
+56	cellular_component	spliceosomal complex	1	1	1.7781512503836436
+56	cellular_component	obsolete vimentin	1	1	1.7781512503836436
+56	cellular_component	type III intermediate filament	1	1	1.7781512503836436
+56	molecular_function	acetyl-CoA C-acyltransferase activity	2	2	2.9542425094393248
+56	molecular_function	obsolete heterogeneous nuclear ribonucleoprotein	1	1	1.7781512503836436
+56	molecular_function	protein histidine tele-kinase activity	1	1	1.7781512503836436
+56	molecular_function	RNA-directed 5'-3' RNA polymerase activity	1	1	1.7781512503836436
+56	molecular_function	DNA-directed 5'-3' RNA polymerase activity	1	1	1.7781512503836436
+56	cell	malignant cell	8	1	14.225210003069149
+56	cell	stem cell	5	2	7.385606273598312
+56	cell	neoplastic cell	1	1	1.7781512503836436
+56	cell	neuroendocrine cell	1	1	1.7781512503836436
+56	cell	neuron	1	2	1.4771212547196624
+56	entity_type	preferred_term	6	25	2.2812674502696364
+56	clinical_drug	Calcitriol	8	1	14.225210003069149
+56	clinical_drug	Vitamin D	4	1	7.1126050015345745
+56	clinical_drug	Lysine	6	7	5.598319262216321
+56	clinical_drug	Beta Carotene	1	1	1.7781512503836436
+56	clinical_drug	TANDEM	1	9	0.8239087409443188
+56	molecular_process	acetylation	4	3	5.204119982655925
+56	molecular_process	molecular process	1	1	1.7781512503836436
+56	molecular_process	chain reaction	1	6	1.0
+4	biological_process	fermentation	3	6	3.0
+4	biological_process	mitotic spindle orientation checkpoint	1	1	1.7781512503836436
+4	biological_process	aerobic respiration	1	2	1.4771212547196624
+4	biological_process	obsolete growth pattern	1	2	1.4771212547196624
+4	biological_process	growth	1	2	1.4771212547196624
+4	disease	Pachyonychia Congenita	4	1	7.1126050015345745
+4	disease	Diarrhea	6	4	7.056547554334088
+4	disease	Coinfection	4	3	5.204119982655925
+4	disease	Smith-McCort Dysplasia	5	7	4.665266051846934
+4	disease	Glycogen Storage Disease Type II	2	1	3.5563025007672873
+4	gene/protein	S-adenosylmethionine synthase	646	3	840.465377198932
+4	gene/protein	Calcium-activated potassium channel subunit alpha-1	90	1	160.03361253452792
+4	gene/protein	Agouti-signaling protein	44	1	78.23865501688032
+4	gene/protein	Citrate synthase	52	5	56.11742479447649
+4	gene/protein	Neuroendocrine convertase 2	21	1	37.341176258056514
+4	organism	Cupriavidus numazuensis	10	1	17.781512503836435
+4	organism	Cupriavidus	15	4	17.64136888583522
+4	organism	Cupriavidus alkaliphilus	5	1	8.890756251918218
+4	organism	Galega	5	1	8.890756251918218
+4	organism	Scorpions	7	4	8.23263881338977
+4	sequence	rRNA_16S	19	16	10.906594086826658
+4	sequence	rRNA_gene	15	15	9.030899869919436
+4	sequence	polypeptide_domain	6	22	2.6143714173686243
+4	sequence	aspartic_acid	1	1	1.7781512503836436
+4	sequence	region	20	50	1.5836249209524964
+4	clinical_drug	Zinc	3	2	4.431363764158987
+4	clinical_drug	Potassium	2	2	2.9542425094393248
+4	clinical_drug	Iron	3	11	2.210275695676256
+4	clinical_drug	Acacia	2	6	2.0
+4	clinical_drug	pork allergenic extract	1	1	1.7781512503836436
+4	chemical	sperm ganglioside 1	8	1	14.225210003069149
+4	chemical	Metronidazole	10	3	13.010299956639813
+4	chemical	RNA, Ribosomal, 16S	19	16	10.906594086826658
+4	chemical	Arsenic	6	1	10.668907502301861
+4	chemical	Zinc	6	2	8.862727528317974
+4	cell	sperm	2	2	2.9542425094393248
+4	organ/tissue	palmar part of manus	2	1	3.5563025007672873
+4	organ/tissue	obsolete spermatozoon	2	2	2.9542425094393248
+4	organ/tissue	semen	2	2	2.9542425094393248
+4	organ/tissue	supraoptic crest	1	1	1.7781512503836436
+4	organ/tissue	gracilis	1	2	1.4771212547196624
+4	cellular_component	subrhabdomeral cisterna	5	7	4.665266051846934
+4	cellular_component	chloroplast	1	5	1.0791812460476249
+4	cellular_component	viral nucleocapsid	2	20	0.9542425094393249
+4	cellular_component	extracellular region	1	11	0.7367585652254186
+4	cellular_component	obsolete protein	5	47	0.530266962239631
+4	molecular_function	[acyl-carrier-protein] S-malonyltransferase activity	1	3	1.3010299956639813
+4	molecular_function	triplet codon-amino acid adaptor activity	1	5	1.0791812460476249
+4	cell_line	PC-2 [Human pancreatic carcinoma]	3	1	5.334453751150931
+4	cell_line	PC2	3	1	5.334453751150931
+4	cell_line	PC4	1	1	1.7781512503836436
+4	cell_line	PC-4	1	1	1.7781512503836436
+4	cell_line	MOD	1	1	1.7781512503836436
+4	molecular_process	acetylene reduction	1	9	0.8239087409443188
+4	molecular_process	oxidation	1	10	0.7781512503836436
+4	entity_type	preferred_term	2	25	0.7604224834232121
+51	biological_process	obsolete virulence	18	19	8.989157689754665
+51	biological_process	viral process	18	21	8.20677520169504
+51	biological_process	pathogenesis	18	22	7.843114252105872
+51	biological_process	export across plasma membrane	7	7	6.531372472585708
+51	biological_process	export from cell	7	7	6.531372472585708
+51	cellular_component	subrhabdomeral cisterna	7	7	6.531372472585708
+51	cellular_component	efflux pump complex	5	3	6.505149978319906
+51	cellular_component	chromosome	6	28	1.9859593142485465
+51	cellular_component	smooth endoplasmic reticulum	1	3	1.3010299956639813
+51	cellular_component	pilus	1	4	1.1760912590556813
+51	chemical	Anti-Bacterial Agents	180	16	103.32562819098939
+51	chemical	antimicrobial agent	92	19	45.94458374763495
+51	chemical	drug	11	9	9.062996150387507
+51	chemical	N(2)-L-arginino group	5	2	7.385606273598312
+51	chemical	L-arginyl group	5	2	7.385606273598312
+51	disease	Cross Infection	6	1	10.668907502301861
+51	disease	Infections	22	22	9.586028530351621
+51	disease	Disease Resistance	6	3	7.8061799739838875
+51	disease	Smith-McCort Dysplasia	7	7	6.531372472585708
+51	disease	Zoonoses	4	2	5.9084850188786495
+51	gene/protein	Streptopain	28	17	15.33566521215035
+51	gene/protein	Phospholipase D	11	3	14.311329952303794
+51	gene/protein	Structural maintenance of chromosomes protein 4	7	1	12.447058752685505
+51	gene/protein	Major outer membrane protein P.IB	10	6	10.0
+51	gene/protein	arginine-glutamic acid dipeptide repeats protein	5	2	7.385606273598312
+51	organism	unidentified plasmid	16	33	4.154196968092098
+51	organism	Escherichia coli	12	30	3.612359947967774
+51	organism	Neisseria gonorrhoeae	2	1	3.5563025007672873
+51	organism	Humans	6	24	2.387640052032226
+51	organism	Staphylococcus aureus	2	4	2.3521825181113627
+51	sequence	mobile_genetic_element	8	3	10.40823996531185
+51	sequence	arginine	5	5	5.395906230238125
+51	sequence	plasmid	16	33	4.154196968092098
+51	sequence	SNV	2	2	2.9542425094393248
+51	sequence	point_mutation	2	3	2.6020599913279625
+51	organ/tissue	medial ganglionic eminence	6	1	10.668907502301861
+51	organ/tissue	bile	2	3	2.6020599913279625
+51	organ/tissue	alimentary part of gastrointestinal system	1	1	1.7781512503836436
+51	organ/tissue	internal carotid artery	1	1	1.7781512503836436
+51	organ/tissue	eyeball of camera-type eye	1	1	1.7781512503836436
+51	clinical_drug	linezolid	2	1	3.5563025007672873
+51	clinical_drug	Carboxymethylcellulose	1	1	1.7781512503836436
+51	clinical_drug	Inulin	1	1	1.7781512503836436
+51	clinical_drug	Tetracycline	1	1	1.7781512503836436
+51	clinical_drug	Azithromycin	1	1	1.7781512503836436
+51	molecular_function	retinol dehydrogenase activity	6	4	7.056547554334088
+51	molecular_function	obsolete signal peptide peptidase activity	4	17	2.1908093160214785
+51	molecular_function	cargo receptor ligand activity	1	1	1.7781512503836436
+51	molecular_function	porin activity	1	6	1.0
+51	cell_line	AM	4	1	7.1126050015345745
+51	cell_line	IN-IC	2	1	3.5563025007672873
+51	cell_line	A-549	1	1	1.7781512503836436
+51	cell_line	CPA	1	1	1.7781512503836436
+51	cell_line	CPB	1	1	1.7781512503836436
+51	molecular_process	reduction	2	17	1.0954046580107393
+51	entity_type	preferred_term	2	25	0.7604224834232121
+7	biological_process	innate immune response	3	6	3.0
+7	biological_process	fermentation	2	6	2.0
+7	biological_process	obsolete virulence	4	19	1.9975905977232586
+7	biological_process	viral process	4	21	1.8237278225988975
+7	biological_process	obsolete evasion or tolerance of symbiont immune response	1	1	1.7781512503836436
+7	chemical	xylooligosaccharide	9	1	16.00336125345279
+7	chemical	maleate(2-)	11	8	9.625673897308701
+7	chemical	Sucrose	6	6	6.0
+7	chemical	Anti-Bacterial Agents	8	16	4.592250141821751
+7	chemical	hemicellulose	3	2	4.431363764158987
+7	molecular_function	triplet codon-amino acid adaptor activity	4	5	4.3167249841904995
+7	molecular_function	general transcription initiation factor activity	1	1	1.7781512503836436
+7	molecular_function	obsolete signal peptide peptidase activity	2	17	1.0954046580107393
+7	organism	Eutheria	12	3	15.612359947967775
+7	organism	Methicillin-Resistant Staphylococcus aureus	6	1	10.668907502301861
+7	organism	Elephants	4	1	7.1126050015345745
+7	organism	Marsupialia	4	2	5.9084850188786495
+7	organism	Mammals	5	5	5.395906230238125
+7	sequence	substitution	11	9	9.062996150387507
+7	sequence	contig	6	5	6.475087476285749
+7	sequence	chromosome	17	28	5.626884723704215
+7	sequence	natural_variant_site	8	15	4.816479930623699
+7	sequence	tRNA	3	3	3.9030899869919438
+7	cell_line	CC-8	4	1	7.1126050015345745
+7	cell_line	CC8	4	1	7.1126050015345745
+7	cell_line	SNP	3	6	3.0
+7	cell_line	LIMA 97	2	4	2.3521825181113627
+7	cell_line	Rh36	1	1	1.7781512503836436
+7	clinical_drug	Sucrose	3	7	2.7991596311081604
+7	clinical_drug	Phaseolus lunatus allergenic extract	2	3	2.6020599913279625
+7	clinical_drug	Vancomycin	1	1	1.7781512503836436
+7	clinical_drug	Thrive	1	2	1.4771212547196624
+7	clinical_drug	.ALPHA.-CELLULOSE	1	5	1.0791812460476249
+7	cellular_component	sex chromosome	8	3	10.40823996531185
+7	cellular_component	pore complex	3	2	4.431363764158987
+7	cellular_component	X chromosome	3	2	4.431363764158987
+7	cellular_component	organelle	3	4	3.528273777167044
+7	cellular_component	autosome	2	2	2.9542425094393248
+7	gene/protein	Peptide deformylase	400	2	590.8485018878649
+7	gene/protein	Phosphatidate cytidylyltransferase	39	1	69.3478987649621
+7	gene/protein	Cryptochrome-1	15	1	26.672268755754654
+7	gene/protein	phosphoglucosamine mutase	6	1	10.668907502301861
+7	gene/protein	phosphoglucosamine mutase (Escherichia coli K-12)	6	1	10.668907502301861
+7	organ/tissue	male organism	11	8	9.625673897308701
+7	organ/tissue	cerebral hemisphere	4	1	7.1126050015345745
+7	organ/tissue	pore	3	2	4.431363764158987
+7	organ/tissue	adult organism	3	8	2.6251837901751003
+7	organ/tissue	intestine	2	5	2.1583624920952498
+7	disease	Sleep Initiation and Maintenance Disorders	8	1	14.225210003069149
+7	disease	Ichthyosis Bullosa of Siemens	6	1	10.668907502301861
+7	disease	Attention Deficit Disorder with Hyperactivity	4	1	7.1126050015345745
+7	disease	Diarrhea	4	4	4.704365036222725
+7	disease	Irritable Bowel Syndrome	2	1	3.5563025007672873
+7	entity_type	preferred_term	2	25	0.7604224834232121
+6	biological_process	biosynthetic process	28	45	3.4982846250323982
+6	biological_process	methylation	2	5	2.1583624920952498
+6	biological_process	lipid modification	1	1	1.7781512503836436
+6	biological_process	innate immune response	1	6	1.0
+6	biological_process	behavior	1	7	0.9330532103693868
+6	cellular_component	membrane	16	16	9.184500283643501
+6	cellular_component	outer membrane	1	6	1.0
+6	cellular_component	obsolete protein	2	47	0.21210678489585238
+6	chemical	Ornithine	26	4	30.578372735447715
+6	chemical	ornithine containing aminolipid	16	3	20.8164799306237
+6	chemical	lipid	33	16	18.94303183501472
+6	chemical	hydroxy group	12	2	17.725455056635948
+6	chemical	L-ornithinium(2+)	13	4	15.289186367723858
+6	disease	Cholera	2	5	2.1583624920952498
+6	disease	Pneumonia	2	9	1.6478174818886375
+6	disease	Infections	2	22	0.8714571391228747
+6	gene/protein	basal cell adhesion molecule (human)	3	1	5.334453751150931
+6	gene/protein	basal cell adhesion molecule	3	1	5.334453751150931
+6	gene/protein	basal cell adhesion molecule (rat)	3	1	5.334453751150931
+6	gene/protein	basal cell adhesion molecule (mouse)	3	1	5.334453751150931
+6	gene/protein	putative hydrolase RBBP9 (human)	1	1	1.7781512503836436
+6	organism	ornithine containing aminolipid	8	3	10.40823996531185
+6	organism	Burkholderia cenocepacia	4	4	4.704365036222725
+6	organism	Medicago sativa	6	13	3.9852473884608406
+6	organism	Sinorhizobium meliloti	8	21	3.647455645197795
+6	organism	Singulisphaera acidiphila	2	1	3.5563025007672873
+6	organ/tissue	membrane organ	17	19	8.48976004032385
+6	organ/tissue	membranous layer	17	19	8.48976004032385
+6	organ/tissue	cerebellum vermis lobule VIIB	1	1	1.7781512503836436
+6	organ/tissue	tuber	1	1	1.7781512503836436
+6	organ/tissue	multicellular organism	5	36	1.109243748081782
+6	clinical_drug	Ornithine	21	6	21.0
+6	clinical_drug	Medicago sativa whole extract	3	13	1.9926236942304203
+6	clinical_drug	Lysine	2	7	1.8661064207387736
+6	clinical_drug	potato allergenic extract	1	3	1.3010299956639813
+6	clinical_drug	Glycine	1	10	0.7781512503836436
+6	molecular_process	hydroxylation	8	3	10.40823996531185
+6	molecular_process	methylation	2	5	2.1583624920952498
+6	sequence	lysine	2	8	1.7501225267834002
+6	sequence	homologous_region	3	16	1.7220938031831565
+6	sequence	five_prime_cis_splice_site	2	9	1.6478174818886375
+6	sequence	amino_acid	5	32	1.3650063603186882
+6	sequence	cosmid	1	7	0.9330532103693868
+6	cell_line	TAB1/C2-2	1	1	1.7781512503836436
+6	molecular_function	transferase activity, transferring acyl groups	2	1	3.5563025007672873
+6	molecular_function	transporter activity	1	3	1.3010299956639813
+17	biological_process	sulfation	11	2	16.248333801916285
+17	biological_process	nodulation	30	29	9.472597574540627
+17	biological_process	nitrogen fixation	10	25	3.80211241711606
+17	biological_process	symbiotic process	11	31	3.1546851220430803
+17	biological_process	animal organ development	2	3	2.6020599913279625
+17	chemical	nodulation factor	37	11	27.260066913340488
+17	chemical	sulfate	19	4	22.345733922057946
+17	chemical	Somatomedins	12	1	21.337815004603723
+17	chemical	Fucose	6	2	8.862727528317974
+17	chemical	3'-phospho-5'-adenylyl sulfate	4	1	7.1126050015345745
+17	gene/protein	Flavohemoprotein	1763	14	1114.25692752563
+17	gene/protein	Glucose-6-phosphate isomerase	574	4	675.0763826979611
+17	gene/protein	Sulfate adenylyltransferase	113	1	200.93109129335173
+17	gene/protein	Ribulose bisphosphate carboxylase	36	1	64.01344501381116
+17	gene/protein	Prephenate dehydrogenase	34	1	60.457142513043884
+17	organism	Mimosa	15	2	22.156818820794935
+17	organism	Cupriavidus taiwanensis	6	1	10.668907502301861
+17	organism	Rhizobium leucaenae	9	8	7.875551370525301
+17	organism	Sym plasmid	6	3	7.8061799739838875
+17	organism	Phaseolus	20	25	7.60422483423212
+17	sequence	plasmid	25	33	6.490932762643903
+17	sequence	rRNA_16S	5	16	2.870156338638594
+17	sequence	allele	3	11	2.210275695676256
+17	sequence	RFLP_fragment	2	7	1.8661064207387736
+17	sequence	natural_variant_site	3	15	1.806179973983887
+17	organ/tissue	cerebellum vermis lobule X	38	36	8.430252485421542
+17	organ/tissue	germinal center	38	36	8.430252485421542
+17	organ/tissue	vertebral column	2	7	1.8661064207387736
+17	organ/tissue	plantar part of pes	2	11	1.4735171304508372
+17	organ/tissue	primordium	1	4	1.1760912590556813
+17	clinical_drug	Nitrogen	14	36	3.1058824946289896
+17	clinical_drug	Acacia	3	6	3.0
+17	clinical_drug	Sulfur	2	3	2.6020599913279625
+17	clinical_drug	Biotin	2	5	2.1583624920952498
+17	clinical_drug	Potassium Nitrate	1	1	1.7781512503836436
+17	disease	Myoclonic Epilepsies, Progressive	41	14	25.91295180292163
+17	disease	Infections	4	22	1.7429142782457494
+17	disease	COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	1	8	0.8750612633917001
+17	cell_line	R1192	20	30	6.020599913279624
+17	cell_line	CE-3	5	11	3.683792826127093
+17	cell_line	PDH	2	1	3.5563025007672873
+17	cell_line	RSp	1	1	1.7781512503836436
+17	cell_line	Sc-1	1	1	1.7781512503836436
+17	molecular_function	pyruvate dehydrogenase (acetyl-transferring) activity	2	1	3.5563025007672873
+17	molecular_function	obsolete peptidyl-dipeptidase A activity	2	1	3.5563025007672873
+17	molecular_function	pyranose dehydrogenase (acceptor) activity	2	1	3.5563025007672873
+17	molecular_function	obsolete signal peptide peptidase activity	6	17	3.2862139740322176
+17	molecular_function	polyphosphate:AMP phosphotransferase activity	1	1	1.7781512503836436
+17	cellular_component	phagophore assembly site	3	3	3.9030899869919438
+17	cellular_component	plasma membrane-derived thylakoid ribulose bisphosphate carboxylase complex	1	1	1.7781512503836436
+17	cellular_component	chromatophore ribulose bisphosphate carboxylase complex	1	1	1.7781512503836436
+17	cellular_component	ribulose bisphosphate carboxylase complex	1	1	1.7781512503836436
+17	cellular_component	amyloplast	1	1	1.7781512503836436
+17	molecular_process	acetylation	2	3	2.6020599913279625
+17	molecular_process	glycosylation	1	2	1.4771212547196624
+17	molecular_process	methylation	1	5	1.0791812460476249
+17	molecular_process	acetylene reduction	1	9	0.8239087409443188
+17	entity_type	preferred_term	4	25	1.5208449668464241
+31	biological_process	posttranscriptional regulation of gene expression	1	1	1.7781512503836436
+31	biological_process	biological regulation	7	34	1.7267063333897195
+31	biological_process	biological_process	2	9	1.6478174818886375
+31	biological_process	stress response to metal ion	1	2	1.4771212547196624
+31	biological_process	gene expression	4	27	1.3871499448986253
+31	chemical	MicroRNAs	71	7	66.24677793622647
+31	chemical	Manganese	6	3	7.8061799739838875
+31	chemical	Cadmium	4	1	7.1126050015345745
+31	chemical	Mercury	4	1	7.1126050015345745
+31	chemical	Aluminum	4	2	5.9084850188786495
+31	gene/protein	E3 ubiquitin-protein ligase MYLIP	32	5	34.533799873523996
+31	gene/protein	MLX-interacting protein	8	5	8.633449968380999
+31	gene/protein	MLX-interacting protein (human)	8	5	8.633449968380999
+31	gene/protein	E3 ubiquitin-protein ligase MARCH8 (mouse)	8	5	8.633449968380999
+31	gene/protein	Miraculin	8	5	8.633449968380999
+31	organism	Arachis	2	3	2.6020599913279625
+31	organism	Arachis hypogaea	2	3	2.6020599913279625
+31	organism	Phaseolus	5	25	1.90105620855803
+31	organism	Fabaceae	6	30	1.806179973983887
+31	organism	Vigna mungo	1	1	1.7781512503836436
+31	sequence	miRNA	69	7	64.38067151548769
+31	sequence	ncRNA	3	4	3.528273777167044
+31	sequence	terminal_inverted_repeat	1	2	1.4771212547196624
+31	sequence	candidate_gene	2	12	1.3979400086720377
+31	sequence	mature_protein_region	2	13	1.3284157961536136
+31	organ/tissue	compound organ	2	5	2.1583624920952498
+31	organ/tissue	cerebellum vermis lobule X	7	36	1.5529412473144948
+31	organ/tissue	germinal center	7	36	1.5529412473144948
+31	organ/tissue	tissue	3	19	1.498192948292444
+31	organ/tissue	cauda epididymis	1	4	1.1760912590556813
+31	clinical_drug	Manganese	3	3	3.9030899869919438
+31	clinical_drug	Aluminum	2	2	2.9542425094393248
+31	clinical_drug	peanut allergenic extract	2	3	2.6020599913279625
+31	clinical_drug	Iron	3	11	2.210275695676256
+31	clinical_drug	Zinc	1	2	1.4771212547196624
+31	disease	Disease	12	15	7.224719895935548
+31	disease	Idiopathic Pulmonary Fibrosis	2	2	2.9542425094393248
+31	disease	Pneumonia	2	9	1.6478174818886375
+31	disease	Tropical Calcific Pancreatitis	1	2	1.4771212547196624
+31	cellular_component	root hair	1	4	1.1760912590556813
+31	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	3	13	1.9926236942304203
+31	molecular_function	auxin binding	1	1	1.7781512503836436
+31	molecular_function	5-(carboxyamino)imidazole ribonucleotide mutase activity	1	4	1.1760912590556813
+31	cell_line	R1192	8	30	2.4082399653118496
+31	molecular_process	chain reaction	2	6	2.0
+16	biological_process	transcription, DNA-templated	13	27	4.508237320920532
+16	biological_process	biological_process	1	9	0.8239087409443188
+16	biological_process	biological regulation	3	34	0.7400170000241655
+16	biological_process	nitrogen fixation	1	25	0.38021124171160603
+16	biological_process	symbiotic process	1	31	0.28678955654937094
+16	chemical	P-300	2	1	3.5563025007672873
+16	chemical	Chromatin	2	4	2.3521825181113627
+16	chemical	RNA polymerase sigma 70	2	7	1.8661064207387736
+16	chemical	beryllium atom	1	4	1.1760912590556813
+16	chemical	solution	1	7	0.9330532103693868
+16	gene/protein	Ferredoxin--NADP reductase	346	2	511.0839541330032
+16	gene/protein	cAMP-activated global transcriptional regulator CRP	56	3	72.85767975718295
+16	gene/protein	RNA polymerase sigma factor RpoD	70	8	61.25428843741901
+16	gene/protein	Cysteine and glycine-rich protein 1	35	3	45.536049848239344
+16	gene/protein	Dihydroflavonol 4-reductase	22	2	32.49666760383257
+16	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	7	13	4.6494552865376475
+16	molecular_function	binding	5	19	2.496988247154073
+16	molecular_function	transcription factor binding	2	4	2.3521825181113627
+16	organism	collection	5	21	2.279659778248622
+16	organism	Mus musculus	2	7	1.8661064207387736
+16	organism	Mice	2	7	1.8661064207387736
+16	organism	Rhizobiales bacterium	1	1	1.7781512503836436
+16	organism	Drosophila puberula	1	2	1.4771212547196624
+16	sequence	polypeptide_conserved_motif	32	14	20.224742870572978
+16	sequence	polypeptide_motif	32	14	20.224742870572978
+16	sequence	DNA_motif	4	2	5.9084850188786495
+16	sequence	binding_site	4	12	2.7958800173440754
+16	sequence	non_covalent_binding_site	6	23	2.4985404861963043
+16	cell_line	S1E4	1	1	1.7781512503836436
+16	cell_line	UtE-iPS-1	1	3	1.3010299956639813
+16	cell_line	MIN	1	6	1.0
+16	organ/tissue	matrix compartment	10	14	6.320232147054056
+16	organ/tissue	webbed interdigital region	5	8	4.3753063169585005
+16	organ/tissue	nucleus incertus	1	2	1.4771212547196624
+16	organ/tissue	scale	1	11	0.7367585652254186
+16	organ/tissue	multicellular organism	1	36	0.2218487496163564
+16	clinical_drug	Yeast, Unspecified	2	15	1.2041199826559248
+16	clinical_drug	Nitrogen	1	36	0.2218487496163564
+16	cellular_component	chromatin	2	4	2.3521825181113627
+16	cellular_component	obsolete protein	1	47	0.10605339244792619
+21	biological_process	nodulation	10	29	3.1575325248468755
+21	biological_process	symbiotic process	10	31	2.8678955654937095
+21	biological_process	import into cell	3	11	2.210275695676256
+21	biological_process	import across plasma membrane	3	11	2.210275695676256
+21	biological_process	DNA packaging	1	1	1.7781512503836436
+21	cellular_component	pilus	1	4	1.1760912590556813
+21	cellular_component	ribosome	1	7	0.9330532103693868
+21	cellular_component	viral nucleocapsid	1	20	0.47712125471966244
+21	cellular_component	obsolete protein	1	47	0.10605339244792619
+21	chemical	Phytic Acid	6	1	10.668907502301861
+21	chemical	RNA, Ribosomal, 16S	17	16	9.75853155137122
+21	chemical	myo-inositol hexakisphosphate	3	1	5.334453751150931
+21	chemical	Nitrogen	4	4	4.704365036222725
+21	chemical	DNA, Ribosomal	5	10	3.8907562519182184
+21	gene/protein	Flavohemoprotein	43	14	27.17699823233244
+21	gene/protein	cardiolipin synthase A	22	7	20.52717062812651
+21	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	22	7	20.52717062812651
+21	gene/protein	Protein BEAN1	52	30	15.653559774527022
+21	gene/protein	Transcription factor Spi-C	8	1	14.225210003069149
+21	organism	Rhizobium grahamii	11	1	19.55966375422008
+21	organism	Bradyrhizobium diazoefficiens	18	5	19.42526242885725
+21	organism	Rhizobium mesoamericanum	9	1	16.00336125345279
+21	organism	Rhizobium leucaenae	17	8	14.876041477658902
+21	organism	Bradyrhizobium embrapense	8	1	14.225210003069149
+21	sequence	rRNA_16S	17	16	9.75853155137122
+21	sequence	rRNA_gene	12	15	7.224719895935548
+21	sequence	region	45	50	3.5631560721431166
+21	sequence	intergenic_variant	2	4	2.3521825181113627
+21	sequence	plasmid	7	33	1.8174611735402928
+21	cell_line	RECA	12	10	9.337815004603723
+21	cell_line	CE81T/VGH	5	1	8.890756251918218
+21	cell_line	R1192	26	30	7.826779887263511
+21	cell_line	HBM-Noda	3	9	2.4717262228329564
+21	cell_line	VU-SCC-120	1	1	1.7781512503836436
+21	organ/tissue	exudate	6	8	5.250367580350201
+21	organ/tissue	cerebellum vermis lobule X	19	36	4.215126242710771
+21	organ/tissue	germinal center	19	36	4.215126242710771
+21	organ/tissue	crop	5	16	2.870156338638594
+21	organ/tissue	collection of hairs	1	3	1.3010299956639813
+21	clinical_drug	Soybean preparation	6	13	3.9852473884608406
+21	clinical_drug	Soybean	6	13	3.9852473884608406
+21	clinical_drug	Nitrogen	13	36	2.884033745012633
+21	clinical_drug	Phaseolus lunatus allergenic extract	1	3	1.3010299956639813
+21	clinical_drug	.ALPHA.-CELLULOSE	1	5	1.0791812460476249
+21	disease	COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	6	8	5.250367580350201
+21	disease	Indifference to Pain, Congenital, Autosomal Recessive	4	4	4.704365036222725
+21	disease	Smith-Magenis Syndrome	1	1	1.7781512503836436
+21	disease	Myoclonic Epilepsies, Progressive	1	14	0.6320232147054056
+21	entity_type	preferred_term	2	25	0.7604224834232121
+21	molecular_function	obsolete signal peptide peptidase activity	3	17	1.6431069870161088
+21	molecular_function	obsolete ribosomal RNA	1	2	1.4771212547196624
+21	molecular_function	structural constituent of ribosome	1	3	1.3010299956639813
+21	molecular_function	ABC-type transmembrane transporter activity	1	3	1.3010299956639813
+0	biological_process	photosynthesis	4	3	5.204119982655925
+0	biological_process	flower development	2	1	3.5563025007672873
+0	biological_process	fertilization	2	5	2.1583624920952498
+0	biological_process	pollen development	1	1	1.7781512503836436
+0	biological_process	ureide biosynthetic process	1	2	1.4771212547196624
+0	chemical	DNA, Complementary	7	5	7.554268722333374
+0	chemical	N-acylurea	5	3	6.505149978319906
+0	chemical	Glutamate Synthase	6	5	6.475087476285749
+0	chemical	Ammonia	6	5	6.475087476285749
+0	chemical	nitrogen atom	26	36	5.768067490025266
+0	disease	Griscelli syndrome type 1	4	1	7.1126050015345745
+0	disease	Mycoses	4	2	5.9084850188786495
+0	disease	Infertility	2	1	3.5563025007672873
+0	disease	Anemia, Hypochromic	2	1	3.5563025007672873
+0	disease	Aortic Aneurysm, Familial Thoracic 2	2	2	2.9542425094393248
+0	gene/protein	Phosphoenolpyruvate carboxylase	984	2	1453.4873146441478
+0	gene/protein	Peptide deformylase	400	2	590.8485018878649
+0	gene/protein	Glutamine synthetase	496	11	365.43224835180763
+0	gene/protein	Biosynthetic arginine decarboxylase	90	2	132.9409129247696
+0	gene/protein	Aspartate aminotransferase	49	3	63.75046978753508
+0	organism	Medicago sativa	14	13	9.298910573075295
+0	organism	Pseudodinemasporium fabiforme	4	1	7.1126050015345745
+0	organism	Tobacco	5	3	6.505149978319906
+0	organism	Nicotiana tabacum	5	3	6.505149978319906
+0	organism	Botrytis cinerea	5	4	5.880456295278407
+0	sequence	antisense	8	3	10.40823996531185
+0	sequence	transgenic	9	5	9.712631214428624
+0	sequence	glutamine	7	10	5.447058752685505
+0	sequence	cDNA	5	5	5.395906230238125
+0	sequence	transgene	3	1	5.334453751150931
+0	cell_line	GS1	4	1	7.1126050015345745
+0	cell_line	GS-1	4	1	7.1126050015345745
+0	cell_line	CE-3	5	11	3.683792826127093
+0	cell_line	PR1 [Human diffuse large B-cell lymphoma]	2	2	2.9542425094393248
+0	cell_line	PR1 [Rat pituitary tumor]	2	2	2.9542425094393248
+0	organ/tissue	cerebellum vermis lobule X	19	36	4.215126242710771
+0	organ/tissue	germinal center	19	36	4.215126242710771
+0	organ/tissue	pad	1	1	1.7781512503836436
+0	organ/tissue	reproductive organ	1	2	1.4771212547196624
+0	organ/tissue	central sulcus of insula	1	4	1.1760912590556813
+0	clinical_drug	Nitrogen	27	36	5.989916239641623
+0	clinical_drug	Botrytis cinerea allergenic extract	5	4	5.880456295278407
+0	clinical_drug	Glutamate	7	10	5.447058752685505
+0	clinical_drug	Glutamine	7	10	5.447058752685505
+0	clinical_drug	Medicago sativa whole extract	5	13	3.321039490384034
+0	molecular_process	reduction	4	17	2.1908093160214785
+0	cellular_component	cytosol	1	3	1.3010299956639813
+0	cellular_component	chloroplast	1	5	1.0791812460476249
+0	cellular_component	obsolete protein	5	47	0.530266962239631
+0	molecular_function	L-aspartate:2-oxoglutarate aminotransferase activity	3	2	4.431363764158987
+0	molecular_function	catalytic activity	5	11	3.683792826127093
+0	molecular_function	phosphoenolpyruvate carboxylase activity	2	1	3.5563025007672873
+0	molecular_function	nitrogenase activity	2	9	1.6478174818886375
+0	molecular_function	glucose-6-phosphate dehydrogenase activity	1	4	1.1760912590556813
+23	biological_process	digestion	3	3	3.9030899869919438
+23	biological_process	metamorphosis	2	1	3.5563025007672873
+23	biological_process	cofactor metabolic process	1	1	1.7781512503836436
+23	biological_process	obsolete nutrient import	1	1	1.7781512503836436
+23	biological_process	cellulose catabolic process	1	1	1.7781512503836436
+23	gene/protein	Polygalacturonase	23	3	29.92368990027157
+23	gene/protein	Protease	27	6	27.0
+23	gene/protein	Endo-1,4-beta-xylanase	15	1	26.672268755754654
+23	gene/protein	Endoglucanase	19	5	20.504443674904874
+23	gene/protein	Protochlorophyllide reductase, chloroplastic	10	15	6.020599913279624
+23	organism	uncultured crAssphage	6	1	10.668907502301861
+23	organism	gut metagenome	7	2	10.339848783037636
+23	organism	Scorpions	6	4	7.056547554334088
+23	organism	Desmodus rotundus	3	1	5.334453751150931
+23	organism	Humans	11	24	4.377340095392413
+23	organ/tissue	lower digestive tract	28	5	30.217074889333496
+23	organ/tissue	digestive system	28	5	30.217074889333496
+23	organ/tissue	digestive tract	28	6	28.0
+23	organ/tissue	animal hemisphere	8	11	5.894068521803349
+23	organ/tissue	skin of face	2	1	3.5563025007672873
+23	cellular_component	cellulosome	1	1	1.7781512503836436
+23	cellular_component	viral nucleocapsid	3	20	1.4313637641589874
+23	chemical	Uric Acid	6	2	8.862727528317974
+23	chemical	uric acid	3	2	4.431363764158987
+23	chemical	7,9-dihydro-1H-purine-2,6,8(3H)-trione	3	2	4.431363764158987
+23	chemical	Cellulose	4	5	4.3167249841904995
+23	chemical	Turpentine	2	1	3.5563025007672873
+23	sequence	gap	2	7	1.8661064207387736
+23	sequence	rRNA_gene	3	15	1.806179973983887
+23	sequence	reagent	1	1	1.7781512503836436
+23	sequence	reference_genome	1	3	1.3010299956639813
+23	sequence	supercontig	1	3	1.3010299956639813
+23	disease	Obesity	4	2	5.9084850188786495
+23	disease	Epilepsy	2	1	3.5563025007672873
+23	disease	Inflammatory Bowel Diseases	2	2	2.9542425094393248
+23	disease	Autoimmune Diseases	2	2	2.9542425094393248
+23	disease	Stomach Neoplasms	2	2	2.9542425094393248
+23	molecular_process	chain reaction	1	6	1.0
+23	molecular_process	acetylene reduction	1	9	0.8239087409443188
+23	clinical_drug	.ALPHA.-CELLULOSE	2	5	2.1583624920952498
+23	clinical_drug	Meleagris gallopavo allergenic extract	1	1	1.7781512503836436
+23	clinical_drug	cow milk allergenic extract	1	1	1.7781512503836436
+23	clinical_drug	Turpentine	1	1	1.7781512503836436
+23	clinical_drug	rabbit allergenic extract	1	3	1.3010299956639813
+23	molecular_function	endo-1,4-beta-xylanase activity	1	1	1.7781512503836436
+49	biological_process	conjugation	5	7	4.665266051846934
+49	biological_process	gene conversion	2	2	2.9542425094393248
+49	biological_process	RNA modification	1	1	1.7781512503836436
+49	biological_process	biological regulation	5	34	1.2333616667069425
+49	biological_process	regulation of adenylate cyclase-inhibiting adrenergic receptor signaling pathway	1	4	1.1760912590556813
+49	cellular_component	nucleus	5	3	6.505149978319906
+49	cellular_component	mitochondrion	2	1	3.5563025007672873
+49	cellular_component	chromosome	7	28	2.316952533289971
+49	cellular_component	mitochondrial chromosome	2	5	2.1583624920952498
+49	cellular_component	host chromosome	1	1	1.7781512503836436
+49	chemical	homoserine lactone	6	2	8.862727528317974
+49	chemical	atomic nucleus	5	3	6.505149978319906
+49	chemical	hydrogen donor	6	8	5.250367580350201
+49	chemical	donor	6	8	5.250367580350201
+49	chemical	rifampicin	2	1	3.5563025007672873
+49	gene/protein	26S proteasome non-ATPase regulatory subunit 6	21	5	22.662806167000124
+49	gene/protein	NAD-dependent dihydropyrimidine dehydrogenase subunit PreT (Escherichia coli K-12)	13	5	14.029356198619123
+49	gene/protein	NAD-dependent dihydropyrimidine dehydrogenase subunit PreT	13	5	14.029356198619123
+49	gene/protein	protein traI	6	2	8.862727528317974
+49	gene/protein	multifunctional conjugation protein TraI (Escherichia coli K-12)	6	2	8.862727528317974
+49	organism	unidentified plasmid	46	33	11.943316283264782
+49	organism	Rhizobium etli	25	34	6.166808333534712
+49	organism	Enterobacter cloacae	2	1	3.5563025007672873
+49	organism	endophytic bacterium	2	2	2.9542425094393248
+49	organism	Sinorhizobium fredii	2	2	2.9542425094393248
+49	sequence	plasmid	47	33	12.202953593770538
+49	sequence	oriT	3	1	5.334453751150931
+49	sequence	mt_gene	3	1	5.334453751150931
+49	sequence	five_prime_cis_splice_site	6	9	4.943452445665913
+49	sequence	chromosome	8	28	2.6479457523313954
+49	organ/tissue	neural nucleus	5	3	6.505149978319906
+49	organ/tissue	cerebellum vermis lobule X	12	36	2.662184995396277
+49	organ/tissue	germinal center	12	36	2.662184995396277
+49	organ/tissue	organismal segment	2	9	1.6478174818886375
+49	organ/tissue	organ	7	36	1.5529412473144948
+49	clinical_drug	TANDEM	1	9	0.8239087409443188
+49	clinical_drug	Nitrogen	2	36	0.4436974992327128
+49	disease	PREGNANCY LOSS, RECURRENT, SUSCEPTIBILITY TO, 1	4	1	7.1126050015345745
+49	molecular_function	structural constituent of ribosome	1	3	1.3010299956639813
+49	cell_line	MDCC-MOB1	5	5	5.395906230238125
+49	cell_line	Mo-B	5	5	5.395906230238125
+49	cell_line	MPF	1	1	1.7781512503836436
+49	cell_line	Mpf	1	1	1.7781512503836436
+49	cell_line	R1192	1	30	0.3010299956639812
+54	biological_process	stringent response	1	1	1.7781512503836436
+54	biological_process	biological_process	1	9	0.8239087409443188
+54	biological_process	biological regulation	3	34	0.7400170000241655
+54	biological_process	obsolete virulence	1	19	0.49939764943081466
+54	biological_process	viral process	1	21	0.4559319556497244
+54	chemical	Deoxycholic Acid	2	2	2.9542425094393248
+54	chemical	arylsulfate sulfotransferase	1	1	1.7781512503836436
+54	chemical	acceptor	1	1	1.7781512503836436
+54	chemical	sodium deoxycholate	1	2	1.4771212547196624
+54	chemical	bile acid	1	3	1.3010299956639813
+54	gene/protein	Thiol peroxidase	162	1	288.06050256215025
+54	gene/protein	Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3	18	2	26.588182584953923
+54	gene/protein	DNA-binding protein H-NS (Escherichia coli K-12)	9	1	16.00336125345279
+54	gene/protein	DNA-binding protein H-NS	9	1	16.00336125345279
+54	gene/protein	Alkyl hydroperoxide reductase E	9	1	16.00336125345279
+54	organism	Salmonella typhi	2	2	2.9542425094393248
+54	organism	Salmonella	2	10	1.5563025007672873
+54	organism	Archaea	1	14	0.6320232147054056
+54	organism	bacterium IFAM-3211	3	50	0.23754373814287444
+54	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3	50	0.23754373814287444
+54	sequence	promoter	4	23	1.665693657464203
+54	sequence	three_prime_cis_splice_site	1	2	1.4771212547196624
+54	sequence	intergenic_region	1	3	1.3010299956639813
+54	sequence	fusion	2	15	1.2041199826559248
+54	sequence	disulfide_bond	1	4	1.1760912590556813
+54	cell	eukaryotic cell	1	4	1.1760912590556813
+54	organ/tissue	bile	1	3	1.3010299956639813
+54	clinical_drug	Deoxycholate	1	2	1.4771212547196624
+54	cellular_component	nucleoid	1	1	1.7781512503836436
+54	cellular_component	obsolete protein	2	47	0.21210678489585238
+54	molecular_function	arylsulfate sulfotransferase activity	7	1	12.447058752685505
+9	cellular_component	chromosome	5	28	1.6549660952071221
+9	cellular_component	root hair	1	4	1.1760912590556813
+9	cellular_component	mitochondrial chromosome	1	5	1.0791812460476249
+9	cellular_component	obsolete protein	2	47	0.21210678489585238
+9	chemical	Recombinases	5	2	7.385606273598312
+9	chemical	H4atta	4	1	7.1126050015345745
+9	chemical	Molecular Probes	2	1	3.5563025007672873
+9	chemical	2,6-diisopropylnaphthalene	4	9	3.295634963777275
+9	chemical	Tyrosine	2	2	2.9542425094393248
+9	organism	Agrobacterium tumefaciens	8	2	11.816970037757299
+9	organism	Agrobacterium	16	14	10.112371435286489
+9	organism	Agrobacterium rubi	4	1	7.1126050015345745
+9	organism	Rhizobium undicola	4	1	7.1126050015345745
+9	organism	Sesbania	5	3	6.505149978319906
+9	sequence	polypeptide_repeat	12	10	9.337815004603723
+9	sequence	plasmid	19	33	4.933108899609366
+9	sequence	replicon	5	9	4.119543704721594
+9	sequence	invert	3	5	3.2375437381428744
+9	sequence	probe	4	10	3.1126050015345745
+9	organ/tissue	attachment site	1	2	1.4771212547196624
+9	organ/tissue	organ	6	36	1.3310924976981384
+9	organ/tissue	anatomical junction	1	3	1.3010299956639813
+9	organ/tissue	strand of hair	1	4	1.1760912590556813
+9	organ/tissue	lateral lumbar region of abdomen	1	5	1.0791812460476249
+9	gene/protein	Integrase	23	1	40.8974787588238
+9	gene/protein	Flavohemoprotein	43	14	27.17699823233244
+9	gene/protein	Streptopain	42	17	23.003497818225526
+9	gene/protein	Ornithine cyclodeaminase	12	1	21.337815004603723
+9	gene/protein	prophage integrase IntA (Escherichia coli K-12)	9	2	13.294091292476962
+9	cell_line	PC-9/GR4	5	2	7.385606273598312
+9	cell_line	CPG	1	1	1.7781512503836436
+9	cell_line	OCD	1	1	1.7781512503836436
+9	cell_line	HBM-Noda	2	9	1.6478174818886375
+9	molecular_function	obsolete signal peptide peptidase activity	6	17	3.2862139740322176
+9	molecular_function	tyrosine-based site-specific recombinase activity	1	1	1.7781512503836436
+9	molecular_function	binding	2	19	0.9987952988616293
+9	clinical_drug	Ornithine	2	6	2.0
+9	clinical_drug	Tyrosine	1	3	1.3010299956639813
+9	clinical_drug	Proline	1	5	1.0791812460476249
+9	clinical_drug	TANDEM	1	9	0.8239087409443188
+9	clinical_drug	Medicago sativa whole extract	1	13	0.6642078980768068
+9	biological_process	DNA recombination	1	1	1.7781512503836436
+9	biological_process	plasmid recombination	1	1	1.7781512503836436
+9	biological_process	localization of cell	1	1	1.7781512503836436
+9	biological_process	transposition	1	3	1.3010299956639813
+9	biological_process	DNA amplification	1	3	1.3010299956639813
+9	entity_type	preferred_term	2	25	0.7604224834232121
+9	disease	Obsessive-Compulsive Disorder	1	1	1.7781512503836436
+9	disease	Myoclonic Epilepsies, Progressive	1	14	0.6320232147054056
+53	biological_process	transcription, DNA-templated	21	27	7.282537210717783
+53	biological_process	response to iron ion	2	1	3.5563025007672873
+53	biological_process	biological_process	4	9	3.295634963777275
+53	biological_process	obsolete Gene_Ontology	3	6	3.0
+53	biological_process	biological regulation	12	34	2.960068000096662
+53	chemical	Riboflavin	34	4	39.987102807893166
+53	chemical	riboflavin(1-)	17	4	19.993551403946583
+53	chemical	riboflavin	17	4	19.993551403946583
+53	chemical	iron atom	18	11	13.261654174057535
+53	chemical	effector	11	8	9.625673897308701
+53	disease	Cholera	4	5	4.3167249841904995
+53	disease	Dysentery	2	1	3.5563025007672873
+53	disease	Chromosome Aberrations	2	1	3.5563025007672873
+53	disease	Proteostasis Deficiencies	2	3	2.6020599913279625
+53	disease	Disease	2	15	1.2041199826559248
+53	organism	Escherichia coli	18	30	5.418539921951662
+53	organism	Escherichia coli K12	5	12	3.494850021680094
+53	organism	collection	7	21	3.1915236895480708
+53	organism	Corynebacterium glutamicum	2	2	2.9542425094393248
+53	organism	Streptomyces coelicolor	2	3	2.6020599913279625
+53	sequence	regulon	11	11	8.104344217479605
+53	sequence	transit_peptide	9	27	3.121087376021907
+53	sequence	signal_peptide	9	27	3.121087376021907
+53	sequence	chromosome	8	28	2.6479457523313954
+53	sequence	helix_turn_helix	2	3	2.6020599913279625
+53	clinical_drug	Riboflavin	17	4	19.993551403946583
+53	clinical_drug	Iron	18	11	13.261654174057535
+53	clinical_drug	Bacillus subtilis	1	7	0.9330532103693868
+53	clinical_drug	Adenosine Triphosphate	1	10	0.7781512503836436
+53	clinical_drug	saccharomyces cerevisiae allergenic extract	1	12	0.6989700043360189
+53	molecular_process	coordination	2	3	2.6020599913279625
+53	molecular_process	electron transfer	1	2	1.4771212547196624
+53	molecular_process	oxidation	1	10	0.7781512503836436
+53	molecular_process	reduction	1	17	0.5477023290053696
+53	entity_type	preferred_term	14	25	5.322957383962485
+53	gene/protein	Retinol-binding protein 4	18	1	32.00672250690558
+53	gene/protein	Importin subunit beta-2	10	2	14.771212547196624
+53	gene/protein	Keratin, type I cytoskeletal 12	20	12	13.979400086720377
+53	gene/protein	Riboflavin-binding protein	6	1	10.668907502301861
+53	gene/protein	Hypertrehalosaemic hormone	8	3	10.40823996531185
+53	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	18	13	11.955742165382523
+53	molecular_function	amino acid transmembrane transporter activity	1	1	1.7781512503836436
+53	molecular_function	binding	3	19	1.498192948292444
+53	molecular_function	transcription factor binding	1	4	1.1760912590556813
+53	molecular_function	electron transporter, transferring electrons within the noncyclic electron transport pathway of photosynthesis activity	1	6	1.0
+53	cell_line	K12 [Mouse osteosarcoma]	5	12	3.494850021680094
+53	cell_line	K12-72.1	5	12	3.494850021680094
+53	cell_line	TF-1	1	1	1.7781512503836436
+53	cellular_component	chromosome	8	28	2.6479457523313954
+53	cellular_component	cytochrome complex	1	1	1.7781512503836436
+53	cellular_component	obsolete telomere	1	1	1.7781512503836436
+53	cellular_component	chromosome, telomeric region	1	1	1.7781512503836436
+53	cellular_component	chromosome, centromeric region	1	1	1.7781512503836436
+53	organ/tissue	terminal nerve	5	2	7.385606273598312
+53	organ/tissue	scale	4	11	2.9470342609016744
+53	organ/tissue	digestive tract	2	6	2.0
+53	organ/tissue	neural nucleus	1	3	1.3010299956639813
+53	organ/tissue	nervous system cell part layer	1	6	1.0
+40	biological_process	genetic transfer	2	2	2.9542425094393248
+40	biological_process	symbiotic process	7	31	2.0075268958455967
+40	biological_process	recombinational repair	1	1	1.7781512503836436
+40	biological_process	homologous recombination	2	8	1.7501225267834002
+40	biological_process	asexual reproduction	1	2	1.4771212547196624
+40	chemical	nucleotide	11	27	3.8146623484712197
+40	chemical	Macrophage Colony-Stimulating Factor	2	1	3.5563025007672873
+40	chemical	prolactin, polymeric	2	1	3.5563025007672873
+40	chemical	propylglyoxal bis(guanylhydrazone)	2	1	3.5563025007672873
+40	chemical	sulfur atom	5	12	3.494850021680094
+40	gene/protein	Prolactin	80	4	94.08730072445451
+40	gene/protein	Reticulon-4 receptor	20	4	23.521825181113627
+40	gene/protein	Protochlorophyllide reductase, chloroplastic	20	15	12.041199826559248
+40	gene/protein	protein Red	5	1	8.890756251918218
+40	gene/protein	protein Red (human)	5	1	8.890756251918218
+40	organism	unidentified plasmid	35	33	9.087305867701463
+40	organism	Rhizobium etli	29	34	7.153497666900266
+40	organism	Rhizobium gallicum	4	3	5.204119982655925
+40	organism	Rhizobium sp. IRc78	4	4	4.704365036222725
+40	organism	Rhizobium sp.	4	4	4.704365036222725
+40	sequence	plasmid	35	33	9.087305867701463
+40	sequence	replicon	11	9	9.062996150387507
+40	sequence	insertion_sequence	4	5	4.3167249841904995
+40	sequence	chromosome	13	28	4.3029118475385175
+40	sequence	microsatellite	2	1	3.5563025007672873
+40	organ/tissue	articulation	4	1	7.1126050015345745
+40	organ/tissue	skeletal joint	4	1	7.1126050015345745
+40	organ/tissue	DEL	2	1	3.5563025007672873
+40	organ/tissue	organ	13	36	2.884033745012633
+40	organ/tissue	reproductive system	1	1	1.7781512503836436
+40	cell_line	RECA	5	10	3.8907562519182184
+40	cell_line	DEL	2	1	3.5563025007672873
+40	cell_line	R1192	6	30	1.806179973983887
+40	cell_line	CHO-glyA	1	1	1.7781512503836436
+40	cell_line	GMMs	1	1	1.7781512503836436
+40	cellular_component	rough endoplasmic reticulum	5	1	8.890756251918218
+40	cellular_component	chromosome	13	28	4.3029118475385175
+40	cellular_component	viral nucleocapsid	4	20	1.9084850188786497
+40	cellular_component	replication fork	1	1	1.7781512503836436
+40	cellular_component	obsolete protein	1	47	0.10605339244792619
+40	disease	SCOLIOSIS, ISOLATED, SUSCEPTIBILITY TO, 3	1	1	1.7781512503836436
+40	disease	SCOLIOSIS, ISOLATED, SUSCEPTIBILITY TO, 5	1	1	1.7781512503836436
+40	disease	COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	2	8	1.7501225267834002
+40	disease	Infections	2	22	0.8714571391228747
+40	molecular_function	macrophage colony-stimulating factor receptor activity	1	1	1.7781512503836436
+40	clinical_drug	tomato allergenic extract	1	6	1.0
+40	clinical_drug	TANDEM	1	9	0.8239087409443188
+40	clinical_drug	Glycine	1	10	0.7781512503836436
+40	clinical_drug	Soybean preparation	1	13	0.6642078980768068
+40	clinical_drug	Soybean	1	13	0.6642078980768068
+40	entity_type	preferred_term	2	25	0.7604224834232121
+37	biological_process	gene conversion	37	2	54.65348642462751
+37	biological_process	ribosome-associated ubiquitin-dependent protein catabolic process	4	1	7.1126050015345745
+37	biological_process	homologous recombination	5	8	4.3753063169585005
+37	biological_process	DNA repair	3	4	3.528273777167044
+37	biological_process	mismatch repair	1	1	1.7781512503836436
+37	cellular_component	obsolete protein	1	47	0.10605339244792619
+37	chemical	51 C	8	1	14.225210003069149
+37	chemical	1,2-di-(4-sulfamidophenyl)-4-butylpyrazolidine-3,5-dione	6	1	10.668907502301861
+37	chemical	Nalidixic Acid	4	1	7.1126050015345745
+37	chemical	DNA, Cruciform	2	1	3.5563025007672873
+37	chemical	nalidixic acid	2	1	3.5563025007672873
+37	disease	Dyschromatosis symmetrica hereditaria 1	4	1	7.1126050015345745
+37	disease	Carcinogenesis	4	2	5.9084850188786495
+37	disease	Immune System Diseases	2	6	2.0
+37	disease	Disease	2	15	1.2041199826559248
+37	gene/protein	E3 ubiquitin-protein ligase MYLIP	16	5	17.266899936761998
+37	gene/protein	ATP-dependent DNA helicase RecG	9	1	16.00336125345279
+37	gene/protein	ATP-dependent DNA helicase RecG (Staphylococcus aureus subsp. aureus NCTC 8325)	9	1	16.00336125345279
+37	gene/protein	ATP-dependent DNA helicase homolog RECG, chloroplastic (Arabidopsis thaliana)	9	1	16.00336125345279
+37	gene/protein	ATP-dependent DNA helicase RecG (Escherichia coli K-12)	9	1	16.00336125345279
+37	organism	Rhizobium etli	12	34	2.960068000096662
+37	organism	unidentified plasmid	11	33	2.8560104155633175
+37	organism	Calloplesiops altivelis	1	1	1.7781512503836436
+37	organism	Rhizobiaceae	1	9	0.8239087409443188
+37	organism	Bacteriophages	1	12	0.6989700043360189
+37	sequence	RFLP_fragment	4	7	3.7322128414775473
+37	sequence	homologous	7	22	3.0500999869300616
+37	sequence	plasmid	11	33	2.8560104155633175
+37	sequence	homologous_region	4	16	2.2961250709108754
+37	sequence	junction	2	6	2.0
+37	cell_line	NIH 3T3	1	1	1.7781512503836436
+37	cell_line	3T3-Swiss albino	1	1	1.7781512503836436
+37	cell_line	RECA	2	10	1.5563025007672873
+37	cell_line	DLD-1 clone A	1	2	1.4771212547196624
+37	cell_line	SfSWT-1	1	4	1.1760912590556813
+37	organ/tissue	axon tract	3	1	5.334453751150931
+37	organ/tissue	organismal segment	4	9	3.295634963777275
+37	organ/tissue	anatomical junction	2	3	2.6020599913279625
+37	organ/tissue	extension	1	4	1.1760912590556813
+37	organ/tissue	central sulcus of insula	1	4	1.1760912590556813
+37	molecular_process	reduction	1	17	0.5477023290053696
+37	clinical_drug	Mitomycin	1	3	1.3010299956639813
+52	biological_process	conjugation	3	7	2.7991596311081604
+52	biological_process	biological regulation	4	34	0.986689333365554
+52	biological_process	biosynthetic process	1	45	0.12493873660829993
+52	cellular_component	chromosome	1	28	0.3309932190414244
+52	cellular_component	obsolete protein	1	47	0.10605339244792619
+52	chemical	N-acyl-L-homoserine lactone	3	2	4.431363764158987
+52	chemical	N-acylhomoserine lactone synthase	2	1	3.5563025007672873
+52	chemical	lactone	3	4	3.528273777167044
+52	chemical	inhibitor	1	11	0.7367585652254186
+52	chemical	nutrient	1	15	0.6020599913279624
+52	gene/protein	protein TraR (Escherichia coli K-12)	8	2	11.816970037757299
+52	gene/protein	transcriptional activator protein TraR (Agrobacterium tumefaciens)	8	2	11.816970037757299
+52	gene/protein	protein traI	5	2	7.385606273598312
+52	gene/protein	multifunctional conjugation protein TraI (Escherichia coli K-12)	5	2	7.385606273598312
+52	gene/protein	NAD-dependent dihydropyrimidine dehydrogenase subunit PreT (Escherichia coli K-12)	5	5	5.395906230238125
+52	organism	Rhizobium favelukesii	3	2	4.431363764158987
+52	organism	unidentified plasmid	15	33	3.894559657586342
+52	organism	Rhizobium etli	7	34	1.7267063333897195
+52	organism	Sinorhizobium meliloti	1	21	0.4559319556497244
+52	organism	Phaseolus	1	25	0.38021124171160603
+52	sequence	plasmid	15	33	3.894559657586342
+52	sequence	substitute	2	8	1.7501225267834002
+52	sequence	replicon	1	9	0.8239087409443188
+52	sequence	cytoplasmic_polypeptide_region	1	18	0.5228787452803376
+52	sequence	chromosome	1	28	0.3309932190414244
+52	cell_line	R1192	1	30	0.3010299956639812
+52	organ/tissue	exudate	2	8	1.7501225267834002
+52	organ/tissue	cerebellum vermis lobule X	3	36	0.6655462488490692
+52	organ/tissue	germinal center	3	36	0.6655462488490692
+52	organ/tissue	organ	1	36	0.2218487496163564
+52	entity_type	preferred_term	2	25	0.7604224834232121
+29	biological_process	obsolete virulence	3	19	1.498192948292444
+29	biological_process	plasmid maintenance	1	2	1.4771212547196624
+29	biological_process	viral process	3	21	1.3677958669491732
+29	biological_process	pathogenesis	3	22	1.3071857086843122
+29	biological_process	anatomical structure morphogenesis	1	3	1.3010299956639813
+29	cellular_component	chromosome	5	28	1.6549660952071221
+29	cellular_component	host cell	1	6	1.0
+29	cellular_component	obsolete protein	1	47	0.10605339244792619
+29	chemical	dioxidosulfate(.1-)	2	2	2.9542425094393248
+29	chemical	sulfur dioxide	2	2	2.9542425094393248
+29	chemical	cephalosporin	2	2	2.9542425094393248
+29	chemical	Ceftriaxone	2	2	2.9542425094393248
+29	chemical	sulfonyl group	2	3	2.6020599913279625
+29	gene/protein	Proton-activated chloride channel	24	1	42.675630009207445
+29	gene/protein	Plasminogen activator inhibitor 1	6	2	8.862727528317974
+29	gene/protein	E3 ubiquitin-protein ligase ZSWIM2	4	2	5.9084850188786495
+29	gene/protein	Tumor necrosis factor receptor superfamily member 1B	3	1	5.334453751150931
+29	gene/protein	protein PALE CRESS, chloroplastic (Arabidopsis thaliana)	3	1	5.334453751150931
+29	molecular_function	retinol dehydrogenase activity	2	4	2.3521825181113627
+29	organism	Prophages	10	5	10.79181246047625
+29	organism	Potato spindle tuber viroid	5	1	8.890756251918218
+29	organism	unidentified plasmid	20	33	5.192746210115122
+29	organism	Salmonella enterica subsp. enterica	2	1	3.5563025007672873
+29	organism	Apis mellifera	2	1	3.5563025007672873
+29	sequence	prophage	10	5	10.79181246047625
+29	sequence	PAC	3	1	5.334453751150931
+29	sequence	plasmid	20	33	5.192746210115122
+29	sequence	genotype	5	16	2.870156338638594
+29	sequence	natural_variant_site	3	15	1.806179973983887
+29	organ/tissue	larva	3	6	3.0
+29	organ/tissue	amphibian larval stage	3	6	3.0
+29	organ/tissue	caudal fin	2	2	2.9542425094393248
+29	organ/tissue	obsolete caudal fin	2	2	2.9542425094393248
+29	organ/tissue	tail	2	2	2.9542425094393248
+29	disease	Gastritis	4	2	5.9084850188786495
+29	disease	Meningitis	2	1	3.5563025007672873
+29	disease	Pulmonary Disease, Chronic Obstructive	2	2	2.9542425094393248
+29	disease	Infections	6	22	2.6143714173686243
+29	cell_line	PA-1	1	2	1.4771212547196624
+29	cell_line	PAI	1	2	1.4771212547196624
+29	cell_line	SP1	1	3	1.3010299956639813
+29	clinical_drug	Apis mellifera preparation	1	1	1.7781512503836436
+29	clinical_drug	Ceftriaxone	1	2	1.4771212547196624
+46	biological_process	dosage compensation	7	1	12.447058752685505
+46	biological_process	transcription, DNA-templated	18	27	6.242174752043814
+46	biological_process	lactation	2	1	3.5563025007672873
+46	biological_process	biological regulation	14	34	3.453412666779439
+46	biological_process	digestion	2	3	2.6020599913279625
+46	cellular_component	sex chromosome	7	3	9.107209969647869
+46	cellular_component	NADH dehydrogenase complex	4	3	5.204119982655925
+46	cellular_component	mitochondrial chromosome	3	5	3.2375437381428744
+46	cellular_component	X chromosome	2	2	2.9542425094393248
+46	cellular_component	Y chromosome	2	3	2.6020599913279625
+46	chemical	Insulin	6	2	8.862727528317974
+46	chemical	DNA, Mitochondrial	3	2	4.431363764158987
+46	chemical	insulin (human)	3	2	4.431363764158987
+46	chemical	insulin	3	2	4.431363764158987
+46	chemical	oligonucleotide	4	7	3.7322128414775473
+46	disease	Influenza, Human	2	4	2.3521825181113627
+46	disease	Disease Attributes	2	7	1.8661064207387736
+46	disease	Coproporphyria, Hereditary	1	1	1.7781512503836436
+46	disease	Growth Hormone-Secreting Pituitary Adenoma	1	2	1.4771212547196624
+46	gene/protein	Insulin	243	2	358.940464896878
+46	gene/protein	Hydroxylamine reductase	152	1	270.2789900583138
+46	gene/protein	Histone H4	99	1	176.0369737879807
+46	gene/protein	DNA polymerase	72	2	106.3527303398157
+46	gene/protein	cAMP-activated global transcriptional regulator CRP	40	3	52.04119982655925
+46	organism	Lizards	4	1	7.1126050015345745
+46	organism	Escherichia coli	20	30	6.020599913279624
+46	organism	Chimera	5	5	5.395906230238125
+46	organism	Anolis carolinensis	3	1	5.334453751150931
+46	organism	Gammaproteobacteria	4	7	3.7322128414775473
+46	sequence	orthologous	16	8	14.000980214267202
+46	sequence	regulatory_region	16	9	13.1825398551091
+46	sequence	regulatory_region_variant	16	9	13.1825398551091
+46	sequence	regulon	8	11	5.894068521803349
+46	sequence	chromosome	15	28	4.964898285621366
+46	organ/tissue	mammary gland	2	1	3.5563025007672873
+46	organ/tissue	thoracic mammary gland	2	1	3.5563025007672873
+46	organ/tissue	multicellular organism	11	36	2.4403362457799203
+46	organ/tissue	organ	8	36	1.7747899969308512
+46	organ/tissue	male organism	2	8	1.7501225267834002
+46	clinical_drug	Yeast, Unspecified	3	15	1.806179973983887
+46	clinical_drug	Gallus gallus allergenic extract	1	1	1.7781512503836436
+46	clinical_drug	Ampicillin	1	1	1.7781512503836436
+46	clinical_drug	Tyrosine	1	3	1.3010299956639813
+46	clinical_drug	Lysine	1	7	0.9330532103693868
+46	cell	eukaryotic cell	1	4	1.1760912590556813
+46	cell_line	CsR-1000	1	1	1.7781512503836436
+46	cell_line	K12 [Mouse osteosarcoma]	1	12	0.6989700043360189
+46	cell_line	K12-72.1	1	12	0.6989700043360189
+46	cell_line	R1192	2	30	0.6020599913279624
+46	molecular_process	reduction	5	17	2.7385116450268483
+46	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	12	13	7.970494776921681
+46	molecular_function	binding	13	19	6.4921694426005905
+46	molecular_function	obsolete insulin	4	2	5.9084850188786495
+46	molecular_function	uroporphyrin-III C-methyltransferase activity	3	1	5.334453751150931
+46	molecular_function	transcription factor binding	3	4	3.528273777167044
+58	chemical	Ribitol	2	1	3.5563025007672873
+58	chemical	Maltose	2	1	3.5563025007672873
+58	chemical	Potassium	2	2	2.9542425094393248
+58	chemical	Acetoin	2	3	2.6020599913279625
+58	chemical	Waste Water	2	3	2.6020599913279625
+58	disease	Pneumonia	14	9	11.534722373220463
+58	disease	Disease	2	15	1.2041199826559248
+58	gene/protein	Phosphoglycolate phosphatase	88	3	114.49063961843035
+58	gene/protein	Mannitol 2-dehydrogenase	12	1	21.337815004603723
+58	gene/protein	Endoglucanase	19	5	20.504443674904874
+58	gene/protein	Pullulanase	4	1	7.1126050015345745
+58	gene/protein	Glycerol-3-phosphate phosphatase	5	3	6.505149978319906
+58	organism	Klebsiella variicola	12	1	21.337815004603723
+58	organism	Vicia faba	4	1	7.1126050015345745
+58	organism	Klebsiella	6	6	6.0
+58	organism	Enterobacteriaceae	3	5	3.2375437381428744
+58	organism	Musa acuminata	2	2	2.9542425094393248
+58	sequence	genotype	3	16	1.7220938031831565
+58	sequence	probe	1	10	0.7781512503836436
+58	sequence	circular	1	11	0.7367585652254186
+58	sequence	rRNA_16S	1	16	0.5740312677277188
+58	sequence	region	6	50	0.4750874762857489
+58	cell_line	NAB	3	1	5.334453751150931
+58	cell_line	CC-1	1	1	1.7781512503836436
+58	cell_line	AWCA	1	1	1.7781512503836436
+58	cell_line	29a	1	1	1.7781512503836436
+58	cell_line	R1192	2	30	0.6020599913279624
+58	organ/tissue	animal hemisphere	2	11	1.4735171304508372
+58	organ/tissue	cerebellum vermis lobule X	4	36	0.8873949984654256
+58	organ/tissue	germinal center	4	36	0.8873949984654256
+58	organ/tissue	multicellular organism	3	36	0.6655462488490692
+58	biological_process	obsolete virulence	1	19	0.49939764943081466
+58	biological_process	viral process	1	21	0.4559319556497244
+58	biological_process	pathogenesis	1	22	0.43572856956143735
+58	biological_process	nodulation	1	29	0.31575325248468755
+58	biological_process	symbiotic process	1	31	0.28678955654937094
+58	cellular_component	chromosome	1	28	0.3309932190414244
+58	clinical_drug	banana allergenic extract	2	2	2.9542425094393248
+58	clinical_drug	banana	2	2	2.9542425094393248
+58	clinical_drug	Maltose	1	1	1.7781512503836436
+58	clinical_drug	Potassium	1	2	1.4771212547196624
+58	clinical_drug	Acetic Acid	1	5	1.0791812460476249
+58	molecular_function	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase activity	2	2	2.9542425094393248
+58	molecular_function	(S)-mandelate dehydrogenase activity	1	1	1.7781512503836436
+58	molecular_function	alcohol dehydrogenase (acceptor) activity	1	1	1.7781512503836436
+58	molecular_function	L-malate dehydrogenase activity	1	1	1.7781512503836436
+58	molecular_function	obsolete signal peptide peptidase activity	1	17	0.5477023290053696
+58	molecular_process	catalysis	1	1	1.7781512503836436
+41	biological_process	response to flooding	4	1	7.1126050015345745
+41	biological_process	nitrate assimilation	2	1	3.5563025007672873
+41	biological_process	denitrification pathway	1	1	1.7781512503836436
+41	biological_process	ammonium transport	1	1	1.7781512503836436
+41	biological_process	phosphate ion transport	1	1	1.7781512503836436
+41	cellular_component	arbuscule	1	2	1.4771212547196624
+41	cellular_component	chromosome	1	28	0.3309932190414244
+41	chemical	nitrite	10	1	17.781512503836435
+41	chemical	nitrate	18	7	16.79495778664896
+41	chemical	Nitrite Reductases	6	1	10.668907502301861
+41	chemical	Nitric Oxide	6	1	10.668907502301861
+41	chemical	Nitrate Reductase	5	2	7.385606273598312
+41	disease	Disease Attributes	2	7	1.8661064207387736
+41	gene/protein	Periplasmic nitrate reductase	134	1	238.27226755140825
+41	gene/protein	copper-containing nitrite reductase (Sinorhizobium meliloti 1021)	18	1	32.00672250690558
+41	gene/protein	Nitrate reductase	20	2	29.54242509439325
+41	gene/protein	Nitrite reductase	20	3	26.020599913279625
+41	gene/protein	Beta-catenin-like protein 1	12	1	21.337815004603723
+41	molecular_function	nitrate reductase activity	2	1	3.5563025007672873
+41	molecular_function	nitrogenase activity	2	9	1.6478174818886375
+41	molecular_function	receptor ligand activity	1	3	1.3010299956639813
+41	organism	Glycine max	3	13	1.9926236942304203
+41	organism	Soybeans	3	13	1.9926236942304203
+41	organism	Rhizobium etli	7	34	1.7267063333897195
+41	organism	Bradyrhizobium japonicum	2	10	1.5563025007672873
+41	organism	Mycorrhizae	1	2	1.4771212547196624
+41	sequence	three_prime_cis_splice_site	1	2	1.4771212547196624
+41	sequence	fusion	2	15	1.2041199826559248
+41	sequence	gene_fusion	1	5	1.0791812460476249
+41	sequence	null_mutation	1	5	1.0791812460476249
+41	sequence	cryptic	1	5	1.0791812460476249
+41	cell_line	NAP	3	1	5.334453751150931
+41	cell_line	R1192	4	30	1.2041199826559248
+41	organ/tissue	cerebellum vermis lobule X	18	36	3.993277493094415
+41	organ/tissue	germinal center	18	36	3.993277493094415
+41	organ/tissue	pronephric glomerulus	1	2	1.4771212547196624
+41	organ/tissue	plantar part of pes	1	11	0.7367585652254186
+41	clinical_drug	Nitric Oxide	4	1	7.1126050015345745
+41	clinical_drug	Nitrous Oxide	2	1	3.5563025007672873
+41	clinical_drug	Soybean preparation	3	13	1.9926236942304203
+41	clinical_drug	Soybean	3	13	1.9926236942304203
+41	clinical_drug	Ammonia	1	5	1.0791812460476249
+41	molecular_process	reduction	3	17	1.6431069870161088
+28	biological_process	transcription, DNA-templated	28	27	9.710049614290376
+28	biological_process	biological regulation	24	34	5.920136000193324
+28	biological_process	gene expression	7	27	2.427512403572594
+28	biological_process	cellular response to stimulus	1	1	1.7781512503836436
+28	biological_process	regulation of gene expression	2	9	1.6478174818886375
+28	gene/protein	RNA polymerase sigma factor RpoD	70	8	61.25428843741901
+28	gene/protein	Keratin, type I cytoskeletal 12	60	12	41.93820026016113
+28	gene/protein	Stationary-phase-induced ribosome-associated protein	11	1	19.55966375422008
+28	gene/protein	Arabinose 5-phosphate isomerase KdsD	9	4	10.584821331501132
+28	gene/protein	secreted and transmembrane protein 1	15	12	10.484550065040283
+28	sequence	promoter	12	23	4.997080972392609
+28	sequence	operon	16	30	4.816479930623699
+28	sequence	nucleic_acid	3	3	3.9030899869919438
+28	sequence	terminator	3	4	3.528273777167044
+28	sequence	transit_peptide	7	27	2.427512403572594
+28	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	12	13	7.970494776921681
+28	molecular_function	ribosome binding	2	1	3.5563025007672873
+28	molecular_function	binding	3	19	1.498192948292444
+28	molecular_function	DNA binding	1	6	1.0
+28	organism	Escherichia coli K12	14	12	9.785580060704264
+28	organism	Escherichia coli	18	30	5.418539921951662
+28	organism	collection	4	21	1.8237278225988975
+28	organism	Bees	1	5	1.0791812460476249
+28	organism	Gammaproteobacteria	1	7	0.9330532103693868
+28	cell_line	K12 [Mouse osteosarcoma]	16	12	11.183520069376302
+28	cell_line	K12-72.1	16	12	11.183520069376302
+28	cell_line	TAB089	1	1	1.7781512503836436
+28	chemical	nucleic acid	3	3	3.9030899869919438
+28	chemical	RNA polymerase sigma 70	2	7	1.8661064207387736
+28	chemical	Complement System Proteins	3	16	1.7220938031831565
+28	chemical	atom	6	34	1.480034000048331
+28	chemical	Riboswitch	1	2	1.4771212547196624
+28	organ/tissue	webbed interdigital region	11	8	9.625673897308701
+28	organ/tissue	multicellular organism	9	36	1.9966387465472075
+28	organ/tissue	matrix compartment	3	14	1.8960696441162166
+28	organ/tissue	tabular bone	1	1	1.7781512503836436
+28	organ/tissue	extrascapula	1	1	1.7781512503836436
+28	cellular_component	obsolete nucleic acid	3	3	3.9030899869919438
+28	cellular_component	ribosome	2	7	1.8661064207387736
+28	cellular_component	chromatin	1	4	1.1760912590556813
+28	cellular_component	viral nucleocapsid	2	20	0.9542425094393249
+28	cellular_component	chromosome	2	28	0.6619864380828488
+28	entity_type	preferred_term	2	25	0.7604224834232121
+20	biological_process	social behavior	1	2	1.4771212547196624
+20	biological_process	biofilm formation	1	5	1.0791812460476249
+20	biological_process	nitrogen fixation	2	25	0.7604224834232121
+20	biological_process	signaling	1	14	0.6320232147054056
+20	biological_process	obsolete virulence	1	19	0.49939764943081466
+20	chemical	N-acyl-L-homoserine lactone	10	2	14.771212547196624
+20	chemical	homoserine lactone	3	2	4.431363764158987
+20	chemical	lactone	2	4	2.3521825181113627
+20	chemical	cluster	8	33	2.077098484046049
+20	chemical	L-homoserine lactone group	1	2	1.4771212547196624
+20	disease	Disease Susceptibility	4	7	3.7322128414775473
+20	organism	Burkholderia	7	7	6.531372472585708
+20	organism	Paraburkholderia kururiensis	4	2	5.9084850188786495
+20	organism	Bacteriophages	6	12	4.193820026016113
+20	organism	Burkholderia glumae	2	2	2.9542425094393248
+20	organism	Bromus secalinus	1	1	1.7781512503836436
+20	sequence	phage_sequence	7	13	4.6494552865376475
+20	sequence	polypeptide	1	49	0.08795517035512998
+20	sequence	gene	2	59	0.014598477482998846
+20	cellular_component	obsolete protein	1	47	0.10605339244792619
+20	gene/protein	PAP-specific phosphatase HAL2-like (Arabidopsis thaliana)	10	2	14.771212547196624
+20	gene/protein	SEC14 domain and spectrin repeat-containing protein 1 (zebrafish)	4	1	7.1126050015345745
+20	gene/protein	Rho guanine nucleotide exchange factor 40 (mouse)	4	1	7.1126050015345745
+20	gene/protein	Rho guanine nucleotide exchange factor 40 (human)	4	1	7.1126050015345745
+20	gene/protein	SEC14 domain and spectrin repeat-containing protein 1	4	1	7.1126050015345745
+20	clinical_drug	Nitrogen	2	36	0.4436974992327128
+10	biological_process	vesicle fusion	1	2	1.4771212547196624
+10	biological_process	pentose-phosphate shunt	1	3	1.3010299956639813
+10	biological_process	catabolic process	2	16	1.1480625354554377
+10	biological_process	metabolic process	2	22	0.8714571391228747
+10	biological_process	biological regulation	3	34	0.7400170000241655
+10	cellular_component	subrhabdomeral cisterna	4	7	3.7322128414775473
+10	cellular_component	photoreceptor proximal connecting cilium	2	1	3.5563025007672873
+10	cellular_component	vesicle	2	4	2.3521825181113627
+10	cellular_component	plasma membrane	2	6	2.0
+10	cellular_component	membrane	3	16	1.7220938031831565
+10	chemical	Phospholipases	7	2	10.339848783037636
+10	chemical	Chitin	8	4	9.40873007244545
+10	chemical	oligosaccharide	7	4	8.23263881338977
+10	chemical	4-aminophenylphosphate	4	1	7.1126050015345745
+10	chemical	phase-transfer catalyst	3	1	5.334453751150931
+10	disease	Pain	8	1	14.225210003069149
+10	disease	Thyroid Cancer, Papillary	3	1	5.334453751150931
+10	disease	Smith-McCort Dysplasia	4	7	3.7322128414775473
+10	disease	CATARACT 4, MULTIPLE TYPES	2	1	3.5563025007672873
+10	disease	Infections	2	22	0.8714571391228747
+10	gene/protein	Glucose-6-phosphate isomerase	1148	4	1350.1527653959222
+10	gene/protein	Acetylcholinesterase	128	1	227.60336004910639
+10	gene/protein	Glucokinase	140	2	206.79697566075274
+10	gene/protein	Glycoprotein	104	1	184.92773003989893
+10	gene/protein	UTP--glucose-1-phosphate uridylyltransferase	49	1	87.12941126879853
+10	molecular_function	obsolete vesicle fusion	1	2	1.4771212547196624
+10	molecular_function	catalytic activity	1	11	0.7367585652254186
+10	molecular_function	obsolete signal peptide peptidase activity	1	17	0.5477023290053696
+10	molecular_function	binding	1	19	0.49939764943081466
+10	organism	Mesorhizobium loti	2	7	1.8661064207387736
+10	organism	synthetic construct	3	16	1.7220938031831565
+10	organism	Pseudomonas aeruginosa	2	10	1.5563025007672873
+10	organism	Bradyrhizobium japonicum	2	10	1.5563025007672873
+10	organism	Zea mays	2	14	1.2640464294108111
+10	sequence	enzymatic	6	14	3.792139288232433
+10	sequence	transition	3	13	1.9926236942304203
+10	sequence	polypeptide_domain	4	22	1.7429142782457494
+10	sequence	junction	1	6	1.0
+10	sequence	serine	1	9	0.8239087409443188
+10	organ/tissue	membrane organ	5	19	2.496988247154073
+10	organ/tissue	membranous layer	5	19	2.496988247154073
+10	organ/tissue	sense organ	2	5	2.1583624920952498
+10	organ/tissue	parietal operculum	1	1	1.7781512503836436
+10	organ/tissue	CA2 field of hippocampus	1	2	1.4771212547196624
+10	clinical_drug	Fructose	2	4	2.3521825181113627
+10	clinical_drug	Glucose-6-Phosphate	1	1	1.7781512503836436
+10	clinical_drug	Lipase	1	3	1.3010299956639813
+10	clinical_drug	Calcium Cation	1	3	1.3010299956639813
+10	clinical_drug	Biotin	1	5	1.0791812460476249
+10	molecular_process	hydrolysis	2	4	2.3521825181113627
+10	molecular_process	acylation	1	2	1.4771212547196624
+10	cell_line	PPM-Phi	2	2	2.9542425094393248
+10	cell_line	MIN	2	6	2.0
+10	cell_line	GLY	1	1	1.7781512503836436
+10	cell_line	MSHRIe002-A	1	2	1.4771212547196624
+10	cell	motile cell	1	1	1.7781512503836436
+10	cell	leukocyte	1	2	1.4771212547196624
+10	entity_type	preferred_term	2	25	0.7604224834232121
+48	biological_process	transcription, DNA-templated	13	27	4.508237320920532
+48	biological_process	regulation of transcription, DNA-templated	2	5	2.1583624920952498
+48	biological_process	biological regulation	8	34	1.973378666731108
+48	biological_process	nitrogen fixation	5	25	1.90105620855803
+48	biological_process	symbiotic process	5	31	1.4339477827468547
+48	chemical	Sigma Factor	15	6	15.0
+48	chemical	Immunoglobulin A, Secretory	9	2	13.294091292476962
+48	chemical	4-hydroxybenzylcyanide	6	1	10.668907502301861
+48	chemical	RNA polymerase sigma 70	11	7	10.263585314063254
+48	chemical	glutaminate	6	4	7.056547554334088
+48	gene/protein	Nitrogenase iron protein	261	2	385.52864748183185
+48	gene/protein	RNA polymerase sigma factor RpoD	392	8	343.02401524954644
+48	gene/protein	Galactokinase	145	2	214.18258193435105
+48	gene/protein	Protein Nef	73	1	129.80504127800597
+48	gene/protein	Glutamine synthetase	122	11	89.88454495750106
+48	organism	Escherichia coli	30	30	9.030899869919436
+48	organism	Rhizobium phaseoli	6	10	4.668907502301861
+48	organism	Rhizobium etli	15	34	3.7000850001208274
+48	organism	Pseudomonas stutzeri	2	1	3.5563025007672873
+48	organism	Rhodobacter capsulatus	2	1	3.5563025007672873
+48	sequence	promoter	72	23	29.982485834355654
+48	sequence	5KB_upstream_variant	17	12	11.88249007371232
+48	sequence	promoter_region	8	9	6.59126992755455
+48	sequence	glutamine	7	10	5.447058752685505
+48	sequence	ORF	8	16	4.592250141821751
+48	organ/tissue	magnocellular superficial pretectal nucleus	4	2	5.9084850188786495
+48	organ/tissue	presomitic mesoderm	4	2	5.9084850188786495
+48	organ/tissue	extension	3	4	3.528273777167044
+48	organ/tissue	matrix compartment	5	14	3.160116073527028
+48	organ/tissue	regurgitated pellet	1	1	1.7781512503836436
+48	cellular_component	RNA polymerase complex	1	1	1.7781512503836436
+48	cellular_component	chromosome	3	28	0.9929796571242733
+48	cellular_component	obsolete protein	8	47	0.8484271395834095
+48	cellular_component	membrane	1	16	0.5740312677277188
+48	disease	Chlamydial Pneumonia	2	1	3.5563025007672873
+48	disease	Pneumonia	4	9	3.295634963777275
+48	disease	Myoclonic Epilepsies, Progressive	1	14	0.6320232147054056
+48	molecular_function	binding	7	19	3.4957835460157027
+48	molecular_function	electron transporter, transferring electrons within the noncyclic electron transport pathway of photosynthesis activity	3	6	3.0
+48	molecular_function	electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity	3	6	3.0
+48	molecular_function	electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity	3	6	3.0
+48	molecular_function	electron transporter, transferring electrons within cytochrome c oxidase complex activity	3	6	3.0
+48	cell_line	PSM-1	4	2	5.9084850188786495
+48	cell_line	CE-3	3	11	2.210275695676256
+48	cell_line	CRP-1	1	1	1.7781512503836436
+48	cell_line	CRP-2	1	1	1.7781512503836436
+48	cell_line	CRP2	1	1	1.7781512503836436
+48	clinical_drug	Oxygen	4	14	2.5280928588216223
+48	clinical_drug	Nitrogen	9	36	1.9966387465472075
+48	clinical_drug	Brown Rice	1	9	0.8239087409443188
+48	clinical_drug	Glutamine	1	10	0.7781512503836436
+30	gene/protein	1-aminocyclopropane-1-carboxylate deaminase	329	1	585.0117613762187
+30	gene/protein	Putative 1-aminocyclopropane-1-carboxylate deaminase	24	1	42.675630009207445
+30	gene/protein	Arabinose 5-phosphate isomerase KdsD	27	4	31.754463994503396
+30	gene/protein	Probable 1-aminocyclopropane-1-carboxylate deaminase	12	1	21.337815004603723
+30	gene/protein	Arabinose 5-phosphate isomerase GutQ	18	4	21.169642663002264
+30	organism	Burkholderia	66	7	61.58151188437953
+30	organism	Zea mays	44	14	27.809021447037846
+30	organism	Paraburkholderia tropica	8	1	14.225210003069149
+30	organism	Paraburkholderia xenovorans	7	1	12.447058752685505
+30	organism	Paraburkholderia unamae	6	1	10.668907502301861
+30	sequence	rRNA_gene	15	15	9.030899869919436
+30	sequence	primer	7	8	6.125428843741901
+30	sequence	rRNA_16S	10	16	5.740312677277188
+30	sequence	glutamic_acid	1	2	1.4771212547196624
+30	sequence	PCB	1	2	1.4771212547196624
+30	chemical	1-aminocyclopropane-1-carboxylate deaminase	7	1	12.447058752685505
+30	chemical	Coffee	8	2	11.816970037757299
+30	chemical	Limonene	6	1	10.668907502301861
+30	chemical	ethylene	6	5	6.475087476285749
+30	chemical	RNA, Ribosomal, 16S	10	16	5.740312677277188
+30	disease	Carcinoma, Basal Cell	1	1	1.7781512503836436
+30	disease	Indifference to Pain, Congenital, Autosomal Recessive	1	4	1.1760912590556813
+30	disease	Infections	2	22	0.8714571391228747
+30	organ/tissue	animal hemisphere	3	11	2.210275695676256
+30	organ/tissue	obsolete circumpennate	1	1	1.7781512503836436
+30	organ/tissue	posterior periventricular nucleus	1	1	1.7781512503836436
+30	organ/tissue	tissue	3	19	1.498192948292444
+30	organ/tissue	multicellular organism	5	36	1.109243748081782
+30	clinical_drug	sugarcane extract	7	5	7.554268722333374
+30	clinical_drug	Saccharum officinarum allergenic extract	7	5	7.554268722333374
+30	clinical_drug	tomato allergenic extract	6	6	6.0
+30	clinical_drug	Ethylene	2	5	2.1583624920952498
+30	clinical_drug	Limonene, (+)-	1	1	1.7781512503836436
+30	cell_line	C16	2	2	2.9542425094393248
+30	cell_line	RECA	2	10	1.5563025007672873
+30	cell_line	UtE-iPS-1	1	3	1.3010299956639813
+30	cell_line	R1192	2	30	0.6020599913279624
+30	biological_process	obsolete colony morphology	1	3	1.3010299956639813
+30	biological_process	invasive growth in response to glucose limitation	1	3	1.3010299956639813
+30	biological_process	symbiotic process	3	31	0.8603686696481128
+30	biological_process	nitrogen fixation	2	25	0.7604224834232121
+30	biological_process	nodulation	1	29	0.31575325248468755
+30	molecular_function	1-aminocyclopropane-1-carboxylate deaminase activity	4	1	7.1126050015345745
+30	molecular_function	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	1	1	1.7781512503836436
+30	molecular_function	deaminase activity	1	1	1.7781512503836436
+30	molecular_function	obsolete signal peptide peptidase activity	3	17	1.6431069870161088
+30	molecular_function	nitrogenase activity	1	9	0.8239087409443188
+30	cellular_component	obsolete protein	6	47	0.6363203546875571
+30	molecular_process	acetylene reduction	1	9	0.8239087409443188
+47	biological_process	cell differentiation	5	2	7.385606273598312
+47	biological_process	protein oxidation	2	1	3.5563025007672873
+47	biological_process	signaling	5	14	3.160116073527028
+47	biological_process	neurogenesis	2	2	2.9542425094393248
+47	biological_process	excretion	2	4	2.3521825181113627
+47	cellular_component	nuclear pore	3	1	5.334453751150931
+47	cellular_component	extracellular region	1	11	0.7367585652254186
+47	cellular_component	obsolete protein	2	47	0.21210678489585238
+47	chemical	NADP	9	3	11.709269960975831
+47	chemical	Glutathione Disulfide	6	1	10.668907502301861
+47	chemical	Oxygen	6	2	8.862727528317974
+47	chemical	Glutathione	4	1	7.1126050015345745
+47	chemical	NPC	3	1	5.334453751150931
+47	disease	Niemann-Pick Disease, Type C	3	1	5.334453751150931
+47	disease	Nasopharyngeal Carcinoma	3	1	5.334453751150931
+47	gene/protein	S-adenosylmethionine synthase	1938	3	2521.396131596796
+47	gene/protein	Glutamine synthetase	122	11	89.88454495750106
+47	gene/protein	Glutamate dehydrogenase	32	5	34.533799873523996
+47	gene/protein	Glucose 1-dehydrogenase	9	4	10.584821331501132
+47	gene/protein	neurogenic locus notch homolog protein 1 (zebrafish)	5	1	8.890756251918218
+47	organism	Neurospora crassa	6	5	6.475087476285749
+47	organism	Spores, Fungal	3	2	4.431363764158987
+47	organism	Mus musculus	3	7	2.7991596311081604
+47	organism	Mice	3	7	2.7991596311081604
+47	organism	Escherichia coli	2	30	0.6020599913279624
+47	sequence	disulfide_bond	3	4	3.528273777167044
+47	sequence	transition	2	13	1.3284157961536136
+47	sequence	glutamine	1	10	0.7781512503836436
+47	sequence	polypeptide	4	49	0.3518206814205199
+47	sequence	operon	1	30	0.3010299956639812
+47	cell	dopaminergic neuron	3	1	5.334453751150931
+47	cell	precursor cell	1	1	1.7781512503836436
+47	cell	neuron	1	2	1.4771212547196624
+47	organ/tissue	excreta	2	4	2.3521825181113627
+47	organ/tissue	midbrain	1	1	1.7781512503836436
+47	organ/tissue	presumptive midbrain	1	1	1.7781512503836436
+47	organ/tissue	substantia nigra pars reticulata	1	1	1.7781512503836436
+47	organ/tissue	substantia nigra pars compacta	1	1	1.7781512503836436
+47	molecular_process	oxidation	5	10	3.8907562519182184
+47	molecular_process	reduction	4	17	2.1908093160214785
+47	clinical_drug	Glutathione	5	1	8.890756251918218
+47	clinical_drug	Glutamine	1	10	0.7781512503836436
+47	clinical_drug	Glutamate	1	10	0.7781512503836436
+47	clinical_drug	Oxygen	1	14	0.6320232147054056
+47	molecular_function	[acyl-carrier-protein] S-malonyltransferase activity	3	3	3.9030899869919438
+47	molecular_function	glucose-6-phosphate dehydrogenase activity	1	4	1.1760912590556813
+47	molecular_function	catalytic activity	1	11	0.7367585652254186
+47	cell_line	MAT	3	3	3.9030899869919438
+47	cell_line	MIN	2	6	2.0
+43	chemical	Carbenicillin	2	1	3.5563025007672873
+43	chemical	Erythromycin	2	1	3.5563025007672873
+43	chemical	Kanamycin	2	2	2.9542425094393248
+43	chemical	carbenicillin	1	1	1.7781512503836436
+43	chemical	erythromycin A	1	1	1.7781512503836436
+43	disease	DEVELOPMENTAL DYSPLASIA OF THE HIP 1	1	2	1.4771212547196624
+43	disease	Indifference to Pain, Congenital, Autosomal Recessive	1	4	1.1760912590556813
+43	gene/protein	Single-stranded DNA-binding protein	116	1	206.26554504450266
+43	gene/protein	Plasmid-derived single-stranded DNA-binding protein	5	1	8.890756251918218
+43	gene/protein	protein MEI2-like 1 (Arabidopsis thaliana)	3	1	5.334453751150931
+43	gene/protein	Mucolipin-1	3	1	5.334453751150931
+43	gene/protein	Phospholipid-transporting ATPase IB	3	1	5.334453751150931
+43	organism	Ensifer mexicanus	7	1	12.447058752685505
+43	organism	Sinorhizobium	8	14	5.0561857176432445
+43	organism	Ensifer adhaerens	2	1	3.5563025007672873
+43	organism	Rhizobium giardinii	2	2	2.9542425094393248
+43	organism	Leucaena leucocephala	2	4	2.3521825181113627
+43	cell_line	ML-1 [Human thyroid carcinoma]	3	1	5.334453751150931
+43	cell_line	ML-1 [Human leukemia]	3	1	5.334453751150931
+43	cell_line	LC04	1	1	1.7781512503836436
+43	cell_line	RECA	2	10	1.5563025007672873
+43	cell_line	BONA	1	2	1.4771212547196624
+43	sequence	rRNA_gene	4	15	2.4082399653118496
+43	sequence	restriction_fragment	1	1	1.7781512503836436
+43	sequence	forward	1	3	1.3010299956639813
+43	sequence	primer	1	8	0.8750612633917001
+43	sequence	rRNA_16S	1	16	0.5740312677277188
+43	organ/tissue	S-shaped body	1	1	1.7781512503836436
+43	organ/tissue	comb	1	2	1.4771212547196624
+43	organ/tissue	cerebellum vermis lobule X	4	36	0.8873949984654256
+43	organ/tissue	germinal center	4	36	0.8873949984654256
+43	clinical_drug	Erythromycin	1	1	1.7781512503836436
+43	clinical_drug	Kanamycin	1	2	1.4771212547196624
+43	clinical_drug	Acacia	1	6	1.0
+43	biological_process	cytolysis	1	4	1.1760912590556813
+43	molecular_function	obsolete signal peptide peptidase activity	1	17	0.5477023290053696
+8	biological_process	plasmid partitioning	4	1	7.1126050015345745
+8	biological_process	transcription, DNA-templated	8	27	2.7742998897972506
+8	biological_process	biological regulation	7	34	1.7267063333897195
+8	biological_process	heteroduplex formation	1	2	1.4771212547196624
+8	biological_process	obsolete mutagenesis	2	16	1.1480625354554377
+8	cellular_component	chromosome	4	28	1.3239728761656977
+8	cellular_component	obsolete protein	8	47	0.8484271395834095
+8	cellular_component	viral nucleocapsid	1	20	0.47712125471966244
+8	chemical	RNA, Antisense	7	1	12.447058752685505
+8	chemical	Adenosine Diphosphate	4	2	5.9084850188786495
+8	chemical	DNA, Intergenic	3	4	3.528273777167044
+8	chemical	Adenosine Triphosphate	4	9	3.295634963777275
+8	chemical	Ala-Asp-Pro	2	2	2.9542425094393248
+8	gene/protein	Replication-associated protein A	345	2	509.6068328782835
+8	gene/protein	RepFIB replication protein A (Escherichia coli K-12)	43	2	63.516213952945485
+8	gene/protein	RepFIB replication protein A	43	2	63.516213952945485
+8	gene/protein	transcriptional repressor PifC (Escherichia coli K-12)	35	2	51.699243915188184
+8	gene/protein	Repressor c protein	35	2	51.699243915188184
+8	organism	unidentified plasmid	56	33	14.539689388322342
+8	organism	Plasmid p42d	5	5	5.395906230238125
+8	organism	Rhizobium etli	18	34	4.440102000144993
+8	organism	Alphaproteobacteria	6	14	3.792139288232433
+8	organism	Rhizobium leguminosarum	2	13	1.3284157961536136
+8	sequence	plasmid	61	33	15.837875940851124
+8	sequence	antisense_RNA	7	1	12.447058752685505
+8	sequence	operon	32	30	9.632959861247398
+8	sequence	INR_motif	7	3	9.107209969647869
+8	sequence	replicon	9	9	7.415178668498869
+8	cell_line	REPC	35	2	51.699243915188184
+8	cell_line	CE-3	4	11	2.9470342609016744
+8	cell_line	PC-9/GR4	1	2	1.4771212547196624
+8	organ/tissue	forelimb stylopod	1	1	1.7781512503836436
+8	organ/tissue	arm	1	1	1.7781512503836436
+8	organ/tissue	organ	7	36	1.5529412473144948
+8	clinical_drug	Adenosine Triphosphate	2	10	1.5563025007672873
+8	molecular_function	obsolete antisense RNA	7	1	12.447058752685505
+8	molecular_function	binding	1	19	0.49939764943081466
+8	entity_type	preferred_term	2	25	0.7604224834232121
+8	disease	MEGALOBLASTIC ANEMIA 1	1	2	1.4771212547196624
+55	biological_process	nitrogen fixation	7	25	2.6614786919812423
+55	biological_process	regulation of transcription, DNA-templated	2	5	2.1583624920952498
+55	biological_process	transduction	1	3	1.3010299956639813
+55	biological_process	obsolete mutagenesis	2	16	1.1480625354554377
+55	biological_process	symbiotic process	3	31	0.8603686696481128
+55	chemical	Oxidoreductases	10	11	7.367585652254186
+55	chemical	Cytochromes	4	6	4.0
+55	chemical	cytochrome	4	6	4.0
+55	chemical	Histidine Kinase	1	1	1.7781512503836436
+55	chemical	nitrogen atom	8	36	1.7747899969308512
+55	gene/protein	Transcriptional activator protein	19	1	33.784873757289226
+55	gene/protein	Nitrite reductase	4	3	5.204119982655925
+55	gene/protein	NADPH-dependent thioredoxin reductase 3 (Arabidopsis thaliana)	3	3	3.9030899869919438
+55	gene/protein	DNA-binding transcriptional regulator NtrC (Escherichia coli K-12)	3	4	3.528273777167044
+55	gene/protein	DNA-binding transcriptional regulator NtrC	3	4	3.528273777167044
+55	organism	Rhizobium etli	15	34	3.7000850001208274
+55	organism	Bradyrhizobium japonicum	2	10	1.5563025007672873
+55	organism	unidentified plasmid	5	33	1.2981865525287806
+55	organism	hybrid	1	4	1.1760912590556813
+55	organism	Chimera	1	5	1.0791812460476249
+55	sequence	operon	12	30	3.612359947967774
+55	sequence	sequence_variant_obs	8	25	3.0416899336928482
+55	sequence	cryptic	2	5	2.1583624920952498
+55	sequence	fusion	3	15	1.806179973983887
+55	sequence	histidine	1	2	1.4771212547196624
+55	organ/tissue	membrane organ	1	19	0.49939764943081466
+55	organ/tissue	membranous layer	1	19	0.49939764943081466
+55	organ/tissue	multicellular organism	1	36	0.2218487496163564
+55	organ/tissue	cerebellum vermis lobule X	1	36	0.2218487496163564
+55	organ/tissue	germinal center	1	36	0.2218487496163564
+55	clinical_drug	Nitrogen	8	36	1.7747899969308512
+55	clinical_drug	Histidine	1	2	1.4771212547196624
+55	clinical_drug	Oxygen	1	14	0.6320232147054056
+55	cellular_component	membrane	1	16	0.5740312677277188
+55	cellular_component	obsolete protein	4	47	0.42421356979170477
+55	cellular_component	chromosome	1	28	0.3309932190414244
+55	molecular_process	reduction	1	17	0.5477023290053696
+55	molecular_function	electron transporter, transferring electrons within the noncyclic electron transport pathway of photosynthesis activity	5	6	5.0
+55	molecular_function	electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity	5	6	5.0
+55	molecular_function	electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity	5	6	5.0
+55	molecular_function	electron transporter, transferring electrons within cytochrome c oxidase complex activity	5	6	5.0
+55	molecular_function	obsolete cytochrome	5	6	5.0
+12	gene/protein	Catalase	380	2	561.3060767934717
+12	gene/protein	Citrate synthase	312	5	336.704548766859
+12	gene/protein	Nitrogenase iron protein	87	2	128.50954916061062
+12	gene/protein	Flavohemoprotein	172	14	108.70799292932976
+12	gene/protein	Prolactin	40	4	47.043650362227254
+12	organism	unidentified plasmid	80	33	20.77098484046049
+12	organism	Sinorhizobium fredii	8	2	11.816970037757299
+12	organism	Rhizobium etli	38	34	9.373548666972763
+12	organism	Rhizobium leguminosarum	10	13	6.642078980768068
+12	organism	Rhizobium giardinii	4	2	5.9084850188786495
+12	sequence	plasmid	81	33	21.030622150966245
+12	sequence	PCR_product	12	10	9.337815004603723
+12	sequence	integration_excision_site	3	2	4.431363764158987
+12	sequence	fragmentary	8	17	4.381618632042957
+12	sequence	clone	9	22	3.921557126052936
+12	cell_line	R1192	14	30	4.214419939295737
+12	cell_line	PC60.21.14.4	2	1	3.5563025007672873
+12	cell_line	BTI-Tn-5B1-4	3	9	2.4717262228329564
+12	cell_line	RECA	3	10	2.3344537511509307
+12	cell_line	REPC	1	2	1.4771212547196624
+12	clinical_drug	Kanamycin	2	2	2.9542425094393248
+12	clinical_drug	TANDEM	3	9	2.4717262228329564
+12	clinical_drug	Nitrogen	10	36	2.218487496163564
+12	clinical_drug	Medicago sativa whole extract	3	13	1.9926236942304203
+12	clinical_drug	MYELOPEROXIDASE	1	1	1.7781512503836436
+12	organ/tissue	attachment site	3	2	4.431363764158987
+12	organ/tissue	lateral lumbar region of abdomen	3	5	3.2375437381428744
+12	organ/tissue	anatomical junction	2	3	2.6020599913279625
+12	organ/tissue	coat of hair	1	2	1.4771212547196624
+12	organ/tissue	life cycle	1	3	1.3010299956639813
+12	chemical	Catalase	10	2	14.771212547196624
+12	chemical	polyphenol	4	1	7.1126050015345745
+12	chemical	PH.3	4	1	7.1126050015345745
+12	chemical	Citrate (si)-Synthase	6	5	6.475087476285749
+12	chemical	positron	8	10	6.225210003069149
+12	molecular_process	oxidation	1	10	0.7781512503836436
+12	biological_process	nodulation	14	29	4.420545534785626
+12	biological_process	mating	2	1	3.5563025007672873
+12	biological_process	parasexual conjugation with cellular fusion	2	1	3.5563025007672873
+12	biological_process	conjugation with cellular fusion	2	1	3.5563025007672873
+12	biological_process	symbiotic process	7	31	2.0075268958455967
+12	cellular_component	cell surface	1	5	1.0791812460476249
+12	cellular_component	chromosome	2	28	0.6619864380828488
+12	cellular_component	obsolete protein	3	47	0.31816017734377855
+12	molecular_function	citrate (Si)-synthase activity	2	2	2.9542425094393248
+12	molecular_function	citrate synthase activity	2	2	2.9542425094393248
+12	molecular_function	peroxidase activity	1	1	1.7781512503836436
+12	molecular_function	catalase activity	1	1	1.7781512503836436
+12	molecular_function	nitrogenase activity	2	9	1.6478174818886375
+12	disease	Whooping Cough	2	1	3.5563025007672873
+12	disease	Myoclonic Epilepsies, Progressive	4	14	2.5280928588216223
+12	disease	Van der Woude syndrome	2	4	2.3521825181113627
+12	disease	Neoplasms	2	5	2.1583624920952498
+12	entity_type	preferred_term	2	25	0.7604224834232121
+45	biological_process	homologous recombination	3	8	2.6251837901751003
+45	biological_process	nodulation	7	29	2.210272767392813
+45	biological_process	sensitization	1	1	1.7781512503836436
+45	biological_process	embryo development ending in birth or egg hatching	1	1	1.7781512503836436
+45	biological_process	embryo development ending in seed dormancy	1	1	1.7781512503836436
+45	cellular_component	B cell receptor complex	1	5	1.0791812460476249
+45	cellular_component	immunoglobulin complex, circulating	1	5	1.0791812460476249
+45	cellular_component	immunoglobulin complex	1	5	1.0791812460476249
+45	cellular_component	chromosome	3	28	0.9929796571242733
+45	disease	Disease	8	15	4.816479930623699
+45	disease	Chromosome Inversion	2	1	3.5563025007672873
+45	disease	Nephrosis, congenital	1	2	1.4771212547196624
+45	gene/protein	blood group Rh(D) polypeptide (rat)	9	1	16.00336125345279
+45	gene/protein	blood group Rh(D) polypeptide (human)	9	1	16.00336125345279
+45	gene/protein	blood group Rh(D) polypeptide (mouse)	9	1	16.00336125345279
+45	gene/protein	blood group Rh(D) polypeptide	9	1	16.00336125345279
+45	gene/protein	blood group Rh(CE) polypeptide (human)	4	1	7.1126050015345745
+45	molecular_function	5-(carboxyamino)imidazole ribonucleotide mutase activity	1	4	1.1760912590556813
+45	molecular_function	antigen binding	1	6	1.0
+45	organism	Rhizobium phaseoli	6	10	4.668907502301861
+45	organism	Rhizobium leguminosarum	6	13	3.9852473884608406
+45	organism	unidentified plasmid	13	33	3.3752850365748293
+45	organism	Humans	8	24	3.183520069376301
+45	organism	Rhizobium	7	27	2.427512403572594
+45	sequence	deletion	10	23	4.164234143660507
+45	sequence	plasmid	14	33	3.6349223470805856
+45	sequence	polypeptide_repeat	3	10	2.3344537511509307
+45	sequence	PCR_product	3	10	2.3344537511509307
+45	sequence	probe	3	10	2.3344537511509307
+45	chemical	Methyl Methanesulfonate	2	2	2.9542425094393248
+45	chemical	Nitrofurantoin	2	2	2.9542425094393248
+45	chemical	probe	3	10	2.3344537511509307
+45	chemical	methyl methanesulfonate	1	2	1.4771212547196624
+45	chemical	nitrofurantoin	1	2	1.4771212547196624
+45	organ/tissue	embryo stage	1	2	1.4771212547196624
+45	organ/tissue	start of neonate stage	1	2	1.4771212547196624
+45	organ/tissue	cuneiform nucleus	1	2	1.4771212547196624
+45	organ/tissue	anatomical point connecting sagittal and lambdoidal sutures	1	3	1.3010299956639813
+45	organ/tissue	lateral lumbar region of abdomen	1	5	1.0791812460476249
+45	cell	somatic cell	1	1	1.7781512503836436
+45	cell_line	RECA	6	10	4.668907502301861
+45	cell_line	FEC	1	1	1.7781512503836436
+45	cell_line	HBM-Noda	2	9	1.6478174818886375
+45	cell_line	MDCC-MOB1	1	5	1.0791812460476249
+45	cell_line	Mo-B	1	5	1.0791812460476249
+45	clinical_drug	Nitrofurantoin	1	2	1.4771212547196624
+45	clinical_drug	Nitrogen	1	36	0.2218487496163564
+45	molecular_process	coordination	1	3	1.3010299956639813
+45	molecular_process	reduction	1	17	0.5477023290053696
+19	biological_process	tricarboxylic acid cycle	5	7	4.665266051846934
+19	biological_process	biotin transport	2	1	3.5563025007672873
+19	biological_process	transcription, DNA-templated	6	27	2.080724917347938
+19	biological_process	carbon fixation	1	1	1.7781512503836436
+19	biological_process	obsolete mutagenesis	3	16	1.7220938031831565
+19	cellular_component	intracellular	2	15	1.2041199826559248
+19	cellular_component	chromosomal region	1	4	1.1760912590556813
+19	cellular_component	extracellular region	1	11	0.7367585652254186
+19	cellular_component	obsolete protein	4	47	0.42421356979170477
+19	chemical	Biotin	32	5	34.533799873523996
+19	chemical	Pyruvic Acid	28	8	24.501715374967603
+19	chemical	Thiamine	16	5	17.266899936761998
+19	chemical	biotinate	16	5	17.266899936761998
+19	chemical	biotin	16	5	17.266899936761998
+19	gene/protein	Phosphoenolpyruvate carboxylase	246	2	363.37182866103694
+19	gene/protein	Pyruvate carboxylase	73	5	78.78023096147662
+19	gene/protein	Ribosome modulation factor	40	1	71.12605001534574
+19	gene/protein	pyruvate carboxylase (Bacillus subtilis subsp. subtilis str. 168)	33	1	58.67899126266024
+19	gene/protein	pyruvate carboxylase	38	3	49.43913983523129
+19	organism	Sinorhizobium meliloti	10	21	4.559319556497244
+19	organism	Rhizobium etli	16	34	3.946757333462216
+19	organism	Bradyrhizobium diazoefficiens	3	5	3.2375437381428744
+19	organism	Rhizobium tropici	4	15	2.4082399653118496
+19	organism	Bradyrhizobium japonicum	2	10	1.5563025007672873
+19	sequence	gene_fusion	2	5	2.1583624920952498
+19	sequence	insertion	3	14	1.8960696441162166
+19	sequence	cosmid	2	7	1.8661064207387736
+19	sequence	mutated_variant_site	3	16	1.7220938031831565
+19	sequence	wild_type	3	16	1.7220938031831565
+19	clinical_drug	Biotin	16	5	17.266899936761998
+19	clinical_drug	Pyruvate	19	9	15.654266077942056
+19	clinical_drug	Thiamine	8	4	9.40873007244545
+19	clinical_drug	Dextrose, Unspecified Form	5	13	3.321039490384034
+19	clinical_drug	Medicago sativa whole extract	1	13	0.6642078980768068
+19	molecular_function	4-amino-5-hydroxymethyl-2-methylpyrimidine phosphate synthase activity	2	2	2.9542425094393248
+19	molecular_function	catalytic activity	1	11	0.7367585652254186
+19	molecular_function	binding	1	19	0.49939764943081466
+19	cell_line	BCIRL-TcA-CLG1	5	4	5.880456295278407
+19	cell_line	CE-3	7	11	5.15730995657793
+19	cell_line	CAR #1	2	1	3.5563025007672873
+19	cell_line	CaR-1	2	1	3.5563025007672873
+19	cell_line	BTI-Tn-5B1-4	3	9	2.4717262228329564
+19	organ/tissue	plantar part of pes	2	11	1.4735171304508372
+19	organ/tissue	excreta	1	4	1.1760912590556813
+19	organ/tissue	multicellular organism	2	36	0.4436974992327128
+19	organ/tissue	cerebellum vermis lobule X	2	36	0.4436974992327128
+19	organ/tissue	germinal center	2	36	0.4436974992327128
+19	molecular_process	biotinylation	2	1	3.5563025007672873
+19	molecular_process	carboxylation	1	1	1.7781512503836436
+27	biological_process	transcription, DNA-templated	21	27	7.282537210717783
+27	biological_process	biological_process	1	9	0.8239087409443188
+27	chemical	gold(0)	3	4	3.528273777167044
+27	chemical	gold atom	3	4	3.528273777167044
+27	chemical	oligonucleotide	2	7	1.8661064207387736
+27	chemical	trinucleotide	1	2	1.4771212547196624
+27	chemical	cluster	2	33	0.5192746210115122
+27	sequence	operon	45	30	13.546349804879155
+27	sequence	beta_strand	5	6	5.0
+27	sequence	intergenic_variant	4	4	4.704365036222725
+27	sequence	paralogous	3	3	3.9030899869919438
+27	sequence	signature	3	8	2.6251837901751003
+27	organ/tissue	ball	5	1	8.890756251918218
+27	organ/tissue	exoskeleton	1	2	1.4771212547196624
+27	organ/tissue	shell	1	2	1.4771212547196624
+27	organ/tissue	multicellular organism	6	36	1.3310924976981384
+27	gene/protein	nucleosomal histone kinase 1 (fruit fly)	5	1	8.890756251918218
+27	gene/protein	Keratin, type I cytoskeletal 12	8	12	5.591760034688151
+27	gene/protein	tubby protein (mouse)	1	1	1.7781512503836436
+27	gene/protein	tubby protein homolog (human)	1	1	1.7781512503836436
+27	gene/protein	tubby protein	1	1	1.7781512503836436
+27	organism	Escherichia coli	24	30	7.224719895935548
+27	organism	Bacillus subtilis	4	7	3.7322128414775473
+27	organism	Borrelia burgdorferi	1	4	1.1760912590556813
+27	organism	Borreliella burgdorferi	1	4	1.1760912590556813
+27	organism	Escherichia coli K12	1	12	0.6989700043360189
+27	cell_line	K12 [Mouse osteosarcoma]	2	12	1.3979400086720377
+27	cell_line	K12-72.1	2	12	1.3979400086720377
+27	clinical_drug	Bacillus subtilis	2	7	1.8661064207387736
+24	chemical	Coffee	14	2	20.679697566075273
+24	chemical	BES	6	1	10.668907502301861
+24	chemical	RNA, Ribosomal, 16S	13	16	7.462406480460345
+24	chemical	DNA, Ribosomal	9	10	7.003361253452793
+24	chemical	Sucrose	6	6	6.0
+24	gene/protein	Flavohemoprotein	172	14	108.70799292932976
+24	gene/protein	Levansucrase	52	2	76.81030524542244
+24	gene/protein	Peptidoglycan-associated lipoprotein	32	1	56.900840012276596
+24	gene/protein	Replication-associated protein	40	3	52.04119982655925
+24	gene/protein	Endothelin-3	24	1	42.675630009207445
+24	organism	Gluconacetobacter diazotrophicus	29	2	42.83651638687021
+24	organism	Saccharum	13	5	14.029356198619123
+24	organism	Saccharum officinarum	13	5	14.029356198619123
+24	organism	Saccharum hybrid cultivar	13	5	14.029356198619123
+24	organism	Gluconacetobacter	7	1	12.447058752685505
+24	sequence	rRNA_gene	19	15	11.439139835231286
+24	sequence	RFLP_fragment	12	7	11.196638524432641
+24	sequence	genotype	17	16	9.75853155137122
+24	sequence	rRNA_16S	13	16	7.462406480460345
+24	sequence	primer	5	8	4.3753063169585005
+24	cell_line	LIMA 97	3	4	3.528273777167044
+24	cell_line	BGA	1	1	1.7781512503836436
+24	cell_line	11a	1	1	1.7781512503836436
+24	cell_line	PA-1	1	2	1.4771212547196624
+24	cell_line	PAI	1	2	1.4771212547196624
+24	organ/tissue	fibulare	1	1	1.7781512503836436
+24	organ/tissue	talus	1	1	1.7781512503836436
+24	organ/tissue	cerebellum vermis lobule X	6	36	1.3310924976981384
+24	organ/tissue	germinal center	6	36	1.3310924976981384
+24	organ/tissue	primordium	1	4	1.1760912590556813
+24	clinical_drug	sugarcane extract	13	5	14.029356198619123
+24	clinical_drug	Saccharum officinarum allergenic extract	13	5	14.029356198619123
+24	clinical_drug	pineapple extract	3	1	5.334453751150931
+24	clinical_drug	Phaseolus lunatus allergenic extract	3	3	3.9030899869919438
+24	clinical_drug	Sucrose	3	7	2.7991596311081604
+24	biological_process	fertilization	3	5	3.2375437381428744
+24	biological_process	nitrogen fixation	2	25	0.7604224834232121
+24	biological_process	nodulation	2	29	0.6315065049693751
+24	biological_process	symbiotic process	1	31	0.28678955654937094
+24	molecular_function	peptidylamidoglycolate lyase activity	3	1	5.334453751150931
+24	molecular_function	Rab GTPase binding	1	3	1.3010299956639813
+24	molecular_function	obsolete signal peptide peptidase activity	1	17	0.5477023290053696
+24	disease	Myoclonic Epilepsies, Progressive	4	14	2.5280928588216223
+24	cellular_component	chromosome	1	28	0.3309932190414244
+24	cellular_component	obsolete protein	1	47	0.10605339244792619
+24	cell	band form neutrophil	1	2	1.4771212547196624
+36	biological_process	translation	20	6	20.0
+36	biological_process	cell growth	2	8	1.7501225267834002
+36	biological_process	protein catabolic process	1	2	1.4771212547196624
+36	biological_process	behavior	1	7	0.9330532103693868
+36	biological_process	biosynthetic process	4	45	0.49975494643319973
+36	cellular_component	ribosome	6	7	5.598319262216321
+36	cellular_component	obsolete protein	20	47	2.121067848958524
+36	cellular_component	cytosolic small ribosomal subunit	1	1	1.7781512503836436
+36	cellular_component	chromosome	1	28	0.3309932190414244
+36	chemical	Methionine	6	3	7.8061799739838875
+36	chemical	Codon	4	3	5.204119982655925
+36	chemical	L-methionine	3	3	3.9030899869919438
+36	chemical	methionine zwitterion	3	3	3.9030899869919438
+36	chemical	methionine	3	3	3.9030899869919438
+36	gene/protein	Peptidyl-tRNA hydrolase	12767	1	22701.65701364798
+36	gene/protein	Parathyroid hormone	153	1	272.05714130869745
+36	gene/protein	Probable peptidyl-tRNA hydrolase	51	1	90.68571376956582
+36	gene/protein	Peptidyl-tRNA hydrolase ArfB	34	1	60.457142513043884
+36	gene/protein	UbiA prenyltransferase domain-containing protein 1 (zebrafish)	26	1	46.23193250997473
+36	organism	Bacteriophage lambda	5	3	6.505149978319906
+36	organism	Escherichia virus Lambda	5	3	6.505149978319906
+36	organism	Chlamydia trachomatis	2	1	3.5563025007672873
+36	organism	Mycoplasma genitalium	2	1	3.5563025007672873
+36	organism	Escherichia coli	10	30	3.010299956639812
+36	sequence	phage_sequence	9	13	5.977871082691261
+36	sequence	tRNA	4	3	5.204119982655925
+36	sequence	codon	4	3	5.204119982655925
+36	sequence	methionine	3	3	3.9030899869919438
+36	sequence	isoleucine	2	1	3.5563025007672873
+36	organ/tissue	melanophore stripe	26	1	46.23193250997473
+36	organ/tissue	posterior nucleus of thalamus	20	1	35.56302500767287
+36	organ/tissue	anatomical point connecting sagittal and lambdoidal sutures	10	3	13.010299956639813
+36	organ/tissue	organismal segment	1	9	0.8239087409443188
+36	disease	Starvation	6	4	7.056547554334088
+36	disease	Lyme Disease	2	2	2.9542425094393248
+36	disease	Influenza, Human	2	4	2.3521825181113627
+36	disease	Aortic Aneurysm, Familial Abdominal 1	1	1	1.7781512503836436
+36	molecular_function	triplet codon-amino acid adaptor activity	4	5	4.3167249841904995
+36	molecular_function	hydrolase activity	1	2	1.4771212547196624
+36	molecular_function	5-(carboxyamino)imidazole ribonucleotide mutase activity	1	4	1.1760912590556813
+36	clinical_drug	Methionine	3	3	3.9030899869919438
+36	clinical_drug	Isoleucine	1	1	1.7781512503836436
+36	clinical_drug	Bacillus subtilis	1	7	0.9330532103693868
+36	clinical_drug	saccharomyces cerevisiae allergenic extract	1	12	0.6989700043360189
+36	clinical_drug	Saccharomyces cerevisiae	1	12	0.6989700043360189
+35	biological_process	glutamine biosynthetic process	2	3	2.6020599913279625
+35	biological_process	translation	2	6	2.0
+35	biological_process	post-translational protein modification	1	2	1.4771212547196624
+35	biological_process	transduction	1	3	1.3010299956639813
+35	biological_process	root development	1	3	1.3010299956639813
+35	cellular_component	apoplast	1	1	1.7781512503836436
+35	cellular_component	symplast	1	1	1.7781512503836436
+35	cellular_component	virion	1	1	1.7781512503836436
+35	cellular_component	plasma membrane	1	6	1.0
+35	cellular_component	chromosome	2	28	0.6619864380828488
+35	chemical	polypeptide	38	12	26.560860164768716
+35	chemical	Ammonium Compounds	30	9	24.717262228329563
+35	chemical	Glutamate-Ammonia Ligase	24	7	22.393277048865283
+35	chemical	Glutamine	20	8	17.501225267834002
+35	chemical	ammonium	17	9	14.006448596053419
+35	gene/protein	Glutamine synthetase	2928	11	2157.229078980026
+35	gene/protein	Glutamate dehydrogenase	32	5	34.533799873523996
+35	gene/protein	Ammonium transporter 2	14	1	24.89411750537101
+35	gene/protein	ammonium transporter 2 (Arabidopsis thaliana)	14	1	24.89411750537101
+35	gene/protein	glutamine synthetase	24	8	21.001470321400802
+35	organism	Neurospora crassa	10	5	10.79181246047625
+35	organism	Saccharomyces cerevisiae	8	12	5.591760034688151
+35	organism	Human rotavirus	2	1	3.5563025007672873
+35	organism	Arabidopsis	4	10	3.1126050015345745
+35	organism	Rhizobium phaseoli	4	10	3.1126050015345745
+35	sequence	glutamine	40	10	31.126050015345747
+35	sequence	polypeptide	42	49	3.694117154915459
+35	sequence	sequence_variant_obs	8	25	3.0416899336928482
+35	sequence	serine	3	9	2.4717262228329564
+35	sequence	glycine	3	11	2.210275695676256
+35	cell	epidermal cell	1	1	1.7781512503836436
+35	cell	reticulocyte	1	1	1.7781512503836436
+35	organ/tissue	exoskeleton	3	2	4.431363764158987
+35	organ/tissue	shell	3	2	4.431363764158987
+35	organ/tissue	hindlimb zeugopod	2	2	2.9542425094393248
+35	organ/tissue	cerebellum vermis lobule X	10	36	2.218487496163564
+35	organ/tissue	germinal center	10	36	2.218487496163564
+35	clinical_drug	Glutamine	34	10	26.457142513043884
+35	clinical_drug	Glutamate	10	10	7.781512503836437
+35	clinical_drug	Serine	3	6	3.0
+35	clinical_drug	Oxygen	4	14	2.5280928588216223
+35	clinical_drug	Glycine	3	10	2.3344537511509307
+35	molecular_process	oxidation	2	10	1.5563025007672873
+35	molecular_process	reduction	1	17	0.5477023290053696
+35	molecular_function	glutamate synthase activity	2	2	2.9542425094393248
+35	molecular_function	glutamate-ammonia ligase activity	2	2	2.9542425094393248
+35	molecular_function	transferase activity	1	1	1.7781512503836436
+35	molecular_function	4-coumarate-CoA ligase activity	1	1	1.7781512503836436
+35	molecular_function	ligase activity	1	2	1.4771212547196624
+35	cell_line	1BR3	3	2	4.431363764158987
+35	cell_line	GM12508	3	2	4.431363764158987
+35	cell_line	Gsn-1	2	1	3.5563025007672873
+35	cell_line	Y8-10C2	1	1	1.7781512503836436
+35	cell_line	MIN	1	6	1.0
+35	disease	Diarrhea	2	4	2.3521825181113627
+35	disease	Dissociative Disorders	1	1	1.7781512503836436
+35	disease	Pneumonia	2	9	1.6478174818886375
+35	disease	Infections	2	22	0.8714571391228747
+33	biological_process	tricarboxylic acid cycle	3	7	2.7991596311081604
+33	biological_process	glutamate biosynthetic process	1	1	1.7781512503836436
+33	biological_process	symbiotic process	6	31	1.7207373392962255
+33	biological_process	glutamine catabolic process	1	2	1.4771212547196624
+33	biological_process	excretion	1	4	1.1760912590556813
+33	chemical	Ammonium Compounds	38	9	31.308532155884112
+33	chemical	Glutamic Acid	26	8	22.751592848184202
+33	chemical	glyoxylic acid	18	4	21.169642663002264
+33	chemical	ammonium	19	9	15.654266077942056
+33	chemical	Ketoglutaric Acids	10	2	14.771212547196624
+33	gene/protein	Glutaminase	1064	2	1571.6570150217208
+33	gene/protein	Glutamine synthetase	652	11	480.36658452697293
+33	gene/protein	Glutamate dehydrogenase	400	5	431.67249841904993
+33	gene/protein	Glucose 1-dehydrogenase	180	4	211.69642663002264
+33	gene/protein	Citrate synthase	156	5	168.3522743834295
+33	molecular_function	glucose-6-phosphate dehydrogenase activity	20	4	23.521825181113627
+33	molecular_function	glutamate synthase (NADH) activity	6	1	10.668907502301861
+33	molecular_function	glutamate synthase (NADPH) activity	6	1	10.668907502301861
+33	molecular_function	glutamate synthase activity	3	2	4.431363764158987
+33	molecular_function	glutaminase activity	3	2	4.431363764158987
+33	organism	Saccharomyces cerevisiae	10	12	6.989700043360188
+33	organism	Neurospora crassa	4	5	4.3167249841904995
+33	organism	Rhizobium phaseoli	4	10	3.1126050015345745
+33	organism	Rhizobium etli	8	34	1.973378666731108
+33	organism	Galactobacillus timonensis	1	1	1.7781512503836436
+33	sequence	glutamine	10	10	7.781512503836437
+33	sequence	sequence_variant_obs	9	25	3.421901175404454
+33	sequence	methionine	2	3	2.6020599913279625
+33	sequence	serine	2	9	1.6478174818886375
+33	sequence	intermediate	3	17	1.6431069870161088
+33	cell_line	PAM-1	7	1	12.447058752685505
+33	cell_line	HBM-Noda	3	9	2.4717262228329564
+33	cell_line	pTr	1	1	1.7781512503836436
+33	cell_line	R1192	3	30	0.9030899869919435
+33	cell_line	BTI-Tn-5B1-4	1	9	0.8239087409443188
+33	clinical_drug	Glutamate	28	10	21.78823501074202
+33	clinical_drug	Glutamine	10	10	7.781512503836437
+33	clinical_drug	Pyruvate	5	9	4.119543704721594
+33	clinical_drug	saccharomyces cerevisiae allergenic extract	4	12	2.7958800173440754
+33	clinical_drug	Saccharomyces cerevisiae	4	12	2.7958800173440754
+33	disease	Disease Attributes	2	7	1.8661064207387736
+33	disease	Pilomatrixoma	1	1	1.7781512503836436
+33	disease	Myoclonic Epilepsies, Progressive	2	14	1.2640464294108111
+33	organ/tissue	excreta	1	4	1.1760912590556813
+33	organ/tissue	lateral lumbar region of abdomen	1	5	1.0791812460476249
+33	organ/tissue	exudate	1	8	0.8750612633917001
+33	organ/tissue	plantar part of pes	1	11	0.7367585652254186
+33	organ/tissue	cerebellum vermis lobule X	1	36	0.2218487496163564
+33	cellular_component	intracellular	1	15	0.6020599913279624
+15	biological_process	biological regulation	22	34	5.426791333510547
+15	biological_process	regulation of gene expression	5	9	4.119543704721594
+15	biological_process	transcription, DNA-templated	11	27	3.8146623484712197
+15	biological_process	gene expression	1	27	0.3467874862246563
+15	molecular_function	binding	6	19	2.996385896584888
+15	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	2	13	1.3284157961536136
+15	organism	Escherichia coli	14	30	4.214419939295737
+15	organism	collection	6	21	2.7355917338983464
+15	organism	Trachinotus falcatus	1	6	1.0
+15	organism	Salmonella	1	10	0.7781512503836436
+15	organism	Yeasts	1	14	0.6320232147054056
+15	sequence	promoter	35	23	14.574819502811776
+15	sequence	operator	9	2	13.294091292476962
+15	sequence	regulatory_region	6	9	4.943452445665913
+15	sequence	regulatory_region_variant	6	9	4.943452445665913
+15	sequence	binding_site	5	12	3.494850021680094
+15	organ/tissue	matrix compartment	3	14	1.8960696441162166
+15	organ/tissue	organ	8	36	1.7747899969308512
+15	organ/tissue	webbed interdigital region	2	8	1.7501225267834002
+15	organ/tissue	sense organ	1	5	1.0791812460476249
+15	organ/tissue	multicellular organism	2	36	0.4436974992327128
+15	clinical_drug	Yeast, Unspecified	1	15	0.6020599913279624
+15	cellular_component	obsolete protein	2	47	0.21210678489585238
+15	chemical	RNA polymerase sigma 70	16	7	14.92885136591019
+15	chemical	dimethoxymethane	4	3	5.204119982655925
+15	chemical	atom	8	34	1.973378666731108
+15	chemical	base	12	45	1.4992648392995993
+15	chemical	Cyclic AMP Receptor Protein	1	4	1.1760912590556813
+15	gene/protein	RNA polymerase sigma factor RpoD	560	8	490.03430749935205
+15	gene/protein	RNA polymerase sigma factor SigA	48	7	44.786554097730566
+15	gene/protein	Peptidoglycan hydrolase P7	1	1	1.7781512503836436
+15	gene/protein	Cyclic AMP receptor protein	1	5	1.0791812460476249
+15	gene/protein	bifunctional protein FolD	1	15	0.6020599913279624
+15	cell_line	UtE-iPS-1	2	3	2.6020599913279625
+15	entity_type	preferred_term	2	25	0.7604224834232121
+32	biological_process	glutamine catabolic process	3	2	4.431363764158987
+32	biological_process	catabolic process	3	16	1.7220938031831565
+32	biological_process	arginine biosynthetic process	1	2	1.4771212547196624
+32	biological_process	glutamine biosynthetic process	1	3	1.3010299956639813
+32	biological_process	biological regulation	3	34	0.7400170000241655
+32	chemical	Glutamine	110	8	96.25673897308701
+32	chemical	glutamine	55	8	48.128369486543505
+32	chemical	L-glutamine	55	8	48.128369486543505
+32	chemical	Glutamic Acid	26	8	22.751592848184202
+32	chemical	Ammonium Compounds	22	9	18.125992300775014
+32	gene/protein	S-adenosylmethionine synthase	3876	3	5042.792263193592
+32	gene/protein	GMP synthase [glutamine-hydrolyzing]	582	1	1034.8840277232805
+32	gene/protein	Glutamine synthetase	1354	11	997.5710973152168
+32	gene/protein	Glutaminase	304	2	449.0448614347774
+32	gene/protein	Glutamate dehydrogenase	128	5	138.13519949409599
+32	molecular_function	transaminase activity	5	1	8.890756251918218
+32	molecular_function	[acyl-carrier-protein] S-malonyltransferase activity	6	3	7.8061799739838875
+32	molecular_function	L-glutamine:pyruvate aminotransferase activity	2	1	3.5563025007672873
+32	molecular_function	transporter activity	2	3	2.6020599913279625
+32	molecular_function	cellulose synthase (UDP-forming) activity	1	1	1.7781512503836436
+32	organism	Neurospora crassa	18	5	19.42526242885725
+32	organism	Saccharomyces cerevisiae	4	12	2.7958800173440754
+32	organism	Sinorhizobium meliloti	4	21	1.8237278225988975
+32	organism	Neurospora	1	1	1.7781512503836436
+32	organism	Spores, Fungal	1	2	1.4771212547196624
+32	sequence	glutamine	75	10	58.361343778773275
+32	sequence	arginine	5	5	5.395906230238125
+32	sequence	alanine	3	4	3.528273777167044
+32	sequence	double	4	14	2.5280928588216223
+32	sequence	amino_acid	7	32	1.9110089044461636
+32	cell_line	MAT	6	3	7.8061799739838875
+32	cell_line	MS-5	3	1	5.334453751150931
+32	cell_line	NMR-1	2	1	3.5563025007672873
+32	cell_line	RHO	2	1	3.5563025007672873
+32	cell_line	NIT-2	2	2	2.9542425094393248
+32	clinical_drug	Glutamine	74	10	57.58319252838963
+32	clinical_drug	Glutamate	26	10	20.231932509974733
+32	clinical_drug	Arginine	5	4	5.880456295278407
+32	clinical_drug	Nitrogen	17	36	3.771428743478059
+32	clinical_drug	Alanine	3	4	3.528273777167044
+32	disease	Multiple Sclerosis	3	1	5.334453751150931
+32	disease	Starvation	4	4	4.704365036222725
+32	organ/tissue	skeleton	1	2	1.4771212547196624
+32	organ/tissue	plantar part of pes	2	11	1.4735171304508372
+32	entity_type	preferred_term	2	25	0.7604224834232121
+32	cellular_component	vesicle	1	4	1.1760912590556813
+32	cellular_component	obsolete soluble fraction	1	6	1.0

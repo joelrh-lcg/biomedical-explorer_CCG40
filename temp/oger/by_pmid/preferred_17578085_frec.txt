@@ -1,0 +1,17 @@
+17578085	biological_process	biological_process	1
+17578085	biological_process	protein localization	1
+17578085	biological_process	signal transduction	1
+17578085	cellular_component	obsolete protein	3
+17578085	chemical	protein	4
+17578085	chemical	(protein)	3
+17578085	chemical	metabolite	2
+17578085	chemical	biological role	1
+17578085	chemical	Proteins	1
+17578085	chemical	picloram	1
+17578085	gene/protein	protein	3
+17578085	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+17578085	gene/protein	protein IMPACT (zebrafish)	1
+17578085	sequence	gene	3
+17578085	sequence	polypeptide	3
+17578085	sequence	transcript	1
+17578085	organ/tissue	scale	1

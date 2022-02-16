@@ -1,0 +1,6 @@
+28546491	chemical	hydrocarbon	1
+28546491	organism	bacterium	7
+28546491	organism	prophage	1
+28546491	sequence	sequence	1
+28546491	sequence	genome	1
+28546491	sequence	prophage	1

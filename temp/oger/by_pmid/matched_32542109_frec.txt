@@ -1,0 +1,16 @@
+32542109	biological_process	regulation	1
+32542109	chemical	gold	2
+32542109	disease	tuberculosis	2
+32542109	organism	bacterium	14
+32542109	organism	bacillus subtilis	2
+32542109	organism	Escherichia coli	2
+32542109	organism	Corynebacterium glutamicum	2
+32542109	organism	Staphylococcus aureus	2
+32542109	organism	Pseudomonas aeruginosa	2
+32542109	organism	Streptococcus	2
+32542109	organism	bacterium 64	1
+32542109	sequence	gene	1
+32542109	sequence	genome	1
+32542109	sequence	regulon	1
+32542109	organ/tissue	Atlas	4
+32542109	clinical_drug	bacillus subtilis	1

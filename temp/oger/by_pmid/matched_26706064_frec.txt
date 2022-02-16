@@ -1,0 +1,27 @@
+26706064	biological_process	defense response	2
+26706064	biological_process	germination	1
+26706064	biological_process	response to salicylic acid	1
+26706064	biological_process	signaling pathway	1
+26706064	cellular_component	extracellular	1
+26706064	cellular_component	protein	1
+26706064	chemical	ethylene	5
+26706064	chemical	jasmonic acid	4
+26706064	chemical	salicylic acid	3
+26706064	chemical	protein	2
+26706064	chemical	Subtilisin	1
+26706064	chemical	pathway	1
+26706064	gene/protein	ase	4
+26706064	gene/protein	Subtilisin	2
+26706064	gene/protein	protein	1
+26706064	gene/protein	to B	1
+26706064	organism	strawberry	2
+26706064	organism	Acremonium strictum	1
+26706064	organism	Arabidopsis	1
+26706064	organism	A thaliana	1
+26706064	organism	spore	1
+26706064	sequence	protein	1
+26706064	cell_line	ase	1
+26706064	clinical_drug	Acremonium strictum	1
+26706064	clinical_drug	strawberry	1
+26706064	clinical_drug	salicylic acid	1
+26706064	clinical_drug	ethylene	1

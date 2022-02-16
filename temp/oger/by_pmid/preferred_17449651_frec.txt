@@ -1,0 +1,46 @@
+17449651	biological_process	gene expression	2
+17449651	biological_process	photosynthesis	1
+17449651	biological_process	transcription, DNA-templated	1
+17449651	biological_process	metabolic process	1
+17449651	chemical	Phosphorus	2
+17449651	chemical	DNA, Complementary	2
+17449651	chemical	metabolite	2
+17449651	chemical	polyol	2
+17449651	chemical	phosphorus(.)	1
+17449651	chemical	phosphorus atom	1
+17449651	chemical	tetraphosphorus	1
+17449651	chemical	atom	1
+17449651	chemical	Nylons	1
+17449651	chemical	protein	1
+17449651	disease	Farber Lipogranulomatosis	2
+17449651	disease	Neoplasms	2
+17449651	gene/protein	Protein BEAN1	10
+17449651	gene/protein	protein BEAN	5
+17449651	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+17449651	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT (Escherichia coli K-12)	1
+17449651	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT	1
+17449651	gene/protein	Myb protein (fruit fly)	1
+17449651	gene/protein	myb proto-oncogene protein	1
+17449651	gene/protein	transcriptional activator Myb (human)	1
+17449651	gene/protein	transcriptional activator Myb (chicken)	1
+17449651	gene/protein	transcriptional activator Myb (mouse)	1
+17449651	gene/protein	telomere length regulator taz1 (Schizosaccharomyces pombe 972h-)	1
+17449651	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+17449651	organism	Phaseolus	1
+17449651	organism	Fabaceae	1
+17449651	organism	Humans	1
+17449651	organism	Leiostomus xanthurus	1
+17449651	sequence	gene	7
+17449651	sequence	cDNA	2
+17449651	sequence	chromosomal_deletion	2
+17449651	sequence	transcript	1
+17449651	sequence	polypeptide_domain	1
+17449651	sequence	reverse	1
+17449651	sequence	mature_protein_region	1
+17449651	sequence	candidate_gene	1
+17449651	cell_line	R1192	5
+17449651	cell_line	PAE-iPS-4	1
+17449651	organ/tissue	organ	1
+17449651	organ/tissue	crop	1
+17449651	organ/tissue	melanophore spot	1
+17449651	molecular_process	chain reaction	1

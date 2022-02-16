@@ -1,0 +1,6 @@
+27125479	gene/protein	cysteine-rich motor neuron 1 protein (human)	2
+27125479	gene/protein	cysteine-rich motor neuron 1 protein	2
+27125479	organism	Burkholderia cenocepacia	6
+27125479	organism	Burkholderia cepacia complex	1
+27125479	sequence	genome	1
+27125479	sequence	region	1

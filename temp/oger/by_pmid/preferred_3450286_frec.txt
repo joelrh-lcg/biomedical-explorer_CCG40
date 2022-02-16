@@ -1,0 +1,38 @@
+3450286	biological_process	symbiotic process	1
+3450286	cellular_component	chromosome	2
+3450286	chemical	atom	2
+3450286	gene/protein	Streptopain	14
+3450286	gene/protein	minor histocompatibility antigen H13	2
+3450286	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	2
+3450286	gene/protein	Sucrose 6(F)-phosphate phosphorylase	2
+3450286	gene/protein	sphingosine-1-phosphate phosphatase 1	2
+3450286	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	2
+3450286	gene/protein	minor histocompatibility antigen H13 (human)	2
+3450286	gene/protein	sphingosine-1-phosphate phosphatase	2
+3450286	gene/protein	Sphingosine-1-phosphate phosphatase 1	2
+3450286	gene/protein	SD07518p (fruit fly)	2
+3450286	molecular_function	obsolete signal peptide peptidase activity	2
+3450286	organism	Agrobacterium	4
+3450286	organism	Rhizobium	4
+3450286	organism	Halobacterium salinarum	2
+3450286	organism	Rhizobium phaseoli	2
+3450286	organism	Sinorhizobium meliloti	2
+3450286	organism	unidentified plasmid	2
+3450286	organism	Archaea	1
+3450286	organism	Haloferax volcanii	1
+3450286	organism	bacterium IFAM-3211	1
+3450286	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+3450286	organism	bacterium IFAM-3215	1
+3450286	organism	bacterium IFAM-2074	1
+3450286	organism	bacterium IFAM-3359	1
+3450286	organism	bacterium	1
+3450286	organism	bacterium IFAM-1493	1
+3450286	organism	Rhizobiaceae	1
+3450286	organism	Fabaceae	1
+3450286	sequence	genome	3
+3450286	sequence	polypeptide_repeat	2
+3450286	sequence	region	2
+3450286	sequence	plasmid	2
+3450286	sequence	chromosome	2
+3450286	organ/tissue	organ	2
+3450286	organ/tissue	multicellular organism	1

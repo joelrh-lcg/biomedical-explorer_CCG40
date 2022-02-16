@@ -1,0 +1,30 @@
+33854491	biological_process	synthesis	1
+33854491	cellular_component	cas	5
+33854491	cellular_component	outer membrane	2
+33854491	chemical	icas3	3
+33854491	chemical	icas1	3
+33854491	chemical	proteins	3
+33854491	chemical	cluster	1
+33854491	chemical	icas7	1
+33854491	disease	icas	16
+33854491	disease	cas	5
+33854491	gene/protein	porin	64
+33854491	gene/protein	cas1	9
+33854491	gene/protein	ompr	6
+33854491	gene/protein	cas2	6
+33854491	gene/protein	ompc	3
+33854491	gene/protein	cse2	3
+33854491	gene/protein	cas5	3
+33854491	gene/protein	ompf	2
+33854491	gene/protein	leuo	2
+33854491	gene/protein	cas6e	2
+33854491	gene/protein	cas3	2
+33854491	gene/protein	transcriptional regulator	1
+33854491	molecular_function	porin	4
+33854491	organism	Enterobacteriaceae	1
+33854491	sequence	genome	1
+33854491	sequence	crispr	1
+33854491	cell_line	e cas	1
+33854491	cell_line	cas1	1
+33854491	organ/tissue	cas	5
+33854491	organ/tissue	membrane	4

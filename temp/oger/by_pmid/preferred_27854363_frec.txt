@@ -1,0 +1,11 @@
+27854363	chemical	base	1
+27854363	disease	Disease	4
+27854363	disease	Autistic Disorder	1
+27854363	organism	Humans	2
+27854363	sequence	delins	6
+27854363	sequence	sequence_variant_obs	2
+27854363	sequence	genome	1
+27854363	sequence	insertion	1
+27854363	sequence	deletion	1
+27854363	sequence	base	1
+27854363	sequence	candidate_gene	1

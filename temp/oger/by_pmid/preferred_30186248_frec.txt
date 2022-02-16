@@ -1,0 +1,36 @@
+30186248	biological_process	obsolete evasion or tolerance of symbiont immune response	1
+30186248	biological_process	evasion of host immune response	1
+30186248	biological_process	pathogenesis	1
+30186248	biological_process	obsolete virulence	1
+30186248	biological_process	viral process	1
+30186248	chemical	Anti-Bacterial Agents	6
+30186248	chemical	antimicrobial agent	3
+30186248	chemical	Vancomycin	2
+30186248	chemical	Enterotoxins	2
+30186248	chemical	vancomycin	1
+30186248	chemical	vancomycin(1+)	1
+30186248	chemical	toxin	1
+30186248	chemical	macrolide	1
+30186248	chemical	cluster	1
+30186248	chemical	Membrane Proteins	1
+30186248	disease	Infections	2
+30186248	disease	Recurrence	2
+30186248	gene/protein	suppression of tumorigenicity 5 protein	5
+30186248	gene/protein	suppression of tumorigenicity 5 protein (mouse)	5
+30186248	gene/protein	suppression of tumorigenicity 5 protein (human)	5
+30186248	gene/protein	phosphoglucosamine mutase	4
+30186248	gene/protein	phosphoglucosamine mutase (Escherichia coli K-12)	4
+30186248	gene/protein	Enterotoxin	2
+30186248	gene/protein	Fragilysin	1
+30186248	organism	Methicillin-Resistant Staphylococcus aureus	4
+30186248	organism	Bacteriophages	1
+30186248	sequence	clone	8
+30186248	sequence	region	2
+30186248	sequence	polypeptide_nest_motif	2
+30186248	sequence	gene	2
+30186248	sequence	genome	1
+30186248	sequence	copy_number_gain	1
+30186248	sequence	phage_sequence	1
+30186248	cell_line	N	1
+30186248	organ/tissue	cerebral hemisphere	4
+30186248	clinical_drug	Vancomycin	1

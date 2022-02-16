@@ -1,0 +1,12 @@
+31285584	chemical	cluster	1
+31285584	chemical	cohort	1
+31285584	disease	disease	2
+31285584	organism	bacterium	7
+31285584	organism	crassphage	6
+31285584	organism	human	5
+31285584	organism	primate	2
+31285584	organism	gut microbiome	1
+31285584	organism	Bacteroidetes	1
+31285584	sequence	sequence	1
+31285584	sequence	genome	1
+31285584	organ/tissue	gut	12

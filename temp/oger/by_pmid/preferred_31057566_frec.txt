@@ -1,0 +1,28 @@
+31057566	biological_process	biological regulation	1
+31057566	biological_process	glycosylation	1
+31057566	biological_process	methylation	1
+31057566	biological_process	transport	1
+31057566	cellular_component	cytosol	1
+31057566	cellular_component	chloroplast	1
+31057566	cellular_component	vacuole	1
+31057566	cellular_component	extracellular region	1
+31057566	chemical	isochorismate	3
+31057566	chemical	Salicylic Acid	2
+31057566	chemical	plant hormone	2
+31057566	chemical	Phenylalanine	2
+31057566	chemical	isochorismic acid	2
+31057566	chemical	salicylic acid	1
+31057566	chemical	L-phenylalanine	1
+31057566	chemical	L-phenylalanine zwitterion	1
+31057566	chemical	phenylalanine	1
+31057566	chemical	isochorismate(2-)	1
+31057566	chemical	ISOCHORISMATE	1
+31057566	chemical	picloram	1
+31057566	chemical	dihydroxybenzoic acid	1
+31057566	sequence	phenylalanine	1
+31057566	organ/tissue	tissue	1
+31057566	clinical_drug	Salicylic Acid	1
+31057566	clinical_drug	Phenylalanine	1
+31057566	molecular_process	glycosylation	1
+31057566	molecular_process	methylation	1
+31057566	molecular_process	hydroxylation	1

@@ -1,0 +1,30 @@
+29765358	cellular_component	subrhabdomeral cisterna	2
+29765358	cellular_component	obsolete protein	1
+29765358	cellular_component	viral nucleocapsid	1
+29765358	chemical	platinum group metal atom	3
+29765358	chemical	cluster	1
+29765358	chemical	protein	1
+29765358	chemical	(protein)	1
+29765358	chemical	nucleotide	1
+29765358	chemical	label	1
+29765358	disease	Minicore Myopathy with External Ophthalmoplegia	2
+29765358	disease	Smith-McCort Dysplasia	2
+29765358	gene/protein	Phosphoglucomutase	84
+29765358	gene/protein	Phosphoglucomutase, cytoplasmic	15
+29765358	gene/protein	Phosphoglucomutase, chloroplastic	12
+29765358	gene/protein	phosphoglucomutase	3
+29765358	gene/protein	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (Escherichia coli K-12)	3
+29765358	gene/protein	phosphoglucomutase, chloroplastic (Arabidopsis thaliana)	3
+29765358	gene/protein	phosphoglucomutase (fruit fly)	3
+29765358	gene/protein	phosphoglucomutase (Escherichia coli K-12)	3
+29765358	gene/protein	phosphoglycerate mutase-like protein (Arabidopsis thaliana)	3
+29765358	gene/protein	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	3
+29765358	gene/protein	mucin-4 (rat)	2
+29765358	gene/protein	protein	1
+29765358	molecular_function	phosphoglycerate mutase activity	3
+29765358	sequence	genome	4
+29765358	sequence	region	3
+29765358	sequence	orthologous	1
+29765358	sequence	polypeptide	1
+29765358	organ/tissue	proliferative region	1
+29765358	organ/tissue	matrix compartment	1

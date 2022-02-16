@@ -1,0 +1,22 @@
+34421831	biological_process	synthesis	3
+34421831	biological_process	virulence	3
+34421831	biological_process	innate immune response	1
+34421831	cellular_component	intracellular	1
+34421831	cellular_component	cell envelope	1
+34421831	chemical	choline	6
+34421831	chemical	phosphatidylcholine	5
+34421831	chemical	pathway	4
+34421831	chemical	phosphatidylethanolamine	4
+34421831	chemical	CDPdiacylglycerol	1
+34421831	chemical	choline transporter	1
+34421831	gene/protein	pc synthase	11
+34421831	gene/protein	pmt	4
+34421831	gene/protein	pmta	2
+34421831	molecular_function	pmt	2
+34421831	organism	bacterium	14
+34421831	organism	brucella	2
+34421831	organism	eukaryote	1
+34421831	organism	unknown	1
+34421831	sequence	genome	1
+34421831	cell_line	mimic	1
+34421831	clinical_drug	choline	3

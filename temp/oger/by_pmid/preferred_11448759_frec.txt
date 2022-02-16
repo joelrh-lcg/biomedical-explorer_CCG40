@@ -1,0 +1,34 @@
+11448759	biological_process	biosynthetic process	3
+11448759	biological_process	obsolete germination	1
+11448759	cellular_component	B cell receptor complex	1
+11448759	cellular_component	immunoglobulin complex, circulating	1
+11448759	cellular_component	immunoglobulin complex	1
+11448759	chemical	2-hydroxylamino-5-ethyl-5-propylbarbituric acid	2
+11448759	chemical	deoxyhemoglobin	1
+11448759	chemical	hemoglobin	1
+11448759	chemical	Hemoglobins	1
+11448759	chemical	hydrogen peroxide	1
+11448759	gene/protein	Non-symbiotic hemoglobin 1	4
+11448759	gene/protein	Non-symbiotic hemoglobin 2	4
+11448759	gene/protein	DNA-binding protein HU 1 (Bacillus subtilis subsp. subtilis str. 168)	4
+11448759	gene/protein	Group 1 truncated hemoglobin	2
+11448759	gene/protein	homeobox-DDT domain protein RLT1 (Arabidopsis thaliana)	2
+11448759	gene/protein	Hemoglobin subunit beta-1	2
+11448759	gene/protein	Hemoglobin subunit alpha-1	2
+11448759	gene/protein	Group 1 truncated hemoglobin GlbN	1
+11448759	gene/protein	Group 1 truncated hemoglobin trHbN	1
+11448759	gene/protein	Olfactory receptor 2D2	1
+11448759	gene/protein	Hemoglobin subunit alpha-2	1
+11448759	gene/protein	CD166 antigen	1
+11448759	gene/protein	olfactory receptor 2D2	1
+11448759	gene/protein	Tissue- and phase-specific nuclear protein	1
+11448759	molecular_function	antigen binding	1
+11448759	organism	Oryza sativa	9
+11448759	organism	Oryza	9
+11448759	sequence	gene	2
+11448759	sequence	SNP	1
+11448759	cell_line	1-7HB2	1
+11448759	cell_line	HB2	1
+11448759	cell_line	SNP	1
+11448759	organ/tissue	embryo	1
+11448759	clinical_drug	Brown Rice	8

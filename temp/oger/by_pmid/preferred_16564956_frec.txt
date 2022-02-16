@@ -1,0 +1,11 @@
+16564956	cellular_component	extracellular region	1
+16564956	chemical	polysaccharide	1
+16564956	gene/protein	AT07979p1 (fruit fly)	1
+16564956	organism	Azorhizobium doebereinerae	3
+16564956	organism	Azorhizobium	2
+16564956	organism	Rhizobium	1
+16564956	organism	Sesbania virgata	1
+16564956	sequence	intermediate	1
+16564956	sequence	region	1
+16564956	organ/tissue	cerebellum vermis lobule X	1
+16564956	organ/tissue	germinal center	1

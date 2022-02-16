@@ -1,0 +1,8 @@
+30252986	chemical	tetrachloromethane	1
+30252986	gene/protein	F-box/WD repeat-containing protein 7 (fruit fly)	1
+30252986	organism	Astyanax mexicanus	2
+30252986	organism	Mya	1
+30252986	sequence	gene	6
+30252986	sequence	polypeptide_repeat	2
+30252986	sequence	genome	2
+30252986	sequence	QTL	1

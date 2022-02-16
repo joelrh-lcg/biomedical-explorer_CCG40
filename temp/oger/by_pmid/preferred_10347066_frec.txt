@@ -1,0 +1,42 @@
+10347066	biological_process	nitrogen fixation	2
+10347066	biological_process	nodulation	2
+10347066	biological_process	DNA amplification	1
+10347066	chemical	nitrogen atom	3
+10347066	chemical	nitrogen(.)	3
+10347066	chemical	Anti-Bacterial Agents	2
+10347066	chemical	all-cis-octadeca-6,9,12,15-tetraenoic acid	1
+10347066	chemical	DNA, A-Form	1
+10347066	chemical	antimicrobial agent	1
+10347066	chemical	Nitrogenase	1
+10347066	disease	Myoclonic Epilepsies, Progressive	1
+10347066	gene/protein	Flavohemoprotein	43
+10347066	gene/protein	protein SDA1	1
+10347066	gene/protein	nodulation protein D 1 (Sinorhizobium meliloti 1021)	1
+10347066	gene/protein	flavohemoprotein	1
+10347066	gene/protein	kinesin-like protein Nod (fruit fly)	1
+10347066	molecular_function	nitrogenase activity	1
+10347066	organism	Medicago sativa	6
+10347066	organism	unidentified plasmid	4
+10347066	organism	Sinorhizobium meliloti	2
+10347066	organism	Carboxydocella thermautotrophica	2
+10347066	organism	Sinorhizobium	1
+10347066	organism	bacterium IFAM-3211	1
+10347066	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+10347066	organism	bacterium IFAM-3215	1
+10347066	organism	bacterium IFAM-2074	1
+10347066	organism	bacterium IFAM-3359	1
+10347066	organism	bacterium	1
+10347066	organism	bacterium IFAM-1493	1
+10347066	sequence	plasmid	4
+10347066	sequence	gene	2
+10347066	sequence	engineered_region	1
+10347066	sequence	fragmentary	1
+10347066	sequence	operon	1
+10347066	sequence	regulon	1
+10347066	sequence	clone	1
+10347066	sequence	homologous	1
+10347066	sequence	duplication	1
+10347066	sequence	vector_replicon	1
+10347066	organ/tissue	multicellular organism	1
+10347066	clinical_drug	Nitrogen	3
+10347066	clinical_drug	Medicago sativa whole extract	3

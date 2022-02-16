@@ -1,0 +1,38 @@
+17985353	biological_process	catabolic process	1
+17985353	biological_process	protein folding	1
+17985353	biological_process	mitotic spindle orientation checkpoint	1
+17985353	cellular_component	obsolete protein	4
+17985353	cellular_component	viral nucleocapsid	1
+17985353	chemical	protein	5
+17985353	chemical	(protein)	4
+17985353	chemical	base	1
+17985353	chemical	atom	1
+17985353	disease	Proteostasis Deficiencies	2
+17985353	disease	Cerebral Autosomal Recessive Arteriopathy with Subcortical Infarcts and Leukoencephalopathy	2
+17985353	gene/protein	protein	4
+17985353	gene/protein	myelin protein zero-like protein 2 (mouse)	2
+17985353	gene/protein	myelin protein zero-like protein 2 (human)	2
+17985353	gene/protein	myelin protein zero-like protein 2	2
+17985353	gene/protein	Small outer capsid protein	2
+17985353	gene/protein	methyl-accepting chemotaxis protein II	2
+17985353	gene/protein	methyl-accepting chemotaxis protein II (Escherichia coli K-12)	2
+17985353	gene/protein	UBX domain-containing protein 11 (human)	1
+17985353	gene/protein	UBX domain-containing protein 11 (mouse)	1
+17985353	gene/protein	UBX domain-containing protein 11	1
+17985353	gene/protein	UBX domain-containing protein 11 (rat)	1
+17985353	gene/protein	prophage integrase IntD (Escherichia coli K-12)	1
+17985353	gene/protein	probable site-specific recombinase (Escherichia coli K-12)	1
+17985353	gene/protein	prophage integrase IntD	1
+17985353	gene/protein	troponin T, skeletal muscle (fruit fly)	1
+17985353	gene/protein	transposase from transposon Tn1545 (Streptococcus agalactiae 2603V/R)	1
+17985353	gene/protein	Farnesoate epoxidase	1
+17985353	gene/protein	type III restriction-modification system EcoP15I enzyme mod (Escherichia coli)	1
+17985353	gene/protein	DNA-binding protein modulo (fruit fly)	1
+17985353	gene/protein	type III restriction-modification system EcoPI enzyme mod (Escherichia virus P1)	1
+17985353	gene/protein	type III restriction-modification system StyLTI enzyme mod (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	1
+17985353	sequence	polypeptide	4
+17985353	sequence	base	1
+17985353	sequence	homologous	1
+17985353	cell_line	MOD	1
+17985353	organ/tissue	supraoptic crest	1
+17985353	organ/tissue	vertebral column	1

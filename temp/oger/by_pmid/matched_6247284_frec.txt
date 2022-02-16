@@ -1,0 +1,16 @@
+6247284	cellular_component	virion	1
+6247284	chemical	polypeptide	7
+6247284	chemical	ribonucleic acid	6
+6247284	disease	diarrhea	2
+6247284	gene/protein	polypeptide	14
+6247284	organism	human rotavirus	2
+6247284	organism	rabbit	2
+6247284	organism	virion	1
+6247284	organism	rotavirus	1
+6247284	sequence	polypeptide	7
+6247284	cell	reticulocyte	1
+6247284	cell_line	sa11	1
+6247284	organ/tissue	shell	6
+6247284	organ/tissue	calf	2
+6247284	organ/tissue	tissue	1
+6247284	clinical_drug	rabbit	1

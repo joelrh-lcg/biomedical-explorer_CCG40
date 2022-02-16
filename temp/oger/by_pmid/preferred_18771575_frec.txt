@@ -1,0 +1,68 @@
+18771575	biological_process	signaling	2
+18771575	biological_process	transcription, DNA-templated	1
+18771575	biological_process	biological regulation	1
+18771575	biological_process	RNA interference	1
+18771575	biological_process	transport	1
+18771575	biological_process	homeostatic process	1
+18771575	biological_process	signal transduction	1
+18771575	chemical	MicroRNAs	3
+18771575	chemical	Phosphorus	2
+18771575	chemical	phosphorus(.)	1
+18771575	chemical	phosphorus atom	1
+18771575	chemical	tetraphosphorus	1
+18771575	chemical	atom	1
+18771575	chemical	nutrient	1
+18771575	chemical	N-nitrosodiethylamine	1
+18771575	chemical	picloram	1
+18771575	chemical	Ubiquitin	1
+18771575	chemical	ubiquitin	1
+18771575	chemical	gamma-Glutamyl Hydrolase	1
+18771575	disease	Farber Lipogranulomatosis	2
+18771575	disease	Neoplasms	2
+18771575	gene/protein	Protein BEAN1	14
+18771575	gene/protein	Ubiquitin	10
+18771575	gene/protein	protein BEAN	7
+18771575	gene/protein	Gamma-glutamyl hydrolase	5
+18771575	gene/protein	E3 ubiquitin-protein ligase MYLIP	4
+18771575	gene/protein	Luc7-like protein (Dictyostelium discoideum)	2
+18771575	gene/protein	Myb protein (fruit fly)	1
+18771575	gene/protein	myb proto-oncogene protein	1
+18771575	gene/protein	transcriptional activator Myb (human)	1
+18771575	gene/protein	transcriptional activator Myb (chicken)	1
+18771575	gene/protein	transcriptional activator Myb (mouse)	1
+18771575	gene/protein	telomere length regulator taz1 (Schizosaccharomyces pombe 972h-)	1
+18771575	gene/protein	neuroblastoma suppressor of tumorigenicity 1 (mouse)	1
+18771575	gene/protein	neuroblastoma suppressor of tumorigenicity 1	1
+18771575	gene/protein	Protein PHOSPHATE STARVATION RESPONSE 1	1
+18771575	gene/protein	protein PHOSPHATE STARVATION RESPONSE 1 (Arabidopsis thaliana)	1
+18771575	gene/protein	MLX-interacting protein	1
+18771575	gene/protein	MLX-interacting protein (human)	1
+18771575	gene/protein	E3 ubiquitin-protein ligase MARCH8 (mouse)	1
+18771575	gene/protein	Miraculin	1
+18771575	gene/protein	Insulin-like receptor	1
+18771575	gene/protein	E3 ubiquitin-protein ligase MARCH8 (human)	1
+18771575	gene/protein	MLX-interacting protein (mouse)	1
+18771575	gene/protein	E3 ubiquitin-protein ligase MARCH8	1
+18771575	gene/protein	E3 ubiquitin-protein ligase MYLIP-A (zebrafish)	1
+18771575	gene/protein	ubiquitin	1
+18771575	gene/protein	Gamma-glutamyl hydrolase 2	1
+18771575	gene/protein	Probable gamma-glutamyl hydrolase 3	1
+18771575	gene/protein	Gamma-glutamyl hydrolase 1	1
+18771575	gene/protein	gamma-glutamyl hydrolase	1
+18771575	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+18771575	molecular_function	protein tag	1
+18771575	organism	Arabidopsis thaliana	1
+18771575	organism	Arabidopsis	1
+18771575	organism	Oryza sativa	1
+18771575	organism	Oryza	1
+18771575	organism	Phaseolus	1
+18771575	organism	Fabaceae	1
+18771575	organism	Humans	1
+18771575	sequence	miRNA	3
+18771575	sequence	gene	2
+18771575	sequence	orthologous_region	1
+18771575	cell_line	R1192	7
+18771575	cell_line	PAE-iPS-4	1
+18771575	organ/tissue	crop	2
+18771575	organ/tissue	organ	1
+18771575	clinical_drug	Brown Rice	1

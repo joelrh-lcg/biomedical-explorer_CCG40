@@ -1,0 +1,29 @@
+26954369	chemical	Colistin	2
+26954369	chemical	Tigecycline	2
+26954369	chemical	Cefepime	2
+26954369	chemical	Ceftazidime	2
+26954369	chemical	Ceftriaxone	2
+26954369	chemical	Imipenem	2
+26954369	chemical	Meropenem	2
+26954369	chemical	colistin	1
+26954369	chemical	tigecycline	1
+26954369	chemical	tigecycline(1+)	1
+26954369	chemical	cefepime	1
+26954369	chemical	ceftazidime	1
+26954369	chemical	ceftazidime pentahydrate	1
+26954369	chemical	ceftriaxone	1
+26954369	chemical	imipenem hydrate	1
+26954369	chemical	imipenem	1
+26954369	chemical	meropenem	1
+26954369	organism	Acinetobacter baumannii	2
+26954369	sequence	gene	3
+26954369	sequence	region	2
+26954369	sequence	clone	1
+26954369	cell_line	DLD-1 clone A	1
+26954369	clinical_drug	Colistin	1
+26954369	clinical_drug	tigecycline	1
+26954369	clinical_drug	cefepime	1
+26954369	clinical_drug	Ceftazidime	1
+26954369	clinical_drug	Ceftriaxone	1
+26954369	clinical_drug	Imipenem	1
+26954369	clinical_drug	meropenem	1

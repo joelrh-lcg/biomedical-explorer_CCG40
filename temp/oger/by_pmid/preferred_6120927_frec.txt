@@ -1,0 +1,41 @@
+6120927	biological_process	biosynthetic process	3
+6120927	biological_process	translation	1
+6120927	chemical	Ammonium Compounds	8
+6120927	chemical	ammonium	4
+6120927	chemical	polypeptide	4
+6120927	chemical	electron	3
+6120927	chemical	positron	3
+6120927	chemical	alpha-particle	3
+6120927	chemical	nitrogen atom	2
+6120927	chemical	nitrogen(.)	2
+6120927	chemical	Glutamic Acid	2
+6120927	chemical	Glutamine	2
+6120927	chemical	Sepharose	2
+6120927	chemical	methylmercury hydroxide	2
+6120927	chemical	picloram	1
+6120927	chemical	Oxidoreductases	1
+6120927	chemical	Glutamate-Ammonia Ligase	1
+6120927	chemical	glutamate(2-)	1
+6120927	chemical	L-glutamic acid	1
+6120927	chemical	glutamate(1-)	1
+6120927	chemical	glutamic acid	1
+6120927	chemical	glutamine	1
+6120927	chemical	L-glutamine	1
+6120927	chemical	agarose	1
+6120927	chemical	GTP-Binding Protein alpha Subunits, Gs	1
+6120927	chemical	Glutamate Synthase	1
+6120927	gene/protein	Glutamine synthetase	122
+6120927	gene/protein	proteolytic cleavage product	4
+6120927	gene/protein	amino acid chain	4
+6120927	gene/protein	Dehydrogenase	1
+6120927	gene/protein	glutamine synthetase	1
+6120927	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+6120927	gene/protein	ribonuclease I	1
+6120927	organism	Neurospora crassa	2
+6120927	organism	Fungi	1
+6120927	sequence	polypeptide	4
+6120927	sequence	glutamine	2
+6120927	sequence	intermediate	1
+6120927	clinical_drug	Glutamine	2
+6120927	clinical_drug	Nitrogen	2
+6120927	clinical_drug	Glutamate	2

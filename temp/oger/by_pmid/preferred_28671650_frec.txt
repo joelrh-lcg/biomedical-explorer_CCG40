@@ -1,0 +1,32 @@
+28671650	biological_process	digestion	2
+28671650	biological_process	DNA ligation	1
+28671650	chemical	Ampicillin	2
+28671650	chemical	DNA, Complementary	2
+28671650	chemical	alpha-amino acid	1
+28671650	chemical	amino acid	1
+28671650	chemical	ampicillin	1
+28671650	chemical	oligonucleotide	1
+28671650	chemical	base	1
+28671650	gene/protein	DNA polymerase	72
+28671650	gene/protein	chimeric protein	5
+28671650	gene/protein	DNA restriction-modification endonuclease	5
+28671650	gene/protein	Protochlorophyllide reductase, chloroplastic	5
+28671650	gene/protein	Light-dependent protochlorophyllide reductase	2
+28671650	gene/protein	Highly immunogenic outer capsid protein	1
+28671650	gene/protein	Protochlorophyllide reductase	1
+28671650	organism	Chimera	5
+28671650	organism	unidentified plasmid	4
+28671650	sequence	assembly	4
+28671650	sequence	plasmid	4
+28671650	sequence	gene	4
+28671650	sequence	region	4
+28671650	sequence	cDNA	2
+28671650	sequence	fragmentary	2
+28671650	sequence	insertion	1
+28671650	sequence	clone	1
+28671650	sequence	amino_acid	1
+28671650	sequence	oligo	1
+28671650	sequence	cytoplasmic_polypeptide_region	1
+28671650	sequence	vector_replicon	1
+28671650	sequence	base_pair	1
+28671650	clinical_drug	Ampicillin	1

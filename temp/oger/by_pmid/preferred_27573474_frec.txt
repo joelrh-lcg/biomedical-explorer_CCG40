@@ -1,0 +1,22 @@
+27573474	biological_process	fermentation	1
+27573474	chemical	Acetic Acid	6
+27573474	chemical	acetic acid	3
+27573474	chemical	bagasse	2
+27573474	chemical	Glucose	2
+27573474	chemical	Xylose	2
+27573474	chemical	nutrient	1
+27573474	chemical	elemental carbon	1
+27573474	chemical	carbon atom	1
+27573474	chemical	picloram	1
+27573474	chemical	aldehydo-D-glucose	1
+27573474	chemical	D-glucopyranose	1
+27573474	chemical	glucose	1
+27573474	chemical	aldehydo-D-xylose	1
+27573474	chemical	xylose	1
+27573474	gene/protein	delta-like protein A (zebrafish)	4
+27573474	gene/protein	caspase-10 isoform 4	1
+27573474	organism	Escherichia coli	4
+27573474	sequence	delete	1
+27573474	organ/tissue	scale	1
+27573474	clinical_drug	Acetic Acid	3
+27573474	clinical_drug	Dextrose, Unspecified Form	1

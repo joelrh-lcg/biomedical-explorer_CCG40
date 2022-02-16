@@ -1,0 +1,11 @@
+33823812	chemical	carmine	3
+33823812	chemical	cochineal	2
+33823812	organism	Spiroplasma	2
+33823812	organism	spiroplasma	2
+33823812	organism	arthropod	1
+33823812	organism	Dactylopius coccus	1
+33823812	sequence	sequence	1
+33823812	organ/tissue	gut	3
+33823812	organ/tissue	hemolymph	1
+33823812	organ/tissue	reproductive organ	1
+33823812	clinical_drug	cochineal	2

@@ -1,0 +1,75 @@
+29857581	biological_process	metabolic process	2
+29857581	biological_process	carbohydrate metabolic process	1
+29857581	biological_process	translation	1
+29857581	biological_process	mannose metabolic process	1
+29857581	biological_process	glycolytic process	1
+29857581	biological_process	gluconeogenesis	1
+29857581	biological_process	oxidation-reduction process	1
+29857581	cellular_component	obsolete protein	1
+29857581	chemical	protein	6
+29857581	chemical	Insulin	4
+29857581	chemical	Carbohydrates	4
+29857581	chemical	insulin (human)	2
+29857581	chemical	insulin	2
+29857581	chemical	carbohydrate	2
+29857581	chemical	picloram	2
+29857581	chemical	Citric Acid	2
+29857581	chemical	Fructose	2
+29857581	chemical	Mannose	2
+29857581	chemical	(protein)	1
+29857581	chemical	biological role	1
+29857581	chemical	Arginase	1
+29857581	chemical	Pyruvate Carboxylase	1
+29857581	chemical	Peroxiredoxins	1
+29857581	chemical	L-Iditol 2-Dehydrogenase	1
+29857581	chemical	citrate(3-)	1
+29857581	chemical	citrate salt	1
+29857581	chemical	citrate anion	1
+29857581	chemical	beta-D-fructofuranose	1
+29857581	chemical	fructose	1
+29857581	chemical	mannose	1
+29857581	chemical	vitamin	1
+29857581	chemical	alpha-amino acid	1
+29857581	chemical	amino acid	1
+29857581	chemical	nitrogen atom	1
+29857581	chemical	nitrogen(.)	1
+29857581	disease	Diabetes Mellitus, Type 2	2
+29857581	disease	Insulin Resistance	2
+29857581	disease	Disease	2
+29857581	disease	Common Variable Immunodeficiency	1
+29857581	gene/protein	Insulin	162
+29857581	gene/protein	Sorbitol dehydrogenase	15
+29857581	gene/protein	Regucalcin	12
+29857581	gene/protein	Pyruvate carboxylase	8
+29857581	gene/protein	Peroxiredoxin-1	8
+29857581	gene/protein	Arginase-1	7
+29857581	gene/protein	Peroxiredoxin 1	7
+29857581	gene/protein	insulin	2
+29857581	gene/protein	protein	1
+29857581	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT (Escherichia coli K-12)	1
+29857581	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT	1
+29857581	gene/protein	arginase-1	1
+29857581	gene/protein	pyruvate carboxylase	1
+29857581	gene/protein	peroxiredoxin-1	1
+29857581	gene/protein	regucalcin	1
+29857581	gene/protein	sorbitol dehydrogenase	1
+29857581	gene/protein	Galactitol 2-dehydrogenase	1
+29857581	molecular_function	obsolete insulin	2
+29857581	molecular_function	molecular_function	1
+29857581	molecular_function	vitamin binding	1
+29857581	organism	Mus musculus	3
+29857581	organism	Mice	3
+29857581	organism	Leiostomus xanthurus	1
+29857581	sequence	polypeptide	1
+29857581	sequence	polypeptide_binding_motif	1
+29857581	sequence	non_covalent_binding_site	1
+29857581	sequence	amino_acid	1
+29857581	organ/tissue	liver	3
+29857581	organ/tissue	melanophore spot	1
+29857581	clinical_drug	Pyruvate	1
+29857581	clinical_drug	Sorbitol	1
+29857581	clinical_drug	Fructose	1
+29857581	clinical_drug	MANNOSE, D-	1
+29857581	clinical_drug	Nitrogen	1
+29857581	molecular_process	oxidation	1
+29857581	molecular_process	reduction	1

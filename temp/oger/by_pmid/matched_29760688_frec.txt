@@ -1,0 +1,22 @@
+29760688	biological_process	carbohydrate metabolism	1
+29760688	cellular_component	membrane	1
+29760688	cellular_component	core	1
+29760688	chemical	acid	3
+29760688	chemical	carbohydrate	3
+29760688	chemical	proton	3
+29760688	chemical	amino acid	2
+29760688	disease	CIAT	4
+29760688	gene/protein	tni	4
+29760688	gene/protein	bean	3
+29760688	gene/protein	rna	2
+29760688	organism	CIAT899	3
+29760688	organism	CIAT 899	1
+29760688	sequence	gene	8
+29760688	sequence	transposon	1
+29760688	sequence	insertion site	1
+29760688	sequence	genome	1
+29760688	sequence	amino acid	1
+29760688	cell_line	bean	1
+29760688	cell_line	min	1
+29760688	organ/tissue	nodule	2
+29760688	organ/tissue	membrane	2

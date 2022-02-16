@@ -1,0 +1,27 @@
+26297041	biological_process	symbiosis	2
+26297041	chemical	base	2
+26297041	chemical	nucleotide	2
+26297041	chemical	16s rrna	1
+26297041	gene/protein	reca	14
+26297041	gene/protein	pel	12
+26297041	gene/protein	bean	9
+26297041	gene/protein	gyrb	5
+26297041	gene/protein	nov	2
+26297041	gene/protein	LMG	1
+26297041	organism	Rhizobium etli	2
+26297041	organism	Rhizobium fabae	2
+26297041	organism	Rhizobium ecuadorense	2
+26297041	organism	Phaseolus	1
+26297041	organism	legume	1
+26297041	organism	Rhizobium	1
+26297041	organism	UMR 1450	1
+26297041	organism	PIMAMPIRS I 5	1
+26297041	organism	LMG 27578	1
+26297041	sequence	base	2
+26297041	sequence	sequence	2
+26297041	sequence	gene	2
+26297041	sequence	16s rrna	1
+26297041	sequence	rrna gene	1
+26297041	sequence	genome	1
+26297041	cell_line	bean	3
+26297041	cell_line	reca	1

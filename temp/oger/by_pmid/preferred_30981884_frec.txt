@@ -1,0 +1,68 @@
+30981884	biological_process	biosynthetic process	4
+30981884	biological_process	dephosphorylation	1
+30981884	chemical	6-chloro-2-(1-piperazinyl)pyrazine	4
+30981884	chemical	natural product	2
+30981884	chemical	copalyl pyrophosphate	2
+30981884	chemical	CPP	2
+30981884	chemical	diterpenoid	1
+30981884	chemical	diterpene	1
+30981884	chemical	cluster	1
+30981884	chemical	L-phenylalanino group	1
+30981884	chemical	L-phenylalanine residue	1
+30981884	chemical	L-phenylalanine	1
+30981884	chemical	L-phenylalanyl group	1
+30981884	chemical	phenylalanine	1
+30981884	chemical	L-tyrosinate residue	1
+30981884	chemical	tyrosine	1
+30981884	chemical	L-tyrosino group	1
+30981884	chemical	L-tyrosine	1
+30981884	chemical	L-tyrosinyl radical residue	1
+30981884	chemical	L-tyrosyl group	1
+30981884	chemical	L-tyrosine residue	1
+30981884	chemical	base	1
+30981884	chemical	catalyst	1
+30981884	disease	Papilloma, Choroid Plexus	2
+30981884	gene/protein	Bifunctional levopimaradiene synthase, chloroplastic	6
+30981884	gene/protein	Tuberculosinyl adenosine transferase	2
+30981884	gene/protein	Bifunctional isopimaradiene synthase, chloroplastic	1
+30981884	gene/protein	proheparin-binding EGF-like growth factor	1
+30981884	gene/protein	proheparin-binding EGF-like growth factor (human)	1
+30981884	gene/protein	tyrosinase (human)	1
+30981884	gene/protein	tyrosinase (chicken)	1
+30981884	gene/protein	tyrosinase	1
+30981884	gene/protein	tyrosinase (mouse)	1
+30981884	gene/protein	tyramine/octopamine receptor (fruit fly)	1
+30981884	molecular_function	catalytic activity	1
+30981884	organism	bacterium IFAM-3211	1
+30981884	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+30981884	organism	bacterium IFAM-3215	1
+30981884	organism	bacterium IFAM-2074	1
+30981884	organism	bacterium IFAM-3359	1
+30981884	organism	bacterium	1
+30981884	organism	bacterium IFAM-1493	1
+30981884	organism	Streptomyces sp.	1
+30981884	organism	Streptomyces sp. K15	1
+30981884	organism	Streptomyces sp. D7	1
+30981884	organism	Streptomyces sp. C5	1
+30981884	organism	Streptomyces sp. QM-B814	1
+30981884	organism	Streptomyces sp. KB210-8SY	1
+30981884	organism	Streptomyces sp. A647P-2	1
+30981884	organism	Streptomyces sp. CL190	1
+30981884	organism	Streptomyces sp. SA-COO	1
+30981884	organism	Streptomyces caatingaensis	1
+30981884	organism	Streptomyces sp. KSM-9	1
+30981884	organism	Streptomyces sp. US2	1
+30981884	organism	Streptomyces sp. FRI-5	1
+30981884	organism	Streptomyces sp. R61	1
+30981884	organism	Streptomyces sp. 'NCL 82-5-1'	1
+30981884	organism	Streptomyces sp. N174	1
+30981884	sequence	retrotransposon	3
+30981884	sequence	DNA_transposon	2
+30981884	sequence	gene	1
+30981884	sequence	phenylalanine	1
+30981884	sequence	intermediate	1
+30981884	sequence	tyrosine	1
+30981884	sequence	base	1
+30981884	cell_line	LRD	9
+30981884	organ/tissue	skeleton	1
+30981884	molecular_process	cyclization	1

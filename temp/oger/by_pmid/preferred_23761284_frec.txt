@@ -1,0 +1,27 @@
+23761284	biological_process	nitrogen fixation	2
+23761284	biological_process	reverse transcription	1
+23761284	biological_process	symbiotic process	1
+23761284	chemical	nitrogen atom	2
+23761284	chemical	nitrogen(.)	2
+23761284	chemical	UP-91	2
+23761284	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	6
+23761284	organism	Saccharum	4
+23761284	organism	Saccharum officinarum	4
+23761284	organism	Saccharum hybrid cultivar	4
+23761284	organism	Bradyrhizobium elkanii	2
+23761284	organism	bacterium IFAM-3211	1
+23761284	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+23761284	organism	bacterium IFAM-3215	1
+23761284	organism	bacterium IFAM-2074	1
+23761284	organism	bacterium IFAM-3359	1
+23761284	organism	bacterium	1
+23761284	organism	bacterium IFAM-1493	1
+23761284	organism	synthetic construct	1
+23761284	organism	Rhizobium	1
+23761284	sequence	transcript	4
+23761284	sequence	region	2
+23761284	sequence	reverse	1
+23761284	sequence	primer	1
+23761284	clinical_drug	sugarcane extract	4
+23761284	clinical_drug	Saccharum officinarum allergenic extract	4
+23761284	clinical_drug	Nitrogen	2

@@ -1,0 +1,35 @@
+21707055	biological_process	biosynthetic process	3
+21707055	biological_process	lipid modification	1
+21707055	cellular_component	membrane	1
+21707055	chemical	lipid	6
+21707055	chemical	hydroxy group	4
+21707055	chemical	phosphatidylethanolamine	3
+21707055	chemical	OL 2	2
+21707055	chemical	2-hydroxyphenylethanol	2
+21707055	chemical	hydroxyl	2
+21707055	chemical	Hydroxyl Radical	2
+21707055	chemical	(S)-1,2-distearoylphosphatidylethanolaminium	1
+21707055	chemical	dicarbide(2-)	1
+21707055	chemical	tetradecanoyl group	1
+21707055	chemical	picloram	1
+21707055	chemical	acid	1
+21707055	gene/protein	basal cell adhesion molecule (human)	3
+21707055	gene/protein	basal cell adhesion molecule	3
+21707055	gene/protein	basal cell adhesion molecule (rat)	3
+21707055	gene/protein	basal cell adhesion molecule (mouse)	3
+21707055	gene/protein	protein POLAR LOCALIZATION DURING ASYMMETRIC DIVISION AND REDISTRIBUTION (Arabidopsis thaliana)	1
+21707055	gene/protein	oleosin 20.3 kDa (Arabidopsis thaliana)	1
+21707055	gene/protein	S-crystallin 2	1
+21707055	organism	Burkholderia cenocepacia	2
+21707055	organism	Sinorhizobium meliloti	2
+21707055	organism	Burkholderia	1
+21707055	organism	collection	1
+21707055	organism	Salmonella typhimurium	1
+21707055	sequence	homologous_region	1
+21707055	sequence	ORF	1
+21707055	sequence	homologous	1
+21707055	sequence	mature_protein_region	1
+21707055	cell_line	TAB1/C2-2	1
+21707055	organ/tissue	membrane organ	1
+21707055	organ/tissue	membranous layer	1
+21707055	molecular_process	hydroxylation	1

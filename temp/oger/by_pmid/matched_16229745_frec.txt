@@ -1,0 +1,3 @@
+16229745	sequence	sequence variation	3
+16229745	sequence	gene	2
+16229745	sequence	genome	1

@@ -1,0 +1,27 @@
+19376903	biological_process	secretion	3
+19376903	biological_process	cellular growth	1
+19376903	biological_process	conjugation	1
+19376903	biological_process	metabolism	1
+19376903	cellular_component	chromosome	1
+19376903	cellular_component	pili	1
+19376903	chemical	arginine	5
+19376903	chemical	proteins	1
+19376903	chemical	pathway	1
+19376903	chemical	autoinducer	1
+19376903	chemical	molecule	1
+19376903	gene/protein	ngr	20
+19376903	organism	bacterium	7
+19376903	organism	Rhizobium sp	6
+19376903	organism	legume	1
+19376903	organism	none	1
+19376903	organism	plasmid	1
+19376903	sequence	gene	4
+19376903	sequence	signal	2
+19376903	sequence	chromosome	1
+19376903	sequence	plasmid	1
+19376903	sequence	genome	1
+19376903	sequence	arginine	1
+19376903	organ/tissue	secretion	3
+19376903	organ/tissue	nodule	2
+19376903	organ/tissue	pili	1
+19376903	clinical_drug	arginine	1

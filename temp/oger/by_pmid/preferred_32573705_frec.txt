@@ -1,0 +1,15 @@
+32573705	biological_process	biological regulation	1
+32573705	biological_process	transcription, DNA-templated	1
+32573705	gene/protein	Keratin, type I cytoskeletal 12	4
+32573705	gene/protein	secreted and transmembrane protein 1	1
+32573705	gene/protein	secreted and transmembrane protein 1 (human)	1
+32573705	gene/protein	secreted and transmembrane protein 1b	1
+32573705	gene/protein	keratin, type I cytoskeletal 12	1
+32573705	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+32573705	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+32573705	molecular_function	DNA binding	1
+32573705	organism	Escherichia coli K12	1
+32573705	sequence	DNA_binding_site	1
+32573705	sequence	gene	1
+32573705	cell_line	K12 [Mouse osteosarcoma]	1
+32573705	cell_line	K12-72.1	1

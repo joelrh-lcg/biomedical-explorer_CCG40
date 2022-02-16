@@ -1,0 +1,13 @@
+12209264	biological_process	nodulation	1
+12209264	chemical	16s rrna	1
+12209264	chemical	nod factor	1
+12209264	disease	nod	1
+12209264	gene/protein	nod	45
+12209264	organism	Mesorhizobium amorphae	2
+12209264	organism	Amorpha fruticosa	1
+12209264	organism	plasmid	1
+12209264	sequence	16s rrna	1
+12209264	sequence	rrna gene	1
+12209264	sequence	plasmid	1
+12209264	sequence	genotype	1
+12209264	organ/tissue	nodule	2

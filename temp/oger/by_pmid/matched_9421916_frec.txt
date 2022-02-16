@@ -1,0 +1,26 @@
+9421916	biological_process	sulphation	2
+9421916	chemical	antibiotic	3
+9421916	chemical	nod factor	2
+9421916	chemical	amino acid	2
+9421916	chemical	sulphate	1
+9421916	chemical	metabolite	1
+9421916	chemical	complement	1
+9421916	disease	nod	3
+9421916	gene/protein	nod	135
+9421916	gene/protein	tlc	3
+9421916	gene/protein	orf	2
+9421916	organism	strain br	3
+9421916	organism	Sinorhizobium meliloti	2
+9421916	organism	rhizobium	1
+9421916	organism	Rhizobium sp br816	1
+9421916	organism	plasmid	1
+9421916	sequence	gene	5
+9421916	sequence	homologous	2
+9421916	sequence	orf	1
+9421916	sequence	sequence	1
+9421916	sequence	plasmid	1
+9421916	sequence	insertion	1
+9421916	sequence	construct	1
+9421916	sequence	double	1
+9421916	sequence	mutation	1
+9421916	sequence	amino acid	1

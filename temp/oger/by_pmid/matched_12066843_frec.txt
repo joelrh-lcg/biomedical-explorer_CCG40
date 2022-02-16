@@ -1,0 +1,8 @@
+12066843	biological_process	transcription	1
+12066843	organism	e coli	4
+12066843	organism	Escherichia coli	2
+12066843	sequence	gene	6
+12066843	sequence	operon	4
+12066843	sequence	genome	3
+12066843	sequence	orthologous	1
+12066843	sequence	intergenic	1

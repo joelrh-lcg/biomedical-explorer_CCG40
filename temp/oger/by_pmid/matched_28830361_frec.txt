@@ -1,0 +1,18 @@
+28830361	biological_process	splicing	1
+28830361	chemical	glycine	5
+28830361	chemical	proteins	1
+28830361	gene/protein	tag	5
+28830361	gene/protein	rna	4
+28830361	gene/protein	max	1
+28830361	organism	Phaseolus vulgaris	2
+28830361	organism	glycine max	2
+28830361	organism	legume	1
+28830361	sequence	transcript	1
+28830361	sequence	isoform	1
+28830361	sequence	gene	1
+28830361	sequence	primary transcript	1
+28830361	sequence	sequence	1
+28830361	sequence	tag	1
+28830361	sequence	glycine	1
+28830361	cell	eukaryotic cell	1
+28830361	clinical_drug	glycine	1

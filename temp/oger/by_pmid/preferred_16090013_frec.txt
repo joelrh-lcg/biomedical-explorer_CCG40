@@ -1,0 +1,11 @@
+16090013	biological_process	biological regulation	3
+16090013	biological_process	transcription, DNA-templated	1
+16090013	cellular_component	obsolete protein	1
+16090013	chemical	metabolite	2
+16090013	chemical	protein	1
+16090013	chemical	(protein)	1
+16090013	gene/protein	protein	1
+16090013	sequence	gene	2
+16090013	sequence	operon	1
+16090013	sequence	polypeptide	1
+16090013	organ/tissue	sense organ	2

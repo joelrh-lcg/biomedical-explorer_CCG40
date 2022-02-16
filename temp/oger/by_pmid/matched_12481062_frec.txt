@@ -1,0 +1,35 @@
+12481062	biological_process	regulation	1
+12481062	biological_process	gene expression	1
+12481062	cellular_component	protein	3
+12481062	cellular_component	plasma membrane	1
+12481062	cellular_component	apoplast	1
+12481062	cellular_component	symplast	1
+12481062	chemical	ammonium	15
+12481062	chemical	protein	6
+12481062	chemical	nh3	4
+12481062	chemical	co2	4
+12481062	chemical	ammonium nitrate	3
+12481062	chemical	nh4	2
+12481062	chemical	nitrogen	2
+12481062	chemical	ion	1
+12481062	chemical	4 be	1
+12481062	chemical	dsrna	1
+12481062	gene/protein	atamt2	18
+12481062	gene/protein	ammonium transporter	2
+12481062	gene/protein	protein	2
+12481062	gene/protein	green fluorescent protein	1
+12481062	organism	Arabidopsis	3
+12481062	organism	Saccharomyces cerevisiae	2
+12481062	organism	yeast	1
+12481062	sequence	protein	3
+12481062	sequence	gene	2
+12481062	sequence	transcript	2
+12481062	sequence	fusion	1
+12481062	cell	epidermal cell	1
+12481062	organ/tissue	organ	2
+12481062	organ/tissue	membrane	2
+12481062	organ/tissue	plasma	1
+12481062	clinical_drug	Saccharomyces cerevisiae	2
+12481062	clinical_drug	yeast	1
+12481062	clinical_drug	nitrogen	1
+12481062	molecular_process	reduction	1

@@ -1,0 +1,30 @@
+22685583	biological_process	nitrogen fixation	1
+22685583	biological_process	response to drought	1
+22685583	biological_process	metabolism	1
+22685583	cellular_component	protein	1
+22685583	chemical	glycine	5
+22685583	chemical	proline	4
+22685583	chemical	metabolite	3
+22685583	chemical	protein	2
+22685583	chemical	nitrogen	2
+22685583	chemical	ureide	1
+22685583	chemical	pathway	1
+22685583	disease	water stress	2
+22685583	gene/protein	impact	2
+22685583	gene/protein	max	1
+22685583	gene/protein	protein	1
+22685583	gene/protein	crop	1
+22685583	gene/protein	lack	1
+22685583	organism	soybean	10
+22685583	organism	glycine max	2
+22685583	organism	human	1
+22685583	sequence	genotype	2
+22685583	sequence	glycine	1
+22685583	sequence	protein	1
+22685583	sequence	proline	1
+22685583	organ/tissue	animal	2
+22685583	organ/tissue	crop	1
+22685583	clinical_drug	soybean	10
+22685583	clinical_drug	glycine	1
+22685583	clinical_drug	nitrogen	1
+22685583	clinical_drug	proline	1

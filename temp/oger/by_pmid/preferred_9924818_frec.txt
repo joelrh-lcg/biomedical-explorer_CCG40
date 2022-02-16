@@ -1,0 +1,17 @@
+9924818	chemical	base	1
+9924818	chemical	RNA, Ribosomal, 16S	1
+9924818	gene/protein	Protochlorophyllide reductase, chloroplastic	10
+9924818	gene/protein	Light-dependent protochlorophyllide reductase	4
+9924818	gene/protein	Protochlorophyllide reductase	2
+9924818	organism	Gluconacetobacter diazotrophicus	2
+9924818	organism	synthetic construct	2
+9924818	organism	Herbaspirillum	1
+9924818	organism	Desulfonauticus autotrophicus	1
+9924818	organism	Oxalobacter formigenes	1
+9924818	organism	Proteobacteria	1
+9924818	sequence	primer	2
+9924818	sequence	base	1
+9924818	sequence	rRNA_16S	1
+9924818	sequence	region	1
+9924818	sequence	PCR_product	1
+9924818	cell_line	11a	1

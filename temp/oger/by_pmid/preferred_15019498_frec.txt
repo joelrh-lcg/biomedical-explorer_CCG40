@@ -1,0 +1,7 @@
+15019498	biological_process	transcription, DNA-templated	5
+15019498	gene/protein	nucleosomal histone kinase 1 (fruit fly)	5
+15019498	sequence	gene	4
+15019498	sequence	genome	4
+15019498	sequence	operon	2
+15019498	sequence	region	1
+15019498	organ/tissue	ball	5

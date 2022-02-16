@@ -1,0 +1,45 @@
+9304861	biological_process	biosynthetic process	2
+9304861	biological_process	nodulation	1
+9304861	biological_process	polysaccharide biosynthetic process	1
+9304861	cellular_component	obsolete protein	1
+9304861	chemical	electron	8
+9304861	chemical	positron	8
+9304861	chemical	LPS with O-antigen	3
+9304861	chemical	lipopolysaccharide	3
+9304861	chemical	1-acyl-sn-glycero-3-phosphoserine	2
+9304861	chemical	alpha-amino acid	2
+9304861	chemical	amino acid	2
+9304861	chemical	protein	2
+9304861	chemical	polypeptide	1
+9304861	chemical	Transferases	1
+9304861	chemical	(protein)	1
+9304861	chemical	polysaccharide	1
+9304861	disease	Van der Woude syndrome	2
+9304861	disease	Whooping Cough	2
+9304861	disease	Neoplasms	2
+9304861	gene/protein	Neurogenic differentiation factor 1	6
+9304861	gene/protein	Transcription factor 12	3
+9304861	gene/protein	Protein BEAN1	2
+9304861	gene/protein	Toll-like receptor 4 (mouse)	2
+9304861	gene/protein	Toll-like receptor 4	2
+9304861	gene/protein	protein BEAN	1
+9304861	gene/protein	proteolytic cleavage product	1
+9304861	gene/protein	amino acid chain	1
+9304861	gene/protein	protein	1
+9304861	organism	Rhizobium etli	4
+9304861	organism	unidentified plasmid	4
+9304861	organism	Pseudomonas aeruginosa	2
+9304861	organism	Bordetella pertussis	2
+9304861	organism	Yersinia enterocolitica	2
+9304861	organism	Agrobacterium	2
+9304861	organism	Bradyrhizobium	1
+9304861	organism	Azorhizobium	1
+9304861	organism	Rhizobium	1
+9304861	sequence	plasmid	4
+9304861	sequence	region	4
+9304861	sequence	amino_acid	2
+9304861	sequence	polypeptide	2
+9304861	sequence	fragmentary	1
+9304861	sequence	ORF	1
+9304861	sequence	homologous	1
+9304861	cell_line	R1192	1

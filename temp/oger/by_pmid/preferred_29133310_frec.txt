@@ -1,0 +1,33 @@
+29133310	biological_process	dosage compensation	5
+29133310	biological_process	histone modification	1
+29133310	cellular_component	sex chromosome	5
+29133310	cellular_component	autosome	1
+29133310	cellular_component	chromosome	1
+29133310	cellular_component	Y chromosome	1
+29133310	cellular_component	chromatin	1
+29133310	cellular_component	X chromosome	1
+29133310	chemical	Histones	2
+29133310	chemical	Lysine	2
+29133310	chemical	histone	1
+29133310	chemical	maleate(2-)	1
+29133310	chemical	Chromatin	1
+29133310	chemical	lysine	1
+29133310	chemical	L-lysine	1
+29133310	gene/protein	Histone H4	99
+29133310	gene/protein	histone	1
+29133310	gene/protein	F-box/WD repeat-containing protein 7 (fruit fly)	1
+29133310	gene/protein	histone H4	1
+29133310	organism	Vertebrates	2
+29133310	organism	Anolis carolinensis	2
+29133310	organism	Lizards	2
+29133310	organism	Mammals	1
+29133310	organism	Snakes	1
+29133310	organism	Drosophila melanogaster	1
+29133310	sequence	chromosome	8
+29133310	sequence	genome	1
+29133310	sequence	histone_modification	1
+29133310	sequence	gene	1
+29133310	sequence	lysine	1
+29133310	organ/tissue	male organism	1
+29133310	clinical_drug	Lysine	1
+29133310	molecular_process	reduction	1

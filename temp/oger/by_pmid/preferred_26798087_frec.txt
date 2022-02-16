@@ -1,0 +1,15 @@
+26798087	biological_process	pathogenesis	1
+26798087	biological_process	obsolete virulence	1
+26798087	biological_process	viral process	1
+26798087	cellular_component	chromosome	1
+26798087	chemical	virulence factor	1
+26798087	disease	Pulmonary Disease, Chronic Obstructive	2
+26798087	gene/protein	Nuclear receptor corepressor 2	2
+26798087	gene/protein	nuclear receptor corepressor 2	1
+26798087	gene/protein	nuclear receptor corepressor 2 (mouse)	1
+26798087	organism	Serratia	1
+26798087	organism	unidentified plasmid	1
+26798087	sequence	genome	1
+26798087	sequence	region	1
+26798087	sequence	chromosome	1
+26798087	sequence	plasmid	1

@@ -1,0 +1,7 @@
+27150362	biological_process	virulence	3
+27150362	chemical	antibiotic	3
+27150362	chemical	transform	1
+27150362	gene/protein	map	6
+27150362	organism	Staphylococcus aureus	2
+27150362	sequence	clone	1
+27150362	sequence	gene	1

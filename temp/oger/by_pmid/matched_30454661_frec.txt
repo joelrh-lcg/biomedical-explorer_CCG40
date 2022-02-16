@@ -1,0 +1,42 @@
+30454661	cellular_component	protein	1
+30454661	chemical	phosphate	16
+30454661	chemical	auxin	3
+30454661	chemical	indoleacetic acid	3
+30454661	chemical	protein	2
+30454661	chemical	nitrogen	2
+30454661	chemical	fertilizer	1
+30454661	chemical	16s	1
+30454661	chemical	rdna	1
+30454661	chemical	cellulase	1
+30454661	chemical	chitinase	1
+30454661	chemical	transform	1
+30454661	chemical	siderophore	1
+30454661	disease	nod	4
+30454661	gene/protein	cellulase	46
+30454661	gene/protein	nod	45
+30454661	gene/protein	nod5	8
+30454661	gene/protein	chitinase	6
+30454661	gene/protein	nod1	4
+30454661	gene/protein	ten	1
+30454661	gene/protein	Green fluorescent protein	1
+30454661	molecular_function	chitinase activity	1
+30454661	organism	bacterium	7
+30454661	organism	Serratia sp	4
+30454661	organism	Enterobacter sp	3
+30454661	organism	legume	2
+30454661	organism	Mimosa pudica	2
+30454661	organism	Phaseolus vulgaris	2
+30454661	organism	Rhizobium etli	2
+30454661	organism	fungus	1
+30454661	organism	Fusarium sp	1
+30454661	organism	Alternaria	1
+30454661	organism	oomycete	1
+30454661	organism	Phytophthora capsici	1
+30454661	organism	seedling	1
+30454661	organism	plasmid	1
+30454661	sequence	rdna	1
+30454661	sequence	sequence	1
+30454661	sequence	protein	1
+30454661	sequence	plasmid	1
+30454661	organ/tissue	nodule	4
+30454661	clinical_drug	nitrogen	1

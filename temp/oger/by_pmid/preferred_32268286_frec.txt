@@ -1,0 +1,29 @@
+32268286	cellular_component	pore complex	1
+32268286	chemical	Calcium Carbonate	10
+32268286	chemical	calcite	3
+32268286	chemical	vaterite	2
+32268286	chemical	lead carbonate	2
+32268286	chemical	strontium carbonate	2
+32268286	chemical	hydrozincite	2
+32268286	chemical	carbonate	1
+32268286	chemical	Urease	1
+32268286	chemical	L-selenomethionine residue	1
+32268286	chemical	sulfide	1
+32268286	chemical	organic sulfide	1
+32268286	chemical	hydrogen sulfide	1
+32268286	chemical	sulfide(2-)	1
+32268286	chemical	atom	1
+32268286	gene/protein	Synaptosomal-associated protein 25	35
+32268286	gene/protein	Urease	10
+32268286	gene/protein	transcriptional regulator SUPERMAN (Arabidopsis thaliana)	7
+32268286	gene/protein	synaptosomal-associated protein 25	7
+32268286	gene/protein	protein STRUBBELIG (Arabidopsis thaliana)	2
+32268286	gene/protein	kinesin-like protein subito (fruit fly)	2
+32268286	gene/protein	urease subunit alpha (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+32268286	molecular_function	urease activity	1
+32268286	organism	Sporosarcina luteola	2
+32268286	sequence	gene	1
+32268286	cell_line	SEM	1
+32268286	organ/tissue	pore	1
+32268286	organ/tissue	organ	1
+32268286	molecular_process	oxidation	1

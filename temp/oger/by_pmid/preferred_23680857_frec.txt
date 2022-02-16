@@ -1,0 +1,39 @@
+23680857	chemical	Limonene	6
+23680857	chemical	Alanine	2
+23680857	chemical	Glutamic Acid	2
+23680857	chemical	antifungal agent	1
+23680857	chemical	(4S)-limonene	1
+23680857	chemical	limonene	1
+23680857	chemical	(4R)-limonene	1
+23680857	chemical	siderophore	1
+23680857	chemical	elemental carbon	1
+23680857	chemical	carbon atom	1
+23680857	chemical	L-alanine	1
+23680857	chemical	L-alanine residue	1
+23680857	chemical	alanine	1
+23680857	chemical	L-glutamic acid	1
+23680857	chemical	glutamic acid	1
+23680857	gene/protein	Methanethiol oxidase	11
+23680857	gene/protein	metallothionein-2 (fruit fly)	1
+23680857	organism	Paraburkholderia tropica	4
+23680857	organism	bacterium IFAM-3211	3
+23680857	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+23680857	organism	bacterium IFAM-3215	3
+23680857	organism	bacterium IFAM-2074	3
+23680857	organism	bacterium IFAM-3359	3
+23680857	organism	bacterium	3
+23680857	organism	bacterium IFAM-1493	3
+23680857	organism	Burkholderia	1
+23680857	organism	Fungi	1
+23680857	organism	Colletotrichum	1
+23680857	organism	Fusarium culmorum	1
+23680857	organism	Fusarium oxysporum	1
+23680857	sequence	alanine	1
+23680857	sequence	glutamic_acid	1
+23680857	organ/tissue	sclerite	1
+23680857	organ/tissue	obsolete sclerite	1
+23680857	organ/tissue	obsolete circumpennate	1
+23680857	clinical_drug	Limonene, (+)-	1
+23680857	clinical_drug	Limonene, (+/-)-	1
+23680857	clinical_drug	Alanine	1
+23680857	clinical_drug	Glutamic Acid	1

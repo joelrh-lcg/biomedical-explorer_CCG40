@@ -1,0 +1,28 @@
+28605770	biological_process	gene expression	1
+28605770	biological_process	biological_process	1
+28605770	biological_process	pathogenesis	1
+28605770	chemical	MicroRNAs	7
+28605770	chemical	RNA, Untranslated	1
+28605770	chemical	molecule	1
+28605770	chemical	Complement System Proteins	1
+28605770	chemical	base	1
+28605770	chemical	2-isocapryloyl-3R-hydroxymethyl-gamma-butyrolactone	1
+28605770	chemical	A-factor	1
+28605770	chemical	A-factor (Streptomyces)	1
+28605770	disease	Disease	12
+28605770	disease	Idiopathic Pulmonary Fibrosis	2
+28605770	disease	Pneumonia	2
+28605770	gene/protein	Ankyrin repeat and SAM domain-containing protein 1A	2
+28605770	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+28605770	gene/protein	ribonuclease I	1
+28605770	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+28605770	gene/protein	protein IMPACT (zebrafish)	1
+28605770	gene/protein	ankyrin repeat and SAM domain-containing protein 1A (mouse)	1
+28605770	gene/protein	ankyrin repeat and SAM domain-containing protein 1A	1
+28605770	gene/protein	ankyrin repeat and SAM domain-containing protein 1A (human)	1
+28605770	sequence	miRNA	7
+28605770	sequence	ncRNA	1
+28605770	sequence	gene	1
+28605770	sequence	base	1
+28605770	organ/tissue	cauda epididymis	1
+28605770	organ/tissue	corpus	1

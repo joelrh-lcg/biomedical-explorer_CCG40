@@ -1,0 +1,31 @@
+16505379	biological_process	cell growth	1
+16505379	biological_process	nodulation	1
+16505379	biological_process	small molecule metabolism	1
+16505379	biological_process	transport	1
+16505379	biological_process	regulation	1
+16505379	biological_process	symbiosis	1
+16505379	cellular_component	envelope	2
+16505379	cellular_component	chromosome	1
+16505379	chemical	nitrogen	2
+16505379	chemical	pathway	1
+16505379	chemical	molecule	1
+16505379	chemical	sigma factor	1
+16505379	gene/protein	p42	8
+16505379	gene/protein	p42a	3
+16505379	organism	bacterium	14
+16505379	organism	plasmid	4
+16505379	organism	Rhizobium etli	2
+16505379	organism	insertion sequence	1
+16505379	organism	phage	1
+16505379	organism	plasmid p42d	1
+16505379	sequence	plasmid	5
+16505379	sequence	gene	5
+16505379	sequence	genome	3
+16505379	sequence	sequence	1
+16505379	sequence	chromosome	1
+16505379	sequence	insertion sequence	1
+16505379	sequence	phage	1
+16505379	sequence	ortholog	1
+16505379	sequence	replicon	1
+16505379	sequence	paralogous	1
+16505379	clinical_drug	nitrogen	1

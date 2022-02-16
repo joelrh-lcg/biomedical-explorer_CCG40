@@ -1,0 +1,19 @@
+16547149	biological_process	regulation	2
+16547149	biological_process	transcription	1
+16547149	biological_process	gene expression	1
+16547149	biological_process	degradation	1
+16547149	chemical	sigma70	1
+16547149	chemical	cluster	1
+16547149	chemical	nucleotide	1
+16547149	gene/protein	crp	136
+16547149	gene/protein	sigma70	38
+16547149	gene/protein	dnaq	4
+16547149	molecular_function	transcription factor	1
+16547149	organism	bacterium	28
+16547149	organism	gammaproteobacteria	1
+16547149	sequence	regulatory region	14
+16547149	sequence	signal	6
+16547149	sequence	genome	5
+16547149	sequence	gene	3
+16547149	sequence	sequence	2
+16547149	sequence	positional	1

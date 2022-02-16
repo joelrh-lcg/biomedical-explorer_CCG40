@@ -1,0 +1,8 @@
+26586805	biological_process	behaviour	2
+26586805	gene/protein	api	26
+26586805	organism	api	1
+26586805	sequence	double	1
+26586805	sequence	candidate gene	1
+26586805	organ/tissue	organism	1
+26586805	organ/tissue	web	1
+26586805	entity_type	term	2

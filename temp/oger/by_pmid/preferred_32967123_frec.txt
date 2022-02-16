@@ -1,0 +1,14 @@
+32967123	biological_process	biosynthetic process	1
+32967123	biological_process	transcription, DNA-templated	1
+32967123	chemical	Proteome	2
+32967123	chemical	mineral	1
+32967123	gene/protein	Synaptosomal-associated protein 25	5
+32967123	gene/protein	transcriptional regulator SUPERMAN (Arabidopsis thaliana)	1
+32967123	gene/protein	synaptosomal-associated protein 25	1
+32967123	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+32967123	organism	unidentified plasmid	1
+32967123	sequence	wild_type	2
+32967123	sequence	delete	1
+32967123	sequence	plasmid	1
+32967123	sequence	deletion	1
+32967123	molecular_process	reduction	1

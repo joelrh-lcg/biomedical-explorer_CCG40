@@ -1,0 +1,17 @@
+27103717	cellular_component	chromosome	1
+27103717	chemical	so3	3
+27103717	disease	meningitis	2
+27103717	disease	infection	2
+27103717	gene/protein	so3	3
+27103717	gene/protein	spi	3
+27103717	organism	Salmonella	1
+27103717	organism	prophage	1
+27103717	organism	plasmid	1
+27103717	organism	pstv	1
+27103717	sequence	genome	1
+27103717	sequence	sequence	1
+27103717	sequence	chromosome	1
+27103717	sequence	prophage	1
+27103717	sequence	genomic island	1
+27103717	sequence	plasmid	1
+27103717	cell_line	spi	1

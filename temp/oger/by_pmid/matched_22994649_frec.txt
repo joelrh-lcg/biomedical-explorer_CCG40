@@ -1,0 +1,16 @@
+22994649	chemical	16s rrna	1
+22994649	chemical	18s rrna	1
+22994649	gene/protein	pcr	8
+22994649	gene/protein	ten	1
+22994649	organism	bacterium	14
+22994649	organism	scale insect	6
+22994649	organism	Enterobacteriaceae	3
+22994649	organism	enterobacteria	1
+22994649	organism	Candidatus Brownia rhizoecola	1
+22994649	sequence	16s rrna	1
+22994649	sequence	18s rrna	1
+22994649	sequence	rrna gene	1
+22994649	sequence	sequence	1
+22994649	sequence	duplication	1
+22994649	organ/tissue	scale	6
+22994649	organ/tissue	node	1

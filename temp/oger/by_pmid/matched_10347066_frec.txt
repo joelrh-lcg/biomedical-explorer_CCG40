@@ -1,0 +1,32 @@
+10347066	biological_process	nitrogen fixation	2
+10347066	biological_process	nodulation	2
+10347066	biological_process	dna amplification	1
+10347066	chemical	nitrogen	6
+10347066	chemical	antibiotic	3
+10347066	chemical	sda	1
+10347066	chemical	a dna	1
+10347066	chemical	nitrogenase	1
+10347066	disease	nod	1
+10347066	gene/protein	nod	45
+10347066	gene/protein	sda	1
+10347066	gene/protein	nodd1	1
+10347066	molecular_function	nitrogenase activity	1
+10347066	organism	bacterium	7
+10347066	organism	alfalfa	6
+10347066	organism	plasmid	4
+10347066	organism	Sinorhizobium meliloti	2
+10347066	organism	strain 41	2
+10347066	organism	Sinorhizobium	1
+10347066	sequence	plasmid	4
+10347066	sequence	gene	2
+10347066	sequence	construct	1
+10347066	sequence	fragment	1
+10347066	sequence	operon	1
+10347066	sequence	regulon	1
+10347066	sequence	clone	1
+10347066	sequence	homologous	1
+10347066	sequence	duplication	1
+10347066	sequence	vector	1
+10347066	organ/tissue	organism	1
+10347066	clinical_drug	nitrogen	3
+10347066	clinical_drug	alfalfa	3

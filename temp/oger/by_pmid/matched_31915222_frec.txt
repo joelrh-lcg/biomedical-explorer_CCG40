@@ -1,0 +1,13 @@
+31915222	chemical	antibiotic	9
+31915222	chemical	oxa	3
+31915222	chemical	carbapenemase	2
+31915222	chemical	carbapenem	1
+31915222	chemical	oxacillinase	1
+31915222	disease	nosocomial infection	4
+31915222	gene/protein	oxacillinase	2
+31915222	gene/protein	carbapenemase	2
+31915222	sequence	genome	4
+31915222	sequence	sequence	2
+31915222	sequence	clone	1
+31915222	sequence	gene	1
+31915222	entity_type	term	2

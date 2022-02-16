@@ -1,0 +1,66 @@
+34745182	biological_process	biofilm formation	2
+34745182	biological_process	biosynthetic process	1
+34745182	biological_process	signaling	1
+34745182	cellular_component	dystrophin-associated glycoprotein complex	2
+34745182	cellular_component	extracellular region	1
+34745182	cellular_component	obsolete protein	1
+34745182	chemical	bis(3',5')-cyclic diguanylic acid	6
+34745182	chemical	c-di-GMP	3
+34745182	chemical	indoleacetic acid	2
+34745182	chemical	exopolysaccharide	2
+34745182	chemical	diguanylate cyclase	2
+34745182	chemical	nitrogen atom	1
+34745182	chemical	nitrogen(.)	1
+34745182	chemical	plant hormone	1
+34745182	chemical	indole-3-acetic acid	1
+34745182	chemical	modulator	1
+34745182	chemical	protein	1
+34745182	chemical	(protein)	1
+34745182	gene/protein	Probable diguanylate cyclase DgcQ	20
+34745182	gene/protein	Diguanylate cyclase DosC	12
+34745182	gene/protein	Probable diguanylate cyclase DgcI	4
+34745182	gene/protein	Probable diguanylate cyclase DgcF	4
+34745182	gene/protein	Probable diguanylate cyclase DgcC	4
+34745182	gene/protein	Diguanylate cyclase DgcM	4
+34745182	gene/protein	Probable diguanylate cyclase DgcT	2
+34745182	gene/protein	Diguanylate cyclase DgcN	2
+34745182	gene/protein	Probable diguanylate cyclase DgcJ	2
+34745182	gene/protein	diguanylate cyclase DgcM	2
+34745182	gene/protein	probable diguanylate cyclase DgcT	2
+34745182	gene/protein	Probable diguanylate cyclase DgcE	2
+34745182	gene/protein	Diguanylate cyclase VdcA	2
+34745182	gene/protein	probable diguanylate cyclase DgcC	2
+34745182	gene/protein	diguanylate cyclase DgcN	2
+34745182	gene/protein	Probable diguanylate cyclase CdgI	2
+34745182	gene/protein	diguanylate cyclase DgcZ	2
+34745182	gene/protein	probable diguanylate cyclase DgcQ	2
+34745182	gene/protein	probable diguanylate cyclase DgcJ	2
+34745182	gene/protein	diguanylate cyclase DosC	2
+34745182	gene/protein	Putative diguanylate cyclase DgcQ	2
+34745182	gene/protein	probable diguanylate cyclase DgcE	2
+34745182	gene/protein	Diguanylate cyclase DgcP	2
+34745182	gene/protein	diguanylate cyclase DgcP	2
+34745182	gene/protein	Diguanylate cyclase DgcZ	2
+34745182	gene/protein	BAG family molecular chaperone regulator 3 (human)	1
+34745182	gene/protein	BAG family molecular chaperone regulator 3	1
+34745182	gene/protein	BAG family molecular chaperone regulator 3 (mouse)	1
+34745182	gene/protein	Multifunctional alkaline phosphatase superfamily protein pRL90232	1
+34745182	gene/protein	Multifunctional alkaline phosphatase superfamily protein PehA	1
+34745182	gene/protein	protein	1
+34745182	molecular_function	biphenyl synthase activity	1
+34745182	molecular_function	phosphoric diester hydrolase activity	1
+34745182	organism	Triticum aestivum	2
+34745182	organism	Triticum	2
+34745182	organism	bacterium IFAM-3211	1
+34745182	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+34745182	organism	bacterium IFAM-3215	1
+34745182	organism	bacterium IFAM-2074	1
+34745182	organism	bacterium IFAM-3359	1
+34745182	organism	bacterium	1
+34745182	organism	bacterium IFAM-1493	1
+34745182	sequence	deletion	1
+34745182	sequence	polypeptide	1
+34745182	organ/tissue	matrix compartment	1
+34745182	clinical_drug	Wheat preparation	2
+34745182	clinical_drug	whole wheat allergenic extract	2
+34745182	clinical_drug	Nitrogen	1

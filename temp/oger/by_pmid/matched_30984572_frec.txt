@@ -1,0 +1,9 @@
+30984572	chemical	ethanol	15
+30984572	chemical	4 be	1
+30984572	chemical	solvent	1
+30984572	gene/protein	add	3
+30984572	sequence	mutation	3
+30984572	sequence	gene	3
+30984572	sequence	allele	1
+30984572	clinical_drug	ethanol	5
+30984572	entity_type	term	2

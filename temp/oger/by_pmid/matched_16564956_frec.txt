@@ -1,0 +1,13 @@
+16564956	cellular_component	extracellular	1
+16564956	chemical	polysaccharide	1
+16564956	gene/protein	lmg	1
+16564956	organism	rhizobium	1
+16564956	organism	Sesbania virgata	1
+16564956	organism	Azorhizobium	1
+16564956	organism	azorhizobium	1
+16564956	organism	br5401	1
+16564956	organism	lmg9993	1
+16564956	organism	semia 6401	1
+16564956	sequence	intermediate	1
+16564956	sequence	sequence	1
+16564956	organ/tissue	nodule	2

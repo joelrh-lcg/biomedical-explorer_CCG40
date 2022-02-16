@@ -1,0 +1,22 @@
+22318347	biological_process	reproduction	1
+22318347	biological_process	regulation	1
+22318347	chemical	base	1
+22318347	disease	infection	6
+22318347	disease	hemolytic uremic syndrome	2
+22318347	disease	Koch	2
+22318347	gene/protein	k12	27
+22318347	gene/protein	lab	6
+22318347	organism	bacterium	14
+22318347	organism	ehec	4
+22318347	organism	e coli k12	3
+22318347	organism	Escherichia coli	2
+22318347	organism	human	2
+22318347	organism	e coli	2
+22318347	organism	enterohemorrhagic e coli	1
+22318347	organism	enteroaggregative e coli	1
+22318347	organism	EHEC	1
+22318347	organism	unknown	1
+22318347	sequence	gene	2
+22318347	sequence	base	1
+22318347	cell_line	k12	6
+22318347	organ/tissue	scale	1

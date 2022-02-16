@@ -1,0 +1,42 @@
+12489782	biological_process	glyoxylate cycle	2
+12489782	biological_process	nitrogen fixation	1
+12489782	cellular_component	plant cell wall	1
+12489782	chemical	glyoxylate	16
+12489782	chemical	malate	5
+12489782	chemical	malate synthase	4
+12489782	chemical	arabinose	3
+12489782	chemical	glycolate	3
+12489782	chemical	and coa	2
+12489782	chemical	coa and	2
+12489782	chemical	carbon	2
+12489782	chemical	pea	2
+12489782	chemical	nitrogen	2
+12489782	chemical	complement	1
+12489782	gene/protein	malate synthase g	81
+12489782	gene/protein	malate synthase	33
+12489782	gene/protein	glcb	8
+12489782	gene/protein	coa	5
+12489782	gene/protein	glcB	4
+12489782	gene/protein	pea	3
+12489782	gene/protein	lacz	2
+12489782	gene/protein	aceB	2
+12489782	molecular_function	malate synthase activity	1
+12489782	organism	Rhizobium leguminosarum	2
+12489782	organism	Sinorhizobium meliloti	2
+12489782	organism	mesorhizobium loti	2
+12489782	organism	Escherichia coli	2
+12489782	organism	pea	2
+12489782	organism	transposon tn5	1
+12489782	organism	agrobacterium	1
+12489782	sequence	gene	5
+12489782	sequence	transposon	2
+12489782	sequence	fusion	1
+12489782	sequence	insertion	1
+12489782	sequence	sequence	1
+12489782	sequence	genome	1
+12489782	cell_line	tn5	1
+12489782	cell_line	pea	1
+12489782	organ/tissue	wall	1
+12489782	clinical_drug	glycolate	1
+12489782	clinical_drug	pea	1
+12489782	clinical_drug	nitrogen	1

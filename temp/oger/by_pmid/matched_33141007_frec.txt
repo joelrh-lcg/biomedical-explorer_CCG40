@@ -1,0 +1,18 @@
+33141007	biological_process	virulence	3
+33141007	biological_process	mutagenesis	1
+33141007	biological_process	pathogenesis	1
+33141007	biological_process	immune response	1
+33141007	cellular_component	plant cell wall	1
+33141007	cellular_component	protein	1
+33141007	chemical	proteins	8
+33141007	chemical	protein	2
+33141007	chemical	polysaccharide	2
+33141007	chemical	virulence factor	1
+33141007	gene/protein	protein	1
+33141007	organism	Plant	1
+33141007	sequence	sequence	1
+33141007	sequence	domain	1
+33141007	sequence	mutagenesis	1
+33141007	sequence	gene	1
+33141007	sequence	protein	1
+33141007	organ/tissue	wall	2

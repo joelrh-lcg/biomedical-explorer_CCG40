@@ -1,0 +1,33 @@
+24831014	cellular_component	obsolete protein	1
+24831014	chemical	protein	2
+24831014	chemical	copper atom	2
+24831014	chemical	copper(0)	2
+24831014	chemical	(protein)	1
+24831014	gene/protein	protein	1
+24831014	gene/protein	Actin, alpha skeletal muscle 2	1
+24831014	gene/protein	mating-type protein ALPHA2 (yeast)	1
+24831014	gene/protein	bifunctional protein FolD	1
+24831014	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+24831014	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+24831014	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+24831014	gene/protein	glutamate [NMDA] receptor subunit 1 (fruit fly)	1
+24831014	gene/protein	Nitrogen metabolite repression protein nmr	1
+24831014	molecular_function	binding	1
+24831014	organism	Bacillus	2
+24831014	organism	unidentified	1
+24831014	organism	Geobacillus	1
+24831014	organism	Listeria	1
+24831014	organism	Helix aspersa	1
+24831014	organism	Cantareus apertus	1
+24831014	sequence	operon	1
+24831014	sequence	polypeptide_binding_motif	1
+24831014	sequence	non_covalent_binding_site	1
+24831014	sequence	gene	1
+24831014	sequence	polypeptide	1
+24831014	sequence	alpha_helix	1
+24831014	sequence	right_handed_peptide_helix	1
+24831014	sequence	peptide_helix	1
+24831014	organ/tissue	caudal fin	2
+24831014	organ/tissue	obsolete caudal fin	2
+24831014	organ/tissue	tail	2
+24831014	organ/tissue	helix of outer ear	1

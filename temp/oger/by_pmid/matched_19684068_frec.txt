@@ -1,0 +1,31 @@
+19684068	biological_process	glyoxylate cycle	3
+19684068	biological_process	virulence	3
+19684068	biological_process	tca cycle	2
+19684068	biological_process	gluconeogenesis	1
+19684068	biological_process	biosynthetic process	1
+19684068	biological_process	pathogenesis	1
+19684068	chemical	glyoxylate	20
+19684068	chemical	malate	5
+19684068	chemical	co2	4
+19684068	chemical	isocitrate	4
+19684068	chemical	succinate	4
+19684068	chemical	pathway	2
+19684068	chemical	tca	2
+19684068	chemical	tricarboxylic acid	1
+19684068	chemical	isocitrate lyase	1
+19684068	chemical	malate synthase	1
+19684068	chemical	inhibitor	1
+19684068	disease	icl	2
+19684068	disease	fungal disease	2
+19684068	disease	ICL	1
+19684068	gene/protein	icl	100
+19684068	gene/protein	ICL	50
+19684068	gene/protein	isocitrate lyase	46
+19684068	gene/protein	malate synthase	11
+19684068	organism	bacterium	7
+19684068	organism	Eukarya	1
+19684068	organism	Archaea	1
+19684068	organism	human	1
+19684068	sequence	inside	1
+19684068	cell_line	tca	2
+19684068	organ/tissue	animal	2

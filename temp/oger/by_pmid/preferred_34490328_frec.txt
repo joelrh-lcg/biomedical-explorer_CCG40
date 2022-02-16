@@ -1,0 +1,48 @@
+34490328	biological_process	fermentation	2
+34490328	biological_process	biosynthetic process	1
+34490328	cellular_component	catalytic complex	1
+34490328	chemical	hemicellulose	3
+34490328	chemical	Carbohydrates	2
+34490328	chemical	Lactic Acid	2
+34490328	chemical	protein	2
+34490328	chemical	Starch	2
+34490328	chemical	Cellulose	2
+34490328	chemical	Acetoin	2
+34490328	chemical	carbohydrate	1
+34490328	chemical	lipid	1
+34490328	chemical	nitrogen atom	1
+34490328	chemical	nitrogen(.)	1
+34490328	chemical	Bacterial Proteins	1
+34490328	chemical	(S)-lactic acid	1
+34490328	chemical	2-hydroxypropanoic acid	1
+34490328	chemical	(R)-lactic acid	1
+34490328	chemical	rac-lactic acid	1
+34490328	chemical	Fungal Proteins	1
+34490328	chemical	starch	1
+34490328	chemical	(1->4)-beta-D-glucan	1
+34490328	chemical	elemental carbon	1
+34490328	chemical	carbon atom	1
+34490328	chemical	organic acid	1
+34490328	chemical	acetoin	1
+34490328	chemical	butanediol	1
+34490328	chemical	fatty acid	1
+34490328	chemical	alpha-amino acid	1
+34490328	chemical	amino acid	1
+34490328	organism	bacterium IFAM-3211	1
+34490328	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+34490328	organism	bacterium IFAM-3215	1
+34490328	organism	bacterium IFAM-2074	1
+34490328	organism	bacterium IFAM-3359	1
+34490328	organism	bacterium	1
+34490328	organism	bacterium IFAM-1493	1
+34490328	organism	Yeasts	1
+34490328	organism	Fungi	1
+34490328	organism	unidentified	1
+34490328	sequence	intermediate	1
+34490328	sequence	amino_acid	1
+34490328	clinical_drug	Nitrogen	1
+34490328	clinical_drug	Lactic Acid, Unspecified Form	1
+34490328	clinical_drug	Yeast, Unspecified	1
+34490328	clinical_drug	Starch	1
+34490328	clinical_drug	.ALPHA.-CELLULOSE	1
+34490328	molecular_process	hydrolysis	1

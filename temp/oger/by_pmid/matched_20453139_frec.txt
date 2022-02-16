@@ -1,0 +1,23 @@
+20453139	biological_process	nitrogen fixation	4
+20453139	biological_process	symbiosis	2
+20453139	biological_process	reverse transcription	1
+20453139	chemical	nitrogen	8
+20453139	chemical	base	1
+20453139	chemical	oligonucleotide	1
+20453139	chemical	proteins	1
+20453139	gene/protein	mer	12
+20453139	gene/protein	bean	3
+20453139	organism	bacterium	7
+20453139	organism	Rhizobium etli	2
+20453139	organism	alphaproteobacteria	1
+20453139	organism	cfn42	1
+20453139	sequence	regulon	6
+20453139	sequence	gene	5
+20453139	sequence	base	1
+20453139	sequence	genome	1
+20453139	sequence	sequence	1
+20453139	sequence	construct	1
+20453139	sequence	oligonucleotide	1
+20453139	sequence	reverse	1
+20453139	cell_line	bean	1
+20453139	clinical_drug	nitrogen	4

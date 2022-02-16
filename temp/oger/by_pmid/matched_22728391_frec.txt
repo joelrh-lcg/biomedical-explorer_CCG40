@@ -1,0 +1,13 @@
+22728391	biological_process	transcription	1
+22728391	cellular_component	core	1
+22728391	chemical	sigma factor	1
+22728391	molecular_function	transcription factor	1
+22728391	organism	bacterium	7
+22728391	organism	Escherichia coli	2
+22728391	organism	bacillus subtilis	2
+22728391	sequence	gene	2
+22728391	sequence	orthologous	1
+22728391	cell	basal cell	1
+22728391	organ/tissue	organism	4
+22728391	clinical_drug	bacillus subtilis	1
+22728391	molecular_process	coordination	1

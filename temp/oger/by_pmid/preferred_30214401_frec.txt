@@ -1,0 +1,14 @@
+30214401	chemical	base	3
+30214401	chemical	cluster	2
+30214401	chemical	drug	1
+30214401	disease	Disease	2
+30214401	gene/protein	50S ribosomal protein L5	1
+30214401	organism	Mus musculus	4
+30214401	organism	Mice	4
+30214401	sequence	base	3
+30214401	cell_line	SCLC-24H	3
+30214401	cell_line	BL-6	1
+30214401	cell_line	B16-BL6	1
+30214401	cell_line	NCI-BL1339	1
+30214401	organ/tissue	animal hemisphere	1
+30214401	organ/tissue	multicellular organism	1

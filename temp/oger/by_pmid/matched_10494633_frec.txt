@@ -1,0 +1,23 @@
+10494633	biological_process	sulfation	1
+10494633	biological_process	glycosylation	1
+10494633	biological_process	nodulation	1
+10494633	chemical	fucose	4
+10494633	chemical	nod factor	3
+10494633	chemical	arabinose	3
+10494633	chemical	factor sulfation	2
+10494633	chemical	sulfate	2
+10494633	chemical	hydrogen	2
+10494633	chemical	Nod factor	1
+10494633	disease	nod	3
+10494633	disease	Nod	1
+10494633	gene/protein	nod	135
+10494633	gene/protein	Nod	45
+10494633	gene/protein	bean	6
+10494633	organism	Phaseolus vulgaris	2
+10494633	organism	Rhizobium tropici	2
+10494633	organism	CFN299	1
+10494633	organism	Azorhizobium	1
+10494633	sequence	gene	1
+10494633	cell_line	bean	2
+10494633	organ/tissue	nodule	2
+10494633	molecular_process	glycosylation	1

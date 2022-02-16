@@ -1,0 +1,41 @@
+31134023	biological_process	denitrification pathway	1
+31134023	biological_process	nitrate assimilation	1
+31134023	biological_process	assimilatory nitrate reduction	1
+31134023	cellular_component	chromosome	1
+31134023	chemical	nitrate	7
+31134023	chemical	nitrogen	4
+31134023	chemical	greenhouse gas	3
+31134023	chemical	nitrous oxide	3
+31134023	chemical	nitrate reductase	2
+31134023	chemical	nitrite	2
+31134023	chemical	reductase nitrite	1
+31134023	chemical	nitrite reductase	1
+31134023	chemical	nitric oxide reductase	1
+31134023	chemical	nitrous oxide reductase	1
+31134023	chemical	pathway	1
+31134023	disease	attribute	2
+31134023	gene/protein	nitrous oxide reductase	12
+31134023	gene/protein	Nap	10
+31134023	gene/protein	nitrate reductase	10
+31134023	gene/protein	narb	8
+31134023	gene/protein	nir	7
+31134023	gene/protein	sub1	6
+31134023	gene/protein	nitrite reductase	4
+31134023	gene/protein	bean	3
+31134023	gene/protein	nirk	3
+31134023	gene/protein	Nar	2
+31134023	gene/protein	nitric oxide reductase	1
+31134023	gene/protein	lack	1
+31134023	molecular_function	nitrate reductase activity	1
+31134023	organism	bacterium	7
+31134023	organism	CFN42	1
+31134023	sequence	gene	5
+31134023	sequence	chromosome	1
+31134023	sequence	fusion	1
+31134023	cell_line	Nap	1
+31134023	cell_line	bean	1
+31134023	organ/tissue	sole	1
+31134023	clinical_drug	nitrous oxide	2
+31134023	clinical_drug	nitrogen	2
+31134023	clinical_drug	nitric oxide	1
+31134023	molecular_process	reduction	2

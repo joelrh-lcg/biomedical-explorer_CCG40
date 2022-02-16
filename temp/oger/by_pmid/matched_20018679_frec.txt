@@ -1,0 +1,33 @@
+20018679	biological_process	biosynthesis	1
+20018679	biological_process	formation	1
+20018679	biological_process	synthesis	1
+20018679	cellular_component	membrane	6
+20018679	cellular_component	smc	3
+20018679	cellular_component	intracellular	1
+20018679	chemical	diacylglycerol	924
+20018679	chemical	phosphorus	10
+20018679	chemical	phosphocholine	10
+20018679	chemical	phosphatidylethanolamine	8
+20018679	chemical	lipid	6
+20018679	chemical	phosphatidylcholine	5
+20018679	chemical	phospholipid	4
+20018679	chemical	DGTS	4
+20018679	chemical	cardiolipin	3
+20018679	chemical	phosphatidylglycerol	2
+20018679	chemical	phospholipase c	2
+20018679	chemical	Inorganic phosphate	1
+20018679	chemical	inorganic phosphate	1
+20018679	disease	smc	3
+20018679	gene/protein	phospholipase c	26
+20018679	gene/protein	smc	3
+20018679	gene/protein	precursor	2
+20018679	gene/protein	lack	1
+20018679	gene/protein	phosphatase	1
+20018679	molecular_function	phosphatase	1
+20018679	organism	bacterium	21
+20018679	organism	Sinorhizobium meliloti	2
+20018679	organism	Escherichia coli	2
+20018679	organism	legume	1
+20018679	sequence	wild type	1
+20018679	organ/tissue	membrane	12
+20018679	organ/tissue	nodule	2

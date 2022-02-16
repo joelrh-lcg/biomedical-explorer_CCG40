@@ -1,0 +1,13 @@
+34394059	biological_process	metabolism	1
+34394059	biological_process	transport	1
+34394059	biological_process	dna repair	1
+34394059	biological_process	regulation of gene expression	1
+34394059	chemical	gene proteins	1
+34394059	chemical	pathway	1
+34394059	chemical	Pathway	1
+34394059	gene/protein	K12	9
+34394059	sequence	gene	2
+34394059	sequence	circular	1
+34394059	sequence	genome	1
+34394059	cell_line	K12	2
+34394059	organ/tissue	web	1

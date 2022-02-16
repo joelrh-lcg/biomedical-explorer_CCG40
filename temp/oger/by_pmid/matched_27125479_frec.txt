@@ -1,0 +1,5 @@
+27125479	gene/protein	s52	4
+27125479	organism	Burkholderia cenocepacia	6
+27125479	organism	Burkholderia cepacia complex	1
+27125479	sequence	genome	1
+27125479	sequence	sequence	1

@@ -1,0 +1,12 @@
+21801415	biological_process	biological_process	3
+21801415	biological_process	nitrogen fixation	2
+21801415	biological_process	fertilization	1
+21801415	chemical	nitrogen atom	3
+21801415	chemical	nitrogen(.)	3
+21801415	chemical	Ammonium Compounds	2
+21801415	chemical	ammonium	1
+21801415	chemical	Nitrogenase	1
+21801415	sequence	enzymatic	1
+21801415	organ/tissue	cerebellum vermis lobule X	1
+21801415	organ/tissue	germinal center	1
+21801415	clinical_drug	Nitrogen	3

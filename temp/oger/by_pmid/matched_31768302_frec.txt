@@ -1,0 +1,22 @@
+31768302	biological_process	virulence	6
+31768302	biological_process	biofilm formation	2
+31768302	chemical	methicillin	3
+31768302	chemical	antibiotic	3
+31768302	chemical	macrolide	1
+31768302	chemical	nucleotide	1
+31768302	chemical	ica	1
+31768302	gene/protein	lack	1
+31768302	gene/protein	ica	1
+31768302	organism	phage	2
+31768302	organism	human	1
+31768302	organism	collection	1
+31768302	organism	insertion sequence	1
+31768302	sequence	gene	3
+31768302	sequence	sequence	2
+31768302	sequence	genome	2
+31768302	sequence	phage	2
+31768302	sequence	sequence collection	1
+31768302	sequence	operon	1
+31768302	sequence	insertion sequence	1
+31768302	sequence	mutation	1
+31768302	organ/tissue	ica	1

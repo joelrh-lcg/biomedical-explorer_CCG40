@@ -1,0 +1,18 @@
+34394059	biological_process	metabolic process	1
+34394059	biological_process	transport	1
+34394059	biological_process	DNA repair	1
+34394059	biological_process	regulation of gene expression	1
+34394059	chemical	picloram	2
+34394059	chemical	Proteins	1
+34394059	gene/protein	Keratin, type I cytoskeletal 12	4
+34394059	gene/protein	secreted and transmembrane protein 1	1
+34394059	gene/protein	secreted and transmembrane protein 1 (human)	1
+34394059	gene/protein	secreted and transmembrane protein 1b	1
+34394059	gene/protein	keratin, type I cytoskeletal 12	1
+34394059	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+34394059	sequence	gene	2
+34394059	sequence	circular	1
+34394059	sequence	genome	1
+34394059	cell_line	K12 [Mouse osteosarcoma]	1
+34394059	cell_line	K12-72.1	1
+34394059	organ/tissue	webbed interdigital region	1

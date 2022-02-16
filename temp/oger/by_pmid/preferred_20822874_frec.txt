@@ -1,0 +1,79 @@
+20822874	cellular_component	ribosome	1
+20822874	chemical	Phytic Acid	6
+20822874	chemical	myo-inositol hexakisphosphate	3
+20822874	chemical	RNA, Ribosomal, 16S	2
+20822874	chemical	Phosphorus	2
+20822874	chemical	phosphorus(.)	1
+20822874	chemical	phosphorus atom	1
+20822874	chemical	tetraphosphorus	1
+20822874	gene/protein	Protein BEAN1	6
+20822874	gene/protein	protein BEAN	3
+20822874	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+20822874	gene/protein	ribonuclease I	1
+20822874	gene/protein	protein RecA (Brucella abortus bv. 1 str. 9-941)	1
+20822874	gene/protein	protein RecA (Mycobacterium tuberculosis H37Rv)	1
+20822874	gene/protein	DNA repair protein RAD51 homolog 1 (mouse)	1
+20822874	gene/protein	protein RecA	1
+20822874	gene/protein	DNA repair protein RAD51 homolog 1	1
+20822874	gene/protein	protein RecA (Brucella suis 1330)	1
+20822874	gene/protein	mitochondrial DNA repair protein recA homolog (Dictyostelium discoideum)	1
+20822874	gene/protein	protein RecA (Escherichia coli K-12)	1
+20822874	gene/protein	protein RecA (Brucella canis ATCC 23365)	1
+20822874	gene/protein	DNA repair protein RAD51 homolog 1 (human)	1
+20822874	gene/protein	protein RecA (Brucella suis ATCC 23445)	1
+20822874	gene/protein	protein RecA (Brucella melitensis ATCC 23457)	1
+20822874	gene/protein	DNA repair protein recA homolog 1, chloroplastic (Arabidopsis thaliana)	1
+20822874	gene/protein	protein RecA (Brucella abortus 2308)	1
+20822874	gene/protein	DNA-directed RNA polymerase subunit beta (Thermus thermophilus HB8)	1
+20822874	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis ATCC 23445)	1
+20822874	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus 2308)	1
+20822874	gene/protein	DNA-directed RNA polymerase subunit beta (Escherichia coli K-12)	1
+20822874	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella canis ATCC 23365)	1
+20822874	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella ovis ATCC 25840)	1
+20822874	gene/protein	DNA-directed RNA polymerase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+20822874	gene/protein	DNA-directed RNA polymerase subunit beta (Peptoclostridium difficile 630)	1
+20822874	gene/protein	DNA-directed RNA polymerase subunit beta (Clostridium botulinum A str. Hall)	1
+20822874	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella melitensis ATCC 23457)	1
+20822874	gene/protein	DNA-directed RNA polymerase subunit beta	1
+20822874	gene/protein	DNA-directed RNA polymerase subunit beta (Arabidopsis thaliana)	1
+20822874	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis 1330)	1
+20822874	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus bv. 1 str. 9-941)	1
+20822874	gene/protein	ATP synthase subunit delta, chloroplastic (Arabidopsis thaliana)	1
+20822874	gene/protein	ATP synthase subunit beta (Aeromonas hydrophila subsp. hydrophila ATCC 7966)	1
+20822874	gene/protein	ATP synthase subunit beta (Clostridium botulinum A str. Hall)	1
+20822874	gene/protein	ATP synthase subunit beta (Mycobacterium tuberculosis H37Rv)	1
+20822874	gene/protein	ATP synthase subunit beta	1
+20822874	gene/protein	ATP synthase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+20822874	gene/protein	ATP synthase subunit beta (Escherichia coli K-12)	1
+20822874	gene/protein	ATP synthase subunit beta (Leptospira interrogans serovar Lai str. 56601)	1
+20822874	gene/protein	chaperone protein DnaK (Brucella suis 1330)	1
+20822874	gene/protein	chaperone protein DnaK (Escherichia coli K-12)	1
+20822874	gene/protein	chaperone protein DnaK (Brucella melitensis bv. 1 str. 16M)	1
+20822874	gene/protein	chaperone protein DnaK (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+20822874	gene/protein	chaperone protein DnaK (Brucella abortus bv. 1 str. 9-941)	1
+20822874	gene/protein	chaperone protein DnaK (Brucella ovis ATCC 25840)	1
+20822874	gene/protein	chaperone protein DnaK	1
+20822874	gene/protein	chaperone protein DnaK (Clostridium botulinum A str. Hall)	1
+20822874	molecular_function	structural constituent of ribosome	1
+20822874	molecular_function	obsolete ribosomal RNA	1
+20822874	organism	Rhizobium endophyticum	5
+20822874	organism	Acinetobacter	2
+20822874	organism	Bacillus	2
+20822874	organism	unidentified plasmid	2
+20822874	organism	Phaseolus	1
+20822874	organism	Phaseolus vulgaris	1
+20822874	organism	Enterococcus	1
+20822874	organism	Paracoccus	1
+20822874	organism	Sphingomonas	1
+20822874	organism	bacterium BE	1
+20822874	organism	Streptomyces	1
+20822874	organism	Rhizobium	1
+20822874	organism	Rhizobium leucaenae	1
+20822874	sequence	rRNA_16S	2
+20822874	sequence	gene	2
+20822874	sequence	region	2
+20822874	sequence	plasmid	2
+20822874	cell_line	R1192	3
+20822874	cell_line	RECA	1
+20822874	organ/tissue	cerebellum vermis lobule X	1
+20822874	organ/tissue	germinal center	1

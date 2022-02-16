@@ -1,0 +1,38 @@
+22203561	biological_process	degradation	3
+22203561	biological_process	pentachlorophenol degradation	1
+22203561	biological_process	mutagenesis	1
+22203561	chemical	chloranilic acid	12
+22203561	chemical	pentachlorophenol	8
+22203561	chemical	Pentachlorophenol	4
+22203561	chemical	benzoquinone	4
+22203561	chemical	chlorophenol	2
+22203561	chemical	pathway	2
+22203561	chemical	carbon	2
+22203561	chemical	solution	1
+22203561	chemical	plg	1
+22203561	chemical	base	1
+22203561	chemical	pyrone	1
+22203561	chemical	dicarboxylic acid	1
+22203561	chemical	aldolase	1
+22203561	chemical	dihydrodipicolinate synthase	1
+22203561	gene/protein	orf5	36
+22203561	gene/protein	cad	30
+22203561	gene/protein	cadc	6
+22203561	gene/protein	plg	5
+22203561	gene/protein	cadD	4
+22203561	gene/protein	cadd	4
+22203561	gene/protein	cadr	2
+22203561	gene/protein	polar	1
+22203561	organism	bacterium	7
+22203561	organism	Pseudomonas putida	4
+22203561	sequence	gene	6
+22203561	sequence	orf	1
+22203561	sequence	mutagenesis	1
+22203561	sequence	deficiency	1
+22203561	sequence	transposon	1
+22203561	sequence	insertion	1
+22203561	sequence	cosmid	1
+22203561	sequence	base	1
+22203561	cell_line	cad	1
+22203561	organ/tissue	sole	1
+22203561	molecular_process	halogenation	1

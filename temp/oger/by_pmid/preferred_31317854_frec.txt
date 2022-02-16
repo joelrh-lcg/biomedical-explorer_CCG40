@@ -1,0 +1,29 @@
+31317854	biological_process	chemotaxis	7
+31317854	biological_process	signaling	2
+31317854	biological_process	sexual reproduction	1
+31317854	biological_process	export across plasma membrane	1
+31317854	biological_process	export from cell	1
+31317854	cellular_component	spanning component of plasma membrane	1
+31317854	cellular_component	integral component of membrane	1
+31317854	chemical	maleate(2-)	5
+31317854	gene/protein	staphylococcal enterotoxin A	1
+31317854	molecular_function	chemoattractant activity	1
+31317854	organism	Invertebrates	3
+31317854	organism	Ciona intestinalis	2
+31317854	organism	Eukaryota	1
+31317854	organism	Sea Urchins	1
+31317854	organism	Urochordata	1
+31317854	organism	Mutimo cylindricus	1
+31317854	organism	unidentified	1
+31317854	sequence	homologous_region	1
+31317854	sequence	polypeptide_domain	1
+31317854	sequence	polypeptide_repeat	1
+31317854	sequence	transmembrane_polypeptide_region	1
+31317854	cell	male gamete	5
+31317854	cell	sperm	3
+31317854	cell	female gamete	2
+31317854	organ/tissue	male organism	5
+31317854	organ/tissue	obsolete spermatozoon	3
+31317854	organ/tissue	semen	3
+31317854	organ/tissue	female organism	2
+31317854	organ/tissue	organismal segment	1

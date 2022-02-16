@@ -1,0 +1,58 @@
+19755543	biological_process	gene expression	2
+19755543	biological_process	transcription, DNA-templated	2
+19755543	biological_process	metabolic process	2
+19755543	biological_process	nitrogen fixation	1
+19755543	biological_process	nodulation	1
+19755543	biological_process	biological_process	1
+19755543	biological_process	glycolytic process	1
+19755543	biological_process	glycerolipid metabolic process	1
+19755543	chemical	Phosphorus	2
+19755543	chemical	nitrogen atom	2
+19755543	chemical	nitrogen(.)	2
+19755543	chemical	Acetylene	2
+19755543	chemical	Starch	2
+19755543	chemical	phosphorus(.)	1
+19755543	chemical	phosphorus atom	1
+19755543	chemical	tetraphosphorus	1
+19755543	chemical	Nitrogenase	1
+19755543	chemical	acetylene	1
+19755543	chemical	Nylons	1
+19755543	chemical	DNA, Complementary	1
+19755543	chemical	base	1
+19755543	chemical	alpha-amino acid	1
+19755543	chemical	amino acid	1
+19755543	chemical	metabolite	1
+19755543	chemical	acid	1
+19755543	chemical	glycerolipid	1
+19755543	chemical	starch	1
+19755543	chemical	succinyl group	1
+19755543	chemical	picloram	1
+19755543	disease	COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	1
+19755543	gene/protein	Protein BEAN1	6
+19755543	gene/protein	protein BEAN	3
+19755543	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT (Escherichia coli K-12)	1
+19755543	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT	1
+19755543	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	2
+19755543	molecular_function	nitrogenase activity	1
+19755543	organism	Rhizobium tropici	3
+19755543	organism	Phaseolus	2
+19755543	organism	Fabaceae	1
+19755543	organism	Humans	1
+19755543	organism	Leiostomus xanthurus	1
+19755543	sequence	gene	6
+19755543	sequence	chromosomal_deletion	1
+19755543	sequence	transcript	1
+19755543	sequence	cDNA	1
+19755543	sequence	base	1
+19755543	sequence	reverse	1
+19755543	sequence	mature_protein_region	1
+19755543	sequence	amino_acid	1
+19755543	cell_line	R1192	3
+19755543	organ/tissue	cerebellum vermis lobule X	7
+19755543	organ/tissue	germinal center	7
+19755543	organ/tissue	melanophore spot	1
+19755543	clinical_drug	Nitrogen	2
+19755543	clinical_drug	Starch	1
+19755543	molecular_process	reduction	1
+19755543	molecular_process	acetylene reduction	1
+19755543	molecular_process	chain reaction	1

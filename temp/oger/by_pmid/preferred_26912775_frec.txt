@@ -1,0 +1,39 @@
+26912775	biological_process	signaling	5
+26912775	biological_process	neurogenesis	2
+26912775	cellular_component	nuclear pore	3
+26912775	chemical	NPC	3
+26912775	chemical	picloram	1
+26912775	chemical	inhibitor	1
+26912775	chemical	base	1
+26912775	disease	Niemann-Pick Disease, Type C	3
+26912775	disease	Nasopharyngeal Carcinoma	3
+26912775	gene/protein	neurogenic locus notch homolog protein 1 (zebrafish)	5
+26912775	gene/protein	delta-like protein 1	4
+26912775	gene/protein	delta-like protein 1 (human)	4
+26912775	gene/protein	delta-like protein 1 (mouse)	4
+26912775	gene/protein	delta-like protein 1 (rat)	4
+26912775	gene/protein	Alveolar macrophage chemotactic factor	3
+26912775	gene/protein	cartilage oligomeric matrix protein isoform 1	2
+26912775	gene/protein	nodal protein isoform 1	2
+26912775	gene/protein	Neurogenin-2	2
+26912775	gene/protein	neurogenin-2	1
+26912775	gene/protein	neurogenin-2 (human)	1
+26912775	gene/protein	neurogenin-2 (mouse)	1
+26912775	gene/protein	nuclear receptor subfamily 4 group A member 2 (rat)	1
+26912775	gene/protein	nuclear receptor subfamily 4 group A member 2 (human)	1
+26912775	gene/protein	nuclear receptor subfamily 4 group A member 2	1
+26912775	gene/protein	nuclear receptor subfamily 4 group A member 2 (mouse)	1
+26912775	gene/protein	bifunctional glutamate/proline--tRNA ligase (human)	1
+26912775	gene/protein	bifunctional glutamate/proline--tRNA ligase	1
+26912775	organism	Mus musculus	3
+26912775	organism	Mice	3
+26912775	sequence	base	1
+26912775	cell	dopaminergic neuron	3
+26912775	cell	precursor cell	1
+26912775	cell	neuron	1
+26912775	organ/tissue	midbrain	1
+26912775	organ/tissue	presumptive midbrain	1
+26912775	organ/tissue	adult organism	1
+26912775	organ/tissue	substantia nigra pars reticulata	1
+26912775	organ/tissue	substantia nigra pars compacta	1
+26912775	molecular_process	reduction	3

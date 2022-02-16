@@ -1,0 +1,11 @@
+25660942	chemical	nucleotide	1
+25660942	chemical	gold(0)	1
+25660942	chemical	gold atom	1
+25660942	disease	DEVELOPMENTAL DYSPLASIA OF THE HIP 1	1
+25660942	gene/protein	anillin (fruit fly)	2
+25660942	gene/protein	aldo-keto reductase family 1 member C1	1
+25660942	gene/protein	aldo-keto reductase family 1 member C1 (human)	1
+25660942	organism	Rhizobiaceae	2
+25660942	organism	Rhizobium giardinii	2
+25660942	organism	Agrobacterium	1
+25660942	cell_line	BONA	1

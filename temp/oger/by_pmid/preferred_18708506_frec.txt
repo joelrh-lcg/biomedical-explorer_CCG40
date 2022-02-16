@@ -1,0 +1,72 @@
+18708506	biological_process	symbiotic process	2
+18708506	biological_process	nodulation	2
+18708506	cellular_component	membrane	1
+18708506	chemical	phosphatidylethanolamine	3
+18708506	chemical	Cardiolipins	2
+18708506	chemical	Phosphatidylcholines	2
+18708506	chemical	lipid	2
+18708506	chemical	poly(styrene-4-sulfonate)	2
+18708506	chemical	Serine	2
+18708506	chemical	Phosphatidylserines	2
+18708506	chemical	Phosphates	2
+18708506	chemical	Choline	2
+18708506	chemical	nitrogen atom	2
+18708506	chemical	nitrogen(.)	2
+18708506	chemical	phosphatidylglycerol	1
+18708506	chemical	1,2-diacyl-sn-glycero-3-phospho-(1'-sn-glycerol)	1
+18708506	chemical	cardiolipin	1
+18708506	chemical	phosphatidylcholine	1
+18708506	chemical	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	1
+18708506	chemical	1,2-diacyl-sn-glycero-3-phosphocholine	1
+18708506	chemical	(S)-1,2-distearoylphosphatidylethanolaminium	1
+18708506	chemical	CDPdiacylglycerol-Serine O-Phosphatidyltransferase	1
+18708506	chemical	serine	1
+18708506	chemical	L-serine	1
+18708506	chemical	phosphatidyl-L-serine	1
+18708506	chemical	phosphatidylserine decarboxylase	1
+18708506	chemical	anionic phospholipid	1
+18708506	chemical	phosphate	1
+18708506	chemical	phosphate)	1
+18708506	chemical	phosphate ion	1
+18708506	chemical	phosphate(3-)	1
+18708506	chemical	phosphoric acid	1
+18708506	chemical	hydrogenphosphate	1
+18708506	chemical	inorganic phosphate	1
+18708506	chemical	choline	1
+18708506	disease	Potocki-Shaffer syndrome	2
+18708506	disease	Peeling Skin Syndrome	2
+18708506	gene/protein	CDP-diacylglycerol--serine O-phosphatidyltransferase	16
+18708506	gene/protein	exportin-T (Arabidopsis thaliana)	5
+18708506	gene/protein	phosphatidylserine decarboxylase proenzyme (Escherichia coli K-12)	5
+18708506	gene/protein	PH and SEC7 domain-containing protein 1	5
+18708506	gene/protein	phosphatidylserine decarboxylase proenzyme (Clostridium botulinum A str. Hall)	5
+18708506	gene/protein	phosphatidylserine decarboxylase proenzyme	5
+18708506	gene/protein	PH and SEC7 domain-containing protein 1 (mouse)	5
+18708506	gene/protein	PH and SEC7 domain-containing protein 1 (human)	5
+18708506	gene/protein	PH and SEC7 domain-containing protein 1 (rat)	5
+18708506	gene/protein	CDP-diacylglycerol--serine O-phosphatidyltransferase (Escherichia coli K-12)	2
+18708506	gene/protein	Prosolanapyrone synthase	2
+18708506	gene/protein	CDP-diacylglycerol--serine O-phosphatidyltransferase (yeast)	2
+18708506	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+18708506	organism	Avian myeloblastosis-associated virus	4
+18708506	organism	Medicago sativa	4
+18708506	organism	Sinorhizobium meliloti	2
+18708506	organism	bacterium IFAM-3211	1
+18708506	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+18708506	organism	bacterium IFAM-3215	1
+18708506	organism	bacterium IFAM-2074	1
+18708506	organism	bacterium IFAM-3359	1
+18708506	organism	bacterium	1
+18708506	organism	bacterium IFAM-1493	1
+18708506	sequence	wild_type	5
+18708506	sequence	serine	1
+18708506	sequence	gene	1
+18708506	sequence	rescue	1
+18708506	organ/tissue	cerebellum vermis lobule X	7
+18708506	organ/tissue	germinal center	7
+18708506	organ/tissue	membrane organ	1
+18708506	organ/tissue	membranous layer	1
+18708506	clinical_drug	Medicago sativa whole extract	2
+18708506	clinical_drug	Nitrogen	2
+18708506	clinical_drug	Serine	1
+18708506	clinical_drug	Choline	1

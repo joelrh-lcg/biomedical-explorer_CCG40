@@ -1,0 +1,5 @@
+30753218	organism	salamander	4
+30753218	organism	european salamander	1
+30753218	organism	fungus	1
+30753218	organism	amphibian	1
+30753218	organism	mexican salamander	1

@@ -1,0 +1,8 @@
+34043790	organism	human	2
+34043790	organism	Drosophila melanogaster	2
+34043790	organism	tomato	2
+34043790	organism	d melanogaster	1
+34043790	sequence	mutation	4
+34043790	sequence	allele	1
+34043790	organ/tissue	joint	8
+34043790	clinical_drug	tomato	1

@@ -1,0 +1,29 @@
+19017108	biological_process	signaling	2
+19017108	biological_process	gene expression	1
+19017108	biological_process	regulation of gene expression	1
+19017108	biological_process	transcription	1
+19017108	biological_process	signaling pathway	1
+19017108	biological_process	regulation	1
+19017108	chemical	phosphorus	5
+19017108	chemical	element	1
+19017108	chemical	pathway	1
+19017108	disease	starvation	6
+19017108	gene/protein	phr1	9
+19017108	gene/protein	crop	3
+19017108	gene/protein	bean	3
+19017108	gene/protein	bhlh32	2
+19017108	gene/protein	cope	1
+19017108	gene/protein	wrky75	1
+19017108	gene/protein	zat6	1
+19017108	molecular_function	transcription factor	1
+19017108	organism	Arabidopsis thaliana	2
+19017108	organism	Arabidopsis	2
+19017108	organism	legume	2
+19017108	organism	Medicago truncatula	2
+19017108	organism	lupine	1
+19017108	sequence	gene	3
+19017108	sequence	deficiency	1
+19017108	cell_line	bean	1
+19017108	organ/tissue	crop	3
+19017108	organ/tissue	element	1
+19017108	organ/tissue	phr	1

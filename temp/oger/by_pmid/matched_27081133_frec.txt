@@ -1,0 +1,9 @@
+27081133	chemical	so2	6
+27081133	gene/protein	so2	2
+27081133	organism	strain so2	2
+27081133	organism	prophage	1
+27081133	organism	plasmid	1
+27081133	sequence	genome	1
+27081133	sequence	sequence	1
+27081133	sequence	prophage	1
+27081133	sequence	plasmid	1

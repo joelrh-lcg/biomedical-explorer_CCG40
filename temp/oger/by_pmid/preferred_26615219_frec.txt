@@ -1,0 +1,31 @@
+26615219	cellular_component	NADH dehydrogenase complex	6
+26615219	cellular_component	viral nucleocapsid	2
+26615219	chemical	Ubiquinone	2
+26615219	chemical	inhibitor	2
+26615219	chemical	Electron Transport Complex I	1
+26615219	chemical	ubiquinones	1
+26615219	chemical	coenzyme Q10	1
+26615219	chemical	nickel-iron hydrogenase	1
+26615219	chemical	Hydrogenase	1
+26615219	chemical	Oxidoreductases	1
+26615219	gene/protein	NADH-ubiquinone oxidoreductase 10.5 kDa subunit	6
+26615219	gene/protein	Hydrogenase-1 small chain	4
+26615219	gene/protein	Hydrogenase-2 small chain	3
+26615219	gene/protein	Hydrogenase-1 large chain	3
+26615219	gene/protein	Hydrogenase-2 large chain	3
+26615219	gene/protein	hydrogenase-2 small chain	1
+26615219	gene/protein	hydrogenase-1 large chain	1
+26615219	gene/protein	hydrogenase-2 large chain	1
+26615219	gene/protein	hydrogenase-1 small chain	1
+26615219	gene/protein	Cytochrome c3 hydrogenase small chain	1
+26615219	gene/protein	Cytochrome c3 hydrogenase large chain	1
+26615219	organism	Eukaryota	1
+26615219	organism	bacterium IFAM-3211	1
+26615219	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+26615219	organism	bacterium IFAM-3215	1
+26615219	organism	bacterium IFAM-2074	1
+26615219	organism	bacterium IFAM-3359	1
+26615219	organism	bacterium	1
+26615219	organism	bacterium IFAM-1493	1
+26615219	sequence	homologous	1
+26615219	organ/tissue	anatomical cavity	1

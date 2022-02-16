@@ -1,0 +1,25 @@
+15184121	biological_process	symbiosis	2
+15184121	biological_process	nitrogen fixation	1
+15184121	chemical	nitrogen	8
+15184121	chemical	nitrogenase	3
+15184121	chemical	nitrogenase reductase	1
+15184121	gene/protein	nitrogenase reductase	120
+15184121	gene/protein	bean	6
+15184121	gene/protein	lacz	2
+15184121	gene/protein	nifh	1
+15184121	molecular_function	nitrogenase activity	1
+15184121	organism	Rhizobium etli	2
+15184121	organism	plasmid	2
+15184121	organism	cfn42	1
+15184121	organism	common bean plant	1
+15184121	organism	Phaseolus vulgari	1
+15184121	organism	Rhizobium	1
+15184121	sequence	operon	4
+15184121	sequence	plasmid	2
+15184121	sequence	gene	1
+15184121	sequence	fusion	1
+15184121	sequence	construct	1
+15184121	sequence	promoter sequence	1
+15184121	sequence	clone	1
+15184121	cell_line	bean	2
+15184121	clinical_drug	nitrogen	4

@@ -1,0 +1,16 @@
+9336911	chemical	cluster	3
+9336911	chemical	16s rrna	1
+9336911	chemical	rrna	1
+9336911	organism	Bradyrhizobium	2
+9336911	organism	Lupinus	2
+9336911	organism	Bradyrhizobium japonicum	2
+9336911	organism	Lupinus campestris	1
+9336911	organism	Lupinus montanus	1
+9336911	organism	lupinus	1
+9336911	organism	USDA 6	1
+9336911	organism	lupine	1
+9336911	organism	collection	1
+9336911	sequence	16s rrna	1
+9336911	sequence	sequence	1
+9336911	sequence	rrna	1
+9336911	organ/tissue	nodule	4

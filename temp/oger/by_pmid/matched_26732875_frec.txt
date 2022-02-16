@@ -1,0 +1,26 @@
+26732875	biological_process	symbiosis	2
+26732875	biological_process	cell cycle	1
+26732875	biological_process	ribosome biogenesis	1
+26732875	biological_process	metabolism	1
+26732875	biological_process	secretion	1
+26732875	biological_process	protein biosynthesis	1
+26732875	biological_process	symbiotic interaction	1
+26732875	cellular_component	ribosome	1
+26732875	cellular_component	protein	1
+26732875	chemical	purine	4
+26732875	chemical	proteins	2
+26732875	chemical	protein	2
+26732875	chemical	Proteome	1
+26732875	chemical	cell cycle proteins	1
+26732875	chemical	saccharide	1
+26732875	gene/protein	protein	1
+26732875	organism	fungus	5
+26732875	organism	Orchidaceae	1
+26732875	organism	Rhizoctonia	1
+26732875	organism	Oncidium sphacelatum	1
+26732875	organism	Thanatephorus sp	1
+26732875	sequence	linear	1
+26732875	sequence	protein	1
+26732875	organ/tissue	organism	2
+26732875	organ/tissue	cell cycle	1
+26732875	organ/tissue	secretion	1

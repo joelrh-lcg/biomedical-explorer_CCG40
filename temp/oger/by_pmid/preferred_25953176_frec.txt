@@ -1,0 +1,21 @@
+25953176	gene/protein	Protein BEAN1	4
+25953176	gene/protein	protein BEAN	2
+25953176	gene/protein	hydrogen peroxide-inducible genes activator	1
+25953176	gene/protein	mu-type opioid receptor (mouse)	1
+25953176	gene/protein	mu-type opioid receptor	1
+25953176	gene/protein	hydrogen peroxide-inducible genes activator (Escherichia coli K-12)	1
+25953176	gene/protein	Middle operon regulator	1
+25953176	organism	Pseudarthrobacter chlorophenolicus	2
+25953176	organism	bacterium IFAM-3211	1
+25953176	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+25953176	organism	bacterium IFAM-3215	1
+25953176	organism	bacterium IFAM-2074	1
+25953176	organism	bacterium IFAM-3359	1
+25953176	organism	bacterium	1
+25953176	organism	bacterium IFAM-1493	1
+25953176	organism	Glutamicibacter sp. 0426	1
+25953176	organism	Arthrobacter	1
+25953176	sequence	genome	1
+25953176	sequence	moR	1
+25953176	cell_line	R1192	2
+25953176	cell_line	MOR	1

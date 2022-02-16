@@ -1,0 +1,31 @@
+19231290	biological_process	virulence	3
+19231290	biological_process	intermediary metabolism	2
+19231290	biological_process	respiration	2
+19231290	biological_process	detoxification	1
+19231290	biological_process	lipid metabolism	1
+19231290	cellular_component	protein	2
+19231290	cellular_component	cell wall	1
+19231290	cellular_component	cell process	1
+19231290	chemical	BCG	4
+19231290	chemical	protein	4
+19231290	chemical	proteins	3
+19231290	chemical	base	2
+19231290	chemical	proteome	1
+19231290	chemical	lipid	1
+19231290	chemical	pathway	1
+19231290	chemical	element	1
+19231290	chemical	drug	1
+19231290	disease	tuberculosis	2
+19231290	gene/protein	BCG	12
+19231290	gene/protein	spot	8
+19231290	gene/protein	fold	4
+19231290	gene/protein	protein	2
+19231290	organism	BCG	4
+19231290	organism	spot	4
+19231290	organism	mouse	2
+19231290	organism	Mycobacterium bovis	1
+19231290	sequence	base	2
+19231290	sequence	protein	2
+19231290	organ/tissue	spot	4
+19231290	organ/tissue	wall	1
+19231290	organ/tissue	element	1

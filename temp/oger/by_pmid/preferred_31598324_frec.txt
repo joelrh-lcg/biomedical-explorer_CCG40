@@ -1,0 +1,24 @@
+31598324	biological_process	behavior	1
+31598324	disease	Infections	4
+31598324	disease	Disease	2
+31598324	disease	Skin Diseases	2
+31598324	organism	bacterium IFAM-3211	3
+31598324	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+31598324	organism	bacterium IFAM-3215	3
+31598324	organism	bacterium IFAM-2074	3
+31598324	organism	bacterium IFAM-3359	3
+31598324	organism	bacterium	3
+31598324	organism	bacterium IFAM-1493	3
+31598324	organism	Larva	3
+31598324	organism	Amphibians	1
+31598324	organism	Rana clamitans	1
+31598324	sequence	engineered_region	1
+31598324	cell_line	Frog-HSA	1
+31598324	cell_line	SCLC-24H	1
+31598324	organ/tissue	integument	3
+31598324	organ/tissue	zone of skin	3
+31598324	organ/tissue	skin epidermis	3
+31598324	organ/tissue	skin of body	3
+31598324	organ/tissue	larva	3
+31598324	organ/tissue	amphibian larval stage	3
+31598324	organ/tissue	tadpole	3

@@ -1,0 +1,23 @@
+33531404	biological_process	biosynthetic process	1
+33531404	chemical	Sewage	2
+33531404	disease	Infections	4
+33531404	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+33531404	gene/protein	protein IMPACT (zebrafish)	1
+33531404	organism	Bacteriophages	18
+33531404	organism	bacterium IFAM-3211	6
+33531404	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	6
+33531404	organism	bacterium IFAM-3215	6
+33531404	organism	bacterium IFAM-2074	6
+33531404	organism	bacterium IFAM-3359	6
+33531404	organism	bacterium	6
+33531404	organism	bacterium IFAM-1493	6
+33531404	organism	collection	1
+33531404	organism	metagenome	1
+33531404	sequence	phage_sequence	18
+33531404	sequence	genome	2
+33531404	sequence	region	1
+33531404	sequence	gene	1
+33531404	cell	eosinophil progenitor cell	2
+33531404	organ/tissue	dental plaque	3
+33531404	organ/tissue	sclerite	1
+33531404	organ/tissue	obsolete sclerite	1

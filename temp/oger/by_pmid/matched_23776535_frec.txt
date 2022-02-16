@@ -1,0 +1,16 @@
+23776535	biological_process	transcription	7
+23776535	biological_process	regulation	2
+23776535	cellular_component	protein	1
+23776535	chemical	apo	6
+23776535	chemical	protein	2
+23776535	chemical	effector	1
+23776535	chemical	metabolite	1
+23776535	gene/protein	k12	9
+23776535	gene/protein	protein	1
+23776535	molecular_function	transcription factor	5
+23776535	organism	e coli	2
+23776535	organism	Escherichia coli k12	1
+23776535	sequence	promoter	3
+23776535	sequence	gene	2
+23776535	sequence	protein	1
+23776535	cell_line	k12	2

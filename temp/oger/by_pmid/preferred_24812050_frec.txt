@@ -1,0 +1,15 @@
+24812050	chemical	Anti-Bacterial Agents	8
+24812050	chemical	antimicrobial agent	4
+24812050	chemical	antimicrobial drug	1
+24812050	chemical	base	1
+24812050	chemical	probe	1
+24812050	organism	bacterium IFAM-3211	2
+24812050	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+24812050	organism	bacterium IFAM-3215	2
+24812050	organism	bacterium IFAM-2074	2
+24812050	organism	bacterium IFAM-3359	2
+24812050	organism	bacterium	2
+24812050	organism	bacterium IFAM-1493	2
+24812050	organism	Escherichia coli	2
+24812050	sequence	base	1
+24812050	sequence	probe	1

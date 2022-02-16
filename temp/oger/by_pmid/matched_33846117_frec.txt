@@ -1,0 +1,24 @@
+33846117	biological_process	biofilm formation	3
+33846117	biological_process	signaling	2
+33846117	biological_process	swimming	1
+33846117	biological_process	social behavior	1
+33846117	cellular_component	biofilm matrix	1
+33846117	chemical	cdigmp	21
+33846117	chemical	tpda	4
+33846117	chemical	monophosphate	1
+33846117	chemical	base	1
+33846117	chemical	proteins	1
+33846117	disease	pde	4
+33846117	gene/protein	pde	16
+33846117	gene/protein	phosphodiesterase	8
+33846117	gene/protein	polar	1
+33846117	molecular_function	phosphodiesterase	4
+33846117	molecular_function	pde	4
+33846117	organism	Vibrio parahaemolyticus	2
+33846117	sequence	promoter	2
+33846117	sequence	gene	2
+33846117	sequence	transit	1
+33846117	sequence	transition	1
+33846117	sequence	base	1
+33846117	sequence	sequence	1
+33846117	organ/tissue	matrix	1

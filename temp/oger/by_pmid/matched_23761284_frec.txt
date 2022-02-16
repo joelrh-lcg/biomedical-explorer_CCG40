@@ -1,0 +1,18 @@
+23761284	biological_process	nitrogen fixation	2
+23761284	biological_process	reverse transcription	1
+23761284	biological_process	symbiosis	1
+23761284	chemical	nitrogen	4
+23761284	chemical	up 91	2
+23761284	gene/protein	nifH	5
+23761284	gene/protein	nifh	1
+23761284	organism	sugarcane	12
+23761284	organism	bacterium	7
+23761284	organism	Bradyrhizobium elkanii	2
+23761284	organism	primer	1
+23761284	organism	Rhizobium	1
+23761284	sequence	transcript	4
+23761284	sequence	sequence	2
+23761284	sequence	reverse	1
+23761284	sequence	primer	1
+23761284	clinical_drug	sugarcane	8
+23761284	clinical_drug	nitrogen	2

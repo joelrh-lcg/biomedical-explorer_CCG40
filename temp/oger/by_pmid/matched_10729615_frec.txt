@@ -1,0 +1,42 @@
+10729615	chemical	glycine	5
+10729615	chemical	cdna	4
+10729615	chemical	pea	4
+10729615	chemical	hydroxylapatite	3
+10729615	chemical	pyridine	3
+10729615	chemical	leghemoglobin	2
+10729615	chemical	amino acid	2
+10729615	chemical	ferric leghemoglobin reductase	1
+10729615	chemical	sephacryl s200	1
+10729615	chemical	nucleotide	1
+10729615	chemical	dihydrolipoamide dehydrogenase	1
+10729615	chemical	disulfide	1
+10729615	gene/protein	dihydrolipoamide dehydrogenase	70
+10729615	gene/protein	flbr	12
+10729615	gene/protein	min1	6
+10729615	gene/protein	pea	6
+10729615	gene/protein	leghemoglobin	5
+10729615	gene/protein	ferric leghemoglobin reductase	2
+10729615	gene/protein	lb2	2
+10729615	gene/protein	lb3	2
+10729615	gene/protein	FLbR	2
+10729615	gene/protein	dldh	2
+10729615	gene/protein	max	1
+10729615	organism	cowpea	12
+10729615	organism	soybean	6
+10729615	organism	pea	4
+10729615	organism	glycine max	2
+10729615	organism	pisum sativum	2
+10729615	organism	cowpea Vigna unguiculata	1
+10729615	sequence	cdna	3
+10729615	sequence	sequence	2
+10729615	sequence	cdna clone	1
+10729615	sequence	glycine	1
+10729615	sequence	disulfide	1
+10729615	sequence	amino acid	1
+10729615	cell_line	min	2
+10729615	cell_line	mg1	2
+10729615	cell_line	pea	2
+10729615	organ/tissue	nodule	4
+10729615	clinical_drug	soybean	6
+10729615	clinical_drug	pea	2
+10729615	clinical_drug	glycine	1

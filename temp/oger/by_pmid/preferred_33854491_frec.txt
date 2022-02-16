@@ -1,0 +1,60 @@
+33854491	biological_process	biosynthetic process	1
+33854491	cellular_component	obsolete importin, alpha-subunit transport factor	5
+33854491	cellular_component	outer membrane	2
+33854491	chemical	icas#3	3
+33854491	chemical	icas#1	3
+33854491	chemical	protein	3
+33854491	chemical	cluster	1
+33854491	chemical	icas#7	1
+33854491	disease	ASPLENIA, ISOLATED CONGENITAL	16
+33854491	disease	Apraxias	5
+33854491	gene/protein	Major outer membrane protein P.IB	40
+33854491	gene/protein	Porin	8
+33854491	gene/protein	Outer membrane protein	5
+33854491	gene/protein	Voltage-dependent anion-selective channel	4
+33854491	gene/protein	Major outer membrane protein	4
+33854491	gene/protein	voltage-dependent anion-selective channel (fruit fly)	4
+33854491	gene/protein	transcriptional regulatory protein OmpR (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	2
+33854491	gene/protein	transcriptional regulatory protein OmpR (Escherichia coli K-12)	2
+33854491	gene/protein	transcriptional regulatory protein OmpR	2
+33854491	gene/protein	outer membrane porin C	1
+33854491	gene/protein	outer membrane porin C (Escherichia coli K-12)	1
+33854491	gene/protein	outer membrane porin F	1
+33854491	gene/protein	outer membrane porin F (Escherichia coli K-12)	1
+33854491	gene/protein	Transcriptional regulator	1
+33854491	gene/protein	HTH-type transcriptional regulator LeuO	1
+33854491	gene/protein	HTH-type transcriptional regulator LeuO (Escherichia coli K-12)	1
+33854491	gene/protein	CRISPR system Cascade subunit CasB (Escherichia coli K-12)	1
+33854491	gene/protein	CRISPR system Cascade subunit CasB	1
+33854491	gene/protein	mediator of RNA polymerase II transcription subunit 9 (yeast)	1
+33854491	gene/protein	CRISPR system Cascade subunit CasD (Escherichia coli K-12)	1
+33854491	gene/protein	cell wall integrity transcriptional regulator CAS5 (Candida albicans SC5314)	1
+33854491	gene/protein	CRISPR system Cascade subunit CasD	1
+33854491	gene/protein	CRISPR system Cascade subunit CasE	1
+33854491	gene/protein	CRISPR system Cascade subunit CasE (Escherichia coli K-12)	1
+33854491	gene/protein	CRISPR-associated endonuclease Cas1 (Escherichia coli K-12)	1
+33854491	gene/protein	catalase	1
+33854491	gene/protein	N-acetylneuraminate 9-O-acetyltransferase (mouse)	1
+33854491	gene/protein	CRISPR-associated endonuclease Cas1	1
+33854491	gene/protein	cycloartenol synthase (Arabidopsis thaliana)	1
+33854491	gene/protein	cycloartenol synthase (Dictyostelium discoideum)	1
+33854491	gene/protein	Clavaminate synthase 1	1
+33854491	gene/protein	catalase (rat)	1
+33854491	gene/protein	catalase (mouse)	1
+33854491	gene/protein	5,6-dihydroxyindole-2-carboxylic acid oxidase	1
+33854491	gene/protein	CRISPR-associated endoribonuclease Cas2 (Escherichia coli K-12)	1
+33854491	gene/protein	5,6-dihydroxyindole-2-carboxylic acid oxidase (human)	1
+33854491	gene/protein	CRISPR-associated endoribonuclease Cas2	1
+33854491	gene/protein	filamentous growth regulator 15 (Candida albicans SC5314)	1
+33854491	gene/protein	Clavaminate synthase 2	1
+33854491	gene/protein	CRISPR-associated endonuclease/helicase Cas3 (Escherichia coli K-12)	1
+33854491	gene/protein	CRISPR-associated endonuclease/helicase Cas3	1
+33854491	molecular_function	porin activity	4
+33854491	organism	Enterobacteriaceae	1
+33854491	sequence	genome	1
+33854491	sequence	CRISPR	1
+33854491	cell_line	eCAS	1
+33854491	cell_line	CAS-1	1
+33854491	organ/tissue	callosal sulcus	5
+33854491	organ/tissue	membrane organ	2
+33854491	organ/tissue	membranous layer	2

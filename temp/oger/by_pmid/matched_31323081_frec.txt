@@ -1,0 +1,19 @@
+31323081	cellular_component	chloroplast	1
+31323081	chemical	trna	2
+31323081	chemical	proteins	1
+31323081	chemical	rrna	1
+31323081	gene/protein	lsc	3
+31323081	molecular_function	trna	1
+31323081	organism	hornwort	2
+31323081	organism	liverwort	2
+31323081	organism	land plant	1
+31323081	organism	Pseudocrossidium replicatum	1
+31323081	organism	Syntrichia ruralis	1
+31323081	organism	Sphagnum palustre	1
+31323081	sequence	genome	2
+31323081	sequence	sequence	2
+31323081	sequence	gene	2
+31323081	sequence	invert	1
+31323081	sequence	repeat	1
+31323081	sequence	trna	1
+31323081	sequence	rrna	1

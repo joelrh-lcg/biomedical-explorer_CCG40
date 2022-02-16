@@ -1,0 +1,15 @@
+32560407	biological_process	pathogenesis	3
+32560407	biological_process	obsolete virulence	3
+32560407	biological_process	viral process	3
+32560407	chemical	Anti-Bacterial Agents	12
+32560407	chemical	antimicrobial agent	6
+32560407	chemical	LAC dye	2
+32560407	chemical	lactose	2
+32560407	chemical	atom	1
+32560407	disease	Infections	2
+32560407	gene/protein	laccase-4 (Arabidopsis thaliana)	2
+32560407	sequence	gene	2
+32560407	sequence	clone	1
+32560407	sequence	mobile	1
+32560407	organ/tissue	multicellular organism	2
+32560407	organ/tissue	organ	1

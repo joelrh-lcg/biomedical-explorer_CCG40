@@ -1,0 +1,26 @@
+34163511	biological_process	transcription	2
+34163511	biological_process	symbiosis	2
+34163511	biological_process	symbiotic process	2
+34163511	biological_process	root development	1
+34163511	biological_process	nodulation	1
+34163511	chemical	proteins	3
+34163511	chemical	transform	1
+34163511	disease	infection	2
+34163511	gene/protein	bean	6
+34163511	gene/protein	AGL	5
+34163511	gene/protein	agl	5
+34163511	gene/protein	NIN	3
+34163511	gene/protein	transcriptional regulator	1
+34163511	molecular_function	transcription factor	2
+34163511	molecular_function	dna binding	1
+34163511	organism	Arabidopsis	2
+34163511	organism	legume	2
+34163511	sequence	gene	4
+34163511	sequence	construct	4
+34163511	sequence	sequence	3
+34163511	sequence	transgenic	2
+34163511	sequence	binding	2
+34163511	sequence	consensus	1
+34163511	cell_line	bean	2
+34163511	organ/tissue	nodule	10
+34163511	organ/tissue	organ	2

@@ -1,0 +1,25 @@
+33178158	chemical	Anti-Bacterial Agents	2
+33178158	chemical	diphenylmethane-4,4'-diisocyanate	2
+33178158	chemical	antimicrobial agent	1
+33178158	chemical	2,6-diisopropylnaphthalene	1
+33178158	chemical	base	1
+33178158	chemical	cluster	1
+33178158	disease	Bacteremia	6
+33178158	disease	Pneumonia	4
+33178158	disease	Disease Susceptibility	2
+33178158	disease	Infections	2
+33178158	disease	Disease Attributes	2
+33178158	gene/protein	protein STRUBBELIG (Arabidopsis thaliana)	4
+33178158	gene/protein	kinesin-like protein subito (fruit fly)	4
+33178158	gene/protein	Non-neuronal cytoplasmic intermediate filament protein B	1
+33178158	gene/protein	interferon beta (mouse)	1
+33178158	gene/protein	interferon beta (human)	1
+33178158	gene/protein	interferon beta 1	1
+33178158	molecular_function	retinol dehydrogenase activity	2
+33178158	organism	unidentified plasmid	2
+33178158	sequence	gene	4
+33178158	sequence	plasmid	2
+33178158	sequence	region	2
+33178158	sequence	clone	1
+33178158	sequence	base	1
+33178158	sequence	polypeptide_repeat	1

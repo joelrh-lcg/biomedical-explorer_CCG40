@@ -1,0 +1,43 @@
+11251836	biological_process	biosynthetic process	3
+11251836	biological_process	methylation	2
+11251836	biological_process	nitrogen fixation	1
+11251836	biological_process	symbiotic process	1
+11251836	cellular_component	membrane	1
+11251836	chemical	phospholipid	4
+11251836	chemical	phosphatidylethanolamine	3
+11251836	chemical	Phosphatidylcholines	2
+11251836	chemical	picloram	2
+11251836	chemical	phosphatidylcholine	1
+11251836	chemical	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	1
+11251836	chemical	1,2-diacyl-sn-glycero-3-phosphocholine	1
+11251836	chemical	(S)-1,2-distearoylphosphatidylethanolaminium	1
+11251836	chemical	nitrogen atom	1
+11251836	chemical	nitrogen(.)	1
+11251836	chemical	leghemoglobin	1
+11251836	gene/protein	phospholipid N-methyltransferase	4
+11251836	gene/protein	cartilage oligomeric matrix protein isoform 1	1
+11251836	gene/protein	nodal protein isoform 1	1
+11251836	organism	Bradyrhizobium japonicum	2
+11251836	organism	Escherichia coli	2
+11251836	organism	Glycine max	2
+11251836	organism	Soybeans	2
+11251836	organism	Eukaryota	1
+11251836	organism	bacterium IFAM-3211	1
+11251836	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+11251836	organism	bacterium IFAM-3215	1
+11251836	organism	bacterium IFAM-2074	1
+11251836	organism	bacterium IFAM-3359	1
+11251836	organism	bacterium	1
+11251836	organism	bacterium IFAM-1493	1
+11251836	organism	Rhizobiaceae	1
+11251836	organism	Fabaceae	1
+11251836	sequence	gene	2
+11251836	sequence	wild_type	1
+11251836	organ/tissue	cerebellum vermis lobule X	4
+11251836	organ/tissue	germinal center	4
+11251836	organ/tissue	membrane organ	1
+11251836	organ/tissue	membranous layer	1
+11251836	clinical_drug	Soybean preparation	2
+11251836	clinical_drug	Soybean	2
+11251836	clinical_drug	Nitrogen	1
+11251836	molecular_process	methylation	2

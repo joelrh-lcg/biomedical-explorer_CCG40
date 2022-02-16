@@ -1,0 +1,54 @@
+18533836	biological_process	signaling	2
+18533836	biological_process	drought recovery	1
+18533836	biological_process	obsolete drought tolerance	1
+18533836	biological_process	response to water deprivation	1
+18533836	biological_process	metabolic process	1
+18533836	biological_process	trehalose metabolic process	1
+18533836	chemical	trehalose-6-phosphate synthase	5
+18533836	chemical	Trehalose	4
+18533836	chemical	Nitrogenase	2
+18533836	chemical	trehalose	2
+18533836	chemical	alpha,alpha-trehalose	2
+18533836	chemical	elemental carbon	1
+18533836	chemical	carbon atom	1
+18533836	chemical	nitrogen atom	1
+18533836	chemical	nitrogen(.)	1
+18533836	gene/protein	Trehalose-6-phosphate synthase	215
+18533836	gene/protein	Alpha,alpha-trehalose-phosphate synthase [UDP-forming]	35
+18533836	gene/protein	Alpha,alpha-trehalose-phosphate synthase [UDP-forming] 56 kDa subunit	10
+18533836	gene/protein	Alpha,alpha-trehalose-phosphate synthase [UDP-forming] 2	5
+18533836	gene/protein	Putative alpha,alpha-trehalose-phosphate synthase [UDP-forming] 106 kDa subunit	5
+18533836	gene/protein	Putative alpha,alpha-trehalose-phosphate synthase [UDP-forming] 100 kDa subunit	5
+18533836	gene/protein	Alpha,alpha-trehalose-phosphate synthase [UDP-forming] 1	5
+18533836	gene/protein	trehalose-6-phosphate synthase	5
+18533836	gene/protein	Protein BEAN1	4
+18533836	gene/protein	protein BEAN	2
+18533836	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+18533836	gene/protein	protein Diedel (fruit fly)	1
+18533836	gene/protein	DNA-3-methyladenine glycosylase 1 (Escherichia coli K-12)	1
+18533836	gene/protein	UPF0410 protein YmgE	1
+18533836	gene/protein	UPF0410 protein YmgE (Escherichia coli K-12)	1
+18533836	gene/protein	DNA-3-methyladenine glycosylase 1	1
+18533836	gene/protein	DNA-3-methyladenine glycosylase	1
+18533836	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+18533836	gene/protein	protein IMPACT (zebrafish)	1
+18533836	molecular_function	nitrogenase activity	2
+18533836	organism	Rhizobium etli	2
+18533836	organism	Phaseolus	2
+18533836	organism	Fabaceae	1
+18533836	organism	bacterium IFAM-3211	1
+18533836	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+18533836	organism	bacterium IFAM-3215	1
+18533836	organism	bacterium IFAM-2074	1
+18533836	organism	bacterium IFAM-3359	1
+18533836	organism	bacterium	1
+18533836	organism	bacterium IFAM-1493	1
+18533836	sequence	gene	5
+18533836	sequence	region	1
+18533836	sequence	tag	1
+18533836	cell_line	R1192	2
+18533836	organ/tissue	cerebellum vermis lobule X	3
+18533836	organ/tissue	germinal center	3
+18533836	organ/tissue	crop	1
+18533836	clinical_drug	Trehalose	7
+18533836	clinical_drug	Nitrogen	1

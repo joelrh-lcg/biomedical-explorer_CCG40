@@ -1,0 +1,56 @@
+12730270	biological_process	biosynthetic process	3
+12730270	biological_process	ureide biosynthetic process	1
+12730270	cellular_component	plastid	1
+12730270	chemical	amide	4
+12730270	chemical	azanide	4
+12730270	chemical	N-acylurea	4
+12730270	chemical	DNA, Complementary	3
+12730270	chemical	Allopurinol	2
+12730270	chemical	Aspartate Aminotransferases	1
+12730270	chemical	nucleotide	1
+12730270	chemical	alpha-amino acid	1
+12730270	chemical	amino acid	1
+12730270	chemical	peptide	1
+12730270	chemical	allopurinol	1
+12730270	chemical	inhibitor	1
+12730270	chemical	Aspartate-Ammonia Ligase	1
+12730270	chemical	nitrogen atom	1
+12730270	chemical	nitrogen(.)	1
+12730270	disease	Aortic Aneurysm, Familial Thoracic 2	2
+12730270	gene/protein	Aspartate aminotransferase	22
+12730270	gene/protein	Protein BEAN1	6
+12730270	gene/protein	protein BEAN	3
+12730270	gene/protein	alpha-1-antitrypsin 1-2 (mouse)	2
+12730270	gene/protein	alanine aminotransferase 2 (mouse)	2
+12730270	gene/protein	alanine aminotransferase 2 (human)	2
+12730270	gene/protein	aspartate aminotransferase, cytoplasmic (yeast)	2
+12730270	gene/protein	aspartate aminotransferase, cytoplasmic isozyme 1 (Arabidopsis thaliana)	2
+12730270	gene/protein	aspartate aminotransferase, cytoplasmic (Schizosaccharomyces pombe 972h-)	2
+12730270	gene/protein	alanine aminotransferase 2	2
+12730270	gene/protein	alpha-1-antitrypsin 1-2	2
+12730270	gene/protein	Tyrosine aminotransferase	1
+12730270	gene/protein	aspartate aminotransferase	1
+12730270	gene/protein	aspartate aminotransferase, cytoplasmic	1
+12730270	gene/protein	aspartate aminotransferase, mitochondrial	1
+12730270	gene/protein	obsolete signal peptide	1
+12730270	molecular_function	L-aspartate:2-oxoglutarate aminotransferase activity	2
+12730270	organism	Phaseolus	1
+12730270	organism	Phaseolus vulgaris	1
+12730270	sequence	region	4
+12730270	sequence	cDNA	2
+12730270	sequence	gene	2
+12730270	sequence	cDNA_clone	1
+12730270	sequence	amino_acid	1
+12730270	sequence	alternate_sequence_site	1
+12730270	sequence	transit_peptide	1
+12730270	sequence	clone	1
+12730270	sequence	genome	1
+12730270	sequence	transcript	1
+12730270	sequence	asparagine	1
+12730270	cell_line	R1192	3
+12730270	organ/tissue	cerebellum vermis lobule X	4
+12730270	organ/tissue	germinal center	4
+12730270	clinical_drug	Aspartate	1
+12730270	clinical_drug	Allopurinol	1
+12730270	clinical_drug	Asparagine	1
+12730270	clinical_drug	Nitrogen	1

@@ -1,0 +1,59 @@
+8635758	chemical	polypeptide	2
+8635758	chemical	nucleotide	1
+8635758	chemical	alpha-amino acid	1
+8635758	chemical	amino acid	1
+8635758	chemical	protein	1
+8635758	disease	Lyme Disease	2
+8635758	disease	Influenza, Human	2
+8635758	gene/protein	Peptidyl-tRNA hydrolase	3004
+8635758	gene/protein	Parathyroid hormone	36
+8635758	gene/protein	Probable peptidyl-tRNA hydrolase	12
+8635758	gene/protein	Peptidyl-tRNA hydrolase ArfB	8
+8635758	gene/protein	peptidyl-tRNA hydrolase (Escherichia coli K-12)	7
+8635758	gene/protein	peptidyl-tRNA hydrolase Pth	4
+8635758	gene/protein	probable peptidyl-tRNA hydrolase PTRH1	4
+8635758	gene/protein	parathyroid hormone (human)	4
+8635758	gene/protein	peptidyl-tRNA hydrolase (Clostridium botulinum A str. Hall)	4
+8635758	gene/protein	peptidyl-tRNA hydrolase (Brucella suis ATCC 23445)	4
+8635758	gene/protein	parathyroid hormone (rat)	4
+8635758	gene/protein	peptidyl-tRNA hydrolase (Brucella ovis ATCC 25840)	4
+8635758	gene/protein	peptidyl-tRNA hydrolase (Brucella abortus 2308)	4
+8635758	gene/protein	peptidyl-tRNA hydrolase (Brucella abortus bv. 1 str. 9-941)	4
+8635758	gene/protein	parathyroid hormone	4
+8635758	gene/protein	peptidyl-tRNA hydrolase (Brucella suis 1330)	4
+8635758	gene/protein	peptidyl-tRNA hydrolase ArfB	4
+8635758	gene/protein	parathyroid hormone (chicken)	4
+8635758	gene/protein	peptidyl-tRNA hydrolase (Brucella canis ATCC 23365)	4
+8635758	gene/protein	peptidyl-tRNA hydrolase (Brucella melitensis ATCC 23457)	4
+8635758	gene/protein	peptidyl-tRNA hydrolase (Staphylococcus aureus subsp. aureus NCTC 8325)	4
+8635758	gene/protein	Putative peptidyl-tRNA hydrolase	4
+8635758	gene/protein	Acyl carrier protein AcpXL	2
+8635758	gene/protein	120.7 kDa protein in NOF-FB transposable element (fruit fly)	2
+8635758	gene/protein	proteolytic cleavage product	2
+8635758	gene/protein	amino acid chain	2
+8635758	gene/protein	probable N-acetyltransferase san (fruit fly)	1
+8635758	organism	Chlamydia trachomatis	2
+8635758	organism	Escherichia coli	2
+8635758	organism	Bacillus subtilis	2
+8635758	organism	Saccharomyces cerevisiae	2
+8635758	organism	Mycoplasma genitalium	2
+8635758	organism	Salmonella typhi	1
+8635758	organism	Borrelia burgdorferi	1
+8635758	organism	Borreliella burgdorferi	1
+8635758	organism	unidentified	1
+8635758	organism	Haemophilus	1
+8635758	organism	Bacteria	1
+8635758	organism	Eukaryota	1
+8635758	sequence	gene	3
+8635758	sequence	ORF	3
+8635758	sequence	clone	2
+8635758	sequence	region	2
+8635758	sequence	homologous_region	2
+8635758	sequence	homologous	2
+8635758	sequence	polypeptide	2
+8635758	sequence	amino_acid	1
+8635758	sequence	sequence_variant_obs	1
+8635758	organ/tissue	posterior nucleus of thalamus	7
+8635758	clinical_drug	Bacillus subtilis	1
+8635758	clinical_drug	saccharomyces cerevisiae allergenic extract	1
+8635758	clinical_drug	Saccharomyces cerevisiae	1

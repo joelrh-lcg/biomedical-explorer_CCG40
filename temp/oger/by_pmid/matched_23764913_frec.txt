@@ -1,0 +1,16 @@
+23764913	chemical	16s rrna	1
+23764913	chemical	cluster	1
+23764913	gene/protein	bean	6
+23764913	gene/protein	ten	1
+23764913	organism	bacterium	7
+23764913	organism	Rhizobium etli	2
+23764913	organism	Rhizobium leucaenae	2
+23764913	organism	rhizobium phaseoli	2
+23764913	organism	Rhizobium tropici	2
+23764913	organism	Rhizobium radiobacter	2
+23764913	organism	Phaseolus vulgari	1
+23764913	organism	rhizobium	1
+23764913	organism	Rhizobium	1
+23764913	sequence	16s rrna	1
+23764913	sequence	gene	1
+23764913	cell_line	bean	2

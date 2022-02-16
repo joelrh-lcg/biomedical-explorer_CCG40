@@ -1,0 +1,14 @@
+24888481	biological_process	symbiotic process	1
+24888481	chemical	nitrogen atom	2
+24888481	chemical	nitrogen(.)	2
+24888481	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+24888481	organism	Glycine max	1
+24888481	organism	Soybeans	1
+24888481	organism	Bradyrhizobium japonicum	1
+24888481	organism	Bradyrhizobium diazoefficiens	1
+24888481	sequence	genome	2
+24888481	sequence	region	1
+24888481	organ/tissue	crop	1
+24888481	clinical_drug	Nitrogen	2
+24888481	clinical_drug	Soybean preparation	1
+24888481	clinical_drug	Soybean	1

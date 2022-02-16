@@ -1,0 +1,46 @@
+34626346	chemical	indoleacetic acid	2
+34626346	chemical	Acetoin	2
+34626346	chemical	Ammonia	2
+34626346	chemical	Phosphorus	2
+34626346	chemical	Potassium	2
+34626346	chemical	Waste Water	2
+34626346	chemical	Maltose	2
+34626346	chemical	Glucose	2
+34626346	chemical	nitrogen atom	1
+34626346	chemical	nitrogen(.)	1
+34626346	chemical	acetoin	1
+34626346	chemical	ammonia	1
+34626346	chemical	phosphorus(.)	1
+34626346	chemical	phosphorus atom	1
+34626346	chemical	tetraphosphorus	1
+34626346	chemical	potassium atom	1
+34626346	chemical	pharmaceutical	1
+34626346	chemical	alpha-maltose	1
+34626346	chemical	maltose	1
+34626346	chemical	aldehydo-D-glucose	1
+34626346	chemical	D-glucopyranose	1
+34626346	chemical	glucose	1
+34626346	chemical	oligosaccharide	1
+34626346	chemical	pullulanase	1
+34626346	chemical	sulfoxaflor	1
+34626346	disease	Disease	2
+34626346	gene/protein	Pullulanase	4
+34626346	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+34626346	gene/protein	protein IMPACT (zebrafish)	1
+34626346	organism	bacterium IFAM-3211	3
+34626346	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+34626346	organism	bacterium IFAM-3215	3
+34626346	organism	bacterium IFAM-2074	3
+34626346	organism	bacterium IFAM-3359	3
+34626346	organism	bacterium	3
+34626346	organism	bacterium IFAM-1493	3
+34626346	organism	Klebsiella variicola	2
+34626346	organ/tissue	multicellular organism	2
+34626346	organ/tissue	animal hemisphere	1
+34626346	clinical_drug	Nitrogen	1
+34626346	clinical_drug	Acetic Acid	1
+34626346	clinical_drug	Ammonia	1
+34626346	clinical_drug	Potassium	1
+34626346	clinical_drug	Maltose	1
+34626346	clinical_drug	Dextrose, Unspecified Form	1
+34626346	molecular_process	catalysis	1

@@ -1,0 +1,19 @@
+8246512	biological_process	regulation of gene expression	1
+8246512	biological_process	transcription, DNA-templated	1
+8246512	chemical	nucleotide	2
+8246512	chemical	atom	1
+8246512	chemical	RNA polymerase sigma 70	1
+8246512	gene/protein	RNA polymerase sigma factor RpoD	35
+8246512	gene/protein	RNA polymerase sigma factor SigA	3
+8246512	molecular_function	binding	1
+8246512	organism	Escherichia coli	2
+8246512	sequence	region	5
+8246512	sequence	promoter	2
+8246512	sequence	gene	1
+8246512	sequence	operon	1
+8246512	sequence	substitute	1
+8246512	sequence	substitution	1
+8246512	sequence	operator	1
+8246512	sequence	non_covalent_binding_site	1
+8246512	sequence	binding_site	1
+8246512	organ/tissue	organ	1

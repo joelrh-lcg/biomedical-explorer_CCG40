@@ -1,0 +1,24 @@
+26094112	biological_process	transcription	1
+26094112	biological_process	regulation	1
+26094112	cellular_component	protein	1
+26094112	chemical	base	3
+26094112	chemical	protein	2
+26094112	gene/protein	k12	18
+26094112	gene/protein	K12	9
+26094112	gene/protein	ten	1
+26094112	gene/protein	protein	1
+26094112	molecular_function	transcription factor	1
+26094112	organism	bacterium	21
+26094112	organism	e coli k12	2
+26094112	organism	Escherichia coli K12	1
+26094112	sequence	gene	4
+26094112	sequence	base	3
+26094112	sequence	domain	2
+26094112	sequence	sequence	1
+26094112	sequence	protein	1
+26094112	sequence	regulon	1
+26094112	cell_line	k12	4
+26094112	cell_line	K12	2
+26094112	organ/tissue	scale	1
+26094112	organ/tissue	matrix	1
+26094112	entity_type	term	2

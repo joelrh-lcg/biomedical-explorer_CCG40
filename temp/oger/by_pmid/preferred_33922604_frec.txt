@@ -1,0 +1,15 @@
+33922604	biological_process	viral process	1
+33922604	disease	Diarrhea	6
+33922604	disease	Coinfection	4
+33922604	disease	Virus Diseases	2
+33922604	disease	Disease	2
+33922604	gene/protein	Serine protease inhibitor 7	1
+33922604	organism	Porcine epidemic diarrhea virus	4
+33922604	organism	Kobuvirus	3
+33922604	organism	Sus scrofa	2
+33922604	organism	Sapovirus	2
+33922604	organism	Swine	1
+33922604	organism	Coronavirus	1
+33922604	sequence	genome	3
+33922604	sequence	region	1
+33922604	clinical_drug	pork allergenic extract	1

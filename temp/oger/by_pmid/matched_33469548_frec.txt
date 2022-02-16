@@ -1,0 +1,19 @@
+33469548	biological_process	formation	2
+33469548	biological_process	innate immune response	1
+33469548	cellular_component	membrane	1
+33469548	chemical	phosphatidylethanolamine	4
+33469548	chemical	reactive oxygen species	3
+33469548	chemical	ornithine lipid	2
+33469548	chemical	lipid	1
+33469548	disease	infection	2
+33469548	gene/protein	lack	1
+33469548	organism	bacterium	7
+33469548	organism	maize	2
+33469548	organism	ornithine lipid	1
+33469548	organism	larva	1
+33469548	organism	eukaryote	1
+33469548	organ/tissue	larva	3
+33469548	organ/tissue	membrane	2
+33469548	clinical_drug	ornithine	1
+33469548	clinical_drug	oxygen	1
+33469548	molecular_process	hydroxylation	1

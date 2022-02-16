@@ -1,0 +1,17 @@
+9390313	chemical	RNA polymerase sigma 70	2
+9390313	chemical	base	1
+9390313	chemical	protein	1
+9390313	gene/protein	RNA polymerase sigma factor RpoD	70
+9390313	gene/protein	RNA polymerase sigma factor SigA	6
+9390313	gene/protein	bifunctional protein FolD	1
+9390313	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+9390313	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+9390313	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+9390313	organism	collection	2
+9390313	sequence	regulatory_region	2
+9390313	sequence	regulatory_region_variant	2
+9390313	sequence	base	1
+9390313	sequence	engineered_region	1
+9390313	sequence	consensus	1
+9390313	organ/tissue	matrix compartment	2
+9390313	organ/tissue	sense organ	1

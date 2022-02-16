@@ -1,0 +1,2 @@
+18366643	organism	e coli	2
+18366643	organ/tissue	organism	2

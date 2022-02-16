@@ -1,0 +1,30 @@
+3096961	biological_process	metabolic process	1
+3096961	biological_process	biosynthetic process	1
+3096961	chemical	alpha-amino acid	5
+3096961	chemical	amino acid	5
+3096961	chemical	nitrogen atom	3
+3096961	chemical	nitrogen(.)	3
+3096961	chemical	Glucose	2
+3096961	chemical	Ethanol	2
+3096961	chemical	oxygen atom	1
+3096961	chemical	aldehydo-D-glucose	1
+3096961	chemical	D-glucopyranose	1
+3096961	chemical	glucose	1
+3096961	chemical	ethanol	1
+3096961	chemical	oxidooxomethyl	1
+3096961	chemical	cobalt(2+)	1
+3096961	chemical	carbon dioxide	1
+3096961	chemical	oxidocarbon(2+)	1
+3096961	organism	Yeasts	6
+3096961	organism	Amylomyces rouxii	1
+3096961	organism	Spores	1
+3096961	organism	Spheroplasts	1
+3096961	sequence	amino_acid	5
+3096961	sequence	reverse	1
+3096961	cell	spheroplast	1
+3096961	organ/tissue	multicellular organism	1
+3096961	clinical_drug	Yeast, Unspecified	6
+3096961	clinical_drug	Nitrogen	3
+3096961	clinical_drug	Oxygen	1
+3096961	clinical_drug	Dextrose, Unspecified Form	1
+3096961	clinical_drug	Ethanol	1

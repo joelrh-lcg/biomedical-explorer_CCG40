@@ -1,0 +1,27 @@
+32112625	biological_process	synthesis	3
+32112625	biological_process	uracil degradation	1
+32112625	chemical	pantothenate	6
+32112625	chemical	coa	4
+32112625	chemical	coenzyme a	3
+32112625	chemical	pathway	3
+32112625	chemical	uracil	3
+32112625	chemical	vitamin precursor	2
+32112625	chemical	adc	2
+32112625	chemical	metabolite	1
+32112625	chemical	aspartate decarboxylase	1
+32112625	gene/protein	adc	169
+32112625	gene/protein	pand	6
+32112625	gene/protein	coa	5
+32112625	gene/protein	panc	4
+32112625	gene/protein	precursor	2
+32112625	gene/protein	panb	2
+32112625	organism	bacterium	7
+32112625	organism	CFN42	2
+32112625	organism	Rhizobium etli	2
+32112625	organism	archaea	1
+32112625	organism	eukaryote	1
+32112625	sequence	gene	5
+32112625	sequence	orthologous	2
+32112625	sequence	genome	1
+32112625	clinical_drug	pantothenate	3
+32112625	clinical_drug	aspartate	1

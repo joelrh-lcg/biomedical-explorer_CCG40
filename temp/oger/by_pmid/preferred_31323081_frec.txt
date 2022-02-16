@@ -1,0 +1,24 @@
+31323081	cellular_component	chloroplast	1
+31323081	chemical	protein	1
+31323081	chemical	RNA, Transfer	1
+31323081	chemical	transfer RNA	1
+31323081	chemical	ribosomal RNA	1
+31323081	gene/protein	Rho guanine nucleotide exchange factor 1 (rat)	1
+31323081	gene/protein	Rho guanine nucleotide exchange factor 1	1
+31323081	gene/protein	Rho guanine nucleotide exchange factor 1 (mouse)	1
+31323081	molecular_function	triplet codon-amino acid adaptor activity	1
+31323081	organism	Anthocerotophyta	1
+31323081	organism	Ceratophyllum demersum	1
+31323081	organism	Hepatophyta	1
+31323081	organism	Marchantia polymorpha	1
+31323081	organism	Embryophyta	1
+31323081	organism	Pseudocrossidium replicatum	1
+31323081	organism	Syntrichia ruralis	1
+31323081	organism	Sphagnum palustre	1
+31323081	sequence	genome	2
+31323081	sequence	region	2
+31323081	sequence	gene	2
+31323081	sequence	invert	1
+31323081	sequence	polypeptide_repeat	1
+31323081	sequence	tRNA	1
+31323081	sequence	rRNA	1

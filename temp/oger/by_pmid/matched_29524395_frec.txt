@@ -1,0 +1,36 @@
+29524395	biological_process	formation	1
+29524395	chemical	ornithine	12
+29524395	chemical	lysine	8
+29524395	chemical	glycine	5
+29524395	chemical	lipid a	5
+29524395	chemical	amino acid	4
+29524395	chemical	glutamine	4
+29524395	chemical	lipid	2
+29524395	chemical	3hydroxy fatty acid	2
+29524395	chemical	fatty acid	2
+29524395	chemical	Ornithine lipid	2
+29524395	chemical	ornithine lipid	2
+29524395	chemical	amino	1
+29524395	chemical	hydroxy group	1
+29524395	chemical	hydroxyl group	1
+29524395	gene/protein	CFB	5
+29524395	gene/protein	nmr	2
+29524395	organism	bacterium	14
+29524395	organism	αproteobacteria	2
+29524395	organism	Ornithine lipid	1
+29524395	organism	Rhizobium	1
+29524395	organism	Agrobacterium	1
+29524395	organism	unknown	1
+29524395	organism	ornithine lipid	1
+29524395	sequence	amino acid	2
+29524395	sequence	lysine	2
+29524395	sequence	sequence	2
+29524395	sequence	glycine	1
+29524395	sequence	glutamine	1
+29524395	sequence	genome	1
+29524395	clinical_drug	ornithine	4
+29524395	clinical_drug	lysine	2
+29524395	clinical_drug	glycine	1
+29524395	clinical_drug	glutamine	1
+29524395	clinical_drug	Ornithine	1
+29524395	molecular_process	hydroxylation	2

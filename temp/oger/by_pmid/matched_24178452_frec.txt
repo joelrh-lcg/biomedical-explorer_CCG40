@@ -1,0 +1,13 @@
+24178452	biological_process	growth regulator	1
+24178452	cellular_component	internode	1
+24178452	chemical	perezone	8
+24178452	chemical	quinone	4
+24178452	chemical	transform	3
+24178452	chemical	sesquiterpene	1
+24178452	chemical	ar12	1
+24178452	chemical	growth regulator	1
+24178452	gene/protein	pcr	8
+24178452	molecular_function	enzyme activity	1
+24178452	organism	agrobacterium	1
+24178452	organ/tissue	segment	1
+24178452	organ/tissue	tissue	1

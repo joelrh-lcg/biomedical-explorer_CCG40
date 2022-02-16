@@ -1,0 +1,18 @@
+29459707	biological_process	homeostasis	1
+29459707	chemical	element	2
+29459707	chemical	nitrogen	2
+29459707	chemical	vitamin	1
+29459707	chemical	lipid	1
+29459707	chemical	radical	1
+29459707	gene/protein	n50	2
+29459707	organism	common vampire bat	2
+29459707	organism	Desmodus rotundus	1
+29459707	organism	mammal	1
+29459707	organism	gut metagenome	1
+29459707	organism	gut microbiome	1
+29459707	sequence	reference genome	1
+29459707	sequence	scaffold	1
+29459707	sequence	contig	1
+29459707	organ/tissue	gut	6
+29459707	organ/tissue	element	2
+29459707	clinical_drug	nitrogen	1

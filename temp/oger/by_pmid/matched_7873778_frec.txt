@@ -1,0 +1,38 @@
+7873778	biological_process	nodulation	2
+7873778	cellular_component	protein	2
+7873778	chemical	amino acid	4
+7873778	chemical	protein	4
+7873778	chemical	ornithine	4
+7873778	chemical	proline	4
+7873778	chemical	ornithine cyclodeaminase	1
+7873778	disease	ocd	1
+7873778	gene/protein	orfc	30
+7873778	gene/protein	ORFC	30
+7873778	gene/protein	spp	16
+7873778	gene/protein	37kda protein	9
+7873778	gene/protein	ocd	8
+7873778	gene/protein	ornithine cyclodeaminase	6
+7873778	gene/protein	nfe2	4
+7873778	gene/protein	rna	2
+7873778	gene/protein	protein	1
+7873778	molecular_function	spp	1
+7873778	organism	plasmid	2
+7873778	organism	Rhizobium meliloti	2
+7873778	organism	alfalfa	2
+7873778	organism	strain gr4	2
+7873778	organism	Agrobacterium	1
+7873778	organism	Rhizobium	1
+7873778	sequence	gene	6
+7873778	sequence	plasmid	2
+7873778	sequence	amino acid	2
+7873778	sequence	protein	2
+7873778	sequence	sequence	2
+7873778	sequence	downstream	1
+7873778	sequence	open reading frame	1
+7873778	sequence	proline	1
+7873778	sequence	homologous	1
+7873778	cell_line	gr4	5
+7873778	cell_line	ocd	1
+7873778	clinical_drug	ornithine	2
+7873778	clinical_drug	alfalfa	1
+7873778	clinical_drug	proline	1

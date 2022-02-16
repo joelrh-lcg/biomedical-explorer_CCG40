@@ -1,0 +1,21 @@
+1991718	biological_process	nodulation	4
+1991718	chemical	nucleotide	1
+1991718	chemical	cerium(3+)	1
+1991718	gene/protein	kinesin-like protein Nod (fruit fly)	2
+1991718	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+1991718	gene/protein	extracellular adherence protein	1
+1991718	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+1991718	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+1991718	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+1991718	gene/protein	methionine aminopeptidase	1
+1991718	organism	Rhizobium leguminosarum	2
+1991718	organism	Rhizobium	1
+1991718	organism	Bradyrhizobium	1
+1991718	organism	Azorhizobium	1
+1991718	organism	Fabaceae	1
+1991718	sequence	gene	10
+1991718	sequence	operon	1
+1991718	sequence	region	1
+1991718	cell_line	HBM-Noda	2
+1991718	cell_line	CE-3	1
+1991718	molecular_process	coordination	1

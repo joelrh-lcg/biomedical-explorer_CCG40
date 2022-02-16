@@ -1,0 +1,61 @@
+32890468	chemical	Heme	2
+32890468	chemical	Copper	2
+32890468	chemical	Oxygen	2
+32890468	chemical	Oxidoreductases	2
+32890468	chemical	ferroheme b	1
+32890468	chemical	heme	1
+32890468	chemical	heme b	1
+32890468	chemical	copper atom	1
+32890468	chemical	dioxygen	1
+32890468	chemical	oxomethyl	1
+32890468	chemical	Cytochromes c	1
+32890468	chemical	cytochrome c''	1
+32890468	chemical	Cytochromes c'	1
+32890468	chemical	cytochrome c	1
+32890468	chemical	oxygen atom	1
+32890468	chemical	Electron Transport Complex IV	1
+32890468	gene/protein	Cytochrome c	121
+32890468	gene/protein	Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial	21
+32890468	gene/protein	Oxygen-dependent coproporphyrinogen-III oxidase	14
+32890468	gene/protein	Cytochrome c'	13
+32890468	gene/protein	Probable oxygen-dependent coproporphyrinogen-III oxidase	7
+32890468	gene/protein	oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial	7
+32890468	gene/protein	Streptopain	7
+32890468	gene/protein	Nitrite reductase	4
+32890468	gene/protein	uroporphyrinogen decarboxylase (Dictyostelium discoideum)	1
+32890468	gene/protein	uroporphyrinogen decarboxylase (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+32890468	gene/protein	uroporphyrinogen decarboxylase (Escherichia coli K-12)	1
+32890468	gene/protein	cytochrome c	1
+32890468	gene/protein	Cytochrome c''	1
+32890468	gene/protein	F-box/WD repeat-containing protein 7 (fruit fly)	1
+32890468	gene/protein	minor histocompatibility antigen H13	1
+32890468	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+32890468	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+32890468	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+32890468	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+32890468	gene/protein	minor histocompatibility antigen H13 (human)	1
+32890468	gene/protein	sphingosine-1-phosphate phosphatase	1
+32890468	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+32890468	gene/protein	SD07518p (fruit fly)	1
+32890468	molecular_function	electron transporter, transferring electrons from CoQH2-cytochrome c reductase complex and cytochrome c oxidase complex activity	2
+32890468	molecular_function	obsolete cytochrome c	1
+32890468	molecular_function	electron transporter, transferring electrons within the noncyclic electron transport pathway of photosynthesis activity	1
+32890468	molecular_function	electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity	1
+32890468	molecular_function	electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity	1
+32890468	molecular_function	electron transporter, transferring electrons within cytochrome c oxidase complex activity	1
+32890468	molecular_function	obsolete cytochrome	1
+32890468	molecular_function	electron transporter, transferring electrons within CoQH2-cytochrome c reductase complex activity	1
+32890468	molecular_function	obsolete signal peptide peptidase activity	1
+32890468	organism	bacterium BE	2
+32890468	organism	Proteobacteria	2
+32890468	organism	bacterium IFAM-3211	1
+32890468	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+32890468	organism	bacterium IFAM-3215	1
+32890468	organism	bacterium IFAM-2074	1
+32890468	organism	bacterium IFAM-3359	1
+32890468	organism	bacterium	1
+32890468	organism	bacterium IFAM-1493	1
+32890468	organism	Acidithiobacillus	1
+32890468	cell_line	COX	7
+32890468	clinical_drug	Oxygen	2
+32890468	clinical_drug	Copper	1

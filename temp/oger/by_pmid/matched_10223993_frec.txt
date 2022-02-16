@@ -1,0 +1,23 @@
+10223993	biological_process	gene expression	1
+10223993	biological_process	nitrogen fixation	1
+10223993	cellular_component	protein	1
+10223993	cellular_component	membrane	1
+10223993	chemical	cytochrome	8
+10223993	chemical	oxidase	5
+10223993	chemical	nitrogen	4
+10223993	chemical	protein	2
+10223993	chemical	proteins	1
+10223993	chemical	nitrogenase	1
+10223993	gene/protein	transcriptional activator protein	19
+10223993	gene/protein	ntrc	9
+10223993	molecular_function	cytochrome	28
+10223993	molecular_function	nitrogenase activity	1
+10223993	organism	Rhizobium etli	2
+10223993	organism	Bradyrhizobium japonicum	2
+10223993	sequence	gene	2
+10223993	sequence	operon	2
+10223993	sequence	protein	1
+10223993	sequence	mutation	1
+10223993	sequence	promoter	1
+10223993	organ/tissue	membrane	2
+10223993	clinical_drug	nitrogen	2

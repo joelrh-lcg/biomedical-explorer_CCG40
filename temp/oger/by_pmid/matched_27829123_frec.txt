@@ -1,0 +1,15 @@
+27829123	chemical	carbon	2
+27829123	chemical	amino acid	2
+27829123	chemical	organic acid	1
+27829123	chemical	acid	1
+27829123	chemical	element	1
+27829123	organism	bacterium	7
+27829123	organism	Corynebacterium glutamicum	2
+27829123	sequence	motif	4
+27829123	sequence	gene	2
+27829123	sequence	amino acid	1
+27829123	organ/tissue	layer	6
+27829123	organ/tissue	organism	1
+27829123	organ/tissue	Atlas	1
+27829123	organ/tissue	element	1
+27829123	molecular_process	coordination	1

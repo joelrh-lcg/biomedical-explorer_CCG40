@@ -1,0 +1,24 @@
+28286733	biological_process	fertilization	1
+28286733	chemical	Potassium	2
+28286733	chemical	potassium atom	1
+28286733	chemical	maleate(2-)	1
+28286733	gene/protein	potassium channel subfamily U member 1	4
+28286733	gene/protein	potassium channel subfamily U member 1 (mouse)	4
+28286733	gene/protein	potassium channel subfamily U member 1 (human)	4
+28286733	gene/protein	SOX domain-containing protein dichaete (fruit fly)	2
+28286733	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+28286733	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+28286733	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+28286733	organism	Vertebrates	3
+28286733	organism	Mammals	1
+28286733	organism	Reptiles	1
+28286733	sequence	gene	3
+28286733	sequence	genome	1
+28286733	sequence	transcript	1
+28286733	sequence	orthologous_region	1
+28286733	cell	sperm	1
+28286733	organ/tissue	male organism	1
+28286733	organ/tissue	testis	1
+28286733	organ/tissue	obsolete spermatozoon	1
+28286733	organ/tissue	semen	1
+28286733	clinical_drug	Potassium	1

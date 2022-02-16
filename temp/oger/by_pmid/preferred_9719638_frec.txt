@@ -1,0 +1,27 @@
+9719638	biological_process	transcription, DNA-templated	1
+9719638	biological_process	gene expression	1
+9719638	cellular_component	viral nucleocapsid	1
+9719638	chemical	oligonucleotide	3
+9719638	chemical	base	2
+9719638	chemical	atom	1
+9719638	molecular_function	DNA binding	1
+9719638	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+9719638	organism	Yeasts	3
+9719638	organism	Saccharomyces cerevisiae	2
+9719638	organism	unidentified	1
+9719638	sequence	oligo	3
+9719638	sequence	gene	2
+9719638	sequence	5KB_upstream_variant	2
+9719638	sequence	region	2
+9719638	sequence	base	2
+9719638	sequence	DNA_binding_site	1
+9719638	sequence	regulon	1
+9719638	sequence	genome	1
+9719638	sequence	polypeptide_conserved_motif	1
+9719638	sequence	polypeptide_motif	1
+9719638	organ/tissue	organ	1
+9719638	organ/tissue	scale	1
+9719638	organ/tissue	webbed interdigital region	1
+9719638	clinical_drug	Yeast, Unspecified	3
+9719638	clinical_drug	saccharomyces cerevisiae allergenic extract	1
+9719638	clinical_drug	Saccharomyces cerevisiae	1

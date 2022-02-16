@@ -1,0 +1,17 @@
+32433751	biological_process	sex determination	4
+32433751	cellular_component	sex chromosome	2
+32433751	cellular_component	chromosome	1
+32433751	cellular_component	chromosomal region	1
+32433751	chemical	male	1
+32433751	chemical	myr	1
+32433751	gene/protein	spot	2
+32433751	gene/protein	cue	1
+32433751	organism	reptile	3
+32433751	organism	Eulamprus tympanum	1
+32433751	organism	Eulamprus heatwolei	1
+32433751	organism	spot	1
+32433751	sequence	chromosome	3
+32433751	sequence	genome	1
+32433751	organ/tissue	tympanum	2
+32433751	organ/tissue	male	1
+32433751	organ/tissue	spot	1

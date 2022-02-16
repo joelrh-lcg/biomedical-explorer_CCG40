@@ -1,0 +1,11 @@
+34458021	chemical	tannin	1
+34458021	gene/protein	pine	2
+34458021	gene/protein	Red	1
+34458021	gene/protein	grass	1
+34458021	organism	bacterium	7
+34458021	organism	volcano rabbit	2
+34458021	organism	lagomorph	1
+34458021	organism	seedling	1
+34458021	organism	tree pine	1
+34458021	organ/tissue	organism	1
+34458021	clinical_drug	rabbit	2

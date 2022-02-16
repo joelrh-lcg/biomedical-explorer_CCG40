@@ -1,0 +1,22 @@
+23764913	chemical	RNA, Ribosomal, 16S	1
+23764913	chemical	cluster	1
+23764913	gene/protein	Protein BEAN1	4
+23764913	gene/protein	protein BEAN	2
+23764913	gene/protein	mediator of RNA polymerase II transcription subunit 10 (zebrafish)	1
+23764913	organism	Rhizobium etli	2
+23764913	organism	Rhizobium leucaenae	2
+23764913	organism	Rhizobium phaseoli	2
+23764913	organism	Rhizobium	2
+23764913	organism	Rhizobium tropici	2
+23764913	organism	Agrobacterium tumefaciens	2
+23764913	organism	bacterium IFAM-3211	1
+23764913	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+23764913	organism	bacterium IFAM-3215	1
+23764913	organism	bacterium IFAM-2074	1
+23764913	organism	bacterium IFAM-3359	1
+23764913	organism	bacterium	1
+23764913	organism	bacterium IFAM-1493	1
+23764913	organism	Phaseolus	1
+23764913	sequence	rRNA_16S	1
+23764913	sequence	gene	1
+23764913	cell_line	R1192	2

@@ -1,0 +1,9 @@
+16535102	biological_process	fertilization	1
+16535102	chemical	nitrogen	2
+16535102	gene/protein	crop	1
+16535102	organism	sugarcane	3
+16535102	organism	Acetobacter	3
+16535102	organism	Acetobacter diazotrophicus	2
+16535102	organ/tissue	crop	1
+16535102	clinical_drug	sugarcane	2
+16535102	clinical_drug	nitrogen	1

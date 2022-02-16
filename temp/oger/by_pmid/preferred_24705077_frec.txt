@@ -1,0 +1,42 @@
+24705077	biological_process	biosynthetic process	2
+24705077	biological_process	signal transduction	1
+24705077	biological_process	transport	1
+24705077	biological_process	metabolic process	1
+24705077	biological_process	catabolic process	1
+24705077	biological_process	import into cell	1
+24705077	biological_process	import across plasma membrane	1
+24705077	cellular_component	viral nucleocapsid	2
+24705077	chemical	plant hormone	2
+24705077	chemical	Calcium Gluconate	2
+24705077	chemical	protein	2
+24705077	chemical	Carbohydrates	2
+24705077	chemical	carbohydrate	1
+24705077	chemical	iron atom	1
+24705077	gene/protein	Corticosteroid-binding globulin	11
+24705077	gene/protein	Pulmonary surfactant-associated protein B	7
+24705077	gene/protein	serine protease grass (fruit fly)	1
+24705077	gene/protein	cytosolic beta-glucosidase (human)	1
+24705077	gene/protein	corticosteroid-binding globulin	1
+24705077	gene/protein	cytosolic beta-glucosidase	1
+24705077	gene/protein	corticosteroid-binding globulin (human)	1
+24705077	gene/protein	corticosteroid-binding globulin (mouse)	1
+24705077	gene/protein	corticosteroid-binding globulin (rat)	1
+24705077	gene/protein	pulmonary surfactant-associated protein B	1
+24705077	organism	Azospirillum	3
+24705077	organism	Zea mays	2
+24705077	organism	bacterium IFAM-3211	1
+24705077	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+24705077	organism	bacterium IFAM-3215	1
+24705077	organism	bacterium IFAM-2074	1
+24705077	organism	bacterium IFAM-3359	1
+24705077	organism	bacterium	1
+24705077	organism	bacterium IFAM-1493	1
+24705077	organism	Edible Grain	1
+24705077	organism	Azospirillum sp.	1
+24705077	sequence	genome	7
+24705077	sequence	gene	3
+24705077	sequence	region	1
+24705077	sequence	transit_peptide	1
+24705077	sequence	signal_peptide	1
+24705077	cell_line	245A	1
+24705077	clinical_drug	Iron	1

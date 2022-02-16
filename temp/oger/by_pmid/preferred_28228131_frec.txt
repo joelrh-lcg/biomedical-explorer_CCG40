@@ -1,0 +1,9 @@
+28228131	chemical	heptanoyl group	2
+28228131	chemical	drug	1
+28228131	gene/protein	FAD-linked sulfhydryl oxidase ALR (human)	2
+28228131	gene/protein	serine/threonine-protein kinase hippo (fruit fly)	2
+28228131	gene/protein	FAD-linked sulfhydryl oxidase ALR	2
+28228131	gene/protein	Premnaspirodiene oxygenase	2
+28228131	organism	Humans	2
+28228131	sequence	genome	1
+28228131	sequence	structural_variant	1

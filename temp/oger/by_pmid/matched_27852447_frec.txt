@@ -1,0 +1,4 @@
+27852447	chemical	bsi	3
+27852447	disease	infection	2
+27852447	disease	hematologic malignancy	2
+27852447	organism	Enterococcus faecium	2

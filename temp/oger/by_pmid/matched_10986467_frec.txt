@@ -1,0 +1,6 @@
+10986467	chemical	hemoglobin	3
+10986467	chemical	leghemoglobin	2
+10986467	chemical	plant proteins	1
+10986467	gene/protein	leghemoglobin	5
+10986467	gene/protein	hemoglobin	4
+10986467	organ/tissue	tissue	1

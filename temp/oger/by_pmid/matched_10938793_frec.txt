@@ -1,0 +1,47 @@
+10938793	biological_process	flower development	1
+10938793	biological_process	pollen development	1
+10938793	cellular_component	protein	1
+10938793	chemical	nitrogen	2
+10938793	chemical	protein	2
+10938793	chemical	glutamine synthetase	1
+10938793	chemical	glutamate synthase	1
+10938793	chemical	aspartate aminotransferase	1
+10938793	chemical	asparagine synthase	1
+10938793	chemical	phosphoenolpyruvate carboxylase	1
+10938793	chemical	nitrate	1
+10938793	chemical	male	1
+10938793	disease	aat2	2
+10938793	disease	chlorosis	2
+10938793	gene/protein	pepc	500
+10938793	gene/protein	phosphoenolpyruvate carboxylase	250
+10938793	gene/protein	glutamine synthetase	123
+10938793	gene/protein	aat	33
+10938793	gene/protein	aspartate aminotransferase	26
+10938793	gene/protein	aat2	16
+10938793	gene/protein	GOGAT	2
+10938793	gene/protein	gogat	2
+10938793	gene/protein	protein	1
+10938793	gene/protein	flower	1
+10938793	molecular_function	aat	3
+10938793	molecular_function	enzyme activity	3
+10938793	molecular_function	pepc	2
+10938793	organism	alfalfa	2
+10938793	organism	Medicago sativa	2
+10938793	organism	Legumes	1
+10938793	sequence	antisense	4
+10938793	sequence	transgenic	2
+10938793	sequence	transcript	2
+10938793	sequence	glutamine	1
+10938793	sequence	promoter	1
+10938793	sequence	protein	1
+10938793	sequence	asparagine	1
+10938793	sequence	transgene	1
+10938793	organ/tissue	nodule	2
+10938793	organ/tissue	male	1
+10938793	clinical_drug	nitrogen	1
+10938793	clinical_drug	glutamine	1
+10938793	clinical_drug	glutamate	1
+10938793	clinical_drug	alfalfa	1
+10938793	clinical_drug	aspartate	1
+10938793	clinical_drug	asparagine	1
+10938793	molecular_process	reduction	2

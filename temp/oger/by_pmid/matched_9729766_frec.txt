@@ -1,0 +1,28 @@
+9729766	biological_process	tca cycle	2
+9729766	biological_process	nitrogen fixation	1
+9729766	biological_process	metabolism	1
+9729766	biological_process	symbiosis	1
+9729766	chemical	nitrogen	6
+9729766	chemical	carbon	4
+9729766	chemical	tca	2
+9729766	chemical	tricarboxylic acid	1
+9729766	chemical	pathway	1
+9729766	chemical	citrate synthase	1
+9729766	chemical	oxoglutarate dehydrogenase	1
+9729766	chemical	pyruvate carboxylase	1
+9729766	gene/protein	citrate synthase	61
+9729766	gene/protein	pyruvate carboxylase	9
+9729766	gene/protein	malic enzyme	3
+9729766	gene/protein	oxoglutarate dehydrogenase	1
+9729766	molecular_function	malic enzyme	2
+9729766	organism	bacterium	7
+9729766	organism	Rhizobium	1
+9729766	organism	Bradyrhizobium	1
+9729766	organism	Mesorhizobium	1
+9729766	organism	Sinorhizobium	1
+9729766	organism	Azorhizobium	1
+9729766	sequence	gene	2
+9729766	sequence	clone	1
+9729766	cell_line	tca	2
+9729766	clinical_drug	nitrogen	3
+9729766	clinical_drug	pyruvate	1

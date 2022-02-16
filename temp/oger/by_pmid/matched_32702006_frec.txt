@@ -1,0 +1,2 @@
+32702006	chemical	MDR	1
+32702006	molecular_function	MDR	1

@@ -1,0 +1,16 @@
+27242034	biological_process	biological regulation	1
+27242034	chemical	atom	2
+27242034	organism	bacterium IFAM-3211	4
+27242034	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	4
+27242034	organism	bacterium IFAM-3215	4
+27242034	organism	bacterium IFAM-2074	4
+27242034	organism	bacterium IFAM-3359	4
+27242034	organism	bacterium	4
+27242034	organism	bacterium IFAM-1493	4
+27242034	sequence	gene	3
+27242034	sequence	regulon	2
+27242034	organ/tissue	vertebral bone 1	3
+27242034	organ/tissue	multicellular organism	2
+27242034	organ/tissue	organ	2
+27242034	organ/tissue	cauda epididymis	1
+27242034	organ/tissue	corpus	1

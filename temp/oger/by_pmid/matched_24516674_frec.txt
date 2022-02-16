@@ -1,0 +1,25 @@
+24516674	biological_process	transcription	4
+24516674	biological_process	regulation	1
+24516674	chemical	molecule	1
+24516674	chemical	sigma factor	1
+24516674	chemical	element	1
+24516674	disease	pneumonia	2
+24516674	disease	Chlamydophila pneumonia	2
+24516674	molecular_function	transcription factor	1
+24516674	organism	Synechocystis sp	6
+24516674	organism	Escherichia coli	2
+24516674	organism	Helicobacter pylori	2
+24516674	organism	bacillus anthracis	2
+24516674	organism	Sulfolobus solfataricus	2
+24516674	organism	Klebsiella	1
+24516674	organism	Salmonella Typhimurium	1
+24516674	organism	Pseudomonas	1
+24516674	organism	Geobacter	1
+24516674	organism	Chlamydophila	1
+24516674	organism	archaea	1
+24516674	sequence	promoter region	3
+24516674	sequence	transcription start site	2
+24516674	sequence	promoter	2
+24516674	sequence	prokaryotic promoter	1
+24516674	sequence	gene	1
+24516674	organ/tissue	element	1

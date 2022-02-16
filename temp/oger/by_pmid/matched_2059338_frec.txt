@@ -1,0 +1,3 @@
+2059338	chemical	peptide	1
+2059338	gene/protein	peptide	2
+2059338	sequence	peptide	1

@@ -1,0 +1,2 @@
+16333295	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	2
+16333295	organism	collection	1

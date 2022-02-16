@@ -1,0 +1,43 @@
+30609847	biological_process	nitrogen fixation	1
+30609847	chemical	carminic acid	4
+30609847	chemical	Carmine	4
+30609847	chemical	nitrogen atom	4
+30609847	chemical	nitrogen(.)	4
+30609847	chemical	Riboflavin	2
+30609847	chemical	cosmetic	1
+30609847	chemical	polysaccharide	1
+30609847	chemical	elemental carbon	1
+30609847	chemical	carbon atom	1
+30609847	chemical	alpha-amino acid	1
+30609847	chemical	amino acid	1
+30609847	chemical	riboflavin(1-)	1
+30609847	chemical	riboflavin	1
+30609847	gene/protein	Streptopain	7
+30609847	gene/protein	minor histocompatibility antigen H13	1
+30609847	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+30609847	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+30609847	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+30609847	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+30609847	gene/protein	minor histocompatibility antigen H13 (human)	1
+30609847	gene/protein	sphingosine-1-phosphate phosphatase	1
+30609847	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+30609847	gene/protein	SD07518p (fruit fly)	1
+30609847	molecular_function	obsolete signal peptide peptidase activity	1
+30609847	organism	Hemiptera	1
+30609847	organism	Candidatus Dactylopiibacterium carminicum	1
+30609847	organism	Fungi	1
+30609847	organism	bacterium BE	1
+30609847	sequence	cytoplasmic_polypeptide_region	1
+30609847	sequence	transcript	1
+30609847	sequence	amino_acid	1
+30609847	organ/tissue	hemolymph	2
+30609847	organ/tissue	digestive tract	2
+30609847	organ/tissue	lower digestive tract	2
+30609847	organ/tissue	digestive system	2
+30609847	organ/tissue	ovary	2
+30609847	organ/tissue	scale	1
+30609847	organ/tissue	tissue	1
+30609847	clinical_drug	Nitrogen	4
+30609847	clinical_drug	Cochineal	2
+30609847	clinical_drug	Carminic Acid	1
+30609847	clinical_drug	Riboflavin	1

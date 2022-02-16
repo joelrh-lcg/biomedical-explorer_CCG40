@@ -1,0 +1,8 @@
+21696634	disease	Uterine Cervical Neoplasms	2
+21696634	disease	Papilloma	2
+21696634	disease	Disease	2
+21696634	disease	Carcinogenesis	2
+21696634	organism	Human papillomavirus	1
+21696634	organism	Papillomaviridae	1
+21696634	organ/tissue	female organism	1
+21696634	organ/tissue	hepatic portal vein	1

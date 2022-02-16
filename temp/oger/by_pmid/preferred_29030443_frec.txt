@@ -1,0 +1,73 @@
+29030443	biological_process	demethylation	1
+29030443	biological_process	tricarboxylic acid cycle	1
+29030443	biological_process	catabolic process	1
+29030443	chemical	nucleoside 5'-monophosphate	12
+29030443	chemical	N-methylpyrrolidin-2-one	12
+29030443	chemical	nucleoside phosphate	12
+29030443	chemical	gamma-Aminobutyric Acid	8
+29030443	chemical	gamma-aminobutyric acid	4
+29030443	chemical	cluster	3
+29030443	chemical	acid	3
+29030443	chemical	sulfoxaflor	2
+29030443	chemical	Succinic Acid	2
+29030443	chemical	Complement System Proteins	2
+29030443	chemical	picloram	2
+29030443	chemical	solvent	1
+29030443	chemical	alpha-amino acid	1
+29030443	chemical	amino acid	1
+29030443	chemical	Oxidoreductases	1
+29030443	chemical	succinic semialdehyde	1
+29030443	chemical	succinate semialdehyde	1
+29030443	chemical	4-oxobutanoate	1
+29030443	chemical	4-Aminobutyrate Transaminase	1
+29030443	chemical	Succinate-Semialdehyde Dehydrogenase	1
+29030443	chemical	succinate(2-)	1
+29030443	chemical	succinate	1
+29030443	chemical	cyclic amide	1
+29030443	gene/protein	4-aminobutyrate aminotransferase	10
+29030443	gene/protein	4-aminobutyrate aminotransferase, mitochondrial	6
+29030443	gene/protein	Succinate-semialdehyde dehydrogenase [NADP(+)]	6
+29030443	gene/protein	sucrose synthase 2 (Arabidopsis thaliana)	5
+29030443	gene/protein	Agglutinin	5
+29030443	gene/protein	4-aminobutyrate aminotransferase GabT	2
+29030443	gene/protein	4-aminobutyrate aminotransferase PuuE	2
+29030443	gene/protein	Probable succinate-semialdehyde dehydrogenase [NADP(+)]	2
+29030443	gene/protein	(rat)	1
+29030443	gene/protein	HTH-type transcriptional regulator MgrA (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+29030443	gene/protein	transmembrane protease serine 11D (rat)	1
+29030443	gene/protein	Probable 4-aminobutyrate aminotransferase, mitochondrial	1
+29030443	gene/protein	Probable 4-aminobutyrate aminotransferase	1
+29030443	gene/protein	Succinate semialdehyde dehydrogenase	1
+29030443	gene/protein	Succinate-semialdehyde dehydrogenase	1
+29030443	gene/protein	Succinate semialdehyde dehydrogenase [NAD(P)+] Sad	1
+29030443	gene/protein	Putative succinate-semialdehyde dehydrogenase C1002.12c [NADP(+)]	1
+29030443	gene/protein	succinate semialdehyde dehydrogenase [NAD(P)+] Sad	1
+29030443	gene/protein	succinate-semialdehyde dehydrogenase [NADP(+)] GabD	1
+29030443	gene/protein	Putative succinate-semialdehyde dehydrogenase C139.05 [NADP(+)]	1
+29030443	gene/protein	Putative succinate-semialdehyde dehydrogenase [NADP(+)]	1
+29030443	gene/protein	Succinate-semialdehyde dehydrogenase [NADP(+)] GabD	1
+29030443	gene/protein	Alpha-ketoglutaric semialdehyde dehydrogenase 1	1
+29030443	organism	unidentified	2
+29030443	organism	Humans	1
+29030443	organism	Rattus norvegicus	1
+29030443	organism	Rats	1
+29030443	organism	bacterium IFAM-3211	1
+29030443	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+29030443	organism	bacterium IFAM-3215	1
+29030443	organism	bacterium IFAM-2074	1
+29030443	organism	bacterium IFAM-3359	1
+29030443	organism	bacterium	1
+29030443	organism	bacterium IFAM-1493	1
+29030443	sequence	gene	5
+29030443	sequence	enzymatic	3
+29030443	sequence	polycistronic_mRNA	1
+29030443	sequence	amino_acid	1
+29030443	sequence	double	1
+29030443	sequence	intermediate	1
+29030443	sequence	deletion	1
+29030443	organ/tissue	integument	1
+29030443	organ/tissue	zone of skin	1
+29030443	organ/tissue	skin epidermis	1
+29030443	organ/tissue	skin of body	1
+29030443	molecular_process	demethylation	1
+29030443	molecular_process	deamination	1

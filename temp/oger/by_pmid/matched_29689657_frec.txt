@@ -1,0 +1,2 @@
+29689657	disease	pneumonia	2
+29689657	sequence	genome	1

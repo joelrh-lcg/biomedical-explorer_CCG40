@@ -1,0 +1,47 @@
+16547149	biological_process	biological regulation	2
+16547149	biological_process	transcription, DNA-templated	1
+16547149	biological_process	gene expression	1
+16547149	biological_process	catabolic process	1
+16547149	chemical	RNA polymerase sigma 70	1
+16547149	chemical	cluster	1
+16547149	chemical	nucleotide	1
+16547149	gene/protein	RNA polymerase sigma factor RpoD	35
+16547149	gene/protein	cAMP-activated global transcriptional regulator CRP	32
+16547149	gene/protein	Cysteine and glycine-rich protein 1	20
+16547149	gene/protein	CRP-like cAMP-activated global transcriptional regulator	12
+16547149	gene/protein	C-reactive protein	8
+16547149	gene/protein	Large cysteine-rich periplasmic protein OmcB	8
+16547149	gene/protein	C-reactive protein (rat)	4
+16547149	gene/protein	RNA silencing suppressor	4
+16547149	gene/protein	cysteine and glycine-rich protein 1	4
+16547149	gene/protein	LIM domain-containing protein E (Dictyostelium discoideum)	4
+16547149	gene/protein	C-reactive protein (mouse)	4
+16547149	gene/protein	Cyclic AMP receptor protein	4
+16547149	gene/protein	catabolite gene activator	4
+16547149	gene/protein	cyclin-dependent kinase 5 homolog (Dictyostelium discoideum)	4
+16547149	gene/protein	C-reactive protein (human)	4
+16547149	gene/protein	Submandibular gland secretory Glx-rich protein CB	4
+16547149	gene/protein	cAMP-activated global transcriptional regulator CRP (Escherichia coli K-12)	4
+16547149	gene/protein	drosomycin (fruit fly)	4
+16547149	gene/protein	cAMP-activated global transcriptional regulator CRP (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	4
+16547149	gene/protein	mediator of RNA polymerase II transcription subunit 12 (Arabidopsis thaliana)	4
+16547149	gene/protein	RNA polymerase sigma factor SigA	3
+16547149	gene/protein	DNA polymerase III subunit epsilon	2
+16547149	gene/protein	DNA polymerase III subunit epsilon (Escherichia coli K-12)	2
+16547149	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+16547149	organism	bacterium IFAM-3211	4
+16547149	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	4
+16547149	organism	bacterium IFAM-3215	4
+16547149	organism	bacterium IFAM-2074	4
+16547149	organism	bacterium IFAM-3359	4
+16547149	organism	bacterium	4
+16547149	organism	bacterium IFAM-1493	4
+16547149	organism	Gammaproteobacteria	1
+16547149	sequence	regulatory_region	7
+16547149	sequence	regulatory_region_variant	7
+16547149	sequence	genome	5
+16547149	sequence	transit_peptide	3
+16547149	sequence	signal_peptide	3
+16547149	sequence	gene	3
+16547149	sequence	region	2
+16547149	sequence	polypeptide_region	1

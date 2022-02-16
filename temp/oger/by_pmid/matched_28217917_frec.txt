@@ -1,0 +1,27 @@
+28217917	biological_process	transport	2
+28217917	biological_process	efflux	2
+28217917	cellular_component	cytoplasmic membrane	2
+28217917	chemical	copper	4
+28217917	chemical	atpase	1
+28217917	chemical	ATPases	1
+28217917	chemical	base	1
+28217917	chemical	proteins	1
+28217917	disease	copper transport	4
+28217917	gene/protein	sub	8
+28217917	gene/protein	copz	8
+28217917	gene/protein	sup	7
+28217917	gene/protein	cusf	4
+28217917	gene/protein	atpase	2
+28217917	organism	bacterium	7
+28217917	organism	Sinorhizobium meliloti	2
+28217917	organism	unknown	1
+28217917	organism	gammaproteobacteria	1
+28217917	sequence	genome	3
+28217917	sequence	gene	3
+28217917	sequence	motif	2
+28217917	sequence	base	1
+28217917	sequence	homologous	1
+28217917	sequence	homolog	1
+28217917	cell_line	1b3	6
+28217917	cell_line	1b1	2
+28217917	organ/tissue	membrane	2

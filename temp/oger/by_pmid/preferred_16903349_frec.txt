@@ -1,0 +1,36 @@
+16903349	biological_process	defense response	1
+16903349	chemical	Phosphates	2
+16903349	chemical	impurity	1
+16903349	chemical	phosphate	1
+16903349	chemical	phosphate)	1
+16903349	chemical	phosphate ion	1
+16903349	chemical	phosphate(3-)	1
+16903349	chemical	phosphoric acid	1
+16903349	chemical	hydrogenphosphate	1
+16903349	chemical	nitrogen atom	1
+16903349	chemical	nitrogen(.)	1
+16903349	chemical	protein	1
+16903349	gene/protein	Streptopain	7
+16903349	gene/protein	minor histocompatibility antigen H13	1
+16903349	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+16903349	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+16903349	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+16903349	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+16903349	gene/protein	minor histocompatibility antigen H13 (human)	1
+16903349	gene/protein	sphingosine-1-phosphate phosphatase	1
+16903349	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+16903349	gene/protein	SD07518p (fruit fly)	1
+16903349	molecular_function	obsolete signal peptide peptidase activity	1
+16903349	organism	Humans	1
+16903349	organism	Salmonella	1
+16903349	organism	bacterium BE	1
+16903349	organism	bacterium IFAM-3211	1
+16903349	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+16903349	organism	bacterium IFAM-3215	1
+16903349	organism	bacterium IFAM-2074	1
+16903349	organism	bacterium IFAM-3359	1
+16903349	organism	bacterium	1
+16903349	organism	bacterium IFAM-1493	1
+16903349	sequence	gene	1
+16903349	sequence	cytoplasmic_polypeptide_region	1
+16903349	clinical_drug	Nitrogen	1

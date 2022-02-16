@@ -1,0 +1,32 @@
+16348252	biological_process	nodulation	1
+16348252	biological_process	nitrogen fixation	1
+16348252	cellular_component	chromosome	1
+16348252	chemical	nitrogen atom	1
+16348252	chemical	nitrogen(.)	1
+16348252	gene/protein	Protein BEAN1	4
+16348252	gene/protein	protein BEAN	2
+16348252	gene/protein	CTD small phosphatase-like protein (chicken)	1
+16348252	gene/protein	symplekin (fruit fly)	1
+16348252	organism	unidentified plasmid	4
+16348252	organism	Rhizobium leguminosarum	2
+16348252	organism	Rhizobium leucaenae	2
+16348252	organism	collection	1
+16348252	organism	bacterium IFAM-3211	1
+16348252	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+16348252	organism	bacterium IFAM-3215	1
+16348252	organism	bacterium IFAM-2074	1
+16348252	organism	bacterium IFAM-3359	1
+16348252	organism	bacterium	1
+16348252	organism	bacterium IFAM-1493	1
+16348252	organism	Rhizobium	1
+16348252	organism	Phaseolus	1
+16348252	organism	Phaseolus vulgaris	1
+16348252	organism	Fabaceae	1
+16348252	organism	Agrobacterium	1
+16348252	organism	Sym plasmid	1
+16348252	sequence	plasmid	5
+16348252	sequence	chromosome	1
+16348252	sequence	gene	1
+16348252	sequence	engineered_region	1
+16348252	cell_line	R1192	2
+16348252	clinical_drug	Nitrogen	1

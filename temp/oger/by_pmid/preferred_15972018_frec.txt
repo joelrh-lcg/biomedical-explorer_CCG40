@@ -1,0 +1,13 @@
+15972018	chemical	Complement System Proteins	1
+15972018	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+15972018	gene/protein	Transcriptional regulator	1
+15972018	molecular_function	binding	1
+15972018	organism	Escherichia coli	2
+15972018	organism	Gammaproteobacteria	1
+15972018	sequence	genome	2
+15972018	sequence	region	2
+15972018	sequence	regulon	2
+15972018	sequence	gene	1
+15972018	sequence	non_covalent_binding_site	1
+15972018	sequence	binding_site	1
+15972018	organ/tissue	multicellular organism	1

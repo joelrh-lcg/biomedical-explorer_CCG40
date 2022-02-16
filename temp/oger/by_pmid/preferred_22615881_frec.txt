@@ -1,0 +1,44 @@
+22615881	biological_process	RNA interference	2
+22615881	biological_process	gene silencing by RNA	1
+22615881	cellular_component	obsolete protein	5
+22615881	cellular_component	cytoskeleton	2
+22615881	chemical	protein	9
+22615881	chemical	toxin	6
+22615881	chemical	Adenosine Triphosphate	4
+22615881	chemical	(protein)	3
+22615881	chemical	Heat-Shock Proteins	2
+22615881	chemical	Actins	2
+22615881	chemical	ATP(4-)	2
+22615881	chemical	ATP	2
+22615881	chemical	electron	2
+22615881	chemical	positron	2
+22615881	chemical	buffer	1
+22615881	chemical	base	1
+22615881	chemical	N-(3-carboxypropanoyl)-N-hydroxyputrescine	1
+22615881	gene/protein	ATP synthase subunit beta	1412
+22615881	gene/protein	Actin	122
+22615881	gene/protein	outer membrane porin F	4
+22615881	gene/protein	cryptochrome-1 (fruit fly)	4
+22615881	gene/protein	outer membrane porin F (Escherichia coli K-12)	4
+22615881	gene/protein	protein	4
+22615881	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT (Escherichia coli K-12)	1
+22615881	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT	1
+22615881	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+22615881	gene/protein	ribonuclease I	1
+22615881	gene/protein	Heat shock protein HSP 90	1
+22615881	molecular_function	obsolete hydrogen-translocating F-type ATPase activity	2
+22615881	molecular_function	obsolete sodium-translocating F-type ATPase activity	2
+22615881	organism	Larva	4
+22615881	organism	Bacillus thuringiensis	2
+22615881	organism	bacterium BE	1
+22615881	organism	Aedes aegypti	1
+22615881	organism	Leiostomus xanthurus	1
+22615881	organism	Culicidae	1
+22615881	sequence	polypeptide	5
+22615881	sequence	gene	2
+22615881	sequence	base	1
+22615881	organ/tissue	larval stage	4
+22615881	organ/tissue	larva	4
+22615881	organ/tissue	amphibian larval stage	4
+22615881	organ/tissue	melanophore spot	1
+22615881	clinical_drug	Adenosine Triphosphate	2

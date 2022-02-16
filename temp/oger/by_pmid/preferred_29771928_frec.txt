@@ -1,0 +1,63 @@
+29771928	biological_process	transcription, DNA-templated	5
+29771928	biological_process	biosynthetic process	1
+29771928	cellular_component	obsolete protein	1
+29771928	chemical	RNA polymerase sigma 70	2
+29771928	chemical	protein	1
+29771928	chemical	(protein)	1
+29771928	chemical	DNA-Directed RNA Polymerases	1
+29771928	gene/protein	Ferredoxin--NADP reductase	173
+29771928	gene/protein	RNA polymerase sigma factor RpoD	70
+29771928	gene/protein	cAMP-activated global transcriptional regulator CRP	56
+29771928	gene/protein	Cysteine and glycine-rich protein 1	35
+29771928	gene/protein	CRP-like cAMP-activated global transcriptional regulator	21
+29771928	gene/protein	C-reactive protein	14
+29771928	gene/protein	Large cysteine-rich periplasmic protein OmcB	14
+29771928	gene/protein	Dihydroflavonol 4-reductase	11
+29771928	gene/protein	C-reactive protein (rat)	7
+29771928	gene/protein	RNA silencing suppressor	7
+29771928	gene/protein	cysteine and glycine-rich protein 1	7
+29771928	gene/protein	LIM domain-containing protein E (Dictyostelium discoideum)	7
+29771928	gene/protein	C-reactive protein (mouse)	7
+29771928	gene/protein	Cyclic AMP receptor protein	7
+29771928	gene/protein	catabolite gene activator	7
+29771928	gene/protein	cyclin-dependent kinase 5 homolog (Dictyostelium discoideum)	7
+29771928	gene/protein	C-reactive protein (human)	7
+29771928	gene/protein	Submandibular gland secretory Glx-rich protein CB	7
+29771928	gene/protein	cAMP-activated global transcriptional regulator CRP (Escherichia coli K-12)	7
+29771928	gene/protein	drosomycin (fruit fly)	7
+29771928	gene/protein	cAMP-activated global transcriptional regulator CRP (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	7
+29771928	gene/protein	mediator of RNA polymerase II transcription subunit 12 (Arabidopsis thaliana)	7
+29771928	gene/protein	RNA polymerase sigma factor SigA	6
+29771928	gene/protein	Ferredoxin--NADP reductase, chloroplastic	6
+29771928	gene/protein	Flavodoxin/ferredoxin--NADP reductase	6
+29771928	gene/protein	Probable ferredoxin/ferredoxin--NADP reductase	4
+29771928	gene/protein	Ferredoxin--NADP reductase, root isozyme, chloroplastic	2
+29771928	gene/protein	Bifunctional dihydroflavonol 4-reductase/flavanone 4-reductase	2
+29771928	gene/protein	Ferredoxin--NADP reductase, leaf isozyme 1, chloroplastic	2
+29771928	gene/protein	protein	1
+29771928	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+29771928	gene/protein	ribonuclease I	1
+29771928	gene/protein	Ferredoxin--NADP reductase, leaf isozyme, chloroplastic	1
+29771928	gene/protein	Ferredoxin--NADP reductase, leaf-type isozyme, chloroplastic	1
+29771928	gene/protein	fumarate and nitrate reduction regulatory protein	1
+29771928	gene/protein	fumarate and nitrate reduction regulatory protein (Escherichia coli K-12)	1
+29771928	gene/protein	Ferredoxin--NADP reductase, cyanelle	1
+29771928	gene/protein	Ferredoxin--NADP reductase, root-type isozyme, chloroplastic	1
+29771928	gene/protein	Ferredoxin--NADP reductase, embryo isozyme, chloroplastic	1
+29771928	gene/protein	flavodoxin/ferredoxin--NADP reductase	1
+29771928	gene/protein	receptor for activated C kinase 1A (Arabidopsis thaliana)	1
+29771928	gene/protein	aerobic respiration control protein ArcA (Escherichia coli K-12)	1
+29771928	gene/protein	aerobic respiration control protein ArcA	1
+29771928	gene/protein	actin-related protein 2/3 complex subunit 1 (Dictyostelium discoideum)	1
+29771928	gene/protein	arginine deiminase (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+29771928	molecular_function	binding	1
+29771928	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+29771928	sequence	DNA_motif	4
+29771928	sequence	beta_strand	2
+29771928	sequence	polypeptide	1
+29771928	sequence	polypeptide_binding_motif	1
+29771928	sequence	non_covalent_binding_site	1
+29771928	sequence	TSS	1
+29771928	sequence	polypeptide_conserved_motif	1
+29771928	sequence	polypeptide_motif	1
+29771928	sequence	intermediate	1

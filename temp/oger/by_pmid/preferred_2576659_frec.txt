@@ -1,0 +1,44 @@
+2576659	chemical	Glutamine	8
+2576659	chemical	glutamine	4
+2576659	chemical	L-glutamine	4
+2576659	chemical	elemental carbon	2
+2576659	chemical	carbon atom	2
+2576659	chemical	Glutamate Dehydrogenase	2
+2576659	chemical	Ammonium Compounds	2
+2576659	chemical	nitrogen atom	1
+2576659	chemical	nitrogen(.)	1
+2576659	chemical	Glutamate-Ammonia Ligase	1
+2576659	chemical	ammonium	1
+2576659	chemical	Glutamate Synthase	1
+2576659	chemical	picloram	1
+2576659	gene/protein	Glutamine synthetase	122
+2576659	gene/protein	Glutamate dehydrogenase	48
+2576659	gene/protein	Glucose 1-dehydrogenase	9
+2576659	gene/protein	Glycerol dehydrogenase	6
+2576659	gene/protein	Glucarate dehydratase	4
+2576659	gene/protein	Glutamate dehydrogenase, mitochondrial	3
+2576659	gene/protein	Glycerate dehydrogenase	3
+2576659	gene/protein	Galactitol 2-dehydrogenase	2
+2576659	gene/protein	Probable glucarate dehydratase	2
+2576659	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	2
+2576659	gene/protein	Catabolic NAD-specific glutamate dehydrogenase RocG	2
+2576659	gene/protein	Glycerate dehydrogenase HPR, peroxisomal	1
+2576659	gene/protein	Pyranose dehydrogenase	1
+2576659	gene/protein	Probable glutamate dehydrogenase	1
+2576659	gene/protein	glucarate dehydratase	1
+2576659	gene/protein	GDH/6PGL endoplasmic bifunctional protein	1
+2576659	gene/protein	D-lactate dehydrogenase [cytochrome], mitochondrial (Arabidopsis thaliana)	1
+2576659	gene/protein	Glycerol dehydrogenase 1	1
+2576659	gene/protein	glutamate dehydrogenase, mitochondrial (fruit fly)	1
+2576659	gene/protein	GDH/6PGL endoplasmic bifunctional protein (human)	1
+2576659	gene/protein	glycerol dehydrogenase	1
+2576659	gene/protein	glutamine synthetase	1
+2576659	molecular_function	glucose-6-phosphate dehydrogenase activity	1
+2576659	organism	Neurospora crassa	2
+2576659	sequence	glutamine	5
+2576659	sequence	double	3
+2576659	organ/tissue	plantar part of pes	1
+2576659	organ/tissue	skeleton	1
+2576659	clinical_drug	Glutamine	5
+2576659	clinical_drug	Glutamate	3
+2576659	clinical_drug	Nitrogen	1

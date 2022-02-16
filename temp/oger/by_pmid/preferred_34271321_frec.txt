@@ -1,0 +1,57 @@
+34271321	biological_process	gene expression	1
+34271321	biological_process	larval development	1
+34271321	biological_process	mononuclear cell proliferation	1
+34271321	biological_process	immune response	1
+34271321	cellular_component	obsolete protein	3
+34271321	chemical	protein	6
+34271321	chemical	(protein)	3
+34271321	chemical	biological role	2
+34271321	chemical	Neurotransmitter Agents	2
+34271321	chemical	Interleukin-4	2
+34271321	chemical	peptide	1
+34271321	chemical	neurotransmitter	1
+34271321	gene/protein	Interleukin-4	25
+34271321	gene/protein	Minor spike protein	5
+34271321	gene/protein	Minor spike protein H	4
+34271321	gene/protein	Myosin-binding protein H	4
+34271321	gene/protein	protein STRUBBELIG (Arabidopsis thaliana)	3
+34271321	gene/protein	kinesin-like protein subito (fruit fly)	3
+34271321	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT (Escherichia coli K-12)	2
+34271321	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT	2
+34271321	gene/protein	CD4 molecule	2
+34271321	gene/protein	T-cell surface glycoprotein CD4 (mouse)	2
+34271321	gene/protein	T-cell surface glycoprotein CD4 (rat)	2
+34271321	gene/protein	T-cell surface glycoprotein CD4 (human)	2
+34271321	gene/protein	myosin-binding protein H	1
+34271321	gene/protein	proteolytic cleavage product	1
+34271321	gene/protein	amino acid chain	1
+34271321	gene/protein	interleukin-4 (rat)	1
+34271321	gene/protein	interleukin-4	1
+34271321	gene/protein	interleukin-4 (human)	1
+34271321	gene/protein	interleukin-4 (mouse)	1
+34271321	gene/protein	bifunctional protein FolD	1
+34271321	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+34271321	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+34271321	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+34271321	gene/protein	Movement protein TGB3	1
+34271321	gene/protein	70 kDa protein	1
+34271321	molecular_function	interleukin-4 receptor binding	1
+34271321	organism	Leiostomus xanthurus	2
+34271321	organism	Larva	1
+34271321	organism	Haemonchus	1
+34271321	sequence	polypeptide	3
+34271321	sequence	gene	2
+34271321	sequence	vertebrate_immune_system_gene	1
+34271321	sequence	active_peptide	1
+34271321	sequence	enzymatic	1
+34271321	cell	T cell	3
+34271321	cell	lymphocyte	1
+34271321	cell	peripheral blood mononuclear cell	1
+34271321	cell	mononuclear cell	1
+34271321	cell	leukocyte	1
+34271321	organ/tissue	melanophore spot	2
+34271321	organ/tissue	proliferative region	2
+34271321	organ/tissue	larval stage	1
+34271321	organ/tissue	larva	1
+34271321	organ/tissue	amphibian larval stage	1
+34271321	organ/tissue	hindlimb zeugopod	1

@@ -1,0 +1,13 @@
+7890737	biological_process	nodulation	2
+7890737	cellular_component	extracellular	1
+7890737	chemical	naringenin	4
+7890737	chemical	carbamate	3
+7890737	chemical	nodulation factor	1
+7890737	gene/protein	bean	6
+7890737	organism	Rhizobium etli	2
+7890737	organism	Phaseolus vulgari	1
+7890737	organism	Rhizobium	1
+7890737	organism	bear	1
+7890737	sequence	gene	1
+7890737	cell_line	bean	2
+7890737	organ/tissue	exudate	1

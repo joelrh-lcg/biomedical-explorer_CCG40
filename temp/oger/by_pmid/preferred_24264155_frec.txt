@@ -1,0 +1,27 @@
+24264155	biological_process	nodulation	2
+24264155	chemical	leghemoglobin	3
+24264155	chemical	Nitrogenase	2
+24264155	chemical	Glutamate-Ammonia Ligase	1
+24264155	disease	Infections	2
+24264155	gene/protein	Glutamine synthetase	122
+24264155	gene/protein	gelsolin (rat)	3
+24264155	gene/protein	gelsolin (chicken)	3
+24264155	gene/protein	gelsolin	3
+24264155	gene/protein	gelsolin (horse)	3
+24264155	gene/protein	gelsolin (mouse)	3
+24264155	gene/protein	gelsolin (human)	3
+24264155	gene/protein	glutamine synthetase	1
+24264155	gene/protein	glutathione reductase, mitochondrial (mouse)	1
+24264155	gene/protein	glutathione reductase, mitochondrial	1
+24264155	gene/protein	PTS system glucose-specific EIIA component (Escherichia coli K-12)	1
+24264155	gene/protein	glutathione reductase, mitochondrial (human)	1
+24264155	gene/protein	PTS system glucose-specific EIIA component	1
+24264155	gene/protein	glutathione reductase (Dictyostelium discoideum)	1
+24264155	organism	Rhizobium phaseoli	4
+24264155	organism	Phaseolus	1
+24264155	organism	Phaseolus vulgaris	1
+24264155	sequence	glutamine	1
+24264155	cell_line	Gsn-1	2
+24264155	organ/tissue	cerebellum vermis lobule X	3
+24264155	organ/tissue	germinal center	3
+24264155	clinical_drug	Glutamine	1

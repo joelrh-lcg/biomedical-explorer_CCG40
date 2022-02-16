@@ -1,0 +1,28 @@
+30977796	biological_process	secretion	2
+30977796	biological_process	symbiosis	1
+30977796	cellular_component	protein	1
+30977796	chemical	sss	2
+30977796	chemical	effector	2
+30977796	chemical	protein a	2
+30977796	chemical	type vi secretion system	1
+30977796	chemical	proteins	1
+30977796	chemical	hcp	1
+30977796	disease	hcp	1
+30977796	gene/protein	hcp	165
+30977796	gene/protein	protein a	11
+30977796	gene/protein	bean	6
+30977796	gene/protein	sss	4
+30977796	gene/protein	mim1	4
+30977796	gene/protein	dry	1
+30977796	organism	bacterium	28
+30977796	organism	Rhizobium etli	4
+30977796	organism	plasmid	1
+30977796	sequence	gene	3
+30977796	sequence	translocate	1
+30977796	sequence	plasmid	1
+30977796	sequence	protein	1
+30977796	cell	eukaryotic cell	1
+30977796	cell_line	bean	2
+30977796	organ/tissue	nodule	4
+30977796	organ/tissue	secretion	2
+30977796	organ/tissue	exudate	1

@@ -1,0 +1,37 @@
+32822422	biological_process	virulence	3
+32822422	biological_process	transcription	1
+32822422	biological_process	regulation of gene expression	1
+32822422	biological_process	regulation	1
+32822422	biological_process	phosphorylation	1
+32822422	biological_process	cellular aromatic compound metabolic process	1
+32822422	biological_process	response to drug	1
+32822422	cellular_component	transmembrane	2
+32822422	chemical	proteins	6
+32822422	chemical	antibiotic	3
+32822422	chemical	amino acid	2
+32822422	chemical	aromatic compound	1
+32822422	chemical	drug	1
+32822422	gene/protein	k12	9
+32822422	gene/protein	lysr	2
+32822422	gene/protein	marr	2
+32822422	molecular_function	transcription factor	1
+32822422	molecular_function	binding	1
+32822422	molecular_function	amino acid transmembrane transporter activity	1
+32822422	organism	bacterium	7
+32822422	organism	collection	4
+32822422	organism	bacillus subtilis	2
+32822422	organism	corynebacterium glutamicum	2
+32822422	organism	Streptomyces coelicolor	2
+32822422	organism	Escherichia coli k12	1
+32822422	organism	archaea	1
+32822422	sequence	gene	5
+32822422	sequence	genome	4
+32822422	sequence	binding	2
+32822422	sequence	sequence	1
+32822422	sequence	enzymatic	1
+32822422	sequence	amino acid	1
+32822422	sequence	transmembrane	1
+32822422	cell_line	k12	2
+32822422	organ/tissue	organism	2
+32822422	clinical_drug	bacillus subtilis	1
+32822422	entity_type	term	2

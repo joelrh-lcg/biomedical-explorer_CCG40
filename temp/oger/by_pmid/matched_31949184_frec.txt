@@ -1,0 +1,8 @@
+31949184	biological_process	gene expression	1
+31949184	disease	COPD	4
+31949184	disease	disease	4
+31949184	disease	chronic obstructive Pulmonary Disease	2
+31949184	disease	Idiopathic Pulmonary Fibrosis	2
+31949184	disease	IPF	2
+31949184	gene/protein	COPD	12
+31949184	sequence	gene	2

@@ -1,0 +1,29 @@
+29608946	biological_process	transport	1
+29608946	cellular_component	protein	1
+29608946	chemical	phytoestrogen	3
+29608946	chemical	glyceollin iii	3
+29608946	chemical	chrysophanol	3
+29608946	chemical	glyceollin I	3
+29608946	chemical	xenoestrogen	2
+29608946	chemical	proteins	2
+29608946	chemical	steroid	2
+29608946	chemical	protein	2
+29608946	chemical	betacarotene	2
+29608946	chemical	mycoestrogen	1
+29608946	chemical	ligand	1
+29608946	chemical	sex hormone	1
+29608946	chemical	drug	1
+29608946	disease	breast cancer	4
+29608946	disease	disease	4
+29608946	disease	malignancy	2
+29608946	gene/protein	Vina	1
+29608946	gene/protein	protein	1
+29608946	molecular_function	binding	1
+29608946	molecular_function	ligand	1
+29608946	sequence	binding site	2
+29608946	sequence	score	1
+29608946	sequence	protein	1
+29608946	sequence	scaffold	1
+29608946	organ/tissue	breast	2
+29608946	organ/tissue	plasma	1
+29608946	clinical_drug	betacarotene	1

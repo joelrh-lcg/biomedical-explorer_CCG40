@@ -1,0 +1,19 @@
+28438469	biological_process	symbiotic process	2
+28438469	biological_process	pathogenesis	2
+28438469	biological_process	biological regulation	1
+28438469	biological_process	conjugation	1
+28438469	cellular_component	host chromosome	1
+28438469	chemical	atom	2
+28438469	chemical	Anti-Bacterial Agents	2
+28438469	chemical	antimicrobial agent	1
+28438469	chemical	signalling molecule	1
+28438469	chemical	label	1
+28438469	organism	unidentified plasmid	3
+28438469	sequence	gene	3
+28438469	sequence	plasmid	3
+28438469	sequence	transit_peptide	1
+28438469	sequence	signal_peptide	1
+28438469	sequence	chromosome	1
+28438469	organ/tissue	organ	2
+28438469	organ/tissue	cell layer	1
+28438469	organ/tissue	nervous system cell part layer	1

@@ -1,0 +1,9 @@
+32535165	biological_process	gene expression	1
+32535165	gene/protein	k12	9
+32535165	organism	plasmid	7
+32535165	organism	Escherichia coli k12	1
+32535165	sequence	plasmid	7
+32535165	sequence	gene	3
+32535165	sequence	allele	2
+32535165	sequence	rescue	1
+32535165	cell_line	k12	2

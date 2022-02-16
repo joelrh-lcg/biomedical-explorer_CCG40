@@ -1,0 +1,23 @@
+20435760	biological_process	biofilm formation	1
+20435760	cellular_component	obsolete protein	1
+20435760	chemical	cluster	7
+20435760	chemical	N-acyl-L-homoserine lactone	4
+20435760	chemical	homoserine lactone	3
+20435760	chemical	protein	2
+20435760	chemical	L-homoserine lactone group	1
+20435760	chemical	homoserinium lactone	1
+20435760	chemical	exopolysaccharide	1
+20435760	chemical	(protein)	1
+20435760	gene/protein	PAP-specific phosphatase HAL2-like (Arabidopsis thaliana)	4
+20435760	gene/protein	SEC14 domain and spectrin repeat-containing protein 1 (zebrafish)	4
+20435760	gene/protein	Rho guanine nucleotide exchange factor 40 (mouse)	4
+20435760	gene/protein	Rho guanine nucleotide exchange factor 40 (human)	4
+20435760	gene/protein	SEC14 domain and spectrin repeat-containing protein 1	4
+20435760	gene/protein	Rho guanine nucleotide exchange factor 40	4
+20435760	gene/protein	SEC14 domain and spectrin repeat-containing protein 1 (human)	4
+20435760	gene/protein	protein	1
+20435760	organism	Burkholderia	3
+20435760	organism	Burkholderia glumae	2
+20435760	organism	Paraburkholderia kururiensis	2
+20435760	organism	Burkholderia cepacia complex	1
+20435760	sequence	polypeptide	1

@@ -1,0 +1,22 @@
+32461312	cellular_component	core	2
+32461312	cellular_component	cytoplasm	1
+32461312	chemical	antibiotic	3
+32461312	disease	secondary infection	2
+32461312	gene/protein	orf	8
+32461312	organism	bacterium	21
+32461312	organism	phage	17
+32461312	organism	strain ps	2
+32461312	organism	plasmid	1
+32461312	organism	prophage	1
+32461312	sequence	phage	17
+32461312	sequence	gene	6
+32461312	sequence	genome	4
+32461312	sequence	orf	4
+32461312	sequence	fragment	2
+32461312	sequence	homologous	1
+32461312	sequence	open reading frame	1
+32461312	sequence	construct	1
+32461312	sequence	plasmid	1
+32461312	sequence	translocation	1
+32461312	sequence	prophage	1
+32461312	sequence	orphan	1

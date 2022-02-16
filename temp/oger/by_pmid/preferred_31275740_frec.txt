@@ -1,0 +1,14 @@
+31275740	chemical	base	2
+31275740	chemical	RNA, Ribosomal, 16S	1
+31275740	disease	Disease	2
+31275740	disease	Skin Diseases, Bacterial	2
+31275740	organism	Amphibians	4
+31275740	sequence	base	2
+31275740	sequence	rRNA_16S	1
+31275740	sequence	rRNA_gene	1
+31275740	sequence	PCR_product	1
+31275740	organ/tissue	integument	7
+31275740	organ/tissue	zone of skin	7
+31275740	organ/tissue	skin epidermis	7
+31275740	organ/tissue	skin of body	7
+31275740	organ/tissue	scale	1

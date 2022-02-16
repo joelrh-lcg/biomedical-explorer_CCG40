@@ -1,0 +1,15 @@
+20472732	chemical	ethylene	5
+20472732	chemical	acetylene	3
+20472732	chemical	16s rrna	1
+20472732	gene/protein	nifh	1
+20472732	organism	Burkholderia phymatum	2
+20472732	organism	Phaseolus vulgari	1
+20472732	organism	Mimosa	1
+20472732	organism	Acacia	1
+20472732	organism	Prosopis	1
+20472732	sequence	16s rrna	1
+20472732	sequence	gene	1
+20472732	organ/tissue	nodule	4
+20472732	organ/tissue	planta	1
+20472732	clinical_drug	Acacia	1
+20472732	clinical_drug	ethylene	1

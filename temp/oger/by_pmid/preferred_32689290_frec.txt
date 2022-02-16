@@ -1,0 +1,23 @@
+32689290	biological_process	biological regulation	1
+32689290	biological_process	signal transduction	1
+32689290	chemical	Phosphorus	2
+32689290	chemical	phosphorus(.)	1
+32689290	chemical	phosphorus atom	1
+32689290	chemical	tetraphosphorus	1
+32689290	gene/protein	Protein BEAN1	6
+32689290	gene/protein	protein BEAN	3
+32689290	gene/protein	Luc7-like protein (Dictyostelium discoideum)	2
+32689290	organism	Fabaceae	3
+32689290	organism	Phaseolus	1
+32689290	organism	Humans	1
+32689290	organism	Arabidopsis thaliana	1
+32689290	organism	Arabidopsis	1
+32689290	sequence	gene	6
+32689290	sequence	EST	1
+32689290	sequence	contig	1
+32689290	sequence	candidate_gene	1
+32689290	sequence	transit_peptide	1
+32689290	sequence	signal_peptide	1
+32689290	cell_line	R1192	3
+32689290	organ/tissue	crop	2
+32689290	organ/tissue	tissue	1

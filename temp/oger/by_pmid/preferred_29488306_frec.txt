@@ -1,0 +1,49 @@
+29488306	biological_process	biofilm formation	2
+29488306	biological_process	behavior	2
+29488306	biological_process	import into cell	1
+29488306	biological_process	import across plasma membrane	1
+29488306	biological_process	nodulation	1
+29488306	chemical	tridecan-2-one	2
+29488306	chemical	2-tridecanone	2
+29488306	chemical	Ligases	1
+29488306	chemical	lipid	1
+29488306	chemical	insecticide	1
+29488306	chemical	iron atom	1
+29488306	disease	Disease	2
+29488306	gene/protein	L-tyrosine decarboxylase	20
+29488306	gene/protein	long-chain-fatty-acid--CoA ligase	3
+29488306	gene/protein	sn-2 acyl-lipid omega-3 desaturase (ferredoxin), chloroplastic (Arabidopsis thaliana)	3
+29488306	gene/protein	FAS-associated death domain protein (mouse)	3
+29488306	gene/protein	Fas-associated death domain protein (fruit fly)	3
+29488306	gene/protein	FAS-associated death domain protein (human)	3
+29488306	gene/protein	long-chain-fatty-acid--CoA ligase (Escherichia coli K-12)	3
+29488306	gene/protein	FAS-associated death domain protein	3
+29488306	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+29488306	gene/protein	N5-carboxyaminoimidazole ribonucleotide mutase (Brucella suis 1330)	1
+29488306	gene/protein	bifunctional purine synthesis protein purC/E (Dictyostelium discoideum)	1
+29488306	gene/protein	N5-carboxyaminoimidazole ribonucleotide mutase (Brucella melitensis bv. 1 str. 16M)	1
+29488306	gene/protein	N5-carboxyaminoimidazole ribonucleotide mutase (Escherichia coli K-12)	1
+29488306	gene/protein	N5-carboxyaminoimidazole ribonucleotide mutase	1
+29488306	molecular_function	ligase activity	1
+29488306	molecular_function	5-(carboxyamino)imidazole ribonucleotide mutase activity	1
+29488306	organism	bacterium IFAM-3211	2
+29488306	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+29488306	organism	bacterium IFAM-3215	2
+29488306	organism	bacterium IFAM-2074	2
+29488306	organism	bacterium IFAM-3359	2
+29488306	organism	bacterium	2
+29488306	organism	bacterium IFAM-1493	2
+29488306	organism	Sinorhizobium meliloti	2
+29488306	organism	Medicago sativa	2
+29488306	organism	Solanum lycopersicum	1
+29488306	organism	Lycopersicon esculentum	1
+29488306	sequence	transit_peptide	1
+29488306	sequence	signal_peptide	1
+29488306	sequence	translocation	1
+29488306	sequence	gene	1
+29488306	organ/tissue	animal hemisphere	1
+29488306	organ/tissue	multicellular organism	1
+29488306	organ/tissue	tissue	1
+29488306	clinical_drug	Iron	1
+29488306	clinical_drug	Medicago sativa whole extract	1
+29488306	clinical_drug	tomato allergenic extract	1

@@ -1,0 +1,9 @@
+19519856	gene/protein	alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase (Escherichia coli K-12)	1
+19519856	gene/protein	alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase	1
+19519856	organism	Enterobacter cloacae	2
+19519856	organism	unidentified plasmid	1
+19519856	sequence	transposable_element	1
+19519856	sequence	tandem	1
+19519856	sequence	plasmid	1
+19519856	organ/tissue	lateral lumbar region of abdomen	1
+19519856	clinical_drug	TANDEM	1

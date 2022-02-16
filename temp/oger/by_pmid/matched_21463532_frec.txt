@@ -1,0 +1,21 @@
+21463532	biological_process	pantothenate biosynthesis	2
+21463532	biological_process	metabolism	1
+21463532	cellular_component	chromosome	1
+21463532	cellular_component	core	1
+21463532	chemical	pantothenate	4
+21463532	chemical	cluster	1
+21463532	chemical	3methyl2oxobutanoate hydroxymethyltransferase	1
+21463532	gene/protein	3methyl2oxobutanoate hydroxymethyltransferase	546
+21463532	gene/protein	p42	8
+21463532	gene/protein	panc	4
+21463532	gene/protein	panb	4
+21463532	gene/protein	p42e	1
+21463532	organism	bacterium	7
+21463532	organism	plasmid	6
+21463532	organism	CFN42	1
+21463532	sequence	gene	7
+21463532	sequence	plasmid	6
+21463532	sequence	genome	4
+21463532	sequence	sequence	2
+21463532	sequence	chromosome	1
+21463532	clinical_drug	pantothenate	2

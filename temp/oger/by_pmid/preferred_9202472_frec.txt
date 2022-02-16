@@ -1,0 +1,48 @@
+9202472	biological_process	biological regulation	2
+9202472	chemical	Oxidoreductases	5
+9202472	chemical	acid	4
+9202472	chemical	glutaminate	2
+9202472	chemical	L-glutamine residue	2
+9202472	chemical	L-glutaminyl group	2
+9202472	chemical	N(2)-L-glutamino group	2
+9202472	chemical	Glutamate-Ammonia Ligase	2
+9202472	chemical	Glutamine	2
+9202472	chemical	Ammonium Compounds	2
+9202472	chemical	alpha-particle	1
+9202472	chemical	electron	1
+9202472	chemical	positron	1
+9202472	chemical	inhibitor	1
+9202472	chemical	glutamine	1
+9202472	chemical	L-glutamine	1
+9202472	chemical	alpha-amino acid	1
+9202472	chemical	amino acid	1
+9202472	chemical	ammonium	1
+9202472	chemical	nitrogen atom	1
+9202472	chemical	nitrogen(.)	1
+9202472	gene/protein	Glutamine synthetase	244
+9202472	gene/protein	glutamine synthetase (Schizosaccharomyces pombe 972h-)	2
+9202472	gene/protein	glutamine synthetase (yeast)	2
+9202472	gene/protein	glutamine synthetase	2
+9202472	gene/protein	probable hydrolase nit2 (Schizosaccharomyces pombe 972h-)	2
+9202472	gene/protein	omega-amidase NIT2 (rat)	2
+9202472	gene/protein	omega-amidase NIT2 (human)	2
+9202472	gene/protein	nitrilase homolog 2 (Dictyostelium discoideum)	2
+9202472	gene/protein	omega-amidase NIT2	2
+9202472	gene/protein	omega-amidase NIT2 (zebrafish)	2
+9202472	gene/protein	nitrilase 2 (Arabidopsis thaliana)	2
+9202472	gene/protein	Nitrogen catabolic enzyme regulatory protein	2
+9202472	gene/protein	deaminated glutathione amidase (yeast)	2
+9202472	gene/protein	omega-amidase NIT2 (mouse)	2
+9202472	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+9202472	molecular_function	glutamate-ammonia ligase activity	1
+9202472	organism	Neurospora crassa	2
+9202472	sequence	glutamine	5
+9202472	sequence	amino_acid	1
+9202472	sequence	sequence_variant_obs	1
+9202472	sequence	double	1
+9202472	cell_line	1BR3	2
+9202472	cell_line	GM12508	2
+9202472	cell_line	NIT-2	2
+9202472	organ/tissue	medial superior olivary nucleus	2
+9202472	clinical_drug	Glutamine	3
+9202472	clinical_drug	Nitrogen	1

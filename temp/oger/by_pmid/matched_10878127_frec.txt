@@ -1,0 +1,36 @@
+10878127	biological_process	symbiosis	2
+10878127	biological_process	metabolism	1
+10878127	biological_process	synthesis	1
+10878127	biological_process	transport	1
+10878127	chemical	glutamate	24
+10878127	chemical	ammonium	15
+10878127	chemical	nitrogen	6
+10878127	chemical	succinate	4
+10878127	chemical	amino acid	4
+10878127	chemical	glutamine	4
+10878127	chemical	tad	2
+10878127	chemical	pathway	2
+10878127	chemical	carbon	2
+10878127	chemical	glutamate synthase	1
+10878127	chemical	glutamine synthetase	1
+10878127	chemical	proteins	1
+10878127	gene/protein	glutamine synthetase	123
+10878127	gene/protein	gogat	10
+10878127	gene/protein	gltB	3
+10878127	gene/protein	gltb	3
+10878127	gene/protein	gltD	2
+10878127	gene/protein	gltd	2
+10878127	gene/protein	GOGAT	2
+10878127	molecular_function	gogat activity	4
+10878127	organism	Rhizobium etli	2
+10878127	organism	CFN42	1
+10878127	sequence	amino acid	2
+10878127	sequence	glutamine	2
+10878127	sequence	insertion	1
+10878127	sequence	fragment	1
+10878127	sequence	gene	1
+10878127	sequence	mutation	1
+10878127	cell_line	tn5	1
+10878127	clinical_drug	glutamate	5
+10878127	clinical_drug	nitrogen	3
+10878127	clinical_drug	glutamine	2

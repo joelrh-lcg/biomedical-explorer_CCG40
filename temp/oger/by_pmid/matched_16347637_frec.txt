@@ -1,0 +1,16 @@
+16347637	biological_process	nodulation	3
+16347637	biological_process	symbiosis	1
+16347637	chemical	nitrogenase	1
+16347637	gene/protein	spp	16
+16347637	gene/protein	Sym	4
+16347637	gene/protein	nif	2
+16347637	molecular_function	spp	1
+16347637	organism	Sym plasmid	4
+16347637	organism	Agrobacterium	2
+16347637	organism	Rhizobium	2
+16347637	organism	Phaseolus vulgaris	2
+16347637	organism	plasmid	1
+16347637	organism	legume	1
+16347637	sequence	plasmid	5
+16347637	sequence	gene	3
+16347637	organ/tissue	nodule	4

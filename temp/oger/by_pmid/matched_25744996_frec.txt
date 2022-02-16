@@ -1,0 +1,7 @@
+25744996	chemical	methyl	2
+25744996	disease	disease	2
+25744996	organism	bacterium	7
+25744996	organism	Burkholderia cenocepacia	2
+25744996	organism	human	1
+25744996	sequence	genome	1
+25744996	sequence	sequence	1

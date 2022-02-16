@@ -1,0 +1,29 @@
+2016896	biological_process	vesicle fusion	1
+2016896	cellular_component	membrane	2
+2016896	cellular_component	vesicle	1
+2016896	chemical	lipid	3
+2016896	chemical	phospholipid	2
+2016896	chemical	solvent	1
+2016896	chemical	base	1
+2016896	chemical	calcium(2+)	1
+2016896	gene/protein	Carbonic anhydrase 2	1
+2016896	gene/protein	beta carbonic anhydrase 2, chloroplastic (Arabidopsis thaliana)	1
+2016896	gene/protein	carbonic anhydrase 2 (rat)	1
+2016896	gene/protein	vertebrate-type carbonic anhydrase 2	1
+2016896	gene/protein	carbonic anhydrase 2 (human)	1
+2016896	gene/protein	carbonic anhydrase 2 (chicken)	1
+2016896	gene/protein	carbonic anhydrase 2 (mouse)	1
+2016896	gene/protein	carbonic anhydrase 2 (cow)	1
+2016896	molecular_function	binding	2
+2016896	molecular_function	obsolete vesicle fusion	1
+2016896	sequence	transition	4
+2016896	sequence	polypeptide_binding_motif	2
+2016896	sequence	non_covalent_binding_site	2
+2016896	sequence	base	1
+2016896	sequence	fusion	1
+2016896	cell_line	MSHRIe002-A	1
+2016896	organ/tissue	membrane organ	2
+2016896	organ/tissue	membranous layer	2
+2016896	organ/tissue	bodily fluid	1
+2016896	organ/tissue	CA2 field of hippocampus	1
+2016896	clinical_drug	Calcium Cation	1

@@ -1,0 +1,12 @@
+29844095	chemical	K(+)in	1
+29844095	chemical	Hepatocyte Nuclear Factor 1-alpha	1
+29844095	chemical	N-sulfonylurea	1
+29844095	chemical	N,N''-sulfonyldiurea	1
+29844095	disease	Diabetes Mellitus, Type 2	2
+29844095	disease	Maturity-Onset Diabetes of the Young, Type 3	2
+29844095	disease	Mason-Type Diabetes	1
+29844095	gene/protein	Hepatocyte nuclear factor 1-alpha	5
+29844095	gene/protein	hepatocyte nuclear factor 1-alpha	1
+29844095	sequence	natural_variant_site	1
+29844095	sequence	gene	1
+29844095	cell	hepatocyte	1

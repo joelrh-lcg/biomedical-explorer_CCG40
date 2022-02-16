@@ -1,0 +1,14 @@
+26316636	cellular_component	protein	1
+26316636	chemical	protein	2
+26316636	gene/protein	mex	6
+26316636	gene/protein	protein	1
+26316636	organism	bacterium	7
+26316636	organism	larva	3
+26316636	organism	bee	2
+26316636	organism	paenibacillus	1
+26316636	organism	Apis mellifera	1
+26316636	sequence	genome	1
+26316636	sequence	protein	1
+26316636	sequence	gene	1
+26316636	organ/tissue	larva	9
+26316636	clinical_drug	Apis mellifera	1

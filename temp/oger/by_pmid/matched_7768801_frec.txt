@@ -1,0 +1,30 @@
+7768801	biological_process	tca cycle	5
+7768801	biological_process	regulation	1
+7768801	biological_process	synthesis	1
+7768801	biological_process	metabolism	1
+7768801	biological_process	symbiosis	1
+7768801	chemical	carbon	6
+7768801	chemical	tca	5
+7768801	chemical	thiamine	5
+7768801	chemical	amino acid	4
+7768801	chemical	biotin	4
+7768801	chemical	organic acid	3
+7768801	chemical	ce 3	2
+7768801	chemical	phb	2
+7768801	chemical	tricarboxylic acid	1
+7768801	chemical	PHB	1
+7768801	gene/protein	phb	14
+7768801	gene/protein	PHB	7
+7768801	molecular_function	enzyme activity	1
+7768801	organism	bacterium	7
+7768801	organism	Rhizobium etli	2
+7768801	organism	Rhizobium meliloti	2
+7768801	organism	Rhizobium tropici	2
+7768801	organism	Rhizobium	2
+7768801	sequence	amino acid	2
+7768801	sequence	signal	2
+7768801	sequence	intermediate	1
+7768801	cell_line	tca	5
+7768801	cell_line	ce 3	2
+7768801	clinical_drug	biotin	1
+7768801	clinical_drug	thiamine	1

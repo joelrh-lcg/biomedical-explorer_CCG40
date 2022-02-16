@@ -1,0 +1,33 @@
+26111345	cellular_component	protein	1
+26111345	chemical	calcitriol	21
+26111345	chemical	vitamin d	12
+26111345	chemical	microrna	6
+26111345	chemical	Calcitriol	3
+26111345	chemical	vitamin d3	3
+26111345	chemical	protein	2
+26111345	chemical	element	2
+26111345	chemical	pathway	2
+26111345	chemical	retinoid x receptor	1
+26111345	disease	tumor	2
+26111345	disease	cervical cancer	2
+26111345	gene/protein	mir	39
+26111345	gene/protein	dicer	12
+26111345	gene/protein	Dicer	8
+26111345	gene/protein	Drosha	6
+26111345	gene/protein	add	3
+26111345	gene/protein	retinoid x receptor	2
+26111345	gene/protein	protein	1
+26111345	gene/protein	hela	1
+26111345	sequence	microrna	6
+26111345	sequence	response element	2
+26111345	sequence	promoter	2
+26111345	sequence	protein	1
+26111345	cell	tumor cell	1
+26111345	cell	cancer cell	1
+26111345	cell_line	siha	3
+26111345	cell_line	hela	1
+26111345	cell_line	c33a	1
+26111345	organ/tissue	element	2
+26111345	clinical_drug	calcitriol	7
+26111345	clinical_drug	vitamin d	4
+26111345	clinical_drug	Calcitriol	1

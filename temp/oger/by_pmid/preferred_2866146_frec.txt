@@ -1,0 +1,38 @@
+2866146	chemical	glutaminate	3
+2866146	chemical	L-glutamine residue	3
+2866146	chemical	L-glutaminyl group	3
+2866146	chemical	N(2)-L-glutamino group	3
+2866146	chemical	Glutamine	2
+2866146	chemical	glutamine	1
+2866146	chemical	L-glutamine	1
+2866146	chemical	Glutamate-Ammonia Ligase	1
+2866146	chemical	Complement System Proteins	1
+2866146	chemical	L-leucine	1
+2866146	chemical	L-leucine residue	1
+2866146	chemical	leucinate	1
+2866146	chemical	L-leucyl group	1
+2866146	chemical	L-leucino group	1
+2866146	chemical	leucine	1
+2866146	gene/protein	Glutamine synthetase	122
+2866146	gene/protein	glutamine synthetase	1
+2866146	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+2866146	gene/protein	extracellular adherence protein	1
+2866146	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+2866146	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+2866146	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+2866146	gene/protein	methionine aminopeptidase	1
+2866146	gene/protein	3-isopropylmalate dehydrogenase (yeast)	1
+2866146	gene/protein	3-isopropylmalate dehydratase (Schizosaccharomyces pombe 972h-)	1
+2866146	gene/protein	obsolete leukemia-associated protein 2	1
+2866146	organism	Saccharomyces cerevisiae	6
+2866146	organism	unidentified plasmid	2
+2866146	sequence	glutamine	5
+2866146	sequence	gene	3
+2866146	sequence	engineered_region	1
+2866146	sequence	plasmid_vector	1
+2866146	sequence	plasmid	1
+2866146	sequence	leucine	1
+2866146	sequence	clone	1
+2866146	clinical_drug	Glutamine	2
+2866146	clinical_drug	saccharomyces cerevisiae allergenic extract	1
+2866146	clinical_drug	Saccharomyces cerevisiae	1

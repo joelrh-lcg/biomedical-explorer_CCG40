@@ -1,0 +1,11 @@
+22408242	cellular_component	intracellular	1
+22408242	organism	bacterium	7
+22408242	organism	tiger	2
+22408242	organism	wolbachia	1
+22408242	organism	unknown	1
+22408242	organism	Wolbachia	1
+22408242	organism	mosquito	1
+22408242	organism	Aedes albopictus	1
+22408242	sequence	gain	1
+22408242	sequence	sequence	1
+22408242	sequence	genome	1

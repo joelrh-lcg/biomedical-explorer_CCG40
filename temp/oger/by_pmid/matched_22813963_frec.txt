@@ -1,0 +1,15 @@
+22813963	chemical	element	1
+22813963	organism	bacterium	7
+22813963	organism	plasmid	2
+22813963	organism	Rhizobium phaseoli	2
+22813963	organism	maize	2
+22813963	organism	Phaseolus vulgaris	2
+22813963	organism	Rhizobium	1
+22813963	organism	Sinorhizobium	1
+22813963	organism	Agrobacterium	1
+22813963	sequence	replicon	2
+22813963	sequence	plasmid	2
+22813963	sequence	mobile	1
+22813963	sequence	genome	1
+22813963	sequence	gene	1
+22813963	organ/tissue	element	1

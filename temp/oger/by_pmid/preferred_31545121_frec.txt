@@ -1,0 +1,7 @@
+31545121	chemical	antimicrobial agent	1
+31545121	disease	Infections	2
+31545121	gene/protein	Myb family transcription factor EFM (Arabidopsis thaliana)	3
+31545121	organism	collection	1
+31545121	sequence	region	2
+31545121	sequence	engineered_region	1
+31545121	cell_line	CC17	2

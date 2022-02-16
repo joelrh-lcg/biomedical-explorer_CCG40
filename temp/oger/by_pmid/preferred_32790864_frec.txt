@@ -1,0 +1,18 @@
+32790864	cellular_component	Y chromosome	2
+32790864	chemical	maleate(2-)	1
+32790864	gene/protein	mediator of RNA polymerase II transcription subunit 10 (zebrafish)	1
+32790864	gene/protein	bifunctional protein FolD	1
+32790864	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+32790864	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+32790864	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+32790864	organism	Eutheria	2
+32790864	organism	Primates	1
+32790864	sequence	gene	4
+32790864	sequence	chromosome	2
+32790864	sequence	region	1
+32790864	sequence	copy_number_gain	1
+32790864	organ/tissue	testis	1
+32790864	organ/tissue	tissue	1
+32790864	organ/tissue	male organism	1
+32790864	organ/tissue	female organism	1
+32790864	molecular_process	reduction	1

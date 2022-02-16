@@ -1,0 +1,13 @@
+27066241	biological_process	mutualism	3
+27066241	disease	susceptibility	4
+27066241	gene/protein	wasp	16
+27066241	organism	Drosophila	40
+27066241	organism	bacterium	28
+27066241	organism	wasp	4
+27066241	organism	Spiroplasma	4
+27066241	organism	aphids	1
+27066241	organism	spiroplasma	1
+27066241	organism	d melanogaster	1
+27066241	sequence	repeat	1
+27066241	sequence	gain	1
+27066241	organ/tissue	larval stage	1

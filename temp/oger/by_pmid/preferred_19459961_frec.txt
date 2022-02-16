@@ -1,0 +1,33 @@
+19459961	biological_process	trehalose biosynthetic process	2
+19459961	biological_process	drought recovery	1
+19459961	biological_process	obsolete drought tolerance	1
+19459961	biological_process	response to water deprivation	1
+19459961	chemical	Trehalose	10
+19459961	chemical	trehalose	5
+19459961	chemical	alpha,alpha-trehalose	5
+19459961	chemical	sulfoxaflor	4
+19459961	chemical	sodium chloride	1
+19459961	chemical	disaccharide	1
+19459961	gene/protein	Luc7-like protein (Dictyostelium discoideum)	2
+19459961	gene/protein	serine protease grass (fruit fly)	1
+19459961	organism	Zea mays	10
+19459961	organism	bacterium IFAM-3211	2
+19459961	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+19459961	organism	bacterium IFAM-3215	2
+19459961	organism	bacterium IFAM-2074	2
+19459961	organism	bacterium IFAM-3359	2
+19459961	organism	bacterium	2
+19459961	organism	bacterium IFAM-1493	2
+19459961	organism	Azospirillum brasilense	2
+19459961	organism	Saccharomyces cerevisiae	2
+19459961	organism	Azospirillum	1
+19459961	organism	unidentified plasmid	1
+19459961	organism	Winogradskyella lutea	1
+19459961	organism	Yeasts	1
+19459961	sequence	plasmid	1
+19459961	sequence	gene	1
+19459961	organ/tissue	crop	2
+19459961	clinical_drug	Trehalose	5
+19459961	clinical_drug	saccharomyces cerevisiae allergenic extract	1
+19459961	clinical_drug	Saccharomyces cerevisiae	1
+19459961	clinical_drug	Yeast, Unspecified	1

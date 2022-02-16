@@ -1,0 +1,34 @@
+26094112	biological_process	transcription, DNA-templated	1
+26094112	biological_process	biological regulation	1
+26094112	cellular_component	obsolete protein	1
+26094112	chemical	base	3
+26094112	chemical	protein	1
+26094112	chemical	(protein)	1
+26094112	gene/protein	Keratin, type I cytoskeletal 12	12
+26094112	gene/protein	secreted and transmembrane protein 1	3
+26094112	gene/protein	secreted and transmembrane protein 1 (human)	3
+26094112	gene/protein	secreted and transmembrane protein 1b	3
+26094112	gene/protein	keratin, type I cytoskeletal 12	3
+26094112	gene/protein	secreted and transmembrane protein 1b (mouse)	3
+26094112	gene/protein	mediator of RNA polymerase II transcription subunit 10 (zebrafish)	1
+26094112	gene/protein	protein	1
+26094112	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+26094112	organism	Escherichia coli K12	3
+26094112	organism	bacterium IFAM-3211	3
+26094112	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+26094112	organism	bacterium IFAM-3215	3
+26094112	organism	bacterium IFAM-2074	3
+26094112	organism	bacterium IFAM-3359	3
+26094112	organism	bacterium	3
+26094112	organism	bacterium IFAM-1493	3
+26094112	sequence	gene	4
+26094112	sequence	base	3
+26094112	sequence	polypeptide_domain	2
+26094112	sequence	region	1
+26094112	sequence	polypeptide	1
+26094112	sequence	regulon	1
+26094112	cell_line	K12 [Mouse osteosarcoma]	3
+26094112	cell_line	K12-72.1	3
+26094112	organ/tissue	scale	1
+26094112	organ/tissue	matrix compartment	1
+26094112	entity_type	preferred_term	2

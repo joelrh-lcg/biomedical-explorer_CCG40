@@ -1,0 +1,40 @@
+16167767	biological_process	symbiotic process	2
+16167767	biological_process	biosynthetic process	2
+16167767	cellular_component	membrane	4
+16167767	chemical	Diacylglyceryl-N,N,N-trimethylhomoserine	7
+16167767	chemical	Phosphorus	4
+16167767	chemical	lipid	4
+16167767	chemical	phosphatidylethanolamine	3
+16167767	chemical	Cardiolipins	2
+16167767	chemical	Phosphatidylcholines	2
+16167767	chemical	phospholipid	2
+16167767	chemical	phosphorus(.)	2
+16167767	chemical	phosphorus atom	2
+16167767	chemical	tetraphosphorus	2
+16167767	chemical	sulphoquinovosyl-diacylglycerol	2
+16167767	chemical	Phosphates	2
+16167767	chemical	phosphatidylglycerol	1
+16167767	chemical	1,2-diacyl-sn-glycero-3-phospho-(1'-sn-glycerol)	1
+16167767	chemical	cardiolipin	1
+16167767	chemical	(S)-1,2-distearoylphosphatidylethanolaminium	1
+16167767	chemical	phosphatidylcholine	1
+16167767	chemical	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	1
+16167767	chemical	1,2-diacyl-sn-glycero-3-phosphocholine	1
+16167767	chemical	phosphate	1
+16167767	chemical	phosphate)	1
+16167767	chemical	phosphate ion	1
+16167767	chemical	phosphate(3-)	1
+16167767	chemical	phosphoric acid	1
+16167767	chemical	hydrogenphosphate	1
+16167767	chemical	Culture Media	1
+16167767	organism	Medicago sativa	6
+16167767	organism	Sinorhizobium meliloti	2
+16167767	organism	Escherichia coli	2
+16167767	sequence	gene	2
+16167767	sequence	wild_type	1
+16167767	organ/tissue	membrane organ	4
+16167767	organ/tissue	membranous layer	4
+16167767	organ/tissue	cerebellum vermis lobule X	3
+16167767	organ/tissue	germinal center	3
+16167767	organ/tissue	multicellular organism	1
+16167767	clinical_drug	Medicago sativa whole extract	3

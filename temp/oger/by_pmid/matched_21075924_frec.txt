@@ -1,0 +1,36 @@
+21075924	biological_process	synthesis	1
+21075924	biological_process	cellular metabolism	1
+21075924	biological_process	gene expression	1
+21075924	biological_process	transcription	1
+21075924	biological_process	translation	1
+21075924	cellular_component	protein	3
+21075924	chemical	protein	6
+21075924	chemical	arginine	5
+21075924	chemical	amino acid	2
+21075924	chemical	lac	2
+21075924	chemical	complement	1
+21075924	gene/protein	argc	32
+21075924	gene/protein	protein	3
+21075924	gene/protein	speb	2
+21075924	gene/protein	lac	1
+21075924	molecular_function	argc	8
+21075924	molecular_function	speb	1
+21075924	organism	sinorhizobium meliloti	2
+21075924	organism	Rhizobium etli	2
+21075924	organism	Mesorhizobium loti	2
+21075924	organism	Escherichia coli	2
+21075924	organism	Agrobacterium	1
+21075924	organism	plasmid	1
+21075924	sequence	ortholog	5
+21075924	sequence	gene	5
+21075924	sequence	protein	3
+21075924	sequence	substitution	2
+21075924	sequence	promoter	2
+21075924	sequence	sequence	2
+21075924	sequence	arginine	1
+21075924	sequence	amino acid	1
+21075924	sequence	plasmid	1
+21075924	sequence	enzymatic	1
+21075924	sequence	signature	1
+21075924	sequence	orthologous	1
+21075924	clinical_drug	arginine	1

@@ -1,0 +1,35 @@
+25644116	biological_process	obsolete mutagenesis	1
+25644116	biological_process	heteroduplex formation	1
+25644116	cellular_component	obsolete protein	1
+25644116	chemical	nucleotide	3
+25644116	chemical	protein	1
+25644116	chemical	(protein)	1
+25644116	gene/protein	ribonuclease I (Escherichia coli K-12)	4
+25644116	gene/protein	ribonuclease I	4
+25644116	gene/protein	transcriptional repressor PifC (Escherichia coli K-12)	1
+25644116	gene/protein	Repressor c protein	1
+25644116	gene/protein	transcriptional repressor pifC	1
+25644116	gene/protein	Repressor protein c	1
+25644116	gene/protein	protein	1
+25644116	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+25644116	gene/protein	extracellular adherence protein	1
+25644116	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+25644116	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+25644116	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+25644116	gene/protein	methionine aminopeptidase	1
+25644116	gene/protein	armadillo segment polarity protein (fruit fly)	1
+25644116	gene/protein	mediator of RNA polymerase II transcription subunit 18 (fruit fly)	1
+25644116	organism	unidentified plasmid	9
+25644116	organism	Alphaproteobacteria	1
+25644116	sequence	plasmid	9
+25644116	sequence	intergenic_variant	1
+25644116	sequence	INR_motif	1
+25644116	sequence	polypeptide	1
+25644116	sequence	mutated_variant_site	1
+25644116	sequence	region	1
+25644116	sequence	sequence_variant_obs	1
+25644116	sequence	deletion	1
+25644116	sequence	gene	1
+25644116	cell_line	REPC	1
+25644116	organ/tissue	forelimb stylopod	1
+25644116	organ/tissue	arm	1

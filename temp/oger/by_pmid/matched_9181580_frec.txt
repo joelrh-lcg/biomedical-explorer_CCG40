@@ -1,0 +1,25 @@
+9181580	biological_process	nodule formation	2
+9181580	biological_process	plasmid recombination	1
+9181580	biological_process	dna amplification	1
+9181580	chemical	amplify	4
+9181580	chemical	antibiotic	3
+9181580	gene/protein	fit	2
+9181580	organism	bacterium	7
+9181580	organism	plasmid	3
+9181580	organism	Rhizobium tropici	2
+9181580	organism	Rhizobium	1
+9181580	organism	CFN299	1
+9181580	organism	legume	1
+9181580	organism	Macroptilium atropurpureum	1
+9181580	sequence	vector	4
+9181580	sequence	plasmid	3
+9181580	sequence	genome	2
+9181580	sequence	fragment	1
+9181580	sequence	clone	1
+9181580	sequence	homologous	1
+9181580	sequence	duplication	1
+9181580	sequence	direct repeat	1
+9181580	sequence	tandem duplication	1
+9181580	sequence	repeat	1
+9181580	organ/tissue	nodule	4
+9181580	clinical_drug	tandem	1

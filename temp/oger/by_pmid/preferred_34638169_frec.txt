@@ -1,0 +1,9 @@
+34638169	biological_process	nucleotide-excision repair	2
+34638169	chemical	nervonoyl group	2
+34638169	chemical	label	1
+34638169	disease	COVID-19	5
+34638169	gene/protein	Negative regulator of transcription	4
+34638169	gene/protein	oxysterols receptor LXR-beta	2
+34638169	gene/protein	oxysterols receptor LXR-beta (human)	2
+34638169	organism	Coronavirus	1
+34638169	sequence	copy_number_gain	1

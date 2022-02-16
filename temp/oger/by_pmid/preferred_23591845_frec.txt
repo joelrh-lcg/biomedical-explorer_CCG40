@@ -1,0 +1,54 @@
+23591845	biological_process	catabolic process	2
+23591845	biological_process	transcription, DNA-templated	1
+23591845	chemical	Phosphorus	2
+23591845	chemical	Phosphates	2
+23591845	chemical	picloram	2
+23591845	chemical	protein	2
+23591845	chemical	phosphorus(.)	1
+23591845	chemical	phosphorus atom	1
+23591845	chemical	tetraphosphorus	1
+23591845	chemical	phosphate	1
+23591845	chemical	phosphate)	1
+23591845	chemical	phosphate ion	1
+23591845	chemical	phosphate(3-)	1
+23591845	chemical	phosphoric acid	1
+23591845	chemical	hydrogenphosphate	1
+23591845	chemical	Ubiquitin	1
+23591845	chemical	ubiquitin	1
+23591845	chemical	gamma-Glutamyl Hydrolase	1
+23591845	chemical	5' Untranslated Regions	1
+23591845	chemical	base	1
+23591845	disease	Starvation	6
+23591845	gene/protein	Ubiquitin	10
+23591845	gene/protein	vacuolar protein sorting-associated protein 18 homolog (fruit fly)	6
+23591845	gene/protein	tumor protein p53-inducible nuclear protein 2	6
+23591845	gene/protein	F-box protein DOR (Arabidopsis thaliana)	6
+23591845	gene/protein	tumor protein p53-inducible nuclear protein 2 (mouse)	6
+23591845	gene/protein	tumor protein p53-inducible nuclear protein 2 (human)	6
+23591845	gene/protein	Gamma-glutamyl hydrolase	5
+23591845	gene/protein	Protein BEAN1	4
+23591845	gene/protein	protein BEAN	2
+23591845	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+23591845	gene/protein	ubiquitin	1
+23591845	gene/protein	Gamma-glutamyl hydrolase 2	1
+23591845	gene/protein	Probable gamma-glutamyl hydrolase 3	1
+23591845	gene/protein	Gamma-glutamyl hydrolase 1	1
+23591845	gene/protein	gamma-glutamyl hydrolase	1
+23591845	molecular_function	binding	3
+23591845	molecular_function	protein tag	1
+23591845	organism	Fabaceae	1
+23591845	organism	Phaseolus	1
+23591845	organism	Phaseolus vulgaris	1
+23591845	sequence	genotype	4
+23591845	sequence	chromosomal_deletion	3
+23591845	sequence	non_covalent_binding_site	3
+23591845	sequence	binding_site	2
+23591845	sequence	candidate_gene	1
+23591845	sequence	five_prime_UTR	1
+23591845	sequence	UTR_region	1
+23591845	sequence	region	1
+23591845	sequence	base	1
+23591845	sequence	score	1
+23591845	sequence	polypeptide_binding_motif	1
+23591845	cell_line	R1192	2
+23591845	organ/tissue	crop	1

@@ -1,0 +1,48 @@
+20367476	biological_process	response to flooding	4
+20367476	biological_process	biosynthetic process	3
+20367476	biological_process	signaling	1
+20367476	biological_process	symbiotic process	1
+20367476	chemical	nitrite	4
+20367476	chemical	N-acetylprocainamide	3
+20367476	chemical	Nitric Oxide	2
+20367476	chemical	Nitrite Reductases	2
+20367476	chemical	Nitrogenase	2
+20367476	chemical	nitric oxide	1
+20367476	chemical	signalling molecule	1
+20367476	chemical	Nitrate Reductase	1
+20367476	gene/protein	Periplasmic nitrate reductase	134
+20367476	gene/protein	Nitrite reductase	8
+20367476	gene/protein	copper-containing nitrite reductase (Sinorhizobium meliloti 1021)	5
+20367476	gene/protein	periplasmic nitrate reductase	4
+20367476	gene/protein	napsin-A	4
+20367476	gene/protein	Beta-catenin-like protein 1	4
+20367476	gene/protein	alpha-soluble NSF attachment protein (rat)	3
+20367476	gene/protein	periplasmic nitrate reductase (Sinorhizobium meliloti 1021)	3
+20367476	gene/protein	napsin-A (human)	3
+20367476	gene/protein	alpha-soluble NSF attachment protein (mouse)	3
+20367476	gene/protein	alpha-soluble NSF attachment protein	3
+20367476	gene/protein	periplasmic nitrate reductase (Escherichia coli K-12)	3
+20367476	gene/protein	Nck-associated protein 1 homolog (Dictyostelium discoideum)	3
+20367476	gene/protein	class B acid phosphatase	3
+20367476	gene/protein	alpha-soluble NSF attachment protein (human)	3
+20367476	gene/protein	class B acid phosphatase (Escherichia coli K-12)	3
+20367476	gene/protein	protein cueball (fruit fly)	1
+20367476	gene/protein	dosage compensation regulator (fruit fly)	1
+20367476	gene/protein	beta-catenin-like protein 1	1
+20367476	gene/protein	napsin-A (mouse)	1
+20367476	gene/protein	NAC transcription factor 29 (Arabidopsis thaliana)	1
+20367476	gene/protein	protein NAP1 (Arabidopsis thaliana)	1
+20367476	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+20367476	molecular_function	receptor ligand activity	1
+20367476	molecular_function	nitrogenase activity	1
+20367476	organism	Glycine max	3
+20367476	organism	Soybeans	3
+20367476	organism	Bradyrhizobium japonicum	2
+20367476	sequence	copy_number_gain	1
+20367476	sequence	fusion	1
+20367476	cell_line	NAP	1
+20367476	organ/tissue	cerebellum vermis lobule X	13
+20367476	organ/tissue	germinal center	13
+20367476	clinical_drug	Soybean preparation	3
+20367476	clinical_drug	Soybean	3
+20367476	clinical_drug	Nitric Oxide	1

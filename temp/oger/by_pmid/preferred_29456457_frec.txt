@@ -1,0 +1,6 @@
+29456457	chemical	protein	1
+29456457	disease	Carcinoma, Ovarian Epithelial	2
+29456457	disease	Ascites	2
+29456457	disease	Disease	2
+29456457	disease	Ovarian Neoplasms	2
+29456457	organ/tissue	ascitic fluid	1

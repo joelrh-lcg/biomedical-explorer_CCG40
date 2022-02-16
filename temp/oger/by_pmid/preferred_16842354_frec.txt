@@ -1,0 +1,37 @@
+16842354	biological_process	transposition	1
+16842354	biological_process	genetic transfer	1
+16842354	chemical	atom	4
+16842354	chemical	propylglyoxal bis(guanylhydrazone)	2
+16842354	disease	SCOLIOSIS, ISOLATED, SUSCEPTIBILITY TO, 3	1
+16842354	disease	SCOLIOSIS, ISOLATED, SUSCEPTIBILITY TO, 5	1
+16842354	gene/protein	Reticulon-4 receptor	4
+16842354	gene/protein	reticulon-4 receptor	1
+16842354	organism	unidentified insertion sequence	2
+16842354	organism	Rhizobium tropici	2
+16842354	organism	Sinorhizobium meliloti	2
+16842354	organism	bacterium IFAM-3211	1
+16842354	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+16842354	organism	bacterium IFAM-3215	1
+16842354	organism	bacterium IFAM-2074	1
+16842354	organism	bacterium IFAM-3359	1
+16842354	organism	bacterium	1
+16842354	organism	bacterium IFAM-1493	1
+16842354	organism	Fabaceae	1
+16842354	organism	unidentified	1
+16842354	organism	Rhizobium sp. IRc78	1
+16842354	organism	Rhizobium sp.	1
+16842354	organism	Rhizobium sp. SIN-1	1
+16842354	organism	Ensifer sp. BR816	1
+16842354	organism	Rhizobium sp. MPIK3030	1
+16842354	organism	Rhizobium sp. N33	1
+16842354	organism	Rhizobium	1
+16842354	sequence	genome	2
+16842354	sequence	insertion_sequence	2
+16842354	sequence	region	1
+16842354	sequence	chromosomal_transposition	1
+16842354	sequence	homologous_region	1
+16842354	sequence	mobile	1
+16842354	cell_line	Isreco-3	1
+16842354	organ/tissue	organ	4
+16842354	organ/tissue	cerebellum vermis lobule X	1
+16842354	organ/tissue	germinal center	1

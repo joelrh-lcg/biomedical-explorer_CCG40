@@ -1,0 +1,21 @@
+11770429	biological_process	localization	1
+11770429	biological_process	seed germination	1
+11770429	biological_process	cellular localization	1
+11770429	biological_process	seedling development	1
+11770429	cellular_component	soluble	1
+11770429	chemical	hemoglobin	3
+11770429	chemical	proteins	2
+11770429	chemical	aleurone	1
+11770429	chemical	element	1
+11770429	gene/protein	cap	6
+11770429	gene/protein	hemoglobin	4
+11770429	organism	rice	4
+11770429	organism	seedling	3
+11770429	organism	Oryza sativa	2
+11770429	sequence	signal	2
+11770429	sequence	cap	1
+11770429	cell	cap cell	1
+11770429	organ/tissue	tissue	2
+11770429	organ/tissue	embryo	1
+11770429	organ/tissue	element	1
+11770429	clinical_drug	rice	2

@@ -1,0 +1,11 @@
+3438252	biological_process	Agglutination	2
+3438252	chemical	carbohydrate	3
+3438252	chemical	magnesium	3
+3438252	chemical	calcium ion	2
+3438252	gene/protein	lectin	76
+3438252	molecular_function	lectin	2
+3438252	organism	Phaseolus acutifolius	2
+3438252	organism	human	1
+3438252	organ/tissue	animal	2
+3438252	clinical_drug	magnesium	1
+3438252	clinical_drug	calcium ion	1

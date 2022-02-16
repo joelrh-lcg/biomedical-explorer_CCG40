@@ -1,0 +1,26 @@
+31143531	biological_process	degradation	2
+31143531	biological_process	protein degradation	1
+31143531	cellular_component	protein	4
+31143531	cellular_component	proteasome	1
+31143531	chemical	protein	8
+31143531	chemical	abate	3
+31143531	chemical	mg132	3
+31143531	chemical	proteasome inhibitor	3
+31143531	chemical	intrinsically disordered proteins	1
+31143531	gene/protein	GUS	35
+31143531	gene/protein	tag	5
+31143531	gene/protein	gus	5
+31143531	gene/protein	protein	4
+31143531	molecular_function	proteasome	1
+31143531	organism	tobacco	2
+31143531	organism	Arabidopsis	1
+31143531	sequence	sequence	8
+31143531	sequence	protein	4
+31143531	sequence	signal	4
+31143531	sequence	fusion	3
+31143531	sequence	fragment	2
+31143531	sequence	motif	2
+31143531	sequence	tag	1
+31143531	sequence	transgenic	1
+31143531	sequence	point mutation	1
+31143531	molecular_process	reduction	1

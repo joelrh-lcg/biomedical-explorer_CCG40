@@ -1,0 +1,28 @@
+10972799	biological_process	biosynthetic process	4
+10972799	biological_process	methylation	3
+10972799	chemical	picloram	6
+10972799	chemical	Choline	6
+10972799	chemical	Phosphatidylcholines	4
+10972799	chemical	choline	3
+10972799	chemical	phosphatidylcholine	2
+10972799	chemical	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	2
+10972799	chemical	1,2-diacyl-sn-glycero-3-phosphocholine	2
+10972799	chemical	Complement System Proteins	2
+10972799	chemical	phosphatidyldimethylethanolamine	2
+10972799	chemical	phospholipid	1
+10972799	gene/protein	Phosphatidylcholine synthase	10
+10972799	gene/protein	Dermonecrotic toxin	4
+10972799	gene/protein	mitochondrial oxaloacetate transport protein (yeast)	4
+10972799	gene/protein	phosphatidylcholine synthase	1
+10972799	molecular_function	phenol O-methyltransferase activity	4
+10972799	organism	Sinorhizobium meliloti	2
+10972799	organism	Sinorhizobium	1
+10972799	organism	Rhodobacter	1
+10972799	organism	Melilotus	1
+10972799	sequence	gene	2
+10972799	sequence	region	1
+10972799	sequence	intermediate	1
+10972799	sequence	wild_type	1
+10972799	sequence	double	1
+10972799	clinical_drug	Choline	3
+10972799	molecular_process	methylation	3

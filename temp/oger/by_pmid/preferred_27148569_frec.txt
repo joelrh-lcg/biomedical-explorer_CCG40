@@ -1,0 +1,35 @@
+27148569	chemical	Codon, Nonsense	1
+27148569	disease	Autism Spectrum Disorder	1
+27148569	disease	Developmental Disabilities	1
+27148569	disease	Autistic Disorder	1
+27148569	gene/protein	Bifunctional aspartate aminotransferase and L-aspartate beta-decarboxylase	4
+27148569	gene/protein	aldose sugar dehydrogenase YliI	2
+27148569	gene/protein	aspartate-semialdehyde dehydrogenase	2
+27148569	gene/protein	arylsulfatase D	2
+27148569	gene/protein	AAA-ATPase ASD, mitochondrial (Arabidopsis thaliana)	2
+27148569	gene/protein	Aldose sugar dehydrogenase YliI	2
+27148569	gene/protein	aspartate-semialdehyde dehydrogenase (Escherichia coli K-12)	2
+27148569	gene/protein	Arylsulfatase D	2
+27148569	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+27148569	gene/protein	protein IMPACT (zebrafish)	1
+27148569	gene/protein	Myb-binding protein 1A	1
+27148569	gene/protein	Myb-binding protein 1A (fruit fly)	1
+27148569	gene/protein	Myb-binding protein 1A (mouse)	1
+27148569	gene/protein	Myb-binding protein 1A (rat)	1
+27148569	gene/protein	Myb-binding protein 1A (human)	1
+27148569	gene/protein	Myb-binding protein 1A-like protein (zebrafish)	1
+27148569	gene/protein	UTP--glucose-1-phosphate uridylyltransferase (Sinorhizobium meliloti 1021)	1
+27148569	gene/protein	laminin subunit beta-3	1
+27148569	gene/protein	laminin subunit beta-3 (mouse)	1
+27148569	gene/protein	laminin subunit beta-3 (human)	1
+27148569	organism	Cucumber necrosis virus	1
+27148569	sequence	natural_variant_site	2
+27148569	sequence	5KB_downstream_variant	2
+27148569	sequence	genome	1
+27148569	sequence	rare_variant	1
+27148569	sequence	copy_number_variation	1
+27148569	sequence	stop_gained	1
+27148569	sequence	sequence_variant_obs	1
+27148569	sequence	exon	1
+27148569	sequence	missense_variant	1
+27148569	organ/tissue	lobule simplex	1

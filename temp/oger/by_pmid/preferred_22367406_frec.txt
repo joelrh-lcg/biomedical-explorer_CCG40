@@ -1,0 +1,23 @@
+22367406	biological_process	sensitization	1
+22367406	cellular_component	B cell receptor complex	1
+22367406	cellular_component	immunoglobulin complex, circulating	1
+22367406	cellular_component	immunoglobulin complex	1
+22367406	cellular_component	chromosome	1
+22367406	disease	Disease	8
+22367406	gene/protein	blood group Rh(D) polypeptide (rat)	9
+22367406	gene/protein	blood group Rh(D) polypeptide (human)	9
+22367406	gene/protein	blood group Rh(D) polypeptide (mouse)	9
+22367406	gene/protein	blood group Rh(D) polypeptide	9
+22367406	gene/protein	blood group Rh(CE) polypeptide (human)	4
+22367406	gene/protein	blood group Rh(CE) polypeptide	4
+22367406	gene/protein	adipocyte plasma membrane-associated protein (human)	1
+22367406	molecular_function	antigen binding	1
+22367406	organism	Humans	2
+22367406	organism	unidentified	2
+22367406	sequence	deletion	5
+22367406	sequence	natural_variant_site	3
+22367406	sequence	gene	3
+22367406	sequence	allele	3
+22367406	sequence	intermediate	1
+22367406	sequence	chromosome	1
+22367406	sequence	haplotype	1

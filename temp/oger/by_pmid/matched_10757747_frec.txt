@@ -1,0 +1,23 @@
+10757747	biological_process	recombinational repair	1
+10757747	biological_process	formation	1
+10757747	biological_process	homologous recombination	1
+10757747	cellular_component	RER	5
+10757747	cellular_component	replication fork	1
+10757747	cellular_component	chromosome	1
+10757747	chemical	nitrogenase	1
+10757747	gene/protein	RER	15
+10757747	gene/protein	reca	14
+10757747	gene/protein	fold	4
+10757747	gene/protein	span	1
+10757747	organism	plasmid	2
+10757747	organism	Rhizobium etli	2
+10757747	organism	Escherichia coli	2
+10757747	sequence	homologous	2
+10757747	sequence	plasmid	2
+10757747	sequence	deletion	2
+10757747	sequence	operon	1
+10757747	sequence	repeat	1
+10757747	sequence	allele	1
+10757747	sequence	chromosome	1
+10757747	cell_line	reca	1
+10757747	organ/tissue	organism	1

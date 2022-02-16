@@ -1,0 +1,18 @@
+24387000	biological_process	symbiosis	3
+24387000	biological_process	nodule development	1
+24387000	biological_process	ammonia transport	1
+24387000	biological_process	phosphate transport	1
+24387000	cellular_component	arbuscule	1
+24387000	chemical	phosphate	8
+24387000	chemical	nitrate	7
+24387000	chemical	ammonia	3
+24387000	chemical	nitrogenase	1
+24387000	gene/protein	bean	3
+24387000	gene/protein	span	1
+24387000	molecular_function	nitrogenase activity	1
+24387000	organism	Phaseolus vulgaris	2
+24387000	organism	mycorrhiza	1
+24387000	cell_line	bean	1
+24387000	organ/tissue	nodule	8
+24387000	organ/tissue	Glomus	1
+24387000	clinical_drug	ammonia	1

@@ -1,0 +1,18 @@
+32916332	biological_process	export across plasma membrane	1
+32916332	biological_process	export from cell	1
+32916332	cellular_component	efflux pump complex	1
+32916332	chemical	Anti-Bacterial Agents	4
+32916332	chemical	antimicrobial agent	2
+32916332	gene/protein	Streptopain	7
+32916332	gene/protein	minor histocompatibility antigen H13	1
+32916332	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+32916332	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+32916332	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+32916332	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+32916332	gene/protein	minor histocompatibility antigen H13 (human)	1
+32916332	gene/protein	sphingosine-1-phosphate phosphatase	1
+32916332	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+32916332	gene/protein	SD07518p (fruit fly)	1
+32916332	molecular_function	obsolete signal peptide peptidase activity	1
+32916332	organism	Acinetobacter	1
+32916332	sequence	gene	1

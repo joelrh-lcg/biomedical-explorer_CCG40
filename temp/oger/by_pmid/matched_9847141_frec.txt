@@ -1,0 +1,11 @@
+9847141	biological_process	regulation	2
+9847141	organism	Escherichia coli	2
+9847141	organism	collection	1
+9847141	sequence	operon	5
+9847141	sequence	regulon	1
+9847141	sequence	genome	1
+9847141	sequence	sequence	1
+9847141	sequence	promoter	1
+9847141	sequence	gene	1
+9847141	organ/tissue	web	2
+9847141	entity_type	term	2

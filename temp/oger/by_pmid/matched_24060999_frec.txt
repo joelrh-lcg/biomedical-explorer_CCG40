@@ -1,0 +1,24 @@
+24060999	cellular_component	protein	2
+24060999	cellular_component	vimentin	2
+24060999	chemical	protein	4
+24060999	chemical	microrna	4
+24060999	chemical	proteins	3
+24060999	chemical	vimentin	2
+24060999	chemical	mirna	1
+24060999	chemical	calreticulin	1
+24060999	chemical	biomarker	1
+24060999	disease	astrocytoma	6
+24060999	disease	tumor	4
+24060999	disease	nervous system tumor	2
+24060999	disease	neoplasm	2
+24060999	gene/protein	calreticulin	31
+24060999	gene/protein	vimentin	15
+24060999	gene/protein	pcr	8
+24060999	gene/protein	hub	7
+24060999	gene/protein	protein	2
+24060999	sequence	microrna	4
+24060999	sequence	protein	2
+24060999	sequence	mirna	1
+24060999	cell_line	rt2	1
+24060999	organ/tissue	central nervous system	1
+24060999	organ/tissue	adult	1

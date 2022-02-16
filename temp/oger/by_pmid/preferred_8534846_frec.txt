@@ -1,0 +1,28 @@
+8534846	biological_process	biosynthetic process	1
+8534846	cellular_component	root hair	1
+8534846	chemical	lipo-chitin oligosaccharide	3
+8534846	chemical	oligosaccharide	2
+8534846	chemical	Chitin	2
+8534846	chemical	N-acetyl-D-glucosamine	2
+8534846	chemical	N(2)-acetylglutamine	2
+8534846	chemical	sulfate	1
+8534846	chemical	chitin	1
+8534846	chemical	oligomer	1
+8534846	gene/protein	progonadoliberin-1 (human)	3
+8534846	gene/protein	protein grainyhead (fruit fly)	3
+8534846	gene/protein	progonadoliberin-1	3
+8534846	organism	Acacia saligna	2
+8534846	organism	Phaseolus	2
+8534846	organism	Rhizobium	1
+8534846	organism	Fabaceae	1
+8534846	organism	Trifolium	1
+8534846	organism	Rhizobium sp. GRH2	1
+8534846	organism	Ursus sp.	1
+8534846	sequence	mature_protein_region	2
+8534846	sequence	allele	1
+8534846	organ/tissue	cerebellum vermis lobule X	2
+8534846	organ/tissue	germinal center	2
+8534846	organ/tissue	primordium	2
+8534846	organ/tissue	vertebral column	1
+8534846	organ/tissue	strand of hair	1
+8534846	clinical_drug	Acacia	2

@@ -1,0 +1,64 @@
+23771622	biological_process	nitrogen fixation	1
+23771622	biological_process	symbiotic process	1
+23771622	chemical	nitrogen atom	2
+23771622	chemical	nitrogen(.)	2
+23771622	gene/protein	Protein BEAN1	4
+23771622	gene/protein	Transcription factor Spi-C	4
+23771622	gene/protein	transcription factor Spi-C	4
+23771622	gene/protein	protein BEAN	2
+23771622	gene/protein	Luc7-like protein (Dictyostelium discoideum)	2
+23771622	gene/protein	protein RecA (Brucella abortus bv. 1 str. 9-941)	1
+23771622	gene/protein	protein RecA (Mycobacterium tuberculosis H37Rv)	1
+23771622	gene/protein	DNA repair protein RAD51 homolog 1 (mouse)	1
+23771622	gene/protein	protein RecA	1
+23771622	gene/protein	DNA repair protein RAD51 homolog 1	1
+23771622	gene/protein	protein RecA (Brucella suis 1330)	1
+23771622	gene/protein	mitochondrial DNA repair protein recA homolog (Dictyostelium discoideum)	1
+23771622	gene/protein	protein RecA (Escherichia coli K-12)	1
+23771622	gene/protein	protein RecA (Brucella canis ATCC 23365)	1
+23771622	gene/protein	DNA repair protein RAD51 homolog 1 (human)	1
+23771622	gene/protein	protein RecA (Brucella suis ATCC 23445)	1
+23771622	gene/protein	protein RecA (Brucella melitensis ATCC 23457)	1
+23771622	gene/protein	DNA repair protein recA homolog 1, chloroplastic (Arabidopsis thaliana)	1
+23771622	gene/protein	protein RecA (Brucella abortus 2308)	1
+23771622	gene/protein	ATP synthase subunit delta, chloroplastic (Arabidopsis thaliana)	1
+23771622	gene/protein	ATP synthase subunit beta (Aeromonas hydrophila subsp. hydrophila ATCC 7966)	1
+23771622	gene/protein	ATP synthase subunit beta (Clostridium botulinum A str. Hall)	1
+23771622	gene/protein	ATP synthase subunit beta (Mycobacterium tuberculosis H37Rv)	1
+23771622	gene/protein	ATP synthase subunit beta	1
+23771622	gene/protein	ATP synthase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+23771622	gene/protein	ATP synthase subunit beta (Escherichia coli K-12)	1
+23771622	gene/protein	ATP synthase subunit beta (Leptospira interrogans serovar Lai str. 56601)	1
+23771622	gene/protein	DNA-directed RNA polymerase subunit beta (Thermus thermophilus HB8)	1
+23771622	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis ATCC 23445)	1
+23771622	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus 2308)	1
+23771622	gene/protein	DNA-directed RNA polymerase subunit beta (Escherichia coli K-12)	1
+23771622	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella canis ATCC 23365)	1
+23771622	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella ovis ATCC 25840)	1
+23771622	gene/protein	DNA-directed RNA polymerase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+23771622	gene/protein	DNA-directed RNA polymerase subunit beta (Peptoclostridium difficile 630)	1
+23771622	gene/protein	DNA-directed RNA polymerase subunit beta (Clostridium botulinum A str. Hall)	1
+23771622	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella melitensis ATCC 23457)	1
+23771622	gene/protein	DNA-directed RNA polymerase subunit beta	1
+23771622	gene/protein	DNA-directed RNA polymerase subunit beta (Arabidopsis thaliana)	1
+23771622	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis 1330)	1
+23771622	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus bv. 1 str. 9-941)	1
+23771622	gene/protein	cardiolipin synthase A	1
+23771622	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+23771622	organism	Rhizobium freirei	5
+23771622	organism	Phaseolus	2
+23771622	organism	Rhizobium	2
+23771622	organism	Rhizobium tropici	2
+23771622	organism	Phaseolus vulgaris	1
+23771622	organism	Leucaena leucocephala	1
+23771622	organism	Leucaena esculenta	1
+23771622	organism	Crotalaria juncea	1
+23771622	organism	Macroptilium atropurpureum	1
+23771622	sequence	gene	1
+23771622	cell_line	CE81T/VGH	5
+23771622	cell_line	R1192	2
+23771622	cell_line	RECA	1
+23771622	organ/tissue	crop	2
+23771622	organ/tissue	cerebellum vermis lobule X	1
+23771622	organ/tissue	germinal center	1
+23771622	clinical_drug	Nitrogen	2

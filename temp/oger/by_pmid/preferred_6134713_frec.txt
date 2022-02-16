@@ -1,0 +1,44 @@
+6134713	biological_process	catabolic process	1
+6134713	biological_process	arginine biosynthetic process	1
+6134713	cellular_component	obsolete soluble fraction	1
+6134713	cellular_component	vesicle	1
+6134713	chemical	Glutamine	16
+6134713	chemical	Arginine	8
+6134713	chemical	glutamine	8
+6134713	chemical	L-glutamine	8
+6134713	chemical	L-arginine	4
+6134713	chemical	argininium(1+)	4
+6134713	chemical	arginine	4
+6134713	chemical	Ammonium Compounds	4
+6134713	chemical	nitrogen atom	3
+6134713	chemical	nitrogen(.)	3
+6134713	chemical	Glutamate-Ammonia Ligase	3
+6134713	chemical	ammonium	2
+6134713	chemical	Glutamic Acid	2
+6134713	chemical	Arginase	2
+6134713	chemical	alpha-amino acid	2
+6134713	chemical	amino acid	2
+6134713	chemical	L-glutamic acid	1
+6134713	chemical	glutamic acid	1
+6134713	chemical	glutaminate	1
+6134713	chemical	L-glutamine residue	1
+6134713	chemical	L-glutaminyl group	1
+6134713	chemical	N(2)-L-glutamino group	1
+6134713	gene/protein	Glutamine synthetase	366
+6134713	gene/protein	Arginase	46
+6134713	gene/protein	glutamine synthetase	3
+6134713	gene/protein	sensory histidine kinase/phosphatase NtrB (Escherichia coli K-12)	2
+6134713	gene/protein	HTH-type transcriptional regulator GlnR (Bacillus cereus ATCC 14579)	2
+6134713	gene/protein	sensory histidine kinase/phosphatase NtrB	2
+6134713	organism	Neurospora crassa	2
+6134713	sequence	glutamine	12
+6134713	sequence	arginine	4
+6134713	sequence	amino_acid	2
+6134713	sequence	glutamic_acid	1
+6134713	sequence	wild_type	1
+6134713	sequence	transit_peptide	1
+6134713	sequence	signal_peptide	1
+6134713	clinical_drug	Glutamine	11
+6134713	clinical_drug	Arginine	4
+6134713	clinical_drug	Nitrogen	3
+6134713	clinical_drug	Glutamic Acid	1

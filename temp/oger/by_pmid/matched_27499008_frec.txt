@@ -1,0 +1,18 @@
+27499008	chemical	lipopolysaccharide	2
+27499008	chemical	acid	1
+27499008	chemical	16s rrna	1
+27499008	gene/protein	nov	2
+27499008	organism	strain lpu83	2
+27499008	organism	Rhizobium	2
+27499008	organism	alfalfa	2
+27499008	organism	Rhizobium favelukesii	2
+27499008	organism	plasmid	1
+27499008	organism	rhizobium	1
+27499008	organism	cect 9014	1
+27499008	sequence	sequence	2
+27499008	sequence	plasmid	1
+27499008	sequence	16s rrna	1
+27499008	sequence	rrna gene	1
+27499008	organ/tissue	nodule	2
+27499008	organ/tissue	fingerprint	1
+27499008	clinical_drug	alfalfa	1

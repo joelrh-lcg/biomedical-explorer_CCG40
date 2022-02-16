@@ -1,0 +1,23 @@
+2866224	biological_process	tricarboxylic acid cycle	1
+2866224	cellular_component	intracellular	1
+2866224	chemical	2oxoglutarate	9
+2866224	chemical	glutamate	6
+2866224	chemical	nitrogen	2
+2866224	chemical	aconitase	1
+2866224	chemical	glutamate dehydrogenase	1
+2866224	chemical	glutamine synthetase	1
+2866224	chemical	tricarboxylic acid	1
+2866224	gene/protein	gdh	220
+2866224	gene/protein	glutamine synthetase	123
+2866224	gene/protein	aconitase	75
+2866224	gene/protein	glutamate dehydrogenase	17
+2866224	gene/protein	lack	2
+2866224	molecular_function	gdh	4
+2866224	organism	Saccharomyces cerevisiae	2
+2866224	sequence	glutamine	1
+2866224	sequence	intermediate	1
+2866224	organ/tissue	sole	1
+2866224	clinical_drug	Saccharomyces cerevisiae	2
+2866224	clinical_drug	glutamate	2
+2866224	clinical_drug	glutamine	1
+2866224	clinical_drug	nitrogen	1

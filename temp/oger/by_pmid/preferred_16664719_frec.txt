@@ -1,0 +1,18 @@
+16664719	biological_process	root development	1
+16664719	chemical	polypeptide	5
+16664719	chemical	alpha-particle	2
+16664719	chemical	electron	2
+16664719	chemical	positron	2
+16664719	chemical	Glutamate-Ammonia Ligase	1
+16664719	gene/protein	Glutamine synthetase	122
+16664719	gene/protein	proteolytic cleavage product	5
+16664719	gene/protein	amino acid chain	5
+16664719	gene/protein	glutamine synthetase	1
+16664719	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+16664719	gene/protein	ribonuclease I	1
+16664719	organism	Phaseolus	2
+16664719	organism	Phaseolus vulgaris	1
+16664719	sequence	polypeptide	5
+16664719	sequence	glutamine	1
+16664719	organ/tissue	embryo	1
+16664719	clinical_drug	Glutamine	1

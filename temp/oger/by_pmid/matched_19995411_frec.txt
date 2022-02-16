@@ -1,0 +1,5 @@
+19995411	biological_process	transcription	2
+19995411	cellular_component	chromosome	1
+19995411	chemical	bacterial dna	1
+19995411	sequence	chromosome	1
+19995411	sequence	gene	1

@@ -1,0 +1,28 @@
+25739700	biological_process	nodulation	4
+25739700	biological_process	symbiosis	3
+25739700	biological_process	nitrogen fixation	2
+25739700	biological_process	transcription	1
+25739700	biological_process	nodule development	1
+25739700	biological_process	senescence	1
+25739700	cellular_component	ap2	1
+25739700	chemical	nitrogen	4
+25739700	chemical	microrna	3
+25739700	chemical	2 ap	1
+25739700	chemical	ap2 transcription factor	1
+25739700	chemical	nitrate	1
+25739700	disease	infection	4
+25739700	gene/protein	mir	130
+25739700	gene/protein	bean	12
+25739700	gene/protein	ap2 transcription factor	6
+25739700	molecular_function	transcription factor	1
+25739700	organism	Phaseolus	1
+25739700	organism	legume	1
+25739700	organism	human	1
+25739700	sequence	microrna	3
+25739700	sequence	gene	3
+25739700	sequence	transgenic	1
+25739700	cell_line	bean	4
+25739700	cell_line	ap2	2
+25739700	organ/tissue	nodule	12
+25739700	organ/tissue	node	1
+25739700	clinical_drug	nitrogen	2

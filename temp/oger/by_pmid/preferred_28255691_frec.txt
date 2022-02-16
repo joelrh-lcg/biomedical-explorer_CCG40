@@ -1,0 +1,70 @@
+28255691	biological_process	nodulation	1
+28255691	biological_process	symbiotic process	1
+28255691	biological_process	glucan biosynthetic process	1
+28255691	cellular_component	obsolete protein	3
+28255691	cellular_component	extracellular region	2
+28255691	cellular_component	intracellular	1
+28255691	cellular_component	cell surface	1
+28255691	cellular_component	spanning component of plasma membrane	1
+28255691	cellular_component	integral component of membrane	1
+28255691	chemical	protein	7
+28255691	chemical	naringenin	6
+28255691	chemical	(protein)	3
+28255691	chemical	flavonoids	2
+28255691	chemical	flavonoid	2
+28255691	chemical	cerium(3+)	2
+28255691	chemical	(S)-naringenin	2
+28255691	chemical	Proteome	1
+28255691	chemical	Protein Sorting Signals	1
+28255691	chemical	Flagellin	1
+28255691	chemical	glucan	1
+28255691	disease	Myoclonic Epilepsies, Progressive	2
+28255691	gene/protein	Nucleoside diphosphate kinase	670
+28255691	gene/protein	Flavohemoprotein	86
+28255691	gene/protein	Flagellin	34
+28255691	gene/protein	Heparin-binding hemagglutinin	5
+28255691	gene/protein	Nucleoside diphosphate kinase, mitochondrial	4
+28255691	gene/protein	protein	3
+28255691	gene/protein	pH 6 antigen	3
+28255691	gene/protein	Xaa-Pro aminopeptidase 2	3
+28255691	gene/protein	flavohemoprotein	2
+28255691	gene/protein	kinesin-like protein Nod (fruit fly)	2
+28255691	gene/protein	Protein BEAN1	2
+28255691	gene/protein	protein BEAN	1
+28255691	gene/protein	obsolete signal peptide	1
+28255691	gene/protein	Fimbrial protein PrsG	1
+28255691	gene/protein	Heparin-binding hemagglutinin homolog	1
+28255691	gene/protein	Flagellar filament 41 kDa core protein	1
+28255691	gene/protein	nucleoside diphosphate kinase	1
+28255691	gene/protein	nucleoside diphosphate kinase (Leptospira interrogans serovar Lai str. 56601)	1
+28255691	gene/protein	nucleoside diphosphate kinase (Xanthomonas campestris pv. campestris str. ATCC 33913)	1
+28255691	gene/protein	Nucleoside diphosphate kinase, cytosolic	1
+28255691	gene/protein	nucleoside diphosphate kinase, mitochondrial	1
+28255691	gene/protein	Putative nucleoside diphosphate kinase	1
+28255691	gene/protein	obsolete nucleoside diphosphate kinase	1
+28255691	gene/protein	nucleoside diphosphate kinase (Escherichia coli K-12)	1
+28255691	gene/protein	cyclic beta-(1,2)-glucan synthase NdvB	1
+28255691	gene/protein	cyclic beta-(1,2)-glucan synthase NdvB (Sinorhizobium meliloti 1021)	1
+28255691	gene/protein	Transcriptional regulator	1
+28255691	molecular_function	binding	1
+28255691	organism	Rhizobium etli	2
+28255691	organism	Fabaceae	1
+28255691	organism	bacterium IFAM-3211	1
+28255691	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+28255691	organism	bacterium IFAM-3215	1
+28255691	organism	bacterium IFAM-2074	1
+28255691	organism	bacterium IFAM-3359	1
+28255691	organism	bacterium	1
+28255691	organism	bacterium IFAM-1493	1
+28255691	sequence	gene	3
+28255691	sequence	polypeptide	3
+28255691	sequence	transit_peptide	1
+28255691	sequence	signal_peptide	1
+28255691	sequence	region	1
+28255691	sequence	transmembrane_polypeptide_region	1
+28255691	sequence	non_covalent_binding_site	1
+28255691	sequence	binding_site	1
+28255691	sequence	promoter	1
+28255691	cell	eukaryotic cell	1
+28255691	cell_line	CE-3	2
+28255691	cell_line	R1192	1

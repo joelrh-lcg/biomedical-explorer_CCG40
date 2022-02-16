@@ -1,0 +1,17 @@
+12115061	biological_process	nodule formation	1
+12115061	chemical	16s rrna	1
+12115061	gene/protein	spp	16
+12115061	gene/protein	type a	1
+12115061	molecular_function	spp	1
+12115061	organism	Rhizobium etli	2
+12115061	organism	Rhizobium	1
+12115061	organism	legume	1
+12115061	organism	gliricidia sepium	1
+12115061	organism	plasmid	1
+12115061	organism	Rhizobium tropici type a	1
+12115061	organism	sinorhizobium	1
+12115061	sequence	sequence	1
+12115061	sequence	16s rrna	1
+12115061	sequence	rrna gene	1
+12115061	sequence	plasmid	1
+12115061	organ/tissue	nodule	4

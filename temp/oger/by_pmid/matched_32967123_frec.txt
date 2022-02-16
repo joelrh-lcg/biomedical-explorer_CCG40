@@ -1,0 +1,12 @@
+32967123	biological_process	synthesis	1
+32967123	biological_process	transcription	1
+32967123	chemical	proteome	2
+32967123	chemical	mineral	1
+32967123	gene/protein	sup	7
+32967123	molecular_function	transcription factor	1
+32967123	organism	plasmid	1
+32967123	sequence	wild type	2
+32967123	sequence	delete	1
+32967123	sequence	plasmid	1
+32967123	sequence	deletion	1
+32967123	molecular_process	reduction	1

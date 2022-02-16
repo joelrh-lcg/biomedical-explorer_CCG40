@@ -1,0 +1,39 @@
+22333179	biological_process	mutagenesis	2
+22333179	cellular_component	transmembrane	2
+22333179	cellular_component	cytoplasm	1
+22333179	cellular_component	membrane	1
+22333179	cellular_component	soluble	1
+22333179	chemical	phosphatidylcholine	5
+22333179	chemical	alanine	5
+22333179	chemical	cmp	4
+22333179	chemical	pathway	3
+22333179	chemical	choline	3
+22333179	chemical	phospholipid	2
+22333179	chemical	amino acid	2
+22333179	chemical	phosphatidylcholine synthase	1
+22333179	chemical	CDPdiacylglycerol	1
+22333179	chemical	amino acid residue	1
+22333179	disease	pcs	1
+22333179	gene/protein	pcs	16
+22333179	gene/protein	phosphatidylcholine synthase	11
+22333179	gene/protein	cmp	4
+22333179	gene/protein	amino acid residue	1
+22333179	organism	bacterium	7
+22333179	organism	helix	2
+22333179	organism	eukaryote	1
+22333179	organism	eubacteria	1
+22333179	sequence	amino acid	2
+22333179	sequence	mutagenesis	2
+22333179	sequence	sequence	1
+22333179	sequence	alanine	1
+22333179	sequence	mutation	1
+22333179	sequence	wild type	1
+22333179	sequence	transmembrane helix	1
+22333179	cell	cmp	2
+22333179	cell_line	cmp	1
+22333179	organ/tissue	pcs	2
+22333179	organ/tissue	membrane	2
+22333179	organ/tissue	helix	1
+22333179	clinical_drug	choline	1
+22333179	clinical_drug	align	1
+22333179	clinical_drug	alanine	1

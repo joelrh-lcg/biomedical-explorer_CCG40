@@ -1,0 +1,10 @@
+23618716	cellular_component	core	1
+23618716	gene/protein	smf1	8
+23618716	organism	Fuselloviridae	1
+23618716	organism	Sulfolobales Mexican fusellovirus 1	1
+23618716	sequence	genome	2
+23618716	sequence	consensus	1
+23618716	sequence	sequence	1
+23618716	sequence	circular	1
+23618716	sequence	strand	1
+23618716	sequence	gene	1

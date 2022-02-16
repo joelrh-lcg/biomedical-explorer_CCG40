@@ -1,0 +1,15 @@
+30326664	biological_process	symbiosis	2
+30326664	biological_process	nodule formation	1
+30326664	biological_process	formation	1
+30326664	biological_process	nodulation	1
+30326664	chemical	phosphate	8
+30326664	disease	nutritional deficiency	2
+30326664	disease	infection	2
+30326664	gene/protein	bean	12
+30326664	gene/protein	impact	2
+30326664	organism	seedling	4
+30326664	organism	legume	2
+30326664	sequence	deficiency	5
+30326664	sequence	gene	3
+30326664	cell_line	bean	4
+30326664	organ/tissue	nodule	6

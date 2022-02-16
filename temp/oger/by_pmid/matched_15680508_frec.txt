@@ -1,0 +1,5 @@
+15680508	gene/protein	path	1
+15680508	organism	Escherichia coli	2
+15680508	sequence	motif	6
+15680508	sequence	gene	1
+15680508	sequence	forward	1

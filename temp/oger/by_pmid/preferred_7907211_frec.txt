@@ -1,0 +1,50 @@
+7907211	biological_process	biological regulation	1
+7907211	chemical	nitrogen atom	2
+7907211	chemical	nitrogen(.)	2
+7907211	chemical	Ammonium Compounds	2
+7907211	chemical	Glutamate-Ammonia Ligase	2
+7907211	chemical	Glutamate Dehydrogenase	2
+7907211	chemical	Glutamine	2
+7907211	chemical	protein	1
+7907211	chemical	ammonium	1
+7907211	chemical	Glutamate Synthase	1
+7907211	chemical	primary amino group	1
+7907211	chemical	glutamine	1
+7907211	chemical	L-glutamine	1
+7907211	disease	Multiple Sclerosis	3
+7907211	gene/protein	Glutamine synthetase	244
+7907211	gene/protein	Glutamate dehydrogenase	32
+7907211	gene/protein	protein POLLENLESS 3 (Arabidopsis thaliana)	3
+7907211	gene/protein	probable hydrolase nit2 (Schizosaccharomyces pombe 972h-)	2
+7907211	gene/protein	omega-amidase NIT2 (rat)	2
+7907211	gene/protein	omega-amidase NIT2 (human)	2
+7907211	gene/protein	nitrilase homolog 2 (Dictyostelium discoideum)	2
+7907211	gene/protein	omega-amidase NIT2	2
+7907211	gene/protein	omega-amidase NIT2 (zebrafish)	2
+7907211	gene/protein	nitrilase 2 (Arabidopsis thaliana)	2
+7907211	gene/protein	Nitrogen catabolic enzyme regulatory protein	2
+7907211	gene/protein	deaminated glutathione amidase (yeast)	2
+7907211	gene/protein	omega-amidase NIT2 (mouse)	2
+7907211	gene/protein	autophagy-related protein 18 (yeast)	2
+7907211	gene/protein	glutamine synthetase	2
+7907211	gene/protein	Catabolic NAD-specific glutamate dehydrogenase RocG	2
+7907211	gene/protein	sensory histidine kinase/phosphatase NtrB (Escherichia coli K-12)	1
+7907211	gene/protein	HTH-type transcriptional regulator GlnR (Bacillus cereus ATCC 14579)	1
+7907211	gene/protein	sensory histidine kinase/phosphatase NtrB	1
+7907211	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+7907211	gene/protein	extracellular adherence protein	1
+7907211	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+7907211	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+7907211	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+7907211	gene/protein	methionine aminopeptidase	1
+7907211	organism	Neurospora crassa	2
+7907211	sequence	glutamine	3
+7907211	sequence	gene	2
+7907211	sequence	sequence_variant_obs	1
+7907211	sequence	regulated	1
+7907211	cell_line	MS-5	3
+7907211	cell_line	NIT-2	2
+7907211	cell_line	NMR-1	2
+7907211	clinical_drug	Glutamine	3
+7907211	clinical_drug	Glutamate	3
+7907211	clinical_drug	Nitrogen	2

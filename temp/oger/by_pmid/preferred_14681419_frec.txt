@@ -1,0 +1,26 @@
+14681419	biological_process	biological regulation	1
+14681419	biological_process	transcription, DNA-templated	1
+14681419	cellular_component	ribosome	1
+14681419	chemical	atom	1
+14681419	chemical	Complement System Proteins	1
+14681419	gene/protein	Keratin, type I cytoskeletal 12	4
+14681419	gene/protein	DNA replication terminus site-binding protein (Escherichia coli K-12)	2
+14681419	gene/protein	DNA replication terminus site-binding protein	2
+14681419	gene/protein	secreted and transmembrane protein 1	1
+14681419	gene/protein	secreted and transmembrane protein 1 (human)	1
+14681419	gene/protein	secreted and transmembrane protein 1b	1
+14681419	gene/protein	keratin, type I cytoskeletal 12	1
+14681419	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+14681419	gene/protein	Transcriptional regulator	1
+14681419	molecular_function	ribosome binding	1
+14681419	organism	Escherichia coli K12	1
+14681419	sequence	promoter	2
+14681419	sequence	operon	1
+14681419	sequence	terminator	1
+14681419	sequence	non_covalent_binding_site	1
+14681419	sequence	binding_site	1
+14681419	sequence	gene	1
+14681419	cell_line	K12 [Mouse osteosarcoma]	1
+14681419	cell_line	K12-72.1	1
+14681419	organ/tissue	organ	1
+14681419	organ/tissue	webbed interdigital region	1

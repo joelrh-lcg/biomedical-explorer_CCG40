@@ -1,0 +1,31 @@
+29886516	biological_process	retention	1
+29886516	cellular_component	protein	1
+29886516	chemical	phthalic acid	6
+29886516	chemical	bap	4
+29886516	chemical	Catechol	4
+29886516	chemical	c23	2
+29886516	chemical	protein	2
+29886516	chemical	BaP	1
+29886516	chemical	hydrocarbon	1
+29886516	chemical	molecular ion	1
+29886516	chemical	pathway	1
+29886516	gene/protein	bap	172
+29886516	gene/protein	BaP	43
+29886516	gene/protein	sup	7
+29886516	gene/protein	sub	2
+29886516	gene/protein	c23o	2
+29886516	gene/protein	meta	2
+29886516	gene/protein	protein this	1
+29886516	molecular_function	enzyme activity	1
+29886516	organism	bacterium	14
+29886516	organism	m27	2
+29886516	organism	bacillus	1
+29886516	organism	strain m27	1
+29886516	sequence	protein	1
+29886516	sequence	intermediate	1
+29886516	cell	bap	4
+29886516	cell	BaP	1
+29886516	cell_line	m27	9
+29886516	cell_line	c23	8
+29886516	cell_line	min	1
+29886516	organ/tissue	organism	1

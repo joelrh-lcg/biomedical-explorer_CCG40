@@ -1,0 +1,26 @@
+10675553	biological_process	transport	2
+10675553	biological_process	biological regulation	1
+10675553	cellular_component	obsolete protein	1
+10675553	chemical	Ammonium Compounds	8
+10675553	chemical	ammonium	4
+10675553	chemical	methylamine	2
+10675553	chemical	protein	1
+10675553	chemical	(protein)	1
+10675553	chemical	methylammonium	1
+10675553	chemical	nitrogen atom	1
+10675553	chemical	nitrogen(.)	1
+10675553	gene/protein	Ammonium transporter 2	5
+10675553	gene/protein	ammonium transporter 2 (Arabidopsis thaliana)	5
+10675553	gene/protein	Ammonium transporter	2
+10675553	gene/protein	anthranilate synthase alpha subunit 1, chloroplastic (Arabidopsis thaliana)	2
+10675553	gene/protein	putative ammonium transporter 1 (worm)	2
+10675553	gene/protein	ammonium transporter MEP1 (yeast)	2
+10675553	gene/protein	ammonium transporter 1 (Schizosaccharomyces pombe 972h-)	2
+10675553	gene/protein	protein	1
+10675553	organism	Arabidopsis thaliana	1
+10675553	organism	Arabidopsis	1
+10675553	organism	Yeasts	1
+10675553	sequence	clone	1
+10675553	sequence	polypeptide	1
+10675553	clinical_drug	Yeast, Unspecified	1
+10675553	clinical_drug	Nitrogen	1

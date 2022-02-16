@@ -1,0 +1,27 @@
+15608210	biological_process	transcription, DNA-templated	1
+15608210	cellular_component	protein-containing complex	1
+15608210	chemical	picloram	3
+15608210	chemical	Proteins	1
+15608210	chemical	protein	1
+15608210	chemical	(protein)	1
+15608210	gene/protein	Keratin, type I cytoskeletal 12	4
+15608210	gene/protein	secreted and transmembrane protein 1	1
+15608210	gene/protein	secreted and transmembrane protein 1 (human)	1
+15608210	gene/protein	secreted and transmembrane protein 1b	1
+15608210	gene/protein	keratin, type I cytoskeletal 12	1
+15608210	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+15608210	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+15608210	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+15608210	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+15608210	gene/protein	protein	1
+15608210	molecular_function	transcription factor binding	1
+15608210	organism	Escherichia coli K12	1
+15608210	sequence	gene	2
+15608210	sequence	promoter	1
+15608210	sequence	operon	1
+15608210	sequence	TF_binding_site	1
+15608210	sequence	polypeptide	1
+15608210	cell_line	K12 [Mouse osteosarcoma]	1
+15608210	cell_line	K12-72.1	1
+15608210	organ/tissue	webbed interdigital region	2
+15608210	organ/tissue	multicellular organism	1

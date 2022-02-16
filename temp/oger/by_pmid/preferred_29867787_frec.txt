@@ -1,0 +1,61 @@
+29867787	biological_process	export across plasma membrane	1
+29867787	biological_process	export from cell	1
+29867787	cellular_component	chromosome	1
+29867787	cellular_component	smooth endoplasmic reticulum	1
+29867787	chemical	Anti-Bacterial Agents	10
+29867787	chemical	antimicrobial agent	5
+29867787	chemical	quinolone	2
+29867787	chemical	N(2)-L-arginino group	2
+29867787	chemical	L-arginine	2
+29867787	chemical	L-arginyl group	2
+29867787	chemical	L-arginine residue	2
+29867787	chemical	argininate	2
+29867787	chemical	aminoglycoside	1
+29867787	chemical	polypeptide	1
+29867787	chemical	Codon	1
+29867787	chemical	L-seryl group	1
+29867787	chemical	L-serino group	1
+29867787	chemical	L-serine residue	1
+29867787	chemical	L-serine	1
+29867787	disease	Infections	2
+29867787	disease	Lung Diseases, Obstructive	2
+29867787	gene/protein	Streptopain	7
+29867787	gene/protein	arginine-glutamic acid dipeptide repeats protein	2
+29867787	gene/protein	tyrosine-protein kinase ABL2 (human)	2
+29867787	gene/protein	arginine-glutamic acid dipeptide repeats protein (human)	2
+29867787	gene/protein	tyrosine-protein kinase ABL2 (mouse)	2
+29867787	gene/protein	tyrosine-protein kinase ABL2	2
+29867787	gene/protein	proteolytic cleavage product	1
+29867787	gene/protein	amino acid chain	1
+29867787	gene/protein	minor histocompatibility antigen H13	1
+29867787	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+29867787	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+29867787	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+29867787	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+29867787	gene/protein	minor histocompatibility antigen H13 (human)	1
+29867787	gene/protein	sphingosine-1-phosphate phosphatase	1
+29867787	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+29867787	gene/protein	SD07518p (fruit fly)	1
+29867787	gene/protein	Sialoadhesin	1
+29867787	gene/protein	sialoadhesin	1
+29867787	gene/protein	protein serrate (fruit fly)	1
+29867787	molecular_function	obsolete signal peptide peptidase activity	1
+29867787	organism	bacterium IFAM-3211	1
+29867787	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+29867787	organism	bacterium IFAM-3215	1
+29867787	organism	bacterium IFAM-2074	1
+29867787	organism	bacterium IFAM-3359	1
+29867787	organism	bacterium	1
+29867787	organism	bacterium IFAM-1493	1
+29867787	organism	unidentified plasmid	1
+29867787	sequence	gene	5
+29867787	sequence	arginine	2
+29867787	sequence	polypeptide	1
+29867787	sequence	genome	1
+29867787	sequence	chromosome	1
+29867787	sequence	plasmid	1
+29867787	sequence	transposable_element	1
+29867787	sequence	point_mutation	1
+29867787	sequence	codon	1
+29867787	sequence	serine	1
+29867787	organ/tissue	adult organism	1

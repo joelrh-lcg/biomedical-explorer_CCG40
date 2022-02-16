@@ -1,0 +1,27 @@
+19040456	biological_process	nodulation	4
+19040456	biological_process	symbiosis	1
+19040456	cellular_component	pas	3
+19040456	chemical	pas	3
+19040456	chemical	potassium nitrate	3
+19040456	chemical	ammonium	3
+19040456	chemical	a factor	3
+19040456	chemical	alpha	1
+19040456	chemical	nitrate	1
+19040456	chemical	mixture	1
+19040456	gene/protein	ngr	5
+19040456	gene/protein	lmg	4
+19040456	gene/protein	pas	3
+19040456	organism	bacterium	7
+19040456	organism	lmg19424	4
+19040456	organism	Mimosa	3
+19040456	organism	Rhizobium etli	2
+19040456	organism	alphaproteobacteria	2
+19040456	organism	Burkholderia mimosarum	2
+19040456	organism	cupriavidus taiwanensis	2
+19040456	organism	betaproteobacteria	1
+19040456	organism	Burkholderia	1
+19040456	organism	Cupriavidus	1
+19040456	organism	invasive species	1
+19040456	organism	Mimosa diplotricha	1
+19040456	organ/tissue	nodule	4
+19040456	clinical_drug	potassium nitrate	1

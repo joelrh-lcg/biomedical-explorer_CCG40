@@ -1,0 +1,32 @@
+33391198	biological_process	pathogenesis	5
+33391198	biological_process	obsolete virulence	5
+33391198	biological_process	viral process	5
+33391198	biological_process	conjugation	1
+33391198	biological_process	cellulose biosynthetic process	1
+33391198	cellular_component	capsule	2
+33391198	cellular_component	membrane	1
+33391198	chemical	Anti-Bacterial Agents	2
+33391198	chemical	Cellulose	2
+33391198	chemical	Fructose	2
+33391198	chemical	protein	1
+33391198	chemical	antimicrobial agent	1
+33391198	chemical	Capsular polysaccharide	1
+33391198	chemical	(1->4)-beta-D-glucan	1
+33391198	chemical	cluster	1
+33391198	chemical	beta-D-fructofuranose	1
+33391198	chemical	fructose	1
+33391198	chemical	picloram	1
+33391198	gene/protein	Internal protein I	1
+33391198	gene/protein	isopentenyl-diphosphate Delta-isomerase (Dictyostelium discoideum)	1
+33391198	gene/protein	Transcriptional regulator	1
+33391198	organism	unidentified plasmid	8
+33391198	organism	Humans	1
+33391198	sequence	plasmid	8
+33391198	sequence	gene	2
+33391198	organ/tissue	capsule	2
+33391198	organ/tissue	vertebral column	1
+33391198	organ/tissue	membrane organ	1
+33391198	organ/tissue	membranous layer	1
+33391198	clinical_drug	.ALPHA.-CELLULOSE	1
+33391198	clinical_drug	Fructose	1
+33391198	molecular_process	reduction	1

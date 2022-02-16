@@ -1,0 +1,25 @@
+28639897	biological_process	cell growth	1
+28639897	chemical	reverse transcriptase	1
+28639897	chemical	inhibitor	1
+28639897	disease	cervical cancer	6
+28639897	disease	metastasis	4
+28639897	disease	recurrence	2
+28639897	disease	progression disease	2
+28639897	disease	tumor	2
+28639897	gene/protein	protease	39
+28639897	gene/protein	reverse transcriptase	7
+28639897	gene/protein	casp7	6
+28639897	gene/protein	CFB	5
+28639897	gene/protein	PSMB8	4
+28639897	gene/protein	PSMB9	4
+28639897	gene/protein	cd74	4
+28639897	gene/protein	fam111a	3
+28639897	gene/protein	prss16	3
+28639897	gene/protein	fam111b	2
+28639897	molecular_function	transcriptase	3
+28639897	sequence	signature	2
+28639897	sequence	gene	2
+28639897	sequence	reverse	1
+28639897	sequence	chain	1
+28639897	organ/tissue	tissue	1
+28639897	molecular_process	chain reaction	1

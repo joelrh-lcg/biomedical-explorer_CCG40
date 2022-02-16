@@ -1,0 +1,32 @@
+20153447	biological_process	dephosphorylation	1
+20153447	biological_process	nodulation	1
+20153447	biological_process	immune response	1
+20153447	cellular_component	membrane	1
+20153447	chemical	lipid a	35
+20153447	chemical	phosphate	8
+20153447	chemical	glucosamine	6
+20153447	chemical	phosphate group	4
+20153447	chemical	galacturonic acid	3
+20153447	chemical	polymyxin	3
+20153447	chemical	molecule	2
+20153447	chemical	mixture	1
+20153447	chemical	hemiacetal	1
+20153447	chemical	antimicrobial	1
+20153447	chemical	peptide	1
+20153447	gene/protein	phosphatase	5
+20153447	gene/protein	lack	2
+20153447	gene/protein	peptide	2
+20153447	molecular_function	phosphatase	4
+20153447	molecular_function	phosphatase activity	1
+20153447	organism	bacterium	7
+20153447	organism	Rhizobium etli	2
+20153447	organism	Escherichia coli	2
+20153447	organism	rhizobium leguminosarum	2
+20153447	organism	Phaseolus vulgari	1
+20153447	sequence	gene	2
+20153447	sequence	deletion	1
+20153447	sequence	double	1
+20153447	sequence	peptide	1
+20153447	organ/tissue	membrane	2
+20153447	organ/tissue	nodule	2
+20153447	clinical_drug	glucosamine	2

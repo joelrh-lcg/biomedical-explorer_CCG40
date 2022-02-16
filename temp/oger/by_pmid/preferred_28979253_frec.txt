@@ -1,0 +1,9 @@
+28979253	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+28979253	gene/protein	protein IMPACT (zebrafish)	1
+28979253	organism	Humans	1
+28979253	sequence	gene	7
+28979253	sequence	genome	2
+28979253	sequence	sequence_variant_obs	2
+28979253	sequence	copy_number_gain	1
+28979253	sequence	region	1
+28979253	organ/tissue	scale	1

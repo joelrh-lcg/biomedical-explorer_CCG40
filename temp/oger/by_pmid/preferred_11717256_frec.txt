@@ -1,0 +1,28 @@
+11717256	biological_process	nitrogen fixation	2
+11717256	biological_process	symbiotic process	2
+11717256	biological_process	obsolete mutagenesis	1
+11717256	cellular_component	obsolete protein	1
+11717256	cellular_component	chromosome	1
+11717256	chemical	nitrogen atom	2
+11717256	chemical	nitrogen(.)	2
+11717256	chemical	dibromine	1
+11717256	chemical	Cyclic AMP Receptor Protein	1
+11717256	chemical	Oxidoreductases	1
+11717256	gene/protein	Cyclic AMP receptor protein	1
+11717256	gene/protein	beta-galactosidase (Escherichia coli K-12)	1
+11717256	gene/protein	bacterial-type beta-galactosidase	1
+11717256	gene/protein	Transcriptional regulator	1
+11717256	organism	Rhizobium etli	4
+11717256	organism	unidentified plasmid	3
+11717256	sequence	operon	6
+11717256	sequence	gene	6
+11717256	sequence	plasmid	3
+11717256	sequence	sequence_variant_obs	2
+11717256	sequence	cryptic	1
+11717256	sequence	homologous_region	1
+11717256	sequence	polypeptide	1
+11717256	sequence	chromosome	1
+11717256	sequence	fusion	1
+11717256	sequence	mutated_variant_site	1
+11717256	clinical_drug	Nitrogen	2
+11717256	molecular_process	reduction	1

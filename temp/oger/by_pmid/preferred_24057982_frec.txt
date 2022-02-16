@@ -1,0 +1,26 @@
+24057982	chemical	RNA, Ribosomal, 16S	1
+24057982	chemical	base	1
+24057982	disease	Indifference to Pain, Congenital, Autosomal Recessive	1
+24057982	gene/protein	Muscular LMNA-interacting protein	3
+24057982	gene/protein	cardiolipin synthase A	1
+24057982	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+24057982	gene/protein	AT07979p1 (fruit fly)	1
+24057982	gene/protein	muscular LMNA-interacting protein (mouse)	1
+24057982	gene/protein	muscular LMNA-interacting protein (rat)	1
+24057982	gene/protein	muscular LMNA-interacting protein	1
+24057982	gene/protein	CD59 glycoprotein	1
+24057982	gene/protein	muscular LMNA-interacting protein (human)	1
+24057982	organism	Paraburkholderia caballeronis	4
+24057982	organism	Paraburkholderia kururiensis	2
+24057982	organism	Paraburkholderia mimosarum	2
+24057982	organism	Burkholderia	1
+24057982	organism	Solanum lycopersicum	1
+24057982	organism	Lycopersicon esculentum	1
+24057982	organism	Phaseolus	1
+24057982	sequence	rRNA_16S	1
+24057982	sequence	rRNA_gene	1
+24057982	sequence	region	1
+24057982	sequence	base	1
+24057982	organ/tissue	cerebellum vermis lobule X	1
+24057982	organ/tissue	germinal center	1
+24057982	clinical_drug	tomato allergenic extract	1

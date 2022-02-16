@@ -1,0 +1,24 @@
+31037804	biological_process	conjugation	2
+31037804	biological_process	nitrogen fixation	1
+31037804	cellular_component	chromosome	1
+31037804	chemical	nitrogen	2
+31037804	chemical	nitrogenase	1
+31037804	gene/protein	tram	8
+31037804	gene/protein	pret	6
+31037804	gene/protein	traI	2
+31037804	organism	bacterium	7
+31037804	organism	plasmid	4
+31037804	organism	Rhizobium etli	2
+31037804	organism	Phaseolus vulgaris	2
+31037804	organism	legume	1
+31037804	organism	CFN42	1
+31037804	organism	cfn42	1
+31037804	sequence	plasmid	4
+31037804	sequence	inside	4
+31037804	sequence	gene	2
+31037804	sequence	genome	1
+31037804	sequence	chromosome	1
+31037804	sequence	promoter	1
+31037804	sequence	vector	1
+31037804	organ/tissue	nodule	14
+31037804	clinical_drug	nitrogen	1

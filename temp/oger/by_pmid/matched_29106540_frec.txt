@@ -1,0 +1,30 @@
+29106540	biological_process	biosynthesis	5
+29106540	cellular_component	membrane	1
+29106540	chemical	Ubiquinone	4
+29106540	chemical	quinone	4
+29106540	chemical	alpha	3
+29106540	chemical	proteins	3
+29106540	chemical	pathway	3
+29106540	chemical	beta	2
+29106540	chemical	coq	2
+29106540	chemical	isoprenoid	1
+29106540	chemical	electron	1
+29106540	chemical	carrier	1
+29106540	chemical	gamma	1
+29106540	chemical	oxygen	1
+29106540	gene/protein	gamma	1
+29106540	molecular_function	electron carrier	1
+29106540	organism	bacterium	14
+29106540	organism	e coli	4
+29106540	organism	Escherichia coli	2
+29106540	organism	alpha proteobacteria	2
+29106540	organism	proteobacteria	1
+29106540	organism	cyanobacteria	1
+29106540	organism	Rhodospirillaceae	1
+29106540	organism	eukaryote	1
+29106540	sequence	homologous	1
+29106540	sequence	genome	1
+29106540	sequence	gene	1
+29106540	organ/tissue	membrane	2
+29106540	organ/tissue	organism	2
+29106540	clinical_drug	oxygen	1

@@ -1,0 +1,19 @@
+8526514	biological_process	nodulation	2
+8526514	biological_process	krebs cycle	1
+8526514	cellular_component	chromosome	1
+8526514	chemical	citrate synthase	5
+8526514	chemical	complement	1
+8526514	gene/protein	citrate synthase	305
+8526514	molecular_function	citrate synthase activity	2
+8526514	organism	bacterium	7
+8526514	organism	Rhizobium tropici	2
+8526514	organism	Escherichia coli	2
+8526514	organism	plasmid	1
+8526514	sequence	gene	6
+8526514	sequence	sequence	2
+8526514	sequence	regulatory region	2
+8526514	sequence	chromosome	1
+8526514	sequence	plasmid	1
+8526514	sequence	structural region	1
+8526514	sequence	double	1
+8526514	organ/tissue	nodule	6

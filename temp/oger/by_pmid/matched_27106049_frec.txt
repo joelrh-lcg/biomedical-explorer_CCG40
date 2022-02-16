@@ -1,0 +1,18 @@
+27106049	biological_process	symbiosis	2
+27106049	biological_process	metabolism	1
+27106049	biological_process	electron transport	1
+27106049	cellular_component	respiratory chain	1
+27106049	cellular_component	complex I	1
+27106049	chemical	atp	4
+27106049	chemical	nitrogen	2
+27106049	chemical	electron	2
+27106049	chemical	metabolite	1
+27106049	chemical	nitrogenase	1
+27106049	disease	bacterial infection	2
+27106049	gene/protein	complex I	1
+27106049	organism	bacterium	14
+27106049	organism	Rhizobiaceae	1
+27106049	sequence	chain	1
+27106049	organ/tissue	nodule	4
+27106049	clinical_drug	nitrogen	1
+27106049	clinical_drug	atp	1

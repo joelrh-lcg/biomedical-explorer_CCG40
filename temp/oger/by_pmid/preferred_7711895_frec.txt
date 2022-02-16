@@ -1,0 +1,45 @@
+7711895	chemical	Galactose	2
+7711895	chemical	LPS with O-antigen	2
+7711895	chemical	lipopolysaccharide	2
+7711895	chemical	polysaccharide	1
+7711895	chemical	exopolysaccharide	1
+7711895	chemical	galactose	1
+7711895	chemical	1-acyl-sn-glycero-3-phosphoserine	1
+7711895	chemical	DNA, A-Form	1
+7711895	chemical	UDPglucose 4-Epimerase	1
+7711895	disease	Meier-Gorlin syndrome	2
+7711895	disease	Van der Woude syndrome	1
+7711895	gene/protein	progonadoliberin-1 (human)	10
+7711895	gene/protein	protein grainyhead (fruit fly)	10
+7711895	gene/protein	progonadoliberin-1	10
+7711895	gene/protein	UDP-glucose 4-epimerase (Escherichia coli K-12)	2
+7711895	gene/protein	UDP-glucose 4-epimerase	2
+7711895	gene/protein	UDP-glucose 4-epimerase (Dictyostelium discoideum)	2
+7711895	gene/protein	UDP-glucose 4-epimerase (mouse)	2
+7711895	gene/protein	UDP-glucose 4-epimerase (rat)	2
+7711895	gene/protein	UDP-glucose 4-epimerase (fruit fly)	2
+7711895	gene/protein	UDP-glucose 4-epimerase (human)	2
+7711895	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+7711895	gene/protein	Toll-like receptor 4 (mouse)	1
+7711895	gene/protein	Toll-like receptor 4	1
+7711895	organism	Acacia	2
+7711895	organism	Rhizobium leguminosarum	2
+7711895	organism	Transposon Tn5	1
+7711895	organism	Rhizobium sp. GRH2	1
+7711895	organism	Fabaceae	1
+7711895	organism	Rhizobium sp. IRc78	1
+7711895	organism	Rhizobium sp.	1
+7711895	organism	Rhizobium sp. SIN-1	1
+7711895	organism	Ensifer sp. BR816	1
+7711895	organism	Rhizobium sp. MPIK3030	1
+7711895	organism	Rhizobium sp. N33	1
+7711895	sequence	region	2
+7711895	sequence	homologous	2
+7711895	sequence	transposable_element	1
+7711895	sequence	insertion	1
+7711895	cell_line	BTI-Tn-5B1-4	2
+7711895	organ/tissue	extrapyramidal tract system	2
+7711895	organ/tissue	cerebellum vermis lobule X	1
+7711895	organ/tissue	germinal center	1
+7711895	clinical_drug	Acacia	2
+7711895	clinical_drug	Galactose	1

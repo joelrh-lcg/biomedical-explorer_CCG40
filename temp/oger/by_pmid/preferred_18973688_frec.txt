@@ -1,0 +1,11 @@
+18973688	biological_process	regulation of adenylate cyclase-inhibiting adrenergic receptor signaling pathway	1
+18973688	biological_process	negative regulation of adenylate cyclase-activating adrenergic receptor signaling pathway	1
+18973688	organism	bacterium IFAM-3211	2
+18973688	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+18973688	organism	bacterium IFAM-3215	2
+18973688	organism	bacterium IFAM-2074	2
+18973688	organism	bacterium IFAM-3359	2
+18973688	organism	bacterium	2
+18973688	organism	bacterium IFAM-1493	2
+18973688	sequence	orthologous	5
+18973688	sequence	gene	5

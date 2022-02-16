@@ -1,0 +1,16 @@
+27335086	biological_process	regulation	3
+27335086	biological_process	metabolism	1
+27335086	biological_process	transcription	1
+27335086	biological_process	pentose phosphate pathway	1
+27335086	cellular_component	intracellular	1
+27335086	chemical	pentose phosphate	1
+27335086	chemical	pathway	1
+27335086	gene/protein	phosphofructokinase	255
+27335086	gene/protein	hela	2
+27335086	molecular_function	enzyme activity	1
+27335086	sequence	enzymatic	2
+27335086	sequence	transition	1
+27335086	sequence	gene	1
+27335086	cell_line	hela	2
+27335086	cell_line	hacat	1
+27335086	organ/tissue	proliferation	2

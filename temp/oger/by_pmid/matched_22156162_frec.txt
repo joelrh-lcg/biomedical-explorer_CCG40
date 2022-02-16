@@ -1,0 +1,18 @@
+22156162	biological_process	transcription	2
+22156162	cellular_component	chromatin	1
+22156162	chemical	p300	2
+22156162	chemical	chromatin	1
+22156162	chemical	cofactor	1
+22156162	gene/protein	p300	5
+22156162	gene/protein	embryonic	2
+22156162	molecular_function	transcription factor binding	1
+22156162	molecular_function	binding	1
+22156162	molecular_function	transcription factor	1
+22156162	organism	collection	1
+22156162	sequence	motif	12
+22156162	sequence	binding	2
+22156162	sequence	sequence	2
+22156162	sequence	binding site	2
+22156162	sequence	genome	1
+22156162	organ/tissue	scale	1
+22156162	organ/tissue	web	1

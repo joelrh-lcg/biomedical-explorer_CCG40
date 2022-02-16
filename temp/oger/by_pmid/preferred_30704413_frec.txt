@@ -1,0 +1,7 @@
+30704413	disease	Infections	2
+30704413	organism	Salmonella enterica	2
+30704413	organism	Humans	2
+30704413	organism	Reptiles	1
+30704413	organism	Ovis aries	1
+30704413	organism	Sheep	1
+30704413	organism	unidentified	1

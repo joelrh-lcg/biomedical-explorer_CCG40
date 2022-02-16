@@ -1,0 +1,23 @@
+32670207	biological_process	pathogenesis	1
+32670207	biological_process	obsolete virulence	1
+32670207	biological_process	viral process	1
+32670207	biological_process	secretion	1
+32670207	cellular_component	chromosome	2
+32670207	cellular_component	viral nucleocapsid	1
+32670207	chemical	Anti-Bacterial Agents	2
+32670207	chemical	antimicrobial agent	1
+32670207	disease	Disease	2
+32670207	disease	Infections	2
+32670207	organism	collection	1
+32670207	organism	synthetic construct	1
+32670207	sequence	gene	6
+32670207	sequence	genome	3
+32670207	sequence	region	2
+32670207	sequence	chromosome	2
+32670207	sequence	transit_peptide	2
+32670207	sequence	signal_peptide	2
+32670207	sequence	syntenic	1
+32670207	sequence	cytoplasmic_polypeptide_region	1
+32670207	sequence	syntenic_region	1
+32670207	sequence	inversion	1
+32670207	organ/tissue	secretion of exocrine gland	1

@@ -1,0 +1,8 @@
+33976161	biological_process	conjugation	1
+33976161	chemical	antibiotic	3
+33976161	gene/protein	poxa	9
+33976161	organism	plasmid	8
+33976161	organism	human gut microbiota	1
+33976161	sequence	plasmid	8
+33976161	organ/tissue	gut	3
+33976161	molecular_process	reduction	1

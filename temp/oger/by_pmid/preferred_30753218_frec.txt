@@ -1,0 +1,5 @@
+30753218	organism	Urodela	4
+30753218	organism	Salamandra salamandra	1
+30753218	organism	Fungi	1
+30753218	organism	Amphibians	1
+30753218	organism	Ambystoma mexicanum	1

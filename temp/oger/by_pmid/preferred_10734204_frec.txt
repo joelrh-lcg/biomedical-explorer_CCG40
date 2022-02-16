@@ -1,0 +1,13 @@
+10734204	biological_process	transcription, DNA-templated	1
+10734204	biological_process	gene expression	1
+10734204	cellular_component	obsolete protein	1
+10734204	chemical	protein	2
+10734204	chemical	(protein)	1
+10734204	gene/protein	protein	1
+10734204	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+10734204	organism	Escherichia coli	2
+10734204	organism	collection	1
+10734204	organism	Eukaryota	1
+10734204	sequence	gene	2
+10734204	sequence	polypeptide	1
+10734204	sequence	genome	1

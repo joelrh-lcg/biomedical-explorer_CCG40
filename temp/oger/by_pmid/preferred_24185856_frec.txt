@@ -1,0 +1,18 @@
+24185856	biological_process	anatomical structure morphogenesis	1
+24185856	biological_process	DNA biosynthetic process	1
+24185856	chemical	nucleotide	1
+24185856	chemical	protein	1
+24185856	gene/protein	Protein BEAN1	2
+24185856	gene/protein	protein BEAN	1
+24185856	gene/protein	DNA restriction-modification endonuclease	1
+24185856	organism	Bacteriophages	9
+24185856	organism	Bacteriophage sp.	2
+24185856	organism	Rhizobium etli	2
+24185856	organism	collection	1
+24185856	sequence	phage_sequence	9
+24185856	sequence	genome	3
+24185856	sequence	region	3
+24185856	sequence	gene	3
+24185856	sequence	ORF	1
+24185856	sequence	orphan	1
+24185856	cell_line	R1192	1

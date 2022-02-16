@@ -1,0 +1,9 @@
+18502926	chemical	16s rrna	1
+18502926	chemical	15n	1
+18502926	chemical	cluster	1
+18502926	gene/protein	nifh	1
+18502926	organism	Burkholderia	2
+18502926	sequence	genome	2
+18502926	sequence	16s rrna	1
+18502926	sequence	gene	1
+18502926	sequence	sequence	1

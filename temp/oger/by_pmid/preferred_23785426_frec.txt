@@ -1,0 +1,35 @@
+23785426	biological_process	transcription, DNA-templated	2
+23785426	biological_process	signal transduction	1
+23785426	biological_process	signaling	1
+23785426	cellular_component	obsolete protein	1
+23785426	cellular_component	central element	1
+23785426	chemical	picloram	4
+23785426	chemical	protein	2
+23785426	chemical	atom	2
+23785426	chemical	(protein)	1
+23785426	chemical	Phosphoprotein	1
+23785426	disease	Uterine Cervical Neoplasms	4
+23785426	disease	Disease	2
+23785426	disease	Carcinogenesis	2
+23785426	gene/protein	Phosphoprotein	99
+23785426	gene/protein	ATP-dependent RNA helicase ddx54 (Dictyostelium discoideum)	2
+23785426	gene/protein	protein	1
+23785426	gene/protein	phosphoprotein	1
+23785426	gene/protein	cyclic pyranopterin monophosphate synthase (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+23785426	gene/protein	cyclic pyranopterin monophosphate synthase	1
+23785426	gene/protein	cyclic pyranopterin monophosphate synthase (Escherichia coli K-12)	1
+23785426	gene/protein	spermine synthase (mouse)	1
+23785426	gene/protein	mediator of RNA polymerase II transcription subunit 10 (zebrafish)	1
+23785426	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+23785426	sequence	gene	3
+23785426	sequence	polypeptide	1
+23785426	sequence	polypeptide_conserved_motif	1
+23785426	sequence	polypeptide_motif	1
+23785426	sequence	tandem	1
+23785426	sequence	sequence_variant_obs	1
+23785426	cell	malignant cell	1
+23785426	cell_line	HeLa	2
+23785426	organ/tissue	organ	2
+23785426	organ/tissue	tissue	1
+23785426	clinical_drug	TANDEM	1
+23785426	entity_type	preferred_term	2

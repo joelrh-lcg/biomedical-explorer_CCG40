@@ -1,0 +1,19 @@
+11125053	biological_process	transcription, DNA-templated	1
+11125053	biological_process	biological regulation	1
+11125053	chemical	atom	2
+11125053	chemical	protein	1
+11125053	gene/protein	Keratin, type I cytoskeletal 12	4
+11125053	gene/protein	secreted and transmembrane protein 1	1
+11125053	gene/protein	secreted and transmembrane protein 1 (human)	1
+11125053	gene/protein	secreted and transmembrane protein 1b	1
+11125053	gene/protein	keratin, type I cytoskeletal 12	1
+11125053	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+11125053	gene/protein	Transcriptional regulator	1
+11125053	organism	Escherichia coli K12	1
+11125053	sequence	operon	2
+11125053	sequence	promoter	2
+11125053	sequence	terminator	1
+11125053	cell_line	K12 [Mouse osteosarcoma]	1
+11125053	cell_line	K12-72.1	1
+11125053	organ/tissue	organ	2
+11125053	organ/tissue	webbed interdigital region	1

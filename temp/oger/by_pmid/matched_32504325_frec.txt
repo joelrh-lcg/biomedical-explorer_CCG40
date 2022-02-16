@@ -1,0 +1,32 @@
+32504325	biological_process	biofilm formation	1
+32504325	cellular_component	membrane	2
+32504325	cellular_component	cell membrane	1
+32504325	chemical	salt	6
+32504325	chemical	phosphatidylethanolamine	4
+32504325	chemical	chlorophyll	4
+32504325	chemical	lipid	3
+32504325	chemical	nacl	3
+32504325	chemical	indole3acetic acid	3
+32504325	chemical	fatty acid	2
+32504325	chemical	iaa	1
+32504325	chemical	antifungal	1
+32504325	gene/protein	pgp	206
+32504325	gene/protein	protease	39
+32504325	gene/protein	cope	5
+32504325	gene/protein	pgpb	4
+32504325	gene/protein	crop	1
+32504325	gene/protein	dry	1
+32504325	molecular_function	protease activity	1
+32504325	organism	bacterium	7
+32504325	organism	bacillus toyonensis	4
+32504325	organism	tomato	4
+32504325	organism	Lycopersicon esculentum	2
+32504325	organism	unknown	1
+32504325	organism	Botrytis cinerea	1
+32504325	sequence	chain	1
+32504325	organ/tissue	membrane	6
+32504325	organ/tissue	crop	1
+32504325	clinical_drug	tomato	2
+32504325	clinical_drug	acetic acid	1
+32504325	clinical_drug	Botrytis cinerea	1
+32504325	clinical_drug	chlorophyll	1

@@ -1,0 +1,27 @@
+27746255	biological_process	cellular process	1
+27746255	biological_process	protein lysine acetylation	1
+27746255	cellular_component	antibody	3
+27746255	cellular_component	cellular process	1
+27746255	cellular_component	protein	1
+27746255	chemical	lysine	16
+27746255	chemical	proteins	4
+27746255	chemical	histone	2
+27746255	chemical	lysine residue	1
+27746255	chemical	peptide	1
+27746255	chemical	nuclear proteins	1
+27746255	chemical	molecule	1
+27746255	chemical	protein lysine	1
+27746255	gene/protein	kat	22
+27746255	gene/protein	peptide	2
+27746255	gene/protein	lysine acetyltransferase	1
+27746255	gene/protein	histone	1
+27746255	gene/protein	protein	1
+27746255	molecular_function	kat	2
+27746255	molecular_function	antibody	1
+27746255	organism	human	1
+27746255	sequence	lysine	6
+27746255	sequence	domain	1
+27746255	sequence	peptide	1
+27746255	sequence	protein	1
+27746255	clinical_drug	lysine	6
+27746255	molecular_process	acetylation	4

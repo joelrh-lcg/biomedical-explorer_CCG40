@@ -1,0 +1,10 @@
+32595407	biological_process	asexual reproduction	1
+32595407	chemical	cluster	1
+32595407	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+32595407	organism	Metaphire sieboldi	2
+32595407	organism	Oligochaeta	2
+32595407	sequence	region	1
+32595407	sequence	polypeptide_repeat	1
+32595407	sequence	clone	1
+32595407	sequence	signature	1
+32595407	organ/tissue	reproductive system	1

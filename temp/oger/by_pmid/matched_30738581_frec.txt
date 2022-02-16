@@ -1,0 +1,33 @@
+30738581	cellular_component	protein	4
+30738581	cellular_component	membrane	2
+30738581	cellular_component	plasma membrane	1
+30738581	cellular_component	cellular membrane	1
+30738581	chemical	protein	8
+30738581	chemical	proteins	3
+30738581	chemical	pip	2
+30738581	chemical	aqp	1
+30738581	chemical	at2	1
+30738581	disease	dehydration	4
+30738581	disease	at1	2
+30738581	gene/protein	pip	48
+30738581	gene/protein	aquaporin	21
+30738581	gene/protein	rab18	10
+30738581	gene/protein	protein	3
+30738581	gene/protein	at2g37170	1
+30738581	gene/protein	membrane protein	1
+30738581	gene/protein	dehydrin cor47	1
+30738581	gene/protein	at1g20440	1
+30738581	gene/protein	erd10	1
+30738581	gene/protein	at1g20450	1
+30738581	gene/protein	at5g66400	1
+30738581	molecular_function	aquaporin	3
+30738581	organism	Arabidopsis	2
+30738581	organism	cactus	1
+30738581	sequence	protein	4
+30738581	cell	at1	2
+30738581	cell	at2	1
+30738581	cell_line	at1	4
+30738581	cell_line	at2	1
+30738581	cell_line	at5	1
+30738581	organ/tissue	membrane	8
+30738581	organ/tissue	plasma	1

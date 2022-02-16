@@ -1,0 +1,26 @@
+9191062	biological_process	translation	5
+9191062	cellular_component	obsolete protein	2
+9191062	cellular_component	ribosome	2
+9191062	chemical	protein	2
+9191062	chemical	(protein)	2
+9191062	chemical	Codon	1
+9191062	disease	Starvation	2
+9191062	gene/protein	UbiA prenyltransferase domain-containing protein 1 (zebrafish)	4
+9191062	gene/protein	protein	2
+9191062	gene/protein	ribonuclease I (Escherichia coli K-12)	2
+9191062	gene/protein	ribonuclease I	2
+9191062	molecular_function	hydrolase activity	1
+9191062	organism	Escherichia coli	2
+9191062	organism	Bacteriophage lambda	1
+9191062	organism	Escherichia virus Lambda	1
+9191062	organism	Bacteriophages	1
+9191062	sequence	phage_sequence	2
+9191062	sequence	polypeptide	2
+9191062	sequence	transcript	2
+9191062	sequence	region	1
+9191062	sequence	codon	1
+9191062	sequence	ORF	1
+9191062	sequence	transit_peptide	1
+9191062	sequence	signal_peptide	1
+9191062	organ/tissue	melanophore stripe	4
+9191062	organ/tissue	anatomical point connecting sagittal and lambdoidal sutures	2

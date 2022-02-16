@@ -1,0 +1,25 @@
+32849381	biological_process	symbiosis	1
+32849381	biological_process	conjugation	1
+32849381	biological_process	formation	1
+32849381	biological_process	nitrogen fixation	1
+32849381	cellular_component	chromosome	3
+32849381	chemical	donor	2
+32849381	chemical	rfp	2
+32849381	chemical	nitrogen	2
+32849381	chemical	label	1
+32849381	gene/protein	pret	16
+32849381	gene/protein	rfp	10
+32849381	organism	bacterium	14
+32849381	organism	plasmid	6
+32849381	organism	CFN42	4
+32849381	organism	endophytic bacterium	2
+32849381	organism	cfn42	1
+32849381	sequence	plasmid	6
+32849381	sequence	chromosome	3
+32849381	sequence	gene	2
+32849381	sequence	inside	1
+32849381	sequence	donor	1
+32849381	sequence	replicon	1
+32849381	organ/tissue	nodule	10
+32849381	organ/tissue	segment	1
+32849381	clinical_drug	nitrogen	1

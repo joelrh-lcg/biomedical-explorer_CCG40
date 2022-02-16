@@ -1,0 +1,27 @@
+33306798	biological_process	transcription, DNA-templated	2
+33306798	biological_process	biological regulation	2
+33306798	chemical	protein	1
+33306798	chemical	base	1
+33306798	gene/protein	Keratin, type I cytoskeletal 12	4
+33306798	gene/protein	secreted and transmembrane protein 1	1
+33306798	gene/protein	secreted and transmembrane protein 1 (human)	1
+33306798	gene/protein	secreted and transmembrane protein 1b	1
+33306798	gene/protein	keratin, type I cytoskeletal 12	1
+33306798	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+33306798	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+33306798	organism	Escherichia coli	4
+33306798	organism	bacterium IFAM-3211	2
+33306798	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+33306798	organism	bacterium IFAM-3215	2
+33306798	organism	bacterium IFAM-2074	2
+33306798	organism	bacterium IFAM-3359	2
+33306798	organism	bacterium	2
+33306798	organism	bacterium IFAM-1493	2
+33306798	organism	Salmonella enterica	2
+33306798	organism	collection	1
+33306798	organism	Escherichia coli K12	1
+33306798	organism	Salmonella typhimurium	1
+33306798	organism	Salmonella	1
+33306798	sequence	base	1
+33306798	cell_line	K12 [Mouse osteosarcoma]	1
+33306798	cell_line	K12-72.1	1

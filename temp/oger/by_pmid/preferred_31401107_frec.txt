@@ -1,0 +1,37 @@
+31401107	biological_process	cellular process	1
+31401107	biological_process	cell population proliferation	1
+31401107	biological_process	biological regulation	1
+31401107	cellular_component	cell projection	1
+31401107	cellular_component	obsolete heterogeneous nuclear ribonucleoprotein complex	1
+31401107	cellular_component	chromatin	1
+31401107	chemical	RNA, Long Noncoding	5
+31401107	chemical	molecule	1
+31401107	chemical	RNA, Small Interfering	1
+31401107	chemical	protein	1
+31401107	chemical	Histones	1
+31401107	chemical	histone	1
+31401107	chemical	Heterogeneous-Nuclear Ribonucleoproteins	1
+31401107	chemical	Chromatin	1
+31401107	disease	Neoplasms	8
+31401107	disease	Hypoxia	4
+31401107	disease	Breast Neoplasms	4
+31401107	disease	Acidosis	2
+31401107	gene/protein	Large delta antigen	17
+31401107	gene/protein	Transmembrane emp24 domain-containing protein 7	2
+31401107	gene/protein	Upstream activation factor subunit spp27	1
+31401107	gene/protein	peroxidase 27 (Arabidopsis thaliana)	1
+31401107	gene/protein	interferon alpha-inducible protein 27	1
+31401107	gene/protein	Interferon alpha-inducible protein 27, mitochondrial	1
+31401107	gene/protein	Movement protein	1
+31401107	gene/protein	transmembrane emp24 domain-containing protein 7	1
+31401107	gene/protein	protein cueball (fruit fly)	1
+31401107	gene/protein	histone	1
+31401107	gene/protein	heterogeneous nuclear ribonucleoproteins A2/B1 (rat)	1
+31401107	molecular_function	obsolete heterogeneous nuclear ribonucleoprotein	1
+31401107	sequence	shRNA	1
+31401107	cell	stem cell	4
+31401107	cell	malignant cell	1
+31401107	cell_line	MCF-7	4
+31401107	cell_line	SfSWT-1	1
+31401107	organ/tissue	proliferative region	3
+31401107	organ/tissue	breast	2

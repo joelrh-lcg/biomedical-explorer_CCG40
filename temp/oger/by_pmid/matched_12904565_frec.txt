@@ -1,0 +1,37 @@
+12904565	biological_process	nitrogen fixation	2
+12904565	biological_process	electron transport	1
+12904565	biological_process	mutagenesis	1
+12904565	biological_process	gene expression	1
+12904565	biological_process	regulation	1
+12904565	cellular_component	chromosome	1
+12904565	chemical	nitrogen	6
+12904565	chemical	electron	1
+12904565	chemical	nitrogenase	1
+12904565	gene/protein	orf1	111
+12904565	gene/protein	orf2	94
+12904565	gene/protein	3 orf	75
+12904565	gene/protein	orf3	65
+12904565	gene/protein	orf5	36
+12904565	gene/protein	orf6	23
+12904565	gene/protein	rnf	8
+12904565	gene/protein	orf13	4
+12904565	gene/protein	orf12	4
+12904565	gene/protein	nif	3
+12904565	gene/protein	fdx	2
+12904565	gene/protein	lacz	2
+12904565	gene/protein	rpoN	2
+12904565	organism	Pseudomonas stutzeri	2
+12904565	organism	rice	2
+12904565	organism	Rhodobacter capsulatus	2
+12904565	organism	Alcaligenes	1
+12904565	organism	Azotobacter	1
+12904565	sequence	gene	8
+12904565	sequence	orf	7
+12904565	sequence	genome	2
+12904565	sequence	chromosome	1
+12904565	sequence	insertion	1
+12904565	sequence	mutagenesis	1
+12904565	sequence	fusion	1
+12904565	organ/tissue	organism	1
+12904565	clinical_drug	nitrogen	3
+12904565	clinical_drug	rice	1

@@ -1,0 +1,32 @@
+10592182	biological_process	transcription, DNA-templated	2
+10592182	biological_process	biological regulation	1
+10592182	cellular_component	ribosome	1
+10592182	cellular_component	chromosome	1
+10592182	chemical	cluster	1
+10592182	chemical	base	1
+10592182	gene/protein	Keratin, type I cytoskeletal 12	8
+10592182	gene/protein	secreted and transmembrane protein 1	2
+10592182	gene/protein	secreted and transmembrane protein 1 (human)	2
+10592182	gene/protein	secreted and transmembrane protein 1b	2
+10592182	gene/protein	keratin, type I cytoskeletal 12	2
+10592182	gene/protein	secreted and transmembrane protein 1b (mouse)	2
+10592182	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+10592182	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+10592182	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+10592182	molecular_function	binding	1
+10592182	molecular_function	ribosome binding	1
+10592182	organism	Escherichia coli	2
+10592182	sequence	operon	2
+10592182	sequence	non_covalent_binding_site	2
+10592182	sequence	binding_site	2
+10592182	sequence	transit_peptide	1
+10592182	sequence	signal_peptide	1
+10592182	sequence	promoter	1
+10592182	sequence	terminator	1
+10592182	sequence	gene	1
+10592182	sequence	base	1
+10592182	sequence	region	1
+10592182	sequence	chromosome	1
+10592182	cell_line	K12 [Mouse osteosarcoma]	2
+10592182	cell_line	K12-72.1	2
+10592182	organ/tissue	webbed interdigital region	1

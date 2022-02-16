@@ -1,0 +1,27 @@
+10555327	biological_process	nodulation	1
+10555327	chemical	cluster	11
+10555327	chemical	base	4
+10555327	chemical	16s rrna	2
+10555327	chemical	16s	2
+10555327	chemical	rdna	2
+10555327	chemical	probe	1
+10555327	disease	nod	3
+10555327	gene/protein	nod	135
+10555327	gene/protein	nif	3
+10555327	gene/protein	nifh	1
+10555327	gene/protein	nifH	1
+10555327	organism	Mesorhizobium	3
+10555327	organism	agrobacterium	2
+10555327	organism	legume	1
+10555327	organism	amorpha	1
+10555327	organism	Rhizobium	1
+10555327	sequence	gene	4
+10555327	sequence	base	4
+10555327	sequence	rflp	3
+10555327	sequence	16s rrna	2
+10555327	sequence	rrna gene	2
+10555327	sequence	rdna	2
+10555327	sequence	sequence	1
+10555327	sequence	probe	1
+10555327	cell	band	1
+10555327	organ/tissue	nodule	2

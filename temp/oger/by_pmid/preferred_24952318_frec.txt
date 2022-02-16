@@ -1,0 +1,23 @@
+24952318	biological_process	nodulation	3
+24952318	biological_process	fertilization	1
+24952318	biological_process	symbiotic process	1
+24952318	chemical	nitrogen atom	1
+24952318	chemical	nitrogen(.)	1
+24952318	gene/protein	Protein BEAN1	4
+24952318	gene/protein	protein BEAN	2
+24952318	organism	Phaseolus	6
+24952318	organism	bacterium IFAM-3211	3
+24952318	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+24952318	organism	bacterium IFAM-3215	3
+24952318	organism	bacterium IFAM-2074	3
+24952318	organism	bacterium IFAM-3359	3
+24952318	organism	bacterium	3
+24952318	organism	bacterium IFAM-1493	3
+24952318	organism	Rhizobium	2
+24952318	organism	Bradyrhizobium	2
+24952318	organism	Humans	1
+24952318	sequence	substitution	1
+24952318	cell_line	R1192	2
+24952318	organ/tissue	cerebellum vermis lobule X	3
+24952318	organ/tissue	germinal center	3
+24952318	clinical_drug	Nitrogen	1

@@ -1,0 +1,77 @@
+24972614	chemical	Nitrogen	2
+24972614	chemical	dinitrogen	1
+24972614	chemical	nutrient	1
+24972614	chemical	nitrogen atom	1
+24972614	chemical	nitrogen(.)	1
+24972614	chemical	nucleotide	1
+24972614	gene/protein	Protein BEAN1	6
+24972614	gene/protein	protein BEAN	3
+24972614	gene/protein	Transcription factor Spi-C	3
+24972614	gene/protein	transcription factor Spi-C	3
+24972614	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+24972614	gene/protein	protein RecA (Brucella abortus bv. 1 str. 9-941)	1
+24972614	gene/protein	protein RecA (Mycobacterium tuberculosis H37Rv)	1
+24972614	gene/protein	DNA repair protein RAD51 homolog 1 (mouse)	1
+24972614	gene/protein	protein RecA	1
+24972614	gene/protein	DNA repair protein RAD51 homolog 1	1
+24972614	gene/protein	protein RecA (Brucella suis 1330)	1
+24972614	gene/protein	mitochondrial DNA repair protein recA homolog (Dictyostelium discoideum)	1
+24972614	gene/protein	protein RecA (Escherichia coli K-12)	1
+24972614	gene/protein	protein RecA (Brucella canis ATCC 23365)	1
+24972614	gene/protein	DNA repair protein RAD51 homolog 1 (human)	1
+24972614	gene/protein	protein RecA (Brucella suis ATCC 23445)	1
+24972614	gene/protein	protein RecA (Brucella melitensis ATCC 23457)	1
+24972614	gene/protein	DNA repair protein recA homolog 1, chloroplastic (Arabidopsis thaliana)	1
+24972614	gene/protein	protein RecA (Brucella abortus 2308)	1
+24972614	gene/protein	DNA gyrase subunit B (Staphylococcus aureus)	1
+24972614	gene/protein	DNA gyrase subunit B (Streptococcus pneumoniae TIGR4)	1
+24972614	gene/protein	DNA gyrase subunit B (Escherichia coli K-12)	1
+24972614	gene/protein	DNA gyrase subunit B	1
+24972614	gene/protein	DNA gyrase subunit B (Staphylococcus epidermidis RP62A)	1
+24972614	gene/protein	DNA-directed RNA polymerase II subunit rpb1 (Dictyostelium discoideum)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Streptomyces coelicolor A3(2))	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Brucella canis ATCC 23365)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Brucella abortus bv. 1 str. 9-941)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Brucella melitensis ATCC 23457)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Escherichia coli K-12)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Xanthomonas campestris pv. campestris str. ATCC 33913)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Brucella suis 1330)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Bacillus thuringiensis serovar konkukian str. 97-27)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Bacillus cereus ATCC 14579)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Brucella suis ATCC 23445)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Bacillus subtilis subsp. subtilis str. 168)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Arabidopsis thaliana)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Brucella abortus 2308)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Peptoclostridium difficile 630)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Clostridium botulinum A str. Hall)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Aeromonas hydrophila subsp. hydrophila ATCC 7966)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha (Brucella ovis ATCC 25840)	1
+24972614	gene/protein	DNA-directed RNA polymerase subunit alpha	1
+24972614	gene/protein	cardiolipin synthase A	1
+24972614	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+24972614	gene/protein	AT07979p1 (fruit fly)	1
+24972614	organism	Rhizobium paranaense	6
+24972614	organism	Phaseolus	2
+24972614	organism	Fabaceae	2
+24972614	organism	Rhizobium tropici	2
+24972614	organism	bacterium IFAM-3211	1
+24972614	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+24972614	organism	bacterium IFAM-3215	1
+24972614	organism	bacterium IFAM-2074	1
+24972614	organism	bacterium IFAM-3359	1
+24972614	organism	bacterium	1
+24972614	organism	bacterium IFAM-1493	1
+24972614	organism	Rhizobium	1
+24972614	organism	Leucaena leucocephala	1
+24972614	organism	Leucaena esculenta	1
+24972614	sequence	region	2
+24972614	sequence	genome	1
+24972614	cell_line	R1192	3
+24972614	cell_line	RECA	1
+24972614	cell_line	VU-SCC-120	1
+24972614	organ/tissue	crop	1
+24972614	organ/tissue	cerebellum vermis lobule X	1
+24972614	organ/tissue	germinal center	1
+24972614	clinical_drug	Nitrogen	2
+24972614	entity_type	preferred_term	2

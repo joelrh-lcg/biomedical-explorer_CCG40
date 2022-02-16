@@ -1,0 +1,32 @@
+22906238	biological_process	detoxification	2
+22906238	biological_process	export across plasma membrane	1
+22906238	biological_process	export from cell	1
+22906238	cellular_component	efflux pump complex	1
+22906238	chemical	Hemin	12
+22906238	chemical	Heme	6
+22906238	chemical	hemin	6
+22906238	chemical	ferroheme b	3
+22906238	chemical	heme	3
+22906238	chemical	heme b	3
+22906238	chemical	trisulfanide	1
+22906238	chemical	protein	1
+22906238	chemical	nucleotide	1
+22906238	gene/protein	uroporphyrinogen decarboxylase (Dictyostelium discoideum)	3
+22906238	gene/protein	uroporphyrinogen decarboxylase (Staphylococcus aureus subsp. aureus NCTC 8325)	3
+22906238	gene/protein	uroporphyrinogen decarboxylase (Escherichia coli K-12)	3
+22906238	gene/protein	putative hemin import ATP-binding protein HrtA (Staphylococcus aureus subsp. aureus NCTC 8325)	2
+22906238	gene/protein	putative hemin transport system permease protein HrtB (Staphylococcus aureus subsp. aureus NCTC 8325)	2
+22906238	gene/protein	heme response regulator HssR (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+22906238	gene/protein	heme sensor protein HssS (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+22906238	organism	Staphylococcus aureus	2
+22906238	organism	Staphylococcus epidermidis	2
+22906238	organism	Staphylococcus	1
+22906238	sequence	gene	3
+22906238	sequence	syntenic_region	1
+22906238	sequence	polypeptide_secondary_structure	1
+22906238	sequence	promoter	1
+22906238	sequence	substitution	1
+22906238	sequence	5KB_downstream_variant	1
+22906238	sequence	polypeptide_conserved_motif	1
+22906238	sequence	polypeptide_motif	1
+22906238	clinical_drug	Hemin	6

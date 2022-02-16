@@ -1,0 +1,8 @@
+18922190	biological_process	transcription	1
+18922190	biological_process	regulation	1
+18922190	biological_process	gene expression	1
+18922190	chemical	element	1
+18922190	molecular_function	transcription factor	1
+18922190	sequence	gene	1
+18922190	sequence	sequence	1
+18922190	organ/tissue	element	1

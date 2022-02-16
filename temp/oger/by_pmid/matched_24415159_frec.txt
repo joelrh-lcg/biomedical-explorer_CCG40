@@ -1,0 +1,17 @@
+24415159	biological_process	biosynthesis	1
+24415159	biological_process	polysaccharide metabolic process	1
+24415159	cellular_component	cell surface	1
+24415159	cellular_component	chromosome	1
+24415159	chemical	polysaccharide	1
+24415159	chemical	aromatic compound	1
+24415159	chemical	base	1
+24415159	organism	plasmid	6
+24415159	organism	Rhizobium	2
+24415159	organism	life cycle	1
+24415159	sequence	plasmid	6
+24415159	sequence	cryptic	1
+24415159	sequence	replicon	1
+24415159	sequence	base	1
+24415159	sequence	chromosome	1
+24415159	organ/tissue	life cycle	1
+24415159	organ/tissue	exudate	1

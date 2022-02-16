@@ -1,0 +1,10 @@
+30214401	chemical	base	3
+30214401	chemical	cluster	2
+30214401	chemical	drug	1
+30214401	disease	disease	2
+30214401	gene/protein	bl6	1
+30214401	organism	mouse	8
+30214401	sequence	base	3
+30214401	cell_line	24 h	3
+30214401	cell_line	bl6	3
+30214401	organ/tissue	animal	2

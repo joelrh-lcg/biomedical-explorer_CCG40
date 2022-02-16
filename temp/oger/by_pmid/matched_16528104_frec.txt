@@ -1,0 +1,22 @@
+16528104	chemical	siga	4
+16528104	chemical	amino acid	2
+16528104	chemical	sigma70	1
+16528104	chemical	sigma factor	1
+16528104	gene/protein	sigma70	38
+16528104	gene/protein	siga	20
+16528104	gene/protein	rpod	8
+16528104	gene/protein	lax	4
+16528104	gene/protein	gusa	1
+16528104	organism	Rhizobium etli	2
+16528104	organism	Escherichia coli	2
+16528104	organism	collection	1
+16528104	sequence	promoter	7
+16528104	sequence	sequence	5
+16528104	sequence	consensus	2
+16528104	sequence	genomic dna	1
+16528104	sequence	construct	1
+16528104	sequence	vector	1
+16528104	sequence	gene	1
+16528104	sequence	clone	1
+16528104	sequence	upstream	1
+16528104	sequence	amino acid	1

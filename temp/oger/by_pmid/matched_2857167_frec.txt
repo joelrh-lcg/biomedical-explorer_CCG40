@@ -1,0 +1,15 @@
+2857167	chemical	glutamine	12
+2857167	chemical	aminooxyacetic acid	3
+2857167	chemical	ammonium	3
+2857167	chemical	pathway	1
+2857167	chemical	glutamine transaminase	1
+2857167	chemical	inhibitor	1
+2857167	chemical	diazo	1
+2857167	chemical	glutamate dehydrogenase	1
+2857167	chemical	glutamate synthase	1
+2857167	gene/protein	glutamate dehydrogenase	17
+2857167	gene/protein	lack	1
+2857167	organism	Neurospora crassa	2
+2857167	sequence	glutamine	4
+2857167	clinical_drug	glutamine	4
+2857167	clinical_drug	glutamate	2

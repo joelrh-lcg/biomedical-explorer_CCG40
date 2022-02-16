@@ -1,0 +1,27 @@
+10809690	biological_process	regulation	1
+10809690	biological_process	plasmid partitioning	1
+10809690	chemical	transact	2
+10809690	chemical	ce3	1
+10809690	chemical	intergenic sequence	1
+10809690	disease	igs	1
+10809690	gene/protein	repa	34
+10809690	gene/protein	repA	17
+10809690	gene/protein	repc	12
+10809690	gene/protein	repb	10
+10809690	gene/protein	repB	5
+10809690	gene/protein	repC	4
+10809690	organism	plasmid	6
+10809690	organism	Rhizobium etli	2
+10809690	sequence	plasmid	6
+10809690	sequence	gene	2
+10809690	sequence	replicon	1
+10809690	sequence	strand	1
+10809690	sequence	intergenic	1
+10809690	sequence	sequence	1
+10809690	sequence	operon	1
+10809690	sequence	igs	1
+10809690	sequence	downstream	1
+10809690	sequence	origin of replication	1
+10809690	cell_line	repc	3
+10809690	cell_line	ce3	1
+10809690	cell_line	repC	1

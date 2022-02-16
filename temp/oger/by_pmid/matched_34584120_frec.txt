@@ -1,0 +1,21 @@
+34584120	chemical	element	1
+34584120	chemical	sophoroside	1
+34584120	chemical	metabolite	1
+34584120	gene/protein	fixA	2
+34584120	gene/protein	nifH	1
+34584120	gene/protein	nodA	1
+34584120	organism	bacterium	28
+34584120	organism	eukaryote	2
+34584120	organism	Rhizobium etli	2
+34584120	organism	Saccharomyces cerevisiae	2
+34584120	organism	fungus	1
+34584120	organism	plasmid	1
+34584120	organism	yeast	1
+34584120	sequence	gene	2
+34584120	sequence	plasmid	1
+34584120	sequence	promoter	1
+34584120	cell_line	nodA	1
+34584120	organ/tissue	organism	2
+34584120	organ/tissue	element	1
+34584120	clinical_drug	Saccharomyces cerevisiae	2
+34584120	clinical_drug	yeast	1

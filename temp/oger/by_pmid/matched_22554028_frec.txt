@@ -1,0 +1,3 @@
+22554028	chemical	metric	10
+22554028	sequence	gene	3
+22554028	organ/tissue	matrix	1

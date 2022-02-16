@@ -1,0 +1,44 @@
+26362866	biological_process	nitrogen fixation	1
+26362866	chemical	nitrogen	2
+26362866	chemical	base	1
+26362866	chemical	cluster	1
+26362866	chemical	Nucleotide	1
+26362866	chemical	nucleotide	1
+26362866	disease	sms	1
+26362866	disease	ciat	1
+26362866	gene/protein	reca	14
+26362866	gene/protein	atpd	8
+26362866	gene/protein	dnak	8
+26362866	gene/protein	gyrb	5
+26362866	gene/protein	sms	5
+26362866	gene/protein	nov	4
+26362866	gene/protein	lmg	2
+26362866	gene/protein	nifH	1
+26362866	organism	Bradyrhizobium	5
+26362866	organism	soybean	2
+26362866	organism	Bradyrhizobium elkanii	2
+26362866	organism	Bradyrhizobium tropiciagri	2
+26362866	organism	bradyrhizobium embrapense	2
+26362866	organism	legume	1
+26362866	organism	Neonotonia wightii	1
+26362866	organism	Desmodium heterocarpon	1
+26362866	organism	bradyrhizobium	1
+26362866	organism	strain cnpso 1112	1
+26362866	organism	sms 303	1
+26362866	organism	BR 1009	1
+26362866	organism	SEMIA 6148	1
+26362866	organism	lmg 28867	1
+26362866	organism	strain cnpso 2833	1
+26362866	organism	ciat 2372	1
+26362866	organism	BR 2212	1
+26362866	organism	SEMIA 6208	1
+26362866	organism	u674	1
+26362866	organism	lmg 2987	1
+26362866	sequence	gene	4
+26362866	sequence	sequence	4
+26362866	sequence	base	1
+26362866	sequence	intergenic	1
+26362866	sequence	genome	1
+26362866	cell_line	reca	1
+26362866	clinical_drug	soybean	2
+26362866	clinical_drug	nitrogen	1

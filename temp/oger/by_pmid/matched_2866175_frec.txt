@@ -1,0 +1,26 @@
+2866175	biological_process	transcription	1
+2866175	chemical	gln	24
+2866175	chemical	nucleotide	1
+2866175	chemical	galactokinase	1
+2866175	gene/protein	galactokinase	146
+2866175	gene/protein	glna	6
+2866175	gene/protein	fold	4
+2866175	gene/protein	rna	2
+2866175	gene/protein	Gen	1
+2866175	molecular_function	galactokinase activity	1
+2866175	organism	Escherichia coli	2
+2866175	organism	plasmid	2
+2866175	organism	primer	1
+2866175	sequence	gln	6
+2866175	sequence	mutation	2
+2866175	sequence	plasmid	2
+2866175	sequence	gene	1
+2866175	sequence	sequence	1
+2866175	sequence	transversion	1
+2866175	sequence	upstream	1
+2866175	sequence	promoter	1
+2866175	sequence	clone	1
+2866175	sequence	primer	1
+2866175	sequence	wild type	1
+2866175	cell_line	Gen	1
+2866175	organ/tissue	extension	1

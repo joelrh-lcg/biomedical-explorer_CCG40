@@ -1,0 +1,15 @@
+30612723	chemical	16s rrna	1
+30612723	chemical	nucleotide	1
+30612723	gene/protein	pel	2
+30612723	gene/protein	ANI	1
+30612723	gene/protein	type b	1
+30612723	gene/protein	ani	1
+30612723	organism	bacterium	7
+30612723	organism	Phaseolus dumosus	1
+30612723	organism	Rhizobium	1
+30612723	organism	Phaseolus vulgari	1
+30612723	sequence	sequence	2
+30612723	sequence	genome	2
+30612723	sequence	16s rrna	1
+30612723	sequence	rrna gene	1
+30612723	organ/tissue	nodule	4

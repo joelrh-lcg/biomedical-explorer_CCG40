@@ -1,0 +1,45 @@
+17005985	biological_process	cell growth	2
+17005985	biological_process	transcription, DNA-templated	2
+17005985	cellular_component	membrane	2
+17005985	cellular_component	spanning component of plasma membrane	1
+17005985	cellular_component	integral component of membrane	1
+17005985	cellular_component	obsolete protein	1
+17005985	chemical	acid	3
+17005985	chemical	3,3',4',5-tetrachlorosalicylanilide	3
+17005985	chemical	calcium(0)	2
+17005985	chemical	calcium atom	2
+17005985	chemical	lysylphosphatidylglycerol	2
+17005985	chemical	lipophosphoglycan	2
+17005985	chemical	lipid	2
+17005985	chemical	protein	1
+17005985	chemical	(protein)	1
+17005985	chemical	Ligases	1
+17005985	chemical	Codon, Initiator	1
+17005985	disease	Lipoprotein Glomerulopathy	2
+17005985	gene/protein	beta-glucuronidase (Escherichia coli K-12)	3
+17005985	gene/protein	bifunctional protein FolD	1
+17005985	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+17005985	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+17005985	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+17005985	gene/protein	T cell receptor alpha constant	1
+17005985	gene/protein	T cell receptor alpha constant (human)	1
+17005985	gene/protein	T-cell receptor alpha chain C region (mouse)	1
+17005985	gene/protein	T cell receptor alpha variable 29/delta variable 5	1
+17005985	gene/protein	HIV envelope glycoprotein gp41 glycosylated form	1
+17005985	organism	Sinorhizobium meliloti	2
+17005985	organism	Rhizobium tropici	2
+17005985	organism	Staphylococcus aureus	2
+17005985	organism	Sinorhizobium	1
+17005985	organism	Alphaproteobacteria	1
+17005985	organism	Agrobacterium	1
+17005985	sequence	fusion	5
+17005985	sequence	gene	3
+17005985	sequence	region	2
+17005985	sequence	transmembrane_polypeptide_region	1
+17005985	sequence	polypeptide	1
+17005985	sequence	promoter	1
+17005985	sequence	5KB_upstream_variant	1
+17005985	sequence	start_codon	1
+17005985	organ/tissue	membrane organ	2
+17005985	organ/tissue	membranous layer	2
+17005985	clinical_drug	Calcium	2

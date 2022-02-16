@@ -1,0 +1,14 @@
+34097872	biological_process	synthesis	1
+34097872	cellular_component	membrane	2
+34097872	chemical	lipid	4
+34097872	chemical	cardiolipin	3
+34097872	chemical	a cardiolipin	1
+34097872	chemical	cardiolipin synthase	1
+34097872	gene/protein	cardiolipin synthase	20
+34097872	molecular_function	cardiolipin synthase	2
+34097872	organism	archaeon	2
+34097872	organism	Methanospirillum hungatei	1
+34097872	organism	synthetic	1
+34097872	sequence	construct	1
+34097872	sequence	chain	1
+34097872	organ/tissue	membrane	4

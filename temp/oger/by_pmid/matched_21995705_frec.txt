@@ -1,0 +1,5 @@
+21995705	disease	bcc6	1
+21995705	organism	bacterium	7
+21995705	organism	maize	4
+21995705	organism	Burkholderia cenocepacia	2
+21995705	organism	Burkholderia cepacia complex	1

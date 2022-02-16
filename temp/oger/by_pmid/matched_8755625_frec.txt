@@ -1,0 +1,23 @@
+8755625	biological_process	nodulation	2
+8755625	biological_process	sulfation	1
+8755625	biological_process	mutagenesis	1
+8755625	chemical	sulfate	3
+8755625	chemical	nod factor	3
+8755625	chemical	PAPS	2
+8755625	chemical	mixture	1
+8755625	chemical	3phosphoadenosine 5phosphosulfate	1
+8755625	chemical	complement	1
+8755625	disease	nod	3
+8755625	gene/protein	nod	135
+8755625	gene/protein	bean	9
+8755625	gene/protein	PAPS 3	1
+8755625	organism	Rhizobium tropici	2
+8755625	organism	Phaseolus vulgaris	2
+8755625	organism	CFN299	1
+8755625	sequence	gene	4
+8755625	sequence	motif	4
+8755625	sequence	clone	2
+8755625	sequence	sequence	1
+8755625	sequence	homologous	1
+8755625	sequence	mutagenesis	1
+8755625	cell_line	bean	3

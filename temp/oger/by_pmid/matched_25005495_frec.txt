@@ -1,0 +1,19 @@
+25005495	biological_process	symbiosis	2
+25005495	biological_process	nodulation	1
+25005495	biological_process	nitrogen fixation	1
+25005495	chemical	nitrogen	2
+25005495	disease	nod	1
+25005495	gene/protein	nod	45
+25005495	gene/protein	nif	1
+25005495	organism	Rhizobium etli	2
+25005495	organism	Rhizobium phaseoli	2
+25005495	organism	Phaseolus vulgaris	2
+25005495	organism	mimosa	2
+25005495	organism	legume	1
+25005495	organism	Rhizobium	1
+25005495	organism	plasmid	1
+25005495	sequence	gene	1
+25005495	sequence	variant	1
+25005495	sequence	plasmid	1
+25005495	organ/tissue	nodule	2
+25005495	clinical_drug	nitrogen	1

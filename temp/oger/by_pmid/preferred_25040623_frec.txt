@@ -1,0 +1,39 @@
+25040623	biological_process	biosynthetic process	4
+25040623	cellular_component	membrane	1
+25040623	cellular_component	obsolete protein	1
+25040623	chemical	ornithine containing aminolipid	2
+25040623	chemical	lipid	1
+25040623	chemical	picloram	1
+25040623	chemical	protein	1
+25040623	chemical	(protein)	1
+25040623	chemical	photon	1
+25040623	disease	Cholera	2
+25040623	disease	Pneumonia	2
+25040623	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+25040623	gene/protein	protein	1
+25040623	gene/protein	Fibrinogen gamma-B chain	1
+25040623	organism	bacterium IFAM-3211	3
+25040623	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+25040623	organism	bacterium IFAM-3215	3
+25040623	organism	bacterium IFAM-2074	3
+25040623	organism	bacterium IFAM-3359	3
+25040623	organism	bacterium	3
+25040623	organism	bacterium IFAM-1493	3
+25040623	organism	Escherichia coli	2
+25040623	organism	ornithine containing aminolipid	1
+25040623	organism	Archaea	1
+25040623	organism	Eukaryota	1
+25040623	organism	Serratia	1
+25040623	organism	Flavobacterium	1
+25040623	organism	Haloarcula marismortui	1
+25040623	organism	Halobacterium salinarum	1
+25040623	organism	Epsilonproteobacteria	1
+25040623	organism	Vibrio cholerae	1
+25040623	organism	Klebsiella	1
+25040623	sequence	homologous_region	2
+25040623	sequence	gene	1
+25040623	sequence	polypeptide	1
+25040623	sequence	deletion	1
+25040623	organ/tissue	membrane organ	1
+25040623	organ/tissue	membranous layer	1
+25040623	clinical_drug	Ornithine	1

@@ -1,0 +1,31 @@
+21569245	biological_process	cell population proliferation	1
+21569245	biological_process	cell cycle	1
+21569245	biological_process	regulation of gene expression	1
+21569245	biological_process	neurogenesis	1
+21569245	biological_process	energy homeostasis	1
+21569245	biological_process	neuron development	1
+21569245	chemical	Thyrotropin	2
+21569245	chemical	Hormones	2
+21569245	chemical	protirelin	2
+21569245	chemical	hormone	1
+21569245	chemical	peptide	1
+21569245	disease	Hypothalamic Diseases	4
+21569245	gene/protein	Thyrotropin-releasing hormone	8
+21569245	gene/protein	Protein henna	2
+21569245	gene/protein	pro-thyrotropin-releasing hormone (mouse)	2
+21569245	gene/protein	pro-thyrotropin-releasing hormone	2
+21569245	gene/protein	pro-thyrotropin-releasing hormone (rat)	2
+21569245	gene/protein	pro-thyrotropin-releasing hormone (chicken)	2
+21569245	gene/protein	pro-thyrotropin-releasing hormone (zebrafish)	2
+21569245	gene/protein	Phenylalanine-4-hydroxylase	2
+21569245	gene/protein	protein trachealess (fruit fly)	2
+21569245	gene/protein	pro-thyrotropin-releasing hormone (human)	2
+21569245	gene/protein	thyroid stimulating hormone	1
+21569245	gene/protein	proteolytic cleavage product	1
+21569245	gene/protein	amino acid chain	1
+21569245	sequence	gene	1
+21569245	sequence	active_peptide	1
+21569245	sequence	genome	1
+21569245	cell	neuroendocrine cell	1
+21569245	cell	neuron	1
+21569245	organ/tissue	proliferative region	2

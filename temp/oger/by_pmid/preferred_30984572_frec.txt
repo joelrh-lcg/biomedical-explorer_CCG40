@@ -1,0 +1,12 @@
+30984572	chemical	Ethanol	10
+30984572	chemical	ethanol	5
+30984572	chemical	beryllium atom	1
+30984572	chemical	solvent	1
+30984572	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+30984572	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+30984572	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+30984572	sequence	sequence_variant_obs	3
+30984572	sequence	gene	3
+30984572	sequence	allele	1
+30984572	clinical_drug	Ethanol	5
+30984572	entity_type	preferred_term	2

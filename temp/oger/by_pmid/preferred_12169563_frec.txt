@@ -1,0 +1,6 @@
+12169563	biological_process	transcription, DNA-templated	1
+12169563	organism	Escherichia coli	2
+12169563	sequence	genome	3
+12169563	sequence	gene	3
+12169563	sequence	operon	2
+12169563	sequence	intergenic_variant	1

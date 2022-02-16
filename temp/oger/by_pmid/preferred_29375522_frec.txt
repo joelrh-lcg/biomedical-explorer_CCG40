@@ -1,0 +1,72 @@
+29375522	biological_process	innate immune response	2
+29375522	biological_process	dephosphorylation	1
+29375522	biological_process	pathogenesis	1
+29375522	biological_process	obsolete virulence	1
+29375522	biological_process	viral process	1
+29375522	cellular_component	intracellular	2
+29375522	cellular_component	peptidoglycan-based cell wall	1
+29375522	cellular_component	envelope	1
+29375522	chemical	LPS with O-antigen	4
+29375522	chemical	lipopolysaccharide	4
+29375522	chemical	Ethanolamine	4
+29375522	chemical	Polymyxin B	4
+29375522	chemical	Lipid A	4
+29375522	chemical	1-acyl-sn-glycero-3-phosphoserine	3
+29375522	chemical	ethanolaminium(1+)	2
+29375522	chemical	ethanolamines	2
+29375522	chemical	ethanolamine	2
+29375522	chemical	peptide	2
+29375522	chemical	lipid A(4-)	2
+29375522	chemical	lipid As	2
+29375522	chemical	lipid A	2
+29375522	chemical	ornithine containing aminolipid	2
+29375522	chemical	molecule	1
+29375522	chemical	Transferases	1
+29375522	chemical	lipid	1
+29375522	disease	Van der Woude syndrome	3
+29375522	gene/protein	Streptopain	7
+29375522	gene/protein	ATP-dependent zinc metalloprotease YME1L1	6
+29375522	gene/protein	Toll-like receptor 4 (mouse)	3
+29375522	gene/protein	Toll-like receptor 4	3
+29375522	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	2
+29375522	gene/protein	proteolytic cleavage product	2
+29375522	gene/protein	amino acid chain	2
+29375522	gene/protein	ankyrin repeat and KH domain-containing protein mask (fruit fly)	1
+29375522	gene/protein	minor histocompatibility antigen H13	1
+29375522	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+29375522	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+29375522	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+29375522	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+29375522	gene/protein	minor histocompatibility antigen H13 (human)	1
+29375522	gene/protein	sphingosine-1-phosphate phosphatase	1
+29375522	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+29375522	gene/protein	SD07518p (fruit fly)	1
+29375522	gene/protein	Protein tilB homolog	1
+29375522	gene/protein	lipopolysaccharide export system protein LptA (Escherichia coli K-12)	1
+29375522	gene/protein	lipopolysaccharide export system protein LptA	1
+29375522	molecular_function	obsolete signal peptide peptidase activity	1
+29375522	molecular_function	phosphatase activity	1
+29375522	organism	Brucella	4
+29375522	organism	bacterium IFAM-3211	1
+29375522	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+29375522	organism	bacterium IFAM-3215	1
+29375522	organism	bacterium IFAM-2074	1
+29375522	organism	bacterium IFAM-3359	1
+29375522	organism	bacterium	1
+29375522	organism	bacterium IFAM-1493	1
+29375522	organism	bacterium BE	1
+29375522	organism	unidentified	1
+29375522	organism	ornithine containing aminolipid	1
+29375522	organism	Mus musculus	1
+29375522	organism	Mice	1
+29375522	sequence	gene	4
+29375522	sequence	homologous_region	2
+29375522	sequence	frameshift	2
+29375522	sequence	frameshift_variant	2
+29375522	sequence	active_peptide	2
+29375522	cell	dendritic cell, human	1
+29375522	cell	dendritic cell	1
+29375522	clinical_drug	Monoethanolamine	2
+29375522	clinical_drug	Polymyxin B	2
+29375522	clinical_drug	Ornithine	1
+29375522	molecular_process	reduction	1

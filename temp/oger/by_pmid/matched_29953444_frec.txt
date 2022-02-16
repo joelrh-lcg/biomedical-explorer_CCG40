@@ -1,0 +1,5 @@
+29953444	disease	sle	2
+29953444	disease	lupus nephritis	2
+29953444	gene/protein	sle	2
+29953444	sequence	variant	1
+29953444	cell_line	sle	2

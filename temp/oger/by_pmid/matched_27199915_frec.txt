@@ -1,0 +1,21 @@
+27199915	biological_process	transcriptional control	2
+27199915	biological_process	regulation	1
+27199915	cellular_component	protein	1
+27199915	chemical	sigma factor	4
+27199915	chemical	protein	2
+27199915	chemical	Sigma factor	1
+27199915	chemical	σ70	1
+27199915	gene/protein	σ70	38
+27199915	gene/protein	σ24	9
+27199915	gene/protein	rpoh	6
+27199915	gene/protein	rpoH	4
+27199915	gene/protein	protein	1
+27199915	organism	alphaproteobacteria	1
+27199915	sequence	gene	5
+27199915	sequence	duplication	2
+27199915	sequence	motif	2
+27199915	sequence	promoter	2
+27199915	sequence	protein	1
+27199915	sequence	gene segment	1
+27199915	sequence	promoter region	1
+27199915	organ/tissue	segment	1

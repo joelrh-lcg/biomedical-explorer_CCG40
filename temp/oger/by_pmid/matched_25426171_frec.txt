@@ -1,0 +1,5 @@
+25426171	disease	disease	2
+25426171	organism	human	1
+25426171	sequence	indel	2
+25426171	sequence	genome	1
+25426171	sequence	variant	1

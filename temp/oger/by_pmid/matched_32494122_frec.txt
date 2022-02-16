@@ -1,0 +1,10 @@
+32494122	chemical	csc	3
+32494122	chemical	drug	1
+32494122	chemical	antagonist	1
+32494122	disease	Cancer	2
+32494122	disease	breast tumor	2
+32494122	gene/protein	csc	3
+32494122	gene/protein	cd49f	3
+32494122	cell	stem cell	1
+32494122	cell_line	Cancer	1
+32494122	organ/tissue	breast	3

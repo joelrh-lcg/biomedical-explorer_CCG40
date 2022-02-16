@@ -1,0 +1,19 @@
+23071431	biological_process	nitrogen fixation	5
+23071431	biological_process	metabolism	2
+23071431	biological_process	symbiosis	1
+23071431	cellular_component	nucleic acid	1
+23071431	chemical	nitrogen	12
+23071431	chemical	metabolite	2
+23071431	chemical	biological function	1
+23071431	chemical	base	1
+23071431	chemical	nucleic acid	1
+23071431	chemical	peptide	1
+23071431	chemical	lipid	1
+23071431	gene/protein	peptide	2
+23071431	organism	bacterium	7
+23071431	organism	Rhizobium etli	2
+23071431	organism	Phaseolus vulgaris	2
+23071431	sequence	base	1
+23071431	sequence	nucleic acid	1
+23071431	sequence	peptide	1
+23071431	clinical_drug	nitrogen	6

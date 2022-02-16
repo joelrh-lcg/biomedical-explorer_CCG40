@@ -1,0 +1,20 @@
+19372274	biological_process	transcription, DNA-templated	1
+19372274	biological_process	biological regulation	1
+19372274	cellular_component	obsolete protein	2
+19372274	cellular_component	chromosome	2
+19372274	chemical	protein	2
+19372274	chemical	(protein)	2
+19372274	chemical	atom	1
+19372274	gene/protein	Importin subunit beta-2	6
+19372274	gene/protein	transportin-1	3
+19372274	gene/protein	transportin-1 (human)	3
+19372274	gene/protein	protein	2
+19372274	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+19372274	sequence	gene	6
+19372274	sequence	genome	3
+19372274	sequence	polypeptide	2
+19372274	sequence	regulon	2
+19372274	sequence	chromosome	2
+19372274	organ/tissue	terminal nerve	3
+19372274	organ/tissue	organ	1
+19372274	organ/tissue	scale	1

@@ -1,0 +1,14 @@
+25744996	chemical	methyl group	1
+25744996	chemical	methyl	1
+25744996	disease	Disease	2
+25744996	organism	Burkholderia cenocepacia	2
+25744996	organism	Humans	1
+25744996	organism	bacterium IFAM-3211	1
+25744996	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+25744996	organism	bacterium IFAM-3215	1
+25744996	organism	bacterium IFAM-2074	1
+25744996	organism	bacterium IFAM-3359	1
+25744996	organism	bacterium	1
+25744996	organism	bacterium IFAM-1493	1
+25744996	sequence	genome	1
+25744996	sequence	region	1

@@ -1,0 +1,36 @@
+21043576	biological_process	respiration	2
+21043576	biological_process	response to nitric oxide	1
+21043576	biological_process	regulation	1
+21043576	biological_process	formation	1
+21043576	biological_process	response to nitrate	1
+21043576	chemical	nitric oxide	6
+21043576	chemical	nitrate	3
+21043576	chemical	reductase	2
+21043576	chemical	nitrate reductase	1
+21043576	chemical	respiratory nitrate reductase	1
+21043576	chemical	proteins	1
+21043576	chemical	cluster	1
+21043576	chemical	nitrite	1
+21043576	chemical	nitrite reductase	1
+21043576	gene/protein	nitrate reductase	10
+21043576	gene/protein	nap	10
+21043576	gene/protein	bean	6
+21043576	gene/protein	nirK	5
+21043576	gene/protein	nitrite reductase	4
+21043576	gene/protein	nar	2
+21043576	gene/protein	nirk	2
+21043576	gene/protein	lack	1
+21043576	molecular_function	nitrate reductase activity	1
+21043576	organism	Rhizobium etli	2
+21043576	organism	CFN42	1
+21043576	sequence	gene	7
+21043576	sequence	regulatory region	2
+21043576	sequence	operon	1
+21043576	sequence	gene fusion	1
+21043576	sequence	null mutation	1
+21043576	sequence	wild type	1
+21043576	cell_line	bean	2
+21043576	cell_line	nap	1
+21043576	organ/tissue	nodule	2
+21043576	clinical_drug	nitric oxide	2
+21043576	molecular_process	reduction	1

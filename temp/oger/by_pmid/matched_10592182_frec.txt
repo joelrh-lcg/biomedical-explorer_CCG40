@@ -1,0 +1,24 @@
+10592182	biological_process	transcription	2
+10592182	biological_process	regulation	1
+10592182	cellular_component	ribosome	1
+10592182	cellular_component	chromosome	1
+10592182	chemical	cluster	1
+10592182	chemical	base	1
+10592182	gene/protein	k12	9
+10592182	gene/protein	K12	9
+10592182	gene/protein	add	3
+10592182	molecular_function	binding	1
+10592182	molecular_function	ribosome binding	1
+10592182	organism	Escherichia coli	2
+10592182	sequence	binding site	4
+10592182	sequence	operon	2
+10592182	sequence	signal	2
+10592182	sequence	promoter	1
+10592182	sequence	terminator	1
+10592182	sequence	gene	1
+10592182	sequence	base	1
+10592182	sequence	sequence	1
+10592182	sequence	chromosome	1
+10592182	cell_line	k12	2
+10592182	cell_line	K12	2
+10592182	organ/tissue	web	1

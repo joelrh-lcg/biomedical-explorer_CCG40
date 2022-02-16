@@ -1,0 +1,9 @@
+29844095	chemical	sulfonylurea	2
+29844095	chemical	k in	1
+29844095	chemical	hepatocyte nuclear factor1α	1
+29844095	disease	mody	3
+29844095	disease	mody3	2
+29844095	gene/protein	hepatocyte nuclear factor1α	6
+29844095	sequence	variant	1
+29844095	sequence	gene	1
+29844095	cell	hepatocyte	1

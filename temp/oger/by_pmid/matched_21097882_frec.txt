@@ -1,0 +1,18 @@
+21097882	biological_process	regulation	2
+21097882	biological_process	gene expression	1
+21097882	biological_process	signal transduction	1
+21097882	cellular_component	protein	2
+21097882	chemical	protein	4
+21097882	chemical	pathway	2
+21097882	chemical	12 mg	1
+21097882	gene/protein	k12	9
+21097882	gene/protein	protein	2
+21097882	organism	e coli	2
+21097882	organism	Escherichia coli k12	1
+21097882	sequence	gene	2
+21097882	sequence	protein	2
+21097882	sequence	signal	2
+21097882	sequence	operon	1
+21097882	cell_line	k12	2
+21097882	organ/tissue	organism	1
+21097882	organ/tissue	web	1

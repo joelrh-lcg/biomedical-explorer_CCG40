@@ -1,0 +1,29 @@
+32176702	biological_process	biofilm formation	5
+32176702	biological_process	signaling pathway	1
+32176702	biological_process	gene expression	1
+32176702	biological_process	signal transduction	1
+32176702	biological_process	flagellum assembly	1
+32176702	biological_process	signaling	1
+32176702	cellular_component	flagellum	6
+32176702	cellular_component	pilus	1
+32176702	cellular_component	cell surface	1
+32176702	chemical	cdigmp	12
+32176702	chemical	guanosine monophosphate	4
+32176702	chemical	pathway	2
+32176702	chemical	hemagglutinin	2
+32176702	chemical	molecule	1
+32176702	chemical	flagellin	1
+32176702	chemical	diguanylate cyclase	1
+32176702	disease	cholera	2
+32176702	gene/protein	hemagglutinin	288
+32176702	gene/protein	flagellin	35
+32176702	gene/protein	lack	2
+32176702	organism	bacterium	7
+32176702	sequence	signal	4
+32176702	sequence	assembly	3
+32176702	sequence	transition	2
+32176702	sequence	gene	1
+32176702	sequence	reverse	1
+32176702	sequence	deletion	1
+32176702	sequence	mutation	1
+32176702	molecular_process	reduction	1

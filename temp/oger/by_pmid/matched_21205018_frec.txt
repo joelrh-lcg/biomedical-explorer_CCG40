@@ -1,0 +1,19 @@
+21205018	biological_process	biosynthesis	2
+21205018	biological_process	synthesis	1
+21205018	biological_process	symbiosis	1
+21205018	cellular_component	outer membrane	1
+21205018	chemical	ornithine	8
+21205018	chemical	ornithine lipid	2
+21205018	chemical	hydroxy	2
+21205018	chemical	fatty acyl group	2
+21205018	chemical	amide	2
+21205018	chemical	acid	2
+21205018	chemical	fatty acid	1
+21205018	gene/protein	lack	2
+21205018	organism	bacterium	7
+21205018	organism	Rhizobium tropici	2
+21205018	organism	ornithine lipid	1
+21205018	sequence	double	1
+21205018	organ/tissue	membrane	2
+21205018	clinical_drug	ornithine	3
+21205018	molecular_process	hydroxylation	3

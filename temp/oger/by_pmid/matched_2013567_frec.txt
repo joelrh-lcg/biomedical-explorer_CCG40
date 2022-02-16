@@ -1,0 +1,15 @@
+2013567	biological_process	formation	1
+2013567	biological_process	nodulation	1
+2013567	biological_process	nitrogen fixation	1
+2013567	chemical	nitrogen	2
+2013567	chemical	nitrogenase	1
+2013567	organism	Rhizobium phaseoli	2
+2013567	organism	Rhizobium	1
+2013567	organism	plasmid	1
+2013567	sequence	genome	2
+2013567	sequence	deletion	2
+2013567	sequence	plasmid	1
+2013567	sequence	gene	1
+2013567	sequence	operon	1
+2013567	organ/tissue	flank	1
+2013567	clinical_drug	nitrogen	1

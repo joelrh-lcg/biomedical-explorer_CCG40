@@ -1,0 +1,20 @@
+14600219	biological_process	pathogenesis	1
+14600219	biological_process	biological regulation	1
+14600219	biological_process	transcription, DNA-templated	1
+14600219	chemical	Leu-Ala-Ser	2
+14600219	chemical	Sigma Factor	2
+14600219	chemical	protein	1
+14600219	gene/protein	lipoyl synthase, mitochondrial (fruit fly)	2
+14600219	gene/protein	scarecrow-like protein 18 (Arabidopsis thaliana)	2
+14600219	gene/protein	lipoyl synthase, mitochondrial	2
+14600219	gene/protein	lipoyl synthase, mitochondrial (human)	2
+14600219	gene/protein	Transcriptional regulator	1
+14600219	gene/protein	Transcription factor HES-1	1
+14600219	gene/protein	ATP-dependent RNA helicase RhlB	1
+14600219	gene/protein	ATP-dependent RNA helicase RhlB (Escherichia coli K-12)	1
+14600219	gene/protein	transcriptional activator protein LasR (Pseudomonas aeruginosa PAO1)	1
+14600219	organism	Pseudomonas aeruginosa	2
+14600219	sequence	gene	3
+14600219	sequence	promoter_region	1
+14600219	sequence	TSS	1
+14600219	sequence	5KB_upstream_variant	1

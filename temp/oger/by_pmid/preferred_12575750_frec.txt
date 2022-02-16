@@ -1,0 +1,62 @@
+12575750	biological_process	nodulation	2
+12575750	biological_process	obsolete mutagenesis	1
+12575750	biological_process	pathogenesis	1
+12575750	biological_process	obsolete virulence	1
+12575750	biological_process	viral process	1
+12575750	cellular_component	obsolete protein	1
+12575750	cellular_component	smooth endoplasmic reticulum	1
+12575750	cellular_component	host cell	1
+12575750	cellular_component	membrane	1
+12575750	chemical	acid	5
+12575750	chemical	protein	3
+12575750	chemical	(protein)	1
+12575750	chemical	L-seryl group	1
+12575750	chemical	L-serino group	1
+12575750	chemical	L-serine residue	1
+12575750	chemical	L-serine	1
+12575750	chemical	DNA, Intergenic	1
+12575750	chemical	alpha-particle	1
+12575750	chemical	electron	1
+12575750	chemical	positron	1
+12575750	chemical	photon	1
+12575750	chemical	antimicrobial agent	1
+12575750	chemical	peptide A	1
+12575750	disease	COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	1
+12575750	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	2
+12575750	gene/protein	extracellular adherence protein	2
+12575750	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	2
+12575750	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	2
+12575750	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	2
+12575750	gene/protein	methionine aminopeptidase	2
+12575750	gene/protein	Tyrosine-protein phosphatase YopH	2
+12575750	gene/protein	Sialoadhesin	1
+12575750	gene/protein	sialoadhesin	1
+12575750	gene/protein	protein serrate (fruit fly)	1
+12575750	gene/protein	Fibrinogen gamma-B chain	1
+12575750	gene/protein	proteolytic cleavage product	1
+12575750	gene/protein	amino acid chain	1
+12575750	organism	Rhizobium tropici	3
+12575750	organism	Phaseolus	1
+12575750	organism	Phaseolus vulgaris	1
+12575750	organism	Gammaproteobacteria	1
+12575750	sequence	gene	4
+12575750	sequence	operon	3
+12575750	sequence	mutated_variant_site	1
+12575750	sequence	insertion	1
+12575750	sequence	region	1
+12575750	sequence	polypeptide	1
+12575750	sequence	orthologous_region	1
+12575750	sequence	substitution	1
+12575750	sequence	polypeptide_conserved_motif	1
+12575750	sequence	polypeptide_motif	1
+12575750	sequence	serine	1
+12575750	sequence	promoter	1
+12575750	sequence	intergenic_region	1
+12575750	sequence	5KB_upstream_variant	1
+12575750	sequence	active_peptide	1
+12575750	sequence	deletion	1
+12575750	cell_line	BTI-Tn-5B1-4	1
+12575750	organ/tissue	cerebellum vermis lobule X	1
+12575750	organ/tissue	germinal center	1
+12575750	organ/tissue	membrane organ	1
+12575750	organ/tissue	membranous layer	1

@@ -1,0 +1,28 @@
+22343301	biological_process	biosynthetic process	1
+22343301	biological_process	transcription, DNA-templated	1
+22343301	cellular_component	nucleoid	1
+22343301	cellular_component	obsolete protein	1
+22343301	chemical	cluster	2
+22343301	chemical	protein	2
+22343301	chemical	arylsulfate sulfotransferase	1
+22343301	chemical	sulfonyl group	1
+22343301	chemical	sulfate	1
+22343301	chemical	acceptor	1
+22343301	chemical	disulfide	1
+22343301	chemical	(protein)	1
+22343301	gene/protein	HTH-type transcriptional regulator LeuO	2
+22343301	gene/protein	HTH-type transcriptional regulator LeuO (Escherichia coli K-12)	2
+22343301	gene/protein	DNA-binding protein H-NS (Escherichia coli K-12)	2
+22343301	gene/protein	DNA-binding protein H-NS	2
+22343301	gene/protein	protein	1
+22343301	molecular_function	arylsulfate sulfotransferase activity	4
+22343301	organism	Salmonella typhi	1
+22343301	sequence	gene	5
+22343301	sequence	operon	2
+22343301	sequence	three_prime_cis_splice_site	1
+22343301	sequence	5KB_upstream_variant	1
+22343301	sequence	disulfide_bond	1
+22343301	sequence	promoter	1
+22343301	sequence	clone	1
+22343301	sequence	TSS	1
+22343301	sequence	polypeptide	1

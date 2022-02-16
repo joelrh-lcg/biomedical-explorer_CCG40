@@ -1,0 +1,25 @@
+1715738	biological_process	DNA packaging	1
+1715738	chemical	DNA, Ribosomal	2
+1715738	chemical	sulfur atom	1
+1715738	gene/protein	Streptopain	14
+1715738	gene/protein	minor histocompatibility antigen H13	2
+1715738	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	2
+1715738	gene/protein	Sucrose 6(F)-phosphate phosphorylase	2
+1715738	gene/protein	sphingosine-1-phosphate phosphatase 1	2
+1715738	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	2
+1715738	gene/protein	minor histocompatibility antigen H13 (human)	2
+1715738	gene/protein	sphingosine-1-phosphate phosphatase	2
+1715738	gene/protein	Sphingosine-1-phosphate phosphatase 1	2
+1715738	gene/protein	SD07518p (fruit fly)	2
+1715738	gene/protein	cardiolipin synthase A	1
+1715738	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+1715738	gene/protein	CTD small phosphatase-like protein (chicken)	1
+1715738	molecular_function	obsolete signal peptide peptidase activity	2
+1715738	organism	Rhizobium tropici	2
+1715738	organism	Rhizobium leguminosarum	2
+1715738	organism	Rhizobium	1
+1715738	organism	Phaseolus	1
+1715738	organism	Phaseolus vulgaris	1
+1715738	sequence	region	1
+1715738	sequence	rRNA_gene	1
+1715738	sequence	gene	1

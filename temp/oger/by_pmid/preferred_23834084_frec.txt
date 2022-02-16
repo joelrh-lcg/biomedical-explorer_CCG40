@@ -1,0 +1,30 @@
+23834084	cellular_component	mitochondrial chromosome	1
+23834084	cellular_component	obsolete protein	1
+23834084	chemical	protein	1
+23834084	chemical	(protein)	1
+23834084	chemical	RNA, Transfer	1
+23834084	chemical	transfer RNA	1
+23834084	chemical	ribosomal RNA	1
+23834084	chemical	nucleotide	1
+23834084	gene/protein	protein	1
+23834084	gene/protein	bifunctional protein FolD	1
+23834084	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+23834084	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+23834084	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+23834084	molecular_function	triplet codon-amino acid adaptor activity	1
+23834084	organism	Danaus plexippus	1
+23834084	organism	Butterflies	1
+23834084	organism	Euploea mulciber	1
+23834084	organism	Lepidoptera	1
+23834084	sequence	region	4
+23834084	sequence	genome	1
+23834084	sequence	assembly	1
+23834084	sequence	polypeptide	1
+23834084	sequence	gene	1
+23834084	sequence	tRNA_gene	1
+23834084	sequence	rRNA_gene	1
+23834084	sequence	consensus	1
+23834084	sequence	SNP	1
+23834084	organ/tissue	digestive tract	1
+23834084	organ/tissue	lower digestive tract	1
+23834084	organ/tissue	digestive system	1

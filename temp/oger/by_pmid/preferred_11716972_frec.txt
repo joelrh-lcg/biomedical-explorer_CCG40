@@ -1,0 +1,14 @@
+11716972	cellular_component	B cell receptor complex	5
+11716972	cellular_component	immunoglobulin complex, circulating	5
+11716972	cellular_component	immunoglobulin complex	5
+11716972	chemical	Antigens	4
+11716972	chemical	antigen	2
+11716972	gene/protein	protein virilizer homolog (Arabidopsis thaliana)	2
+11716972	gene/protein	protein virilizer (fruit fly)	2
+11716972	gene/protein	outer membrane porin C	1
+11716972	gene/protein	outer membrane porin C (Escherichia coli K-12)	1
+11716972	molecular_function	antigen binding	5
+11716972	sequence	region	2
+11716972	sequence	mature_protein_region	1
+11716972	organ/tissue	webbed interdigital region	1
+11716972	entity_type	preferred_term	2

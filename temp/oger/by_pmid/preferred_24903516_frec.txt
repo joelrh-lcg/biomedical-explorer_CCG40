@@ -1,0 +1,30 @@
+24903516	biological_process	biological regulation	2
+24903516	biological_process	transcription, DNA-templated	1
+24903516	biological_process	regulation of gene expression	1
+24903516	chemical	base	2
+24903516	gene/protein	Keratin, type I cytoskeletal 12	4
+24903516	gene/protein	hydrogen peroxide-inducible genes activator	2
+24903516	gene/protein	hydrogen peroxide-inducible genes activator (Escherichia coli K-12)	2
+24903516	gene/protein	transcriptional regulator OxyR	2
+24903516	gene/protein	secreted and transmembrane protein 1	1
+24903516	gene/protein	secreted and transmembrane protein 1 (human)	1
+24903516	gene/protein	secreted and transmembrane protein 1b	1
+24903516	gene/protein	keratin, type I cytoskeletal 12	1
+24903516	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+24903516	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+24903516	organism	Escherichia coli	2
+24903516	organism	Escherichia coli K12	1
+24903516	organism	bacterium IFAM-3211	1
+24903516	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+24903516	organism	bacterium IFAM-3215	1
+24903516	organism	bacterium IFAM-2074	1
+24903516	organism	bacterium IFAM-3359	1
+24903516	organism	bacterium	1
+24903516	organism	bacterium IFAM-1493	1
+24903516	sequence	base	2
+24903516	sequence	gene	2
+24903516	sequence	candidate_gene	1
+24903516	cell_line	K12 [Mouse osteosarcoma]	1
+24903516	cell_line	K12-72.1	1
+24903516	organ/tissue	cauda epididymis	1
+24903516	organ/tissue	corpus	1

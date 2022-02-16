@@ -1,0 +1,28 @@
+28830361	biological_process	mRNA cis splicing, via spliceosome	1
+28830361	chemical	Glycine	2
+28830361	chemical	protein	1
+28830361	chemical	glycine	1
+28830361	chemical	glycine zwitterion	1
+28830361	chemical	glycine residue	1
+28830361	gene/protein	ribonuclease I (Escherichia coli K-12)	2
+28830361	gene/protein	ribonuclease I	2
+28830361	gene/protein	DNA-3-methyladenine glycosylase 1 (Escherichia coli K-12)	1
+28830361	gene/protein	UPF0410 protein YmgE	1
+28830361	gene/protein	UPF0410 protein YmgE (Escherichia coli K-12)	1
+28830361	gene/protein	DNA-3-methyladenine glycosylase 1	1
+28830361	gene/protein	DNA-3-methyladenine glycosylase	1
+28830361	gene/protein	protein max (zebrafish)	1
+28830361	organism	Fabaceae	1
+28830361	organism	Phaseolus	1
+28830361	organism	Phaseolus vulgaris	1
+28830361	organism	Glycine max	1
+28830361	organism	Soybeans	1
+28830361	sequence	transcript	1
+28830361	sequence	alternate_sequence_site	1
+28830361	sequence	gene	1
+28830361	sequence	primary_transcript	1
+28830361	sequence	region	1
+28830361	sequence	tag	1
+28830361	sequence	glycine	1
+28830361	cell	eukaryotic cell	1
+28830361	clinical_drug	Glycine	1

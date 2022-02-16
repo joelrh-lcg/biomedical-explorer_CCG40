@@ -1,0 +1,40 @@
+2698914	biological_process	glutamine catabolic process	2
+2698914	biological_process	biological regulation	1
+2698914	chemical	Glutamine	6
+2698914	chemical	glutamine-pyruvate aminotransferase	4
+2698914	chemical	glutamine	3
+2698914	chemical	L-glutamine	3
+2698914	chemical	glyoxylic acid	3
+2698914	chemical	Pyruvic Acid	2
+2698914	chemical	pyruvate	1
+2698914	chemical	glyoxylate	1
+2698914	chemical	Glutaminase	1
+2698914	chemical	nitrogen atom	1
+2698914	chemical	nitrogen(.)	1
+2698914	gene/protein	Glutaminase	152
+2698914	gene/protein	bifunctional protein FolD	2
+2698914	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	2
+2698914	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	2
+2698914	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	2
+2698914	gene/protein	rhodopsin (rat)	2
+2698914	gene/protein	transcription termination factor Rho (Bacillus subtilis subsp. subtilis str. 168)	2
+2698914	gene/protein	transcription termination factor Rho (Escherichia coli K-12)	2
+2698914	gene/protein	rhodopsin (mouse)	2
+2698914	gene/protein	rhodopsin (cow)	2
+2698914	gene/protein	transcription termination factor Rho	2
+2698914	gene/protein	rhodopsin (chicken)	2
+2698914	gene/protein	rhodopsin	2
+2698914	gene/protein	protein rhomboid (fruit fly)	2
+2698914	gene/protein	Chloroacetanilide N-alkylformylase, oxygenase component	2
+2698914	gene/protein	rhodopsin (human)	2
+2698914	gene/protein	rhodopsin (zebrafish)	2
+2698914	molecular_function	transaminase activity	5
+2698914	organism	Saccharomyces cerevisiae	2
+2698914	sequence	glutamine	7
+2698914	cell_line	RHO	2
+2698914	organ/tissue	plantar part of pes	1
+2698914	clinical_drug	Glutamine	7
+2698914	clinical_drug	saccharomyces cerevisiae allergenic extract	1
+2698914	clinical_drug	Saccharomyces cerevisiae	1
+2698914	clinical_drug	Pyruvate	1
+2698914	clinical_drug	Nitrogen	1

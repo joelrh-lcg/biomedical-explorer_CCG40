@@ -1,0 +1,7 @@
+32665585	biological_process	biological regulation	3
+32665585	biological_process	transcription, DNA-templated	1
+32665585	organism	synthetic construct	1
+32665585	sequence	gene	3
+32665585	sequence	genome	1
+32665585	sequence	promoter	1
+32665585	sequence	engineered_region	1

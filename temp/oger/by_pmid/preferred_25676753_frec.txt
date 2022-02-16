@@ -1,0 +1,15 @@
+25676753	organism	Bacillus	1
+25676753	organism	bacterium IFAM-3211	1
+25676753	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+25676753	organism	bacterium IFAM-3215	1
+25676753	organism	bacterium IFAM-2074	1
+25676753	organism	bacterium IFAM-3359	1
+25676753	organism	bacterium	1
+25676753	organism	bacterium IFAM-1493	1
+25676753	organism	Saccharum	1
+25676753	organism	Saccharum officinarum	1
+25676753	organism	Saccharum hybrid cultivar	1
+25676753	sequence	genome	1
+25676753	sequence	gene	1
+25676753	clinical_drug	sugarcane extract	1
+25676753	clinical_drug	Saccharum officinarum allergenic extract	1

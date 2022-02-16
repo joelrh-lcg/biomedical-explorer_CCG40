@@ -1,0 +1,37 @@
+21479798	biological_process	carbon fixation	1
+21479798	biological_process	mutagenesis	1
+21479798	cellular_component	protein	1
+21479798	chemical	carbon	10
+21479798	chemical	glucose	10
+21479798	chemical	pyruvate	3
+21479798	chemical	protein	2
+21479798	chemical	pyruvate carboxylase	1
+21479798	chemical	phosphoenolpyruvate carboxylase	1
+21479798	gene/protein	phosphoenolpyruvate carboxylase	250
+21479798	gene/protein	rmf	46
+21479798	gene/protein	ppc	28
+21479798	gene/protein	pyc	15
+21479798	gene/protein	pyruvate carboxylase	9
+21479798	gene/protein	PPC	8
+21479798	gene/protein	PYC	3
+21479798	gene/protein	protein	1
+21479798	gene/protein	lack	1
+21479798	organism	bacterium	7
+21479798	organism	Bradyrhizobium japonicum	2
+21479798	organism	Sinorhizobium meliloti	2
+21479798	organism	rhizobium etli	2
+21479798	organism	usda110	2
+21479798	organism	USDA110	1
+21479798	organism	plasmid	1
+21479798	sequence	intermediate	2
+21479798	sequence	genome	2
+21479798	sequence	clone	2
+21479798	sequence	protein	1
+21479798	sequence	sequence	1
+21479798	sequence	cosmid	1
+21479798	sequence	plasmid	1
+21479798	sequence	gene	1
+21479798	sequence	insertion	1
+21479798	sequence	mutagenesis	1
+21479798	clinical_drug	pyruvate	2
+21479798	clinical_drug	glucose	2

@@ -1,0 +1,22 @@
+26189661	chemical	Metronidazole	2
+26189661	chemical	carminic acid	2
+26189661	chemical	Carmine	2
+26189661	chemical	nucleotide	1
+26189661	disease	DEVELOPMENTAL DYSPLASIA OF THE HIP 1	1
+26189661	gene/protein	anillin (fruit fly)	1
+26189661	gene/protein	aldo-keto reductase family 1 member C1	1
+26189661	gene/protein	aldo-keto reductase family 1 member C1 (human)	1
+26189661	organism	Wolbachia	12
+26189661	organism	Wolbachia pipientis	2
+26189661	organism	Arthropods	1
+26189661	organism	bacterium IFAM-3211	1
+26189661	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+26189661	organism	bacterium IFAM-3215	1
+26189661	organism	bacterium IFAM-2074	1
+26189661	organism	bacterium IFAM-3359	1
+26189661	organism	bacterium	1
+26189661	organism	bacterium IFAM-1493	1
+26189661	organism	Dactylopius coccus	1
+26189661	sequence	genome	2
+26189661	sequence	region	2
+26189661	clinical_drug	Cochineal	1

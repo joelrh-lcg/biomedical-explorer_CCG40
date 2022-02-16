@@ -1,0 +1,52 @@
+17601817	chemical	aromatic compound	2
+17601817	chemical	Phenol	2
+17601817	chemical	Benzene	2
+17601817	chemical	Toluene	2
+17601817	chemical	1-aminocyclopropane-1-carboxylic acid	2
+17601817	chemical	Phosphates	2
+17601817	chemical	phenol	1
+17601817	chemical	benzene	1
+17601817	chemical	elemental carbon	1
+17601817	chemical	carbon atom	1
+17601817	chemical	toluene	1
+17601817	chemical	1-aminocyclopropanecarboxylic acid	1
+17601817	chemical	1-aminocyclopropane-1-carboxylate deaminase	1
+17601817	chemical	mineral	1
+17601817	chemical	phosphate	1
+17601817	chemical	phosphate)	1
+17601817	chemical	phosphate ion	1
+17601817	chemical	phosphate(3-)	1
+17601817	chemical	phosphoric acid	1
+17601817	chemical	hydrogenphosphate	1
+17601817	chemical	organic acid	1
+17601817	chemical	siderophore	1
+17601817	disease	Infections	2
+17601817	gene/protein	1-aminocyclopropane-1-carboxylate deaminase	47
+17601817	gene/protein	Acetyl-CoA carboxylase 1	5
+17601817	gene/protein	Putative 1-aminocyclopropane-1-carboxylate deaminase	4
+17601817	gene/protein	Probable 1-aminocyclopropane-1-carboxylate deaminase	2
+17601817	gene/protein	Tryptophan 2,3-dioxygenase B	1
+17601817	gene/protein	acetyl-CoA carboxylase 1 (human)	1
+17601817	gene/protein	fractalkine (rat)	1
+17601817	gene/protein	Biotin carboxylase 1	1
+17601817	gene/protein	1-aminocyclopropane-1-carboxylate synthase 2 (Arabidopsis thaliana)	1
+17601817	gene/protein	acetyl-CoA carboxylase 1	1
+17601817	gene/protein	1-aminocyclopropane-1-carboxylate synthase 2	1
+17601817	gene/protein	acetyl-CoA carboxylase (yeast)	1
+17601817	gene/protein	acetylcholine-gated chloride channel subunit acc-1 (worm)	1
+17601817	gene/protein	acetyl-CoA carboxylase 1 (Arabidopsis thaliana)	1
+17601817	molecular_function	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	1
+17601817	molecular_function	deaminase activity	1
+17601817	organism	Burkholderia	8
+17601817	organism	unidentified	2
+17601817	organism	Burkholderia cepacia complex	1
+17601817	organism	Humans	1
+17601817	organism	Solanum lycopersicum	1
+17601817	organism	Lycopersicon esculentum	1
+17601817	organism	Candidatus Glomeribacter gigasporarum	1
+17601817	organism	Burkholderia sp.	1
+17601817	organism	Burkholderia sp. RASC	1
+17601817	sequence	gene	2
+17601817	clinical_drug	tomato allergenic extract	1
+17601817	clinical_drug	Phenol	1
+17601817	clinical_drug	Toluene	1

@@ -1,0 +1,26 @@
+22343301	biological_process	formation	1
+22343301	biological_process	transcription	1
+22343301	cellular_component	nucleoid	1
+22343301	cellular_component	protein	1
+22343301	chemical	cluster	2
+22343301	chemical	protein	2
+22343301	chemical	arylsulfate sulfotransferase	1
+22343301	chemical	sulfuryl	1
+22343301	chemical	sulfate	1
+22343301	chemical	acceptor	1
+22343301	chemical	disulfide	1
+22343301	chemical	proteins	1
+22343301	gene/protein	leuo	4
+22343301	gene/protein	hns	4
+22343301	gene/protein	protein	1
+22343301	molecular_function	asst	4
+22343301	organism	salmonella enterica serovar Typhi	1
+22343301	sequence	gene	5
+22343301	sequence	operon	2
+22343301	sequence	acceptor	1
+22343301	sequence	upstream	1
+22343301	sequence	disulfide bond	1
+22343301	sequence	promoter	1
+22343301	sequence	clone	1
+22343301	sequence	transcription start site	1
+22343301	sequence	protein	1

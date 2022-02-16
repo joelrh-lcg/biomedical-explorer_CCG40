@@ -1,0 +1,4 @@
+30561303	organism	Acinetobacter baumannii	2
+30561303	sequence	genome	2
+30561303	sequence	region	1
+30561303	sequence	genotype	1

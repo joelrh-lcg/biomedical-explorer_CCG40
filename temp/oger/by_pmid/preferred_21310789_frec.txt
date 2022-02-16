@@ -1,0 +1,35 @@
+21310789	biological_process	glycerol metabolic process	1
+21310789	chemical	base	2
+21310789	chemical	Glycerol	2
+21310789	chemical	Sigma Factor	1
+21310789	chemical	glycerol	1
+21310789	gene/protein	Keratin, type I cytoskeletal 12	4
+21310789	gene/protein	RNA polymerase sigma factor RpoS (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	1
+21310789	gene/protein	RNA polymerase sigma factor RpoS	1
+21310789	gene/protein	RNA polymerase sigma factor RpoS (Escherichia coli K-12)	1
+21310789	gene/protein	secreted and transmembrane protein 1	1
+21310789	gene/protein	secreted and transmembrane protein 1 (human)	1
+21310789	gene/protein	secreted and transmembrane protein 1b	1
+21310789	gene/protein	keratin, type I cytoskeletal 12	1
+21310789	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+21310789	organism	bacterium IFAM-3211	2
+21310789	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+21310789	organism	bacterium IFAM-3215	2
+21310789	organism	bacterium IFAM-2074	2
+21310789	organism	bacterium IFAM-3359	2
+21310789	organism	bacterium	2
+21310789	organism	bacterium IFAM-1493	2
+21310789	organism	Bacillus subtilis	2
+21310789	organism	Escherichia coli K12	1
+21310789	organism	Geobacter	1
+21310789	organism	Borrelia	1
+21310789	sequence	gene	7
+21310789	sequence	base	2
+21310789	sequence	genome	1
+21310789	sequence	region	1
+21310789	sequence	regulon	1
+21310789	sequence	orthologous_region	1
+21310789	cell_line	K12 [Mouse osteosarcoma]	1
+21310789	cell_line	K12-72.1	1
+21310789	organ/tissue	multicellular organism	3
+21310789	clinical_drug	Bacillus subtilis	1

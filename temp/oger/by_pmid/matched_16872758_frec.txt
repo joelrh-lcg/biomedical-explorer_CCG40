@@ -1,0 +1,34 @@
+16872758	chemical	intergenic region	9
+16872758	chemical	growth hormone	3
+16872758	chemical	hormone	3
+16872758	chemical	element	2
+16872758	chemical	cluster	1
+16872758	chemical	a dna	1
+16872758	gene/protein	growth hormone	92
+16872758	gene/protein	ape	28
+16872758	gene/protein	csh1	6
+16872758	gene/protein	csh2	5
+16872758	gene/protein	gh1	4
+16872758	gene/protein	gh2	2
+16872758	gene/protein	csh3	1
+16872758	molecular_function	growth hormone	1
+16872758	organism	ape	4
+16872758	organism	spider monkey	4
+16872758	organism	rhesus monkey	2
+16872758	organism	human	2
+16872758	organism	mammal	1
+16872758	organism	New World Monkeys	1
+16872758	organism	Old World Monkeys	1
+16872758	organism	none	1
+16872758	sequence	intergenic region	9
+16872758	sequence	gene	7
+16872758	sequence	sequence	1
+16872758	sequence	insertion	1
+16872758	sequence	insert	1
+16872758	sequence	enhancer	1
+16872758	cell_line	csh	6
+16872758	cell_line	gh1	2
+16872758	cell_line	gh2	1
+16872758	organ/tissue	element	2
+16872758	organ/tissue	pituitary	1
+16872758	organ/tissue	extension	1

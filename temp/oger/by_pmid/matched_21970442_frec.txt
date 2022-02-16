@@ -1,0 +1,3 @@
+21970442	chemical	proteins	1
+21970442	sequence	ortholog	1
+21970442	sequence	gene	1

@@ -1,0 +1,42 @@
+2448295	cellular_component	chromosome	1
+2448295	chemical	antibiotic	3
+2448295	chemical	glutamate synthase	3
+2448295	chemical	nitrogen	2
+2448295	chemical	complement	2
+2448295	chemical	glutamine synthetase	1
+2448295	chemical	peptide	1
+2448295	chemical	molecule	1
+2448295	chemical	probe	1
+2448295	chemical	polypeptide	1
+2448295	gene/protein	glutamine synthetase	123
+2448295	gene/protein	gltb	18
+2448295	gene/protein	map	6
+2448295	gene/protein	gltf	4
+2448295	gene/protein	omega	3
+2448295	gene/protein	gltB	3
+2448295	gene/protein	gltd	2
+2448295	gene/protein	peptide	2
+2448295	gene/protein	rna	2
+2448295	gene/protein	polypeptide	2
+2448295	gene/protein	polar	1
+2448295	gene/protein	lack	1
+2448295	molecular_function	glutamate synthase activity	1
+2448295	organism	plasmid	3
+2448295	organism	Escherichia coli	2
+2448295	organism	e coli	2
+2448295	sequence	gene	3
+2448295	sequence	plasmid	3
+2448295	sequence	operon	3
+2448295	sequence	mutation	2
+2448295	sequence	fragment	1
+2448295	sequence	insert	1
+2448295	sequence	clone	1
+2448295	sequence	glutamine	1
+2448295	sequence	peptide	1
+2448295	sequence	chromosome	1
+2448295	sequence	probe	1
+2448295	sequence	polypeptide	1
+2448295	cell_line	min	1
+2448295	clinical_drug	glutamate	3
+2448295	clinical_drug	nitrogen	1
+2448295	clinical_drug	glutamine	1

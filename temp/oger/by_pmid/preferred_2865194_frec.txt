@@ -1,0 +1,41 @@
+2865194	chemical	nucleotide	1
+2865194	chemical	alpha-amino acid	1
+2865194	chemical	amino acid	1
+2865194	chemical	Glutamate-Ammonia Ligase	1
+2865194	chemical	adrenergic uptake inhibitor	1
+2865194	gene/protein	Glutamine synthetase	122
+2865194	gene/protein	Replication-associated protein	40
+2865194	gene/protein	DNA-binding transcriptional regulator NtrC	13
+2865194	gene/protein	Replication-associated protein G2P	8
+2865194	gene/protein	sensory histidine kinase/phosphatase NtrB (Escherichia coli K-12)	3
+2865194	gene/protein	sensory histidine kinase/phosphatase NtrB	3
+2865194	gene/protein	Rab proteins geranylgeranyltransferase component A	3
+2865194	gene/protein	type-1 glutamine synthetase 1 (Dictyostelium discoideum)	2
+2865194	gene/protein	glutamine synthetase (Escherichia coli K-12)	2
+2865194	gene/protein	bacterial-type glutamine synthetase	2
+2865194	gene/protein	glutamine synthetase	1
+2865194	gene/protein	Replication-associated protein ORF2	1
+2865194	gene/protein	replication initiation protein (Escherichia coli K-12)	1
+2865194	gene/protein	Replication-associated protein VP4	1
+2865194	gene/protein	replication initiation protein	1
+2865194	gene/protein	ATP-dependent DNA helicase Rep (Escherichia coli K-12)	1
+2865194	gene/protein	Rab escort protein 1 (Arabidopsis thaliana)	1
+2865194	gene/protein	Rab proteins geranylgeranyltransferase component A (fruit fly)	1
+2865194	gene/protein	Replication-associated protein ORF4	1
+2865194	gene/protein	ATP-dependent DNA helicase Rep	1
+2865194	gene/protein	replication initiation protein (Salmonella enterica subsp. enterica serovar Typhi)	1
+2865194	gene/protein	DNA-binding transcriptional regulator NtrC (Escherichia coli K-12)	1
+2865194	molecular_function	Rab GTPase binding	1
+2865194	molecular_function	binding	1
+2865194	organism	Escherichia coli	2
+2865194	sequence	region	3
+2865194	sequence	gene	3
+2865194	sequence	fragmentary	1
+2865194	sequence	amino_acid	1
+2865194	sequence	glutamine	1
+2865194	sequence	terminator	1
+2865194	sequence	promoter	1
+2865194	sequence	non_covalent_binding_site	1
+2865194	sequence	binding_site	1
+2865194	organ/tissue	organismal segment	1
+2865194	clinical_drug	Glutamine	1

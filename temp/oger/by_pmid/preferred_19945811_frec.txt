@@ -1,0 +1,26 @@
+19945811	chemical	base	1
+19945811	chemical	RNA, Ribosomal, 16S	1
+19945811	gene/protein	Protochlorophyllide reductase, chloroplastic	15
+19945811	gene/protein	Light-dependent protochlorophyllide reductase	6
+19945811	gene/protein	Protochlorophyllide reductase	3
+19945811	gene/protein	Protein BEAN1	2
+19945811	gene/protein	protein BEAN	1
+19945811	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+19945811	organism	Burkholderia	7
+19945811	organism	synthetic construct	5
+19945811	organism	Solanum lycopersicum	3
+19945811	organism	Lycopersicon esculentum	3
+19945811	organism	Paraburkholderia kururiensis	2
+19945811	organism	Sorghum bicolor	2
+19945811	organism	Sorghum	2
+19945811	organism	Phaseolus	1
+19945811	organism	Fabaceae	1
+19945811	sequence	primer	5
+19945811	sequence	base	1
+19945811	sequence	rRNA_16S	1
+19945811	sequence	rRNA_gene	1
+19945811	cell_line	R1192	1
+19945811	organ/tissue	cerebellum vermis lobule X	1
+19945811	organ/tissue	germinal center	1
+19945811	organ/tissue	crop	1
+19945811	clinical_drug	tomato allergenic extract	3

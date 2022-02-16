@@ -1,0 +1,50 @@
+32954454	biological_process	phosphorylation	1
+32954454	chemical	Glucose	4
+32954454	chemical	aldehydo-D-glucose	2
+32954454	chemical	D-glucopyranose	2
+32954454	chemical	glucose	2
+32954454	chemical	elemental carbon	2
+32954454	chemical	carbon atom	2
+32954454	chemical	atom	1
+32954454	chemical	Glucose Transport Proteins, Facilitative	1
+32954454	disease	SCOLIOSIS, ISOLATED, SUSCEPTIBILITY TO, 1	1
+32954454	gene/protein	Mitogen-activated protein kinase kinase kinase kinase 3	3
+32954454	gene/protein	HTH-type transcriptional regulator GalR	2
+32954454	gene/protein	HTH-type transcriptional regulator GalR (Escherichia coli K-12)	2
+32954454	gene/protein	Tissue- and phase-specific nuclear protein	2
+32954454	gene/protein	D-galactose-binding periplasmic protein	1
+32954454	gene/protein	D-galactose-binding periplasmic protein (Escherichia coli K-12)	1
+32954454	gene/protein	galanin-like peptide (mouse)	1
+32954454	gene/protein	galanin-like peptide (human)	1
+32954454	gene/protein	galanin-like peptide (rat)	1
+32954454	gene/protein	galactose-proton symporter (Escherichia coli K-12)	1
+32954454	gene/protein	galactose-proton symporter	1
+32954454	gene/protein	galanin-like peptide	1
+32954454	gene/protein	Sugar transport protein 1	1
+32954454	gene/protein	putative ion-transport protein YfeO	1
+32954454	gene/protein	putative ion-transport protein YfeO (Escherichia coli K-12)	1
+32954454	gene/protein	RNA pyrophosphohydrolase (Escherichia coli K-12)	1
+32954454	gene/protein	RNA pyrophosphohydrolase	1
+32954454	gene/protein	RNA pyrophosphohydrolase (Aliivibrio fischeri ES114)	1
+32954454	gene/protein	ribonuclease G	1
+32954454	gene/protein	ribonuclease G (Escherichia coli K-12)	1
+32954454	gene/protein	glucokinase Glk	1
+32954454	gene/protein	glucokinase Glk (Escherichia coli K-12)	1
+32954454	gene/protein	galactokinase	1
+32954454	gene/protein	Glucokinase	1
+32954454	gene/protein	galactokinase (mouse)	1
+32954454	gene/protein	mitogen-activated protein kinase kinase kinase kinase 3	1
+32954454	organism	Plantago princeps	6
+32954454	organism	Escherichia coli	2
+32954454	sequence	sequence_variant_obs	9
+32954454	sequence	gene	3
+32954454	sequence	SNP	2
+32954454	sequence	deletion	2
+32954454	sequence	insertion	2
+32954454	sequence	region	1
+32954454	sequence	null_mutation	1
+32954454	cell_line	PB11	2
+32954454	cell_line	SNP	2
+32954454	cell_line	Isreco-1	1
+32954454	organ/tissue	organ	1
+32954454	clinical_drug	Dextrose, Unspecified Form	3

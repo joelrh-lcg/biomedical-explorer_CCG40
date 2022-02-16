@@ -1,0 +1,30 @@
+31176475	biological_process	nitrogen fixation	2
+31176475	biological_process	gene expression	2
+31176475	biological_process	biological regulation	1
+31176475	chemical	nitrogen atom	3
+31176475	chemical	nitrogen(.)	3
+31176475	chemical	Acetylene	2
+31176475	chemical	acetylene	1
+31176475	chemical	nutrient	1
+31176475	gene/protein	Transcriptional regulator	1
+31176475	gene/protein	CTD small phosphatase-like protein (chicken)	1
+31176475	organism	Zea mays	10
+31176475	organism	bacterium IFAM-3211	5
+31176475	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	5
+31176475	organism	bacterium IFAM-3215	5
+31176475	organism	bacterium IFAM-2074	5
+31176475	organism	bacterium IFAM-3359	5
+31176475	organism	bacterium	5
+31176475	organism	bacterium IFAM-1493	5
+31176475	organism	Azospirillum	4
+31176475	organism	Rhizobium phaseoli	2
+31176475	organism	Sinorhizobium americanum	2
+31176475	organism	Azospirillum brasilense	2
+31176475	organism	Plants	1
+31176475	organism	Bacillus	1
+31176475	organism	Methylobacterium	1
+31176475	organism	bacterium BE	1
+31176475	sequence	gene	5
+31176475	sequence	transcript	1
+31176475	clinical_drug	Nitrogen	3
+31176475	molecular_process	acetylene reduction	1

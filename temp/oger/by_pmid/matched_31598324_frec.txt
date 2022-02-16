@@ -1,0 +1,13 @@
+31598324	biological_process	behaviour	1
+31598324	disease	infection	4
+31598324	disease	disease	2
+31598324	disease	skin disease	2
+31598324	organism	bacterium	21
+31598324	organism	tadpole	3
+31598324	organism	amphibian	1
+31598324	organism	green frog	1
+31598324	sequence	construct	1
+31598324	cell_line	frog	1
+31598324	cell_line	24 h	1
+31598324	organ/tissue	skin	12
+31598324	organ/tissue	tadpole	9

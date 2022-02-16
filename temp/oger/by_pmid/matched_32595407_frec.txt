@@ -1,0 +1,9 @@
+32595407	biological_process	parthenogenesis	1
+32595407	chemical	cluster	1
+32595407	gene/protein	lack	1
+32595407	organism	earthworm	4
+32595407	sequence	sequence	1
+32595407	sequence	repeat	1
+32595407	sequence	clone	1
+32595407	sequence	signature	1
+32595407	organ/tissue	reproductive system	1

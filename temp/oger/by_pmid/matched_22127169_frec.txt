@@ -1,0 +1,28 @@
+22127169	chemical	12s rrna	1
+22127169	chemical	18s rrna	1
+22127169	chemical	cochineal	1
+22127169	chemical	16s rrna	1
+22127169	gene/protein	sap	17
+22127169	gene/protein	spp	16
+22127169	gene/protein	egg	1
+22127169	molecular_function	spp	1
+22127169	organism	bacterium	14
+22127169	organism	opuntia	1
+22127169	organism	βproteobacteria	1
+22127169	organism	Azoarcus	1
+22127169	organism	Candidatus Dactylopiibacterium carminicum	1
+22127169	organism	Herbaspirillum	1
+22127169	organism	Acinetobacter	1
+22127169	organism	Mesorhizobium	1
+22127169	organism	Sphingomonas	1
+22127169	organism	Cactaceae	1
+22127169	sequence	sequence	3
+22127169	sequence	chain	1
+22127169	sequence	rrna	1
+22127169	sequence	18s rrna	1
+22127169	sequence	rrna gene	1
+22127169	sequence	16s rrna	1
+22127169	cell_line	12s	1
+22127169	organ/tissue	egg	2
+22127169	clinical_drug	cochineal	1
+22127169	molecular_process	chain reaction	1

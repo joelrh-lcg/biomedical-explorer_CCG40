@@ -1,0 +1,362 @@
+12904565	biological_process	nitrogen fixation	2
+12904565	biological_process	obsolete electron transport	1
+12904565	biological_process	obsolete mutagenesis	1
+12904565	biological_process	gene expression	1
+12904565	biological_process	biological regulation	1
+12904565	cellular_component	chromosome	1
+12904565	chemical	nitrogen atom	3
+12904565	chemical	nitrogen(.)	3
+12904565	chemical	electron	1
+12904565	chemical	Nitrogenase	1
+12904565	gene/protein	Protein Nef	73
+12904565	gene/protein	E3 ubiquitin-protein ligase TRIM31	4
+12904565	gene/protein	E3 ubiquitin-protein ligase TRIM31 (human)	4
+12904565	gene/protein	Uncharacterized protein in nifU 5'region	4
+12904565	gene/protein	CTD small phosphatase-like protein (chicken)	3
+12904565	gene/protein	Manganese import system permease protein ScaB	3
+12904565	gene/protein	Putative non-structural protein	2
+12904565	gene/protein	Uncharacterized protein YtxJ	2
+12904565	gene/protein	Hydrolase in agr operon	2
+12904565	gene/protein	Uncharacterized 11.4 kDa protein	2
+12904565	gene/protein	Probable protein Rev	2
+12904565	gene/protein	Nucleic-acid-binding protein from mobile element jockey	2
+12904565	gene/protein	Probable Vpr-like protein	2
+12904565	gene/protein	Poly(3-hydroxyalkanoate) polymerase subunit PhaE	2
+12904565	gene/protein	2Fe-2S ferredoxin	1
+12904565	gene/protein	2Fe-2S ferredoxin (Escherichia coli K-12)	1
+12904565	gene/protein	Uncharacterized HTH-type transcriptional regulator in lacX 3'region	1
+12904565	gene/protein	Uncharacterized 16.0 kDa protein in segB-ipI intergenic region	1
+12904565	gene/protein	Uncharacterized protein outside the virF region	1
+12904565	gene/protein	Virion protein US10 homolog	1
+12904565	gene/protein	Uncharacterized oxidoreductase in mprA 5'region	1
+12904565	gene/protein	Uncharacterized protein in fumA 3'region	1
+12904565	gene/protein	Uncharacterized 17.7 kDa protein in bps2 3'region	1
+12904565	gene/protein	Uncharacterized 37.2 kDa protein	1
+12904565	gene/protein	UPF0702 transmembrane protein YkjA	1
+12904565	gene/protein	Protein UL24 homolog	1
+12904565	gene/protein	Uncharacterized glycosyltransferase in aroQ 3'region	1
+12904565	gene/protein	Uncharacterized 17.2 kDa protein in melC2-rnhH intergenic region	1
+12904565	gene/protein	Uncharacterized N-acetyltransferase in lysA 3'region	1
+12904565	gene/protein	Uncharacterized 9.4 kDa protein in flaL 3'region	1
+12904565	gene/protein	Putative tRNA (cytidine(34)-2'-O)-methyltransferase	1
+12904565	gene/protein	Uncharacterized protein in rpoN-murA intergenic region	1
+12904565	gene/protein	Poly(3-hydroxyalkanoate) polymerase 2	1
+12904565	gene/protein	Protein Y	1
+12904565	gene/protein	Uncharacterized 9.5 kDa protein in DHFR 3'region	1
+12904565	gene/protein	Putative RNA polymerase sigma-G factor	1
+12904565	gene/protein	Uncharacterized 29.9 kDa protein in crtE 3'region	1
+12904565	gene/protein	Uncharacterized protein in tfuA 3'region	1
+12904565	gene/protein	Probable fatty acid methyltransferase	1
+12904565	gene/protein	UPF0438 protein HI_0847	1
+12904565	gene/protein	Protein C42	1
+12904565	gene/protein	Uncharacterized protein in pnp 3'region	1
+12904565	gene/protein	Uncharacterized 8.2 kDa protein in gpA 5'region	1
+12904565	gene/protein	Uncharacterized membrane protein VP2115	1
+12904565	gene/protein	Uncharacterized protein Mbar_A1602	1
+12904565	gene/protein	Uncharacterized 8.2 kDa protein in mobL 3'region	1
+12904565	gene/protein	Uncharacterized 8.9 kDa protein in int-C1 intergenic region	1
+12904565	gene/protein	Uncharacterized 10.7 kDa protein in xynB 3'region	1
+12904565	gene/protein	Uncharacterized 8.5 kDa protein in GP2-GP6 intergenic region	1
+12904565	gene/protein	Uncharacterized protein BpOF4_00885	1
+12904565	gene/protein	Uncharacterized protein YbxH	1
+12904565	gene/protein	Uncharacterized 50.6 kDa protein in the 5'region of gyrA and gyrB	1
+12904565	gene/protein	Uncharacterized 13.8 kDa protein	1
+12904565	gene/protein	UPF0051 protein in atpA 3'region	1
+12904565	gene/protein	Insertion element IS2 uncharacterized 11.1 kDa protein	1
+12904565	gene/protein	Non-structural protein ORF3	1
+12904565	gene/protein	Uncharacterized 12.7 kDa protein in trpE 5'region	1
+12904565	gene/protein	Putative non-structural protein NS2	1
+12904565	gene/protein	Uncharacterized 13.4 kDa protein	1
+12904565	gene/protein	uncharacterized protein SPD_2303 (Streptococcus pneumoniae D39)	1
+12904565	gene/protein	Uncharacterized protein in sor 5'region	1
+12904565	gene/protein	Uncharacterized 8.8 kDa protein in aacA4 3'region	1
+12904565	gene/protein	Uncharacterized protein HI_0350	1
+12904565	gene/protein	Uncharacterized protein YlxR	1
+12904565	gene/protein	Uncharacterized protein in proC 3'region	1
+12904565	gene/protein	Uncharacterized 33.6 kDa protein in fasciation locus	1
+12904565	gene/protein	Uncharacterized 55.8 kDa protein in cps region	1
+12904565	gene/protein	Uncharacterized protein AZC_3924	1
+12904565	gene/protein	ER membrane protein complex subunit 7 (mouse)	1
+12904565	gene/protein	retrovirus-related Pol polyprotein from transposon 412 (fruit fly)	1
+12904565	gene/protein	Uncharacterized 47.3 kDa protein in thcA 5'region	1
+12904565	gene/protein	Uncharacterized 18.9 kDa protein in mobE 3'region	1
+12904565	gene/protein	Polyphenol oxidase	1
+12904565	gene/protein	Putative anti-sigma factor antagonist TM1081 homolog	1
+12904565	gene/protein	Putative Fe(2+) transport protein A	1
+12904565	gene/protein	UPF0460 protein in nifX-nifW intergenic region	1
+12904565	gene/protein	Pentapeptide repeat protein MfpA	1
+12904565	gene/protein	Accessory Sec system protein Asp3	1
+12904565	gene/protein	Uncharacterized protein YckC	1
+12904565	gene/protein	Uncharacterized 5.9 kDa protein in mobE 3'region	1
+12904565	gene/protein	Uncharacterized 11.5 kDa protein in thcD 3'region	1
+12904565	gene/protein	Putative low molecular weight protein-tyrosine-phosphatase	1
+12904565	gene/protein	Monensin polyketide synthase putative ketoacyl reductase	1
+12904565	gene/protein	Uncharacterized 19.2 kDa protein in cox-rep intergenic region	1
+12904565	gene/protein	Uncharacterized protein RCAP_rcc00048	1
+12904565	gene/protein	Putative cystathionine beta-lyase	1
+12904565	gene/protein	Uncharacterized 10.3 kDa protein in GP2-GP6 intergenic region	1
+12904565	gene/protein	Uncharacterized MFS-type transporter YcxA	1
+12904565	gene/protein	UPF0065 protein BP0148	1
+12904565	gene/protein	Uncharacterized 76.5 kDa protein in phbC 3'region	1
+12904565	gene/protein	Uncharacterized 28.8 kDa protein in nifR3-like 5'region	1
+12904565	gene/protein	Uncharacterized protein Alvin_0065	1
+12904565	gene/protein	Uncharacterized protein in gldA 3'region	1
+12904565	gene/protein	Uncharacterized protein in mprR 3'region	1
+12904565	gene/protein	Uncharacterized 15.6 kDa protein in mobL 3'region	1
+12904565	gene/protein	Granaticin polyketide synthase putative ketoacyl reductase 1	1
+12904565	gene/protein	Uncharacterized protein YlxP	1
+12904565	gene/protein	Uncharacterized protein in sul1 3'region	1
+12904565	gene/protein	Uncharacterized 12.4 kDa protein in CTL-LEF2 intergenic region	1
+12904565	gene/protein	Replication protein	1
+12904565	gene/protein	Uncharacterized protein in hyuC 3'region	1
+12904565	gene/protein	Uncharacterized 28.3 kDa protein in PAR locus	1
+12904565	gene/protein	Uncharacterized 11.8 kDa protein	1
+12904565	gene/protein	Uncharacterized 19.8 kDa protein in nifW 5'region	1
+12904565	gene/protein	Non-structural protein ORF5	1
+12904565	gene/protein	Uncharacterized 23.9 kDa protein in xynA 3'region	1
+12904565	gene/protein	Uncharacterized protein YqxJ	1
+12904565	gene/protein	Uncharacterized 11.6 kDa protein in scrR 3'region	1
+12904565	gene/protein	Accessory secretory protein Asp4	1
+12904565	gene/protein	Uncharacterized 12.9 kDa protein in GpA 3'region	1
+12904565	gene/protein	RWD domain-containing protein 2B (mouse)	1
+12904565	gene/protein	Probable integrase/recombinase	1
+12904565	gene/protein	Uncharacterized 36.6 kDa protein in EGT-IAP1 intergenic region	1
+12904565	gene/protein	ABC transporter ATP-binding protein ModF (Escherichia coli K-12)	1
+12904565	gene/protein	Uncharacterized protein in xynC 3'region	1
+12904565	gene/protein	Putative zinc metalloproteinase in scaA 5'region	1
+12904565	gene/protein	Uncharacterized 9.8 kDa protein	1
+12904565	gene/protein	Granaticin polyketide synthase putative ketoacyl reductase 2	1
+12904565	gene/protein	Uncharacterized 14.1 kDa protein in cox-rep intergenic region	1
+12904565	gene/protein	Uncharacterized 12.2 kDa protein in lcrE 5'region	1
+12904565	gene/protein	zinc finger HIT domain-containing protein 2	1
+12904565	gene/protein	Uncharacterized protein YcxB	1
+12904565	gene/protein	UPF0397 protein LLNZ_01795	1
+12904565	gene/protein	Urease operon 23 kDa accessory protein	1
+12904565	gene/protein	Uncharacterized 10 kDa protein	1
+12904565	gene/protein	Accessory secretory protein Asp5	1
+12904565	gene/protein	Uncharacterized protein in xynA 3'region	1
+12904565	gene/protein	Uncharacterized 33.9 kDa protein in PE 3'region	1
+12904565	gene/protein	Putative uncharacterized protein YdfE	1
+12904565	gene/protein	Putative tyrosine-protein kinase in cps region	1
+12904565	gene/protein	zinc finger HIT domain-containing protein 2 (mouse)	1
+12904565	gene/protein	FlaA locus 22.9 kDa protein	1
+12904565	gene/protein	Uncharacterized transporter in cobO 3'region	1
+12904565	gene/protein	high mobility group B protein 1 (Arabidopsis thaliana)	1
+12904565	gene/protein	Uncharacterized 24.8 kDa protein in cps region	1
+12904565	gene/protein	Uncharacterized 81.3 kDa protein	1
+12904565	gene/protein	Uncharacterized adenine-specific methylase	1
+12904565	gene/protein	Uncharacterized 65.4 kDa protein in cps region	1
+12904565	gene/protein	Uncharacterized 36.6 kDa protein	1
+12904565	gene/protein	Uncharacterized 18.2 kDa protein in rep-hol intergenic region	1
+12904565	gene/protein	Uncharacterized 17.2 kDa protein	1
+12904565	gene/protein	Uncharacterized protein in mosA 5'region	1
+12904565	gene/protein	Uncharacterized 16.9 kDa protein in acs 3'region	1
+12904565	gene/protein	Uncharacterized protein in phaC 3'region	1
+12904565	gene/protein	Probable ABC transporter ATP-binding protein AZC_3926	1
+12904565	gene/protein	Uncharacterized 50 kDa protein in type I retrotransposable element R1DM	1
+12904565	gene/protein	Uncharacterized protein in cobS 5'region	1
+12904565	gene/protein	Uncharacterized protein YphF	1
+12904565	gene/protein	Uncharacterized protein in rhdA 5'region	1
+12904565	gene/protein	Antitoxin YxxD	1
+12904565	gene/protein	Uncharacterized protein in cpcG3 3'region	1
+12904565	gene/protein	Transcription repressor NadR	1
+12904565	gene/protein	Uncharacterized BphX-like protein	1
+12904565	gene/protein	Uncharacterized protein MCAP_0715	1
+12904565	gene/protein	Uncharacterized protein in hlv 5'region	1
+12904565	gene/protein	UPF0437 protein AZC_3451	1
+12904565	gene/protein	Putative polyketide beta-ketoacyl synthase 1	1
+12904565	gene/protein	Uncharacterized 16.3 kDa protein in trpG 5'region	1
+12904565	gene/protein	Uncharacterized protein in tabA 5'region	1
+12904565	gene/protein	UPF0365 protein BMD_4543	1
+12904565	gene/protein	Uncharacterized 29.3 kDa protein in ccpA 3'region	1
+12904565	gene/protein	Uncharacterized 28.9 kDa protein in xis 5'region	1
+12904565	gene/protein	Uncharacterized protein YhbE	1
+12904565	gene/protein	Uncharacterized HTH-type transcriptional regulator y4sM	1
+12904565	gene/protein	Uncharacterized HIT-like protein Synpcc7942_1390	1
+12904565	gene/protein	Manganese import ATP-binding protein ScaC	1
+12904565	gene/protein	Macro domain-containing protein in non 5'region	1
+12904565	gene/protein	Uncharacterized protein in bpoA1 3'region	1
+12904565	gene/protein	Uncharacterized protein in pkwA 5'region	1
+12904565	gene/protein	Putative Pol polyprotein from transposon element Bs1	1
+12904565	gene/protein	Uncharacterized protein BpOF4_00895	1
+12904565	gene/protein	Uncharacterized protein in lpd-3 5'region	1
+12904565	gene/protein	Uncharacterized 15.5 kDa protein in trpE 3'region	1
+12904565	gene/protein	Replication initiator protein	1
+12904565	gene/protein	Beta-hexosaminidase	1
+12904565	gene/protein	Retrotransposable element SLACS 45 kDa protein	1
+12904565	gene/protein	Uncharacterized 35 kDa protein in sph 3'region	1
+12904565	gene/protein	Putative tetraheme cytochrome-c type	1
+12904565	gene/protein	Uncharacterized MFS-type transporter YuxJ	1
+12904565	gene/protein	Coat protein	1
+12904565	gene/protein	Uncharacterized 21 kDa protein in iaaL 5'region	1
+12904565	gene/protein	Uncharacterized protein in tlyA 5'region	1
+12904565	gene/protein	UPF0437 protein in nifX-nifW intergenic region	1
+12904565	gene/protein	Biofilm-surface layer protein A	1
+12904565	gene/protein	Uncharacterized 23.2 kDa protein in int-C1 intergenic region	1
+12904565	gene/protein	Poly(3-hydroxyalkanoate) polymerase 1	1
+12904565	gene/protein	Transposase for insertion sequence element IS1106	1
+12904565	gene/protein	Uncharacterized 11.1 kDa protein	1
+12904565	gene/protein	Uncharacterized protein in cpoL 5'region	1
+12904565	gene/protein	Uncharacterized protein in mutS 5'region	1
+12904565	gene/protein	Uncharacterized 8.3 kDa protein in GpA 5'region	1
+12904565	gene/protein	Uncharacterized protein HI_0845	1
+12904565	gene/protein	Accessory Sec system protein Asp1	1
+12904565	gene/protein	Protoporphyrinogen IX oxidase	1
+12904565	gene/protein	RutC family protein in vnfA 5'region	1
+12904565	gene/protein	Uncharacterized 27.7 kDa protein in nifB 3'region	1
+12904565	gene/protein	Uncharacterized protein EF_A0048	1
+12904565	gene/protein	Uncharacterized protein in bgaB 5'region	1
+12904565	gene/protein	Uncharacterized protein in cobV 5'region	1
+12904565	gene/protein	Uncharacterized protein in nodG 5'region	1
+12904565	gene/protein	Uncharacterized protein YqxG	1
+12904565	gene/protein	UPF0231 protein in hemN 3'region	1
+12904565	gene/protein	Uncharacterized protein YgxB	1
+12904565	gene/protein	Granaticin polyketide putative beta-ketoacyl synthase 1	1
+12904565	gene/protein	Uncharacterized protein dexA.1	1
+12904565	gene/protein	Uncharacterized 32.3 kDa protein in vdh 3'region	1
+12904565	gene/protein	Probable cadicidin biosynthesis thioesterase	1
+12904565	gene/protein	Uncharacterized 55.3 kDa protein in thcA 5'region	1
+12904565	gene/protein	Uncharacterized 23 kDa protein	1
+12904565	gene/protein	Uncharacterized protein Cbei_0202	1
+12904565	gene/protein	Uncharacterized oxidoreductase in pyp 5'region	1
+12904565	gene/protein	UPF0194 membrane protein in asrC 5'region	1
+12904565	gene/protein	Uncharacterized protein in gldA 5'region	1
+12904565	gene/protein	Uncharacterized HTH-type transcriptional regulator in unstable DNA locus	1
+12904565	gene/protein	Protein P1	1
+12904565	gene/protein	E4-ORF1	1
+12904565	gene/protein	Uncharacterized 4.6 kDa protein	1
+12904565	gene/protein	Uncharacterized N-acetyltransferase in hisH-hisA intergenic region	1
+12904565	gene/protein	Uncharacterized 20.8 kDa protein in FGF-VUBI intergenic region	1
+12904565	gene/protein	Uncharacterized protein in HyuA 5'region	1
+12904565	gene/protein	Uncharacterized 7.9 kDa protein in PE 5'region	1
+12904565	gene/protein	Uncharacterized 66.6 kDa protein	1
+12904565	gene/protein	Uncharacterized 20 kDa protein in cryB1 5'region	1
+12904565	gene/protein	Uncharacterized protein Gp1	1
+12904565	gene/protein	Uncharacterized protein in laf 5'region	1
+12904565	gene/protein	Uncharacterized protein YwaF	1
+12904565	gene/protein	Uncharacterized protein HI_0352	1
+12904565	gene/protein	Uncharacterized protein ACIAD1443	1
+12904565	gene/protein	Uncharacterized membrane protein in llm 5'region	1
+12904565	gene/protein	nucleic-acid-binding protein from transposon X-element (fruit fly)	1
+12904565	gene/protein	Uncharacterized 23.6 kDa protein	1
+12904565	gene/protein	Insertion element IS407 uncharacterized 31.7 kDa protein	1
+12904565	gene/protein	65 kDa protein	1
+12904565	gene/protein	Uncharacterized protein SAOUHSC_02013	1
+12904565	gene/protein	Uncharacterized 5.5 kDa protein in replication origin region	1
+12904565	gene/protein	Uncharacterized protein in miaA 5'region	1
+12904565	gene/protein	Uncharacterized protein in glnII region	1
+12904565	gene/protein	24.9 kDa protein in picA locus	1
+12904565	gene/protein	Uncharacterized 16.1 kDa protein	1
+12904565	gene/protein	Uncharacterized HTH-type transcriptional regulator Synpcc7942_2319	1
+12904565	gene/protein	uroporphyrinogen-III synthase (yeast)	1
+12904565	gene/protein	Transposon TX1 uncharacterized 82 kDa protein	1
+12904565	gene/protein	Uncharacterized protein SAOUHSC_00997	1
+12904565	gene/protein	Uncharacterized protein in pdhA 5'region	1
+12904565	gene/protein	Uncharacterized protein SYNPCC7002_B0001	1
+12904565	gene/protein	Uncharacterized transporter in pepV 3'region	1
+12904565	gene/protein	Uncharacterized protein ACIAD1444	1
+12904565	gene/protein	Probable DNA-directed RNA polymerase	1
+12904565	gene/protein	Uncharacterized protein YqxH	1
+12904565	gene/protein	Uncharacterized GMC-type oxidoreductase in thcA 5'region	1
+12904565	gene/protein	Transposon TX1 uncharacterized 149 kDa protein	1
+12904565	gene/protein	Uncharacterized 18.6 kDa protein in alpha-glucosidase 3'region	1
+12904565	gene/protein	Uncharacterized 5.4 kDa protein in replication origin region	1
+12904565	gene/protein	Uncharacterized 11.0 kDa protein in Gp24-hoc intergenic region	1
+12904565	gene/protein	Uncharacterized 19.0 kDa protein in cobS 5'region	1
+12904565	gene/protein	Uncharacterized protein YxxE	1
+12904565	gene/protein	Uncharacterized protein in bps2 5'region	1
+12904565	gene/protein	Uncharacterized protein in pinF2 3'region	1
+12904565	gene/protein	20.9 kDa protein	1
+12904565	gene/protein	Uncharacterized 9.2 kDa protein in PE 5'region	1
+12904565	gene/protein	Uncharacterized 29.1 kDa protein in cryB1 5'region	1
+12904565	gene/protein	Probable ABC transporter extracellular-binding protein YckB	1
+12904565	gene/protein	Uncharacterized 30.3 kDa protein	1
+12904565	gene/protein	Retrotransposable element SLACS 132 kDa protein	1
+12904565	gene/protein	Uncharacterized 10.9 kDa protein in fmrO 5'region	1
+12904565	gene/protein	Uncharacterized protein Cgl0967/cg1104	1
+12904565	gene/protein	Uncharacterized 24.6 kDa protein in ccpA 3'region	1
+12904565	gene/protein	Uncharacterized protein LA_2151	1
+12904565	gene/protein	Uncharacterized protein ACIAD3023	1
+12904565	gene/protein	Uncharacterized 17.3 kDa protein in cblS 5'region	1
+12904565	gene/protein	Uncharacterized 15 kDa protein	1
+12904565	gene/protein	Uncharacterized protein Synpcc7942_2318	1
+12904565	gene/protein	Uncharacterized transporter in sor 3'region	1
+12904565	gene/protein	Uncharacterized protein in pepC 5'region	1
+12904565	gene/protein	uncharacterized protein SPD_2302 (Streptococcus pneumoniae D39)	1
+12904565	gene/protein	Uncharacterized protein in cycB 3'region	1
+12904565	gene/protein	Uncharacterized protein YsxE	1
+12904565	gene/protein	Uncharacterized lipoprotein in oleD 5'region	1
+12904565	gene/protein	Uncharacterized protein VP2110	1
+12904565	gene/protein	Macro domain-containing protein in gbd 3'region	1
+12904565	gene/protein	Putative aspartate aminotransferase	1
+12904565	gene/protein	Uncharacterized protein SAOUHSC_00996	1
+12904565	gene/protein	Uncharacterized protein in pepT 5'region	1
+12904565	gene/protein	Putative 115 kDa protein in type-1 retrotransposable element R1DM	1
+12904565	gene/protein	Uncharacterized 12.2 kDa protein in P6.5-VP48 intergenic region	1
+12904565	gene/protein	Uncharacterized 30.6 kDa protein in fumA 3'region	1
+12904565	gene/protein	Uncharacterized 11.8 kDa protein in hlv 5'region	1
+12904565	gene/protein	Uncharacterized oxidoreductase YuxG	1
+12904565	gene/protein	Uncharacterized 23.9 kDa protein in glnII region	1
+12904565	gene/protein	Uncharacterized protein in acs 3'region	1
+12904565	gene/protein	Insertion element IS406 uncharacterized 13.3 kDa protein	1
+12904565	gene/protein	Uncharacterized protein in sph 3'region	1
+12904565	gene/protein	Protein 2 in picA locus	1
+12904565	gene/protein	Putative transport protein BpOF4_00890	1
+12904565	gene/protein	Uncharacterized 37.6 kDa protein in cld 5'region	1
+12904565	gene/protein	Granaticin polyketide putative beta-ketoacyl synthase 2	1
+12904565	gene/protein	Cell division coordinator CpoB	1
+12904565	gene/protein	Uncharacterized 14.7 kDa protein	1
+12904565	gene/protein	UPF0045 protein in glkA 3'region	1
+12904565	gene/protein	Uncharacterized 9.6 kDa protein	1
+12904565	gene/protein	Uncharacterized 11.3 kDa protein in GpA 5'region	1
+12904565	gene/protein	Insertion sequence IS408 putative ATP-binding protein	1
+12904565	gene/protein	Putative polyketide beta-ketoacyl synthase 2	1
+12904565	gene/protein	Uncharacterized protein YbbC	1
+12904565	gene/protein	Uncharacterized protein in fibril gene 3'region	1
+12904565	gene/protein	Uncharacterized 13.1 kDa protein	1
+12904565	gene/protein	Uncharacterized HTH-type transcriptional regulator HI_1364	1
+12904565	gene/protein	Uncharacterized protein in trpE 3'region	1
+12904565	gene/protein	Poly(3-hydroxyalkanoate) depolymerase	1
+12904565	gene/protein	Uncharacterized 7.9 kDa protein in int-C1 intergenic region	1
+12904565	gene/protein	Uncharacterized protein in nit 5'region	1
+12904565	gene/protein	Uncharacterized RNA pseudouridine synthase MCAP_0714	1
+12904565	gene/protein	Uncharacterized protein YqxK	1
+12904565	gene/protein	UPF0070 protein NGO0425	1
+12904565	gene/protein	Uncharacterized 22.5 kDa protein in cps region	1
+12904565	gene/protein	Protein P2	1
+12904565	gene/protein	UPF0319 protein PBPRA1013	1
+12904565	gene/protein	Uncharacterized protein Gp2	1
+12904565	gene/protein	Uncharacterized 19.2 kDa protein in syrM 5'region	1
+12904565	gene/protein	Uncharacterized 6.6 kDa protein in segB-ipI intergenic region	1
+12904565	gene/protein	Uncharacterized protein in bglA 3'region	1
+12904565	gene/protein	Uncharacterized protein in nifB-nifU intergenic region	1
+12904565	gene/protein	Uncharacterized protein YuxK	1
+12904565	gene/protein	UPF0309 protein in nagA 3'region	1
+12904565	gene/protein	Hydrolase in pqqF 5'region	1
+12904565	gene/protein	Uncharacterized 13.2 kDa HIT-like protein in hisE 3'region	1
+12904565	gene/protein	UPF0051 protein MTH1150 homolog	1
+12904565	gene/protein	Uncharacterized 17.8 kDa protein in nodG 5'region	1
+12904565	gene/protein	Accessory Sec system protein Asp2	1
+12904565	gene/protein	Putative HTH-type transcriptional regulator in exeN 3'region	1
+12904565	gene/protein	Uncharacterized 38.0 kDa protein in P143-LEF5 intergenic region	1
+12904565	gene/protein	probable RNA-directed DNA polymerase from transposon X-element (fruit fly)	1
+12904565	gene/protein	beta-galactosidase (Escherichia coli K-12)	1
+12904565	gene/protein	bacterial-type beta-galactosidase	1
+12904565	gene/protein	RNA polymerase sigma-54 factor	1
+12904565	gene/protein	RNA polymerase sigma-54 factor (Escherichia coli K-12)	1
+12904565	organism	Pseudomonas stutzeri	2
+12904565	organism	Rhodobacter capsulatus	2
+12904565	organism	Alcaligenes	1
+12904565	organism	Oryza sativa	1
+12904565	organism	Oryza	1
+12904565	organism	Azotobacter	1
+12904565	sequence	gene	8
+12904565	sequence	ORF	7
+12904565	sequence	genome	2
+12904565	sequence	chromosome	1
+12904565	sequence	insertion	1
+12904565	sequence	mutated_variant_site	1
+12904565	sequence	fusion	1
+12904565	organ/tissue	multicellular organism	1
+12904565	clinical_drug	Nitrogen	3
+12904565	clinical_drug	Brown Rice	1

@@ -1,0 +1,28 @@
+27911408	biological_process	degradation	1
+27911408	cellular_component	smc	4
+27911408	cellular_component	cellular membrane	1
+27911408	cellular_component	membrane	1
+27911408	chemical	diacylglycerol	308
+27911408	chemical	phospholipase	7
+27911408	chemical	phosphatidylcholine	5
+27911408	chemical	phosphocholine	5
+27911408	chemical	lipid	1
+27911408	chemical	physiological role	1
+27911408	chemical	phospholipase c	1
+27911408	chemical	a diacylglycerol	1
+27911408	chemical	diacylglycerol lipase	1
+27911408	disease	smc	4
+27911408	gene/protein	phospholipase c	13
+27911408	gene/protein	lipase	13
+27911408	gene/protein	smc	4
+27911408	molecular_function	enzyme activity	1
+27911408	organism	bacterium	7
+27911408	organism	artificial	2
+27911408	organism	Sinorhizobium meliloti	2
+27911408	organism	unknown	1
+27911408	sequence	enzymatic	2
+27911408	sequence	sequence	1
+27911408	organ/tissue	membrane	4
+27911408	organ/tissue	organism	3
+27911408	clinical_drug	lipase	1
+27911408	molecular_process	hydrolysis	1

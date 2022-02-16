@@ -1,0 +1,18 @@
+9734023	chemical	16s rrna	3
+9734023	chemical	so2	3
+9734023	chemical	base	1
+9734023	chemical	nucleotide	1
+9734023	gene/protein	so2	1
+9734023	organism	galega	5
+9734023	organism	Rhizobium galegae	2
+9734023	organism	Rhizobium huautlense	2
+9734023	organism	Agrobacterium vitis	2
+9734023	organism	rhizobium leguminosarum	2
+9734023	organism	Sesbania herbacea	1
+9734023	organism	HAMBI 540	1
+9734023	organism	Sesbania	1
+9734023	sequence	16s rrna	3
+9734023	sequence	rrna gene	3
+9734023	sequence	sequence	2
+9734023	sequence	base	1
+9734023	organ/tissue	node	1

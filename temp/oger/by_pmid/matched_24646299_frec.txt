@@ -1,0 +1,18 @@
+24646299	biological_process	conjugation	1
+24646299	chemical	lactone	1
+24646299	chemical	ahl synthase	1
+24646299	chemical	ahl	1
+24646299	gene/protein	trar	6
+24646299	gene/protein	transcriptional regulator	1
+24646299	gene/protein	lack	1
+24646299	gene/protein	ahl synthase	1
+24646299	gene/protein	ahl	1
+24646299	organism	plasmid	6
+24646299	organism	Rhizobium etli	2
+24646299	organism	Rhizobium sp LPU83	1
+24646299	organism	Ensifer meliloti	1
+24646299	organism	CFN42	1
+24646299	sequence	plasmid	6
+24646299	sequence	gene	4
+24646299	sequence	replicon	1
+24646299	entity_type	term	2

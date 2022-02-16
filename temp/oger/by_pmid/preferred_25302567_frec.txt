@@ -1,0 +1,7 @@
+25302567	chemical	Anti-Bacterial Agents	4
+25302567	chemical	antimicrobial agent	2
+25302567	organism	unidentified plasmid	11
+25302567	organism	Pseudomonas aeruginosa	2
+25302567	sequence	plasmid	11
+25302567	molecular_process	reduction	1
+25302567	entity_type	preferred_term	2

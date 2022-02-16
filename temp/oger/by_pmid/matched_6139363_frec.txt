@@ -1,0 +1,15 @@
+6139363	chemical	glutamine	8
+6139363	chemical	beta	8
+6139363	chemical	alpha	4
+6139363	chemical	glutamine synthetase	2
+6139363	chemical	polypeptide	2
+6139363	gene/protein	glutamine synthetase	246
+6139363	gene/protein	polypeptide	4
+6139363	gene/protein	lack	1
+6139363	molecular_function	glutamine synthetase activity	1
+6139363	organism	Neurospora crassa	2
+6139363	sequence	glutamine	4
+6139363	sequence	polypeptide	2
+6139363	sequence	mutation	1
+6139363	sequence	gene	1
+6139363	clinical_drug	glutamine	4

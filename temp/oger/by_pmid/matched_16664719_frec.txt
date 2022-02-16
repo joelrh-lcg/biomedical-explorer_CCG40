@@ -1,0 +1,14 @@
+16664719	biological_process	root development	1
+16664719	chemical	polypeptide	5
+16664719	chemical	beta	4
+16664719	chemical	alpha	2
+16664719	chemical	glutamine synthetase	1
+16664719	gene/protein	glutamine synthetase	123
+16664719	gene/protein	polypeptide	10
+16664719	gene/protein	rna	2
+16664719	organism	Phaseolus vulgaris	2
+16664719	organism	Phaseolus vulgari	1
+16664719	sequence	polypeptide	5
+16664719	sequence	glutamine	1
+16664719	organ/tissue	embryo	1
+16664719	clinical_drug	glutamine	1

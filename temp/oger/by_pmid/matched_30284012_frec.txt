@@ -1,0 +1,46 @@
+30284012	biological_process	degradation	2
+30284012	biological_process	biosynthesis	2
+30284012	biological_process	transport	1
+30284012	biological_process	detoxification	1
+30284012	biological_process	protein synthesis	1
+30284012	biological_process	glucose uptake	1
+30284012	cellular_component	protein	1
+30284012	chemical	glucose	15
+30284012	chemical	pb12	10
+30284012	chemical	ribose	6
+30284012	chemical	nad	5
+30284012	chemical	proteins	4
+30284012	chemical	amino acid	4
+30284012	chemical	carbon	2
+30284012	chemical	pathway	2
+30284012	chemical	protein	2
+30284012	chemical	rnase e	1
+30284012	chemical	accoa	1
+30284012	chemical	galactose permease	1
+30284012	chemical	glucose transporter	1
+30284012	gene/protein	rna pyrophosphohydrolase	323
+30284012	gene/protein	galp	12
+30284012	gene/protein	PTS	10
+30284012	gene/protein	rpph	9
+30284012	gene/protein	rnase e	8
+30284012	gene/protein	precursor	2
+30284012	gene/protein	mglb	2
+30284012	gene/protein	manx	2
+30284012	gene/protein	stress response protein	1
+30284012	gene/protein	galactose permease	1
+30284012	gene/protein	glucose transporter	1
+30284012	organism	ale	6
+30284012	organism	Escherichia coli	2
+30284012	sequence	intermediate	2
+30284012	sequence	mutation	2
+30284012	sequence	amino acid	2
+30284012	sequence	deletion	1
+30284012	sequence	genome	1
+30284012	sequence	chromosomal deletion	1
+30284012	sequence	gene	1
+30284012	sequence	protein	1
+30284012	cell_line	pb11	13
+30284012	cell_line	PTS	2
+30284012	organ/tissue	sole	1
+30284012	clinical_drug	glucose	4
+30284012	clinical_drug	galactose	1

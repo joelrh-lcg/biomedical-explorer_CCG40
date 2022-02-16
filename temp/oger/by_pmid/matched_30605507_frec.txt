@@ -1,0 +1,38 @@
+30605507	biological_process	nitrogen fixation	2
+30605507	biological_process	biosynthesis	1
+30605507	biological_process	metabolism	1
+30605507	biological_process	gene expression	1
+30605507	chemical	nitrogen	8
+30605507	chemical	carmine	6
+30605507	chemical	amino acid	6
+30605507	chemical	cochineal	5
+30605507	chemical	uric acid	4
+30605507	chemical	acetylene	3
+30605507	chemical	vitamin	2
+30605507	chemical	nutrient	1
+30605507	disease	nutritional deficiency	2
+30605507	gene/protein	sap	17
+30605507	gene/protein	grass	1
+30605507	gene/protein	nif	1
+30605507	gene/protein	span	1
+30605507	organism	bacterium	14
+30605507	organism	opuntia	2
+30605507	organism	rice	2
+30605507	organism	Dactylopius coccus	1
+30605507	organism	scale insect	1
+30605507	organism	cactus	1
+30605507	organism	Candidatus Dactylopiibacterium carminicum	1
+30605507	organism	Rhodocyclaceae	1
+30605507	sequence	amino acid	3
+30605507	sequence	deficiency	2
+30605507	sequence	gene	2
+30605507	sequence	genome	1
+30605507	sequence	operon	1
+30605507	organ/tissue	ovary	2
+30605507	organ/tissue	scale	1
+30605507	organ/tissue	tissue	1
+30605507	organ/tissue	hemolymph	1
+30605507	clinical_drug	cochineal	5
+30605507	clinical_drug	nitrogen	4
+30605507	clinical_drug	rice	1
+30605507	molecular_process	acetylene reduction	1

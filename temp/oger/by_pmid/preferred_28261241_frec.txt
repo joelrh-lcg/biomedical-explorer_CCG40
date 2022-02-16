@@ -1,0 +1,25 @@
+28261241	biological_process	obsolete disease resistance	1
+28261241	cellular_component	viral nucleocapsid	2
+28261241	cellular_component	obsolete protein	1
+28261241	chemical	cluster	2
+28261241	chemical	nucleotide	1
+28261241	chemical	protein	1
+28261241	chemical	(protein)	1
+28261241	disease	Disease Resistance	2
+28261241	gene/protein	protein	1
+28261241	organism	Hordeum	1
+28261241	organism	Hordeum vulgare	1
+28261241	sequence	region	5
+28261241	sequence	gene	4
+28261241	sequence	transcript	2
+28261241	sequence	engineered_region	1
+28261241	sequence	genome	1
+28261241	sequence	genotype	1
+28261241	sequence	databank_entry	1
+28261241	sequence	substitution	1
+28261241	sequence	transposable_element	1
+28261241	sequence	polypeptide	1
+28261241	sequence	polypeptide_domain	1
+28261241	organ/tissue	scale	1
+28261241	organ/tissue	matrix compartment	1
+28261241	clinical_drug	barley allergenic extract	1

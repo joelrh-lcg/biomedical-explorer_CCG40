@@ -1,0 +1,33 @@
+32625185	biological_process	plasmid maintenance	1
+32625185	biological_process	conjugation	1
+32625185	cellular_component	chromosome	1
+32625185	chemical	Anti-Bacterial Agents	6
+32625185	chemical	antimicrobial agent	3
+32625185	chemical	protein	2
+32625185	chemical	DNA Transposable Elements	2
+32625185	disease	Infections	2
+32625185	gene/protein	Replication-associated protein	40
+32625185	gene/protein	Replication-associated protein G2P	8
+32625185	gene/protein	Rab proteins geranylgeranyltransferase component A	3
+32625185	gene/protein	Replication-associated protein ORF2	1
+32625185	gene/protein	replication initiation protein (Escherichia coli K-12)	1
+32625185	gene/protein	Replication-associated protein VP4	1
+32625185	gene/protein	replication initiation protein	1
+32625185	gene/protein	ATP-dependent DNA helicase Rep (Escherichia coli K-12)	1
+32625185	gene/protein	Rab escort protein 1 (Arabidopsis thaliana)	1
+32625185	gene/protein	Rab proteins geranylgeranyltransferase component A (fruit fly)	1
+32625185	gene/protein	Replication-associated protein ORF4	1
+32625185	gene/protein	ATP-dependent DNA helicase Rep	1
+32625185	gene/protein	replication initiation protein (Salmonella enterica subsp. enterica serovar Typhi)	1
+32625185	gene/protein	mediator of RNA polymerase II transcription subunit 10 (zebrafish)	1
+32625185	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+32625185	molecular_function	Rab GTPase binding	1
+32625185	organism	unidentified plasmid	15
+32625185	organism	Humans	1
+32625185	sequence	plasmid	15
+32625185	sequence	gene	8
+32625185	sequence	transposable_element	2
+32625185	sequence	genome	1
+32625185	sequence	chromosome	1
+32625185	organ/tissue	organ	2
+32625185	organ/tissue	multicellular organism	1

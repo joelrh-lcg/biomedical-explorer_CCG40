@@ -1,0 +1,7 @@
+11752253	biological_process	transport	1
+11752253	biological_process	regulation of transcription, DNA-templated	1
+11752253	biological_process	gene expression	1
+11752253	chemical	picloram	2
+11752253	chemical	Carrier Proteins	1
+11752253	organism	Escherichia coli	2
+11752253	sequence	gene	1

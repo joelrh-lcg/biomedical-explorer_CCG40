@@ -1,0 +1,14 @@
+29136456	biological_process	defense response	1
+29136456	biological_process	innate immune response	1
+29136456	chemical	cutin	3
+29136456	chemical	wax	1
+29136456	disease	infection	2
+29136456	organism	bacterium	14
+29136456	organism	fungus	2
+29136456	organism	yeast	1
+29136456	organism	mite	1
+29136456	sequence	mite	1
+29136456	organ/tissue	cuticle	9
+29136456	organ/tissue	epidermis	2
+29136456	organ/tissue	organism	1
+29136456	clinical_drug	yeast	1

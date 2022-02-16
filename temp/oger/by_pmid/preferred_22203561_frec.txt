@@ -1,0 +1,106 @@
+22203561	biological_process	catabolic process	3
+22203561	biological_process	pentachlorophenol catabolic process	1
+22203561	biological_process	obsolete mutagenesis	1
+22203561	chemical	chloranilic acid	12
+22203561	chemical	Pentachlorophenol	6
+22203561	chemical	pentachlorophenolate	3
+22203561	chemical	pentachlorophenol	3
+22203561	chemical	picloram	2
+22203561	chemical	quinone	2
+22203561	chemical	chlorophenol	1
+22203561	chemical	monochlorophenol	1
+22203561	chemical	solution	1
+22203561	chemical	elemental carbon	1
+22203561	chemical	carbon atom	1
+22203561	chemical	gamma-poly(glutamic acid) macromolecule	1
+22203561	chemical	base	1
+22203561	chemical	pyranone	1
+22203561	chemical	dicarboxylic acid	1
+22203561	chemical	Fructose-Bisphosphate Aldolase	1
+22203561	chemical	4-hydroxy-tetrahydrodipicolinate synthase	1
+22203561	chemical	1,4-benzoquinone	1
+22203561	chemical	benzoquinone	1
+22203561	gene/protein	Probable cinnamyl alcohol dehydrogenase	9
+22203561	gene/protein	DNA fragmentation factor subunit beta	4
+22203561	gene/protein	Cis-aconitate decarboxylase	4
+22203561	gene/protein	transcriptional activator CadC (Escherichia coli K-12)	3
+22203561	gene/protein	transcriptional activator CadC	3
+22203561	gene/protein	Hydrolase in agr operon	2
+22203561	gene/protein	Probable oxidoreductase TC_0900	2
+22203561	gene/protein	Cyclic adenylate deaminase	2
+22203561	gene/protein	Probable oxidoreductase CPn_0761/CP_1111/CPj0761/CpB0789	2
+22203561	gene/protein	Probable oxidoreductase CT_610	2
+22203561	gene/protein	Uncharacterized 5.9 kDa protein in mobE 3'region	1
+22203561	gene/protein	Uncharacterized 11.5 kDa protein in thcD 3'region	1
+22203561	gene/protein	Putative low molecular weight protein-tyrosine-phosphatase	1
+22203561	gene/protein	Monensin polyketide synthase putative ketoacyl reductase	1
+22203561	gene/protein	Uncharacterized 19.2 kDa protein in cox-rep intergenic region	1
+22203561	gene/protein	Uncharacterized protein RCAP_rcc00048	1
+22203561	gene/protein	Putative cystathionine beta-lyase	1
+22203561	gene/protein	Uncharacterized 10.3 kDa protein in GP2-GP6 intergenic region	1
+22203561	gene/protein	Uncharacterized MFS-type transporter YcxA	1
+22203561	gene/protein	UPF0065 protein BP0148	1
+22203561	gene/protein	Uncharacterized 76.5 kDa protein in phbC 3'region	1
+22203561	gene/protein	Uncharacterized 28.8 kDa protein in nifR3-like 5'region	1
+22203561	gene/protein	Uncharacterized protein Alvin_0065	1
+22203561	gene/protein	Uncharacterized protein in gldA 3'region	1
+22203561	gene/protein	Uncharacterized protein in mprR 3'region	1
+22203561	gene/protein	Uncharacterized 15.6 kDa protein in mobL 3'region	1
+22203561	gene/protein	Granaticin polyketide synthase putative ketoacyl reductase 1	1
+22203561	gene/protein	Uncharacterized protein YlxP	1
+22203561	gene/protein	Uncharacterized protein in sul1 3'region	1
+22203561	gene/protein	Uncharacterized 12.4 kDa protein in CTL-LEF2 intergenic region	1
+22203561	gene/protein	Replication protein	1
+22203561	gene/protein	Uncharacterized protein in hyuC 3'region	1
+22203561	gene/protein	Uncharacterized 28.3 kDa protein in PAR locus	1
+22203561	gene/protein	Uncharacterized 11.8 kDa protein	1
+22203561	gene/protein	Uncharacterized 19.8 kDa protein in nifW 5'region	1
+22203561	gene/protein	Non-structural protein ORF5	1
+22203561	gene/protein	Uncharacterized 23.9 kDa protein in xynA 3'region	1
+22203561	gene/protein	Uncharacterized protein YqxJ	1
+22203561	gene/protein	Uncharacterized 11.6 kDa protein in scrR 3'region	1
+22203561	gene/protein	Accessory secretory protein Asp4	1
+22203561	gene/protein	Uncharacterized 12.9 kDa protein in GpA 3'region	1
+22203561	gene/protein	RWD domain-containing protein 2B (mouse)	1
+22203561	gene/protein	Probable integrase/recombinase	1
+22203561	gene/protein	Uncharacterized 36.6 kDa protein in EGT-IAP1 intergenic region	1
+22203561	gene/protein	lysine-specific permease (Escherichia coli K-12)	1
+22203561	gene/protein	lysine-specific permease	1
+22203561	gene/protein	caldesmon (chicken)	1
+22203561	gene/protein	DNA fragmentation factor subunit beta (mouse)	1
+22203561	gene/protein	cinnamyl alcohol dehydrogenase 4 (Arabidopsis thaliana)	1
+22203561	gene/protein	CAD protein	1
+22203561	gene/protein	CAD protein (mouse)	1
+22203561	gene/protein	DNA fragmentation factor subunit beta (rat)	1
+22203561	gene/protein	DNA fragmentation factor subunit beta (human)	1
+22203561	gene/protein	CAD protein (human)	1
+22203561	gene/protein	caldesmon	1
+22203561	gene/protein	immune-responsive gene 1 protein	1
+22203561	gene/protein	caldesmon (human)	1
+22203561	gene/protein	Glutaryl-7-aminocephalosporanic-acid acylase	1
+22203561	gene/protein	homeotic protein caudal (fruit fly)	1
+22203561	gene/protein	protein POLAR LOCALIZATION DURING ASYMMETRIC DIVISION AND REDISTRIBUTION (Arabidopsis thaliana)	1
+22203561	gene/protein	plasminogen (cow)	1
+22203561	gene/protein	plasminogen (mouse)	1
+22203561	gene/protein	plasminogen	1
+22203561	gene/protein	plasminogen (human)	1
+22203561	gene/protein	plasminogen (rat)	1
+22203561	organism	Pseudomonas putida	4
+22203561	organism	bacterium IFAM-3211	1
+22203561	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+22203561	organism	bacterium IFAM-3215	1
+22203561	organism	bacterium IFAM-2074	1
+22203561	organism	bacterium IFAM-3359	1
+22203561	organism	bacterium	1
+22203561	organism	bacterium IFAM-1493	1
+22203561	sequence	gene	6
+22203561	sequence	ORF	1
+22203561	sequence	mutated_variant_site	1
+22203561	sequence	chromosomal_deletion	1
+22203561	sequence	transposable_element	1
+22203561	sequence	insertion	1
+22203561	sequence	cosmid	1
+22203561	sequence	base	1
+22203561	cell_line	CAD	1
+22203561	organ/tissue	plantar part of pes	1
+22203561	molecular_process	halogenation	1

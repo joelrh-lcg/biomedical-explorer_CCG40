@@ -1,0 +1,3 @@
+28776240	disease	Disease	2
+28776240	disease	chronic kidney disease	2
+28776240	organ/tissue	kidney	1

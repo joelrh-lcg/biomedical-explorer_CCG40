@@ -1,0 +1,32 @@
+1975579	chemical	alpha-particle	3
+1975579	chemical	glutaminate	3
+1975579	chemical	L-glutamine residue	3
+1975579	chemical	L-glutaminyl group	3
+1975579	chemical	N(2)-L-glutamino group	3
+1975579	chemical	polypeptide	2
+1975579	chemical	Glutamate-Ammonia Ligase	1
+1975579	chemical	electron	1
+1975579	chemical	positron	1
+1975579	chemical	inhibitor	1
+1975579	chemical	Transferases	1
+1975579	chemical	Ligases	1
+1975579	chemical	Glutamate Synthase	1
+1975579	gene/protein	Glutamine synthetase	122
+1975579	gene/protein	glutamine synthetase (Schizosaccharomyces pombe 972h-)	3
+1975579	gene/protein	glutamine synthetase (yeast)	3
+1975579	gene/protein	proteolytic cleavage product	2
+1975579	gene/protein	amino acid chain	2
+1975579	gene/protein	glutamine synthetase	1
+1975579	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+1975579	molecular_function	transferase activity	1
+1975579	molecular_function	ligase activity	1
+1975579	molecular_function	glutamate synthase activity	1
+1975579	organism	Neurospora crassa	2
+1975579	sequence	glutamine	4
+1975579	sequence	sequence_variant_obs	3
+1975579	sequence	polypeptide	2
+1975579	sequence	gene	1
+1975579	cell_line	1BR3	3
+1975579	cell_line	GM12508	3
+1975579	clinical_drug	Glutamine	1
+1975579	clinical_drug	Glutamate	1

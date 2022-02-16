@@ -1,0 +1,18 @@
+22203548	chemical	zinc	10
+22203548	chemical	arsenic	6
+22203548	chemical	copper	4
+22203548	chemical	cluster	1
+22203548	chemical	16s rrna	1
+22203548	gene/protein	reca	14
+22203548	gene/protein	to b	1
+22203548	organism	Cupriavidus	6
+22203548	organism	Burkholderia	2
+22203548	organism	cupriavidus	2
+22203548	organism	Ralstonia	1
+22203548	organism	ralstonia	1
+22203548	organism	unknown	1
+22203548	organism	burkholderia	1
+22203548	sequence	sequence	2
+22203548	sequence	16s rrna	1
+22203548	cell_line	reca	1
+22203548	clinical_drug	zinc	2

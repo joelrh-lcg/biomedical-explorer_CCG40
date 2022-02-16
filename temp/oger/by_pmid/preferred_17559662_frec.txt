@@ -1,0 +1,13 @@
+17559662	biological_process	gene expression	1
+17559662	biological_process	transport	1
+17559662	biological_process	response to glucose	1
+17559662	chemical	Glucose	4
+17559662	chemical	aldehydo-D-glucose	2
+17559662	chemical	D-glucopyranose	2
+17559662	chemical	glucose	2
+17559662	chemical	elemental carbon	1
+17559662	chemical	carbon atom	1
+17559662	molecular_function	catalytic activity	1
+17559662	organism	Escherichia coli	2
+17559662	sequence	gene	1
+17559662	clinical_drug	Dextrose, Unspecified Form	2

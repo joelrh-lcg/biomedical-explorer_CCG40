@@ -1,0 +1,16 @@
+16237017	biological_process	transcription, DNA-templated	2
+16237017	chemical	atom	2
+16237017	chemical	protein	1
+16237017	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+16237017	gene/protein	Transcriptional regulator	1
+16237017	organism	unidentified plasmid	3
+16237017	organism	Rhizobium etli	2
+16237017	organism	Sinorhizobium meliloti	2
+16237017	organism	unidentified	1
+16237017	sequence	gene	5
+16237017	sequence	plasmid	3
+16237017	sequence	region	1
+16237017	sequence	homologous_region	1
+16237017	sequence	genome	1
+16237017	sequence	operon	1
+16237017	organ/tissue	organ	2

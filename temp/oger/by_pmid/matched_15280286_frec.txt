@@ -1,0 +1,26 @@
+15280286	cellular_component	protein	1
+15280286	chemical	rdna	3
+15280286	chemical	16s	2
+15280286	chemical	coffee	2
+15280286	chemical	protein	2
+15280286	chemical	tcip	2
+15280286	chemical	amplify	1
+15280286	chemical	fatty acid	1
+15280286	gene/protein	nov	2
+15280286	gene/protein	protein	1
+15280286	gene/protein	dry	1
+15280286	organism	bacterium	7
+15280286	organism	strain b	7
+15280286	organism	maize	4
+15280286	organism	sugarcane	3
+15280286	organism	Burkholderia	2
+15280286	organism	Burkholderia unamae	2
+15280286	organism	coffee	1
+15280286	organism	strain mtl641	1
+15280286	organism	atcc baa744	1
+15280286	sequence	rdna	3
+15280286	sequence	genotype	1
+15280286	sequence	protein	1
+15280286	sequence	sequence	1
+15280286	organ/tissue	tissue	1
+15280286	clinical_drug	sugarcane	2

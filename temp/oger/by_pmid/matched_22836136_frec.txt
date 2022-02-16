@@ -1,0 +1,15 @@
+22836136	biological_process	transcription	3
+22836136	cellular_component	chromatin	1
+22836136	chemical	chromatin	1
+22836136	gene/protein	Santa	1
+22836136	molecular_function	transcription factor	2
+22836136	molecular_function	transcription factor binding	1
+22836136	organism	Drosophila	10
+22836136	sequence	motif	10
+22836136	sequence	sequence	3
+22836136	sequence	transcription factor binding site	1
+22836136	sequence	positional	1
+22836136	sequence	genome	1
+22836136	cell_line	center	1
+22836136	cell_line	min	1
+22836136	organ/tissue	web	1

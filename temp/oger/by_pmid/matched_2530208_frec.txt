@@ -1,0 +1,20 @@
+2530208	chemical	nadph	4
+2530208	chemical	oxygen	3
+2530208	chemical	glutamine synthetase	2
+2530208	chemical	glutamate dehydrogenase	2
+2530208	chemical	carbon	2
+2530208	chemical	iron	2
+2530208	chemical	ascorbate	2
+2530208	chemical	h2o2	1
+2530208	disease	dissociation	1
+2530208	gene/protein	glutamine synthetase	246
+2530208	gene/protein	glutamate dehydrogenase	34
+2530208	molecular_function	binding	1
+2530208	organism	Neurospora crassa	2
+2530208	sequence	glutamine	2
+2530208	sequence	binding	2
+2530208	clinical_drug	oxygen	3
+2530208	clinical_drug	glutamine	2
+2530208	clinical_drug	glutamate	2
+2530208	clinical_drug	iron	2
+2530208	molecular_process	oxidation	1

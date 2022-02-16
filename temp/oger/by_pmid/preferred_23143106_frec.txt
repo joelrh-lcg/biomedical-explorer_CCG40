@@ -1,0 +1,20 @@
+23143106	chemical	magnesium atom	1
+23143106	chemical	base	1
+23143106	gene/protein	Keratin, type I cytoskeletal 12	8
+23143106	gene/protein	secreted and transmembrane protein 1	2
+23143106	gene/protein	secreted and transmembrane protein 1 (human)	2
+23143106	gene/protein	secreted and transmembrane protein 1b	2
+23143106	gene/protein	keratin, type I cytoskeletal 12	2
+23143106	gene/protein	secreted and transmembrane protein 1b (mouse)	2
+23143106	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+23143106	gene/protein	protein IMPACT (zebrafish)	1
+23143106	organism	Escherichia coli	4
+23143106	organism	Escherichia coli K12	2
+23143106	sequence	genome	1
+23143106	sequence	region	1
+23143106	sequence	gene	1
+23143106	sequence	base	1
+23143106	cell_line	K12 [Mouse osteosarcoma]	2
+23143106	cell_line	K12-72.1	2
+23143106	organ/tissue	multicellular organism	1
+23143106	organ/tissue	webbed interdigital region	1

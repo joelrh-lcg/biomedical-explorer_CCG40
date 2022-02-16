@@ -1,0 +1,43 @@
+24400089	biological_process	homeostasis	1
+24400089	biological_process	detoxification	1
+24400089	biological_process	regulation	1
+24400089	biological_process	oxidative burst	1
+24400089	chemical	reactive oxygen species	3
+24400089	chemical	anthocyanin	3
+24400089	chemical	mirna	2
+24400089	chemical	copper	2
+24400089	chemical	ROS	2
+24400089	chemical	microrna	1
+24400089	chemical	Superoxide dismutase 1	1
+24400089	chemical	Nodulin	1
+24400089	chemical	proteins	1
+24400089	disease	csd	10
+24400089	disease	nod	5
+24400089	disease	CSD	2
+24400089	gene/protein	nod	225
+24400089	gene/protein	mir	130
+24400089	gene/protein	bean	30
+24400089	gene/protein	Superoxide dismutase 1	20
+24400089	gene/protein	CSD	6
+24400089	gene/protein	csd1	5
+24400089	gene/protein	ROS	4
+24400089	gene/protein	fold	4
+24400089	gene/protein	CuZn	1
+24400089	gene/protein	Nodulin	1
+24400089	gene/protein	cope	1
+24400089	organism	common bean plant	2
+24400089	organism	Rhizobium tropici	2
+24400089	organism	Phaseolus vulgari	1
+24400089	organism	legume	1
+24400089	organism	Sclerotinia	1
+24400089	organism	Nicotiana benthamiana	1
+24400089	sequence	mirna	2
+24400089	sequence	microrna	1
+24400089	sequence	target gene	1
+24400089	sequence	transgenic	1
+24400089	sequence	transcript	1
+24400089	sequence	gene	1
+24400089	sequence	deficiency	1
+24400089	cell_line	bean	10
+24400089	organ/tissue	nodule	2
+24400089	clinical_drug	oxygen	1

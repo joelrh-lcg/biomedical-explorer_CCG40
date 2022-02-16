@@ -1,0 +1,22 @@
+21718544	biological_process	plasmid partitioning	1
+21718544	biological_process	regulation	1
+21718544	biological_process	transcription	1
+21718544	cellular_component	chromosome	1
+21718544	chemical	antisense rna	1
+21718544	gene/protein	repA	17
+21718544	gene/protein	RepA	17
+21718544	gene/protein	repc	8
+21718544	gene/protein	repB	5
+21718544	gene/protein	repb	5
+21718544	gene/protein	repC	4
+21718544	gene/protein	rna	2
+21718544	molecular_function	antisense rna	1
+21718544	organism	plasmid	2
+21718544	sequence	operon	2
+21718544	sequence	plasmid	2
+21718544	sequence	gene	2
+21718544	sequence	chromosome	1
+21718544	sequence	replicon	1
+21718544	sequence	antisense rna	1
+21718544	cell_line	repc	2
+21718544	cell_line	repC	1

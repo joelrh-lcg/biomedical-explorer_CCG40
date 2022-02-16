@@ -1,0 +1,16 @@
+33178627	biological_process	virulence	9
+33178627	chemical	virulence factor	3
+33178627	chemical	toxin	2
+33178627	chemical	bacteriocin	1
+33178627	chemical	complement	1
+33178627	disease	diarrhea	4
+33178627	disease	Immune system	2
+33178627	gene/protein	adhesin	10
+33178627	gene/protein	bacteriocin	3
+33178627	gene/protein	ten	1
+33178627	sequence	genome	3
+33178627	sequence	gain	1
+33178627	sequence	sequence	1
+33178627	organ/tissue	adult	1
+33178627	organ/tissue	Immune system	1
+33178627	organ/tissue	organism	1

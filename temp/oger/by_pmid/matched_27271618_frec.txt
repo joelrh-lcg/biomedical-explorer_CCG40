@@ -1,0 +1,23 @@
+27271618	biological_process	regulation	2
+27271618	biological_process	nodulation	2
+27271618	biological_process	symbiosis	1
+27271618	cellular_component	root hair	1
+27271618	chemical	mirna	9
+27271618	chemical	microrna	1
+27271618	chemical	nodulation factor	1
+27271618	chemical	signal molecule	1
+27271618	gene/protein	bean	6
+27271618	gene/protein	pure	5
+27271618	gene/protein	rna	2
+27271618	molecular_function	pure	1
+27271618	organism	Phaseolus vulgaris	2
+27271618	organism	Rhizobium etli	2
+27271618	organism	legume	1
+27271618	organism	Phaseolus	1
+27271618	sequence	mirna	9
+27271618	sequence	signal	2
+27271618	sequence	microrna	1
+27271618	sequence	sequence	1
+27271618	cell_line	bean	2
+27271618	organ/tissue	tissue	2
+27271618	organ/tissue	hair	1

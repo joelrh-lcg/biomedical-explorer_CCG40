@@ -1,0 +1,21 @@
+22081714	biological_process	nodulation	1
+22081714	chemical	Dal	1
+22081714	disease	cip	1
+22081714	gene/protein	nov	8
+22081714	gene/protein	cip	8
+22081714	gene/protein	bean	3
+22081714	gene/protein	Dal4	1
+22081714	organism	Rhizobium grahamii	4
+22081714	organism	Rhizobium mesoamericanum	4
+22081714	organism	Phaseolus vulgaris	2
+22081714	organism	Rhizobium	1
+22081714	organism	Leucaena leucocephala	1
+22081714	organism	bacterium be	1
+22081714	organism	atcc baa2124	1
+22081714	organism	CFN 242	1
+22081714	organism	HAMBI 3152	1
+22081714	organism	atcc baa2123	1
+22081714	organism	hambi 3151	1
+22081714	organism	cip 110148	1
+22081714	cell_line	bean	1
+22081714	cell_line	Dal4	1

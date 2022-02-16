@@ -1,0 +1,7 @@
+2811400	biological_process	regulation	3
+2811400	biological_process	regulation of gene expression	1
+2811400	gene/protein	lack	1
+2811400	sequence	genome	4
+2811400	sequence	construct	1
+2811400	sequence	gene	1
+2811400	entity_type	term	2

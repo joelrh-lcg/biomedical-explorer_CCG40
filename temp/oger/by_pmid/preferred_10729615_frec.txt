@@ -1,0 +1,55 @@
+10729615	chemical	DNA, Complementary	4
+10729615	chemical	pyridine	3
+10729615	chemical	Durapatite	2
+10729615	chemical	Glycine	2
+10729615	chemical	palmitoyl ethanolamide	2
+10729615	chemical	O-phosphoethanolamine	2
+10729615	chemical	ferric leghemoglobin reductase	1
+10729615	chemical	Leghemoglobin	1
+10729615	chemical	leghemoglobin	1
+10729615	chemical	hydroxylapatite	1
+10729615	chemical	sephacryl S 200	1
+10729615	chemical	nucleotide	1
+10729615	chemical	glycine	1
+10729615	chemical	glycine zwitterion	1
+10729615	chemical	glycine residue	1
+10729615	chemical	Dihydrolipoamide Dehydrogenase	1
+10729615	chemical	disulfide	1
+10729615	chemical	alpha-amino acid	1
+10729615	chemical	amino acid	1
+10729615	gene/protein	Dihydrolipoyl dehydrogenase	54
+10729615	gene/protein	Leghemoglobin reductase	16
+10729615	gene/protein	Dihydrolipoyl dehydrogenase, mitochondrial	16
+10729615	gene/protein	Leghemoglobin	5
+10729615	gene/protein	Dermonecrotic toxin LbSicTox-alphaIB1b	2
+10729615	gene/protein	CD59 glycoprotein (human)	2
+10729615	gene/protein	CD59 glycoprotein	2
+10729615	gene/protein	phosphoribosylaminoimidazole carboxylase (Schizosaccharomyces pombe 972h-)	2
+10729615	gene/protein	Dermonecrotic toxin LbSicTox-betaIA1a	2
+10729615	gene/protein	protein translocase subunit SecA	2
+10729615	gene/protein	protein translocase subunit SecA (Escherichia coli K-12)	2
+10729615	gene/protein	ATP-dependent RNA helicase DHX8 (fruit fly)	2
+10729615	gene/protein	protein max (zebrafish)	1
+10729615	gene/protein	dihydrolipoyl dehydrogenase, mitochondrial	1
+10729615	gene/protein	dihydrolipoyl dehydrogenase	1
+10729615	organism	Vigna unguiculata	7
+10729615	organism	Vigna	6
+10729615	organism	Glycine max	4
+10729615	organism	Soybeans	4
+10729615	organism	Pisum sativum	3
+10729615	organism	Peas	3
+10729615	sequence	cDNA	3
+10729615	sequence	region	2
+10729615	sequence	cDNA_clone	1
+10729615	sequence	glycine	1
+10729615	sequence	disulfide_bond	1
+10729615	sequence	amino_acid	1
+10729615	cell_line	MIN	2
+10729615	cell_line	BTI-Tn-MG1	2
+10729615	cell_line	PEA	2
+10729615	organ/tissue	cerebellum vermis lobule X	2
+10729615	organ/tissue	germinal center	2
+10729615	clinical_drug	Soybean preparation	3
+10729615	clinical_drug	Soybean	3
+10729615	clinical_drug	Pisum sativum allergenic extract	2
+10729615	clinical_drug	Glycine	1

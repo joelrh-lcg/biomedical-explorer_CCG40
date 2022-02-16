@@ -1,0 +1,24 @@
+31796995	biological_process	metamorphosis	2
+31796995	biological_process	developmental process	1
+31796995	biological_process	digestion	1
+31796995	biological_process	detoxification	1
+31796995	cellular_component	core	1
+31796995	chemical	16s rrna	1
+31796995	gene/protein	egg	1
+31796995	organism	gut microbiome	3
+31796995	organism	Lepidoptera	2
+31796995	organism	moth	1
+31796995	organism	Brithys crini	1
+31796995	organism	larva	1
+31796995	organism	Proteobacteria	1
+31796995	sequence	16s rrna	1
+31796995	sequence	rrna gene	1
+31796995	sequence	sequence	1
+31796995	organ/tissue	gut	18
+31796995	organ/tissue	larva	3
+31796995	organ/tissue	egg	2
+31796995	organ/tissue	hindgut	2
+31796995	organ/tissue	adult	2
+31796995	organ/tissue	developmental stage	2
+31796995	organ/tissue	midgut	1
+31796995	organ/tissue	intestine	1

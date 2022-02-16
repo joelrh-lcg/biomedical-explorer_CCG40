@@ -1,0 +1,23 @@
+23834084	cellular_component	mitochondrial genome	1
+23834084	cellular_component	protein	1
+23834084	chemical	protein	2
+23834084	chemical	trna	2
+23834084	chemical	rrna	1
+23834084	chemical	nucleotide	1
+23834084	gene/protein	fold	4
+23834084	gene/protein	protein	1
+23834084	molecular_function	trna	1
+23834084	organism	monarch butterfly	1
+23834084	organism	butterfly	1
+23834084	organism	Euploea mulciber	1
+23834084	organism	Lepidoptera	1
+23834084	sequence	sequence	4
+23834084	sequence	genome	1
+23834084	sequence	assembly	1
+23834084	sequence	protein	1
+23834084	sequence	gene	1
+23834084	sequence	trna gene	1
+23834084	sequence	rrna gene	1
+23834084	sequence	consensus	1
+23834084	sequence	single nucleotide polymorphism	1
+23834084	organ/tissue	gut	3

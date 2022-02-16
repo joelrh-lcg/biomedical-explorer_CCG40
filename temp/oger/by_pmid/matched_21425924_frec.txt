@@ -1,0 +1,34 @@
+21425924	biological_process	nodule development	2
+21425924	biological_process	cell expansion	2
+21425924	biological_process	root development	1
+21425924	biological_process	meristem initiation	1
+21425924	biological_process	rna interference	1
+21425924	cellular_component	symbiosome	2
+21425924	cellular_component	protein	1
+21425924	cellular_component	membrane	1
+21425924	chemical	gibberellic acid	4
+21425924	chemical	hormone	3
+21425924	chemical	auxin	3
+21425924	chemical	protein	2
+21425924	chemical	abscissic acid	2
+21425924	chemical	proteins	1
+21425924	chemical	pathway	1
+21425924	chemical	cytokinin	1
+21425924	chemical	electron	1
+21425924	disease	infection	2
+21425924	gene/protein	rack1	20
+21425924	gene/protein	rna	2
+21425924	gene/protein	eukaryotic protein	1
+21425924	organism	Rhizobium tropici	2
+21425924	organism	Phaseolus vulgari	1
+21425924	organism	rhizobium	1
+21425924	sequence	transcript	2
+21425924	sequence	transgenic	2
+21425924	sequence	protein	1
+21425924	sequence	repeat family	1
+21425924	sequence	construct	1
+21425924	sequence	chain	1
+21425924	sequence	membrane structure	1
+21425924	organ/tissue	nodule	24
+21425924	organ/tissue	membrane	2
+21425924	molecular_process	chain reaction	1

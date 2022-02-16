@@ -1,0 +1,46 @@
+9113990	cellular_component	obsolete protein	4
+9113990	cellular_component	viral nucleocapsid	2
+9113990	chemical	Chitin	8
+9113990	chemical	oligosaccharide	7
+9113990	chemical	protein	4
+9113990	chemical	(protein)	4
+9113990	chemical	chitin	4
+9113990	chemical	Fucose	2
+9113990	chemical	polysaccharide	2
+9113990	chemical	glycoprotein	2
+9113990	chemical	Glycoproteins	2
+9113990	chemical	Antigens	2
+9113990	chemical	lipo-chitin oligosaccharide	1
+9113990	chemical	signalling molecule	1
+9113990	chemical	L-fucose	1
+9113990	chemical	fucose	1
+9113990	chemical	hydrogen donor	1
+9113990	chemical	donor	1
+9113990	chemical	pentasaccharide	1
+9113990	chemical	antigen	1
+9113990	gene/protein	Glycoprotein	104
+9113990	gene/protein	protein	4
+9113990	gene/protein	glycoprotein	2
+9113990	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+9113990	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+9113990	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+9113990	organism	Bradyrhizobium japonicum	2
+9113990	organism	Mesorhizobium loti	2
+9113990	organism	Escherichia coli	2
+9113990	organism	bacterium IFAM-3211	1
+9113990	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+9113990	organism	bacterium IFAM-3215	1
+9113990	organism	bacterium IFAM-2074	1
+9113990	organism	bacterium IFAM-3359	1
+9113990	organism	bacterium	1
+9113990	organism	bacterium IFAM-1493	1
+9113990	organism	Azorhizobium	1
+9113990	organism	Rhizobium	1
+9113990	organism	Eukaryota	1
+9113990	sequence	polypeptide	4
+9113990	sequence	gene	1
+9113990	sequence	transit_peptide	1
+9113990	sequence	signal_peptide	1
+9113990	sequence	five_prime_cis_splice_site	1
+9113990	cell	leukocyte	1
+9113990	molecular_process	acylation	1

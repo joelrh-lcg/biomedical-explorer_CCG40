@@ -1,0 +1,30 @@
+25440551	cellular_component	viral nucleocapsid	1
+25440551	chemical	sulfur atom	1
+25440551	chemical	DNA, Ribosomal	1
+25440551	gene/protein	proteoglycan Cow (fruit fly)	1
+25440551	gene/protein	DNA-3-methyladenine glycosylase 1 (Escherichia coli K-12)	1
+25440551	gene/protein	UPF0410 protein YmgE	1
+25440551	gene/protein	UPF0410 protein YmgE (Escherichia coli K-12)	1
+25440551	gene/protein	DNA-3-methyladenine glycosylase 1	1
+25440551	gene/protein	DNA-3-methyladenine glycosylase	1
+25440551	gene/protein	protein ovarian tumor locus (fruit fly)	1
+25440551	organism	Lactococcus	2
+25440551	organism	Staphylococcus	2
+25440551	organism	Acinetobacter	2
+25440551	organism	Lactobacillus	2
+25440551	organism	Bos taurus	1
+25440551	organism	Firmicutes	1
+25440551	organism	Proteobacteria	1
+25440551	organism	Actinobacteria	1
+25440551	organism	Bacteroidetes	1
+25440551	organism	Streptococcus	1
+25440551	organism	Enterococcus	1
+25440551	organism	Pantoea	1
+25440551	organism	Enterobacteriaceae	1
+25440551	organism	Stenotrophomonas	1
+25440551	sequence	region	4
+25440551	sequence	tag	1
+25440551	sequence	PCR_product	1
+25440551	sequence	rRNA_gene	1
+25440551	organ/tissue	milk	1
+25440551	clinical_drug	cow milk allergenic extract	1

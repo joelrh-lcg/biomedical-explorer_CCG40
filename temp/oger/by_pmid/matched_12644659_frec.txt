@@ -1,0 +1,25 @@
+12644659	biological_process	root development	1
+12644659	biological_process	gene expression	1
+12644659	biological_process	metabolism	1
+12644659	biological_process	secondary metabolism	1
+12644659	biological_process	hormone metabolism	1
+12644659	biological_process	signal transduction	1
+12644659	chemical	phosphorus	5
+12644659	chemical	cluster	2
+12644659	chemical	carbon	2
+12644659	chemical	cdna	1
+12644659	chemical	Nylon	1
+12644659	chemical	plant hormone	1
+12644659	gene/protein	tag	5
+12644659	gene/protein	lupin	2
+12644659	gene/protein	rna	2
+12644659	organism	Lupinus albus	1
+12644659	sequence	est	3
+12644659	sequence	gene	3
+12644659	sequence	sequence	2
+12644659	sequence	transcript	2
+12644659	sequence	signal	2
+12644659	sequence	deficiency	1
+12644659	sequence	tag	1
+12644659	sequence	cdna	1
+12644659	sequence	contig	1

@@ -1,0 +1,7 @@
+15969646	biological_process	transcription, DNA-templated	2
+15969646	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	2
+15969646	organism	Escherichia coli	2
+15969646	organism	Bacillus subtilis	2
+15969646	sequence	gene	3
+15969646	organ/tissue	multicellular organism	1
+15969646	clinical_drug	Bacillus subtilis	1

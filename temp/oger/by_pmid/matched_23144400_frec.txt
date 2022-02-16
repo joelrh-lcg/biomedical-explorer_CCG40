@@ -1,0 +1,5 @@
+23144400	organism	Rhizobium grahamii	2
+23144400	organism	Phaseolus vulgaris	2
+23144400	organism	Rhizobium	1
+23144400	sequence	genome	1
+23144400	sequence	sequence	1

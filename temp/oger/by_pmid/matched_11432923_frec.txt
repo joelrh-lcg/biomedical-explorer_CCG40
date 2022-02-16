@@ -1,0 +1,44 @@
+11432923	biological_process	photosynthesis	3
+11432923	biological_process	fertilization	2
+11432923	cellular_component	cytosol	1
+11432923	cellular_component	chloroplast	1
+11432923	chemical	nitrogen	12
+11432923	chemical	ammonium	6
+11432923	chemical	glutamine	4
+11432923	chemical	Nitrogen	3
+11432923	chemical	amino acid	2
+11432923	chemical	nutrient	1
+11432923	chemical	glutamine synthetase	1
+11432923	chemical	glutamate synthase	1
+11432923	chemical	35s	1
+11432923	chemical	gs5	1
+11432923	chemical	proteins	1
+11432923	disease	gs1	2
+11432923	disease	starvation	2
+11432923	disease	gs2	1
+11432923	gene/protein	glutamine synthetase	123
+11432923	gene/protein	gs1	24
+11432923	gene/protein	GOGAT	2
+11432923	gene/protein	rna	2
+11432923	gene/protein	chloroplast gs2	1
+11432923	gene/protein	dry	1
+11432923	gene/protein	crop	1
+11432923	organism	gs1	2
+11432923	organism	Tobacco	2
+11432923	organism	Nicotiana tabacum	2
+11432923	organism	gs5	2
+11432923	organism	camv	1
+11432923	organism	transgenic plant	1
+11432923	sequence	glutamine	2
+11432923	sequence	transgenic	2
+11432923	sequence	amino acid	1
+11432923	sequence	promoter	1
+11432923	cell_line	gs1	4
+11432923	cell_line	gs2	1
+11432923	cell_line	c 70	1
+11432923	cell_line	c 100	1
+11432923	organ/tissue	crop	1
+11432923	clinical_drug	nitrogen	6
+11432923	clinical_drug	glutamine	2
+11432923	clinical_drug	Nitrogen	1
+11432923	clinical_drug	glutamate	1

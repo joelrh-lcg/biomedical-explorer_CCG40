@@ -1,0 +1,31 @@
+28442446	biological_process	blood coagulation	1
+28442446	biological_process	vasodilation	1
+28442446	biological_process	platelet aggregation	1
+28442446	cellular_component	protein	2
+28442446	chemical	proteins	6
+28442446	chemical	protein	4
+28442446	chemical	triabin	2
+28442446	chemical	antimicrobial	1
+28442446	chemical	polypeptide	1
+28442446	chemical	proteome	1
+28442446	disease	salivary gland	4
+28442446	disease	Chagas disease	2
+28442446	gene/protein	spot	4
+28442446	gene/protein	protein	2
+28442446	gene/protein	polypeptide	2
+28442446	gene/protein	triabin	1
+28442446	organism	Trypanosoma cruzi	2
+28442446	organism	spot	2
+28442446	organism	Triatominae	1
+28442446	organism	parasite	1
+28442446	organism	triatoma	1
+28442446	sequence	transcript	3
+28442446	sequence	protein	2
+28442446	sequence	vector	1
+28442446	sequence	sequence	1
+28442446	sequence	polypeptide	1
+28442446	cell	platelet	1
+28442446	organ/tissue	saliva	6
+28442446	organ/tissue	salivary gland	2
+28442446	organ/tissue	spot	2
+28442446	organ/tissue	milk	1

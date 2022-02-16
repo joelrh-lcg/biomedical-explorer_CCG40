@@ -1,0 +1,31 @@
+21051347	biological_process	biological regulation	2
+21051347	biological_process	transcription, DNA-templated	2
+21051347	biological_process	signal transduction	1
+21051347	cellular_component	viral nucleocapsid	1
+21051347	gene/protein	Keratin, type I cytoskeletal 12	4
+21051347	gene/protein	secreted and transmembrane protein 1	1
+21051347	gene/protein	secreted and transmembrane protein 1 (human)	1
+21051347	gene/protein	secreted and transmembrane protein 1b	1
+21051347	gene/protein	keratin, type I cytoskeletal 12	1
+21051347	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+21051347	gene/protein	F-box/WD repeat-containing protein 7 (fruit fly)	1
+21051347	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+21051347	gene/protein	extracellular adherence protein	1
+21051347	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+21051347	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+21051347	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+21051347	gene/protein	methionine aminopeptidase	1
+21051347	gene/protein	DNA replication terminus site-binding protein (Escherichia coli K-12)	1
+21051347	gene/protein	DNA replication terminus site-binding protein	1
+21051347	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+21051347	organism	Escherichia coli K12	1
+21051347	sequence	transit_peptide	2
+21051347	sequence	signal_peptide	2
+21051347	sequence	candidate_gene	1
+21051347	sequence	polypeptide_conserved_motif	1
+21051347	sequence	polypeptide_motif	1
+21051347	sequence	TSS	1
+21051347	cell_line	K12 [Mouse osteosarcoma]	1
+21051347	cell_line	K12-72.1	1
+21051347	organ/tissue	multicellular organism	1
+21051347	organ/tissue	webbed interdigital region	1

@@ -1,0 +1,7 @@
+31545121	chemical	antimicrobial	1
+31545121	disease	infection	2
+31545121	gene/protein	Efm	3
+31545121	organism	collection	1
+31545121	sequence	sequence	2
+31545121	sequence	construct	1
+31545121	cell_line	cc17	2

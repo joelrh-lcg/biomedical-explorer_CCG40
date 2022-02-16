@@ -1,0 +1,35 @@
+22096812	biological_process	synthesis	1
+22096812	biological_process	catabolism	1
+22096812	chemical	glutamine	28
+22096812	chemical	glutamate	12
+22096812	chemical	dehydrogenase	2
+22096812	chemical	glutamine synthetase	2
+22096812	chemical	polypeptide	2
+22096812	chemical	nitrogen	2
+22096812	chemical	transform	1
+22096812	chemical	glutamate synthase	1
+22096812	chemical	glutaminase	1
+22096812	chemical	amidase	1
+22096812	chemical	pathway	1
+22096812	chemical	alanine transaminase	1
+22096812	chemical	carrier	1
+22096812	gene/protein	mat	653
+22096812	gene/protein	glutamine synthetase	246
+22096812	gene/protein	glutaminase	152
+22096812	gene/protein	polypeptide	4
+22096812	gene/protein	amidase	4
+22096812	gene/protein	dehydrogenase	2
+22096812	gene/protein	alanine transaminase	2
+22096812	molecular_function	mat	1
+22096812	molecular_function	glutaminase activity	1
+22096812	molecular_function	carrier	1
+22096812	organism	Neurospora crassa	2
+22096812	sequence	glutamine	9
+22096812	sequence	polypeptide	2
+22096812	sequence	alanine	1
+22096812	cell_line	mat	1
+22096812	clinical_drug	glutamine	9
+22096812	clinical_drug	glutamate	3
+22096812	clinical_drug	alanine	1
+22096812	clinical_drug	nitrogen	1
+22096812	entity_type	term	2

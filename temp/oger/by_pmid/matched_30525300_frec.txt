@@ -1,0 +1,11 @@
+30525300	biological_process	regulation	1
+30525300	cellular_component	stigma	1
+30525300	chemical	base	1
+30525300	disease	disease	6
+30525300	disease	disease susceptibility	2
+30525300	disease	susceptibility genetic	2
+30525300	disease	neurodegenerative disease	2
+30525300	disease	alzheimer	2
+30525300	disease	parkinson disease	2
+30525300	sequence	base	1
+30525300	sequence	score	1

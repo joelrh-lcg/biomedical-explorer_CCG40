@@ -1,0 +1,14 @@
+9336911	chemical	cluster	3
+9336911	chemical	RNA, Ribosomal, 16S	1
+9336911	chemical	ribosomal RNA	1
+9336911	organism	Lupinus	4
+9336911	organism	Bradyrhizobium japonicum	3
+9336911	organism	Bradyrhizobium	2
+9336911	organism	Lupinus campestris	1
+9336911	organism	Lupinus montanus	1
+9336911	organism	collection	1
+9336911	sequence	rRNA_16S	1
+9336911	sequence	region	1
+9336911	sequence	rRNA	1
+9336911	organ/tissue	cerebellum vermis lobule X	2
+9336911	organ/tissue	germinal center	2

@@ -1,0 +1,24 @@
+22109095	chemical	s23	2
+22109095	chemical	16s	1
+22109095	chemical	rdna	1
+22109095	disease	IGS	1
+22109095	gene/protein	reca	14
+22109095	gene/protein	dnak	8
+22109095	gene/protein	crop	6
+22109095	gene/protein	bean	6
+22109095	organism	bacterium	7
+22109095	organism	Bradyrhizobium	4
+22109095	organism	legume	2
+22109095	organism	phaseolus vulgaris	2
+22109095	organism	maize	2
+22109095	organism	bradyrhizobium	2
+22109095	organism	Rhizobium etli	2
+22109095	sequence	sequence	1
+22109095	sequence	rdna	1
+22109095	sequence	IGS	1
+22109095	cell_line	bean	2
+22109095	cell_line	reca	1
+22109095	cell_line	s23	1
+22109095	organ/tissue	crop	6
+22109095	organ/tissue	LUS	2
+22109095	molecular_process	reduction	1

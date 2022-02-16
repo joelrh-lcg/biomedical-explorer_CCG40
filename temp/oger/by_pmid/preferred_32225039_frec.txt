@@ -1,0 +1,45 @@
+32225039	biological_process	G1 to G0 transition	2
+32225039	biological_process	single-celled organism vegetative growth phase	2
+32225039	biological_process	catabolic process	1
+32225039	biological_process	fatty acid catabolic process	1
+32225039	cellular_component	subrhabdomeral cisterna	1
+32225039	cellular_component	membrane	1
+32225039	chemical	fatty acid	4
+32225039	chemical	Coenzyme A	2
+32225039	chemical	long-chain fatty acid	2
+32225039	chemical	elemental carbon	2
+32225039	chemical	carbon atom	2
+32225039	chemical	Oleic Acid	2
+32225039	chemical	coenzyme A(4-)	1
+32225039	chemical	coenzyme A	1
+32225039	chemical	Ligases	1
+32225039	chemical	oleate	1
+32225039	chemical	oleic acid	1
+32225039	chemical	lipid	1
+32225039	disease	Smith-McCort Dysplasia	1
+32225039	gene/protein	long-chain-fatty-acid--CoA ligase	8
+32225039	gene/protein	sn-2 acyl-lipid omega-3 desaturase (ferredoxin), chloroplastic (Arabidopsis thaliana)	8
+32225039	gene/protein	FAS-associated death domain protein (mouse)	8
+32225039	gene/protein	Fas-associated death domain protein (fruit fly)	8
+32225039	gene/protein	FAS-associated death domain protein (human)	8
+32225039	gene/protein	long-chain-fatty-acid--CoA ligase (Escherichia coli K-12)	8
+32225039	gene/protein	FAS-associated death domain protein	8
+32225039	gene/protein	Small nuclear ribonucleoprotein-associated protein B	6
+32225039	gene/protein	Small nuclear ribonucleoprotein-associated protein B'	5
+32225039	gene/protein	outer membrane porin F (Escherichia coli K-12)	1
+32225039	gene/protein	Hermansky-Pudlak syndrome 3 protein	1
+32225039	gene/protein	outer membrane porin F	1
+32225039	gene/protein	coagulase	1
+32225039	gene/protein	Hermansky-Pudlak syndrome 3 protein homolog (mouse)	1
+32225039	gene/protein	mucin-4 (rat)	1
+32225039	gene/protein	Probable small nuclear ribonucleoprotein-associated protein B	1
+32225039	gene/protein	protein SOMBRERO (Arabidopsis thaliana)	1
+32225039	gene/protein	small nuclear ribonucleoprotein-associated protein B (fruit fly)	1
+32225039	organism	Escherichia coli	4
+32225039	organism	Sinorhizobium	1
+32225039	organism	Melilotus	1
+32225039	sequence	homologous_region	1
+32225039	cell_line	SMB	1
+32225039	organ/tissue	plantar part of pes	2
+32225039	organ/tissue	membrane organ	1
+32225039	organ/tissue	membranous layer	1

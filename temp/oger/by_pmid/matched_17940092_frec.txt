@@ -1,0 +1,19 @@
+17940092	biological_process	Gene Ontology	1
+17940092	biological_process	transport	1
+17940092	chemical	metabolite	1
+17940092	gene/protein	k12	9
+17940092	gene/protein	gap	2
+17940092	organism	e coli	14
+17940092	organism	Saccharomyces cerevisiae	2
+17940092	organism	Arabidopsis thaliana	2
+17940092	organism	Mus musculus	2
+17940092	organism	Drosophila melanogaster	2
+17940092	organism	Escherichia coli k12	1
+17940092	sequence	gene	6
+17940092	sequence	genome	5
+17940092	sequence	gap	1
+17940092	cell_line	k12	2
+17940092	organ/tissue	organism	1
+17940092	organ/tissue	musculus	1
+17940092	clinical_drug	Saccharomyces cerevisiae	2
+17940092	entity_type	term	2

@@ -1,0 +1,29 @@
+24558041	biological_process	virulence	3
+24558041	cellular_component	membrane	1
+24558041	chemical	diacylglycerol	308
+24558041	chemical	phosphate	24
+24558041	chemical	monoglucosyl diacylglycerol	6
+24558041	chemical	glucuronosyl diacylglycerol	6
+24558041	chemical	glycolipid	5
+24558041	chemical	lipid	3
+24558041	chemical	udpglucose	2
+24558041	chemical	donor	2
+24558041	chemical	phospholipid	1
+24558041	chemical	digalactosyl diacylglycerol	1
+24558041	chemical	acid	1
+24558041	disease	infection	2
+24558041	gene/protein	orf	2
+24558041	gene/protein	atu	1
+24558041	gene/protein	lack	1
+24558041	organism	bacterium	7
+24558041	organism	tobacco	2
+24558041	organism	cyanobacteria	1
+24558041	organism	Agrobacterium	1
+24558041	organism	agrobacterium	1
+24558041	sequence	deficiency	1
+24558041	sequence	orf	1
+24558041	sequence	donor	1
+24558041	sequence	deletion	1
+24558041	organ/tissue	membrane	2
+24558041	organ/tissue	organism	1
+24558041	clinical_drug	tobacco leaf	1

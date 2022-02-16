@@ -1,0 +1,7 @@
+26734060	chemical	timeline	2
+26734060	chemical	milestone	1
+26734060	chemical	transform	1
+26734060	organism	unknown organism	1
+26734060	organism	metagenome	1
+26734060	sequence	transition	1
+26734060	organ/tissue	organism	1

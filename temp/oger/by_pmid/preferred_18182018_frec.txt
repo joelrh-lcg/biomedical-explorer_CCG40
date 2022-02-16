@@ -1,0 +1,39 @@
+18182018	biological_process	nodulation	1
+18182018	chemical	DNA, Complementary	6
+18182018	chemical	Ammonia	2
+18182018	chemical	alpha-amino acid	2
+18182018	chemical	amino acid	2
+18182018	chemical	Sucrose	2
+18182018	chemical	Glutamate Synthase	1
+18182018	chemical	ammonia	1
+18182018	chemical	probe	1
+18182018	chemical	protein	1
+18182018	chemical	sucrose	1
+18182018	chemical	nitrogen atom	1
+18182018	chemical	nitrogen(.)	1
+18182018	chemical	atom	1
+18182018	gene/protein	Cytokine-inducible SH2-containing protein	5
+18182018	gene/protein	Protein BEAN1	4
+18182018	gene/protein	protein BEAN	2
+18182018	gene/protein	cytokine-inducible SH2-containing protein (chicken)	1
+18182018	gene/protein	cytokine-inducible SH2-containing protein	1
+18182018	gene/protein	cytokine-inducible SH2-containing protein (mouse)	1
+18182018	organism	Phaseolus	1
+18182018	sequence	cDNA	4
+18182018	sequence	gene	4
+18182018	sequence	cDNA_clone	2
+18182018	sequence	amino_acid	2
+18182018	sequence	promoter	2
+18182018	sequence	probe	1
+18182018	sequence	genome	1
+18182018	sequence	region	1
+18182018	cell_line	R1192	2
+18182018	organ/tissue	cerebellum vermis lobule X	4
+18182018	organ/tissue	germinal center	4
+18182018	organ/tissue	tissue	1
+18182018	organ/tissue	central sulcus of insula	1
+18182018	organ/tissue	organ	1
+18182018	clinical_drug	Glutamate	1
+18182018	clinical_drug	Ammonia	1
+18182018	clinical_drug	Sucrose	1
+18182018	clinical_drug	Nitrogen	1

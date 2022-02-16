@@ -1,0 +1,17 @@
+33800466	biological_process	virulence	15
+33800466	biological_process	stationary phase	2
+33800466	cellular_component	host cell	1
+33800466	chemical	virulence factor	1
+33800466	disease	disease	4
+33800466	disease	babesiosis	2
+33800466	disease	immune system	2
+33800466	disease	infection	2
+33800466	organism	cattle	6
+33800466	organism	parasite	4
+33800466	organism	tick	3
+33800466	organism	bovine	2
+33800466	organism	strain m	2
+33800466	organism	Apicomplexa	1
+33800466	sequence	gene	4
+33800466	sequence	vector	1
+33800466	organ/tissue	immune system	1

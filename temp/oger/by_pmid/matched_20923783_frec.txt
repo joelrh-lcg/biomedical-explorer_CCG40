@@ -1,0 +1,13 @@
+20923783	biological_process	transcription	1
+20923783	molecular_function	transcription factor	1
+20923783	molecular_function	binding	1
+20923783	organism	mouse	4
+20923783	organism	yeast	2
+20923783	organism	collection	1
+20923783	sequence	motif	10
+20923783	sequence	sequence	5
+20923783	sequence	genome	2
+20923783	sequence	binding site	2
+20923783	sequence	score	1
+20923783	organ/tissue	matrix	5
+20923783	clinical_drug	yeast	2

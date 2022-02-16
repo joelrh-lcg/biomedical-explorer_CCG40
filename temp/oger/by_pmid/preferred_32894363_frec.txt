@@ -1,0 +1,29 @@
+32894363	biological_process	sporulation	1
+32894363	biological_process	ascospore formation	1
+32894363	chemical	Captan	2
+32894363	chemical	cluster	2
+32894363	chemical	bacillomycin D	2
+32894363	chemical	captan	1
+32894363	chemical	metabolite	1
+32894363	chemical	surfactin	1
+32894363	chemical	Bacillomycin D	1
+32894363	gene/protein	phosphatidylglycerophosphatase B	1
+32894363	gene/protein	phosphatidylglycerophosphatase B (Escherichia coli K-12)	1
+32894363	gene/protein	mediator of RNA polymerase II transcription subunit 10 (zebrafish)	1
+32894363	organism	Bacillus velezensis	2
+32894363	organism	Mangifera indica	2
+32894363	organism	Mangifera	2
+32894363	organism	Zea mays	2
+32894363	organism	Seedlings	2
+32894363	organism	bacterium BE	1
+32894363	organism	Arabidopsis thaliana	1
+32894363	organism	Arabidopsis	1
+32894363	sequence	genome	3
+32894363	sequence	gene	3
+32894363	sequence	region	1
+32894363	sequence	circular	1
+32894363	sequence	assembly	1
+32894363	organ/tissue	basal communicating artery	1
+32894363	clinical_drug	Mangifera indica allergenic extract	2
+32894363	clinical_drug	mangifera indica (mango) fruit extract	2
+32894363	clinical_drug	Captan	1

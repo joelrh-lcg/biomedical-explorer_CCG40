@@ -1,0 +1,21 @@
+2552255	biological_process	nodulation	1
+2552255	chemical	ce3	1
+2552255	gene/protein	psm	24
+2552255	gene/protein	bean	3
+2552255	organism	Rhizobium phaseoli	2
+2552255	organism	Phaseolus vulgaris	2
+2552255	organism	Rhizobium meliloti	2
+2552255	organism	plasmid	1
+2552255	sequence	cosmid	3
+2552255	sequence	gene	2
+2552255	sequence	fragment	2
+2552255	sequence	plasmid	1
+2552255	sequence	deletion	1
+2552255	sequence	insertional	1
+2552255	sequence	mutation	1
+2552255	sequence	sequence	1
+2552255	cell_line	psm	4
+2552255	cell_line	ce3	1
+2552255	cell_line	bean	1
+2552255	organ/tissue	psm	8
+2552255	organ/tissue	nodule	4

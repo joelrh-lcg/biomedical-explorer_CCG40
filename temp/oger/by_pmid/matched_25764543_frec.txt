@@ -1,0 +1,10 @@
+25764543	biological_process	virulence	3
+25764543	chemical	virulence factor	1
+25764543	disease	susceptibility	2
+25764543	organism	bacterium	14
+25764543	organism	arthropod	3
+25764543	organism	spiroplasma	2
+25764543	organism	Spiroplasma	1
+25764543	organism	eukaryote	1
+25764543	sequence	sequence	2
+25764543	sequence	genome	2

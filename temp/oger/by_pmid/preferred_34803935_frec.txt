@@ -1,0 +1,16 @@
+34803935	biological_process	response to drug	1
+34803935	biological_process	obsolete drug resistance	1
+34803935	chemical	Anti-Bacterial Agents	4
+34803935	chemical	antimicrobial agent	2
+34803935	chemical	drug	1
+34803935	chemical	atom	1
+34803935	gene/protein	probable N-acetyltransferase san (fruit fly)	1
+34803935	organism	unidentified plasmid	4
+34803935	organism	Life Cycle Stages	1
+34803935	sequence	plasmid	4
+34803935	sequence	gene	2
+34803935	sequence	mobile_genetic_element	1
+34803935	sequence	vector_replicon	1
+34803935	organ/tissue	organ	1
+34803935	organ/tissue	life cycle	1
+34803935	clinical_drug	Thrive	1

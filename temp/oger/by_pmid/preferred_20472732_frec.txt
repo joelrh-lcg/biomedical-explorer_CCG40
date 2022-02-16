@@ -1,0 +1,19 @@
+20472732	chemical	ethylene	3
+20472732	chemical	Acetylene	2
+20472732	chemical	RNA, Ribosomal, 16S	1
+20472732	chemical	acetylene	1
+20472732	chemical	ethylene group	1
+20472732	chemical	ethene	1
+20472732	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+20472732	organism	Paraburkholderia phymatum	2
+20472732	organism	Phaseolus	1
+20472732	organism	Mimosa	1
+20472732	organism	Acacia	1
+20472732	organism	Prosopis	1
+20472732	sequence	rRNA_16S	1
+20472732	sequence	gene	1
+20472732	organ/tissue	cerebellum vermis lobule X	2
+20472732	organ/tissue	germinal center	2
+20472732	organ/tissue	plantar part of pes	1
+20472732	clinical_drug	Acacia	1
+20472732	clinical_drug	Ethylene	1

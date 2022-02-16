@@ -1,0 +1,34 @@
+31081746	biological_process	efflux	2
+31081746	biological_process	mutagenesis	1
+31081746	biological_process	symbiosis	1
+31081746	cellular_component	intracellular	1
+31081746	chemical	copper	2
+31081746	chemical	oxidase	1
+31081746	chemical	heavy metal	1
+31081746	chemical	atpase	1
+31081746	chemical	nitrogenase	1
+31081746	chemical	h2o2	1
+31081746	chemical	complement	1
+31081746	disease	CIAT	2
+31081746	disease	ciat	1
+31081746	gene/protein	sup	35
+31081746	gene/protein	copa	21
+31081746	gene/protein	fold	4
+31081746	gene/protein	p1b	2
+31081746	gene/protein	atpase	2
+31081746	gene/protein	dry	1
+31081746	molecular_function	nitrogenase activity	1
+31081746	organism	Rhizobium tropici	2
+31081746	organism	CIAT 899	2
+31081746	organism	Rhizobium	1
+31081746	organism	Sinorhizobium	1
+31081746	organism	Phaseolus vulgari	1
+31081746	organism	ciat 899	1
+31081746	sequence	gene	3
+31081746	sequence	mutagenesis	1
+31081746	sequence	insertion	1
+31081746	cell_line	copa	3
+31081746	cell_line	tn5	2
+31081746	cell_line	1b1	1
+31081746	organ/tissue	nodule	6
+31081746	molecular_process	reduction	2

@@ -1,0 +1,13 @@
+2943726	chemical	Glutamate Synthase	6
+2943726	chemical	(Z)-N-cyclopropyl-11-methyldodec-2-enamide	1
+2943726	gene/protein	enamelin (human)	3
+2943726	gene/protein	enamelin (mouse)	3
+2943726	gene/protein	enamelin	3
+2943726	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	2
+2943726	molecular_function	glutamate synthase activity	2
+2943726	molecular_function	catalytic activity	1
+2943726	organism	Neurospora crassa	2
+2943726	sequence	gene	5
+2943726	sequence	sequence_variant_obs	3
+2943726	sequence	allele	1
+2943726	clinical_drug	Glutamate	6

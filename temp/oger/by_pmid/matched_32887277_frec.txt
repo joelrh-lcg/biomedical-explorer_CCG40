@@ -1,0 +1,11 @@
+32887277	cellular_component	soluble	2
+32887277	chemical	phosphate	8
+32887277	chemical	phosphorus	5
+32887277	chemical	Phosphorus	5
+32887277	chemical	macronutrient	1
+32887277	chemical	organic acid	1
+32887277	gene/protein	PSM	6
+32887277	gene/protein	crop	1
+32887277	cell_line	PSM	1
+32887277	organ/tissue	PSM	2
+32887277	organ/tissue	crop	1

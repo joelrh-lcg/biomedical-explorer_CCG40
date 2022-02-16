@@ -1,0 +1,26 @@
+18180252	biological_process	formation	1
+18180252	biological_process	gene expression	1
+18180252	chemical	oligonucleotide	1
+18180252	chemical	probe	1
+18180252	chemical	base	1
+18180252	disease	disease susceptibility	2
+18180252	gene/protein	Macaca	1
+18180252	organism	cnv	9
+18180252	organism	rhesus macaque	6
+18180252	organism	human	5
+18180252	organism	primate	3
+18180252	organism	macaque	3
+18180252	organism	Macaca mulatta	2
+18180252	sequence	cnv	9
+18180252	sequence	variant	1
+18180252	sequence	gain	1
+18180252	sequence	genomic dna	1
+18180252	sequence	copy number variation	1
+18180252	sequence	oligonucleotide	1
+18180252	sequence	probe	1
+18180252	sequence	base	1
+18180252	sequence	reference genome	1
+18180252	sequence	sequence	1
+18180252	sequence	duplication	1
+18180252	sequence	gene	1
+18180252	organ/tissue	organism	1

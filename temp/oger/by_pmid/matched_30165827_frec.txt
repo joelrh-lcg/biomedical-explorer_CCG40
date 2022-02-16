@@ -1,0 +1,8 @@
+30165827	gene/protein	bean	3
+30165827	organism	legume	2
+30165827	organism	Phaseolus vulgaris	2
+30165827	organism	alphaproteobacteria	1
+30165827	organism	rhizobium	1
+30165827	sequence	sequence	1
+30165827	cell_line	bean	1
+30165827	organ/tissue	nodule	2

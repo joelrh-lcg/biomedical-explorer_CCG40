@@ -1,0 +1,14 @@
+23105056	biological_process	symbiosis	1
+23105056	chemical	nitrogen	2
+23105056	gene/protein	bean	3
+23105056	gene/protein	pine	2
+23105056	organism	bacterium	7
+23105056	organism	Rhizobium sp	6
+23105056	organism	Phaseolus	2
+23105056	organism	Rhizobium sp ccge510	1
+23105056	organism	Rhizobium	1
+23105056	sequence	genome	2
+23105056	sequence	sequence	1
+23105056	cell_line	bean	1
+23105056	organ/tissue	nodule	2
+23105056	clinical_drug	nitrogen	1

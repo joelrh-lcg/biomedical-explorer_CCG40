@@ -1,0 +1,4 @@
+27340065	disease	Hematologic Neoplasms	2
+27340065	organism	Acinetobacter baumannii	2
+27340065	sequence	region	3
+27340065	sequence	genome	1

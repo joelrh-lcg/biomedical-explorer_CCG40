@@ -1,0 +1,15 @@
+32954844	biological_process	virulence	3
+32954844	chemical	antibiotic	9
+32954844	chemical	linezolid	6
+32954844	chemical	virulence factor	1
+32954844	chemical	leukocidin	1
+32954844	chemical	23s rrna	1
+32954844	disease	cystic fibrosis	2
+32954844	organism	bacterium be	1
+32954844	sequence	genome	2
+32954844	sequence	sequence	2
+32954844	sequence	contig	1
+32954844	sequence	substitution	1
+32954844	sequence	23s rrna	1
+32954844	sequence	mutation	1
+32954844	clinical_drug	linezolid	2

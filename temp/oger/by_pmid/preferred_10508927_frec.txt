@@ -1,0 +1,32 @@
+10508927	cellular_component	obsolete protein	1
+10508927	chemical	buffer	4
+10508927	chemical	Penicillins	2
+10508927	chemical	Cetrimonium	2
+10508927	chemical	Phosphates	2
+10508927	chemical	penicillin	1
+10508927	chemical	penicillinate anion	1
+10508927	chemical	trimethylammonium	1
+10508927	chemical	bromide	1
+10508927	chemical	cetyltrimethylammonium bromide	1
+10508927	chemical	hexan-1-ol	1
+10508927	chemical	hexanol	1
+10508927	chemical	2-isocapryloyl-3R-hydroxymethyl-gamma-butyrolactone	1
+10508927	chemical	A-factor	1
+10508927	chemical	A-factor (Streptomyces)	1
+10508927	chemical	phosphate	1
+10508927	chemical	phosphate)	1
+10508927	chemical	phosphate ion	1
+10508927	chemical	phosphate(3-)	1
+10508927	chemical	phosphoric acid	1
+10508927	chemical	hydrogenphosphate	1
+10508927	chemical	protein	1
+10508927	chemical	(protein)	1
+10508927	gene/protein	protoheme IX farnesyltransferase (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+10508927	gene/protein	protein	1
+10508927	gene/protein	bifunctional protein FolD	1
+10508927	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+10508927	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+10508927	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+10508927	sequence	reverse	4
+10508927	sequence	polypeptide	1
+10508927	molecular_process	hydrolysis	1

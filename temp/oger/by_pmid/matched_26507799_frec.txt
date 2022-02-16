@@ -1,0 +1,33 @@
+26507799	biological_process	homologous recombination	1
+26507799	cellular_component	intracellular	1
+26507799	cellular_component	core	1
+26507799	chemical	base	1
+26507799	chemical	nucleotide	1
+26507799	disease	infection	2
+26507799	disease	zoonotic infection	2
+26507799	gene/protein	rth	4
+26507799	gene/protein	RTH	4
+26507799	gene/protein	lack	1
+26507799	organism	bacterium	7
+26507799	organism	Chlamydiaceae	4
+26507799	organism	Chlamydia abortus	4
+26507799	organism	human	2
+26507799	organism	Chlamydia psittaci	2
+26507799	organism	Chlamydia pecorum	2
+26507799	organism	bacillus anthracis	2
+26507799	organism	livestock	1
+26507799	organism	plasmid	1
+26507799	organism	hawk	1
+26507799	organism	Buteo jamaicensis	1
+26507799	organism	Hawks	1
+26507799	sequence	genome	2
+26507799	sequence	gene	2
+26507799	sequence	sequence	1
+26507799	sequence	base	1
+26507799	sequence	plasmid	1
+26507799	sequence	homologous	1
+26507799	cell_line	rth	1
+26507799	cell_line	RTH	1
+26507799	organ/tissue	intestinal tract	2
+26507799	organ/tissue	scale	1
+26507799	organ/tissue	placenta	1

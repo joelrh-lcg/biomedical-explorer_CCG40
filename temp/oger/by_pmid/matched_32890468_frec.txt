@@ -1,0 +1,26 @@
+32890468	chemical	Heme	5
+32890468	chemical	cytochrome c	4
+32890468	chemical	Copper	3
+32890468	chemical	Oxygen	3
+32890468	chemical	reductase	1
+32890468	chemical	HCO	1
+32890468	chemical	oxygen	1
+32890468	chemical	cytochrome oxidase	1
+32890468	chemical	oxidase	1
+32890468	gene/protein	cytochrome c	136
+32890468	gene/protein	cox	49
+32890468	gene/protein	spp	16
+32890468	gene/protein	cytochrome oxidase	4
+32890468	gene/protein	Heme	3
+32890468	gene/protein	ago	1
+32890468	molecular_function	cytochrome	7
+32890468	molecular_function	cytochrome c	2
+32890468	molecular_function	spp	1
+32890468	organism	bacterium	7
+32890468	organism	bacterium be	2
+32890468	organism	Proteobacteria	2
+32890468	organism	Acidithiobacillus	1
+32890468	cell_line	cox	7
+32890468	clinical_drug	Copper	1
+32890468	clinical_drug	Oxygen	1
+32890468	clinical_drug	oxygen	1

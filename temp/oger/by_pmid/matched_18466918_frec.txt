@@ -1,0 +1,15 @@
+18466918	biological_process	transcription	2
+18466918	biological_process	regulation	1
+18466918	chemical	effector	1
+18466918	gene/protein	fnr	214
+18466918	gene/protein	trn	4
+18466918	molecular_function	transcription factor	2
+18466918	organism	bacterium	7
+18466918	organism	Escherichia coli	2
+18466918	organism	bacillus subtilis	2
+18466918	organism	e coli	2
+18466918	sequence	orthologous	1
+18466918	sequence	regulon	1
+18466918	organ/tissue	trn	1
+18466918	organ/tissue	scale	1
+18466918	clinical_drug	bacillus subtilis	1

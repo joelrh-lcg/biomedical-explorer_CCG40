@@ -1,0 +1,25 @@
+29720528	cellular_component	protein	1
+29720528	chemical	antibiotic	3
+29720528	chemical	protein	2
+29720528	chemical	element	1
+29720528	chemical	base	1
+29720528	disease	disease	2
+29720528	disease	Infections	2
+29720528	disease	infection	2
+29720528	disease	adsa	1
+29720528	gene/protein	mrsa	2
+29720528	gene/protein	MRSA	2
+29720528	gene/protein	surface protein	2
+29720528	organism	mrsa	1
+29720528	organism	MRSA	1
+29720528	organism	strain all	1
+29720528	sequence	genome	3
+29720528	sequence	sequence	2
+29720528	sequence	frameshift	2
+29720528	sequence	insertion	1
+29720528	sequence	gene	1
+29720528	sequence	protein	1
+29720528	sequence	base	1
+29720528	cell_line	cc8	8
+29720528	organ/tissue	element	1
+29720528	entity_type	term	2

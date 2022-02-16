@@ -1,0 +1,24 @@
+16145578	cellular_component	obsolete protein	2
+16145578	chemical	protein	5
+16145578	chemical	(protein)	2
+16145578	chemical	VP-P protocol	2
+16145578	chemical	peptide	1
+16145578	chemical	Proteome	1
+16145578	gene/protein	protein	2
+16145578	gene/protein	proteolytic cleavage product	1
+16145578	gene/protein	amino acid chain	1
+16145578	organism	bacterium IFAM-3211	1
+16145578	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+16145578	organism	bacterium IFAM-3215	1
+16145578	organism	bacterium IFAM-2074	1
+16145578	organism	bacterium IFAM-3359	1
+16145578	organism	bacterium	1
+16145578	organism	bacterium IFAM-1493	1
+16145578	organism	Trachinotus falcatus	1
+16145578	sequence	polypeptide	2
+16145578	sequence	regulon	2
+16145578	sequence	genome	2
+16145578	sequence	active_peptide	1
+16145578	sequence	region	1
+16145578	organ/tissue	multicellular organism	2
+16145578	organ/tissue	epidermal ridge of digit	1

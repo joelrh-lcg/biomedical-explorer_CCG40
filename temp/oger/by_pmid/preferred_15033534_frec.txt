@@ -1,0 +1,61 @@
+15033534	biological_process	translation	1
+15033534	biological_process	cell growth	1
+15033534	biological_process	gene expression	1
+15033534	cellular_component	chromosome	1
+15033534	cellular_component	obsolete protein	1
+15033534	chemical	protein	1
+15033534	chemical	(protein)	1
+15033534	chemical	Codon, Initiator	1
+15033534	gene/protein	Peptidyl-tRNA hydrolase	751
+15033534	gene/protein	Parathyroid hormone	9
+15033534	gene/protein	UbiA prenyltransferase domain-containing protein 1 (zebrafish)	4
+15033534	gene/protein	Probable peptidyl-tRNA hydrolase	3
+15033534	gene/protein	Peptidyl-tRNA hydrolase ArfB	2
+15033534	gene/protein	peptidyl-tRNA hydrolase Pth	1
+15033534	gene/protein	probable peptidyl-tRNA hydrolase PTRH1	1
+15033534	gene/protein	peptidyl-tRNA hydrolase (Escherichia coli K-12)	1
+15033534	gene/protein	parathyroid hormone (human)	1
+15033534	gene/protein	peptidyl-tRNA hydrolase (Clostridium botulinum A str. Hall)	1
+15033534	gene/protein	peptidyl-tRNA hydrolase (Brucella suis ATCC 23445)	1
+15033534	gene/protein	parathyroid hormone (rat)	1
+15033534	gene/protein	peptidyl-tRNA hydrolase (Brucella ovis ATCC 25840)	1
+15033534	gene/protein	peptidyl-tRNA hydrolase (Brucella abortus 2308)	1
+15033534	gene/protein	peptidyl-tRNA hydrolase (Brucella abortus bv. 1 str. 9-941)	1
+15033534	gene/protein	parathyroid hormone	1
+15033534	gene/protein	peptidyl-tRNA hydrolase (Brucella suis 1330)	1
+15033534	gene/protein	peptidyl-tRNA hydrolase ArfB	1
+15033534	gene/protein	parathyroid hormone (chicken)	1
+15033534	gene/protein	peptidyl-tRNA hydrolase (Brucella canis ATCC 23365)	1
+15033534	gene/protein	peptidyl-tRNA hydrolase (Brucella melitensis ATCC 23457)	1
+15033534	gene/protein	peptidyl-tRNA hydrolase (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+15033534	gene/protein	Putative peptidyl-tRNA hydrolase	1
+15033534	gene/protein	protein	1
+15033534	gene/protein	Acyl carrier protein AcpXL	1
+15033534	gene/protein	120.7 kDa protein in NOF-FB transposable element (fruit fly)	1
+15033534	gene/protein	Highly immunogenic outer capsid protein	1
+15033534	organism	Bacteriophages	2
+15033534	organism	bacterium IFAM-3211	2
+15033534	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+15033534	organism	bacterium IFAM-3215	2
+15033534	organism	bacterium IFAM-2074	2
+15033534	organism	bacterium IFAM-3359	2
+15033534	organism	bacterium	2
+15033534	organism	bacterium IFAM-1493	2
+15033534	organism	Bacteriophage lambda	1
+15033534	organism	Escherichia virus Lambda	1
+15033534	sequence	gene	4
+15033534	sequence	phage_sequence	3
+15033534	sequence	region	3
+15033534	sequence	engineered_region	3
+15033534	sequence	clone	2
+15033534	sequence	beta_strand	2
+15033534	sequence	chromosome	1
+15033534	sequence	polypeptide	1
+15033534	sequence	ORF	1
+15033534	sequence	genome	1
+15033534	sequence	genomic_DNA	1
+15033534	sequence	start_codon	1
+15033534	sequence	clone_insert	1
+15033534	organ/tissue	melanophore stripe	4
+15033534	organ/tissue	anatomical point connecting sagittal and lambdoidal sutures	4
+15033534	organ/tissue	posterior nucleus of thalamus	1

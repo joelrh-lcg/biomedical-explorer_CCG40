@@ -1,0 +1,13 @@
+30786165	biological_process	transcription	1
+30786165	biological_process	regulation	1
+30786165	chemical	solution	1
+30786165	chemical	base	1
+30786165	gene/protein	fnr	214
+30786165	molecular_function	transcription factor	1
+30786165	organism	Escherichia coli	2
+30786165	organism	collection	1
+30786165	sequence	domain	1
+30786165	sequence	base	1
+30786165	sequence	target gene	1
+30786165	organ/tissue	organism	1
+30786165	organ/tissue	Inc	1

@@ -1,0 +1,7 @@
+24576319	chemical	proteins	1
+24576319	chemical	biomarker	1
+24576319	disease	ovarian cancer	2
+24576319	disease	gynecologic disease	2
+24576319	disease	carcinoma	2
+24576319	disease	disease	2
+24576319	organ/tissue	ascitic fluid	1

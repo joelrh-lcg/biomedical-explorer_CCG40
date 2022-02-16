@@ -1,0 +1,16 @@
+18177306	biological_process	metabolism	2
+18177306	chemical	thiamine	35
+18177306	chemical	biotin	4
+18177306	chemical	ce3	3
+18177306	chemical	pathway	1
+18177306	gene/protein	thic	8
+18177306	gene/protein	add	3
+18177306	gene/protein	lacz	2
+18177306	gene/protein	lack	1
+18177306	molecular_function	thic	2
+18177306	organism	Rhizobium etli	2
+18177306	sequence	gene	3
+18177306	sequence	reverse	1
+18177306	cell_line	ce3	3
+18177306	clinical_drug	thiamine	7
+18177306	clinical_drug	biotin	1

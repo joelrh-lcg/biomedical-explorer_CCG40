@@ -1,0 +1,51 @@
+2896226	biological_process	transport	1
+2896226	chemical	glyoxylic acid	18
+2896226	chemical	glyoxylate	6
+2896226	chemical	Pyruvic Acid	4
+2896226	chemical	Citrate (si)-Synthase	3
+2896226	chemical	pyruvate	2
+2896226	chemical	Glutamic Acid	2
+2896226	chemical	Ammonium Compounds	2
+2896226	chemical	Ketoglutaric Acids	2
+2896226	chemical	Glutamate Dehydrogenase	1
+2896226	chemical	glutamate(2-)	1
+2896226	chemical	L-glutamic acid	1
+2896226	chemical	glutamate(1-)	1
+2896226	chemical	glutamic acid	1
+2896226	chemical	ammonium	1
+2896226	chemical	Glutamate-Ammonia Ligase	1
+2896226	chemical	2-oxoglutarate(2-)	1
+2896226	disease	Disease Attributes	2
+2896226	gene/protein	Citrate synthase	156
+2896226	gene/protein	Glutamine synthetase	122
+2896226	gene/protein	Glutamate dehydrogenase	80
+2896226	gene/protein	Glucose 1-dehydrogenase	36
+2896226	gene/protein	Glycerol dehydrogenase	24
+2896226	gene/protein	2-methylcitrate synthase	21
+2896226	gene/protein	Glucarate dehydratase	16
+2896226	gene/protein	Glutamate dehydrogenase, mitochondrial	12
+2896226	gene/protein	Glycerate dehydrogenase	12
+2896226	gene/protein	Galactitol 2-dehydrogenase	8
+2896226	gene/protein	Probable glucarate dehydratase	8
+2896226	gene/protein	Glycerate dehydrogenase HPR, peroxisomal	4
+2896226	gene/protein	Pyranose dehydrogenase	4
+2896226	gene/protein	Probable glutamate dehydrogenase	4
+2896226	gene/protein	glucarate dehydratase	4
+2896226	gene/protein	GDH/6PGL endoplasmic bifunctional protein	4
+2896226	gene/protein	D-lactate dehydrogenase [cytochrome], mitochondrial (Arabidopsis thaliana)	4
+2896226	gene/protein	Glycerol dehydrogenase 1	4
+2896226	gene/protein	glutamate dehydrogenase, mitochondrial (fruit fly)	4
+2896226	gene/protein	GDH/6PGL endoplasmic bifunctional protein (human)	4
+2896226	gene/protein	glycerol dehydrogenase	4
+2896226	gene/protein	Citrate/2-methylcitrate synthase	3
+2896226	gene/protein	citrate synthase	3
+2896226	gene/protein	Catabolic NAD-specific glutamate dehydrogenase RocG	1
+2896226	gene/protein	glutamine synthetase	1
+2896226	molecular_function	glucose-6-phosphate dehydrogenase activity	4
+2896226	organism	Saccharomyces cerevisiae	2
+2896226	sequence	glutamine	1
+2896226	clinical_drug	Glutamate	2
+2896226	clinical_drug	Pyruvate	2
+2896226	clinical_drug	saccharomyces cerevisiae allergenic extract	1
+2896226	clinical_drug	Saccharomyces cerevisiae	1
+2896226	clinical_drug	Glutamine	1

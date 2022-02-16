@@ -1,0 +1,39 @@
+8170393	biological_process	nodulation	2
+8170393	biological_process	uptake	2
+8170393	biological_process	formation	1
+8170393	biological_process	tricarboxylic acid cycle	1
+8170393	biological_process	gene expression	1
+8170393	chemical	citrate synthase	6
+8170393	chemical	citrate	5
+8170393	chemical	oxaloacetic acid	3
+8170393	chemical	sucrose	3
+8170393	chemical	carbon	2
+8170393	chemical	iron	2
+8170393	chemical	tricarboxylic acid	1
+8170393	chemical	complement	1
+8170393	gene/protein	citrate synthase	366
+8170393	gene/protein	pcsa	20
+8170393	gene/protein	spp	16
+8170393	gene/protein	mob	6
+8170393	gene/protein	pcsA	4
+8170393	gene/protein	bean	3
+8170393	gene/protein	lack	1
+8170393	molecular_function	citrate synthase activity	4
+8170393	molecular_function	spp	1
+8170393	organism	bacterium	14
+8170393	organism	plasmid	4
+8170393	organism	Rhizobium tropici	2
+8170393	organism	Phaseolus vulgaris	2
+8170393	organism	Rhizobium leguminosarum	2
+8170393	organism	Rhizobium	1
+8170393	organism	Proteobacteria	1
+8170393	sequence	gene	7
+8170393	sequence	plasmid	4
+8170393	sequence	insertion	1
+8170393	sequence	clone	1
+8170393	cell_line	mob	2
+8170393	cell_line	bean	1
+8170393	cell_line	tn5	1
+8170393	organ/tissue	nodule	6
+8170393	clinical_drug	iron	2
+8170393	clinical_drug	sucrose	1

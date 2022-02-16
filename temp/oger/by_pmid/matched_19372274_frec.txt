@@ -1,0 +1,17 @@
+19372274	biological_process	transcription	1
+19372274	biological_process	regulation	1
+19372274	cellular_component	protein	2
+19372274	cellular_component	chromosome	2
+19372274	chemical	protein	4
+19372274	chemical	element	1
+19372274	gene/protein	trn	12
+19372274	gene/protein	protein	2
+19372274	molecular_function	transcription factor	1
+19372274	sequence	gene	6
+19372274	sequence	genome	3
+19372274	sequence	protein	2
+19372274	sequence	regulon	2
+19372274	sequence	chromosome	2
+19372274	organ/tissue	trn	3
+19372274	organ/tissue	element	1
+19372274	organ/tissue	scale	1

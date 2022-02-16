@@ -1,0 +1,26 @@
+34868100	biological_process	symbiosis	2
+34868100	biological_process	formation	2
+34868100	biological_process	transduction	1
+34868100	biological_process	signaling pathway	1
+34868100	biological_process	signaling	1
+34868100	biological_process	arbuscular mycorrhizal symbiosis	1
+34868100	biological_process	nodule formation	1
+34868100	biological_process	nodulation	1
+34868100	biological_process	gene expression	1
+34868100	cellular_component	arbuscule	1
+34868100	chemical	pathway	3
+34868100	chemical	plant proteins	1
+34868100	chemical	element	1
+34868100	disease	infection	4
+34868100	disease	AMS	2
+34868100	gene/protein	AMF	44
+34868100	gene/protein	amf	11
+34868100	gene/protein	rop	6
+34868100	gene/protein	AMS	6
+34868100	gene/protein	rop3	3
+34868100	organism	legume	2
+34868100	organism	fungus	1
+34868100	sequence	gene	3
+34868100	sequence	signal	2
+34868100	organ/tissue	nodule	2
+34868100	organ/tissue	element	1

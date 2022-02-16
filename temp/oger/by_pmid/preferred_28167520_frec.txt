@@ -1,0 +1,28 @@
+28167520	biological_process	cell division	4
+28167520	biological_process	localization	1
+28167520	biological_process	peptidoglycan-based cell wall biogenesis	1
+28167520	biological_process	plant-type cell wall biogenesis	1
+28167520	biological_process	Gram-negative-bacterium-type cell wall biogenesis	1
+28167520	cellular_component	polytene chromosome weak point	4
+28167520	cellular_component	obsolete protein	3
+28167520	cellular_component	viral nucleocapsid	1
+28167520	cellular_component	protein-containing complex	1
+28167520	cellular_component	cell wall	1
+28167520	chemical	4',6-bis(2'imidazolinyl-4',5'-H)-2-phenylindole	24
+28167520	chemical	protein	10
+28167520	chemical	(protein)	4
+28167520	gene/protein	isopentenyl-diphosphate Delta-isomerase (Dictyostelium discoideum)	12
+28167520	gene/protein	protein	4
+28167520	organism	bacterium IFAM-3211	2
+28167520	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+28167520	organism	bacterium IFAM-3215	2
+28167520	organism	bacterium IFAM-2074	2
+28167520	organism	bacterium IFAM-3359	2
+28167520	organism	bacterium	2
+28167520	organism	bacterium IFAM-1493	2
+28167520	organism	Yeasts	1
+28167520	sequence	polypeptide	4
+28167520	sequence	assembly	1
+28167520	organ/tissue	proliferative region	4
+28167520	organ/tissue	anatomical wall	1
+28167520	clinical_drug	Yeast, Unspecified	1

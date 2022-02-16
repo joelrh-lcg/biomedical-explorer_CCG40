@@ -1,0 +1,20 @@
+20048063	biological_process	transport	1
+20048063	biological_process	secondary metabolic process	1
+20048063	cellular_component	chromosome	2
+20048063	cellular_component	viral nucleocapsid	1
+20048063	chemical	alpha-amino acid	1
+20048063	chemical	amino acid	1
+20048063	chemical	atom	1
+20048063	chemical	nucleotide	1
+20048063	disease	COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	2
+20048063	organism	unidentified plasmid	6
+20048063	organism	Rhizobium etli	4
+20048063	sequence	region	10
+20048063	sequence	plasmid	6
+20048063	sequence	genome	5
+20048063	sequence	chromosome	2
+20048063	sequence	match	2
+20048063	sequence	gene	2
+20048063	sequence	amino_acid	1
+20048063	sequence	mobile	1
+20048063	organ/tissue	organ	1

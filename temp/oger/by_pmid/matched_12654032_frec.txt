@@ -1,0 +1,36 @@
+12654032	biological_process	nitrogen fixation	1
+12654032	biological_process	flower development	1
+12654032	cellular_component	protein	2
+12654032	chemical	glutamine	8
+12654032	chemical	nitrogen	6
+12654032	chemical	protein	4
+12654032	chemical	leghemoglobin	2
+12654032	chemical	glutamine synthetase	1
+12654032	disease	gs1	2
+12654032	disease	sterility	2
+12654032	gene/protein	glutamine synthetase	123
+12654032	gene/protein	gs1	24
+12654032	gene/protein	leghemoglobin	5
+12654032	gene/protein	fold	4
+12654032	gene/protein	protein	2
+12654032	gene/protein	flower	2
+12654032	gene/protein	srglb3	1
+12654032	molecular_function	enzyme activity	1
+12654032	organism	Lotus japonicus	2
+12654032	organism	alfalfa	2
+12654032	organism	gs1	2
+12654032	organism	legume	1
+12654032	organism	Sesbania rostrata	1
+12654032	organism	transgenic plant	1
+12654032	sequence	glutamine	3
+12654032	sequence	transgenic	3
+12654032	sequence	gene	3
+12654032	sequence	transcript	3
+12654032	sequence	protein	2
+12654032	sequence	promoter	1
+12654032	cell_line	gs1	4
+12654032	organ/tissue	nodule	6
+12654032	organ/tissue	reproductive organ	1
+12654032	clinical_drug	nitrogen	3
+12654032	clinical_drug	glutamine	3
+12654032	clinical_drug	alfalfa	1

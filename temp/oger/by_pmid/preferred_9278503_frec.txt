@@ -1,0 +1,32 @@
+9278503	chemical	Guanine	2
+9278503	chemical	base	1
+9278503	chemical	protein	1
+9278503	chemical	abacavir	1
+9278503	chemical	guanine	1
+9278503	chemical	oligonucleotide	1
+9278503	chemical	atom	1
+9278503	disease	Disease Attributes	2
+9278503	gene/protein	Keratin, type I cytoskeletal 12	4
+9278503	gene/protein	secreted and transmembrane protein 1	1
+9278503	gene/protein	secreted and transmembrane protein 1 (human)	1
+9278503	gene/protein	secreted and transmembrane protein 1b	1
+9278503	gene/protein	keratin, type I cytoskeletal 12	1
+9278503	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+9278503	gene/protein	methionine import ATP-binding protein MetN (Escherichia coli K-12)	1
+9278503	gene/protein	methionine import ATP-binding protein MetN	1
+9278503	molecular_function	ABC-type transmembrane transporter activity	1
+9278503	organism	Escherichia coli	2
+9278503	organism	Escherichia coli K12	1
+9278503	organism	unidentified insertion sequence	1
+9278503	organism	Bacteriophages	1
+9278503	sequence	gene	4
+9278503	sequence	genome	3
+9278503	sequence	region	2
+9278503	sequence	base_pair	1
+9278503	sequence	paralogous	1
+9278503	sequence	oligo	1
+9278503	sequence	insertion_sequence	1
+9278503	sequence	phage_sequence	1
+9278503	cell_line	K12 [Mouse osteosarcoma]	1
+9278503	cell_line	K12-72.1	1
+9278503	organ/tissue	organ	1

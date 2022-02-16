@@ -1,0 +1,30 @@
+17014780	biological_process	vesicle fusion	1
+17014780	cellular_component	membrane	2
+17014780	cellular_component	vesicle	2
+17014780	cellular_component	plasma membrane	1
+17014780	chemical	phospholipid	2
+17014780	chemical	solution	1
+17014780	chemical	calcium(2+)	1
+17014780	gene/protein	protein POLAR LOCALIZATION DURING ASYMMETRIC DIVISION AND REDISTRIBUTION (Arabidopsis thaliana)	1
+17014780	gene/protein	Carbonic anhydrase 2	1
+17014780	gene/protein	beta carbonic anhydrase 2, chloroplastic (Arabidopsis thaliana)	1
+17014780	gene/protein	carbonic anhydrase 2 (rat)	1
+17014780	gene/protein	vertebrate-type carbonic anhydrase 2	1
+17014780	gene/protein	carbonic anhydrase 2 (human)	1
+17014780	gene/protein	carbonic anhydrase 2 (chicken)	1
+17014780	gene/protein	carbonic anhydrase 2 (mouse)	1
+17014780	gene/protein	carbonic anhydrase 2 (cow)	1
+17014780	molecular_function	binding	1
+17014780	molecular_function	obsolete vesicle fusion	1
+17014780	sequence	polypeptide_domain	3
+17014780	sequence	transition	2
+17014780	sequence	polypeptide_binding_motif	1
+17014780	sequence	non_covalent_binding_site	1
+17014780	sequence	circular	1
+17014780	sequence	junction	1
+17014780	sequence	fusion	1
+17014780	cell_line	MSHRIe002-A	1
+17014780	organ/tissue	membrane organ	3
+17014780	organ/tissue	membranous layer	3
+17014780	organ/tissue	CA2 field of hippocampus	1
+17014780	clinical_drug	Calcium Cation	1

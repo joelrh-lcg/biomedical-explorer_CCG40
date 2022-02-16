@@ -1,0 +1,14 @@
+17096598	biological_process	regulation of gene expression	1
+17096598	biological_process	degradation	1
+17096598	chemical	rna polymerase	2
+17096598	gene/protein	rna	4
+17096598	molecular_function	binding	1
+17096598	organism	Escherichia coli	2
+17096598	sequence	genome	7
+17096598	sequence	regulatory region	6
+17096598	sequence	signal	6
+17096598	sequence	gene	3
+17096598	sequence	sequence	2
+17096598	sequence	promoter	2
+17096598	sequence	binding	2
+17096598	molecular_process	reduction	1

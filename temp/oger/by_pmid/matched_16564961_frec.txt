@@ -1,0 +1,25 @@
+16564961	chemical	16s	1
+16564961	chemical	rdna	1
+16564961	gene/protein	rpob	14
+16564961	gene/protein	esg	14
+16564961	gene/protein	bean	9
+16564961	gene/protein	dnak	8
+16564961	gene/protein	Lima	3
+16564961	gene/protein	nifH	1
+16564961	gene/protein	nodb	1
+16564961	organism	Lima bean	3
+16564961	organism	Bradyrhizobium yuanmingense	2
+16564961	organism	collection	1
+16564961	organism	Phaseolus lunatus	1
+16564961	organism	primer	1
+16564961	organism	Bradyrhizobium	1
+16564961	organism	Lespedeza	1
+16564961	sequence	gene	3
+16564961	sequence	genotype	3
+16564961	sequence	sequence	2
+16564961	sequence	primer	1
+16564961	sequence	rdna	1
+16564961	cell_line	Lima	3
+16564961	cell_line	bean	3
+16564961	organ/tissue	fingerprint	1
+16564961	clinical_drug	Lima bean	3

@@ -1,0 +1,28 @@
+33260894	biological_process	biosynthetic process	1
+33260894	biological_process	pigmentation	1
+33260894	biological_process	division septum assembly	1
+33260894	chemical	sodium chloride	5
+33260894	chemical	Trehalose	2
+33260894	chemical	Mannitol	2
+33260894	chemical	arabitol	2
+33260894	chemical	Erythritol	2
+33260894	chemical	Glycerol	2
+33260894	chemical	antioxidant	2
+33260894	chemical	biomarker	2
+33260894	chemical	osmolyte	1
+33260894	chemical	trehalose	1
+33260894	chemical	alpha,alpha-trehalose	1
+33260894	chemical	mannitol	1
+33260894	chemical	D-mannitol	1
+33260894	chemical	arabinitol	1
+33260894	chemical	erythritol	1
+33260894	chemical	glycerol	1
+33260894	chemical	lipid	1
+33260894	organism	Fungi	2
+33260894	organism	Spores	1
+33260894	sequence	gene	1
+33260894	sequence	enzymatic	1
+33260894	organ/tissue	exudate	1
+33260894	clinical_drug	Trehalose	1
+33260894	clinical_drug	Mannitol	1
+33260894	clinical_drug	Erythritol	1

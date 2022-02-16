@@ -1,0 +1,26 @@
+26527724	biological_process	transcription, DNA-templated	1
+26527724	cellular_component	obsolete nucleic acid	1
+26527724	chemical	nucleic acid	1
+26527724	chemical	picloram	1
+26527724	chemical	cluster	1
+26527724	gene/protein	Keratin, type I cytoskeletal 12	4
+26527724	gene/protein	secreted and transmembrane protein 1	1
+26527724	gene/protein	secreted and transmembrane protein 1 (human)	1
+26527724	gene/protein	secreted and transmembrane protein 1b	1
+26527724	gene/protein	keratin, type I cytoskeletal 12	1
+26527724	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+26527724	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+26527724	gene/protein	ribonuclease I	1
+26527724	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+26527724	organism	Escherichia coli K12	1
+26527724	organism	collection	1
+26527724	sequence	gene	3
+26527724	sequence	nucleic_acid	1
+26527724	sequence	transit_peptide	1
+26527724	sequence	signal_peptide	1
+26527724	sequence	operon	1
+26527724	sequence	regulon	1
+26527724	cell_line	K12 [Mouse osteosarcoma]	1
+26527724	cell_line	K12-72.1	1
+26527724	organ/tissue	multicellular organism	1
+26527724	organ/tissue	matrix compartment	1

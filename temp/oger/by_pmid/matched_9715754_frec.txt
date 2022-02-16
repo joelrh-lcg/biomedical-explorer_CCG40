@@ -1,0 +1,17 @@
+9715754	biological_process	transcription	3
+9715754	biological_process	regulation of gene expression	1
+9715754	biological_process	gene expression	1
+9715754	biological_process	regulation	1
+9715754	cellular_component	protein	1
+9715754	chemical	protein	2
+9715754	chemical	proteins	1
+9715754	gene/protein	protein	1
+9715754	molecular_function	binding	1
+9715754	sequence	gene	4
+9715754	sequence	operon	3
+9715754	sequence	regulatory region	2
+9715754	sequence	binding	2
+9715754	sequence	upstream	1
+9715754	sequence	promoter	1
+9715754	sequence	protein	1
+9715754	cell_line	center	2

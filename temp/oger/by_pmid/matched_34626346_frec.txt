@@ -1,0 +1,27 @@
+34626346	chemical	phosphorus	5
+34626346	chemical	glucose	5
+34626346	chemical	maltose	4
+34626346	chemical	acetoin	3
+34626346	chemical	ammonia	3
+34626346	chemical	potassium	3
+34626346	chemical	nitrogen	2
+34626346	chemical	indole acetic acid	2
+34626346	chemical	wastewater	2
+34626346	chemical	pharmaceutical	1
+34626346	chemical	oligosaccharide	1
+34626346	chemical	pullulanase	1
+34626346	chemical	transform	1
+34626346	disease	disease	2
+34626346	gene/protein	pullulanase	4
+34626346	gene/protein	impact	2
+34626346	organism	bacterium	21
+34626346	organism	klebsiella variicola	2
+34626346	organ/tissue	animal	2
+34626346	organ/tissue	organism	1
+34626346	clinical_drug	nitrogen	1
+34626346	clinical_drug	acetic acid	1
+34626346	clinical_drug	ammonia	1
+34626346	clinical_drug	potassium	1
+34626346	clinical_drug	maltose	1
+34626346	clinical_drug	glucose	1
+34626346	molecular_process	catalysis	1

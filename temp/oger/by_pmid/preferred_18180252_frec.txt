@@ -1,0 +1,24 @@
+18180252	biological_process	biosynthetic process	1
+18180252	biological_process	gene expression	1
+18180252	chemical	oligonucleotide	1
+18180252	chemical	probe	1
+18180252	chemical	base	1
+18180252	disease	Disease Susceptibility	2
+18180252	gene/protein	acetyl-CoA carboxylase 1 (mouse)	1
+18180252	organism	Cucumber necrosis virus	9
+18180252	organism	Macaca mulatta	8
+18180252	organism	Humans	5
+18180252	organism	Primates	3
+18180252	organism	Macaca	3
+18180252	sequence	copy_number_variation	10
+18180252	sequence	natural_variant_site	1
+18180252	sequence	copy_number_gain	1
+18180252	sequence	genomic_DNA	1
+18180252	sequence	oligo	1
+18180252	sequence	probe	1
+18180252	sequence	base	1
+18180252	sequence	reference_genome	1
+18180252	sequence	region	1
+18180252	sequence	duplication	1
+18180252	sequence	gene	1
+18180252	organ/tissue	multicellular organism	1

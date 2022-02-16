@@ -1,0 +1,28 @@
+33042043	cellular_component	chromosome	1
+33042043	chemical	antibiotic	27
+33042043	chemical	tetracycline	4
+33042043	chemical	aminoglycoside	2
+33042043	chemical	t86	2
+33042043	chemical	element	1
+33042043	chemical	macrolide	1
+33042043	disease	zoonotic	2
+33042043	disease	gastroenteritis	2
+33042043	disease	zoonotic infection	2
+33042043	gene/protein	spp	16
+33042043	gene/protein	sub	6
+33042043	molecular_function	spp	1
+33042043	organism	bacterium	14
+33042043	organism	human	2
+33042043	organism	livestock	1
+33042043	organism	plasmid	1
+33042043	organism	collection	1
+33042043	sequence	gene	6
+33042043	sequence	genome	1
+33042043	sequence	point mutation	1
+33042043	sequence	chromosome	1
+33042043	sequence	plasmid	1
+33042043	sequence	mutation	1
+33042043	sequence	genotype	1
+33042043	cell_line	in ic	2
+33042043	organ/tissue	element	1
+33042043	clinical_drug	tetracycline	1

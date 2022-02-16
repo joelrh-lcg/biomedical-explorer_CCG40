@@ -1,0 +1,9 @@
+24237659	biological_process	transcription	2
+24237659	biological_process	regulation of gene expression	1
+24237659	chemical	base	1
+24237659	molecular_function	dna binding	1
+24237659	molecular_function	transcription factor	1
+24237659	sequence	gene	2
+24237659	sequence	binding	2
+24237659	sequence	base	1
+24237659	organ/tissue	organism	1

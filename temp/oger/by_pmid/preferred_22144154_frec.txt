@@ -1,0 +1,31 @@
+22144154	biological_process	biological regulation	2
+22144154	biological_process	transcription, DNA-templated	2
+22144154	cellular_component	obsolete nucleic acid	1
+22144154	chemical	nucleic acid	1
+22144154	chemical	gold(0)	1
+22144154	chemical	gold atom	1
+22144154	chemical	DNA-Directed RNA Polymerases	1
+22144154	gene/protein	Keratin, type I cytoskeletal 12	4
+22144154	gene/protein	secreted and transmembrane protein 1	1
+22144154	gene/protein	secreted and transmembrane protein 1 (human)	1
+22144154	gene/protein	secreted and transmembrane protein 1b	1
+22144154	gene/protein	keratin, type I cytoskeletal 12	1
+22144154	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+22144154	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+22144154	gene/protein	ribonuclease I	1
+22144154	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+22144154	organism	Escherichia coli K12	1
+22144154	organism	bacterium IFAM-3211	1
+22144154	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+22144154	organism	bacterium IFAM-3215	1
+22144154	organism	bacterium IFAM-2074	1
+22144154	organism	bacterium IFAM-3359	1
+22144154	organism	bacterium	1
+22144154	organism	bacterium IFAM-1493	1
+22144154	sequence	nucleic_acid	1
+22144154	sequence	gene	1
+22144154	sequence	promoter	1
+22144154	cell_line	K12 [Mouse osteosarcoma]	1
+22144154	cell_line	K12-72.1	1
+22144154	organ/tissue	multicellular organism	1
+22144154	organ/tissue	webbed interdigital region	1

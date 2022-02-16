@@ -1,0 +1,6 @@
+11125111	cellular_component	chromosome	1
+11125111	organism	Escherichia coli	4
+11125111	sequence	promoter	1
+11125111	sequence	chromosome	1
+11125111	sequence	region	1
+11125111	sequence	promoter_region	1

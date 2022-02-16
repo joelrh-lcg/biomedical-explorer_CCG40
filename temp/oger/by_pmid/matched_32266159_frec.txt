@@ -1,0 +1,20 @@
+32266159	chemical	nucleotide	1
+32266159	chemical	element	1
+32266159	disease	IBS	6
+32266159	disease	irritable bowel syndrome	2
+32266159	disease	functional gastrointestinal disorder	2
+32266159	disease	dysbiosis	2
+32266159	disease	ulcerative colitis	2
+32266159	disease	Crohns	2
+32266159	gene/protein	snp	3
+32266159	organism	human	1
+32266159	organism	intestinal metagenome	1
+32266159	organism	Alteromonas	1
+32266159	organism	Neisseria	1
+32266159	sequence	variant	3
+32266159	sequence	snp	3
+32266159	sequence	single nucleotide polymorphism	1
+32266159	cell_line	snp	3
+32266159	organ/tissue	bowel	1
+32266159	organ/tissue	colonic mucosa	1
+32266159	organ/tissue	element	1

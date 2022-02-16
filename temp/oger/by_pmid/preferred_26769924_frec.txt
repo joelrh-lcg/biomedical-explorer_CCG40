@@ -1,0 +1,15 @@
+26769924	disease	Stomach Neoplasms	4
+26769924	disease	Infections	2
+26769924	disease	Disease	2
+26769924	gene/protein	adenylyl cyclase-associated protein (Schizosaccharomyces pombe 972h-)	1
+26769924	gene/protein	cAMP-activated global transcriptional regulator CRP (Escherichia coli K-12)	1
+26769924	gene/protein	adenylyl cyclase-associated protein (Dictyostelium discoideum)	1
+26769924	gene/protein	catabolite gene activator	1
+26769924	gene/protein	cAMP-activated global transcriptional regulator CRP (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	1
+26769924	gene/protein	calphotin (fruit fly)	1
+26769924	organism	Helicobacter pylori	2
+26769924	organism	Prophages	1
+26769924	sequence	region	2
+26769924	sequence	genome	1
+26769924	sequence	cap	1
+26769924	sequence	prophage	1

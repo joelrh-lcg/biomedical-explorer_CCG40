@@ -1,0 +1,5 @@
+25886267	chemical	probe	1
+25886267	disease	Pneumonia	6
+25886267	organism	Klebsiella variicola	2
+25886267	organism	Klebsiella	1
+25886267	sequence	probe	1

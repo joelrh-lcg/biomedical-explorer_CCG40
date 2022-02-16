@@ -1,0 +1,17 @@
+32689290	biological_process	regulation	1
+32689290	biological_process	signal transduction	1
+32689290	chemical	phosphorus	5
+32689290	gene/protein	bean	9
+32689290	gene/protein	crop	2
+32689290	organism	legume	3
+32689290	organism	Arabidopsis thaliana	2
+32689290	organism	Phaseolus vulgari	1
+32689290	organism	human	1
+32689290	sequence	gene	6
+32689290	sequence	signal	2
+32689290	sequence	est	1
+32689290	sequence	contig	1
+32689290	sequence	candidate gene	1
+32689290	cell_line	bean	3
+32689290	organ/tissue	crop	2
+32689290	organ/tissue	tissue	1

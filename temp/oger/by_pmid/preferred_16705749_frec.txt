@@ -1,0 +1,33 @@
+16705749	biological_process	catabolic process	1
+16705749	chemical	Venoms	4
+16705749	chemical	peptide	4
+16705749	chemical	alpha-amino acid	3
+16705749	chemical	amino acid	3
+16705749	chemical	venom	2
+16705749	chemical	toxin	1
+16705749	chemical	amino-acid residue	1
+16705749	chemical	disulfide	1
+16705749	chemical	defensin	1
+16705749	gene/protein	Thymidine kinase	25
+16705749	gene/protein	Defensin	16
+16705749	gene/protein	thymidine kinase	5
+16705749	gene/protein	thymidine kinase (Ureaplasma parvum serovar 3 str. ATCC 700970)	5
+16705749	gene/protein	thymidine kinase (Clostridium botulinum A str. Hall)	5
+16705749	gene/protein	thymidine kinase (Escherichia coli K-12)	5
+16705749	gene/protein	proteolytic cleavage product	4
+16705749	gene/protein	amino acid chain	4
+16705749	gene/protein	Toxin CfTX-2	1
+16705749	gene/protein	Beta-mammal toxin Cn2	1
+16705749	gene/protein	U2-aranetoxin-Av1a	1
+16705749	gene/protein	Beta-insect depressant toxin BaIT2	1
+16705749	gene/protein	obsolete amino acid chain component	1
+16705749	gene/protein	Sodium channel protein	1
+16705749	gene/protein	Big defensin	1
+16705749	organism	Scorpions	2
+16705749	organism	Humans	1
+16705749	sequence	amino_acid	4
+16705749	sequence	active_peptide	4
+16705749	sequence	region	2
+16705749	sequence	disulfide_bond	1
+16705749	cell_line	Sf9	1
+16705749	organ/tissue	venom	2

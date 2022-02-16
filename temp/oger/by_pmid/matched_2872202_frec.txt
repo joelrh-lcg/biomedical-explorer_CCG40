@@ -1,0 +1,23 @@
+2872202	chemical	edta	8
+2872202	chemical	glutamine synthetase	4
+2872202	chemical	mncl2	4
+2872202	chemical	nadph	4
+2872202	chemical	sodium azide	3
+2872202	chemical	ascorbate	2
+2872202	chemical	fecl3	2
+2872202	chemical	beta	2
+2872202	chemical	polypeptide	2
+2872202	chemical	h2o2	1
+2872202	chemical	feso4	1
+2872202	chemical	oxygen	1
+2872202	chemical	alpha	1
+2872202	gene/protein	glutamine synthetase	492
+2872202	gene/protein	polypeptide	4
+2872202	gene/protein	add	3
+2872202	gene/protein	mncl	2
+2872202	organism	Neurospora crassa	2
+2872202	sequence	glutamine	4
+2872202	sequence	polypeptide	2
+2872202	clinical_drug	glutamine	4
+2872202	clinical_drug	oxygen	1
+2872202	molecular_process	oxidation	1

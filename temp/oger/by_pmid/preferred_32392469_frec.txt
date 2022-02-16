@@ -1,0 +1,38 @@
+32392469	biological_process	memory	5
+32392469	biological_process	gene expression	2
+32392469	biological_process	biological regulation	1
+32392469	chemical	1-nitrohydroxyphenyl-N-benzoylalanine	4
+32392469	chemical	Galactokinase	1
+32392469	chemical	Histones	1
+32392469	chemical	histone	1
+32392469	gene/protein	Galactokinase	145
+32392469	gene/protein	Galectin-1	24
+32392469	gene/protein	galactokinase (Arabidopsis thaliana)	2
+32392469	gene/protein	galanin peptides (human)	2
+32392469	gene/protein	galectin-1	2
+32392469	gene/protein	galactokinase (yeast)	2
+32392469	gene/protein	galactokinase (Schizosaccharomyces pombe 972h-)	2
+32392469	gene/protein	Gallinacin-1	2
+32392469	gene/protein	galanin	2
+32392469	gene/protein	gallinacin-1 (chicken)	2
+32392469	gene/protein	galactokinase	1
+32392469	gene/protein	elongator complex protein 6	1
+32392469	gene/protein	elongator complex protein 6 (yeast)	1
+32392469	gene/protein	elongator complex protein 6 homolog (Schizosaccharomyces pombe 972h-)	1
+32392469	gene/protein	elongator complex protein 6 (zebrafish)	1
+32392469	gene/protein	elongator complex protein 6 (human)	1
+32392469	gene/protein	elongator complex protein 6 (mouse)	1
+32392469	gene/protein	elongator complex protein 6 (Dictyostelium discoideum)	1
+32392469	gene/protein	elongator complex protein 6 (Arabidopsis thaliana)	1
+32392469	gene/protein	vacuolar-sorting receptor 6 (Arabidopsis thaliana)	1
+32392469	gene/protein	elongator complex protein 6 (rat)	1
+32392469	gene/protein	histone	1
+32392469	organism	Saccharomyces cerevisiae	2
+32392469	sequence	gene	2
+32392469	sequence	polypeptide_repeat	1
+32392469	sequence	promoter	1
+32392469	cell	early lymphoid progenitor	1
+32392469	cell	common lymphoid progenitor	1
+32392469	organ/tissue	multicellular organism	1
+32392469	clinical_drug	saccharomyces cerevisiae allergenic extract	1
+32392469	clinical_drug	Saccharomyces cerevisiae	1

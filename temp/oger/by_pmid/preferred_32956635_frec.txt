@@ -1,0 +1,47 @@
+32956635	biological_process	biological regulation	2
+32956635	biological_process	immune response	1
+32956635	biological_process	signaling	1
+32956635	biological_process	carbohydrate metabolic process	1
+32956635	biological_process	detoxification	1
+32956635	biological_process	execution phase of apoptosis	1
+32956635	biological_process	apoptotic process	1
+32956635	cellular_component	obsolete protein	1
+32956635	chemical	protein	6
+32956635	chemical	molecule	3
+32956635	chemical	Carbohydrates	2
+32956635	chemical	(protein)	1
+32956635	chemical	carbohydrate	1
+32956635	chemical	base	1
+32956635	chemical	drug	1
+32956635	disease	Infections	6
+32956635	disease	Cysticercosis	4
+32956635	disease	Immune System Diseases	2
+32956635	gene/protein	bifunctional TH2 protein, mitochondrial (Arabidopsis thaliana)	4
+32956635	gene/protein	Heart- and neural crest derivatives-expressed protein 1	3
+32956635	gene/protein	thiamine biosynthetic bifunctional enzyme TH1, chloroplastic (Arabidopsis thaliana)	3
+32956635	gene/protein	heart- and neural crest derivatives-expressed protein 1	3
+32956635	gene/protein	negative elongation factor C/D (human)	3
+32956635	gene/protein	negative elongation factor D (fruit fly)	3
+32956635	gene/protein	negative elongation factor D (mouse)	3
+32956635	gene/protein	negative elongation factor C/D	3
+32956635	gene/protein	Acyl carrier protein AcpXL	2
+32956635	gene/protein	120.7 kDa protein in NOF-FB transposable element (fruit fly)	2
+32956635	gene/protein	protein	1
+32956635	organism	Mus musculus	4
+32956635	organism	Mice	4
+32956635	organism	Parasites	2
+32956635	organism	Taenia	1
+32956635	organism	Cysticercus	1
+32956635	sequence	ORF	2
+32956635	sequence	polypeptide	1
+32956635	sequence	enzymatic	1
+32956635	sequence	base	1
+32956635	cell_line	UE6E7T-2	4
+32956635	cell_line	TH1	3
+32956635	cell_line	TH-1	3
+32956635	cell_line	TH-1 subline B1	3
+32956635	cell_line	UE6E7T-1	3
+32956635	organ/tissue	female organism	1
+32956635	organ/tissue	cysticercus stage	1
+32956635	organ/tissue	larval stage	1
+32956635	organ/tissue	immune system	1

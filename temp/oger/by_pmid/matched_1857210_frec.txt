@@ -1,0 +1,11 @@
+1857210	biological_process	formation	2
+1857210	disease	nod	1
+1857210	gene/protein	nod	45
+1857210	gene/protein	lack	1
+1857210	gene/protein	nif	1
+1857210	organism	plasmid	8
+1857210	organism	Rhizobium phaseoli	2
+1857210	organism	cfn42	1
+1857210	organism	Rhizobium	1
+1857210	sequence	plasmid	8
+1857210	sequence	gene	1

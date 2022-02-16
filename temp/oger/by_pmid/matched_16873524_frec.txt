@@ -1,0 +1,5 @@
+16873524	chemical	proteins	1
+16873524	chemical	ligand	1
+16873524	molecular_function	ligand	1
+16873524	molecular_function	dna binding	1
+16873524	sequence	dna binding site	1

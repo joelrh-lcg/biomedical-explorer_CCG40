@@ -1,0 +1,5 @@
+29953444	disease	Lupus Erythematosus, Systemic	2
+29953444	disease	Lupus Nephritis	2
+29953444	gene/protein	protein slender lobes (fruit fly)	2
+29953444	sequence	natural_variant_site	1
+29953444	cell_line	SLE005	2

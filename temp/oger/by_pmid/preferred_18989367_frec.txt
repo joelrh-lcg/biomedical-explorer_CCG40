@@ -1,0 +1,48 @@
+18989367	chemical	Insulin	6
+18989367	chemical	insulin (human)	3
+18989367	chemical	insulin	3
+18989367	chemical	ligand	3
+18989367	chemical	insulin receptor-related receptor	2
+18989367	chemical	Insulin-Like Growth Factor I	2
+18989367	chemical	Fibronectin	2
+18989367	chemical	Fibronectins	2
+18989367	chemical	Receptor, Insulin	1
+18989367	chemical	Receptor, IGF Type 1	1
+18989367	chemical	Protein-Tyrosine Kinases	1
+18989367	chemical	amino-acid residue	1
+18989367	chemical	physiological role	1
+18989367	gene/protein	Insulin	243
+18989367	gene/protein	Fibronectin	22
+18989367	gene/protein	Insulin receptor-related protein	8
+18989367	gene/protein	Insulin receptor	5
+18989367	gene/protein	Growth factor	5
+18989367	gene/protein	insulin	3
+18989367	gene/protein	insulin-like growth factor 1 receptor (mouse)	2
+18989367	gene/protein	insulin-like growth factor 1 receptor (rat)	2
+18989367	gene/protein	insulin-like growth factor 1 receptor	2
+18989367	gene/protein	insulin-like growth factor 1 receptor (human)	2
+18989367	gene/protein	insulin receptor-related protein (mouse)	2
+18989367	gene/protein	insulin receptor-related protein	2
+18989367	gene/protein	insulin receptor-related protein (human)	2
+18989367	gene/protein	fibronectin	2
+18989367	gene/protein	insulin receptor	1
+18989367	gene/protein	obsolete amino acid chain component	1
+18989367	gene/protein	twist-related protein 1 (mouse)	1
+18989367	gene/protein	twist-related protein 1	1
+18989367	gene/protein	twist-related protein	1
+18989367	gene/protein	twist-related protein 1 (human)	1
+18989367	molecular_function	binding	5
+18989367	molecular_function	obsolete insulin	4
+18989367	organism	unidentified	1
+18989367	organism	Amphibians	1
+18989367	organism	Mammals	1
+18989367	sequence	polypeptide_domain	5
+18989367	sequence	polypeptide_binding_motif	1
+18989367	sequence	non_covalent_binding_site	1
+18989367	sequence	tyrosine	1
+18989367	sequence	amino_acid	1
+18989367	sequence	ligand_binding_site	1
+18989367	sequence	orthologous	1
+18989367	sequence	region	1
+18989367	sequence	orphan	1
+18989367	clinical_drug	Tyrosine	1

@@ -1,0 +1,12 @@
+29382487	biological_process	protein phosphorylation	2
+29382487	biological_process	biological regulation	1
+29382487	biological_process	phosphorylation	1
+29382487	cellular_component	obsolete protein	3
+29382487	chemical	protein	2
+29382487	chemical	(protein)	2
+29382487	chemical	Protein Kinases	1
+29382487	gene/protein	protein	3
+29382487	gene/protein	Protein tilB homolog	1
+29382487	molecular_function	phosphatase activity	1
+29382487	sequence	polypeptide	3
+29382487	sequence	phosphorylation_site	1

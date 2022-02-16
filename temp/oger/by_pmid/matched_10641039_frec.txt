@@ -1,0 +1,11 @@
+10641039	biological_process	transcription	1
+10641039	molecular_function	transcription factor	1
+10641039	organism	unknown	2
+10641039	organism	yeast	1
+10641039	sequence	sequence	3
+10641039	sequence	upstream	2
+10641039	sequence	gene	2
+10641039	sequence	random sequence	1
+10641039	organ/tissue	web	2
+10641039	organ/tissue	matrix	1
+10641039	clinical_drug	yeast	1

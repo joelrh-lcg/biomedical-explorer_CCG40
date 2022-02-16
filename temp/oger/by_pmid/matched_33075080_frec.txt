@@ -1,0 +1,42 @@
+33075080	biological_process	methylation	2
+33075080	biological_process	ribosome assembly	1
+33075080	biological_process	transposition	1
+33075080	cellular_component	ribosome	1
+33075080	cellular_component	protein	1
+33075080	chemical	proteins	3
+33075080	chemical	rrna	2
+33075080	chemical	protein	2
+33075080	chemical	Fibrillarin	1
+33075080	chemical	histone h2a	1
+33075080	chemical	rna viral	1
+33075080	chemical	fibrillarin	1
+33075080	gene/protein	histone h2a	60
+33075080	gene/protein	FIB	55
+33075080	gene/protein	fib	44
+33075080	gene/protein	rna	2
+33075080	gene/protein	protein	1
+33075080	organism	bacterium	7
+33075080	organism	mammal	3
+33075080	organism	Archaea	2
+33075080	organism	Eukarya	2
+33075080	organism	eukaryote	1
+33075080	organism	Tree	1
+33075080	organism	Eutheria	1
+33075080	organism	ruminants	1
+33075080	organism	primate	1
+33075080	organism	marsupial	1
+33075080	organism	eutherian mammal	1
+33075080	sequence	gene	4
+33075080	sequence	sequence	3
+33075080	sequence	rrna	1
+33075080	sequence	assembly	1
+33075080	sequence	promoter region	1
+33075080	sequence	rrna gene	1
+33075080	sequence	genome	1
+33075080	sequence	tandem duplication	1
+33075080	sequence	syntenic	1
+33075080	sequence	transposition	1
+33075080	sequence	protein	1
+33075080	organ/tissue	animal	2
+33075080	clinical_drug	tandem	1
+33075080	molecular_process	methylation	2

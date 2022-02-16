@@ -1,0 +1,25 @@
+3450286	biological_process	symbiosis	1
+3450286	cellular_component	chromosome	2
+3450286	chemical	element	2
+3450286	gene/protein	spp	32
+3450286	molecular_function	spp	2
+3450286	organism	bacterium	7
+3450286	organism	Rhizobium	3
+3450286	organism	Halobacterium halobium	2
+3450286	organism	Rhizobium phaseoli	2
+3450286	organism	Rhizobium meliloti	2
+3450286	organism	agrobacterium	2
+3450286	organism	Agrobacterium	2
+3450286	organism	plasmid	2
+3450286	organism	archaebacteria	1
+3450286	organism	Halobacterium volcanii	1
+3450286	organism	rhizobium	1
+3450286	organism	Rhizobiaceae	1
+3450286	organism	legume	1
+3450286	sequence	genome	3
+3450286	sequence	repeat	2
+3450286	sequence	sequence	2
+3450286	sequence	plasmid	2
+3450286	sequence	chromosome	2
+3450286	organ/tissue	element	2
+3450286	organ/tissue	organism	1

@@ -1,0 +1,28 @@
+29632354	cellular_component	central element	1
+29632354	cellular_component	obsolete protein	1
+29632354	cellular_component	tetraspanin-enriched microdomain	1
+29632354	chemical	atom	1
+29632354	chemical	protein	1
+29632354	chemical	(protein)	1
+29632354	chemical	tretamine	1
+29632354	gene/protein	protein	1
+29632354	gene/protein	protein TEM1 (yeast)	1
+29632354	gene/protein	AP2/ERF and B3 domain-containing transcription repressor TEM1 (Arabidopsis thaliana)	1
+29632354	gene/protein	endosialin (human)	1
+29632354	gene/protein	endosialin	1
+29632354	gene/protein	Beta-lactamase TEM	1
+29632354	gene/protein	endosialin (mouse)	1
+29632354	organism	unidentified plasmid	4
+29632354	organism	bacterium IFAM-3211	2
+29632354	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+29632354	organism	bacterium IFAM-3215	2
+29632354	organism	bacterium IFAM-2074	2
+29632354	organism	bacterium IFAM-3359	2
+29632354	organism	bacterium	2
+29632354	organism	bacterium IFAM-1493	2
+29632354	sequence	plasmid	4
+29632354	sequence	sequence_variant_obs	1
+29632354	sequence	gene	1
+29632354	sequence	polypeptide	1
+29632354	cell_line	TEM	1
+29632354	organ/tissue	organ	1

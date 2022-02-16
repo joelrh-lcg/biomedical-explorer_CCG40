@@ -1,0 +1,15 @@
+27814642	cellular_component	NADH dehydrogenase complex	4
+27814642	cellular_component	mitochondrial chromosome	3
+27814642	cellular_component	catalytic complex	1
+27814642	chemical	DNA, Mitochondrial	3
+27814642	chemical	NAD	2
+27814642	chemical	Electron Transport Complex I	1
+27814642	chemical	alpha-particle	1
+27814642	chemical	NADH(2-)	1
+27814642	chemical	NADH	1
+27814642	gene/protein	NADH-ubiquinone oxidoreductase 10.5 kDa subunit	4
+27814642	gene/protein	NADH-quinone oxidoreductase subunit N	2
+27814642	sequence	mitochondrial_DNA	3
+27814642	sequence	genome	1
+27814642	sequence	gene	1
+27814642	organ/tissue	multicellular organism	1

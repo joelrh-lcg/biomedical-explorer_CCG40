@@ -1,0 +1,68 @@
+22333179	biological_process	obsolete mutagenesis	2
+22333179	cellular_component	spanning component of plasma membrane	1
+22333179	cellular_component	integral component of membrane	1
+22333179	cellular_component	cytoplasm	1
+22333179	cellular_component	membrane	1
+22333179	cellular_component	obsolete soluble fraction	1
+22333179	chemical	picloram	3
+22333179	chemical	Phosphatidylcholines	2
+22333179	chemical	phospholipid	2
+22333179	chemical	Cytidine Monophosphate	2
+22333179	chemical	Choline	2
+22333179	chemical	Alanine	2
+22333179	chemical	phosphatidylcholine	1
+22333179	chemical	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	1
+22333179	chemical	1,2-diacyl-sn-glycero-3-phosphocholine	1
+22333179	chemical	CDP-diacylglycerol choline O-phosphatidyltransferase	1
+22333179	chemical	cytidine 5'-monophosphate	1
+22333179	chemical	cytidine 5'-monophosphate(2-)	1
+22333179	chemical	CDP-diacylglycerol	1
+22333179	chemical	choline	1
+22333179	chemical	amino-acid residue	1
+22333179	chemical	L-alanine	1
+22333179	chemical	L-alanine residue	1
+22333179	chemical	alanine	1
+22333179	chemical	alpha-amino acid	1
+22333179	chemical	amino acid	1
+22333179	disease	PREMATURE CHROMATID SEPARATION TRAIT	1
+22333179	gene/protein	Phosphatidylcholine synthase	20
+22333179	gene/protein	phosphatidylcholine synthase	2
+22333179	gene/protein	11S globulin seed storage protein Ana o 2.0101	1
+22333179	gene/protein	cartilage matrix protein	1
+22333179	gene/protein	cartilage matrix protein (mouse)	1
+22333179	gene/protein	cartilage matrix protein (human)	1
+22333179	gene/protein	obsolete amino acid chain component	1
+22333179	gene/protein	contactin-3 (mouse)	1
+22333179	gene/protein	phosphatidylcholine synthase (Agrobacterium fabrum str. C58)	1
+22333179	gene/protein	contactin-3	1
+22333179	gene/protein	SH3 domain-binding protein 5 homolog (fruit fly)	1
+22333179	gene/protein	5,7-dihydroxy-2-methylchromone synthase	1
+22333179	organism	Eukaryota	1
+22333179	organism	Bacteria	1
+22333179	organism	bacterium IFAM-3211	1
+22333179	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+22333179	organism	bacterium IFAM-3215	1
+22333179	organism	bacterium IFAM-2074	1
+22333179	organism	bacterium IFAM-3359	1
+22333179	organism	bacterium	1
+22333179	organism	bacterium IFAM-1493	1
+22333179	organism	Helix aspersa	1
+22333179	organism	Cantareus apertus	1
+22333179	sequence	amino_acid	2
+22333179	sequence	mutated_variant_site	2
+22333179	sequence	region	1
+22333179	sequence	alanine	1
+22333179	sequence	sequence_variant_obs	1
+22333179	sequence	wild_type	1
+22333179	sequence	transmembrane_helix	1
+22333179	cell	common myeloid progenitor, CD34-positive	1
+22333179	cell	common myeloid progenitor	1
+22333179	cell_line	CMP	1
+22333179	organ/tissue	posterior communicating artery	1
+22333179	organ/tissue	paracentral sulcus	1
+22333179	organ/tissue	helix of outer ear	1
+22333179	organ/tissue	membrane organ	1
+22333179	organ/tissue	membranous layer	1
+22333179	clinical_drug	Choline	1
+22333179	clinical_drug	Align	1
+22333179	clinical_drug	Alanine	1

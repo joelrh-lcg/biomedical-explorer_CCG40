@@ -1,0 +1,17 @@
+28530509	gene/protein	Protochlorophyllide reductase, chloroplastic	5
+28530509	gene/protein	Light-dependent protochlorophyllide reductase	2
+28530509	gene/protein	Protochlorophyllide reductase	1
+28530509	organism	Parasites	3
+28530509	organism	Ovis aries	3
+28530509	organism	Sheep	3
+28530509	organism	Toxoplasma gondii	1
+28530509	organism	Toxoplasma	1
+28530509	sequence	gene	3
+28530509	sequence	region	3
+28530509	sequence	haplotype	3
+28530509	sequence	genotype	2
+28530509	sequence	PCR_product	1
+28530509	sequence	allele	1
+28530509	sequence	intermediate	1
+28530509	organ/tissue	tissue	2
+28530509	organ/tissue	intermediate layer of superior colliculus	1

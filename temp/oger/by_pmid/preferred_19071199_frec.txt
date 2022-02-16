@@ -1,0 +1,27 @@
+19071199	chemical	Nalidixic Acid	2
+19071199	chemical	DNA, Cruciform	1
+19071199	chemical	methyl group	1
+19071199	chemical	methyl	1
+19071199	chemical	nalidixic acid	1
+19071199	gene/protein	ATP-dependent DNA helicase RecG	4
+19071199	gene/protein	ATP-dependent DNA helicase RecG (Staphylococcus aureus subsp. aureus NCTC 8325)	4
+19071199	gene/protein	ATP-dependent DNA helicase homolog RECG, chloroplastic (Arabidopsis thaliana)	4
+19071199	gene/protein	ATP-dependent DNA helicase RecG (Escherichia coli K-12)	4
+19071199	gene/protein	Holliday junction ATP-dependent DNA helicase RuvB (Escherichia coli K-12)	3
+19071199	gene/protein	Holliday junction ATP-dependent DNA helicase RuvB	3
+19071199	gene/protein	Holliday junction ATP-dependent DNA helicase RuvB (Clostridium botulinum A str. Hall)	3
+19071199	gene/protein	Holliday junction ATP-dependent DNA helicase RuvB (Staphylococcus aureus subsp. aureus NCTC 8325)	3
+19071199	gene/protein	adenosine deaminase (rat)	3
+19071199	gene/protein	DNA repair protein RadA	3
+19071199	gene/protein	DNA repair protein RadA (Escherichia coli K-12)	3
+19071199	gene/protein	DNA mismatch repair protein MutS	2
+19071199	gene/protein	DNA mismatch repair protein MutS (Escherichia coli K-12)	2
+19071199	gene/protein	DNA mismatch repair protein MutS (Staphylococcus aureus subsp. aureus NCTC 8325)	2
+19071199	organism	Rhizobium etli	2
+19071199	sequence	gene	2
+19071199	sequence	junction	1
+19071199	sequence	engineered_region	1
+19071199	sequence	null_mutation	1
+19071199	sequence	region	1
+19071199	organ/tissue	anatomical junction	1
+19071199	molecular_process	reduction	1

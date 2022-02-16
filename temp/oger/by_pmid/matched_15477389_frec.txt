@@ -1,0 +1,14 @@
+15477389	biological_process	transcription	1
+15477389	gene/protein	k12	18
+15477389	organism	bacillus subtilis	2
+15477389	organism	Borrelia burgdorferi	2
+15477389	organism	Escherichia coli k12	1
+15477389	sequence	gene	13
+15477389	sequence	operon	4
+15477389	sequence	paralogous	3
+15477389	sequence	orthologous	2
+15477389	sequence	paralog	2
+15477389	sequence	boundary	1
+15477389	sequence	strand	1
+15477389	cell_line	k12	4
+15477389	clinical_drug	bacillus subtilis	1

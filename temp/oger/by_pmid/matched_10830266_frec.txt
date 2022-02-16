@@ -1,0 +1,20 @@
+10830266	biological_process	symbiosis	2
+10830266	biological_process	photosynthesis	1
+10830266	biological_process	biosynthesis	1
+10830266	biological_process	sulfolipid biosynthesis	1
+10830266	cellular_component	thylakoid membrane	1
+10830266	cellular_component	membrane	1
+10830266	chemical	sulfolipid	6
+10830266	chemical	sulfoquinovosyldiacylglycerol	4
+10830266	chemical	lipid	2
+10830266	gene/protein	sqd1	1
+10830266	gene/protein	sqd	1
+10830266	gene/protein	polar	1
+10830266	organism	bacterium	21
+10830266	organism	Sinorhizobium meliloti	2
+10830266	organism	Arabidopsis thaliana	2
+10830266	organism	Rhodobacter	1
+10830266	sequence	gene	6
+10830266	sequence	ortholog	1
+10830266	organ/tissue	membrane	4
+10830266	organ/tissue	nodule	4

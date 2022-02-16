@@ -1,0 +1,21 @@
+19789986	cellular_component	x chromosome	3
+19789986	cellular_component	sex chromosome	2
+19789986	cellular_component	autosome	1
+19789986	cellular_component	y chromosome	1
+19789986	chemical	male	1
+19789986	gene/protein	map	6
+19789986	organism	elephant	12
+19789986	organism	eutherian	8
+19789986	organism	marsupial	3
+19789986	organism	mammal eutherian	1
+19789986	organism	mammal	1
+19789986	organism	primate	1
+19789986	organism	rodent	1
+19789986	organism	eutherian mammal	1
+19789986	organism	Loxodonta	1
+19789986	organism	bear	1
+19789986	sequence	chromosome	6
+19789986	sequence	gene	4
+19789986	sequence	variant	1
+19789986	sequence	homologous	1
+19789986	organ/tissue	male	1

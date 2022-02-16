@@ -1,0 +1,21 @@
+10535912	biological_process	respiration	8
+10535912	biological_process	breakdown	1
+10535912	biological_process	germination	1
+10535912	biological_process	degradation	1
+10535912	chemical	lumichrome	21
+10535912	chemical	riboflavin	12
+10535912	chemical	carbon	4
+10535912	chemical	co2	4
+10535912	chemical	signal molecule	1
+10535912	organism	alfalfa	8
+10535912	organism	bacterium	7
+10535912	organism	Sinorhizobium meliloti	2
+10535912	organism	Medicago sativa	2
+10535912	organism	rhizosphere bacterium	1
+10535912	sequence	signal	4
+10535912	sequence	enhancer	1
+10535912	organ/tissue	nodule	2
+10535912	organ/tissue	developmental stage	1
+10535912	clinical_drug	alfalfa	3
+10535912	clinical_drug	riboflavin	3
+10535912	clinical_drug	alfalfa seed	1

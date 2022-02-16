@@ -1,0 +1,29 @@
+18533836	biological_process	drought tolerance	3
+18533836	biological_process	signaling	2
+18533836	biological_process	metabolism	1
+18533836	biological_process	trehalose metabolism	1
+18533836	chemical	trehalose	8
+18533836	chemical	trehalose6phosphate synthase	5
+18533836	chemical	nitrogenase	2
+18533836	chemical	carbon	2
+18533836	chemical	nitrogen	2
+18533836	gene/protein	trehalose6phosphate synthase	285
+18533836	gene/protein	bean	6
+18533836	gene/protein	tag	5
+18533836	gene/protein	impact	2
+18533836	gene/protein	crop	1
+18533836	gene/protein	die	1
+18533836	molecular_function	nitrogenase activity	2
+18533836	organism	bacterium	7
+18533836	organism	Rhizobium etli	2
+18533836	organism	legume	1
+18533836	organism	Phaseolus vulgari	1
+18533836	organism	common bean plant	1
+18533836	sequence	gene	5
+18533836	sequence	sequence	1
+18533836	sequence	tag	1
+18533836	cell_line	bean	2
+18533836	organ/tissue	nodule	6
+18533836	organ/tissue	crop	1
+18533836	clinical_drug	trehalose	7
+18533836	clinical_drug	nitrogen	1

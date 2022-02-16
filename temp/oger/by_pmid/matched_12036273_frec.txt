@@ -1,0 +1,37 @@
+12036273	biological_process	phosphorylation	1
+12036273	biological_process	regulation	1
+12036273	biological_process	auxin transport	1
+12036273	biological_process	signaling	1
+12036273	biological_process	nodule formation	1
+12036273	chemical	tyrosine	5
+12036273	chemical	calmodulin	4
+12036273	chemical	nod factor	4
+12036273	chemical	triiodobenzoic acid	3
+12036273	chemical	indole3acetic acid	3
+12036273	chemical	auxin	3
+12036273	chemical	cdna	1
+12036273	disease	cam	6
+12036273	disease	nod	4
+12036273	disease	CaM	2
+12036273	gene/protein	cam	282
+12036273	gene/protein	nod	180
+12036273	gene/protein	calmodulin	172
+12036273	gene/protein	CaM	94
+12036273	gene/protein	add	3
+12036273	gene/protein	polar	1
+12036273	organism	Phaseolus vulgaris	2
+12036273	sequence	clone	6
+12036273	sequence	gene	2
+12036273	sequence	cdna	1
+12036273	sequence	homologous	1
+12036273	sequence	consensus	1
+12036273	sequence	sequence	1
+12036273	sequence	tyrosine	1
+12036273	sequence	phosphorylation site	1
+12036273	sequence	allele	1
+12036273	sequence	transcript	1
+12036273	organ/tissue	nodule	8
+12036273	organ/tissue	tissue	1
+12036273	organ/tissue	primordium	1
+12036273	clinical_drug	tyrosine	1
+12036273	clinical_drug	acetic acid	1

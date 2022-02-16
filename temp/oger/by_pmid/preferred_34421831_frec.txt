@@ -1,0 +1,37 @@
+34421831	biological_process	biosynthetic process	3
+34421831	biological_process	innate immune response	1
+34421831	biological_process	pathogenesis	1
+34421831	biological_process	obsolete virulence	1
+34421831	biological_process	viral process	1
+34421831	cellular_component	intracellular	1
+34421831	cellular_component	cell envelope	1
+34421831	chemical	picloram	4
+34421831	chemical	Choline	4
+34421831	chemical	phosphatidylethanolamine	3
+34421831	chemical	Phosphatidylcholines	2
+34421831	chemical	choline	2
+34421831	chemical	phosphatidylcholine	1
+34421831	chemical	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	1
+34421831	chemical	1,2-diacyl-sn-glycero-3-phosphocholine	1
+34421831	chemical	(S)-1,2-distearoylphosphatidylethanolaminium	1
+34421831	chemical	CDP-diacylglycerol	1
+34421831	chemical	choline transporter	1
+34421831	gene/protein	Phosphatidylcholine synthase	10
+34421831	gene/protein	phospholipid N-methyltransferase	2
+34421831	gene/protein	Dermonecrotic toxin	2
+34421831	gene/protein	mitochondrial oxaloacetate transport protein (yeast)	2
+34421831	gene/protein	phosphatidylcholine synthase	1
+34421831	molecular_function	phenol O-methyltransferase activity	2
+34421831	organism	Brucella	2
+34421831	organism	bacterium IFAM-3211	2
+34421831	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+34421831	organism	bacterium IFAM-3215	2
+34421831	organism	bacterium IFAM-2074	2
+34421831	organism	bacterium IFAM-3359	2
+34421831	organism	bacterium	2
+34421831	organism	bacterium IFAM-1493	2
+34421831	organism	Eukaryota	1
+34421831	organism	unidentified	1
+34421831	sequence	genome	1
+34421831	cell_line	SfSWT-1	1
+34421831	clinical_drug	Choline	3

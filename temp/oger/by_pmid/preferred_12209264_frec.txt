@@ -1,0 +1,16 @@
+12209264	biological_process	nodulation	1
+12209264	chemical	RNA, Ribosomal, 16S	1
+12209264	chemical	nodulation factor	1
+12209264	disease	Myoclonic Epilepsies, Progressive	1
+12209264	gene/protein	Flavohemoprotein	43
+12209264	gene/protein	flavohemoprotein	1
+12209264	gene/protein	kinesin-like protein Nod (fruit fly)	1
+12209264	organism	Mesorhizobium amorphae	2
+12209264	organism	Amorpha fruticosa	1
+12209264	organism	unidentified plasmid	1
+12209264	sequence	rRNA_16S	1
+12209264	sequence	rRNA_gene	1
+12209264	sequence	plasmid	1
+12209264	sequence	genotype	1
+12209264	organ/tissue	cerebellum vermis lobule X	1
+12209264	organ/tissue	germinal center	1

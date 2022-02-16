@@ -1,0 +1,13 @@
+16349254	cellular_component	chromosome	1
+16349254	gene/protein	CTD small phosphatase-like protein (chicken)	1
+16349254	organism	unidentified plasmid	6
+16349254	organism	Gluconacetobacter diazotrophicus	2
+16349254	organism	Saccharum	1
+16349254	organism	Saccharum officinarum	1
+16349254	organism	Saccharum hybrid cultivar	1
+16349254	sequence	plasmid	6
+16349254	sequence	clone	1
+16349254	sequence	gene	1
+16349254	sequence	chromosome	1
+16349254	clinical_drug	sugarcane extract	1
+16349254	clinical_drug	Saccharum officinarum allergenic extract	1

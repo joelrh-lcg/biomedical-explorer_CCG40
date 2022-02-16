@@ -1,0 +1,32 @@
+28442446	biological_process	blood coagulation	1
+28442446	biological_process	vasodilation	1
+28442446	biological_process	platelet aggregation	1
+28442446	cellular_component	obsolete protein	2
+28442446	chemical	protein	8
+28442446	chemical	(protein)	2
+28442446	chemical	triabin	2
+28442446	chemical	antimicrobial agent	1
+28442446	chemical	polypeptide	1
+28442446	chemical	Proteome	1
+28442446	disease	Salivary Gland Diseases	4
+28442446	disease	Chagas Disease	2
+28442446	gene/protein	protein	2
+28442446	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT (Escherichia coli K-12)	2
+28442446	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT	2
+28442446	gene/protein	Triabin	1
+28442446	gene/protein	proteolytic cleavage product	1
+28442446	gene/protein	amino acid chain	1
+28442446	organism	Trypanosoma cruzi	2
+28442446	organism	Leiostomus xanthurus	2
+28442446	organism	Triatominae	1
+28442446	organism	Parasites	1
+28442446	organism	Triatoma	1
+28442446	sequence	polypeptide	3
+28442446	sequence	transcript	3
+28442446	sequence	vector_replicon	1
+28442446	sequence	region	1
+28442446	cell	platelet	1
+28442446	organ/tissue	saliva	6
+28442446	organ/tissue	saliva-secreting gland	2
+28442446	organ/tissue	melanophore spot	2
+28442446	organ/tissue	milk	1

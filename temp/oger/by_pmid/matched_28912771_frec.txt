@@ -1,0 +1,11 @@
+28912771	biological_process	virulence	3
+28912771	biological_process	cooperative behavior	1
+28912771	chemical	virulence factor	1
+28912771	disease	susceptibility	4
+28912771	organism	bacterium	7
+28912771	organism	phage	5
+28912771	organism	bacteriophage	2
+28912771	organism	cheat	1
+28912771	organism	bacteriophage d3112	1
+28912771	sequence	phage	5
+28912771	sequence	bacteriophage	2

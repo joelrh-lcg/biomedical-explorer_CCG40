@@ -1,0 +1,5 @@
+22514263	chemical	nucleotide	1
+22514263	organism	unidentified plasmid	3
+22514263	sequence	plasmid	3
+22514263	sequence	gene	1
+22514263	sequence	region	1

@@ -1,0 +1,19 @@
+24385478	biological_process	formation	2
+24385478	biological_process	synthesis	2
+24385478	cellular_component	protein	2
+24385478	chemical	hsp	5
+24385478	chemical	protein	4
+24385478	chemical	proteins	2
+24385478	chemical	sigma factor	1
+24385478	chemical	lipid	1
+24385478	chemical	proteome	1
+24385478	disease	cyst	12
+24385478	gene/protein	cyst	12
+24385478	gene/protein	rpos	9
+24385478	gene/protein	hsp20	5
+24385478	gene/protein	protein	2
+24385478	gene/protein	lack	1
+24385478	organism	bacterium	14
+24385478	organism	Azotobacter vinelandii	2
+24385478	sequence	protein	2
+24385478	sequence	promoter	1

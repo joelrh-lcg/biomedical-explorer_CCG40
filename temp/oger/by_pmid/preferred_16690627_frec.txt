@@ -1,0 +1,50 @@
+16690627	biological_process	defense response	1
+16690627	biological_process	biosynthetic process	1
+16690627	biological_process	nodulation	1
+16690627	biological_process	gene expression	1
+16690627	chemical	naringenin	6
+16690627	chemical	Genistein	6
+16690627	chemical	isoflavonoid	3
+16690627	chemical	genistein	3
+16690627	chemical	genistein 7-O-beta-D-glucoside	3
+16690627	chemical	genistein(1-)	3
+16690627	chemical	(S)-naringenin	2
+16690627	chemical	picloram	2
+16690627	chemical	flavonoids	2
+16690627	chemical	flavonoid	2
+16690627	chemical	isoflavone synthase	2
+16690627	chemical	Anthocyanins	2
+16690627	chemical	phenylpropanoid	1
+16690627	chemical	Cytochrome P-450 Enzyme System	1
+16690627	chemical	sulfur-35 atom	1
+16690627	chemical	isoflavone	1
+16690627	chemical	anthocyanin	1
+16690627	chemical	glycoside	1
+16690627	disease	Growth Hormone-Secreting Pituitary Adenoma	4
+16690627	disease	Myoclonic Epilepsies, Progressive	2
+16690627	gene/protein	Flavohemoprotein	86
+16690627	gene/protein	Protochlorophyllide reductase, chloroplastic	5
+16690627	gene/protein	flavohemoprotein	2
+16690627	gene/protein	kinesin-like protein Nod (fruit fly)	2
+16690627	gene/protein	Light-dependent protochlorophyllide reductase	2
+16690627	gene/protein	Bifunctional cytochrome P450/NADPH--P450 reductase	1
+16690627	gene/protein	Cytochrome P450 monooxygenase	1
+16690627	gene/protein	Cytochrome P450 monooxygenase bsc11	1
+16690627	gene/protein	Protochlorophyllide reductase	1
+16690627	molecular_function	obsolete cytochrome P450	1
+16690627	molecular_function	oxygen binding	1
+16690627	organism	Oryza sativa	8
+16690627	organism	Oryza	8
+16690627	organism	Glycine max	2
+16690627	organism	Soybeans	2
+16690627	organism	Fabaceae	1
+16690627	sequence	gene	4
+16690627	sequence	intermediate	3
+16690627	sequence	transgenic	2
+16690627	sequence	promoter	1
+16690627	organ/tissue	cerebellum vermis lobule X	1
+16690627	organ/tissue	germinal center	1
+16690627	organ/tissue	tissue	1
+16690627	clinical_drug	Brown Rice	7
+16690627	clinical_drug	Soybean preparation	2
+16690627	clinical_drug	Soybean	2

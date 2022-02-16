@@ -1,0 +1,15 @@
+10985751	chemical	sucrose	9
+10985751	chemical	levansucrase	4
+10985751	chemical	levan	4
+10985751	chemical	coffee	2
+10985751	chemical	polypeptide	1
+10985751	gene/protein	levansucrase	52
+10985751	gene/protein	isda	16
+10985751	gene/protein	polypeptide	2
+10985751	organism	gluconacetobacter diazotrophicus	2
+10985751	organism	coffee	1
+10985751	sequence	genotype	2
+10985751	sequence	polypeptide	1
+10985751	sequence	restriction fragment length polymorphism	1
+10985751	sequence	gene	1
+10985751	clinical_drug	sucrose	3

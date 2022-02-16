@@ -1,0 +1,30 @@
+16349319	biological_process	metabolism	1
+16349319	biological_process	pentose phosphate pathway	1
+16349319	biological_process	catabolism	1
+16349319	chemical	glutamate	6
+16349319	chemical	phosphoenolpyruvate	5
+16349319	chemical	fructose6phosphate	5
+16349319	chemical	carbon	4
+16349319	chemical	pathway	2
+16349319	chemical	Percoll	2
+16349319	chemical	pentose phosphate	1
+16349319	chemical	aldolase	1
+16349319	chemical	fructose bisphosphatase	1
+16349319	chemical	glucokinase	1
+16349319	chemical	glucose6phosphate dehydrogenase	1
+16349319	chemical	phosphogluconate dehydrogenase	1
+16349319	chemical	phosphoglucomutase	1
+16349319	chemical	udp glucose pyrophosphorylase	1
+16349319	gene/protein	glucokinase	144
+16349319	gene/protein	udp glucose pyrophosphorylase	57
+16349319	gene/protein	phosphoglucomutase	30
+16349319	gene/protein	fructose6phosphate aldolase	18
+16349319	gene/protein	glucose6phosphate dehydrogenase	1
+16349319	gene/protein	dehydrogenase	1
+16349319	organism	Rhizobium tropici	2
+16349319	organism	CFN299	1
+16349319	sequence	enzymatic	1
+16349319	clinical_drug	fructose	2
+16349319	clinical_drug	glutamate	1
+16349319	clinical_drug	glucose6phosphate	1
+16349319	clinical_drug	glucose	1

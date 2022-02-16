@@ -1,0 +1,23 @@
+29136456	biological_process	defense response	1
+29136456	biological_process	innate immune response	1
+29136456	chemical	cutin	3
+29136456	chemical	wax	1
+29136456	disease	Infections	2
+29136456	organism	bacterium IFAM-3211	2
+29136456	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+29136456	organism	bacterium IFAM-3215	2
+29136456	organism	bacterium IFAM-2074	2
+29136456	organism	bacterium IFAM-3359	2
+29136456	organism	bacterium	2
+29136456	organism	bacterium IFAM-1493	2
+29136456	organism	Fungi	2
+29136456	organism	Yeasts	1
+29136456	organism	Mites	1
+29136456	sequence	MITE	1
+29136456	organ/tissue	eponychium	3
+29136456	organ/tissue	chitin-based cuticle	3
+29136456	organ/tissue	cuticle	3
+29136456	organ/tissue	skin epidermis	1
+29136456	organ/tissue	outer epithelium	1
+29136456	organ/tissue	multicellular organism	1
+29136456	clinical_drug	Yeast, Unspecified	1

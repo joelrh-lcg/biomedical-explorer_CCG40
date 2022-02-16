@@ -1,0 +1,59 @@
+30605507	biological_process	nitrogen fixation	2
+30605507	biological_process	biosynthetic process	1
+30605507	biological_process	metabolic process	1
+30605507	biological_process	gene expression	1
+30605507	chemical	carminic acid	7
+30605507	chemical	Carmine	4
+30605507	chemical	nitrogen atom	4
+30605507	chemical	nitrogen(.)	4
+30605507	chemical	alpha-amino acid	3
+30605507	chemical	amino acid	3
+30605507	chemical	vitamin	2
+30605507	chemical	Acetylene	2
+30605507	chemical	Uric Acid	2
+30605507	chemical	nutrient	1
+30605507	chemical	acetylene	1
+30605507	chemical	uric acid	1
+30605507	chemical	7,9-dihydro-1H-purine-2,6,8(3H)-trione	1
+30605507	disease	Malnutrition	2
+30605507	gene/protein	Serum amyloid P-component	8
+30605507	gene/protein	syntaxin-1A (rat)	1
+30605507	gene/protein	transcriptional regulator STERILE APETALA (Arabidopsis thaliana)	1
+30605507	gene/protein	serum amyloid P-component (mouse)	1
+30605507	gene/protein	Sperm-activating peptide	1
+30605507	gene/protein	serum amyloid P-component	1
+30605507	gene/protein	SH2 domain-containing protein 1A (human)	1
+30605507	gene/protein	serum amyloid P-component (rat)	1
+30605507	gene/protein	SH2 domain-containing protein 1A	1
+30605507	gene/protein	S-layer protein	1
+30605507	gene/protein	serine protease grass (fruit fly)	1
+30605507	gene/protein	CTD small phosphatase-like protein (chicken)	1
+30605507	gene/protein	probable N-acetyltransferase san (fruit fly)	1
+30605507	organism	Opuntia	2
+30605507	organism	bacterium IFAM-3211	2
+30605507	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+30605507	organism	bacterium IFAM-3215	2
+30605507	organism	bacterium IFAM-2074	2
+30605507	organism	bacterium IFAM-3359	2
+30605507	organism	bacterium	2
+30605507	organism	bacterium IFAM-1493	2
+30605507	organism	Dactylopius coccus	1
+30605507	organism	Hemiptera	1
+30605507	organism	Cactaceae	1
+30605507	organism	Candidatus Dactylopiibacterium carminicum	1
+30605507	organism	Rhodocyclaceae	1
+30605507	organism	Oryza sativa	1
+30605507	organism	Oryza	1
+30605507	sequence	amino_acid	3
+30605507	sequence	chromosomal_deletion	2
+30605507	sequence	gene	2
+30605507	sequence	genome	1
+30605507	sequence	operon	1
+30605507	organ/tissue	ovary	2
+30605507	organ/tissue	scale	1
+30605507	organ/tissue	tissue	1
+30605507	organ/tissue	hemolymph	1
+30605507	clinical_drug	Cochineal	5
+30605507	clinical_drug	Nitrogen	4
+30605507	clinical_drug	Brown Rice	1
+30605507	molecular_process	acetylene reduction	1

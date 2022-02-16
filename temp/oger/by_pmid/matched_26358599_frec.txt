@@ -1,0 +1,15 @@
+26358599	cellular_component	chromosome	1
+26358599	chemical	cellulase	1
+26358599	gene/protein	cellulase	46
+26358599	organism	banana	3
+26358599	organism	klebsiella variicola	2
+26358599	organism	maize	2
+26358599	organism	plasmid	1
+26358599	sequence	genome	2
+26358599	sequence	sequence	1
+26358599	sequence	circular	1
+26358599	sequence	chromosome	1
+26358599	sequence	plasmid	1
+26358599	sequence	gene	1
+26358599	cell_line	29a	1
+26358599	clinical_drug	banana	2

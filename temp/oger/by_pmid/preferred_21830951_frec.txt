@@ -1,0 +1,39 @@
+21830951	biological_process	symbiotic process	2
+21830951	chemical	nitrogen atom	1
+21830951	chemical	nitrogen(.)	1
+21830951	chemical	elemental carbon	1
+21830951	chemical	carbon atom	1
+21830951	chemical	alpha-particle	1
+21830951	gene/protein	Streptopain	14
+21830951	gene/protein	Protein BEAN1	2
+21830951	gene/protein	minor histocompatibility antigen H13	2
+21830951	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	2
+21830951	gene/protein	Sucrose 6(F)-phosphate phosphorylase	2
+21830951	gene/protein	sphingosine-1-phosphate phosphatase 1	2
+21830951	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	2
+21830951	gene/protein	minor histocompatibility antigen H13 (human)	2
+21830951	gene/protein	sphingosine-1-phosphate phosphatase	2
+21830951	gene/protein	Sphingosine-1-phosphate phosphatase 1	2
+21830951	gene/protein	SD07518p (fruit fly)	2
+21830951	gene/protein	Asparagine synthetase B [glutamine-hydrolyzing]	1
+21830951	gene/protein	protein BEAN	1
+21830951	molecular_function	obsolete signal peptide peptidase activity	2
+21830951	organism	Fabaceae	7
+21830951	organism	Burkholderia	6
+21830951	organism	Betaproteobacteria	2
+21830951	organism	Cupriavidus	2
+21830951	organism	Rhizobium	1
+21830951	organism	Alphaproteobacteria	1
+21830951	organism	Mimosa	1
+21830951	organism	bacterium BE	1
+21830951	organism	Phaseolus	1
+21830951	organism	Phaseolus vulgaris	1
+21830951	organism	Humans	1
+21830951	sequence	genome	2
+21830951	sequence	region	2
+21830951	sequence	gene	1
+21830951	cell_line	UtE-iPS-1	1
+21830951	cell_line	R1192	1
+21830951	organ/tissue	cerebellum vermis lobule X	1
+21830951	organ/tissue	germinal center	1
+21830951	clinical_drug	Nitrogen	1

@@ -1,0 +1,30 @@
+11282972	biological_process	transcription	4
+11282972	biological_process	regulation	1
+11282972	cellular_component	protein	5
+11282972	chemical	protein	8
+11282972	chemical	fumarate	2
+11282972	chemical	base	1
+11282972	chemical	camp receptor protein	1
+11282972	chemical	nitrate	1
+11282972	disease	influenza	2
+11282972	gene/protein	camp receptor protein	13
+11282972	gene/protein	fumarate and nitrate reduction regulatory protein	12
+11282972	gene/protein	protein	3
+11282972	molecular_function	binding	3
+11282972	molecular_function	transcription factor	2
+11282972	molecular_function	transcription factor binding	1
+11282972	organism	Escherichia coli	2
+11282972	organism	Haemophilus influenzae	2
+11282972	organism	e coli	2
+11282972	sequence	protein	5
+11282972	sequence	gene	4
+11282972	sequence	binding site	4
+11282972	sequence	binding	2
+11282972	sequence	orthologous	2
+11282972	sequence	regulon	1
+11282972	sequence	transcription factor binding site	1
+11282972	sequence	base	1
+11282972	sequence	genome	1
+11282972	sequence	gain	1
+11282972	organ/tissue	organism	1
+11282972	molecular_process	reduction	1

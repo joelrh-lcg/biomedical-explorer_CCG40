@@ -1,0 +1,19 @@
+11425750	biological_process	lysis	1
+11425750	chemical	base	1
+11425750	chemical	rrna	1
+11425750	gene/protein	spp	16
+11425750	gene/protein	bean	3
+11425750	molecular_function	spp	1
+11425750	organism	bacterium	21
+11425750	organism	Phaseolus vulgaris	2
+11425750	organism	Rhizobium tropici	2
+11425750	organism	Sinorhizobium	1
+11425750	organism	Leucaena leucocephala	1
+11425750	organism	plasmid	1
+11425750	organism	CFN299	1
+11425750	sequence	base	1
+11425750	sequence	sequence	1
+11425750	sequence	rrna gene	1
+11425750	sequence	plasmid	1
+11425750	cell_line	bean	1
+11425750	organ/tissue	nodule	4

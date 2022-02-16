@@ -1,0 +1,23 @@
+26637982	chemical	N',N'',N'''-triacetylfusarinine C	3
+26637982	chemical	tenofovir alafenamide fumarate	3
+26637982	chemical	tenofovir alafenamide	3
+26637982	chemical	maleate(2-)	1
+26637982	chemical	protein	1
+26637982	disease	Intellectual Disability	2
+26637982	disease	Muscle Hypotonia	2
+26637982	gene/protein	transcription initiation factor TFIID subunit 1	3
+26637982	gene/protein	transcription initiation factor TFIID subunit 1 (mouse)	3
+26637982	gene/protein	siderophore iron transporter ARN2 (yeast)	3
+26637982	gene/protein	transcription initiation factor TFIID subunit 1 (yeast)	3
+26637982	gene/protein	transcription initiation factor TFIID subunit 1 (human)	3
+26637982	gene/protein	transcription initiation factor TFIID subunit 1 (Dictyostelium discoideum)	3
+26637982	gene/protein	transcription initiation factor TFIID subunit 1 (worm)	3
+26637982	gene/protein	Taz1-interacting factor 1 (Schizosaccharomyces pombe 972h-)	3
+26637982	gene/protein	transcription initiation factor TFIID subunit 1 (Arabidopsis thaliana)	3
+26637982	gene/protein	transcription initiation factor TFIID subunit 1 (fruit fly)	3
+26637982	organism	Danio rerio	1
+26637982	organism	Zebrafish	1
+26637982	sequence	gene	3
+26637982	sequence	sequence_variant_obs	2
+26637982	sequence	duplication	1
+26637982	organ/tissue	male organism	1

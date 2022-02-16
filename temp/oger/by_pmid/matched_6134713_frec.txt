@@ -1,0 +1,28 @@
+6134713	biological_process	catabolism	1
+6134713	biological_process	arginine biosynthesis	1
+6134713	cellular_component	soluble	1
+6134713	cellular_component	vesicle	1
+6134713	chemical	glutamine	32
+6134713	chemical	arginine	20
+6134713	chemical	nitrogen	6
+6134713	chemical	ammonium	6
+6134713	chemical	glutamic acid	4
+6134713	chemical	amino acid	4
+6134713	chemical	gln	4
+6134713	chemical	glutamine synthetase	3
+6134713	chemical	arginase	2
+6134713	gene/protein	glutamine synthetase	369
+6134713	gene/protein	arginase	46
+6134713	gene/protein	glnr	6
+6134713	organism	Neurospora crassa	2
+6134713	sequence	glutamine	11
+6134713	sequence	arginine	4
+6134713	sequence	amino acid	2
+6134713	sequence	signal	2
+6134713	sequence	glutamic acid	1
+6134713	sequence	wild type	1
+6134713	sequence	gln	1
+6134713	clinical_drug	glutamine	11
+6134713	clinical_drug	arginine	4
+6134713	clinical_drug	nitrogen	3
+6134713	clinical_drug	glutamic acid	1

@@ -1,0 +1,12 @@
+23415482	biological_process	catabolic process	1
+23415482	chemical	nutrient	1
+23415482	chemical	elemental carbon	1
+23415482	chemical	carbon atom	1
+23415482	chemical	nitrogen atom	1
+23415482	chemical	nitrogen(.)	1
+23415482	organism	unidentified	3
+23415482	organism	Rhizobium	1
+23415482	sequence	gene	3
+23415482	sequence	genome	1
+23415482	sequence	region	1
+23415482	clinical_drug	Nitrogen	1

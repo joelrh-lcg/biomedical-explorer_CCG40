@@ -1,0 +1,12 @@
+18613977	biological_process	regulation	3
+18613977	biological_process	transcription	1
+18613977	biological_process	gene expression	1
+18613977	cellular_component	chromatin	1
+18613977	chemical	element	1
+18613977	chemical	chromatin	1
+18613977	molecular_function	transcription factor	1
+18613977	sequence	gene	2
+18613977	sequence	response element	1
+18613977	sequence	promoter region	1
+18613977	sequence	sequence	1
+18613977	organ/tissue	element	1

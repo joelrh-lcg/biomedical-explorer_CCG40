@@ -1,0 +1,27 @@
+9782512	biological_process	glutamine catabolism	1
+9782512	biological_process	glutamine synthesis	1
+9782512	biological_process	synthesis	1
+9782512	chemical	glutamine	44
+9782512	chemical	succinate	20
+9782512	chemical	carbon	6
+9782512	chemical	ammonium	6
+9782512	chemical	ce3	4
+9782512	chemical	nitrogen	4
+9782512	chemical	co2	4
+9782512	chemical	2oxoglutarate	3
+9782512	chemical	acid	2
+9782512	chemical	pathway	1
+9782512	chemical	glutamine synthetase	1
+9782512	gene/protein	glutamine synthetase	123
+9782512	gene/protein	gsii	12
+9782512	gene/protein	lack	1
+9782512	molecular_function	gs I	1
+9782512	organism	Sinorhizobium meliloti	4
+9782512	organism	Rhizobium etli	4
+9782512	organism	Rhizobium	3
+9782512	organism	Neurospora	1
+9782512	sequence	glutamine	12
+9782512	sequence	double	1
+9782512	cell_line	ce3	4
+9782512	clinical_drug	glutamine	12
+9782512	clinical_drug	nitrogen	2

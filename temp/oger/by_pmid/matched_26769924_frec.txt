@@ -1,0 +1,10 @@
+26769924	disease	gastric cancer	4
+26769924	disease	infection	2
+26769924	disease	disease	2
+26769924	gene/protein	cap	6
+26769924	organism	Helicobacter pylori	2
+26769924	organism	prophage	1
+26769924	sequence	sequence	2
+26769924	sequence	genome	1
+26769924	sequence	cap	1
+26769924	sequence	prophage	1

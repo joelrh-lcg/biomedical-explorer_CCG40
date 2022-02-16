@@ -1,0 +1,116 @@
+10784042	biological_process	biosynthetic process	2
+10784042	biological_process	nodulation	1
+10784042	biological_process	lipid A biosynthetic process	1
+10784042	cellular_component	obsolete protein	3
+10784042	chemical	holo-[acyl-carrier protein]	6
+10784042	chemical	acyl-carrier protein	6
+10784042	chemical	fatty acid	2
+10784042	chemical	protein	2
+10784042	chemical	(protein)	2
+10784042	chemical	27-hydroxyoctacosanoic acid	2
+10784042	chemical	Lipid A	2
+10784042	chemical	4'-phosphopantetheine	2
+10784042	chemical	Acyl Carrier Protein	1
+10784042	chemical	Carrier Proteins	1
+10784042	chemical	Capsular polysaccharide	1
+10784042	chemical	a sugar	1
+10784042	chemical	lipid A(4-)	1
+10784042	chemical	lipid As	1
+10784042	chemical	lipid A	1
+10784042	chemical	nucleotide	1
+10784042	chemical	alpha-amino acid	1
+10784042	chemical	amino acid	1
+10784042	chemical	label	1
+10784042	chemical	D-pantetheine 4'-phosphate	1
+10784042	chemical	pantetheine 4'-phosphate	1
+10784042	chemical	prosthetic group	1
+10784042	chemical	picloram	1
+10784042	disease	Cerebral Palsy, Ataxic, Autosomal Recessive	5
+10784042	gene/protein	Acyl carrier protein	2064
+10784042	gene/protein	Acyl carrier protein, mitochondrial	40
+10784042	gene/protein	Acyl carrier protein AcpP	30
+10784042	gene/protein	Meromycolate extension acyl carrier protein	24
+10784042	gene/protein	Acyl carrier protein MbtL	20
+10784042	gene/protein	Acyl carrier protein homolog	20
+10784042	gene/protein	Acyl carrier protein, chloroplastic	16
+10784042	gene/protein	Probable acyl carrier protein IacP	12
+10784042	gene/protein	Probable acyl carrier protein	8
+10784042	gene/protein	acyl carrier protein	7
+10784042	gene/protein	Acyl carrier protein 1, chloroplastic	6
+10784042	gene/protein	Candidapepsin-1	4
+10784042	gene/protein	Actinorhodin polyketide synthase acyl carrier protein	4
+10784042	gene/protein	Oxytetracycline polyketide synthase acyl carrier protein	4
+10784042	gene/protein	Acyl carrier protein 3, chloroplastic	4
+10784042	gene/protein	Tetracenomycin C polyketide synthase acyl carrier protein	4
+10784042	gene/protein	Acyl carrier protein 1, mitochondrial	4
+10784042	gene/protein	Putative acyl carrier protein, mitochondrial	4
+10784042	gene/protein	acylphosphatase-1 (fruit fly)	4
+10784042	gene/protein	Curamycin polyketide synthase acyl carrier protein	4
+10784042	gene/protein	Granaticin polyketide synthase acyl carrier protein	4
+10784042	gene/protein	acyl carrier protein, mitochondrial	4
+10784042	gene/protein	Vacuolar aspartic protease	4
+10784042	gene/protein	Acyl carrier protein SF2, chloroplastic	4
+10784042	gene/protein	Acyl carrier protein 4, chloroplastic	4
+10784042	gene/protein	Acyl carrier protein 2, chloroplastic	4
+10784042	gene/protein	Acyl carrier protein 3, mitochondrial	4
+10784042	gene/protein	Acyl carrier protein 2, mitochondrial	4
+10784042	gene/protein	Monensin polyketide synthase acyl carrier protein	4
+10784042	gene/protein	Candidapepsin	4
+10784042	gene/protein	acyl carrier protein (Leptospira interrogans serovar Lai str. 56601)	3
+10784042	gene/protein	prostatic acid phosphatase (mouse)	3
+10784042	gene/protein	acyl carrier protein (Shigella dysenteriae Sd197)	3
+10784042	gene/protein	acyl carrier protein (Vibrio parahaemolyticus RIMD 2210633)	3
+10784042	gene/protein	acyl carrier protein (Escherichia coli K-12)	3
+10784042	gene/protein	acyl carrier protein (Shewanella oneidensis MR-1)	3
+10784042	gene/protein	acyl carrier protein (Burkholderia pseudomallei K96243)	3
+10784042	gene/protein	acyl carrier protein AcpP (Sinorhizobium meliloti 1021)	3
+10784042	gene/protein	prostatic acid phosphatase (rat)	3
+10784042	gene/protein	prostatic acid phosphatase	3
+10784042	gene/protein	acyl carrier protein (Xanthomonas campestris pv. campestris str. ATCC 33913)	3
+10784042	gene/protein	acyl carrier protein (Escherichia coli IAI39)	3
+10784042	gene/protein	acyl carrier protein (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	3
+10784042	gene/protein	acyl carrier protein (Bordetella pertussis Tohama I)	3
+10784042	gene/protein	acyl carrier protein (Bacteroides thetaiotaomicron VPI-5482)	3
+10784042	gene/protein	acyl carrier protein AcpP (Agrobacterium fabrum str. C58)	3
+10784042	gene/protein	acyl carrier protein (Haemophilus influenzae Rd KW20)	3
+10784042	gene/protein	acyl carrier protein (Burkholderia mallei ATCC 23344)	3
+10784042	gene/protein	acyl carrier protein (Bacillus subtilis subsp. subtilis str. 168)	3
+10784042	gene/protein	prostatic acid phosphatase (human)	3
+10784042	gene/protein	acyl carrier protein (Sinorhizobium fredii NGR234)	3
+10784042	gene/protein	acyl carrier protein (Staphylococcus epidermidis ATCC 12228)	3
+10784042	gene/protein	acyl carrier protein (Bacillus thuringiensis serovar konkukian str. 97-27)	3
+10784042	gene/protein	acyl carrier protein (Staphylococcus aureus subsp. aureus NCTC 8325)	3
+10784042	gene/protein	Acyl carrier protein 1	2
+10784042	gene/protein	3-hydroxyacyl-thioester dehydratase Z	2
+10784042	gene/protein	nodulation protein F (Sinorhizobium meliloti 1021)	2
+10784042	gene/protein	acyl carrier protein, mitochondrial (yeast)	1
+10784042	gene/protein	low molecular weight phosphotyrosine protein phosphatase (chicken)	1
+10784042	gene/protein	Polyketide-8 synthase acyl carrier protein 1	1
+10784042	gene/protein	low molecular weight phosphotyrosine protein phosphatase (human)	1
+10784042	gene/protein	low molecular weight phosphotyrosine protein phosphatase (Dictyostelium discoideum)	1
+10784042	gene/protein	acyl carrier protein 1, chloroplastic (Arabidopsis thaliana)	1
+10784042	gene/protein	low molecular weight phosphotyrosine protein phosphatase	1
+10784042	gene/protein	calcium-binding protein CP1 (Arabidopsis thaliana)	1
+10784042	gene/protein	low molecular weight phosphotyrosine protein phosphatase (cow)	1
+10784042	gene/protein	low molecular weight phosphotyrosine protein phosphatase (mouse)	1
+10784042	gene/protein	adult cuticle protein 1 (fruit fly)	1
+10784042	gene/protein	low molecular weight phosphotyrosine protein phosphatase (rat)	1
+10784042	gene/protein	F-actin-capping protein subunit alpha (Schizosaccharomyces pombe 972h-)	1
+10784042	gene/protein	putative acid phosphatase 1 (worm)	1
+10784042	gene/protein	protein	1
+10784042	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+10784042	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+10784042	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+10784042	molecular_function	transporter activity	2
+10784042	organism	Escherichia coli	4
+10784042	organism	Sinorhizobium meliloti	2
+10784042	organism	Rhizobium leguminosarum	2
+10784042	organism	Rhizobium	1
+10784042	sequence	polypeptide	3
+10784042	sequence	region	3
+10784042	sequence	amino_acid	1
+10784042	sequence	reverse	1
+10784042	sequence	gene	1
+10784042	sequence	clone	1
+10784042	organ/tissue	vertebral column	1
+10784042	organ/tissue	multicellular organism	1

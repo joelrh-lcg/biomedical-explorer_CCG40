@@ -1,0 +1,54 @@
+26271664	biological_process	arginine biosynthesis	2
+26271664	biological_process	symbiosis	1
+26271664	biological_process	synthesis	1
+26271664	cellular_component	smc	2
+26271664	cellular_component	protein	1
+26271664	chemical	arginine	40
+26271664	chemical	ornithine	28
+26271664	chemical	NAO	12
+26271664	chemical	glutamate	6
+26271664	chemical	Ornithine	4
+26271664	chemical	nao	2
+26271664	chemical	acetate	2
+26271664	chemical	NAG	2
+26271664	chemical	protein	2
+26271664	chemical	acetyl group	1
+26271664	chemical	nag	1
+26271664	chemical	aminoacylase	1
+26271664	chemical	complement	1
+26271664	disease	smc	2
+26271664	gene/protein	nag kinase	566
+26271664	gene/protein	NAO	450
+26271664	gene/protein	nao	75
+26271664	gene/protein	smb	28
+26271664	gene/protein	argb	12
+26271664	gene/protein	NAG	10
+26271664	gene/protein	arge	9
+26271664	gene/protein	tag	5
+26271664	gene/protein	argj	3
+26271664	gene/protein	argE	3
+26271664	gene/protein	ama	3
+26271664	gene/protein	smc	2
+26271664	gene/protein	protein	1
+26271664	gene/protein	argJ	1
+26271664	gene/protein	aminoacylase	1
+26271664	gene/protein	gusa	1
+26271664	molecular_function	deacetylase activity	1
+26271664	organism	bacterium	7
+26271664	organism	alfalfa	2
+26271664	organism	Sinorhizobium meliloti	2
+26271664	organism	Escherichia coli	2
+26271664	sequence	arginine	8
+26271664	sequence	double	2
+26271664	sequence	gene	2
+26271664	sequence	intermediate	1
+26271664	sequence	protein	1
+26271664	sequence	tag	1
+26271664	cell_line	smb	2
+26271664	organ/tissue	ama	3
+26271664	clinical_drug	arginine	8
+26271664	clinical_drug	ornithine	7
+26271664	clinical_drug	alfalfa	1
+26271664	clinical_drug	Ornithine	1
+26271664	clinical_drug	acetate	1
+26271664	clinical_drug	glutamate	1

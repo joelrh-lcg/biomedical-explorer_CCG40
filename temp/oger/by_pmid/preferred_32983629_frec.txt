@@ -1,0 +1,41 @@
+32983629	biological_process	biological_process	3
+32983629	biological_process	response to iron ion	2
+32983629	biological_process	metabolic process	2
+32983629	biological_process	iron acquisition from host	1
+32983629	biological_process	obsolete Gene_Ontology	1
+32983629	biological_process	import into cell	1
+32983629	biological_process	import across plasma membrane	1
+32983629	biological_process	obsolete electron transport	1
+32983629	biological_process	respiratory electron transport chain	1
+32983629	biological_process	ATP biosynthetic process	1
+32983629	chemical	Riboflavin	20
+32983629	chemical	iron atom	14
+32983629	chemical	riboflavin(1-)	10
+32983629	chemical	riboflavin	10
+32983629	chemical	Micronutrients	2
+32983629	chemical	Adenosine Triphosphate	2
+32983629	chemical	micronutrient	1
+32983629	chemical	molecule	1
+32983629	chemical	cofactor	1
+32983629	chemical	alpha-amino acid	1
+32983629	chemical	amino acid	1
+32983629	chemical	electron	1
+32983629	chemical	ATP(4-)	1
+32983629	chemical	ATP	1
+32983629	disease	Dysentery	2
+32983629	organism	bacterium IFAM-3211	2
+32983629	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+32983629	organism	bacterium IFAM-3215	2
+32983629	organism	bacterium IFAM-2074	2
+32983629	organism	bacterium IFAM-3359	2
+32983629	organism	bacterium	2
+32983629	organism	bacterium IFAM-1493	2
+32983629	sequence	gene	4
+32983629	sequence	regulon	2
+32983629	sequence	amino_acid	1
+32983629	clinical_drug	Iron	14
+32983629	clinical_drug	Riboflavin	10
+32983629	clinical_drug	Adenosine Triphosphate	1
+32983629	molecular_process	coordination	1
+32983629	molecular_process	electron transfer	1
+32983629	entity_type	preferred_term	4

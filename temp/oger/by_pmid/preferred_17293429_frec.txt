@@ -1,0 +1,22 @@
+17293429	biological_process	biosynthetic process	1
+17293429	biological_process	swimming	1
+17293429	cellular_component	obsolete flagellum	3
+17293429	cellular_component	cilium	3
+17293429	cellular_component	cell surface	1
+17293429	chemical	protein	1
+17293429	chemical	cluster	1
+17293429	gene/protein	protein POLAR LOCALIZATION DURING ASYMMETRIC DIVISION AND REDISTRIBUTION (Arabidopsis thaliana)	1
+17293429	organism	bacterium IFAM-3211	2
+17293429	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+17293429	organism	bacterium IFAM-3215	2
+17293429	organism	bacterium IFAM-2074	2
+17293429	organism	bacterium IFAM-3359	2
+17293429	organism	bacterium	2
+17293429	organism	bacterium IFAM-1493	2
+17293429	organism	Rhodobacter	1
+17293429	organism	bacterium BE	1
+17293429	organism	Alphaproteobacteria	1
+17293429	sequence	gene	4
+17293429	sequence	assembly	1
+17293429	sequence	genome	1
+17293429	sequence	region	1

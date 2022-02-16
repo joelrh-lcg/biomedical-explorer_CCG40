@@ -1,0 +1,6 @@
+21223599	chemical	cephalosporin	1
+21223599	organism	Salmonella typhimurium	1
+21223599	organism	unidentified plasmid	1
+21223599	sequence	gene	1
+21223599	sequence	genotype	1
+21223599	sequence	plasmid	1

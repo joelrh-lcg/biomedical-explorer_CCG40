@@ -1,0 +1,58 @@
+14663079	biological_process	biosynthetic process	3
+14663079	biological_process	methylation	2
+14663079	biological_process	signaling	1
+14663079	cellular_component	membrane	2
+14663079	chemical	picloram	7
+14663079	chemical	phosphatidylethanolamine	3
+14663079	chemical	Phosphatidylcholines	2
+14663079	chemical	phospholipid	2
+14663079	chemical	pyridinium 3-methoxyestra-1,3,5(10)-trien-6-yl sulfate	2
+14663079	chemical	Choline	2
+14663079	chemical	phosphatidylcholine	1
+14663079	chemical	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	1
+14663079	chemical	1,2-diacyl-sn-glycero-3-phosphocholine	1
+14663079	chemical	CDP-diacylglycerol choline O-phosphatidyltransferase	1
+14663079	chemical	(S)-1,2-distearoylphosphatidylethanolaminium	1
+14663079	chemical	choline	1
+14663079	chemical	base	1
+14663079	chemical	lipid	1
+14663079	disease	PREMATURE CHROMATID SEPARATION TRAIT	8
+14663079	gene/protein	Phosphatidylcholine synthase	90
+14663079	gene/protein	phosphatidylcholine synthase	9
+14663079	gene/protein	contactin-3 (mouse)	8
+14663079	gene/protein	phosphatidylcholine synthase (Agrobacterium fabrum str. C58)	8
+14663079	gene/protein	contactin-3	8
+14663079	gene/protein	SH3 domain-binding protein 5 homolog (fruit fly)	8
+14663079	gene/protein	5,7-dihydroxy-2-methylchromone synthase	8
+14663079	gene/protein	Dermonecrotic toxin	3
+14663079	gene/protein	mitochondrial oxaloacetate transport protein (yeast)	3
+14663079	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+14663079	molecular_function	phenol O-methyltransferase activity	3
+14663079	organism	Brucella melitensis	4
+14663079	organism	bacterium IFAM-3211	3
+14663079	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+14663079	organism	bacterium IFAM-3215	3
+14663079	organism	bacterium IFAM-2074	3
+14663079	organism	bacterium IFAM-3359	3
+14663079	organism	bacterium	3
+14663079	organism	bacterium IFAM-1493	3
+14663079	organism	Sinorhizobium meliloti	2
+14663079	organism	Rhizobium leguminosarum	2
+14663079	organism	Bradyrhizobium japonicum	2
+14663079	organism	Mesorhizobium loti	2
+14663079	organism	Pseudomonas aeruginosa	2
+14663079	organism	Borrelia burgdorferi	2
+14663079	organism	Borreliella burgdorferi	2
+14663079	organism	Eukaryota	1
+14663079	organism	Agrobacterium	1
+14663079	organism	Legionella	1
+14663079	organism	Rhodobacter	1
+14663079	organism	Borrelia	1
+14663079	sequence	gene	2
+14663079	sequence	base	1
+14663079	organ/tissue	posterior communicating artery	8
+14663079	organ/tissue	paracentral sulcus	8
+14663079	organ/tissue	membrane organ	2
+14663079	organ/tissue	membranous layer	2
+14663079	clinical_drug	Choline	1
+14663079	molecular_process	methylation	2

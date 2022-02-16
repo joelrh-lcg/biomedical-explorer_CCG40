@@ -1,0 +1,21 @@
+29771928	biological_process	transcription	5
+29771928	biological_process	formation	1
+29771928	cellular_component	protein	1
+29771928	chemical	protein	2
+29771928	chemical	σ70	2
+29771928	chemical	rna polymerase	1
+29771928	gene/protein	Crp	238
+29771928	gene/protein	fnr	214
+29771928	gene/protein	σ70	76
+29771928	gene/protein	arca	5
+29771928	gene/protein	rna	2
+29771928	gene/protein	protein	1
+29771928	molecular_function	binding	1
+29771928	molecular_function	transcription factor	1
+29771928	sequence	dna motif	4
+29771928	sequence	binding	2
+29771928	sequence	strand	2
+29771928	sequence	motif	2
+29771928	sequence	protein	1
+29771928	sequence	transcription start site	1
+29771928	sequence	intermediate	1

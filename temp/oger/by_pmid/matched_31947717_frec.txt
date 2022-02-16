@@ -1,0 +1,21 @@
+31947717	biological_process	metabolic process	1
+31947717	biological_process	transcription	1
+31947717	cellular_component	protein	1
+31947717	chemical	proteins	2
+31947717	chemical	protein	2
+31947717	chemical	rna polymerase	1
+31947717	chemical	base	1
+31947717	gene/protein	rna	2
+31947717	gene/protein	protein	1
+31947717	molecular_function	transcription factor	1
+31947717	organism	bacterium	7
+31947717	organism	collection	2
+31947717	organism	archaea	1
+31947717	sequence	genome	8
+31947717	sequence	gene	2
+31947717	sequence	signal	2
+31947717	sequence	protein	1
+31947717	sequence	base	1
+31947717	sequence	duplication	1
+31947717	sequence	domain	1
+31947717	organ/tissue	organism	1

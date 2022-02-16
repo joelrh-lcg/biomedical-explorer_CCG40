@@ -1,0 +1,18 @@
+34858375	disease	Infections	2
+34858375	gene/protein	Regulatory protein cro	3
+34858375	gene/protein	hephaestin (rat)	2
+34858375	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+34858375	gene/protein	protein IMPACT (zebrafish)	1
+34858375	organism	Bacteriophages	5
+34858375	organism	Prophages	3
+34858375	organism	bacterium IFAM-3211	1
+34858375	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+34858375	organism	bacterium IFAM-3215	1
+34858375	organism	bacterium IFAM-2074	1
+34858375	organism	bacterium IFAM-3359	1
+34858375	organism	bacterium	1
+34858375	organism	bacterium IFAM-1493	1
+34858375	sequence	phage_sequence	5
+34858375	sequence	prophage	3
+34858375	sequence	genome	3
+34858375	sequence	gene	3

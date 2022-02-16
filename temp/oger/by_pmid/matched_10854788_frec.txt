@@ -1,0 +1,27 @@
+10854788	biological_process	respiration	2
+10854788	biological_process	regulation	1
+10854788	cellular_component	chromosome	1
+10854788	chemical	cytochrome	6
+10854788	chemical	haem	5
+10854788	chemical	apoprotein	2
+10854788	chemical	ce3	1
+10854788	gene/protein	ccmf	6
+10854788	gene/protein	map	6
+10854788	gene/protein	ccmF	2
+10854788	gene/protein	lacz	2
+10854788	molecular_function	cytochrome	21
+10854788	organism	Rhizobium etli	2
+10854788	organism	plasmid	2
+10854788	organism	primer	1
+10854788	sequence	gene	3
+10854788	sequence	promoter	3
+10854788	sequence	plasmid	2
+10854788	sequence	upstream	2
+10854788	sequence	gene fusion	2
+10854788	sequence	chromosome	1
+10854788	sequence	operon	1
+10854788	sequence	primer	1
+10854788	sequence	fusion	1
+10854788	sequence	assembly	1
+10854788	cell_line	ce3	1
+10854788	organ/tissue	extension	1

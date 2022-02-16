@@ -1,0 +1,38 @@
+25002426	biological_process	uptake	2
+25002426	cellular_component	rubisco complex	3
+25002426	chemical	biotin	8
+25002426	chemical	pyruvate	3
+25002426	chemical	ribulose	3
+25002426	chemical	nitrogen	2
+25002426	chemical	dehydrogenase	1
+25002426	chemical	rubisco	1
+25002426	chemical	homocitrate synthase	1
+25002426	chemical	hydrogenase	1
+25002426	chemical	cluster	1
+25002426	gene/protein	pdh	50
+25002426	gene/protein	rubisco	37
+25002426	gene/protein	homocitrate synthase	21
+25002426	gene/protein	bean	6
+25002426	gene/protein	hydrogenase	2
+25002426	gene/protein	dehydrogenase	1
+25002426	molecular_function	pdh	6
+25002426	organism	legume	2
+25002426	organism	sinorhizobium americanum	2
+25002426	organism	Rhizobium phaseoli	2
+25002426	organism	bacterium be	1
+25002426	organism	rhizobium	1
+25002426	organism	Rhizobium	1
+25002426	organism	Sinorhizobium	1
+25002426	organism	plasmid	1
+25002426	organism	prophage	1
+25002426	organism	Phaseolus	1
+25002426	sequence	plasmid	1
+25002426	sequence	genome	1
+25002426	sequence	inside	1
+25002426	sequence	prophage	1
+25002426	cell_line	bean	2
+25002426	cell_line	pdh	2
+25002426	organ/tissue	nodule	4
+25002426	clinical_drug	biotin	2
+25002426	clinical_drug	nitrogen	1
+25002426	clinical_drug	pyruvate	1

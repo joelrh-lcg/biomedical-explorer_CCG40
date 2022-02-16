@@ -1,0 +1,40 @@
+11277432	biological_process	synthesis	1
+11277432	biological_process	nodulation	1
+11277432	biological_process	biosynthesis	1
+11277432	biological_process	fatty acid elongation	1
+11277432	cellular_component	protein	8
+11277432	chemical	protein	14
+11277432	chemical	acyl carrier protein	3
+11277432	chemical	fatty acid	2
+11277432	chemical	amino acid	2
+11277432	chemical	carrier	2
+11277432	chemical	reductase	2
+11277432	chemical	polyunsaturated fatty acid	1
+11277432	chemical	oligosaccharide	1
+11277432	chemical	nod factor	1
+11277432	chemical	ligand	1
+11277432	chemical	proteins	1
+11277432	disease	nod	1
+11277432	gene/protein	acyl carrier protein	518
+11277432	gene/protein	nod	45
+11277432	gene/protein	fabg	16
+11277432	gene/protein	29kda protein	7
+11277432	gene/protein	protein	6
+11277432	gene/protein	nodg	5
+11277432	gene/protein	nodf	4
+11277432	gene/protein	N33	3
+11277432	gene/protein	n33	3
+11277432	molecular_function	carrier	3
+11277432	molecular_function	ligand	1
+11277432	organism	Rhizobium leguminosarum	2
+11277432	organism	Sinorhizobium meliloti	2
+11277432	organism	Escherichia coli	2
+11277432	organism	Rhizobium sp N33	1
+11277432	organism	Rhizobium sp n33	1
+11277432	sequence	protein	8
+11277432	sequence	sequence	2
+11277432	sequence	gene	2
+11277432	sequence	amino acid	1
+11277432	sequence	clone	1
+11277432	sequence	duplication	1
+11277432	molecular_process	reduction	1

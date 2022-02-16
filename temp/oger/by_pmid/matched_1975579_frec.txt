@@ -1,0 +1,26 @@
+1975579	chemical	gln	12
+1975579	chemical	alpha	3
+1975579	chemical	polypeptide	2
+1975579	chemical	beta	2
+1975579	chemical	glutamine synthetase	1
+1975579	chemical	inhibitor	1
+1975579	chemical	transferase	1
+1975579	chemical	synthetase	1
+1975579	chemical	glutamate synthase	1
+1975579	gene/protein	glutamine synthetase	123
+1975579	gene/protein	gln1	6
+1975579	gene/protein	polypeptide	4
+1975579	gene/protein	lack	1
+1975579	molecular_function	transferase activity	1
+1975579	molecular_function	synthetase activity	1
+1975579	molecular_function	glutamate synthase activity	1
+1975579	organism	Neurospora crassa	2
+1975579	sequence	gln	3
+1975579	sequence	mutation	3
+1975579	sequence	polypeptide	2
+1975579	sequence	glutamine	1
+1975579	sequence	gene	1
+1975579	cell_line	1br	3
+1975579	cell_line	br8	3
+1975579	clinical_drug	glutamine	1
+1975579	clinical_drug	glutamate	1

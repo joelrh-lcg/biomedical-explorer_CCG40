@@ -1,0 +1,22 @@
+29462877	biological_process	symbiotic process	1
+29462877	biological_process	response to water	1
+29462877	biological_process	gene expression	1
+29462877	chemical	cerium(3+)	1
+29462877	chemical	Nitrogenase	1
+29462877	chemical	sucrose synthase	1
+29462877	chemical	Oxidoreductases	1
+29462877	disease	Dehydration	6
+29462877	gene/protein	Sucrose synthase	15
+29462877	gene/protein	Protein BEAN1	2
+29462877	gene/protein	protein BEAN	1
+29462877	gene/protein	ryanodine receptor (fruit fly)	1
+29462877	molecular_function	nitrogenase activity	1
+29462877	sequence	gene	4
+29462877	sequence	genotype	2
+29462877	sequence	wild_type	1
+29462877	cell_line	R1192	1
+29462877	cell_line	CE-3	1
+29462877	organ/tissue	cerebellum vermis lobule X	3
+29462877	organ/tissue	germinal center	3
+29462877	clinical_drug	Sucrose	1
+29462877	molecular_process	reduction	1

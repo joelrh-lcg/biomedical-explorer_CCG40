@@ -1,0 +1,28 @@
+22669633	biological_process	respiration	2
+22669633	biological_process	formation	1
+22669633	biological_process	synthesis	1
+22669633	chemical	ethanol	15
+22669633	chemical	sodium acetate	12
+22669633	chemical	acetate	8
+22669633	chemical	glucose	5
+22669633	chemical	thiamine	5
+22669633	chemical	cytochrome c	4
+22669633	chemical	acid	2
+22669633	chemical	mineral	1
+22669633	chemical	nitrate	1
+22669633	gene/protein	cytochrome c	136
+22669633	gene/protein	porin	16
+22669633	gene/protein	ompc	3
+22669633	molecular_function	cytochrome c	2
+22669633	molecular_function	porin	1
+22669633	organism	Escherichia coli	2
+22669633	organism	e coli	2
+22669633	organism	strain ms	2
+22669633	sequence	gene	2
+22669633	sequence	chromosomal deletion	1
+22669633	sequence	deletion	1
+22669633	clinical_drug	ethanol	5
+22669633	clinical_drug	acetate	4
+22669633	clinical_drug	sodium acetate	4
+22669633	clinical_drug	glucose	1
+22669633	clinical_drug	thiamine	1

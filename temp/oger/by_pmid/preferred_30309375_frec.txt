@@ -1,0 +1,19 @@
+30309375	chemical	profoxydim	1
+30309375	disease	Epilepsy	2
+30309375	gene/protein	aurora kinase A (rat)	1
+30309375	gene/protein	aurora kinase A	1
+30309375	gene/protein	aurora kinase A (mouse)	1
+30309375	gene/protein	aurora kinase A (human)	1
+30309375	organism	Coragyps atratus	1
+30309375	organism	Cathartes aura	1
+30309375	sequence	genome	1
+30309375	sequence	gene	1
+30309375	organ/tissue	skin of face	2
+30309375	organ/tissue	carcass	1
+30309375	organ/tissue	animal hemisphere	1
+30309375	organ/tissue	multicellular organism	1
+30309375	organ/tissue	large intestine	1
+30309375	organ/tissue	digestive tract	1
+30309375	organ/tissue	lower digestive tract	1
+30309375	organ/tissue	digestive system	1
+30309375	clinical_drug	Meleagris gallopavo allergenic extract	1

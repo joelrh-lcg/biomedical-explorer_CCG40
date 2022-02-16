@@ -1,0 +1,18 @@
+15608210	biological_process	transcription	1
+15608210	cellular_component	protein complex	1
+15608210	chemical	pathway	3
+15608210	chemical	protein	2
+15608210	chemical	gene proteins	1
+15608210	gene/protein	K12	9
+15608210	gene/protein	add	3
+15608210	gene/protein	protein	1
+15608210	molecular_function	transcription factor binding	1
+15608210	organism	Escherichia coli K12	1
+15608210	sequence	gene	2
+15608210	sequence	promoter	1
+15608210	sequence	operon	1
+15608210	sequence	transcription factor binding site	1
+15608210	sequence	protein	1
+15608210	cell_line	K12	2
+15608210	organ/tissue	web	2
+15608210	organ/tissue	organism	1

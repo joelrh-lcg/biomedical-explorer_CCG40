@@ -1,0 +1,15 @@
+15612628	chemical	nucleotide	1
+15612628	chemical	Citrate (si)-Synthase	1
+15612628	chemical	base	1
+15612628	chemical	RNA, Ribosomal, 16S	1
+15612628	gene/protein	Citrate synthase	52
+15612628	gene/protein	2-methylcitrate synthase	7
+15612628	gene/protein	citrate synthase	4
+15612628	gene/protein	citrate synthase (Escherichia coli K-12)	3
+15612628	gene/protein	citrate synthase (Dictyostelium discoideum)	3
+15612628	gene/protein	Citrate/2-methylcitrate synthase	1
+15612628	organism	Trees	1
+15612628	sequence	region	3
+15612628	sequence	gene	2
+15612628	sequence	base	1
+15612628	sequence	rRNA_16S	1

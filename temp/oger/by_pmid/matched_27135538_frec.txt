@@ -1,0 +1,12 @@
+27135538	biological_process	cellular process	1
+27135538	biological_process	cellular growth	1
+27135538	cellular_component	cellular process	1
+27135538	chemical	rna polymerase	1
+27135538	chemical	proteome	1
+27135538	gene/protein	rna	2
+27135538	organism	Escherichia coli	2
+27135538	organism	ale	1
+27135538	sequence	mutation	4
+27135538	sequence	variant	1
+27135538	organ/tissue	scale	1
+27135538	organ/tissue	organism	1

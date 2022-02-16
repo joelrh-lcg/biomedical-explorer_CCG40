@@ -1,0 +1,36 @@
+12848422	biological_process	symbiosis	1
+12848422	biological_process	methylation	1
+12848422	biological_process	formation	1
+12848422	biological_process	symbiotic interaction	1
+12848422	biological_process	biosynthesis	1
+12848422	biological_process	nitrogen fixation	1
+12848422	cellular_component	membrane	2
+12848422	chemical	diacylglycerol	308
+12848422	chemical	phosphorus	15
+12848422	chemical	phosphatidylcholine	5
+12848422	chemical	lipid	4
+12848422	chemical	phosphatidylethanolamine	4
+12848422	chemical	pathway	4
+12848422	chemical	cardiolipin	3
+12848422	chemical	choline	3
+12848422	chemical	phosphatidylglycerol	2
+12848422	chemical	dimethylphosphatidylethanolamine	2
+12848422	chemical	nitrogen	2
+12848422	chemical	glycerophospholipid	1
+12848422	chemical	phospholipid	1
+12848422	chemical	sulfolipid	1
+12848422	chemical	culture media	1
+12848422	gene/protein	spp	16
+12848422	gene/protein	pc synthase	11
+12848422	gene/protein	pe a	2
+12848422	molecular_function	spp	1
+12848422	organism	bacterium	14
+12848422	organism	Sinorhizobium meliloti	2
+12848422	organism	Medicago	1
+12848422	organism	none	1
+12848422	organism	legume	1
+12848422	organ/tissue	nodule	6
+12848422	organ/tissue	membrane	4
+12848422	clinical_drug	choline	1
+12848422	clinical_drug	nitrogen	1
+12848422	molecular_process	methylation	1

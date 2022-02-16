@@ -1,0 +1,24 @@
+19700546	cellular_component	protein	1
+19700546	chemical	ethylene	10
+19700546	chemical	acc deaminase	5
+19700546	chemical	protein	2
+19700546	chemical	1aminocyclopropane1carboxylate deaminase	1
+19700546	gene/protein	acc deaminase	265
+19700546	gene/protein	1aminocyclopropane1carboxylate deaminase	47
+19700546	gene/protein	acc 1	14
+19700546	gene/protein	protein	1
+19700546	molecular_function	acc deaminase activity	4
+19700546	organism	Burkholderia	7
+19700546	organism	bacterium	7
+19700546	organism	Burkholderia unamae	2
+19700546	organism	tomato	2
+19700546	organism	human	1
+19700546	organism	Burkholderia cepacia complex	1
+19700546	sequence	gene	3
+19700546	sequence	sequence	2
+19700546	sequence	protein	1
+19700546	sequence	fusion	1
+19700546	sequence	construct	1
+19700546	organ/tissue	animal	2
+19700546	clinical_drug	ethylene	2
+19700546	clinical_drug	tomato	1

@@ -1,0 +1,32 @@
+17472633	biological_process	mutagenesis	1
+17472633	chemical	cluster	5
+17472633	chemical	ammonium chloride	3
+17472633	chemical	nitrogen	2
+17472633	chemical	amino acid	2
+17472633	chemical	genetic marker	2
+17472633	chemical	dinitrogenase	1
+17472633	chemical	glutamate synthase	1
+17472633	disease	cystic fibrosis	2
+17472633	gene/protein	dinitrogenase	46
+17472633	gene/protein	nif	6
+17472633	gene/protein	gltB	3
+17472633	gene/protein	nifH	1
+17472633	organism	Burkholderia vietnamiensis	2
+17472633	organism	strain g4	2
+17472633	organism	Burkholderia cepacia complex	1
+17472633	organism	strain cf	1
+17472633	sequence	mutation	2
+17472633	sequence	gene	2
+17472633	sequence	deletion	2
+17472633	sequence	amino acid	1
+17472633	sequence	genome	1
+17472633	sequence	sequence	1
+17472633	sequence	transposon	1
+17472633	sequence	mutagenesis	1
+17472633	sequence	genetic marker	1
+17472633	sequence	genomic dna	1
+17472633	sequence	deficiency	1
+17472633	organ/tissue	lung	1
+17472633	clinical_drug	nitrogen	1
+17472633	clinical_drug	ammonium chloride	1
+17472633	clinical_drug	glutamate	1

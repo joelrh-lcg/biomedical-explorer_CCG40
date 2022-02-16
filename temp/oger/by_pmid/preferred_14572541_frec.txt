@@ -1,0 +1,5 @@
+14572541	biological_process	biological regulation	1
+14572541	organism	Escherichia coli	2
+14572541	sequence	promoter	2
+14572541	sequence	gene	1
+14572541	sequence	genome	1

@@ -1,0 +1,28 @@
+32989089	biological_process	developmental process	3
+32989089	biological_process	formation	2
+32989089	biological_process	cell differentiation	1
+32989089	biological_process	regulation	1
+32989089	biological_process	transcription	1
+32989089	biological_process	signaling	1
+32989089	cellular_component	extracellular	3
+32989089	cellular_component	envelope	2
+32989089	cellular_component	capsule	1
+32989089	chemical	alginate	36
+32989089	chemical	cdigmp	18
+32989089	chemical	polymer	3
+32989089	chemical	GMP	2
+32989089	chemical	h in	1
+32989089	chemical	diguanylate cyclase	1
+32989089	disease	cyst	8
+32989089	gene/protein	GMP	11
+32989089	gene/protein	cyst	8
+32989089	gene/protein	alg8	7
+32989089	gene/protein	alginate epimerase	1
+32989089	organism	bacterium	14
+32989089	organism	unidentified	1
+32989089	sequence	chain	1
+32989089	sequence	promoter	1
+32989089	cell	GMP	1
+32989089	organ/tissue	layer	4
+32989089	organ/tissue	capsule	1
+32989089	molecular_process	polymerization	1

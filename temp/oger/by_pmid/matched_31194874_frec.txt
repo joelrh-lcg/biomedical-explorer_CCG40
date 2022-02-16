@@ -1,0 +1,14 @@
+31194874	biological_process	metabolism	3
+31194874	biological_process	transcription	1
+31194874	biological_process	biological process	1
+31194874	biological_process	Gene Ontology	1
+31194874	biological_process	regulation	1
+31194874	chemical	base	1
+31194874	gene/protein	tf1	1
+31194874	molecular_function	transcription factor	1
+31194874	organism	bacterium	7
+31194874	sequence	gene	6
+31194874	sequence	regulon	2
+31194874	sequence	base	1
+31194874	cell_line	tf1	1
+31194874	entity_type	term	2

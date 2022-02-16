@@ -1,0 +1,21 @@
+10391951	biological_process	phosphatidylcholine biosynthesis	2
+10391951	biological_process	methylation	1
+10391951	cellular_component	membrane	1
+10391951	chemical	phosphatidylcholine	25
+10391951	chemical	choline	12
+10391951	chemical	Phosphatidylcholine	5
+10391951	chemical	phosphatidylethanolamine	4
+10391951	chemical	pathway	3
+10391951	chemical	phospholipid	2
+10391951	chemical	lipid	1
+10391951	chemical	phosphatidylcholine synthase	1
+10391951	chemical	cdpdiacylglycerol	1
+10391951	gene/protein	phosphatidylcholine synthase	11
+10391951	organism	bacterium	14
+10391951	organism	Rhizobium meliloti	2
+10391951	organism	Sinorhizobium	1
+10391951	sequence	enzymatic	2
+10391951	sequence	wild type	1
+10391951	organ/tissue	membrane	2
+10391951	clinical_drug	choline	4
+10391951	molecular_process	methylation	1

@@ -1,0 +1,7 @@
+28981567	cellular_component	protein	1
+28981567	chemical	protein	2
+28981567	gene/protein	impact	2
+28981567	gene/protein	protein	1
+28981567	sequence	promoter	1
+28981567	sequence	genome	1
+28981567	sequence	protein	1

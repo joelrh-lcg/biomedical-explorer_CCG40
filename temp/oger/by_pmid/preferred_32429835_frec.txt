@@ -1,0 +1,9 @@
+32429835	cellular_component	mitochondrial chromosome	1
+32429835	chemical	atom	1
+32429835	chemical	biological role	1
+32429835	organism	Amphibians	2
+32429835	sequence	genome	2
+32429835	sequence	polypeptide_repeat	2
+32429835	sequence	region	2
+32429835	sequence	inverted_repeat	1
+32429835	organ/tissue	organ	1

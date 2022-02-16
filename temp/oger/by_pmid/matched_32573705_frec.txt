@@ -1,0 +1,9 @@
+32573705	biological_process	regulation	1
+32573705	biological_process	transcription	1
+32573705	gene/protein	K12	9
+32573705	molecular_function	transcription factor	1
+32573705	molecular_function	dna binding	1
+32573705	organism	Escherichia coli K12	1
+32573705	sequence	dna binding site	1
+32573705	sequence	gene	1
+32573705	cell_line	K12	2

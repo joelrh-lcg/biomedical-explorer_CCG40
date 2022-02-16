@@ -1,0 +1,8 @@
+23209196	biological_process	xenobiotic degradation	1
+23209196	chemical	xenobiotic	1
+23209196	organism	Burkholderia sp	3
+23209196	organism	legume	1
+23209196	sequence	genome	1
+23209196	sequence	sequence	1
+23209196	sequence	gene	1
+23209196	organ/tissue	nodule	2

@@ -1,0 +1,16 @@
+9466899	biological_process	transcription, DNA-templated	2
+9466899	chemical	protein	1
+9466899	chemical	Complement System Proteins	1
+9466899	chemical	base	1
+9466899	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+9466899	molecular_function	binding	1
+9466899	organism	Escherichia coli	2
+9466899	organism	Eukaryota	1
+9466899	sequence	polypeptide_domain	2
+9466899	sequence	promoter	1
+9466899	sequence	non_covalent_binding_site	1
+9466899	sequence	binding_site	1
+9466899	sequence	base	1
+9466899	sequence	region	1
+9466899	sequence	polypeptide_region	1
+9466899	sequence	sequence_comparison	1

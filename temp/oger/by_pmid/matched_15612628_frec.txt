@@ -1,0 +1,11 @@
+15612628	chemical	nucleotide	1
+15612628	chemical	citrate synthase	1
+15612628	chemical	base	1
+15612628	chemical	16s rrna	1
+15612628	gene/protein	citrate synthase	61
+15612628	gene/protein	glta	9
+15612628	organism	Tree	1
+15612628	sequence	sequence	3
+15612628	sequence	gene	2
+15612628	sequence	base	1
+15612628	sequence	16s rrna	1

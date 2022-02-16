@@ -1,0 +1,4 @@
+21565630	chemical	cephalosporin	1
+21565630	disease	nosocomial infection	2
+21565630	organism	bacterium	7
+21565630	organism	Enterobacteriaceae	1

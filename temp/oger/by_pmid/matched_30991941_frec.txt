@@ -1,0 +1,19 @@
+30991941	biological_process	transcription	2
+30991941	biological_process	stationary phase	2
+30991941	cellular_component	curli	1
+30991941	cellular_component	core	1
+30991941	chemical	indole	4
+30991941	chemical	rna polymerase	1
+30991941	chemical	effector	1
+30991941	chemical	molecule	1
+30991941	gene/protein	Crl	9
+30991941	gene/protein	rpos	3
+30991941	gene/protein	rna	2
+30991941	gene/protein	lack	1
+30991941	molecular_function	transcription factor	1
+30991941	organism	collection	1
+30991941	sequence	gene	1
+30991941	sequence	transition	1
+30991941	sequence	regulon	1
+30991941	cell_line	Crl	3
+30991941	organ/tissue	organism	1

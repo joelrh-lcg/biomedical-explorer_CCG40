@@ -1,0 +1,14 @@
+27601031	chemical	nitrogen	2
+27601031	chemical	proteome	1
+27601031	disease	ciat	1
+27601031	gene/protein	bean	3
+27601031	organism	bacterium	7
+27601031	organism	Rhizobium phaseoli	2
+27601031	organism	sinorhizobium americanum	2
+27601031	organism	Phaseolus vulgaris	2
+27601031	organism	legume	1
+27601031	sequence	gain	1
+27601031	sequence	sequence	1
+27601031	cell_line	bean	1
+27601031	organ/tissue	nodule	4
+27601031	clinical_drug	nitrogen	1

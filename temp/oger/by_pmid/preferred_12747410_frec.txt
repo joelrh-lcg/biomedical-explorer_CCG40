@@ -1,0 +1,26 @@
+12747410	chemical	RNA, Ribosomal, 16S	2
+12747410	gene/protein	Protochlorophyllide reductase, chloroplastic	5
+12747410	gene/protein	Light-dependent protochlorophyllide reductase	2
+12747410	gene/protein	Protochlorophyllide reductase	1
+12747410	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+12747410	organism	Acacia	1
+12747410	organism	bacterium IFAM-3211	1
+12747410	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+12747410	organism	bacterium IFAM-3215	1
+12747410	organism	bacterium IFAM-2074	1
+12747410	organism	bacterium IFAM-3359	1
+12747410	organism	bacterium	1
+12747410	organism	bacterium IFAM-1493	1
+12747410	organism	unidentified plasmid	1
+12747410	organism	Sinorhizobium	1
+12747410	organism	Sinorhizobium americanum	1
+12747410	organism	Mariosousa acatlensis	1
+12747410	sequence	rRNA_16S	2
+12747410	sequence	gene	2
+12747410	sequence	PCR_product	1
+12747410	sequence	rRNA_gene	1
+12747410	sequence	plasmid	1
+12747410	sequence	region	1
+12747410	organ/tissue	cerebellum vermis lobule X	1
+12747410	organ/tissue	germinal center	1
+12747410	clinical_drug	Acacia	2

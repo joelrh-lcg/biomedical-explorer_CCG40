@@ -1,0 +1,28 @@
+30609847	biological_process	nitrogen fixation	1
+30609847	chemical	nitrogen	8
+30609847	chemical	riboflavin	4
+30609847	chemical	carminic acid	3
+30609847	chemical	carmine	3
+30609847	chemical	cochineal	2
+30609847	chemical	carbon	2
+30609847	chemical	amino acid	2
+30609847	chemical	cosmetic	1
+30609847	chemical	polysaccharide	1
+30609847	gene/protein	spp	16
+30609847	molecular_function	spp	1
+30609847	organism	scale insect	1
+30609847	organism	Dactylopiibacterium carminicum	1
+30609847	organism	fungus	1
+30609847	organism	bacterium be	1
+30609847	sequence	inside	1
+30609847	sequence	transcript	1
+30609847	sequence	amino acid	1
+30609847	organ/tissue	gut	6
+30609847	organ/tissue	hemolymph	2
+30609847	organ/tissue	ovary	2
+30609847	organ/tissue	scale	1
+30609847	organ/tissue	tissue	1
+30609847	clinical_drug	nitrogen	4
+30609847	clinical_drug	cochineal	2
+30609847	clinical_drug	carminic acid	1
+30609847	clinical_drug	riboflavin	1

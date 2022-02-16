@@ -1,0 +1,14 @@
+30040192	biological_process	transcription	5
+30040192	biological_process	regulation	1
+30040192	chemical	base	1
+30040192	gene/protein	k12	9
+30040192	molecular_function	transcription factor	2
+30040192	organism	Escherichia coli k12	1
+30040192	sequence	genome	2
+30040192	sequence	gene	2
+30040192	sequence	signal	2
+30040192	sequence	promoter	1
+30040192	sequence	base	1
+30040192	cell_line	k12	2
+30040192	organ/tissue	matrix	1
+30040192	organ/tissue	Inc	1

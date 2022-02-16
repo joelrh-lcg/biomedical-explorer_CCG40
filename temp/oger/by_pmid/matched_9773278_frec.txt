@@ -1,0 +1,35 @@
+9773278	biological_process	synthesis	1
+9773278	chemical	amino acid	8
+9773278	chemical	sulphate	3
+9773278	chemical	nod factor	1
+9773278	chemical	peptide	1
+9773278	chemical	base	1
+9773278	chemical	cluster	1
+9773278	disease	nod	1
+9773278	gene/protein	orf2	564
+9773278	gene/protein	orf1	444
+9773278	gene/protein	nod	45
+9773278	gene/protein	N33	6
+9773278	gene/protein	cysD	2
+9773278	gene/protein	peptide	2
+9773278	gene/protein	cysN	2
+9773278	gene/protein	orf	2
+9773278	gene/protein	cysh	2
+9773278	gene/protein	lack	1
+9773278	organism	Escherichia coli	4
+9773278	organism	Rhizobium tropici	2
+9773278	organism	Rhizobium sp N33	2
+9773278	organism	e coli	2
+9773278	organism	CFN299	1
+9773278	organism	cfn299	1
+9773278	sequence	orf	11
+9773278	sequence	gene	5
+9773278	sequence	amino acid	4
+9773278	sequence	sequence	4
+9773278	sequence	motif	2
+9773278	sequence	homologous	1
+9773278	sequence	genome	1
+9773278	sequence	open reading frame	1
+9773278	sequence	peptide	1
+9773278	sequence	base	1
+9773278	sequence	Upstream	1

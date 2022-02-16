@@ -1,0 +1,5 @@
+30386709	chemical	nucleotide	1
+30386709	gene/protein	lab	6
+30386709	sequence	genome	2
+30386709	sequence	orthologous	1
+30386709	sequence	sequence	1

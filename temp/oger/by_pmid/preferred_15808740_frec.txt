@@ -1,0 +1,17 @@
+15808740	biological_process	gene conversion	6
+15808740	biological_process	antigenic variation	1
+15808740	disease	Immune System Diseases	2
+15808740	organism	bacterium IFAM-3211	1
+15808740	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+15808740	organism	bacterium IFAM-3215	1
+15808740	organism	bacterium IFAM-2074	1
+15808740	organism	bacterium IFAM-3359	1
+15808740	organism	bacterium	1
+15808740	organism	bacterium IFAM-1493	1
+15808740	sequence	gene	7
+15808740	sequence	homologous	1
+15808740	sequence	region	1
+15808740	sequence	sequence_variant_obs	1
+15808740	sequence	polypeptide_repeat	1
+15808740	sequence	genome	1
+15808740	organ/tissue	immune system	1

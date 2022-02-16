@@ -1,0 +1,38 @@
+23113348	biological_process	digestion	1
+23113348	cellular_component	protein	3
+23113348	cellular_component	nucleic acid	2
+23113348	chemical	protein	6
+23113348	chemical	polysaccharide	3
+23113348	chemical	proteins	3
+23113348	chemical	ammonium acetate	3
+23113348	chemical	nucleic acid	2
+23113348	chemical	pectinase	1
+23113348	chemical	rnase	1
+23113348	chemical	proteinase k	1
+23113348	chemical	sds	1
+23113348	chemical	nacl	1
+23113348	chemical	impurity	1
+23113348	chemical	restriction endonuclease	1
+23113348	disease	sds	1
+23113348	gene/protein	pectinase	33
+23113348	gene/protein	sds	9
+23113348	gene/protein	rna	6
+23113348	gene/protein	cia	6
+23113348	gene/protein	protein	3
+23113348	gene/protein	wash	2
+23113348	gene/protein	crop	1
+23113348	gene/protein	rnase	1
+23113348	gene/protein	proteinase k	1
+23113348	gene/protein	restriction endonuclease	1
+23113348	molecular_function	proteinase	1
+23113348	organism	okra	8
+23113348	organism	Abelmoschus esculentus	2
+23113348	sequence	protein	3
+23113348	sequence	nucleic acid	2
+23113348	sequence	downstream	2
+23113348	sequence	genomic dna	1
+23113348	sequence	RAPD	1
+23113348	sequence	reverse	1
+23113348	organ/tissue	crop	1
+23113348	organ/tissue	tissue	1
+23113348	clinical_drug	ammonium acetate	1

@@ -1,0 +1,36 @@
+24664579	biological_process	symbiosis	1
+24664579	chemical	16s rrna	2
+24664579	chemical	nucleotide	1
+24664579	chemical	DSM	1
+24664579	gene/protein	reca	14
+24664579	gene/protein	atpd	8
+24664579	gene/protein	dnak	8
+24664579	gene/protein	gyrb	5
+24664579	gene/protein	nov	4
+24664579	gene/protein	bean	3
+24664579	gene/protein	Lima	1
+24664579	gene/protein	nifH	1
+24664579	organism	Phaseolus lunatus	3
+24664579	organism	Bradyrhizobium	3
+24664579	organism	Bradyrhizobium lablabi	2
+24664579	organism	Bradyrhizobium paxllaeri	2
+24664579	organism	bradyrhizobium icense	2
+24664579	organism	Lima bean	1
+24664579	organism	CCBAU 23086	1
+24664579	organism	strain lmtr 21	1
+24664579	organism	DSM 18454	1
+24664579	organism	HAMBI 2911	1
+24664579	organism	strain lmtr 13	1
+24664579	organism	hambi 3584	1
+24664579	organism	cect 8509	1
+24664579	organism	cnpso 2583	1
+24664579	sequence	sequence	4
+24664579	sequence	16s rrna	2
+24664579	sequence	rrna gene	2
+24664579	sequence	gene	2
+24664579	sequence	genome	2
+24664579	cell_line	Lima	1
+24664579	cell_line	bean	1
+24664579	cell_line	reca	1
+24664579	organ/tissue	nodule	2
+24664579	clinical_drug	Lima bean	1

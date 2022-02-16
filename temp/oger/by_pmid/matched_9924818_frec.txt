@@ -1,0 +1,15 @@
+9924818	chemical	base	1
+9924818	chemical	16s rrna	1
+9924818	gene/protein	pcr	16
+9924818	organism	Acetobacter diazotrophicus	2
+9924818	organism	primer	2
+9924818	organism	Herbaspirillum	1
+9924818	organism	strain test	1
+9924818	organism	Oxalobacter	1
+9924818	organism	Proteobacteria	1
+9924818	sequence	primer	2
+9924818	sequence	base	1
+9924818	sequence	16s rrna	1
+9924818	sequence	sequence	1
+9924818	sequence	amplicon	1
+9924818	cell_line	11 a	1

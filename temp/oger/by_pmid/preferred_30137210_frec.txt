@@ -1,0 +1,5 @@
+30137210	biological_process	biological regulation	1
+30137210	chemical	base	1
+30137210	sequence	gene	1
+30137210	sequence	base	1
+30137210	organ/tissue	multicellular organism	1

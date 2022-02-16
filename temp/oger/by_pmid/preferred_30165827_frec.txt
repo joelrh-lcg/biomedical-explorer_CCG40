@@ -1,0 +1,11 @@
+30165827	gene/protein	Protein BEAN1	2
+30165827	gene/protein	protein BEAN	1
+30165827	organism	Fabaceae	2
+30165827	organism	Alphaproteobacteria	1
+30165827	organism	Rhizobium	1
+30165827	organism	Phaseolus	1
+30165827	organism	Phaseolus vulgaris	1
+30165827	sequence	region	1
+30165827	cell_line	R1192	1
+30165827	organ/tissue	cerebellum vermis lobule X	1
+30165827	organ/tissue	germinal center	1

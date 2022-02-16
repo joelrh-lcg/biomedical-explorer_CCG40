@@ -1,0 +1,34 @@
+18989367	chemical	insulin	12
+18989367	chemical	fibronectin	4
+18989367	chemical	ligand	3
+18989367	chemical	irr	2
+18989367	chemical	igf1	2
+18989367	chemical	insulin receptor	1
+18989367	chemical	receptor igf1	1
+18989367	chemical	tyrosine kinase	1
+18989367	chemical	amino acid residue	1
+18989367	chemical	physiological role	1
+18989367	gene/protein	insulin	246
+18989367	gene/protein	fibronectin	24
+18989367	gene/protein	irr	14
+18989367	gene/protein	igf1r	8
+18989367	gene/protein	insulin receptor	6
+18989367	gene/protein	growth factor	5
+18989367	gene/protein	twist	4
+18989367	gene/protein	amino acid residue	1
+18989367	molecular_function	insulin	4
+18989367	molecular_function	ligand	3
+18989367	molecular_function	binding	2
+18989367	organism	unknown	1
+18989367	organism	amphibian	1
+18989367	organism	mammal	1
+18989367	sequence	domain	4
+18989367	sequence	binding	2
+18989367	sequence	structural domain	1
+18989367	sequence	tyrosine	1
+18989367	sequence	amino acid	1
+18989367	sequence	ligand binding site	1
+18989367	sequence	orthologous	1
+18989367	sequence	sequence	1
+18989367	sequence	orphan	1
+18989367	clinical_drug	tyrosine	1

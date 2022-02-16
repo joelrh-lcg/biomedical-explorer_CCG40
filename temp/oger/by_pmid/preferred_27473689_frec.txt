@@ -1,0 +1,26 @@
+27473689	biological_process	metabolic process	2
+27473689	cellular_component	organelle	2
+27473689	chemical	base	1
+27473689	chemical	protein	1
+27473689	chemical	Hydrogenase	1
+27473689	gene/protein	Cytochrome c3 hydrogenase small chain	1
+27473689	gene/protein	Cytochrome c3 hydrogenase large chain	1
+27473689	organism	Alphaproteobacteria	4
+27473689	organism	Eukaryota	3
+27473689	organism	Entamoeba	2
+27473689	organism	Archaea	1
+27473689	organism	bacterium IFAM-3211	1
+27473689	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+27473689	organism	bacterium IFAM-3215	1
+27473689	organism	bacterium IFAM-2074	1
+27473689	organism	bacterium IFAM-3359	1
+27473689	organism	bacterium	1
+27473689	organism	bacterium IFAM-1493	1
+27473689	organism	Trichomonas	1
+27473689	organism	Clostridium	1
+27473689	organism	Rhodospirillales	1
+27473689	sequence	consensus	2
+27473689	sequence	transition	1
+27473689	sequence	fusion	1
+27473689	sequence	base	1
+27473689	organ/tissue	multicellular organism	2

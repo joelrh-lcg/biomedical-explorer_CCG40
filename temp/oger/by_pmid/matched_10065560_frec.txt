@@ -1,0 +1,26 @@
+10065560	biological_process	nodulation	2
+10065560	biological_process	secretion	1
+10065560	cellular_component	membrane	1
+10065560	chemical	nod factor	6
+10065560	chemical	fucose	4
+10065560	chemical	nodulation factor	1
+10065560	chemical	base	1
+10065560	chemical	fucosyl group	1
+10065560	chemical	polypeptide	1
+10065560	disease	nod	6
+10065560	gene/protein	nod	270
+10065560	gene/protein	acetyltransferase	2
+10065560	gene/protein	polypeptide	2
+10065560	gene/protein	transacylase	2
+10065560	gene/protein	lack	1
+10065560	organism	Rhizobium etli	2
+10065560	organism	Phaseolus vulgaris	2
+10065560	organism	Vigna umbellata	2
+10065560	sequence	gene	2
+10065560	sequence	base	1
+10065560	sequence	sequence	1
+10065560	sequence	polypeptide	1
+10065560	cell_line	Scott	1
+10065560	organ/tissue	membrane	2
+10065560	organ/tissue	secretion	1
+10065560	molecular_process	acetylation	1

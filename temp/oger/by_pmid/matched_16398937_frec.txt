@@ -1,0 +1,9 @@
+16398937	biological_process	transcription	1
+16398937	gene/protein	k12	9
+16398937	gene/protein	add	3
+16398937	organism	Escherichia coli	2
+16398937	organism	e coli	2
+16398937	organism	e coli k12	1
+16398937	sequence	operon	1
+16398937	cell_line	k12	2
+16398937	organ/tissue	organism	1

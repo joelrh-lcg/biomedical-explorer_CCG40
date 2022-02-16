@@ -1,0 +1,24 @@
+27199915	biological_process	regulation of transcription, DNA-templated	2
+27199915	biological_process	biological regulation	1
+27199915	cellular_component	obsolete protein	1
+27199915	chemical	Sigma Factor	5
+27199915	chemical	protein	1
+27199915	chemical	(protein)	1
+27199915	chemical	RNA polymerase sigma 70	1
+27199915	gene/protein	RNA polymerase sigma factor RpoD	35
+27199915	gene/protein	ECF RNA polymerase sigma-E factor	8
+27199915	gene/protein	RNA polymerase sigma factor RpoH (Escherichia coli K-12)	5
+27199915	gene/protein	RNA polymerase sigma factor RpoH	5
+27199915	gene/protein	RNA polymerase sigma factor SigA	3
+27199915	gene/protein	protein	1
+27199915	gene/protein	ECF RNA polymerase sigma factor RpoE	1
+27199915	organism	Alphaproteobacteria	1
+27199915	sequence	gene	5
+27199915	sequence	duplication	2
+27199915	sequence	promoter	2
+27199915	sequence	polypeptide	1
+27199915	sequence	gene_segment	1
+27199915	sequence	polypeptide_conserved_motif	1
+27199915	sequence	polypeptide_motif	1
+27199915	sequence	promoter_region	1
+27199915	organ/tissue	organismal segment	1

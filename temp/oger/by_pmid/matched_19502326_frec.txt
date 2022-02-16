@@ -1,0 +1,27 @@
+19502326	cellular_component	protein	1
+19502326	chemical	protein	2
+19502326	chemical	c16 1	2
+19502326	chemical	tcip	2
+19502326	chemical	16s rrna	1
+19502326	chemical	fatty acid	1
+19502326	chemical	c16 0	1
+19502326	chemical	16 1omega7	1
+19502326	gene/protein	pcr	8
+19502326	gene/protein	c16	3
+19502326	gene/protein	omega	3
+19502326	gene/protein	lmg	2
+19502326	gene/protein	nov	2
+19502326	gene/protein	protein	1
+19502326	organism	strain 1	8
+19502326	organism	Pseudomonas	4
+19502326	organism	Pseudomonas peli	2
+19502326	organism	Pseudomonas cuatrocienegasensis	2
+19502326	organism	lmg 23201	1
+19502326	organism	strain be 1	1
+19502326	organism	lmg 24676	1
+19502326	sequence	sequence	2
+19502326	sequence	16s rrna	1
+19502326	sequence	rrna gene	1
+19502326	sequence	protein	1
+19502326	cell_line	c16	3
+19502326	cell_line	c18	2

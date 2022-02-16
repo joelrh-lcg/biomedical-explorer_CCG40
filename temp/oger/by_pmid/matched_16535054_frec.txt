@@ -1,0 +1,23 @@
+16535054	biological_process	nodulation	7
+16535054	chemical	glycine	5
+16535054	chemical	11c	1
+16535054	gene/protein	fold	4
+16535054	gene/protein	Appl	3
+16535054	gene/protein	Crop	1
+16535054	gene/protein	max	1
+16535054	organism	USDA 110	7
+16535054	organism	soybean	4
+16535054	organism	Bradyrhizobium japonicum	2
+16535054	organism	glycine max	2
+16535054	organism	strain test	1
+16535054	organism	legume	1
+16535054	sequence	genotype	2
+16535054	sequence	insertion	1
+16535054	sequence	glycine	1
+16535054	cell_line	d425	3
+16535054	cell_line	tn5	2
+16535054	cell_line	MN11	1
+16535054	cell_line	11c	1
+16535054	organ/tissue	nodule	4
+16535054	clinical_drug	soybean	4
+16535054	clinical_drug	glycine	1

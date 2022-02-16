@@ -1,0 +1,14 @@
+17136545	biological_process	growth pattern	4
+17136545	biological_process	cell division cycle	1
+17136545	biological_process	meristem maintenance	1
+17136545	biological_process	root regeneration	1
+17136545	biological_process	root development	1
+17136545	biological_process	regeneration	1
+17136545	chemical	transform	1
+17136545	organism	Cactaceae	3
+17136545	organism	Stenocereus gummosus	1
+17136545	organism	permit	1
+17136545	organism	cactaceae	1
+17136545	sequence	gene	1
+17136545	sequence	transgenic	1
+17136545	organ/tissue	cell division	1

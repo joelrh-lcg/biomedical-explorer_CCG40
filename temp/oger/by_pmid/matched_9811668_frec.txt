@@ -1,0 +1,10 @@
+9811668	cellular_component	chromosome	2
+9811668	gene/protein	ngr	5
+9811668	organism	Rhizobium sp	6
+9811668	organism	plasmid	1
+9811668	sequence	sequence	3
+9811668	sequence	chromosome	2
+9811668	sequence	gene	2
+9811668	sequence	homologous	2
+9811668	sequence	replicon	1
+9811668	sequence	plasmid	1

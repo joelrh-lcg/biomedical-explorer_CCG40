@@ -1,0 +1,2 @@
+31118102	organ/tissue	cauda epididymis	1
+31118102	organ/tissue	corpus	1

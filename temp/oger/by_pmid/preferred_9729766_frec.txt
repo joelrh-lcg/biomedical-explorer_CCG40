@@ -1,0 +1,42 @@
+9729766	biological_process	tricarboxylic acid cycle	2
+9729766	biological_process	nitrogen fixation	1
+9729766	biological_process	metabolic process	1
+9729766	biological_process	symbiotic process	1
+9729766	chemical	nitrogen atom	3
+9729766	chemical	nitrogen(.)	3
+9729766	chemical	elemental carbon	2
+9729766	chemical	carbon atom	2
+9729766	chemical	trichloroacetic acid	2
+9729766	chemical	tricarboxylic acid	1
+9729766	chemical	picloram	1
+9729766	chemical	Citrate (si)-Synthase	1
+9729766	chemical	Ketoglutarate Dehydrogenase Complex	1
+9729766	chemical	Pyruvate Carboxylase	1
+9729766	gene/protein	Citrate synthase	52
+9729766	gene/protein	Pyruvate carboxylase	8
+9729766	gene/protein	2-methylcitrate synthase	7
+9729766	gene/protein	Putative malate oxidoreductase [NAD]	2
+9729766	gene/protein	Citrate/2-methylcitrate synthase	1
+9729766	gene/protein	citrate synthase	1
+9729766	gene/protein	Oxoglutarate dehydrogenase	1
+9729766	gene/protein	pyruvate carboxylase	1
+9729766	gene/protein	NADP-dependent malic enzyme	1
+9729766	molecular_function	malate dehydrogenase (decarboxylating) (NADP+) activity	1
+9729766	molecular_function	malate dehydrogenase (decarboxylating) (NAD+) activity	1
+9729766	organism	bacterium IFAM-3211	1
+9729766	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+9729766	organism	bacterium IFAM-3215	1
+9729766	organism	bacterium IFAM-2074	1
+9729766	organism	bacterium IFAM-3359	1
+9729766	organism	bacterium	1
+9729766	organism	bacterium IFAM-1493	1
+9729766	organism	Rhizobium	1
+9729766	organism	Bradyrhizobium	1
+9729766	organism	Mesorhizobium	1
+9729766	organism	Sinorhizobium	1
+9729766	organism	Azorhizobium	1
+9729766	sequence	gene	2
+9729766	sequence	clone	1
+9729766	cell_line	BCIRL-TcA-CLG1	2
+9729766	clinical_drug	Nitrogen	3
+9729766	clinical_drug	Pyruvate	1

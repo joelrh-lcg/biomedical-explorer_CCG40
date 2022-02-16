@@ -1,0 +1,41 @@
+29375522	biological_process	virulence	3
+29375522	biological_process	innate immunity	2
+29375522	biological_process	dephosphorylation	1
+29375522	cellular_component	intracellular	2
+29375522	cellular_component	envelope	2
+29375522	chemical	ethanolamine	10
+29375522	chemical	lipid a	10
+29375522	chemical	lps	9
+29375522	chemical	polymyxin b	4
+29375522	chemical	lipopolysaccharide	2
+29375522	chemical	peptide	2
+29375522	chemical	ornithine lipid	2
+29375522	chemical	molecule	1
+29375522	chemical	transferase	1
+29375522	chemical	lipid	1
+29375522	disease	lps	3
+29375522	gene/protein	spp	16
+29375522	gene/protein	pamp	6
+29375522	gene/protein	lps	6
+29375522	gene/protein	peptide	4
+29375522	gene/protein	lack	2
+29375522	gene/protein	lpta	2
+29375522	gene/protein	mask	1
+29375522	gene/protein	phosphatase	1
+29375522	molecular_function	spp	1
+29375522	molecular_function	phosphatase	1
+29375522	organism	bacterium	7
+29375522	organism	brucella	4
+29375522	organism	mouse	2
+29375522	organism	bacterium be	1
+29375522	organism	unidentified	1
+29375522	organism	ornithine lipid	1
+29375522	sequence	gene	4
+29375522	sequence	frameshift	4
+29375522	sequence	homolog	2
+29375522	sequence	peptide	2
+29375522	cell	dendritic cell	2
+29375522	clinical_drug	ethanolamine	2
+29375522	clinical_drug	polymyxin b	2
+29375522	clinical_drug	ornithine	1
+29375522	molecular_process	reduction	1

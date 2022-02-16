@@ -1,0 +1,46 @@
+18156266	biological_process	stringent response	1
+18156266	biological_process	pathogenesis	1
+18156266	biological_process	obsolete virulence	1
+18156266	biological_process	viral process	1
+18156266	biological_process	biological regulation	1
+18156266	biological_process	biological_process	1
+18156266	cellular_component	obsolete protein	1
+18156266	chemical	protein	1
+18156266	chemical	(protein)	1
+18156266	chemical	DNA, Intergenic	1
+18156266	gene/protein	Thiol peroxidase	162
+18156266	gene/protein	Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3	18
+18156266	gene/protein	Alkyl hydroperoxide reductase E	9
+18156266	gene/protein	HTH-type transcriptional regulator LeuO	8
+18156266	gene/protein	HTH-type transcriptional regulator LeuO (Escherichia coli K-12)	8
+18156266	gene/protein	alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3	6
+18156266	gene/protein	protein sprouty (fruit fly)	6
+18156266	gene/protein	dual specificity protein kinase CLK1 (mouse)	6
+18156266	gene/protein	dual specificity protein kinase CLK1	6
+18156266	gene/protein	protein giant-lens (fruit fly)	6
+18156266	gene/protein	DNA-binding protein H-NS (Escherichia coli K-12)	4
+18156266	gene/protein	DNA-binding protein H-NS	4
+18156266	gene/protein	outer membrane protein X (Escherichia coli K-12)	3
+18156266	gene/protein	outer membrane protein X	3
+18156266	gene/protein	outer membrane protease OmpP (Escherichia coli K-12)	3
+18156266	gene/protein	outer membrane protease ompP	3
+18156266	gene/protein	thiol peroxidase	3
+18156266	gene/protein	Peroxiredoxin tpx1	3
+18156266	gene/protein	peroxiredoxin-2	3
+18156266	gene/protein	Peroxiredoxin Asp f3	3
+18156266	gene/protein	Putative peroxiredoxin prxA	3
+18156266	gene/protein	Peroxiredoxin Pen c 3	3
+18156266	gene/protein	thiol peroxidase (Bacillus subtilis subsp. subtilis str. 168)	3
+18156266	gene/protein	peroxiredoxin-2 (mouse)	3
+18156266	gene/protein	thiol peroxidase (Escherichia coli K-12)	3
+18156266	gene/protein	HTH-type transcriptional regulator Zrp	2
+18156266	gene/protein	Transcriptional regulator	1
+18156266	molecular_function	arylsulfate sulfotransferase activity	3
+18156266	organism	Salmonella	2
+18156266	organism	Salmonella typhi	1
+18156266	sequence	gene	3
+18156266	sequence	fusion	1
+18156266	sequence	polypeptide	1
+18156266	sequence	intergenic_region	1
+18156266	sequence	promoter_region	1
+18156266	sequence	regulon	1

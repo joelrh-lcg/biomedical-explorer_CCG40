@@ -1,0 +1,11 @@
+31506045	biological_process	response to drug	1
+31506045	biological_process	obsolete drug resistance	1
+31506045	chemical	Anti-Bacterial Agents	8
+31506045	chemical	antimicrobial agent	5
+31506045	chemical	drug	3
+31506045	chemical	molecule	2
+31506045	chemical	base	1
+31506045	chemical	label	1
+31506045	organism	Humans	1
+31506045	sequence	base	1
+31506045	organ/tissue	tissue	2

@@ -1,0 +1,11 @@
+15808740	biological_process	gene conversion	6
+15808740	biological_process	antigenic variation	1
+15808740	disease	immune system	2
+15808740	organism	bacterium	7
+15808740	sequence	gene	7
+15808740	sequence	homologous	1
+15808740	sequence	sequence	1
+15808740	sequence	mutation	1
+15808740	sequence	repeat	1
+15808740	sequence	genome	1
+15808740	organ/tissue	immune system	1

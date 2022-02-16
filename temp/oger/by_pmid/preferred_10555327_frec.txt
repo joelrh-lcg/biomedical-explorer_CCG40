@@ -1,0 +1,27 @@
+10555327	biological_process	nodulation	1
+10555327	chemical	cluster	11
+10555327	chemical	base	4
+10555327	chemical	RNA, Ribosomal, 16S	2
+10555327	chemical	sulfur atom	2
+10555327	chemical	DNA, Ribosomal	2
+10555327	chemical	probe	1
+10555327	disease	Myoclonic Epilepsies, Progressive	3
+10555327	gene/protein	Flavohemoprotein	129
+10555327	gene/protein	CTD small phosphatase-like protein (chicken)	3
+10555327	gene/protein	flavohemoprotein	3
+10555327	gene/protein	kinesin-like protein Nod (fruit fly)	3
+10555327	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	2
+10555327	organism	Mesorhizobium	3
+10555327	organism	Fabaceae	2
+10555327	organism	Agrobacterium	2
+10555327	organism	Rhizobium	1
+10555327	sequence	rRNA_gene	4
+10555327	sequence	gene	4
+10555327	sequence	base	4
+10555327	sequence	RFLP_fragment	3
+10555327	sequence	rRNA_16S	2
+10555327	sequence	region	1
+10555327	sequence	probe	1
+10555327	cell	band form neutrophil	1
+10555327	organ/tissue	cerebellum vermis lobule X	1
+10555327	organ/tissue	germinal center	1

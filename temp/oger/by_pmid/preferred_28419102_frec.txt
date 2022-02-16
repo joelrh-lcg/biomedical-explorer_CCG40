@@ -1,0 +1,5 @@
+28419102	biological_process	biological regulation	1
+28419102	chemical	molecule	1
+28419102	sequence	gene	8
+28419102	sequence	regulon	1
+28419102	sequence	genome	1

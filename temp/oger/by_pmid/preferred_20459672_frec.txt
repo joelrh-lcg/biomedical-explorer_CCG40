@@ -1,0 +1,19 @@
+20459672	biological_process	gene expression	1
+20459672	chemical	Glycine	2
+20459672	chemical	glycine	1
+20459672	chemical	glycine zwitterion	1
+20459672	chemical	glycine residue	1
+20459672	gene/protein	Protein BEAN1	4
+20459672	gene/protein	protein BEAN	2
+20459672	gene/protein	protein max (zebrafish)	1
+20459672	organism	Glycine max	4
+20459672	organism	Soybeans	4
+20459672	organism	Phaseolus	1
+20459672	sequence	glycine	1
+20459672	sequence	CDS	1
+20459672	sequence	genome	1
+20459672	sequence	gene	1
+20459672	cell_line	R1192	2
+20459672	clinical_drug	Soybean preparation	3
+20459672	clinical_drug	Soybean	3
+20459672	clinical_drug	Glycine	1

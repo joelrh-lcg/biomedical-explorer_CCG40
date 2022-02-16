@@ -1,0 +1,35 @@
+9671027	biological_process	uptake	6
+9671027	biological_process	transport	1
+9671027	biological_process	metabolism	1
+9671027	biological_process	nodulation	1
+9671027	cellular_component	protein	1
+9671027	chemical	ribose	6
+9671027	chemical	trigonelline	3
+9671027	chemical	nitrogen	2
+9671027	chemical	protein	2
+9671027	chemical	ABC	1
+9671027	chemical	transport proteins	1
+9671027	disease	ciat	1
+9671027	gene/protein	bean	9
+9671027	gene/protein	ABC	2
+9671027	gene/protein	gusa	1
+9671027	gene/protein	protein	1
+9671027	molecular_function	ABC transporter	1
+9671027	organism	Rhizobium tropici	2
+9671027	organism	cfn299	1
+9671027	organism	plasmid	1
+9671027	organism	Macroptilium atropurpureum	1
+9671027	organism	legume	1
+9671027	organism	CFN299	1
+9671027	organism	ciat899	1
+9671027	organism	bear	1
+9671027	sequence	gene	5
+9671027	sequence	insertion	2
+9671027	sequence	transposon	1
+9671027	sequence	plasmid	1
+9671027	sequence	protein	1
+9671027	sequence	wild type	1
+9671027	cell_line	bean	3
+9671027	cell_line	tn5	1
+9671027	organ/tissue	exudate	6
+9671027	clinical_drug	nitrogen	1

@@ -1,0 +1,14 @@
+34803935	biological_process	drug resistance	2
+34803935	chemical	antibiotic	6
+34803935	chemical	drug	1
+34803935	chemical	element	1
+34803935	gene/protein	span	1
+34803935	organism	plasmid	4
+34803935	organism	life cycle	1
+34803935	sequence	plasmid	4
+34803935	sequence	gene	2
+34803935	sequence	mobile genetic element	1
+34803935	sequence	vector	1
+34803935	organ/tissue	element	1
+34803935	organ/tissue	life cycle	1
+34803935	clinical_drug	thrive	1

@@ -1,0 +1,16 @@
+17578085	biological_process	biological process	1
+17578085	biological_process	protein localization	1
+17578085	biological_process	signaling pathway	1
+17578085	cellular_component	protein	3
+17578085	chemical	protein	6
+17578085	chemical	metabolite	2
+17578085	chemical	proteins	1
+17578085	chemical	biological function	1
+17578085	chemical	gene proteins	1
+17578085	chemical	pathway	1
+17578085	gene/protein	protein	3
+17578085	gene/protein	impact	2
+17578085	sequence	gene	3
+17578085	sequence	protein	3
+17578085	sequence	transcript	1
+17578085	organ/tissue	scale	1

@@ -1,0 +1,38 @@
+11139607	biological_process	transcription	1
+11139607	cellular_component	protein	1
+11139607	chemical	sigma70	6
+11139607	chemical	camp receptor protein	1
+11139607	chemical	initiation codon	1
+11139607	disease	pneumonia	2
+11139607	gene/protein	sigma70	228
+11139607	gene/protein	crp	34
+11139607	gene/protein	crp1	24
+11139607	gene/protein	crp2	19
+11139607	gene/protein	dnaa	14
+11139607	gene/protein	camp receptor protein	13
+11139607	gene/protein	k12	9
+11139607	gene/protein	rpoH	4
+11139607	gene/protein	rpoh	4
+11139607	gene/protein	cytr	2
+11139607	organism	bacterium	42
+11139607	organism	Yersinia frederiksenii	2
+11139607	organism	Shigella flexneri	2
+11139607	organism	Salmonella enterica	2
+11139607	organism	Citrobacter freundii	2
+11139607	organism	Proteus	1
+11139607	organism	mirabili	1
+11139607	organism	Escherichia coli k12	1
+11139607	organism	Enterobacter	1
+11139607	organism	klebsiella	1
+11139607	sequence	promoter	10
+11139607	sequence	regulatory region	4
+11139607	sequence	sequence	3
+11139607	sequence	protein	1
+11139607	sequence	promoter sequence	1
+11139607	sequence	gene	1
+11139607	sequence	upstream	1
+11139607	sequence	initiation codon	1
+11139607	cell_line	crp2	2
+11139607	cell_line	k12	2
+11139607	cell_line	crp1	1
+11139607	organ/tissue	cloaca	3

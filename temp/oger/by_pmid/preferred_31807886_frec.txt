@@ -1,0 +1,26 @@
+31807886	biological_process	biosynthetic process	1
+31807886	chemical	cluster	4
+31807886	chemical	cyslabdan	4
+31807886	chemical	geosmin	3
+31807886	chemical	albaflavenone	3
+31807886	chemical	diterpenoid	3
+31807886	chemical	labdane	3
+31807886	chemical	diploptene	2
+31807886	chemical	(+)-geosmin	1
+31807886	chemical	(-)-geosmin	1
+31807886	chemical	epoxy group	1
+31807886	chemical	hydroxy group	1
+31807886	gene/protein	protein NPAT	1
+31807886	gene/protein	protein NPAT (human)	1
+31807886	gene/protein	Uncharacterized protein gp13	1
+31807886	organism	Streptomyces thermocarboxydus	2
+31807886	organism	Streptomyces cyslabdanicus	2
+31807886	organism	Streptomyces coelicolor	2
+31807886	organism	Streptomyces peucetius	2
+31807886	organism	Streptomyces avermitilis	2
+31807886	organism	Streptomyces	1
+31807886	sequence	genome	1
+31807886	sequence	operon	1
+31807886	sequence	gene	1
+31807886	cell_line	LRD	2
+31807886	cell_line	ES-E14	1

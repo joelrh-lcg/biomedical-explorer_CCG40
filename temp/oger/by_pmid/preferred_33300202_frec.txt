@@ -1,0 +1,55 @@
+33300202	biological_process	detoxification	1
+33300202	biological_process	catabolic process	1
+33300202	cellular_component	obsolete protein	1
+33300202	chemical	Aluminum	6
+33300202	chemical	aluminium atom	3
+33300202	chemical	altrose	3
+33300202	chemical	MicroRNAs	1
+33300202	chemical	protein	1
+33300202	chemical	(protein)	1
+33300202	disease	Amyotrophic Lateral Sclerosis 3	5
+33300202	gene/protein	E3 ubiquitin-protein ligase MYLIP	40
+33300202	gene/protein	MLX-interacting protein	10
+33300202	gene/protein	MLX-interacting protein (human)	10
+33300202	gene/protein	E3 ubiquitin-protein ligase MARCH8 (mouse)	10
+33300202	gene/protein	Miraculin	10
+33300202	gene/protein	Insulin-like receptor	10
+33300202	gene/protein	E3 ubiquitin-protein ligase MARCH8 (human)	10
+33300202	gene/protein	MLX-interacting protein (mouse)	10
+33300202	gene/protein	E3 ubiquitin-protein ligase MARCH8	10
+33300202	gene/protein	E3 ubiquitin-protein ligase MYLIP-A (zebrafish)	10
+33300202	gene/protein	Virion-associated protein	7
+33300202	gene/protein	agglutinin-like protein 3 (Candida albicans SC5314)	5
+33300202	gene/protein	obsolete agglutinin-like protein 10 (Candida albicans SC5314)	5
+33300202	gene/protein	protein ALUMINUM SENSITIVE 3 (Arabidopsis thaliana)	5
+33300202	gene/protein	Protein 3	5
+33300202	gene/protein	alanine aminotransferase 1	3
+33300202	gene/protein	RNA polymerase sigma factor RpoD (Escherichia coli K-12)	3
+33300202	gene/protein	Probable alanine aminotransferase, mitochondrial	3
+33300202	gene/protein	alanine aminotransferase 2	3
+33300202	gene/protein	RNA polymerase sigma factor RpoD	3
+33300202	gene/protein	Movement protein	2
+33300202	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+33300202	gene/protein	steroidogenic acute regulatory protein, mitochondrial (zebrafish)	1
+33300202	gene/protein	Non-structural protein 3	1
+33300202	gene/protein	Heat shock protein beta-3	1
+33300202	gene/protein	Fusion glycoprotein F0	1
+33300202	gene/protein	Putative movement protein 3	1
+33300202	gene/protein	Polymerase basic protein 2	1
+33300202	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+33300202	molecular_function	L-alanine:2-oxoglutarate aminotransferase activity	3
+33300202	organism	Phaseolus	3
+33300202	organism	Fabaceae	1
+33300202	sequence	genotype	6
+33300202	sequence	gene	4
+33300202	sequence	region	3
+33300202	sequence	transcript	3
+33300202	sequence	miRNA	1
+33300202	sequence	databank_entry	1
+33300202	sequence	deletion	1
+33300202	sequence	polypeptide	1
+33300202	cell_line	SZ-ALS3	5
+33300202	cell_line	ALT	3
+33300202	cell_line	UUIGPi005-A	1
+33300202	organ/tissue	crop	1
+33300202	clinical_drug	Aluminum	3

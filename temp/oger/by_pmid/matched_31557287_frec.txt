@@ -1,0 +1,20 @@
+31557287	biological_process	dosage compensation	2
+31557287	cellular_component	sex chromosome	2
+31557287	cellular_component	chromosome	2
+31557287	cellular_component	y chromosome	1
+31557287	cellular_component	x chromosome	1
+31557287	cellular_component	membrane	1
+31557287	cellular_component	intracellular	1
+31557287	chemical	male	1
+31557287	disease	attribute	2
+31557287	gene/protein	lack	1
+31557287	organism	lizard	2
+31557287	organism	chicken	2
+31557287	organism	Anolis carolinensis	1
+31557287	organism	Basiliscus vittatus	1
+31557287	sequence	chromosome	6
+31557287	sequence	gain	1
+31557287	sequence	orthologous	1
+31557287	organ/tissue	membrane	2
+31557287	organ/tissue	male	1
+31557287	clinical_drug	chicken	1

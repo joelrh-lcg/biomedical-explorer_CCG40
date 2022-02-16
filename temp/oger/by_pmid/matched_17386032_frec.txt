@@ -1,0 +1,19 @@
+17386032	chemical	16s rrna	1
+17386032	chemical	16s	1
+17386032	chemical	23s rrna	1
+17386032	gene/protein	recA	14
+17386032	gene/protein	pcr	8
+17386032	gene/protein	nodB	1
+17386032	organism	Medicago sativa	2
+17386032	organism	Sinorhizobium meliloti	2
+17386032	organism	plasmid	1
+17386032	organism	Sinorhizobium	1
+17386032	sequence	rrna gene	2
+17386032	sequence	plasmid	1
+17386032	sequence	restriction fragment length polymorphism	1
+17386032	sequence	16s rrna	1
+17386032	sequence	intergenic	1
+17386032	sequence	23s rrna	1
+17386032	sequence	sequence	1
+17386032	cell_line	recA	1
+17386032	organ/tissue	nodule	2

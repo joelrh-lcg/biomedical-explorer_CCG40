@@ -1,0 +1,19 @@
+27929718	biological_process	formation	2
+27929718	biological_process	cell division	1
+27929718	biological_process	transcription	1
+27929718	biological_process	nodule formation	1
+27929718	chemical	Nuclear factor y	1
+27929718	chemical	proteins	1
+27929718	disease	bacterial infection	2
+27929718	gene/protein	sty	8
+27929718	gene/protein	sty1	3
+27929718	gene/protein	sty2	2
+27929718	molecular_function	transcription factor	1
+27929718	organism	bacterium	7
+27929718	organism	Lotus japonicus	2
+27929718	organism	legume	1
+27929718	sequence	gene	2
+27929718	sequence	downstream	1
+27929718	organ/tissue	nodule	8
+27929718	organ/tissue	organ	2
+27929718	organ/tissue	cell division	1

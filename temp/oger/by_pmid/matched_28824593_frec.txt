@@ -1,0 +1,13 @@
+28824593	biological_process	gene expression	1
+28824593	biological_process	signaling	1
+28824593	biological_process	transcription	1
+28824593	biological_process	signal transduction	1
+28824593	chemical	pathway	1
+28824593	gene/protein	K12	9
+28824593	molecular_function	transcription factor	1
+28824593	organism	bacterium	7
+28824593	sequence	signal	6
+28824593	sequence	gene	1
+28824593	cell_line	K12	2
+28824593	organ/tissue	layer	2
+28824593	entity_type	term	2

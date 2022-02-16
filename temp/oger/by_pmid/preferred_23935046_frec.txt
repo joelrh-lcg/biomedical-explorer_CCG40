@@ -1,0 +1,37 @@
+23935046	chemical	Recombinases	5
+23935046	chemical	H4atta	3
+23935046	chemical	Tyrosine	2
+23935046	chemical	tyrosine	1
+23935046	chemical	tyrosinyl radical	1
+23935046	chemical	L-tyrosine	1
+23935046	chemical	Deoxyribonucleases	1
+23935046	gene/protein	prophage integrase IntA (Escherichia coli K-12)	7
+23935046	gene/protein	prophage integrase IntA	7
+23935046	gene/protein	Integrase	5
+23935046	gene/protein	26S proteasome non-ATPase regulatory subunit 6	3
+23935046	gene/protein	attacin-A (fruit fly)	3
+23935046	gene/protein	Attacin-A	3
+23935046	gene/protein	Extracellular deoxyribonuclease	3
+23935046	gene/protein	Deoxyribonuclease	2
+23935046	gene/protein	Periplasmic deoxyribonuclease	1
+23935046	molecular_function	binding	2
+23935046	molecular_function	tyrosine-based site-specific recombinase activity	1
+23935046	organism	unidentified plasmid	5
+23935046	organism	Rhizobium etli	3
+23935046	sequence	plasmid	5
+23935046	sequence	region	2
+23935046	sequence	fragmentary	2
+23935046	sequence	invert	2
+23935046	sequence	polypeptide_repeat	2
+23935046	sequence	sequence_variant_obs	2
+23935046	sequence	polypeptide_binding_motif	2
+23935046	sequence	non_covalent_binding_site	2
+23935046	sequence	tyrosine	1
+23935046	sequence	replicon	1
+23935046	sequence	integration_excision_site	1
+23935046	sequence	engineered_region	1
+23935046	sequence	linear	1
+23935046	sequence	enhancer	1
+23935046	organ/tissue	attachment site	1
+23935046	organ/tissue	lateral lumbar region of abdomen	1
+23935046	clinical_drug	Tyrosine	1

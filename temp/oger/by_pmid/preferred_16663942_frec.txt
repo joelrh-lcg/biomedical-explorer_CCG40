@@ -1,0 +1,13 @@
+16663942	chemical	polypeptide	7
+16663942	chemical	Glutamate-Ammonia Ligase	3
+16663942	gene/protein	Glutamine synthetase	366
+16663942	gene/protein	proteolytic cleavage product	7
+16663942	gene/protein	amino acid chain	7
+16663942	gene/protein	glutamine synthetase	3
+16663942	organism	Phaseolus	1
+16663942	sequence	polypeptide	7
+16663942	sequence	glutamine	3
+16663942	organ/tissue	cerebellum vermis lobule X	4
+16663942	organ/tissue	germinal center	4
+16663942	organ/tissue	tissue	1
+16663942	clinical_drug	Glutamine	3

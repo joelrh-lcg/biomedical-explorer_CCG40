@@ -1,0 +1,30 @@
+19202087	biological_process	symbiosis	2
+19202087	biological_process	response to heat shock	2
+19202087	biological_process	nodule formation	1
+19202087	biological_process	senescence	1
+19202087	chemical	sodium hypochlorite	3
+19202087	chemical	hydrogen peroxide	3
+19202087	chemical	sucrose	3
+19202087	chemical	sigma factor	2
+19202087	chemical	physiological role	1
+19202087	chemical	complement	1
+19202087	chemical	nacl	1
+19202087	chemical	nitrogenase	1
+19202087	chemical	sigma70	1
+19202087	chemical	proteins	1
+19202087	gene/protein	rpoh	52
+19202087	gene/protein	sigma70	38
+19202087	gene/protein	bean	3
+19202087	gene/protein	rpoH	2
+19202087	molecular_function	nitrogenase activity	1
+19202087	organism	Rhizobium etli	2
+19202087	organism	Escherichia coli	2
+19202087	sequence	promoter	2
+19202087	sequence	double	1
+19202087	sequence	gene	1
+19202087	sequence	upstream	1
+19202087	cell_line	bean	1
+19202087	organ/tissue	nodule	6
+19202087	clinical_drug	sodium hypochlorite	1
+19202087	clinical_drug	hydrogen peroxide	1
+19202087	clinical_drug	sucrose	1

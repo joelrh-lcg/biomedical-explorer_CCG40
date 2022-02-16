@@ -1,0 +1,13 @@
+16347593	chemical	nitrogen	4
+16347593	chemical	nitrogenase	3
+16347593	gene/protein	nif	7
+16347593	gene/protein	nifK	5
+16347593	gene/protein	nifH	1
+16347593	gene/protein	nifh	1
+16347593	molecular_function	nitrogenase activity	1
+16347593	organism	Rhizobium phaseoli	2
+16347593	organism	cfn42	1
+16347593	sequence	gene	2
+16347593	sequence	mutation	2
+16347593	organ/tissue	nodule	2
+16347593	clinical_drug	nitrogen	2

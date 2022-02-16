@@ -1,0 +1,14 @@
+31915222	chemical	Anti-Bacterial Agents	6
+31915222	chemical	antimicrobial agent	3
+31915222	chemical	4-(ethoxymethylene)-2-phenyloxazol-5-one	3
+31915222	chemical	carbapenemase	2
+31915222	chemical	carbapenem	1
+31915222	chemical	oxacillinase	1
+31915222	disease	Cross Infection	4
+31915222	gene/protein	Beta-lactamase OXA-9	2
+31915222	gene/protein	Imipenem-hydrolyzing beta-lactamase	2
+31915222	sequence	genome	4
+31915222	sequence	region	2
+31915222	sequence	clone	1
+31915222	sequence	gene	1
+31915222	entity_type	preferred_term	2

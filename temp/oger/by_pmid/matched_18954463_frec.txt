@@ -1,0 +1,10 @@
+18954463	biological_process	transcription	1
+18954463	chemical	element	2
+18954463	chemical	cluster	1
+18954463	chemical	base	1
+18954463	molecular_function	transcription factor	1
+18954463	organism	Escherichia coli	2
+18954463	sequence	gene	2
+18954463	sequence	base	1
+18954463	organ/tissue	layer	2
+18954463	organ/tissue	element	2

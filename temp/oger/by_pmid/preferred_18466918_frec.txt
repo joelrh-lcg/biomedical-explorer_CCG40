@@ -1,0 +1,37 @@
+18466918	biological_process	transcription, DNA-templated	2
+18466918	biological_process	biological regulation	1
+18466918	chemical	effector	1
+18466918	gene/protein	Ferredoxin--NADP reductase	173
+18466918	gene/protein	Dihydroflavonol 4-reductase	11
+18466918	gene/protein	Ferredoxin--NADP reductase, chloroplastic	6
+18466918	gene/protein	Flavodoxin/ferredoxin--NADP reductase	6
+18466918	gene/protein	Probable ferredoxin/ferredoxin--NADP reductase	4
+18466918	gene/protein	Importin subunit beta-2	2
+18466918	gene/protein	Ferredoxin--NADP reductase, root isozyme, chloroplastic	2
+18466918	gene/protein	Bifunctional dihydroflavonol 4-reductase/flavanone 4-reductase	2
+18466918	gene/protein	Ferredoxin--NADP reductase, leaf isozyme 1, chloroplastic	2
+18466918	gene/protein	transportin-1	1
+18466918	gene/protein	transportin-1 (human)	1
+18466918	gene/protein	Ferredoxin--NADP reductase, leaf isozyme, chloroplastic	1
+18466918	gene/protein	Ferredoxin--NADP reductase, leaf-type isozyme, chloroplastic	1
+18466918	gene/protein	fumarate and nitrate reduction regulatory protein	1
+18466918	gene/protein	fumarate and nitrate reduction regulatory protein (Escherichia coli K-12)	1
+18466918	gene/protein	Ferredoxin--NADP reductase, cyanelle	1
+18466918	gene/protein	Ferredoxin--NADP reductase, root-type isozyme, chloroplastic	1
+18466918	gene/protein	Ferredoxin--NADP reductase, embryo isozyme, chloroplastic	1
+18466918	gene/protein	flavodoxin/ferredoxin--NADP reductase	1
+18466918	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	2
+18466918	organism	Escherichia coli	4
+18466918	organism	Bacillus subtilis	2
+18466918	organism	bacterium IFAM-3211	1
+18466918	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+18466918	organism	bacterium IFAM-3215	1
+18466918	organism	bacterium IFAM-2074	1
+18466918	organism	bacterium IFAM-3359	1
+18466918	organism	bacterium	1
+18466918	organism	bacterium IFAM-1493	1
+18466918	sequence	orthologous	1
+18466918	sequence	regulon	1
+18466918	organ/tissue	terminal nerve	1
+18466918	organ/tissue	scale	1
+18466918	clinical_drug	Bacillus subtilis	1

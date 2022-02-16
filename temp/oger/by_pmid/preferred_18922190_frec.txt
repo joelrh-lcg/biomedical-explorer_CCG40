@@ -1,0 +1,8 @@
+18922190	biological_process	transcription, DNA-templated	1
+18922190	biological_process	biological regulation	1
+18922190	biological_process	gene expression	1
+18922190	chemical	atom	1
+18922190	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+18922190	sequence	gene	1
+18922190	sequence	region	1
+18922190	organ/tissue	organ	1

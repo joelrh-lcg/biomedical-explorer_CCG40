@@ -1,0 +1,32 @@
+12795377	biological_process	posttranslational modification	2
+12795377	biological_process	symbiosis	1
+12795377	biological_process	metabolism	1
+12795377	biological_process	biological process	1
+12795377	biological_process	gene expression	1
+12795377	cellular_component	protein	3
+12795377	cellular_component	transmembrane	2
+12795377	cellular_component	chromosome	1
+12795377	cellular_component	membrane	1
+12795377	chemical	proteins	9
+12795377	chemical	protein	6
+12795377	chemical	ump	4
+12795377	chemical	pathway	2
+12795377	chemical	nitrogen	2
+12795377	chemical	peptide	1
+12795377	gene/protein	protein	3
+12795377	gene/protein	peptide	2
+12795377	gene/protein	pii	2
+12795377	organism	bacterium	7
+12795377	organism	Sinorhizobium meliloti	2
+12795377	sequence	gene	8
+12795377	sequence	protein	3
+12795377	sequence	peptide	1
+12795377	sequence	genome	1
+12795377	sequence	chromosome	1
+12795377	sequence	transmembrane	1
+12795377	sequence	domain	1
+12795377	sequence	sequence	1
+12795377	sequence	candidate gene	1
+12795377	organ/tissue	nodule	6
+12795377	organ/tissue	membrane	2
+12795377	clinical_drug	nitrogen	1

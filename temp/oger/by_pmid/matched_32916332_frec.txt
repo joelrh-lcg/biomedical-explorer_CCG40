@@ -1,0 +1,7 @@
+32916332	biological_process	efflux	2
+32916332	cellular_component	efflux pump	1
+32916332	chemical	antibiotic	6
+32916332	gene/protein	spp	16
+32916332	molecular_function	spp	1
+32916332	organism	Acinetobacter	1
+32916332	sequence	gene	1

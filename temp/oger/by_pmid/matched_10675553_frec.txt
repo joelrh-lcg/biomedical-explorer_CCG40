@@ -1,0 +1,17 @@
+10675553	biological_process	transport	2
+10675553	biological_process	regulation	1
+10675553	cellular_component	protein	1
+10675553	chemical	ammonium	12
+10675553	chemical	methylammonium	3
+10675553	chemical	protein	2
+10675553	chemical	nitrogen	2
+10675553	gene/protein	atamt2	10
+10675553	gene/protein	amt1	8
+10675553	gene/protein	ammonium transporter	2
+10675553	gene/protein	protein	1
+10675553	organism	Arabidopsis thaliana	2
+10675553	organism	yeast	1
+10675553	sequence	clone	1
+10675553	sequence	protein	1
+10675553	clinical_drug	yeast	1
+10675553	clinical_drug	nitrogen	1

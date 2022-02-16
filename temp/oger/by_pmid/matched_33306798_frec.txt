@@ -1,0 +1,15 @@
+33306798	biological_process	transcription	2
+33306798	biological_process	regulation	2
+33306798	chemical	proteins	1
+33306798	chemical	base	1
+33306798	gene/protein	k12	9
+33306798	molecular_function	transcription factor	1
+33306798	organism	bacterium	14
+33306798	organism	e coli	4
+33306798	organism	Salmonella enterica	2
+33306798	organism	collection	1
+33306798	organism	Escherichia coli k12	1
+33306798	organism	salmonella typhimurium	1
+33306798	organism	salmonella	1
+33306798	sequence	base	1
+33306798	cell_line	k12	2

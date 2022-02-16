@@ -1,0 +1,79 @@
+2959749	biological_process	tricarboxylic acid cycle	2
+2959749	biological_process	biosynthetic process	1
+2959749	biological_process	glutamate biosynthetic process	1
+2959749	chemical	AM132	8
+2959749	chemical	Ammonium Compounds	6
+2959749	chemical	Glutamic Acid	6
+2959749	chemical	Serine	4
+2959749	chemical	Methionine	4
+2959749	chemical	Glycine	4
+2959749	chemical	inhibitor	3
+2959749	chemical	ammonium	3
+2959749	chemical	glutamate(2-)	3
+2959749	chemical	L-glutamic acid	3
+2959749	chemical	glutamate(1-)	3
+2959749	chemical	glutamic acid	3
+2959749	chemical	serine	2
+2959749	chemical	L-serine	2
+2959749	chemical	L-methionine	2
+2959749	chemical	methionine zwitterion	2
+2959749	chemical	methionine	2
+2959749	chemical	glycine	2
+2959749	chemical	glycine zwitterion	2
+2959749	chemical	glycine residue	2
+2959749	chemical	Glutamine	2
+2959749	chemical	tricarboxylic acid	2
+2959749	chemical	Glutamate Dehydrogenase	1
+2959749	chemical	Glutamate-Ammonia Ligase	1
+2959749	chemical	glutamine	1
+2959749	chemical	L-glutamine	1
+2959749	chemical	Glutamate Synthase	1
+2959749	chemical	elemental carbon	1
+2959749	chemical	carbon atom	1
+2959749	chemical	organic acid	1
+2959749	gene/protein	Glutamine synthetase	122
+2959749	gene/protein	Glutamate dehydrogenase	48
+2959749	gene/protein	Glucose 1-dehydrogenase	18
+2959749	gene/protein	Glycerol dehydrogenase	12
+2959749	gene/protein	Glucarate dehydratase	8
+2959749	gene/protein	Glutamate dehydrogenase, mitochondrial	6
+2959749	gene/protein	Glycerate dehydrogenase	6
+2959749	gene/protein	Galactitol 2-dehydrogenase	4
+2959749	gene/protein	Probable glucarate dehydratase	4
+2959749	gene/protein	Glutamate synthase [NADPH] large chain	4
+2959749	gene/protein	Glutamate synthase [NADPH] small chain	4
+2959749	gene/protein	Glycerate dehydrogenase HPR, peroxisomal	2
+2959749	gene/protein	Pyranose dehydrogenase	2
+2959749	gene/protein	Probable glutamate dehydrogenase	2
+2959749	gene/protein	glucarate dehydratase	2
+2959749	gene/protein	GDH/6PGL endoplasmic bifunctional protein	2
+2959749	gene/protein	D-lactate dehydrogenase [cytochrome], mitochondrial (Arabidopsis thaliana)	2
+2959749	gene/protein	Glycerol dehydrogenase 1	2
+2959749	gene/protein	glutamate dehydrogenase, mitochondrial (fruit fly)	2
+2959749	gene/protein	GDH/6PGL endoplasmic bifunctional protein (human)	2
+2959749	gene/protein	glycerol dehydrogenase	2
+2959749	gene/protein	septin-9	2
+2959749	gene/protein	proteoglycan 4	2
+2959749	gene/protein	proteoglycan 4 (mouse)	2
+2959749	gene/protein	proteoglycan 4 (human)	2
+2959749	gene/protein	septin-9 (human)	2
+2959749	gene/protein	glycine receptor subunit alpha-1 (rat)	1
+2959749	gene/protein	Catabolic NAD-specific glutamate dehydrogenase RocG	1
+2959749	gene/protein	glutamine synthetase	1
+2959749	molecular_function	glucose-6-phosphate dehydrogenase activity	2
+2959749	molecular_function	glutamate synthase (NADH) activity	1
+2959749	molecular_function	glutamate synthase (NADPH) activity	1
+2959749	organism	Neurospora crassa	2
+2959749	sequence	sequence_variant_obs	2
+2959749	sequence	serine	2
+2959749	sequence	methionine	2
+2959749	sequence	glutamine	2
+2959749	sequence	glycine	2
+2959749	sequence	intermediate	2
+2959749	sequence	deletion	1
+2959749	sequence	gene	1
+2959749	clinical_drug	Glutamate	5
+2959749	clinical_drug	Serine	2
+2959749	clinical_drug	Methionine	2
+2959749	clinical_drug	Glutamine	2
+2959749	clinical_drug	Glycine	2

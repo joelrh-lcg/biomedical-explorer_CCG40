@@ -1,0 +1,39 @@
+2644201	biological_process	symbiotic process	2
+2644201	biological_process	obsolete mutagenesis	1
+2644201	chemical	Cytochromes	7
+2644201	chemical	cytochrome	7
+2644201	chemical	Electron Transport Complex IV	5
+2644201	chemical	Succinic Acid	2
+2644201	chemical	NAD	2
+2644201	chemical	Oxidoreductases	2
+2644201	chemical	succinate(2-)	1
+2644201	chemical	succinate	1
+2644201	chemical	NADH oxidase	1
+2644201	chemical	succinate oxidase	1
+2644201	chemical	NADH(2-)	1
+2644201	chemical	NADH	1
+2644201	chemical	nitrogen atom	1
+2644201	chemical	nitrogen(.)	1
+2644201	gene/protein	Nitrite reductase	4
+2644201	gene/protein	Fructose-bisphosphate aldolase 2	3
+2644201	gene/protein	cocaine esterase	3
+2644201	gene/protein	Cocaine esterase	3
+2644201	gene/protein	NADH oxidase	3
+2644201	gene/protein	Flavo-diiron protein FprA1	1
+2644201	gene/protein	Flavo-diiron protein FprA2	1
+2644201	molecular_function	electron transporter, transferring electrons within the noncyclic electron transport pathway of photosynthesis activity	12
+2644201	molecular_function	electron transporter, transferring electrons from CoQH2-cytochrome c reductase complex and cytochrome c oxidase complex activity	12
+2644201	molecular_function	electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity	12
+2644201	molecular_function	electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity	12
+2644201	molecular_function	electron transporter, transferring electrons within cytochrome c oxidase complex activity	12
+2644201	molecular_function	obsolete cytochrome	12
+2644201	molecular_function	electron transporter, transferring electrons within CoQH2-cytochrome c reductase complex activity	12
+2644201	organism	Rhizobium phaseoli	2
+2644201	organism	Phaseolus	1
+2644201	sequence	mutated_variant_site	1
+2644201	cell_line	cE2	3
+2644201	cell_line	BTI-Tn-5B1-4	1
+2644201	organ/tissue	pharyngeal arch artery 3	6
+2644201	organ/tissue	cerebellum vermis lobule X	3
+2644201	organ/tissue	germinal center	3
+2644201	clinical_drug	Nitrogen	1

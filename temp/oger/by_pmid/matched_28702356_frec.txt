@@ -1,0 +1,14 @@
+28702356	biological_process	nodulation	1
+28702356	biological_process	nitrogen fixation	1
+28702356	chemical	nitrogen	2
+28702356	gene/protein	bean	3
+28702356	gene/protein	Lima	1
+28702356	organism	Lima bean	1
+28702356	sequence	genome	2
+28702356	sequence	sequence	2
+28702356	sequence	gene	2
+28702356	sequence	accession	1
+28702356	cell_line	Lima	1
+28702356	cell_line	bean	1
+28702356	clinical_drug	Lima bean	1
+28702356	clinical_drug	nitrogen	1

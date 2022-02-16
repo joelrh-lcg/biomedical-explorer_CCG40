@@ -1,0 +1,15 @@
+31580950	biological_process	gene expression	2
+31580950	biological_process	cellular process	1
+31580950	biological_process	biosynthetic process	1
+31580950	cellular_component	intracellular	1
+31580950	cellular_component	ribosome	1
+31580950	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+31580950	gene/protein	protein IMPACT (zebrafish)	1
+31580950	organism	bacterium IFAM-3211	1
+31580950	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+31580950	organism	bacterium IFAM-3215	1
+31580950	organism	bacterium IFAM-2074	1
+31580950	organism	bacterium IFAM-3359	1
+31580950	organism	bacterium	1
+31580950	organism	bacterium IFAM-1493	1
+31580950	sequence	gene	2

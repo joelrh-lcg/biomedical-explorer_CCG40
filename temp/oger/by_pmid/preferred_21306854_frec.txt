@@ -1,0 +1,19 @@
+21306854	chemical	atom	1
+21306854	chemical	base	1
+21306854	organism	Fabaceae	2
+21306854	organism	bacterium IFAM-3211	1
+21306854	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+21306854	organism	bacterium IFAM-3215	1
+21306854	organism	bacterium IFAM-2074	1
+21306854	organism	bacterium IFAM-3359	1
+21306854	organism	bacterium	1
+21306854	organism	bacterium IFAM-1493	1
+21306854	sequence	gene	2
+21306854	sequence	natural_variant_site	2
+21306854	sequence	assembly	1
+21306854	sequence	base	1
+21306854	sequence	region	1
+21306854	organ/tissue	organ	1
+21306854	organ/tissue	cerebellum vermis lobule X	1
+21306854	organ/tissue	germinal center	1
+21306854	entity_type	preferred_term	4

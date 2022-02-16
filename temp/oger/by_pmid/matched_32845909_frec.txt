@@ -1,0 +1,29 @@
+32845909	biological_process	conjugation	2
+32845909	biological_process	formation	1
+32845909	cellular_component	chromosome	1
+32845909	chemical	lactone	1
+32845909	chemical	ahl synthase	1
+32845909	chemical	nutrient	1
+32845909	chemical	ahl	1
+32845909	gene/protein	pret	10
+32845909	gene/protein	trai	4
+32845909	gene/protein	bean	3
+32845909	gene/protein	trar	2
+32845909	gene/protein	ahl synthase	1
+32845909	gene/protein	transcriptional regulator	1
+32845909	gene/protein	ahl	1
+32845909	organism	bacterium	14
+32845909	organism	plasmid	4
+32845909	organism	Rhizobium etli	2
+32845909	organism	CFN42	1
+32845909	organism	Phaseolus vulgari	1
+32845909	organism	cfn42	1
+32845909	sequence	plasmid	4
+32845909	sequence	gene	3
+32845909	sequence	substitute	2
+32845909	sequence	genome	1
+32845909	sequence	chromosome	1
+32845909	sequence	inside	1
+32845909	cell_line	bean	1
+32845909	organ/tissue	nodule	6
+32845909	organ/tissue	exudate	2

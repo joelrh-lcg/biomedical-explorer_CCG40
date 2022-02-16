@@ -1,0 +1,46 @@
+22661980	biological_process	transcription	3
+22661980	biological_process	regulation	2
+22661980	biological_process	response to metal toxicity	1
+22661980	biological_process	biological process	1
+22661980	biological_process	gene expression	1
+22661980	chemical	cadmium	8
+22661980	chemical	mercury	8
+22661980	chemical	copper	6
+22661980	chemical	aluminum	6
+22661980	chemical	mirna	6
+22661980	chemical	auxin	6
+22661980	chemical	zinc	5
+22661980	chemical	manganese	4
+22661980	chemical	cobalt	4
+22661980	chemical	reactive oxygen species	3
+22661980	chemical	iron	2
+22661980	chemical	transact	2
+22661980	chemical	lipid	1
+22661980	chemical	proteins	1
+22661980	chemical	microrna	1
+22661980	chemical	nucleotide	1
+22661980	chemical	noncoding rna	1
+22661980	chemical	base	1
+22661980	chemical	superoxide dismutase	1
+22661980	disease	tcp	1
+22661980	gene/protein	mir	104
+22661980	gene/protein	rna	4
+22661980	gene/protein	tir1	4
+22661980	gene/protein	tcp	3
+22661980	gene/protein	superoxide dismutase	2
+22661980	gene/protein	crop	1
+22661980	gene/protein	CuZn	1
+22661980	molecular_function	transcription factor	3
+22661980	molecular_function	auxin receptor	1
+22661980	sequence	mirna	6
+22661980	sequence	microrna	1
+22661980	sequence	noncoding rna	1
+22661980	sequence	gene	1
+22661980	sequence	base	1
+22661980	sequence	tir	1
+22661980	organ/tissue	crop	1
+22661980	clinical_drug	iron	2
+22661980	clinical_drug	aluminum	2
+22661980	clinical_drug	zinc	1
+22661980	clinical_drug	manganese	1
+22661980	clinical_drug	oxygen	1

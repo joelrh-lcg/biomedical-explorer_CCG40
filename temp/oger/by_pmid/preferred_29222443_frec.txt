@@ -1,0 +1,52 @@
+29222443	biological_process	metabolic process	1
+29222443	biological_process	aerobic respiration	1
+29222443	biological_process	fermentation	1
+29222443	chemical	iron atom	3
+29222443	chemical	alpha-methyl-L-dopa	2
+29222443	chemical	base	2
+29222443	chemical	Soil	2
+29222443	chemical	elemental carbon	2
+29222443	chemical	carbon atom	2
+29222443	chemical	nitrogen atom	2
+29222443	chemical	nitrogen(.)	2
+29222443	chemical	Adenosine Triphosphate	2
+29222443	chemical	acid	1
+29222443	chemical	RNA, Ribosomal, 16S	1
+29222443	chemical	carbohydrate	1
+29222443	chemical	protein	1
+29222443	chemical	ATP(4-)	1
+29222443	chemical	ATP	1
+29222443	chemical	picloram	1
+29222443	chemical	alpha-amino acid	1
+29222443	chemical	amino acid	1
+29222443	chemical	nucleotide	1
+29222443	disease	Glycogen Storage Disease Type II	2
+29222443	gene/protein	S-adenosylmethionine synthase	646
+29222443	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	2
+29222443	gene/protein	AMP deaminase (yeast)	2
+29222443	gene/protein	SAM decarboxylase proenzyme	2
+29222443	gene/protein	S-adenosylmethionine decarboxylase proenzyme (human)	2
+29222443	gene/protein	3,4-dihydroxyphenylacetaldehyde synthase (fruit fly)	2
+29222443	gene/protein	transmembrane protease serine 11D	1
+29222443	gene/protein	Probable S-adenosylmethionine synthase	1
+29222443	gene/protein	Maltose O-acetyltransferase	1
+29222443	gene/protein	S-adenosylmethionine synthetase	1
+29222443	gene/protein	transmembrane protease serine 11D (mouse)	1
+29222443	gene/protein	acetyl-CoA acetyltransferase, mitochondrial (human)	1
+29222443	gene/protein	acetyl-CoA acetyltransferase, mitochondrial	1
+29222443	molecular_function	[acyl-carrier-protein] S-malonyltransferase activity	1
+29222443	organism	Archaea	3
+29222443	organism	Thermoplasmales	3
+29222443	sequence	genome	4
+29222443	sequence	base	2
+29222443	sequence	gene	2
+29222443	sequence	rRNA_16S	1
+29222443	sequence	rRNA_gene	1
+29222443	sequence	syntenic	1
+29222443	sequence	amino_acid	1
+29222443	cell_line	MAT	1
+29222443	organ/tissue	scale	1
+29222443	clinical_drug	Iron	3
+29222443	clinical_drug	Nitrogen	2
+29222443	clinical_drug	Adenosine Triphosphate	1
+29222443	molecular_process	oxidation	1

@@ -1,0 +1,26 @@
+18065619	biological_process	morphogenesis	1
+18065619	biological_process	lysis	1
+18065619	chemical	mitomycin c	3
+18065619	chemical	proteins	2
+18065619	chemical	sp7	2
+18065619	chemical	electron	1
+18065619	chemical	dna circular	1
+18065619	chemical	molecule	1
+18065619	gene/protein	map	6
+18065619	gene/protein	sp7	5
+18065619	organism	phage	6
+18065619	organism	bacteriophage	4
+18065619	organism	Azospirillum	2
+18065619	organism	Siphoviridae	1
+18065619	organism	prophage	1
+18065619	organism	plasmid	1
+18065619	sequence	phage	6
+18065619	sequence	genome	3
+18065619	sequence	bacteriophage	2
+18065619	sequence	signal	2
+18065619	sequence	sequence	2
+18065619	sequence	circular	1
+18065619	sequence	prophage	1
+18065619	sequence	replicon	1
+18065619	sequence	plasmid	1
+18065619	clinical_drug	mitomycin	1

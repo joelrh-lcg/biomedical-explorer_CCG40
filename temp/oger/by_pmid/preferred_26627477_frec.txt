@@ -1,0 +1,31 @@
+26627477	biological_process	biosynthetic process	1
+26627477	biological_process	carbon utilization	1
+26627477	biological_process	glucose transmembrane transport	1
+26627477	cellular_component	intracellular	1
+26627477	chemical	Glucose	4
+26627477	chemical	Phosphoenolpyruvate	2
+26627477	chemical	aldehydo-D-glucose	2
+26627477	chemical	D-glucopyranose	2
+26627477	chemical	glucose	2
+26627477	chemical	elemental carbon	2
+26627477	chemical	carbon atom	2
+26627477	chemical	N-(2-(4-(4-chlorophenyl)piperazin-1-yl)ethyl)-3-methoxybenzamide	2
+26627477	chemical	phosphoenolpyruvic acid	1
+26627477	chemical	phosphoenolpyruvate	1
+26627477	chemical	phosphonatoenolpyruvate	1
+26627477	chemical	picloram	1
+26627477	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+26627477	gene/protein	6-pyruvoyl tetrahydrobiopterin synthase (human)	1
+26627477	gene/protein	probable phenylalanine--tRNA ligase, mitochondrial (fruit fly)	1
+26627477	gene/protein	6-pyruvoyl tetrahydrobiopterin synthase (mouse)	1
+26627477	gene/protein	6-pyruvoyl tetrahydrobiopterin synthase	1
+26627477	gene/protein	6-pyruvoyl tetrahydrobiopterin synthase (rat)	1
+26627477	organism	Escherichia coli	2
+26627477	organism	Plantago princeps	1
+26627477	sequence	clone	1
+26627477	sequence	genome	1
+26627477	sequence	region	1
+26627477	cell_line	RIF-1	1
+26627477	cell_line	PB11	1
+26627477	cell_line	PB13	1
+26627477	clinical_drug	Dextrose, Unspecified Form	2

@@ -1,0 +1,42 @@
+24739628	biological_process	pathogenesis	3
+24739628	biological_process	obsolete virulence	3
+24739628	biological_process	viral process	3
+24739628	cellular_component	extracellular region	1
+24739628	chemical	protein	4
+24739628	chemical	virulence factor	2
+24739628	chemical	pyoverdin	2
+24739628	chemical	rhamnolipid	2
+24739628	chemical	Pyocyanine	2
+24739628	chemical	Proteome	1
+24739628	chemical	molecule	1
+24739628	chemical	pyoverdine	1
+24739628	chemical	pyocyanine	1
+24739628	chemical	pyocyanine(1+)	1
+24739628	disease	Coinfection	4
+24739628	disease	Disease	2
+24739628	gene/protein	Protease	27
+24739628	gene/protein	Endogenous retrovirus group K member 8 Pro protein	1
+24739628	gene/protein	Endogenous retrovirus group K member 7 Pro protein	1
+24739628	gene/protein	Endogenous retrovirus group K member 10 Pro protein	1
+24739628	gene/protein	Endogenous retrovirus group K member 21 Pro protein	1
+24739628	gene/protein	Endogenous retrovirus group K member 19 Pro protein	1
+24739628	gene/protein	Endogenous retrovirus group K member 25 Pro protein	1
+24739628	gene/protein	Endogenous retrovirus group K member 104 Pro protein	1
+24739628	gene/protein	Endogenous retrovirus group K member 113 Pro protein	1
+24739628	gene/protein	Endogenous retrovirus group K member 24 Pro protein	1
+24739628	gene/protein	Endogenous retrovirus group K member 9 Pro protein	1
+24739628	gene/protein	Endogenous retrovirus group K member 6 Pro protein	1
+24739628	gene/protein	Endogenous retrovirus group K member 18 Pro protein	1
+24739628	organism	Pseudomonas aeruginosa	2
+24739628	organism	Candida albicans	1
+24739628	organism	Fungi	1
+24739628	organism	bacterium BE	1
+24739628	organism	Humans	1
+24739628	organism	bacterium IFAM-3211	1
+24739628	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+24739628	organism	bacterium IFAM-3215	1
+24739628	organism	bacterium IFAM-2074	1
+24739628	organism	bacterium IFAM-3359	1
+24739628	organism	bacterium	1
+24739628	organism	bacterium IFAM-1493	1
+24739628	molecular_process	oxidation	1

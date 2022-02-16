@@ -1,0 +1,19 @@
+32363734	biological_process	metaplastic ossification	1
+32363734	disease	Stomach Neoplasms	2
+32363734	disease	Infections	2
+32363734	disease	Gastritis	2
+32363734	disease	Metaplasia	2
+32363734	gene/protein	protein S100-A8	2
+32363734	gene/protein	protein S100-A8 (human)	2
+32363734	gene/protein	protein S100-A8 (mouse)	2
+32363734	gene/protein	cartilage oligomeric matrix protein isoform 1	1
+32363734	gene/protein	nodal protein isoform 1	1
+32363734	organism	Helicobacter pylori	2
+32363734	organism	Humans	1
+32363734	organism	unidentified	1
+32363734	sequence	genome	1
+32363734	sequence	gene	1
+32363734	sequence	score	1
+32363734	cell_line	CAG	1
+32363734	organ/tissue	stomach	1
+32363734	organ/tissue	obsolete metaplastic ossification	1

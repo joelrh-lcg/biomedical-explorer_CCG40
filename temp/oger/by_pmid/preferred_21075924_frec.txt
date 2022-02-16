@@ -1,0 +1,46 @@
+21075924	biological_process	biosynthetic process	1
+21075924	biological_process	cellular metabolic process	1
+21075924	biological_process	gene expression	1
+21075924	biological_process	transcription, DNA-templated	1
+21075924	biological_process	translation	1
+21075924	cellular_component	obsolete protein	3
+21075924	chemical	protein	3
+21075924	chemical	(protein)	3
+21075924	chemical	Arginine	2
+21075924	chemical	Complement System Proteins	1
+21075924	chemical	L-arginine	1
+21075924	chemical	argininium(1+)	1
+21075924	chemical	arginine	1
+21075924	chemical	alpha-amino acid	1
+21075924	chemical	amino acid	1
+21075924	chemical	LAC dye	1
+21075924	chemical	lactose	1
+21075924	gene/protein	bifunctional protein argC, mitochondrial (Dictyostelium discoideum)	8
+21075924	gene/protein	N-acetyl-gamma-glutamyl-phosphate reductase (Staphylococcus aureus subsp. aureus NCTC 8325)	8
+21075924	gene/protein	N-acetyl-gamma-glutamyl-phosphate reductase (Escherichia coli K-12)	8
+21075924	gene/protein	N-acetyl-gamma-glutamyl-phosphate reductase	8
+21075924	gene/protein	protein	3
+21075924	gene/protein	agmatinase (Escherichia coli K-12)	1
+21075924	gene/protein	agmatinase	1
+21075924	gene/protein	lachesin (fruit fly)	1
+21075924	molecular_function	N-acetyl-gamma-aminoadipyl-phosphate reductase activity	8
+21075924	molecular_function	agmatinase activity	1
+21075924	organism	Sinorhizobium meliloti	2
+21075924	organism	Rhizobium etli	2
+21075924	organism	Mesorhizobium loti	2
+21075924	organism	Escherichia coli	2
+21075924	organism	Agrobacterium	1
+21075924	organism	unidentified plasmid	1
+21075924	sequence	orthologous_region	5
+21075924	sequence	gene	5
+21075924	sequence	polypeptide	3
+21075924	sequence	substitution	2
+21075924	sequence	promoter	2
+21075924	sequence	region	2
+21075924	sequence	arginine	1
+21075924	sequence	amino_acid	1
+21075924	sequence	plasmid	1
+21075924	sequence	enzymatic	1
+21075924	sequence	signature	1
+21075924	sequence	orthologous	1
+21075924	clinical_drug	Arginine	1

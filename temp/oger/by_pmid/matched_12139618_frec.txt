@@ -1,0 +1,24 @@
+12139618	biological_process	biosynthesis	3
+12139618	biological_process	behaviour	1
+12139618	cellular_component	membrane	1
+12139618	chemical	lipid	4
+12139618	chemical	amino acid	4
+12139618	chemical	ornithine	4
+12139618	chemical	phospholipid	1
+12139618	chemical	complement	1
+12139618	chemical	acyl donor	1
+12139618	gene/protein	polar	1
+12139618	molecular_function	acyltransferase activity	1
+12139618	organism	bacterium	14
+12139618	organism	Sinorhizobium meliloti	2
+12139618	organism	unknown	1
+12139618	organism	legume	1
+12139618	sequence	gene	4
+12139618	sequence	amino acid	2
+12139618	sequence	cosmid	1
+12139618	sequence	fragment	1
+12139618	sequence	donor	1
+12139618	organ/tissue	membrane	2
+12139618	organ/tissue	nodule	2
+12139618	organ/tissue	organism	1
+12139618	clinical_drug	ornithine	1

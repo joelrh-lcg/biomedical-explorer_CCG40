@@ -1,0 +1,26 @@
+33250866	biological_process	biological regulation	2
+33250866	biological_process	biological_process	1
+33250866	biological_process	nitrogen fixation	1
+33250866	biological_process	symbiotic process	1
+33250866	chemical	nitrogen atom	1
+33250866	chemical	nitrogen(.)	1
+33250866	chemical	beryllium atom	1
+33250866	gene/protein	protein DYAD (Arabidopsis thaliana)	1
+33250866	molecular_function	binding	1
+33250866	organism	Rhizobiales bacterium	1
+33250866	sequence	polypeptide_conserved_motif	9
+33250866	sequence	polypeptide_motif	9
+33250866	sequence	gene	5
+33250866	sequence	region	3
+33250866	sequence	5KB_upstream_variant	2
+33250866	sequence	regulatory_region	1
+33250866	sequence	regulatory_region_variant	1
+33250866	sequence	orthologous	1
+33250866	sequence	promoter	1
+33250866	sequence	non_covalent_binding_site	1
+33250866	sequence	binding_site	1
+33250866	sequence	genome	1
+33250866	sequence	engineered_region	1
+33250866	cell_line	S1E4	1
+33250866	organ/tissue	matrix compartment	4
+33250866	clinical_drug	Nitrogen	1

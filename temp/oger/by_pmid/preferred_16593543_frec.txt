@@ -1,0 +1,26 @@
+16593543	biological_process	obsolete mutagenesis	1
+16593543	biological_process	nitrogen fixation	1
+16593543	biological_process	symbiotic process	1
+16593543	chemical	nitrogenase reductase	2
+16593543	chemical	nucleotide	1
+16593543	chemical	nitrogen atom	1
+16593543	chemical	nitrogen(.)	1
+16593543	gene/protein	Nitrogenase iron protein	174
+16593543	gene/protein	Nitrogenase iron protein 1	30
+16593543	gene/protein	Nitrogenase iron protein 2	26
+16593543	gene/protein	Nitrogenase iron protein 3	4
+16593543	gene/protein	Nitrogenase iron protein 5	2
+16593543	gene/protein	Nitrogenase iron protein 6	2
+16593543	gene/protein	Nitrogenase iron protein 4	2
+16593543	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	2
+16593543	organism	Rhizobium phaseoli	2
+16593543	organism	unidentified plasmid	1
+16593543	organism	unidentified	1
+16593543	organism	Phaseolus	1
+16593543	sequence	gene	4
+16593543	sequence	region	2
+16593543	sequence	CDS	1
+16593543	sequence	plasmid	1
+16593543	sequence	insertion	1
+16593543	sequence	mutated_variant_site	1
+16593543	clinical_drug	Nitrogen	1

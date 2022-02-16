@@ -1,0 +1,81 @@
+16315011	biological_process	transcription, DNA-templated	2
+16315011	biological_process	response to osmotic stress	1
+16315011	cellular_component	obsolete protein	3
+16315011	chemical	Choline	8
+16315011	chemical	choline	4
+16315011	chemical	Betaine	4
+16315011	chemical	protein	3
+16315011	chemical	(protein)	3
+16315011	chemical	glycine betaine	2
+16315011	chemical	sodium chloride	2
+16315011	chemical	Glucose	2
+16315011	chemical	Betaine-Aldehyde Dehydrogenase	1
+16315011	chemical	elemental carbon	1
+16315011	chemical	carbon atom	1
+16315011	chemical	nitrogen atom	1
+16315011	chemical	nitrogen(.)	1
+16315011	chemical	alpha-amino acid	1
+16315011	chemical	amino acid	1
+16315011	chemical	atom	1
+16315011	chemical	aldehydo-D-glucose	1
+16315011	chemical	D-glucopyranose	1
+16315011	chemical	glucose	1
+16315011	chemical	salt	1
+16315011	disease	Infections	4
+16315011	gene/protein	Oxygen-dependent choline dehydrogenase	936
+16315011	gene/protein	NAD/NADP-dependent betaine aldehyde dehydrogenase	784
+16315011	gene/protein	Betaine aldehyde dehydrogenase, chloroplastic	28
+16315011	gene/protein	Betaine aldehyde dehydrogenase	16
+16315011	gene/protein	Aryl-alcohol dehydrogenase	14
+16315011	gene/protein	4-trimethylaminobutyraldehyde dehydrogenase	8
+16315011	gene/protein	Betaine aldehyde dehydrogenase 2, mitochondrial	7
+16315011	gene/protein	Betaine aldehyde dehydrogenase 1, chloroplastic	7
+16315011	gene/protein	Probable betaine aldehyde dehydrogenase	7
+16315011	gene/protein	Alpha-aminoadipic semialdehyde dehydrogenase	4
+16315011	gene/protein	protein	3
+16315011	gene/protein	HTH-type transcriptional regulator BetI (Escherichia coli K-12)	1
+16315011	gene/protein	HTH-type transcriptional regulator BetI	1
+16315011	gene/protein	receptor for activated C kinase 1A (Arabidopsis thaliana)	1
+16315011	gene/protein	aerobic respiration control protein ArcA (Escherichia coli K-12)	1
+16315011	gene/protein	aerobic respiration control protein ArcA	1
+16315011	gene/protein	actin-related protein 2/3 complex subunit 1 (Dictyostelium discoideum)	1
+16315011	gene/protein	arginine deiminase (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+16315011	gene/protein	major vault protein	1
+16315011	gene/protein	leucine-responsive regulatory protein (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	1
+16315011	gene/protein	HTH-type transcriptional regulator Lrp (Halobacterium salinarum R1)	1
+16315011	gene/protein	receptor-type tyrosine-protein phosphatase alpha	1
+16315011	gene/protein	leucine-responsive regulatory protein	1
+16315011	gene/protein	receptor-type tyrosine-protein phosphatase alpha (rat)	1
+16315011	gene/protein	Low-density lipoprotein receptor-related protein	1
+16315011	gene/protein	major vault protein (human)	1
+16315011	gene/protein	light-regulated protein 1, chloroplastic (Arabidopsis thaliana)	1
+16315011	gene/protein	leucine-responsive regulatory protein (Escherichia coli K-12)	1
+16315011	gene/protein	receptor-type tyrosine-protein phosphatase alpha (mouse)	1
+16315011	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+16315011	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+16315011	molecular_function	betaine-aldehyde dehydrogenase activity	1
+16315011	organism	Pseudomonas aeruginosa	2
+16315011	organism	Escherichia coli	2
+16315011	organism	Humans	1
+16315011	organism	bacterium IFAM-3211	1
+16315011	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+16315011	organism	bacterium IFAM-3215	1
+16315011	organism	bacterium IFAM-2074	1
+16315011	organism	bacterium IFAM-3359	1
+16315011	organism	bacterium	1
+16315011	organism	bacterium IFAM-1493	1
+16315011	sequence	polypeptide	3
+16315011	sequence	glycine	2
+16315011	sequence	gene	2
+16315011	sequence	clone	1
+16315011	sequence	amino_acid	1
+16315011	sequence	region	1
+16315011	sequence	promoter	1
+16315011	sequence	operon	1
+16315011	organ/tissue	tissue	1
+16315011	organ/tissue	organ	1
+16315011	clinical_drug	Choline	4
+16315011	clinical_drug	Betaine	3
+16315011	clinical_drug	Glycine	2
+16315011	clinical_drug	Nitrogen	1
+16315011	clinical_drug	Dextrose, Unspecified Form	1

@@ -1,0 +1,30 @@
+32954454	biological_process	phosphorylation	1
+32954454	chemical	glucose	10
+32954454	chemical	carbon	4
+32954454	chemical	element	1
+32954454	chemical	glucose transporter	1
+32954454	disease	is1	1
+32954454	gene/protein	glk	9
+32954454	gene/protein	galp	6
+32954454	gene/protein	rpph	3
+32954454	gene/protein	galR	2
+32954454	gene/protein	snp	2
+32954454	gene/protein	mglb	2
+32954454	gene/protein	yfeo	2
+32954454	gene/protein	rng	2
+32954454	gene/protein	galr	2
+32954454	gene/protein	glucose transporter	1
+32954454	organism	ale	6
+32954454	organism	Escherichia coli	2
+32954454	sequence	mutation	9
+32954454	sequence	gene	3
+32954454	sequence	snp	2
+32954454	sequence	deletion	2
+32954454	sequence	insertion	2
+32954454	sequence	sequence	1
+32954454	sequence	null mutation	1
+32954454	cell_line	pb11	2
+32954454	cell_line	snp	2
+32954454	cell_line	is1	1
+32954454	organ/tissue	element	1
+32954454	clinical_drug	glucose	3

@@ -1,0 +1,29 @@
+25154054	biological_process	developmental process	1
+25154054	biological_process	biological regulation	1
+25154054	cellular_component	chloroplast	5
+25154054	cellular_component	complex laminated body	3
+25154054	cellular_component	obsolete protein	3
+25154054	chemical	protein	7
+25154054	chemical	(protein)	3
+25154054	chemical	clarithromycin	1
+25154054	chemical	conjugated linoleic acid	1
+25154054	gene/protein	protein	3
+25154054	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT (Escherichia coli K-12)	2
+25154054	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT	2
+25154054	gene/protein	G2/mitotic-specific cyclin CLB2 (Candida albicans SC5314)	1
+25154054	gene/protein	G2/mitotic-specific cyclin-2 (yeast)	1
+25154054	gene/protein	collagen alpha-1(IV) chain (worm)	1
+25154054	gene/protein	S-phase entry cyclin-5 (yeast)	1
+25154054	gene/protein	zeta-carotene desaturase, chloroplastic/chromoplastic (Arabidopsis thaliana)	1
+25154054	gene/protein	citramalyl-CoA lyase, mitochondrial	1
+25154054	gene/protein	citramalyl-CoA lyase, mitochondrial (human)	1
+25154054	gene/protein	citramalyl-CoA lyase, mitochondrial (mouse)	1
+25154054	organism	Arabidopsis	2
+25154054	organism	Leiostomus xanthurus	2
+25154054	organism	Arabidopsis thaliana	1
+25154054	sequence	polypeptide	3
+25154054	sequence	gene	2
+25154054	sequence	enzymatic	1
+25154054	cell_line	CLA	1
+25154054	cell_line	JHU001i	1
+25154054	organ/tissue	melanophore spot	2

@@ -1,0 +1,47 @@
+24016735	biological_process	biological regulation	1
+24016735	cellular_component	chromosome	1
+24016735	cellular_component	obsolete protein	1
+24016735	chemical	Adenosine Triphosphate	4
+24016735	chemical	Adenosine Diphosphate	4
+24016735	chemical	ATP(4-)	2
+24016735	chemical	ATP	2
+24016735	chemical	Ala-Asp-Pro	2
+24016735	chemical	ADP	2
+24016735	chemical	ADP(3-)	2
+24016735	chemical	atom	1
+24016735	chemical	protein	1
+24016735	chemical	(protein)	1
+24016735	chemical	Adenosine Triphosphatases	1
+24016735	gene/protein	Replication-associated protein A	105
+24016735	gene/protein	RepFIB replication protein A (Escherichia coli K-12)	13
+24016735	gene/protein	RepFIB replication protein A	13
+24016735	gene/protein	general transcription and DNA repair factor IIH helicase subunit XPB (Dictyostelium discoideum)	6
+24016735	gene/protein	mobilization protein A (Escherichia coli)	6
+24016735	gene/protein	replication regulatory protein repA2 (Shigella flexneri)	6
+24016735	gene/protein	bifunctional glutamate/proline--tRNA ligase (human)	2
+24016735	gene/protein	bifunctional glutamate/proline--tRNA ligase	2
+24016735	gene/protein	Seminal vesicle secretory protein 4	2
+24016735	gene/protein	Adenovirus death protein	2
+24016735	gene/protein	transcriptional repressor PifC (Escherichia coli K-12)	1
+24016735	gene/protein	Repressor c protein	1
+24016735	gene/protein	transcriptional repressor pifC	1
+24016735	gene/protein	Repressor protein c	1
+24016735	gene/protein	protein	1
+24016735	gene/protein	Inorganic triphosphatase	1
+24016735	gene/protein	Triphosphate tunnel metalloenzyme 3	1
+24016735	organism	unidentified plasmid	11
+24016735	organism	Rhizobium etli	3
+24016735	sequence	plasmid	11
+24016735	sequence	operon	5
+24016735	sequence	region	3
+24016735	sequence	operator	3
+24016735	sequence	genome	1
+24016735	sequence	chromosome	1
+24016735	sequence	INR_motif	1
+24016735	sequence	polypeptide	1
+24016735	sequence	polypeptide_conserved_motif	1
+24016735	sequence	polypeptide_motif	1
+24016735	sequence	sequence_variant_obs	1
+24016735	cell_line	REPC	1
+24016735	organ/tissue	organ	1
+24016735	clinical_drug	Adenosine Triphosphate	2

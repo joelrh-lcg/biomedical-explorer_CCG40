@@ -1,0 +1,26 @@
+22065283	biological_process	organophosphate catabolic process	1
+22065283	cellular_component	chromosome	1
+22065283	cellular_component	obsolete protein	1
+22065283	chemical	organophosphorus compound	2
+22065283	chemical	Methyl Parathion	2
+22065283	chemical	pesticide	2
+22065283	chemical	Parathion	2
+22065283	chemical	Phorate	2
+22065283	chemical	parathion-methyl	1
+22065283	chemical	parathion	1
+22065283	chemical	phorate	1
+22065283	chemical	RNA, Ribosomal, 16S	1
+22065283	chemical	protein	1
+22065283	chemical	(protein)	1
+22065283	chemical	nutrient	1
+22065283	gene/protein	protein	1
+22065283	molecular_function	hydrolase activity	1
+22065283	organism	Enterobacter sp.	3
+22065283	organism	unidentified plasmid	1
+22065283	organism	Enterobacter	1
+22065283	sequence	gene	4
+22065283	sequence	rRNA_16S	1
+22065283	sequence	chromosome	1
+22065283	sequence	plasmid	1
+22065283	sequence	engineered_region	1
+22065283	sequence	polypeptide	1

@@ -1,0 +1,3 @@
+31560688	chemical	metabolite	1
+31560688	disease	weight gain	4
+31560688	sequence	gain	2

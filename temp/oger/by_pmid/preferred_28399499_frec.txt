@@ -1,0 +1,36 @@
+28399499	chemical	pentachlorophenol	6
+28399499	chemical	phencyclidine	6
+28399499	chemical	Waste Water	6
+28399499	chemical	Cosmetics	2
+28399499	chemical	fragrance	2
+28399499	chemical	Sewage	2
+28399499	chemical	disinfectant	1
+28399499	chemical	insect repellent	1
+28399499	chemical	ultraviolet filter	1
+28399499	chemical	hormone	1
+28399499	chemical	antiseptic drug	1
+28399499	chemical	molecule	1
+28399499	gene/protein	Bone morphogenetic protein 1	12
+28399499	gene/protein	bone morphogenetic protein 1	6
+28399499	gene/protein	pupal cuticle protein (fruit fly)	6
+28399499	gene/protein	Peridinin-chlorophyll a-binding protein	6
+28399499	gene/protein	Peridinin-chlorophyll a-binding protein 2, chloroplastic	6
+28399499	gene/protein	lysosomal Pro-X carboxypeptidase (human)	6
+28399499	gene/protein	Peridinin-chlorophyll a-binding protein, chloroplastic	6
+28399499	gene/protein	Peridinin-chlorophyll a-binding protein 1, chloroplastic	6
+28399499	gene/protein	lysosomal Pro-X carboxypeptidase	6
+28399499	gene/protein	Probable acyl carrier protein PigG	6
+28399499	gene/protein	Peridinin-chlorophyll a-binding protein 3	6
+28399499	gene/protein	paracaspase (Dictyostelium discoideum)	6
+28399499	gene/protein	pyrrolidone-carboxylate peptidase (Staphylococcus aureus subsp. aureus NCTC 8325)	6
+28399499	gene/protein	Synaptosomal-associated protein 25	5
+28399499	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+28399499	gene/protein	protein IMPACT (zebrafish)	1
+28399499	gene/protein	receptor tyrosine-protein kinase erbB-2 (human)	1
+28399499	gene/protein	receptor tyrosine-protein kinase erbB-2	1
+28399499	gene/protein	transcriptional regulator SUPERMAN (Arabidopsis thaliana)	1
+28399499	gene/protein	synaptosomal-associated protein 25	1
+28399499	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+28399499	molecular_function	obsolete serine-type Pro-X carboxypeptidase activity	6
+28399499	molecular_function	peptidyl carrier protein activity	6
+28399499	organ/tissue	matrix compartment	1

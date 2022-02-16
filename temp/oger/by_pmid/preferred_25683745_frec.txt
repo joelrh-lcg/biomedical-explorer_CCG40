@@ -1,0 +1,15 @@
+25683745	biological_process	biological regulation	2
+25683745	biological_process	transcription, DNA-templated	1
+25683745	biological_process	gene expression	1
+25683745	biological_process	signaling	1
+25683745	chemical	Tris(1-aziridinyl)phosphine oxide	4
+25683745	chemical	ampicilloyl group	4
+25683745	chemical	effector	1
+25683745	chemical	protein	1
+25683745	chemical	dimethoxymethane	1
+25683745	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+25683745	organism	Escherichia coli	4
+25683745	organism	Humans	2
+25683745	organism	unidentified	1
+25683745	sequence	gene	2
+25683745	organ/tissue	digestive tract	2

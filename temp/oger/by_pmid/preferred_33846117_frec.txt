@@ -1,0 +1,28 @@
+33846117	biological_process	biofilm formation	3
+33846117	biological_process	signaling	2
+33846117	biological_process	swimming	1
+33846117	biological_process	social behavior	1
+33846117	cellular_component	biofilm matrix	1
+33846117	chemical	bis(3',5')-cyclic diguanylic acid	14
+33846117	chemical	c-di-GMP	7
+33846117	chemical	deoxythymidylyl-3'-5'-deoxyadenylate	4
+33846117	chemical	monophosphate	1
+33846117	chemical	base	1
+33846117	chemical	protein	1
+33846117	disease	Pyridoxine-dependent epilepsy	4
+33846117	gene/protein	Venom phosphodiesterase	8
+33846117	gene/protein	Multifunctional alkaline phosphatase superfamily protein pRL90232	4
+33846117	gene/protein	Multifunctional alkaline phosphatase superfamily protein PehA	4
+33846117	gene/protein	Venom phosphodiesterase 2	4
+33846117	gene/protein	Venom phosphodiesterase 1	4
+33846117	gene/protein	protein POLAR LOCALIZATION DURING ASYMMETRIC DIVISION AND REDISTRIBUTION (Arabidopsis thaliana)	1
+33846117	molecular_function	phosphoric diester hydrolase activity	4
+33846117	molecular_function	3',5'-cyclic-nucleotide phosphodiesterase activity	4
+33846117	organism	Vibrio parahaemolyticus	2
+33846117	sequence	promoter	2
+33846117	sequence	gene	2
+33846117	sequence	transit_peptide	1
+33846117	sequence	transition	1
+33846117	sequence	base	1
+33846117	sequence	region	1
+33846117	organ/tissue	matrix compartment	1

@@ -1,0 +1,12 @@
+28475624	chemical	cluster	1
+28475624	chemical	impurity	1
+28475624	chemical	reagent	1
+28475624	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+28475624	organism	Arthropods	3
+28475624	organism	Proteobacteria	2
+28475624	sequence	reagent	1
+28475624	organ/tissue	multicellular organism	2
+28475624	organ/tissue	animal hemisphere	1
+28475624	organ/tissue	digestive tract	1
+28475624	organ/tissue	lower digestive tract	1
+28475624	organ/tissue	digestive system	1

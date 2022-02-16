@@ -1,0 +1,8 @@
+31580950	biological_process	gene expression	2
+31580950	biological_process	cell physiology	1
+31580950	biological_process	synthesis	1
+31580950	cellular_component	intracellular	1
+31580950	cellular_component	ribosome	1
+31580950	gene/protein	impact	2
+31580950	organism	bacterium	7
+31580950	sequence	gene	2

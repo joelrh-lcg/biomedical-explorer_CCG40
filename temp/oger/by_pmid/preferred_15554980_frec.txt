@@ -1,0 +1,49 @@
+15554980	biological_process	transcription, DNA-templated	1
+15554980	cellular_component	obsolete protein	1
+15554980	chemical	protein	3
+15554980	chemical	RNA, Antisense	3
+15554980	chemical	(protein)	1
+15554980	chemical	atom	1
+15554980	chemical	DNA, Intergenic	1
+15554980	chemical	Untranslated Regions	1
+15554980	gene/protein	Replication-associated protein A	15
+15554980	gene/protein	transcriptional repressor PifC (Escherichia coli K-12)	5
+15554980	gene/protein	Repressor c protein	5
+15554980	gene/protein	transcriptional repressor pifC	5
+15554980	gene/protein	Repressor protein c	5
+15554980	gene/protein	ribonuclease I (Escherichia coli K-12)	4
+15554980	gene/protein	ribonuclease I	4
+15554980	gene/protein	RepFIB replication protein A (Escherichia coli K-12)	2
+15554980	gene/protein	RepFIB replication protein A	2
+15554980	gene/protein	protein	1
+15554980	gene/protein	general transcription and DNA repair factor IIH helicase subunit XPB (Dictyostelium discoideum)	1
+15554980	gene/protein	mobilization protein A (Escherichia coli)	1
+15554980	gene/protein	replication regulatory protein repA2 (Shigella flexneri)	1
+15554980	gene/protein	nucleoporin Nup43	1
+15554980	gene/protein	peroxidase 42 (Arabidopsis thaliana)	1
+15554980	gene/protein	Capsid protein	1
+15554980	gene/protein	Glutamine synthetase	1
+15554980	gene/protein	Movement protein TGB1	1
+15554980	gene/protein	Nucleoporin Nup43	1
+15554980	gene/protein	Transcription initiation factor TFIID subunit 9	1
+15554980	gene/protein	tRNA-aminoacylation cofactor ARC1	1
+15554980	molecular_function	obsolete antisense RNA	3
+15554980	organism	Rhizobium etli	2
+15554980	organism	Plasmid p42d	1
+15554980	organism	unidentified plasmid	1
+15554980	sequence	region	3
+15554980	sequence	antisense_RNA	3
+15554980	sequence	operon	2
+15554980	sequence	plasmid	2
+15554980	sequence	replicon	1
+15554980	sequence	INR_motif	1
+15554980	sequence	polypeptide	1
+15554980	sequence	intergenic_variant	1
+15554980	sequence	constitutive_promoter	1
+15554980	sequence	transcript	1
+15554980	sequence	UTR	1
+15554980	sequence	5KB_upstream_variant	1
+15554980	sequence	polypeptide_secondary_structure	1
+15554980	sequence	terminator	1
+15554980	cell_line	REPC	5
+15554980	organ/tissue	organ	1

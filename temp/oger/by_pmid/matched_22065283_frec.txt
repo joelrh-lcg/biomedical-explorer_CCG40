@@ -1,0 +1,23 @@
+22065283	biological_process	Organophosphate degradation	1
+22065283	cellular_component	chromosome	1
+22065283	cellular_component	protein	1
+22065283	chemical	methylparathion	3
+22065283	chemical	parathion	3
+22065283	chemical	phorate	3
+22065283	chemical	organophosphorus compound	2
+22065283	chemical	pesticide	2
+22065283	chemical	protein	2
+22065283	chemical	16s rrna	1
+22065283	chemical	nutrient	1
+22065283	gene/protein	protein	1
+22065283	molecular_function	hydrolase activity	1
+22065283	organism	Enterobacter sp	2
+22065283	organism	enterobacter sp	1
+22065283	organism	plasmid	1
+22065283	organism	Enterobacter	1
+22065283	sequence	gene	4
+22065283	sequence	16s rrna	1
+22065283	sequence	chromosome	1
+22065283	sequence	plasmid	1
+22065283	sequence	construct	1
+22065283	sequence	protein	1

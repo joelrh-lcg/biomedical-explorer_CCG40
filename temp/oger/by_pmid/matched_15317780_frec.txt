@@ -1,0 +1,25 @@
+15317780	biological_process	false	2
+15317780	biological_process	regulation	1
+15317780	biological_process	gene expression	1
+15317780	chemical	donor	2
+15317780	chemical	Brom	1
+15317780	chemical	cluster	1
+15317780	gene/protein	mob	30
+15317780	gene/protein	tra	6
+15317780	gene/protein	traa	4
+15317780	gene/protein	Sym	1
+15317780	organism	plasmid	4
+15317780	organism	CFN42	3
+15317780	organism	Rhizobium etli	2
+15317780	organism	Sym plasmid	1
+15317780	sequence	plasmid	5
+15317780	sequence	gene	5
+15317780	sequence	genome	2
+15317780	sequence	orit	1
+15317780	sequence	clone	1
+15317780	sequence	oriT	1
+15317780	sequence	cosmid	1
+15317780	sequence	donor	1
+15317780	sequence	open reading frame	1
+15317780	sequence	downstream	1
+15317780	cell_line	mob	10

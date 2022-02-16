@@ -1,0 +1,27 @@
+33232849	biological_process	nitrogen fixation	2
+33232849	biological_process	nodulation	1
+33232849	biological_process	symbiosis	1
+33232849	chemical	nitrogen	4
+33232849	chemical	16s rrna	2
+33232849	chemical	pgi	1
+33232849	gene/protein	pgi	619
+33232849	gene/protein	rpob	14
+33232849	gene/protein	glna	3
+33232849	gene/protein	add	3
+33232849	gene/protein	crop	1
+33232849	organism	clover	4
+33232849	organism	Rhizobium aegyptiacum	2
+33232849	organism	rhizobium aethiopicum	2
+33232849	organism	Rhizobium leguminosarum	2
+33232849	organism	Phaseolus vulgaris	2
+33232849	organism	legume	1
+33232849	organism	Agrobacterium	1
+33232849	organism	vicia	1
+33232849	sequence	allele	3
+33232849	sequence	16s rrna	2
+33232849	sequence	gene	2
+33232849	sequence	rflp	1
+33232849	organ/tissue	nodule	6
+33232849	organ/tissue	animal	2
+33232849	organ/tissue	crop	1
+33232849	clinical_drug	nitrogen	2

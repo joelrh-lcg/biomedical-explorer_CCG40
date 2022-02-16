@@ -1,0 +1,19 @@
+26214613	biological_process	nodulation	1
+26214613	chemical	16s rrna	1
+26214613	gene/protein	spp	64
+26214613	gene/protein	reca	14
+26214613	gene/protein	noda	1
+26214613	gene/protein	nifh	1
+26214613	molecular_function	spp	4
+26214613	organism	Mimosa	6
+26214613	organism	betaproteobacteria	3
+26214613	organism	legume	1
+26214613	organism	Burkholderia	1
+26214613	organism	alphaproteobacteria	1
+26214613	organism	Rhizobium	1
+26214613	sequence	16s rrna	1
+26214613	sequence	gene	1
+26214613	cell_line	c 100	1
+26214613	cell_line	reca	1
+26214613	cell_line	noda	1
+26214613	organ/tissue	nodule	4

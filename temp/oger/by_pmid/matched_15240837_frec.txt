@@ -1,0 +1,6 @@
+15240837	chemical	codon	1
+15240837	gene/protein	alien	1
+15240837	sequence	gene	4
+15240837	sequence	genome	3
+15240837	sequence	foreign gene	2
+15240837	sequence	codon	1

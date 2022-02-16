@@ -1,0 +1,6 @@
+23405288	gene/protein	smr1	5
+23405288	organism	rudivirus	1
+23405288	organism	Sulfolobales Mexican rudivirus 1	1
+23405288	sequence	sequence	2
+23405288	sequence	consensus	1
+23405288	sequence	genome	1

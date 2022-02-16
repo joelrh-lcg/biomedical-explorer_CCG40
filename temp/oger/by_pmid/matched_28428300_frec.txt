@@ -1,0 +1,14 @@
+28428300	disease	infection	2
+28428300	gene/protein	spp	32
+28428300	gene/protein	sub	2
+28428300	molecular_function	spp	2
+28428300	organism	bacterium	7
+28428300	organism	mammal	1
+28428300	organism	arthropod	1
+28428300	organism	vertebrate	1
+28428300	organism	invertebrate	1
+28428300	sequence	genome	1
+28428300	sequence	sequence	1
+28428300	sequence	contig	1
+28428300	organ/tissue	intestinal tract	2
+28428300	organ/tissue	animal	2

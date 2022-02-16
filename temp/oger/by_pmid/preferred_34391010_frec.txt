@@ -1,0 +1,4 @@
+34391010	chemical	granite	4
+34391010	chemical	Waste Water	2
+34391010	chemical	atom	1
+34391010	organ/tissue	organ	1

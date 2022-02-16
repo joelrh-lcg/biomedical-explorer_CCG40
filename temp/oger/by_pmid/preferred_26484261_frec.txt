@@ -1,0 +1,18 @@
+26484261	biological_process	transcription, DNA-templated	1
+26484261	chemical	asphaltene	6
+26484261	chemical	Petroleum	2
+26484261	chemical	asphalt	2
+26484261	chemical	elemental carbon	2
+26484261	chemical	carbon atom	2
+26484261	gene/protein	Protein STPG4	2
+26484261	gene/protein	Glutamyl endopeptidase	1
+26484261	gene/protein	protein STPG4	1
+26484261	gene/protein	Squalene monooxygenase SE1	1
+26484261	organism	Aspergillus fischeri	2
+26484261	organism	Fungi	1
+26484261	sequence	gene	2
+26484261	sequence	genome	1
+26484261	sequence	databank_entry	1
+26484261	cell_line	GEO	1
+26484261	cell_line	GSE	1
+26484261	organ/tissue	plantar part of pes	1

@@ -1,0 +1,11 @@
+11976134	chemical	genetic marker	2
+11976134	organism	plasmid	5
+11976134	organism	Rhizobium etli	4
+11976134	organism	Rhizobium gallicum	2
+11976134	organism	Rhizobium giardinii	2
+11976134	organism	Rhizobium leguminosarum	2
+11976134	organism	sinorhizobium fredii	2
+11976134	organism	cfn42	1
+11976134	sequence	plasmid	5
+11976134	sequence	genetic marker	1
+11976134	sequence	gene	1

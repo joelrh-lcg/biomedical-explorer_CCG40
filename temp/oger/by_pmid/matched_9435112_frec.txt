@@ -1,0 +1,20 @@
+9435112	biological_process	transcription	3
+9435112	chemical	pyruvate	12
+9435112	chemical	oxaloacetate	4
+9435112	chemical	succinate	4
+9435112	chemical	biotin	4
+9435112	chemical	glycerol	3
+9435112	chemical	carbon	2
+9435112	chemical	pyruvate carboxylase	1
+9435112	chemical	ce3	1
+9435112	chemical	organic acid	1
+9435112	gene/protein	pyc	21
+9435112	gene/protein	pyruvate carboxylase	9
+9435112	gene/protein	bean	3
+9435112	organism	Rhizobium etli	2
+9435112	sequence	gene fusion	1
+9435112	cell_line	ce3	1
+9435112	cell_line	bean	1
+9435112	organ/tissue	nodule	2
+9435112	clinical_drug	pyruvate	5
+9435112	clinical_drug	biotin	1

@@ -1,0 +1,31 @@
+31626639	biological_process	virulence	3
+31626639	biological_process	morphogenesis	1
+31626639	biological_process	plasmid maintenance	1
+31626639	cellular_component	host cell	1
+31626639	chemical	MDR	2
+31626639	chemical	nucleotide	2
+31626639	chemical	synthetase	1
+31626639	gene/protein	p75	13
+31626639	gene/protein	glns	9
+31626639	gene/protein	pcr	8
+31626639	gene/protein	lack	2
+31626639	gene/protein	p89	1
+31626639	molecular_function	MDR	2
+31626639	organism	plasmid	8
+31626639	organism	prophage	7
+31626639	organism	salmonella enterica	2
+31626639	organism	Salmonella	1
+31626639	organism	pstv	1
+31626639	organism	phage	1
+31626639	organism	salmonella	1
+31626639	sequence	plasmid	8
+31626639	sequence	prophage	7
+31626639	sequence	sequence	4
+31626639	sequence	variant	3
+31626639	sequence	gene	3
+31626639	sequence	genotype	2
+31626639	sequence	genome	2
+31626639	sequence	homologous	1
+31626639	sequence	phage	1
+31626639	sequence	inversion	1
+31626639	organ/tissue	tail	6

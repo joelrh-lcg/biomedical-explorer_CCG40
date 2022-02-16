@@ -1,0 +1,17 @@
+30115066	biological_process	regulation of gene expression	1
+30115066	biological_process	transcription	1
+30115066	biological_process	gene expression	1
+30115066	chemical	base	1
+30115066	gene/protein	era	3
+30115066	gene/protein	deepest	2
+30115066	gene/protein	as Escherichia coli K12	1
+30115066	molecular_function	binding	1
+30115066	molecular_function	transcription factor	1
+30115066	organism	Escherichia coli K12	1
+30115066	sequence	gene	2
+30115066	sequence	binding	2
+30115066	sequence	genome	1
+30115066	sequence	gain	1
+30115066	sequence	base	1
+30115066	cell_line	K12	2
+30115066	organ/tissue	organism	1

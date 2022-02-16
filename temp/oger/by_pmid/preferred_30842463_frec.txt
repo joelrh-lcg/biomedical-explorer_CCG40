@@ -1,0 +1,17 @@
+30842463	chemical	base	1
+30842463	disease	Disease Attributes	2
+30842463	gene/protein	progranulin (rat)	5
+30842463	gene/protein	apelin receptor B (zebrafish)	5
+30842463	gene/protein	granulin (Dictyostelium discoideum)	5
+30842463	gene/protein	progranulin	5
+30842463	gene/protein	GATA-binding factor C (fruit fly)	5
+30842463	gene/protein	progranulin (human)	5
+30842463	gene/protein	progranulin (mouse)	5
+30842463	gene/protein	ELAV-like protein 2	4
+30842463	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+30842463	gene/protein	ELAV-like protein 2 (mouse)	1
+30842463	gene/protein	ELAV-like protein 2 (human)	1
+30842463	gene/protein	ELAV-like protein 2 (rat)	1
+30842463	sequence	base	1
+30842463	organ/tissue	multicellular organism	1
+30842463	organ/tissue	primitive knot	1

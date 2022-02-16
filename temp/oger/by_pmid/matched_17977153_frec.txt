@@ -1,0 +1,33 @@
+17977153	biological_process	formation	2
+17977153	biological_process	biosynthesis	1
+17977153	cellular_component	membrane	1
+17977153	chemical	LPG	3
+17977153	chemical	Lysylphosphatidylglycerol	2
+17977153	chemical	lipid	2
+17977153	chemical	lpg	2
+17977153	chemical	polymyxin b	2
+17977153	chemical	peptide	1
+17977153	disease	LPG	3
+17977153	disease	lpg	2
+17977153	gene/protein	mprf	3
+17977153	gene/protein	peptide	2
+17977153	organism	bacterium	14
+17977153	organism	Staphylococcus aureus	2
+17977153	organism	Rhizobium tropici	2
+17977153	organism	Escherichia coli	2
+17977153	organism	Sinorhizobium meliloti	2
+17977153	organism	alphaproteobacteria	1
+17977153	organism	Sinorhizobium	1
+17977153	organism	yeast	1
+17977153	sequence	gene	4
+17977153	sequence	homolog	2
+17977153	sequence	sequence	1
+17977153	sequence	genome	1
+17977153	sequence	delete	1
+17977153	sequence	peptide	1
+17977153	sequence	wild type	1
+17977153	organ/tissue	membrane	2
+17977153	organ/tissue	organism	1
+17977153	clinical_drug	yeast	1
+17977153	clinical_drug	polymyxin b	1
+17977153	entity_type	term	2

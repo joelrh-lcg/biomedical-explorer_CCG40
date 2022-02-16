@@ -1,0 +1,29 @@
+3584072	biological_process	nodulation	1
+3584072	biological_process	symbiotic process	1
+3584072	biological_process	biosynthetic process	1
+3584072	cellular_component	amyloplast	1
+3584072	chemical	Acetylene	4
+3584072	chemical	acetylene	2
+3584072	chemical	Nitrogenase	1
+3584072	chemical	nitrogen atom	1
+3584072	chemical	nitrogen(.)	1
+3584072	gene/protein	Protein BEAN1	2
+3584072	gene/protein	protein BEAN	1
+3584072	gene/protein	symplekin (fruit fly)	1
+3584072	organism	unidentified plasmid	8
+3584072	organism	Rhizobium leucaenae	3
+3584072	organism	Rhizobium phaseoli	2
+3584072	organism	Phaseolus	1
+3584072	organism	Phaseolus vulgaris	1
+3584072	organism	Leucaena esculenta	1
+3584072	organism	Agrobacterium	1
+3584072	organism	Sym plasmid	1
+3584072	organism	unidentified	1
+3584072	organism	Rhizobium	1
+3584072	sequence	plasmid	9
+3584072	sequence	gene	1
+3584072	cell_line	R1192	1
+3584072	organ/tissue	cerebellum vermis lobule X	7
+3584072	organ/tissue	germinal center	7
+3584072	clinical_drug	Nitrogen	1
+3584072	molecular_process	acetylene reduction	1

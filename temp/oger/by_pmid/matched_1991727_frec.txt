@@ -1,0 +1,8 @@
+1991727	chemical	mixture	1
+1991727	organism	plasmid	3
+1991727	organism	Rhizobium leguminosarum	2
+1991727	organism	CFN42	1
+1991727	sequence	plasmid	3
+1991727	sequence	sequence	1
+1991727	sequence	deletion	1
+1991727	sequence	genome	1

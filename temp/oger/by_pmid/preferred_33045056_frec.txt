@@ -1,0 +1,53 @@
+33045056	biological_process	biological regulation	3
+33045056	biological_process	gene expression	1
+33045056	chemical	argipressin	7
+33045056	chemical	vasopressin	7
+33045056	chemical	MicroRNAs	5
+33045056	chemical	Alcohol Dehydrogenase	1
+33045056	chemical	Superoxide Dismutase-1	1
+33045056	disease	DIARRHEA 8, SECRETORY SODIUM, CONGENITAL	1
+33045056	disease	Diarrhea 3, Secretory Sodium, Congenital	1
+33045056	gene/protein	E3 ubiquitin-protein ligase MYLIP	56
+33045056	gene/protein	Alcohol dehydrogenase 1	56
+33045056	gene/protein	Superoxide dismutase [Cu-Zn]	20
+33045056	gene/protein	MLX-interacting protein	14
+33045056	gene/protein	MLX-interacting protein (human)	14
+33045056	gene/protein	E3 ubiquitin-protein ligase MARCH8 (mouse)	14
+33045056	gene/protein	Miraculin	14
+33045056	gene/protein	Insulin-like receptor	14
+33045056	gene/protein	E3 ubiquitin-protein ligase MARCH8 (human)	14
+33045056	gene/protein	MLX-interacting protein (mouse)	14
+33045056	gene/protein	E3 ubiquitin-protein ligase MARCH8	14
+33045056	gene/protein	E3 ubiquitin-protein ligase MYLIP-A (zebrafish)	14
+33045056	gene/protein	Long-chain-alcohol dehydrogenase 1	8
+33045056	gene/protein	alcohol dehydrogenase 1	8
+33045056	gene/protein	alcohol dehydrogenase (Schizosaccharomyces pombe 972h-)	7
+33045056	gene/protein	alcohol dehydrogenase 1A (human)	7
+33045056	gene/protein	alcohol dehydrogenase class-P (Arabidopsis thaliana)	7
+33045056	gene/protein	Alcohol dehydrogenase 2	7
+33045056	gene/protein	alcohol dehydrogenase 1 (rat)	7
+33045056	gene/protein	alcohol dehydrogenase 1 (yeast)	7
+33045056	gene/protein	alcohol dehydrogenase 1 (chicken)	7
+33045056	gene/protein	alcohol dehydrogenase 1A	7
+33045056	gene/protein	alcohol dehydrogenase 1 (mouse)	7
+33045056	gene/protein	cartilage oligomeric matrix protein isoform 1	2
+33045056	gene/protein	nodal protein isoform 1	2
+33045056	gene/protein	superoxide dismutase [Cu-Zn] 1 (Arabidopsis thaliana)	1
+33045056	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+33045056	molecular_function	alanopine dehydrogenase activity	7
+33045056	molecular_function	alcohol dehydrogenase (NAD+) activity	7
+33045056	organism	Fabaceae	2
+33045056	organism	Eukaryota	1
+33045056	organism	Phaseolus	1
+33045056	organism	Humans	1
+33045056	sequence	gene	11
+33045056	sequence	miRNA	4
+33045056	sequence	region	2
+33045056	sequence	dicistronic	1
+33045056	sequence	transcript	1
+33045056	sequence	genome	1
+33045056	sequence	miRNA_gene	1
+33045056	sequence	polycistronic_gene	1
+33045056	sequence	duplication	1
+33045056	organ/tissue	crop	1
+33045056	clinical_drug	Ethanol	1

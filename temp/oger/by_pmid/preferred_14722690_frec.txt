@@ -1,0 +1,33 @@
+14722690	biological_process	nitrogen fixation	2
+14722690	biological_process	fertilization	2
+14722690	chemical	nitrogen atom	4
+14722690	chemical	nitrogen(.)	4
+14722690	chemical	PAL	3
+14722690	gene/protein	Peptidoglycan-associated lipoprotein	32
+14722690	gene/protein	Phenylalanine ammonia-lyase	6
+14722690	gene/protein	E3 ubiquitin-protein ligase ZSWIM2	4
+14722690	gene/protein	E3 ubiquitin-protein ligase Zswim2	2
+14722690	gene/protein	leucine-rich repeat, immunoglobulin-like domain and transmembrane domain-containing protein 1 (rat)	2
+14722690	gene/protein	leucine-rich repeat, immunoglobulin-like domain and transmembrane domain-containing protein 1	2
+14722690	gene/protein	SHC SH2 domain-binding protein 1	2
+14722690	gene/protein	peptidyl-alpha-hydroxyglycine alpha-amidating lyase 2 (fruit fly)	2
+14722690	gene/protein	Probable peptidyl-alpha-hydroxyglycine alpha-amidating lyase pgal-1	2
+14722690	gene/protein	leucine-rich repeat, immunoglobulin-like domain and transmembrane domain-containing protein 1 (mouse)	2
+14722690	gene/protein	leucine-rich repeat, immunoglobulin-like domain and transmembrane domain-containing protein 1 (human)	2
+14722690	gene/protein	peptidoglycan-associated lipoprotein	2
+14722690	gene/protein	peptidoglycan-associated lipoprotein (Escherichia coli K-12)	2
+14722690	gene/protein	SHC SH2 domain-binding protein 1 (mouse)	2
+14722690	gene/protein	phenylalanine ammonia-lyase 3 (Arabidopsis thaliana)	1
+14722690	gene/protein	pH-response regulator protein palF/RIM8 (yeast)	1
+14722690	molecular_function	peptidylamidoglycolate lyase activity	3
+14722690	organism	Saccharum	9
+14722690	organism	Saccharum officinarum	9
+14722690	organism	Saccharum hybrid cultivar	9
+14722690	organism	Gluconacetobacter diazotrophicus	3
+14722690	organism	bacterium BE	1
+14722690	organism	unidentified	1
+14722690	sequence	genotype	3
+14722690	sequence	cytoplasmic_polypeptide_region	1
+14722690	clinical_drug	sugarcane extract	9
+14722690	clinical_drug	Saccharum officinarum allergenic extract	9
+14722690	clinical_drug	Nitrogen	4

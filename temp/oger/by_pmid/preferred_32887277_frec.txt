@@ -1,0 +1,23 @@
+32887277	cellular_component	obsolete soluble fraction	2
+32887277	chemical	Phosphorus	4
+32887277	chemical	phosphorus(.)	2
+32887277	chemical	phosphorus atom	2
+32887277	chemical	tetraphosphorus	2
+32887277	chemical	Phosphates	2
+32887277	chemical	macronutrient	1
+32887277	chemical	phosphate	1
+32887277	chemical	phosphate)	1
+32887277	chemical	phosphate ion	1
+32887277	chemical	phosphate(3-)	1
+32887277	chemical	phosphoric acid	1
+32887277	chemical	hydrogenphosphate	1
+32887277	chemical	organic acid	1
+32887277	gene/protein	SH2B adapter protein 1	3
+32887277	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+32887277	gene/protein	glutamate carboxypeptidase 2 (human)	1
+32887277	gene/protein	Glutamate carboxypeptidase 2	1
+32887277	gene/protein	glutamate carboxypeptidase 2	1
+32887277	cell_line	PSM-1	1
+32887277	organ/tissue	crop	1
+32887277	organ/tissue	magnocellular superficial pretectal nucleus	1
+32887277	organ/tissue	presomitic mesoderm	1

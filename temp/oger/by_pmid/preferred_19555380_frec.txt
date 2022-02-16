@@ -1,0 +1,68 @@
+19555380	biological_process	symbiotic process	2
+19555380	cellular_component	root hair	1
+19555380	chemical	RNA, Ribosomal, 16S	1
+19555380	chemical	photon	1
+19555380	chemical	electron	1
+19555380	gene/protein	Streptopain	14
+19555380	gene/protein	kinesin-like protein Nod (fruit fly)	2
+19555380	gene/protein	minor histocompatibility antigen H13	2
+19555380	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	2
+19555380	gene/protein	Sucrose 6(F)-phosphate phosphorylase	2
+19555380	gene/protein	sphingosine-1-phosphate phosphatase 1	2
+19555380	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	2
+19555380	gene/protein	minor histocompatibility antigen H13 (human)	2
+19555380	gene/protein	sphingosine-1-phosphate phosphatase	2
+19555380	gene/protein	Sphingosine-1-phosphate phosphatase 1	2
+19555380	gene/protein	SD07518p (fruit fly)	2
+19555380	gene/protein	DNA-directed RNA polymerase subunit beta (Thermus thermophilus HB8)	1
+19555380	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis ATCC 23445)	1
+19555380	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus 2308)	1
+19555380	gene/protein	DNA-directed RNA polymerase subunit beta (Escherichia coli K-12)	1
+19555380	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella canis ATCC 23365)	1
+19555380	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella ovis ATCC 25840)	1
+19555380	gene/protein	DNA-directed RNA polymerase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+19555380	gene/protein	DNA-directed RNA polymerase subunit beta (Peptoclostridium difficile 630)	1
+19555380	gene/protein	DNA-directed RNA polymerase subunit beta (Clostridium botulinum A str. Hall)	1
+19555380	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella melitensis ATCC 23457)	1
+19555380	gene/protein	DNA-directed RNA polymerase subunit beta	1
+19555380	gene/protein	DNA-directed RNA polymerase subunit beta (Arabidopsis thaliana)	1
+19555380	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis 1330)	1
+19555380	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus bv. 1 str. 9-941)	1
+19555380	gene/protein	elongation factor G	1
+19555380	gene/protein	elongation factor G (Clostridium botulinum A str. Hall)	1
+19555380	gene/protein	cell surface glycoprotein gp138A (Dictyostelium discoideum)	1
+19555380	gene/protein	elongation factor G (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+19555380	gene/protein	elongation factor G (Escherichia coli K-12)	1
+19555380	gene/protein	elongation factor G (Thermus thermophilus HB8)	1
+19555380	gene/protein	synemin (human)	1
+19555380	gene/protein	synembryn-B	1
+19555380	gene/protein	alpha-synuclein	1
+19555380	gene/protein	synapsin (fruit fly)	1
+19555380	gene/protein	alpha-synuclein (mouse)	1
+19555380	gene/protein	synemin	1
+19555380	gene/protein	protein virilizer homolog (Arabidopsis thaliana)	1
+19555380	gene/protein	protein virilizer (fruit fly)	1
+19555380	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+19555380	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+19555380	gene/protein	tumor necrosis factor ligand superfamily member 14 (mouse)	1
+19555380	molecular_function	obsolete signal peptide peptidase activity	2
+19555380	organism	Sesbania	5
+19555380	organism	Mesorhizobium	3
+19555380	organism	Agrobacterium tumefaciens	2
+19555380	organism	Agrobacterium	2
+19555380	organism	Azorhizobium	2
+19555380	organism	Rhizobium	2
+19555380	organism	Mesorhizobium plurifarium	2
+19555380	organism	Fabaceae	1
+19555380	organism	Sesbania cannabina	1
+19555380	organism	Vitis	1
+19555380	sequence	gene	4
+19555380	sequence	region	1
+19555380	sequence	rRNA_16S	1
+19555380	sequence	junction	1
+19555380	cell_line	HBM-Noda	2
+19555380	organ/tissue	cerebellum vermis lobule X	1
+19555380	organ/tissue	germinal center	1
+19555380	organ/tissue	anatomical junction	1
+19555380	organ/tissue	strand of hair	1
+19555380	entity_type	preferred_term	2

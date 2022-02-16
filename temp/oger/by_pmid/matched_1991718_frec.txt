@@ -1,0 +1,17 @@
+1991718	biological_process	nodulation	3
+1991718	biological_process	Nodulation	1
+1991718	chemical	nucleotide	1
+1991718	chemical	ce3	1
+1991718	gene/protein	map	6
+1991718	gene/protein	noda	2
+1991718	organism	Rhizobium leguminosarum	2
+1991718	organism	Rhizobium	1
+1991718	organism	Bradyrhizobium	1
+1991718	organism	Azorhizobium	1
+1991718	organism	legume	1
+1991718	sequence	gene	10
+1991718	sequence	operon	1
+1991718	sequence	sequence	1
+1991718	cell_line	noda	2
+1991718	cell_line	ce3	1
+1991718	molecular_process	coordination	1

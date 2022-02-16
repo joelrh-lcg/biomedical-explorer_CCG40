@@ -1,0 +1,43 @@
+12631328	biological_process	nitrogen fixation	1
+12631328	biological_process	photosynthesis	1
+12631328	cellular_component	protein	1
+12631328	chemical	nitrogen	10
+12631328	chemical	sucrose	3
+12631328	chemical	leghemoglobin	2
+12631328	chemical	protein	2
+12631328	chemical	carbon	2
+12631328	chemical	amino acid	2
+12631328	chemical	amide	2
+12631328	chemical	glutamine synthetase	1
+12631328	chemical	glutamate synthase	1
+12631328	chemical	cdna	1
+12631328	gene/protein	glutamine synthetase	123
+12631328	gene/protein	leghemoglobin	5
+12631328	gene/protein	impact	2
+12631328	gene/protein	lbc	2
+12631328	gene/protein	rna	2
+12631328	gene/protein	GOGAT	2
+12631328	gene/protein	protein	1
+12631328	organism	alfalfa	4
+12631328	organism	Medicago sativa	2
+12631328	organism	soybean	2
+12631328	organism	Sinorhizobium meliloti	2
+12631328	organism	legume	1
+12631328	sequence	antisense	3
+12631328	sequence	glutamine	1
+12631328	sequence	transgenic	1
+12631328	sequence	cdna	1
+12631328	sequence	fragment	1
+12631328	sequence	promoter	1
+12631328	sequence	transgene	1
+12631328	sequence	protein	1
+12631328	sequence	amino acid	1
+12631328	sequence	Antisense	1
+12631328	cell_line	c 30	1
+12631328	organ/tissue	nodule	8
+12631328	clinical_drug	nitrogen	5
+12631328	clinical_drug	alfalfa	2
+12631328	clinical_drug	soybean	2
+12631328	clinical_drug	glutamine	1
+12631328	clinical_drug	glutamate	1
+12631328	clinical_drug	sucrose	1

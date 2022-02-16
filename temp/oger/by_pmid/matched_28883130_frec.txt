@@ -1,0 +1,7 @@
+28883130	gene/protein	mor	5
+28883130	organism	bacterium	7
+28883130	sequence	genome	2
+28883130	sequence	sequence	1
+28883130	sequence	mor	1
+28883130	sequence	contig	1
+28883130	cell_line	mor	1

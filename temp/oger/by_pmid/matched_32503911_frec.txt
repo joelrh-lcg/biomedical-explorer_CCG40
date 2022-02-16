@@ -1,0 +1,15 @@
+32503911	biological_process	nitrogen fixation	3
+32503911	biological_process	fermentation	2
+32503911	chemical	nitrogen	8
+32503911	chemical	acetylene	6
+32503911	chemical	16s rrna	1
+32503911	chemical	element	1
+32503911	organism	bacterium	7
+32503911	organism	bacterium be	2
+32503911	organism	maize	2
+32503911	sequence	sequence	1
+32503911	sequence	16s rrna	1
+32503911	sequence	gene	1
+32503911	organ/tissue	element	1
+32503911	clinical_drug	nitrogen	4
+32503911	molecular_process	acetylene reduction	2

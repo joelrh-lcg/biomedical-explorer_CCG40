@@ -1,0 +1,54 @@
+12580283	cellular_component	obsolete protein	3
+12580283	cellular_component	membrane	1
+12580283	chemical	protein	4
+12580283	chemical	(protein)	3
+12580283	chemical	nucleotide	2
+12580283	chemical	polypeptide	2
+12580283	chemical	oxygen atom	1
+12580283	disease	Myoclonic Epilepsies, Progressive	1
+12580283	gene/protein	Flavohemoprotein	43
+12580283	gene/protein	Bile acyl-CoA synthetase	24
+12580283	gene/protein	bile acyl-CoA synthetase	8
+12580283	gene/protein	16 kDa protein	5
+12580283	gene/protein	Protein BEAN1	2
+12580283	gene/protein	protein	2
+12580283	gene/protein	proteolytic cleavage product	2
+12580283	gene/protein	amino acid chain	2
+12580283	gene/protein	protein BEAN	1
+12580283	gene/protein	Movement protein	1
+12580283	gene/protein	RNA silencing suppressor	1
+12580283	gene/protein	flavohemoprotein	1
+12580283	gene/protein	kinesin-like protein Nod (fruit fly)	1
+12580283	molecular_function	binding	1
+12580283	organism	Rhizobium etli	4
+12580283	organism	bacterium IFAM-3211	1
+12580283	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+12580283	organism	bacterium IFAM-3215	1
+12580283	organism	bacterium IFAM-2074	1
+12580283	organism	bacterium IFAM-3359	1
+12580283	organism	bacterium	1
+12580283	organism	bacterium IFAM-1493	1
+12580283	organism	unidentified plasmid	1
+12580283	organism	unidentified	1
+12580283	organism	Phaseolus	1
+12580283	organism	Phaseolus vulgaris	1
+12580283	sequence	polypeptide	5
+12580283	sequence	gene	3
+12580283	sequence	region	2
+12580283	sequence	fragmentary	1
+12580283	sequence	plasmid	1
+12580283	sequence	5KB_upstream_variant	1
+12580283	sequence	ORF	1
+12580283	sequence	match	1
+12580283	sequence	consensus	1
+12580283	sequence	polypeptide_binding_motif	1
+12580283	sequence	non_covalent_binding_site	1
+12580283	sequence	sequence_variant_obs	1
+12580283	sequence	delete	1
+12580283	cell_line	R1192	1
+12580283	organ/tissue	cerebellum vermis lobule X	1
+12580283	organ/tissue	germinal center	1
+12580283	organ/tissue	membrane organ	1
+12580283	organ/tissue	membranous layer	1
+12580283	organ/tissue	regurgitated pellet	1
+12580283	clinical_drug	Oxygen	1

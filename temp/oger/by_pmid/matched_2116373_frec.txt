@@ -1,0 +1,6 @@
+2116373	chemical	mitomycin c	6
+2116373	chemical	hydrogen peroxide	6
+2116373	chemical	inhibitor	2
+2116373	organism	Enterococcus	1
+2116373	clinical_drug	mitomycin	2
+2116373	clinical_drug	hydrogen peroxide	2

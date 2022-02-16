@@ -1,0 +1,32 @@
+25711932	biological_process	stationary phase	4
+25711932	biological_process	signalling	1
+25711932	biological_process	lysis	1
+25711932	cellular_component	smc	9
+25711932	cellular_component	membrane	1
+25711932	chemical	diacylglycerol	616
+25711932	chemical	fatty acid	5
+25711932	chemical	phospholipid	4
+25711932	chemical	monoacylglycerol	4
+25711932	chemical	coenzyme a	3
+25711932	chemical	glycerol	3
+25711932	chemical	dgla	2
+25711932	chemical	lysophospholipase	1
+25711932	chemical	phospholipase	1
+25711932	chemical	a fatty acid	1
+25711932	chemical	diacylglycerol lipase	1
+25711932	chemical	lipase	1
+25711932	disease	smc	9
+25711932	gene/protein	lipase	26
+25711932	gene/protein	lysophospholipase	9
+25711932	gene/protein	smc	9
+25711932	gene/protein	precursor	2
+25711932	molecular_function	phospholipase a	1
+25711932	organism	bacterium	7
+25711932	organism	Sinorhizobium meliloti	2
+25711932	organism	Escherichia coli	2
+25711932	organism	unknown	1
+25711932	sequence	signal	2
+25711932	sequence	enzymatic	1
+25711932	sequence	genome	1
+25711932	organ/tissue	membrane	2
+25711932	clinical_drug	lipase	2

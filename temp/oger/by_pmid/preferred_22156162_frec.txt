@@ -1,0 +1,25 @@
+22156162	biological_process	transcription, DNA-templated	2
+22156162	cellular_component	chromatin	1
+22156162	chemical	P-300	2
+22156162	chemical	Chromatin	1
+22156162	chemical	cofactor	1
+22156162	gene/protein	Histone H3.3C	1
+22156162	gene/protein	histone H3.3C	1
+22156162	gene/protein	histone acetyltransferase p300 (mouse)	1
+22156162	gene/protein	histone acetyltransferase p300 (human)	1
+22156162	gene/protein	histone acetyltransferase p300	1
+22156162	gene/protein	neurogenic locus notch homolog protein 1	1
+22156162	gene/protein	Neurogenic locus notch homolog protein 1	1
+22156162	molecular_function	transcription factor binding	1
+22156162	molecular_function	binding	1
+22156162	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+22156162	organism	collection	1
+22156162	sequence	polypeptide_conserved_motif	6
+22156162	sequence	polypeptide_motif	6
+22156162	sequence	non_covalent_binding_site	2
+22156162	sequence	region	2
+22156162	sequence	polypeptide_binding_motif	1
+22156162	sequence	binding_site	1
+22156162	sequence	genome	1
+22156162	organ/tissue	scale	1
+22156162	organ/tissue	webbed interdigital region	1

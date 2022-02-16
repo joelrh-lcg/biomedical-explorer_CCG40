@@ -1,0 +1,43 @@
+14996797	biological_process	biosynthetic process	6
+14996797	cellular_component	membrane	2
+14996797	chemical	Choline	6
+14996797	chemical	phosphatidylethanolamine	3
+14996797	chemical	picloram	3
+14996797	chemical	choline	3
+14996797	chemical	CDPdiacylglycerol-Serine O-Phosphatidyltransferase	3
+14996797	chemical	Cardiolipins	2
+14996797	chemical	Phosphatidylcholines	2
+14996797	chemical	lipid	2
+14996797	chemical	poly(styrene-4-sulfonic acid)	2
+14996797	chemical	Complement System Proteins	2
+14996797	chemical	phosphatidylglycerol	1
+14996797	chemical	1,2-diacyl-sn-glycero-3-phospho-(1'-sn-glycerol)	1
+14996797	chemical	cardiolipin	1
+14996797	chemical	(S)-1,2-distearoylphosphatidylethanolaminium	1
+14996797	chemical	phosphatidylcholine	1
+14996797	chemical	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	1
+14996797	chemical	1,2-diacyl-sn-glycero-3-phosphocholine	1
+14996797	chemical	phospholipid	1
+14996797	chemical	CDP-diacylglycerol choline O-phosphatidyltransferase	1
+14996797	chemical	CDP-diacylglycerol	1
+14996797	chemical	cation	1
+14996797	gene/protein	CDP-diacylglycerol--serine O-phosphatidyltransferase	44
+14996797	gene/protein	Phosphatidylcholine synthase	10
+14996797	gene/protein	phosphatidylserine synthase 1 (mouse)	2
+14996797	gene/protein	phosphatidylserine synthase 1	2
+14996797	gene/protein	CDP-diacylglycerol--serine O-phosphatidyltransferase (Escherichia coli K-12)	2
+14996797	gene/protein	phosphatidylserine synthase 1 (human)	2
+14996797	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	2
+14996797	gene/protein	phosphatidylcholine synthase	1
+14996797	gene/protein	Provicilin	1
+14996797	organism	Sinorhizobium	1
+14996797	organism	Melilotus	1
+14996797	organism	Trachinotus falcatus	1
+14996797	sequence	gene	3
+14996797	sequence	wild_type	2
+14996797	sequence	intermediate	1
+14996797	sequence	region	1
+14996797	sequence	rescue	1
+14996797	organ/tissue	membrane organ	2
+14996797	organ/tissue	membranous layer	2
+14996797	clinical_drug	Choline	3

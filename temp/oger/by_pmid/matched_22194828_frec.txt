@@ -1,0 +1,23 @@
+22194828	biological_process	sphingolipid metabolism	1
+22194828	cellular_component	endoplasmic reticulum	2
+22194828	cellular_component	membrane	1
+22194828	cellular_component	plasma membrane	1
+22194828	chemical	ergosterol	9
+22194828	chemical	pathway	4
+22194828	chemical	sphingolipid	3
+22194828	chemical	drug	3
+22194828	chemical	sterol	1
+22194828	disease	sle	3
+22194828	gene/protein	sle	3
+22194828	gene/protein	gma	2
+22194828	organism	yeast	4
+22194828	sequence	domain	1
+22194828	sequence	construct	1
+22194828	cell_line	sle	3
+22194828	organ/tissue	membrane	4
+22194828	organ/tissue	reticulum	2
+22194828	organ/tissue	layer	2
+22194828	organ/tissue	BST	1
+22194828	organ/tissue	bst	1
+22194828	organ/tissue	plasma	1
+22194828	clinical_drug	yeast	4

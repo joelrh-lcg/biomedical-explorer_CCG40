@@ -1,0 +1,42 @@
+27746255	biological_process	cellular process	1
+27746255	biological_process	peptidyl-lysine deacetylation	1
+27746255	cellular_component	B cell receptor complex	1
+27746255	cellular_component	immunoglobulin complex, circulating	1
+27746255	cellular_component	immunoglobulin complex	1
+27746255	cellular_component	cell projection	1
+27746255	cellular_component	obsolete protein	1
+27746255	chemical	Lysine	8
+27746255	chemical	lysine	4
+27746255	chemical	L-lysine	4
+27746255	chemical	protein	4
+27746255	chemical	lysine residue	1
+27746255	chemical	peptide	1
+27746255	chemical	Histones	1
+27746255	chemical	histone	1
+27746255	chemical	Nuclear Proteins	1
+27746255	chemical	molecule	1
+27746255	chemical	protein lysine	1
+27746255	gene/protein	Peptidyl-lysine N-acetyltransferase YjaB	4
+27746255	gene/protein	kynurenine--oxoglutarate transaminase 1, mitochondrial (rat)	2
+27746255	gene/protein	thiosulfate:glutathione sulfurtransferase (human)	2
+27746255	gene/protein	kynurenine--oxoglutarate transaminase 1 (mouse)	2
+27746255	gene/protein	Peptidyl-lysine N-acetyltransferase YiaC	2
+27746255	gene/protein	thiosulfate:glutathione sulfurtransferase	2
+27746255	gene/protein	[Ribosomal protein S18]-alanine N-acetyltransferase	2
+27746255	gene/protein	kynurenine--oxoglutarate transaminase 1	2
+27746255	gene/protein	Aminoalkylphosphonate N-acetyltransferase	2
+27746255	gene/protein	kynurenine--oxoglutarate transaminase (Dictyostelium discoideum)	2
+27746255	gene/protein	Lysine acetyltransferase	1
+27746255	gene/protein	proteolytic cleavage product	1
+27746255	gene/protein	amino acid chain	1
+27746255	gene/protein	histone	1
+27746255	gene/protein	protein	1
+27746255	molecular_function	acetyl-CoA C-acyltransferase activity	2
+27746255	molecular_function	antigen binding	1
+27746255	organism	Humans	1
+27746255	sequence	lysine	6
+27746255	sequence	polypeptide_domain	1
+27746255	sequence	active_peptide	1
+27746255	sequence	polypeptide	1
+27746255	clinical_drug	Lysine	6
+27746255	molecular_process	acetylation	4

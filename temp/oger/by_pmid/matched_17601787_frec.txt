@@ -1,0 +1,9 @@
+17601787	biological_process	dna recombination	1
+17601787	gene/protein	spp	16
+17601787	molecular_function	spp	1
+17601787	organism	bear	1
+17601787	organism	Sinorhizobium	1
+17601787	organism	bacterium be	1
+17601787	sequence	genome	2
+17601787	sequence	fragment	1
+17601787	sequence	replicon	1

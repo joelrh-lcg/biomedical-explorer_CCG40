@@ -1,0 +1,45 @@
+34610117	biological_process	symbiotic process	1
+34610117	biological_process	nodulation	1
+34610117	chemical	RNA, Ribosomal, 16S	1
+34610117	gene/protein	Phosphoglycolate phosphatase	88
+34610117	gene/protein	Glycerol-3-phosphate phosphatase	5
+34610117	gene/protein	Protein BEAN1	4
+34610117	gene/protein	NGFI-A-binding protein homolog (fruit fly)	3
+34610117	gene/protein	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase (Pseudomonas aeruginosa PAO1)	2
+34610117	gene/protein	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase (Escherichia coli K-12)	2
+34610117	gene/protein	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase	2
+34610117	gene/protein	protein BEAN	2
+34610117	gene/protein	Probable phosphoglycolate phosphatase	2
+34610117	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+34610117	gene/protein	Phosphoglycolate phosphatase, plasmid	1
+34610117	gene/protein	glycerol-3-phosphate phosphatase (human)	1
+34610117	gene/protein	glycerol-3-phosphate phosphatase	1
+34610117	gene/protein	phosphoglycolate phosphatase Gph	1
+34610117	gene/protein	glycerol-3-phosphate phosphatase (rat)	1
+34610117	gene/protein	Phosphoglycolate phosphatase, chromosomal	1
+34610117	gene/protein	glycerol-3-phosphate phosphatase (chicken)	1
+34610117	gene/protein	glycerol-3-phosphate phosphatase (mouse)	1
+34610117	molecular_function	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase activity	2
+34610117	organism	Vicia faba	4
+34610117	organism	Enterobacteriaceae	3
+34610117	organism	Fabaceae	2
+34610117	organism	Enterobacter	2
+34610117	organism	Rhizobium	2
+34610117	organism	Klebsiella variicola	2
+34610117	organism	bacterium IFAM-3211	1
+34610117	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+34610117	organism	bacterium IFAM-3215	1
+34610117	organism	bacterium IFAM-2074	1
+34610117	organism	bacterium IFAM-3359	1
+34610117	organism	bacterium	1
+34610117	organism	bacterium IFAM-1493	1
+34610117	organism	unidentified	1
+34610117	organism	Klebsiella	1
+34610117	sequence	genotype	3
+34610117	sequence	region	2
+34610117	sequence	gene	2
+34610117	sequence	rRNA_16S	1
+34610117	cell_line	NAB	3
+34610117	cell_line	R1192	2
+34610117	organ/tissue	cerebellum vermis lobule X	4
+34610117	organ/tissue	germinal center	4

@@ -1,0 +1,11 @@
+23209196	biological_process	xenobiotic catabolic process	1
+23209196	chemical	xenobiotic	1
+23209196	organism	Candidatus Glomeribacter gigasporarum	1
+23209196	organism	Burkholderia sp.	1
+23209196	organism	Burkholderia sp. RASC	1
+23209196	organism	Fabaceae	1
+23209196	sequence	genome	1
+23209196	sequence	region	1
+23209196	sequence	gene	1
+23209196	organ/tissue	cerebellum vermis lobule X	1
+23209196	organ/tissue	germinal center	1

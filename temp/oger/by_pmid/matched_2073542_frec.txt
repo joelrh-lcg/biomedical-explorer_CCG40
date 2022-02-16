@@ -1,0 +1,10 @@
+2073542	biological_process	nodule development	1
+2073542	disease	infection	2
+2073542	gene/protein	spp	16
+2073542	molecular_function	spp	1
+2073542	organism	bacterium	7
+2073542	organism	permit	1
+2073542	organism	Rhizobium	1
+2073542	organism	legume	1
+2073542	organ/tissue	nodule	2
+2073542	entity_type	term	2

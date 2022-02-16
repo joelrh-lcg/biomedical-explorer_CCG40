@@ -1,0 +1,16 @@
+19071199	chemical	nalidixic acid	3
+19071199	chemical	methyl	2
+19071199	chemical	Holliday junction	1
+19071199	gene/protein	recg	16
+19071199	gene/protein	ruvb	12
+19071199	gene/protein	rada	9
+19071199	gene/protein	muts	3
+19071199	gene/protein	mutS	3
+19071199	organism	Rhizobium etli	2
+19071199	sequence	gene	2
+19071199	sequence	junction	1
+19071199	sequence	construct	1
+19071199	sequence	null mutation	1
+19071199	sequence	sequence	1
+19071199	organ/tissue	junction	1
+19071199	molecular_process	reduction	1

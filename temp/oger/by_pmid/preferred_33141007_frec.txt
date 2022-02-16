@@ -1,0 +1,19 @@
+33141007	biological_process	pathogenesis	2
+33141007	biological_process	obsolete mutagenesis	1
+33141007	biological_process	obsolete virulence	1
+33141007	biological_process	viral process	1
+33141007	biological_process	immune response	1
+33141007	cellular_component	plant-type cell wall	1
+33141007	cellular_component	obsolete protein	1
+33141007	chemical	protein	9
+33141007	chemical	polysaccharide	2
+33141007	chemical	virulence factor	1
+33141007	chemical	(protein)	1
+33141007	gene/protein	protein	1
+33141007	organism	Plants	1
+33141007	sequence	region	1
+33141007	sequence	polypeptide_domain	1
+33141007	sequence	mutated_variant_site	1
+33141007	sequence	gene	1
+33141007	sequence	polypeptide	1
+33141007	organ/tissue	anatomical wall	2

@@ -1,0 +1,32 @@
+29130376	biological_process	defense response	2
+29130376	biological_process	innate immune response	1
+29130376	chemical	cutin	3
+29130376	chemical	Salicylic Acid	2
+29130376	chemical	wax	1
+29130376	chemical	salicylic acid	1
+29130376	disease	FEBRILE SEIZURES, FAMILIAL, 8	6
+29130376	gene/protein	calcium-transporting ATPase 2, endoplasmic reticulum-type (Arabidopsis thaliana)	6
+29130376	gene/protein	transmembrane emp24 domain-containing protein eca (fruit fly)	3
+29130376	gene/protein	atlastin-2 (human)	2
+29130376	gene/protein	RING-H2 finger protein ATL2 (Arabidopsis thaliana)	2
+29130376	gene/protein	atlastin-2	2
+29130376	gene/protein	atlastin-2 (mouse)	2
+29130376	gene/protein	Tryptophan 2,3-dioxygenase B	1
+29130376	organism	Pseudomonas syringae	2
+29130376	organism	Arabidopsis thaliana	1
+29130376	organism	Arabidopsis	1
+29130376	organism	Botrytis cinerea	1
+29130376	organism	Pseudomonas savastanoi	1
+29130376	organism	Spodoptera littoralis	1
+29130376	sequence	gene	2
+29130376	cell_line	PCC4-Azal-ECA2	6
+29130376	cell_line	HPB-ATL-2	2
+29130376	cell_line	ATL-2	2
+29130376	organ/tissue	eponychium	2
+29130376	organ/tissue	chitin-based cuticle	2
+29130376	organ/tissue	cuticle	2
+29130376	organ/tissue	organ	1
+29130376	organ/tissue	compound organ	1
+29130376	clinical_drug	Botrytis cinerea allergenic extract	1
+29130376	clinical_drug	Salicylic Acid	1
+29130376	molecular_process	reduction	1

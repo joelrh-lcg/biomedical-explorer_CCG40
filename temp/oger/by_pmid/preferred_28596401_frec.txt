@@ -1,0 +1,18 @@
+28596401	chemical	RNA, Transfer	1
+28596401	chemical	transfer RNA	1
+28596401	chemical	RNA, Untranslated	1
+28596401	disease	Retinal Nonattachment, Nonsyndromic Congenital	1
+28596401	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+28596401	gene/protein	ribonuclease I	1
+28596401	molecular_function	triplet codon-amino acid adaptor activity	1
+28596401	organism	Pseudomonas chlororaphis	1
+28596401	sequence	genome	2
+28596401	sequence	region	2
+28596401	sequence	gene	2
+28596401	sequence	ncRNA	2
+28596401	sequence	contig	1
+28596401	sequence	pseudogene	1
+28596401	sequence	tRNA	1
+28596401	sequence	frameshift	1
+28596401	sequence	frameshift_variant	1
+28596401	organ/tissue	multicellular organism	1

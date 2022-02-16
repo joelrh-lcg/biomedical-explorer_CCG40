@@ -1,0 +1,47 @@
+24886809	biological_process	necrosis	5
+24886809	biological_process	metabolism	1
+24886809	biological_process	inflammation	1
+24886809	biological_process	proteolysis	1
+24886809	biological_process	glucose catabolism	1
+24886809	biological_process	signaling pathway	1
+24886809	cellular_component	protein	1
+24886809	cellular_component	endoplasmic reticulum	1
+24886809	chemical	insulin	8
+24886809	chemical	proteins	6
+24886809	chemical	glucose	5
+24886809	chemical	polyacrylamide	4
+24886809	chemical	carbohydrate	3
+24886809	chemical	protein	2
+24886809	chemical	cytochrome b5	2
+24886809	chemical	lithostathine	2
+24886809	chemical	chymotrypsinogen	1
+24886809	chemical	peroxiredoxin4	1
+24886809	chemical	aspartyl aminopeptidase	1
+24886809	chemical	endoplasmin	1
+24886809	chemical	pathway	1
+24886809	disease	type 2 diabetes mellitus	2
+24886809	disease	hyperglycemia	2
+24886809	disease	inflammation	2
+24886809	disease	tumor	2
+24886809	disease	necrosis	2
+24886809	disease	insulin resistance	2
+24886809	disease	tof	1
+24886809	disease	DAVID	1
+24886809	gene/protein	insulin	164
+24886809	gene/protein	cytochrome b5	22
+24886809	gene/protein	endoplasmin	12
+24886809	gene/protein	aspartyl aminopeptidase	8
+24886809	gene/protein	peroxiredoxin4	7
+24886809	gene/protein	chymotrypsinogen b	5
+24886809	gene/protein	lithostathine1	2
+24886809	gene/protein	lithostathine2	2
+24886809	gene/protein	protein	1
+24886809	molecular_function	insulin	2
+24886809	molecular_function	cytochrome b5	2
+24886809	molecular_function	peptidase activity	1
+24886809	organism	mouse	6
+24886809	sequence	wild type	2
+24886809	sequence	protein	1
+24886809	organ/tissue	pancreas	2
+24886809	organ/tissue	reticulum	1
+24886809	clinical_drug	glucose	1

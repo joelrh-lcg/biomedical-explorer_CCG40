@@ -1,0 +1,84 @@
+33051478	chemical	RNA, Ribosomal, 16S	1
+33051478	chemical	protein	1
+33051478	gene/protein	cardiolipin synthase A	4
+33051478	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	4
+33051478	organism	Spirochaetales	2
+33051478	organism	bacterium BE	1
+33051478	organism	Culicidae	1
+33051478	organism	Culex palpalis	1
+33051478	organism	Culex equinoxialis	1
+33051478	organism	Culex gnomatos	1
+33051478	organism	Culex coronator	1
+33051478	organism	Culex trigeminatus	1
+33051478	organism	Culex portesi	1
+33051478	organism	Culex ensiformis	1
+33051478	organism	Culex martinii	1
+33051478	organism	Culex sinaiticus	1
+33051478	organism	Culex spissipes	1
+33051478	organism	Culex eknomios	1
+33051478	organism	Culex uniformis	1
+33051478	organism	Culex sasai	1
+33051478	organism	Culex mimuloides	1
+33051478	organism	Culex idottus	1
+33051478	organism	Culex striatipes	1
+33051478	organism	Culex zombaensis	1
+33051478	organism	Culex	1
+33051478	organism	Culex corentynensis	1
+33051478	organism	Culex oedipus	1
+33051478	organism	Culex dyius	1
+33051478	organism	Culex serratimarge	1
+33051478	organism	Culex simpsoni	1
+33051478	organism	Culex tenagius	1
+33051478	organism	Culex clarki	1
+33051478	organism	Culex theobaldi	1
+33051478	organism	Culex vaxus	1
+33051478	organism	Culex duttoni	1
+33051478	organism	Culex torrentium	1
+33051478	organism	Culex antennatus	1
+33051478	organism	Culex vansomereni	1
+33051478	organism	Culex vomerifer	1
+33051478	organism	Culex alogistus	1
+33051478	organism	Culex commevynensis	1
+33051478	organism	Lutzia fuscanus	1
+33051478	organism	Culex aureonotatus	1
+33051478	organism	Culex lacertosus	1
+33051478	organism	Culex eastor	1
+33051478	organism	Culex flavicornis	1
+33051478	organism	Culex bastagarius	1
+33051478	organism	Culex evansae	1
+33051478	organism	Culex sacchettae	1
+33051478	organism	Culex akritos	1
+33051478	organism	Culex misionensis	1
+33051478	organism	Culex australicus	1
+33051478	organism	Culex dunni	1
+33051478	organism	Culex annulus	1
+33051478	organism	Lutzia tigripes	1
+33051478	organism	Culex accelerans	1
+33051478	organism	Lutzia halifaxii	1
+33051478	organism	Culex terzii	1
+33051478	organism	Culex crybda	1
+33051478	organism	Culex ribeirensis	1
+33051478	organism	Culex deserticola	1
+33051478	organism	Culex pervigilans	1
+33051478	organism	Culex mollis	1
+33051478	organism	Culex faurani	1
+33051478	organism	Culex pereyrai	1
+33051478	organism	Culex thalassius	1
+33051478	organism	Culex putumayensis	1
+33051478	organism	Culex rabelloi	1
+33051478	organism	Culex aliciae	1
+33051478	organism	Culex zeteki	1
+33051478	organism	Culex pilosus	1
+33051478	organism	Culex adersianus	1
+33051478	organism	Culex intrincatus	1
+33051478	organism	Culex watti	1
+33051478	organism	Culex rima	1
+33051478	organism	Aedes cinereus	1
+33051478	organism	Spirochaetaceae	1
+33051478	organism	Nematocera	1
+33051478	sequence	genome	4
+33051478	sequence	region	2
+33051478	sequence	rRNA_16S	1
+33051478	sequence	orthologous	1
+33051478	sequence	gene	1
+33051478	cell_line	149BR	1

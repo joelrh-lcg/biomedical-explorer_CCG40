@@ -1,0 +1,42 @@
+10784042	biological_process	biosynthesis	2
+10784042	biological_process	nodulation	1
+10784042	biological_process	lipid a biosynthesis	1
+10784042	cellular_component	protein	3
+10784042	chemical	acp	10
+10784042	chemical	lipid a	5
+10784042	chemical	protein	4
+10784042	chemical	4phosphopantetheine	4
+10784042	chemical	acyl carrier protein	3
+10784042	chemical	fatty acid	2
+10784042	chemical	27hydroxyoctacosanoic acid	2
+10784042	chemical	amino acid	2
+10784042	chemical	carrier proteins	1
+10784042	chemical	capsular polysaccharide	1
+10784042	chemical	a sugar	1
+10784042	chemical	nucleotide	1
+10784042	chemical	label	1
+10784042	chemical	prosthetic group	1
+10784042	chemical	pathway	1
+10784042	disease	acp	5
+10784042	gene/protein	acp	2308
+10784042	gene/protein	acpp	75
+10784042	gene/protein	acp 1	22
+10784042	gene/protein	acyl carrier protein acpp	6
+10784042	gene/protein	add	3
+10784042	gene/protein	nodulation protein	2
+10784042	gene/protein	nodf	2
+10784042	gene/protein	protein	1
+10784042	molecular_function	carrier	2
+10784042	organism	Sinorhizobium meliloti	2
+10784042	organism	Rhizobium leguminosarum	2
+10784042	organism	Escherichia coli	2
+10784042	organism	e coli	2
+10784042	organism	rhizobium	1
+10784042	sequence	protein	3
+10784042	sequence	sequence	3
+10784042	sequence	amino acid	1
+10784042	sequence	reverse	1
+10784042	sequence	gene	1
+10784042	sequence	clone	1
+10784042	organ/tissue	backbone	1
+10784042	organ/tissue	organism	1

@@ -1,0 +1,27 @@
+18989455	biological_process	formation	1
+18989455	cellular_component	protein	1
+18989455	chemical	protein	2
+18989455	chemical	olfactory receptor	1
+18989455	chemical	oligonucleotide	1
+18989455	gene/protein	pcr	8
+18989455	gene/protein	protein	1
+18989455	gene/protein	span	1
+18989455	gene/protein	lack	1
+18989455	organism	cnv	10
+18989455	organism	human	6
+18989455	organism	chimpanzee	4
+18989455	organism	CNV	1
+18989455	sequence	cnv	10
+18989455	sequence	gene	6
+18989455	sequence	pseudogene	5
+18989455	sequence	deletion	4
+18989455	sequence	allele	3
+18989455	sequence	protein	1
+18989455	sequence	variant	1
+18989455	sequence	oligonucleotide	1
+18989455	sequence	genomic dna	1
+18989455	sequence	paralog	1
+18989455	sequence	ortholog	1
+18989455	sequence	CNV	1
+18989455	sequence	gain	1
+18989455	sequence	reference genome	1

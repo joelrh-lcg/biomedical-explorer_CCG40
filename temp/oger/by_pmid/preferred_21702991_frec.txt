@@ -1,0 +1,11 @@
+21702991	gene/protein	Protein BEAN1	4
+21702991	gene/protein	protein BEAN	2
+21702991	gene/protein	NAD-dependent dihydropyrimidine dehydrogenase subunit PreT (Escherichia coli K-12)	2
+21702991	gene/protein	NAD-dependent dihydropyrimidine dehydrogenase subunit PreT	2
+21702991	organism	unidentified plasmid	4
+21702991	organism	Rhizobium etli	3
+21702991	organism	Sinorhizobium fredii	2
+21702991	sequence	plasmid	4
+21702991	cell_line	R1192	2
+21702991	organ/tissue	cerebellum vermis lobule X	1
+21702991	organ/tissue	germinal center	1

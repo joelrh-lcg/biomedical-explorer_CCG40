@@ -1,0 +1,34 @@
+9181580	biological_process	nodulation	2
+9181580	biological_process	plasmid recombination	1
+9181580	biological_process	DNA amplification	1
+9181580	chemical	2,6-diisopropylnaphthalene	4
+9181580	chemical	Anti-Bacterial Agents	2
+9181580	chemical	antimicrobial agent	1
+9181580	gene/protein	translation initiation factor IF-3 (Escherichia coli K-12)	1
+9181580	gene/protein	translation initiation factor IF-3	1
+9181580	organism	unidentified plasmid	3
+9181580	organism	Rhizobium tropici	2
+9181580	organism	bacterium IFAM-3211	1
+9181580	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+9181580	organism	bacterium IFAM-3215	1
+9181580	organism	bacterium IFAM-2074	1
+9181580	organism	bacterium IFAM-3359	1
+9181580	organism	bacterium	1
+9181580	organism	bacterium IFAM-1493	1
+9181580	organism	Rhizobium	1
+9181580	organism	Rhizobium leucaenae	1
+9181580	organism	Fabaceae	1
+9181580	organism	Macroptilium atropurpureum	1
+9181580	sequence	vector_replicon	4
+9181580	sequence	plasmid	3
+9181580	sequence	genome	2
+9181580	sequence	fragmentary	1
+9181580	sequence	clone	1
+9181580	sequence	homologous	1
+9181580	sequence	duplication	1
+9181580	sequence	direct_repeat	1
+9181580	sequence	tandem_duplication	1
+9181580	sequence	polypeptide_repeat	1
+9181580	organ/tissue	cerebellum vermis lobule X	2
+9181580	organ/tissue	germinal center	2
+9181580	clinical_drug	TANDEM	1

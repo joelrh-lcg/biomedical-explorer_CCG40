@@ -1,0 +1,6 @@
+32807071	biological_process	sex determination	4
+32807071	chemical	buffer	1
+32807071	disease	Tay-Sachs Disease	1
+32807071	disease	Gerstmann-Straussler-Scheinker Disease	1
+32807071	organism	Vertebrates	1
+32807071	organism	Reptiles	1

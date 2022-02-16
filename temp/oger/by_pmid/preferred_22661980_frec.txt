@@ -1,0 +1,75 @@
+22661980	biological_process	transcription, DNA-templated	3
+22661980	biological_process	biological regulation	2
+22661980	biological_process	stress response to metal ion	1
+22661980	biological_process	biological_process	1
+22661980	biological_process	gene expression	1
+22661980	chemical	MicroRNAs	7
+22661980	chemical	Cadmium	4
+22661980	chemical	Aluminum	4
+22661980	chemical	Mercury	4
+22661980	chemical	Indoleacetic Acids	4
+22661980	chemical	copper atom	3
+22661980	chemical	copper(0)	3
+22661980	chemical	iron atom	2
+22661980	chemical	Zinc	2
+22661980	chemical	Manganese	2
+22661980	chemical	cadmium atom	2
+22661980	chemical	cadmium	2
+22661980	chemical	aluminium atom	2
+22661980	chemical	Cobalt	2
+22661980	chemical	mercury atom	2
+22661980	chemical	mercury(0)	2
+22661980	chemical	Reactive Oxygen Species	2
+22661980	chemical	Transact	2
+22661980	chemical	auxin	2
+22661980	chemical	... zinc ...	1
+22661980	chemical	zinc(0)	1
+22661980	chemical	zinc atom	1
+22661980	chemical	manganese(0)	1
+22661980	chemical	manganese atom	1
+22661980	chemical	cobalt atom	1
+22661980	chemical	chlorpyrifos	1
+22661980	chemical	reactive oxygen species	1
+22661980	chemical	lipid	1
+22661980	chemical	protein	1
+22661980	chemical	nucleotide	1
+22661980	chemical	RNA, Untranslated	1
+22661980	chemical	base	1
+22661980	chemical	Superoxide Dismutase	1
+22661980	disease	Tropical Calcific Pancreatitis	1
+22661980	gene/protein	E3 ubiquitin-protein ligase MYLIP	32
+22661980	gene/protein	MLX-interacting protein	8
+22661980	gene/protein	MLX-interacting protein (human)	8
+22661980	gene/protein	E3 ubiquitin-protein ligase MARCH8 (mouse)	8
+22661980	gene/protein	Miraculin	8
+22661980	gene/protein	Insulin-like receptor	8
+22661980	gene/protein	E3 ubiquitin-protein ligase MARCH8 (human)	8
+22661980	gene/protein	MLX-interacting protein (mouse)	8
+22661980	gene/protein	E3 ubiquitin-protein ligase MARCH8	8
+22661980	gene/protein	E3 ubiquitin-protein ligase MYLIP-A (zebrafish)	8
+22661980	gene/protein	ribonuclease I (Escherichia coli K-12)	2
+22661980	gene/protein	ribonuclease I	2
+22661980	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+22661980	gene/protein	Textile convulsant peptide	1
+22661980	gene/protein	Trimethylamine corrinoid protein	1
+22661980	gene/protein	Trophozoite cysteine proteinase	1
+22661980	gene/protein	sterile alpha and TIR motif-containing protein tir-1 (worm)	1
+22661980	gene/protein	protein TRANSPORT INHIBITOR RESPONSE 1 (Arabidopsis thaliana)	1
+22661980	gene/protein	cold shock-induced protein TIR1 (yeast)	1
+22661980	gene/protein	protein TRANSPORT INHIBITOR RESPONSE 1	1
+22661980	gene/protein	superoxide dismutase [Cu-Zn] (zebrafish)	1
+22661980	gene/protein	Methanobactin mb-OB3b	1
+22661980	gene/protein	Neelaredoxin	1
+22661980	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	3
+22661980	molecular_function	auxin binding	1
+22661980	sequence	miRNA	7
+22661980	sequence	ncRNA	1
+22661980	sequence	gene	1
+22661980	sequence	base	1
+22661980	sequence	terminal_inverted_repeat	1
+22661980	organ/tissue	crop	1
+22661980	clinical_drug	Iron	2
+22661980	clinical_drug	Aluminum	2
+22661980	clinical_drug	Zinc	1
+22661980	clinical_drug	Manganese	1
+22661980	clinical_drug	Oxygen	1

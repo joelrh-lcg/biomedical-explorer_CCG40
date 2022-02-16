@@ -1,0 +1,129 @@
+19118366	biological_process	polyketide biosynthetic process	1
+19118366	biological_process	biosynthetic process	1
+19118366	biological_process	fatty acid biosynthetic process	1
+19118366	cellular_component	obsolete protein	2
+19118366	chemical	holo-[acyl-carrier protein]	4
+19118366	chemical	acyl-carrier protein	4
+19118366	chemical	protein	4
+19118366	chemical	4'-phosphopantetheine	4
+19118366	chemical	fatty acid	3
+19118366	chemical	D-pantetheine 4'-phosphate	2
+19118366	chemical	pantetheine 4'-phosphate	2
+19118366	chemical	(protein)	2
+19118366	chemical	malonyl group	2
+19118366	chemical	Carrier Proteins	1
+19118366	chemical	polyketide	1
+19118366	chemical	Aspartate-Ammonia Ligase	1
+19118366	chemical	NAD+ synthase	1
+19118366	chemical	carboxyacetyl group	1
+19118366	chemical	dodecanoic acid	1
+19118366	chemical	octadecanoic acid	1
+19118366	disease	Cerebral Palsy, Ataxic, Autosomal Recessive	4
+19118366	gene/protein	Acyl carrier protein	2064
+19118366	gene/protein	Small nuclear ribonucleoprotein-associated protein B	60
+19118366	gene/protein	Small nuclear ribonucleoprotein-associated protein B'	50
+19118366	gene/protein	Acyl carrier protein, mitochondrial	40
+19118366	gene/protein	Meromycolate extension acyl carrier protein	24
+19118366	gene/protein	Acyl carrier protein AcpP	24
+19118366	gene/protein	Acyl carrier protein MbtL	20
+19118366	gene/protein	Acyl carrier protein homolog	20
+19118366	gene/protein	Acyl carrier protein, chloroplastic	16
+19118366	gene/protein	Probable acyl carrier protein IacP	12
+19118366	gene/protein	Probable small nuclear ribonucleoprotein-associated protein B	10
+19118366	gene/protein	protein SOMBRERO (Arabidopsis thaliana)	10
+19118366	gene/protein	small nuclear ribonucleoprotein-associated protein B (fruit fly)	10
+19118366	gene/protein	Glutamine-dependent NAD(+) synthetase	9
+19118366	gene/protein	Probable acyl carrier protein	8
+19118366	gene/protein	acyl carrier protein	5
+19118366	gene/protein	Actinorhodin polyketide synthase acyl carrier protein	4
+19118366	gene/protein	Oxytetracycline polyketide synthase acyl carrier protein	4
+19118366	gene/protein	Acyl carrier protein 3, chloroplastic	4
+19118366	gene/protein	Tetracenomycin C polyketide synthase acyl carrier protein	4
+19118366	gene/protein	Acyl carrier protein 1, mitochondrial	4
+19118366	gene/protein	Putative acyl carrier protein, mitochondrial	4
+19118366	gene/protein	acylphosphatase-1 (fruit fly)	4
+19118366	gene/protein	Curamycin polyketide synthase acyl carrier protein	4
+19118366	gene/protein	Granaticin polyketide synthase acyl carrier protein	4
+19118366	gene/protein	acyl carrier protein, mitochondrial	4
+19118366	gene/protein	Vacuolar aspartic protease	4
+19118366	gene/protein	Acyl carrier protein SF2, chloroplastic	4
+19118366	gene/protein	Acyl carrier protein 4, chloroplastic	4
+19118366	gene/protein	Acyl carrier protein 1, chloroplastic	4
+19118366	gene/protein	Acyl carrier protein 2, chloroplastic	4
+19118366	gene/protein	Acyl carrier protein 3, mitochondrial	4
+19118366	gene/protein	Acyl carrier protein 2, mitochondrial	4
+19118366	gene/protein	Monensin polyketide synthase acyl carrier protein	4
+19118366	gene/protein	Candidapepsin	4
+19118366	gene/protein	protein	2
+19118366	gene/protein	holo-[acyl-carrier-protein] synthase (Escherichia coli K-12)	2
+19118366	gene/protein	holo-[acyl-carrier-protein] synthase	2
+19118366	gene/protein	Holo-[acyl-carrier-protein] synthase (Staphylococcus aureus subsp. aureus NCTC 8325)	2
+19118366	gene/protein	acyl carrier protein (Leptospira interrogans serovar Lai str. 56601)	1
+19118366	gene/protein	prostatic acid phosphatase (mouse)	1
+19118366	gene/protein	acyl carrier protein (Shigella dysenteriae Sd197)	1
+19118366	gene/protein	acyl carrier protein (Vibrio parahaemolyticus RIMD 2210633)	1
+19118366	gene/protein	acyl carrier protein (Escherichia coli K-12)	1
+19118366	gene/protein	acyl carrier protein (Shewanella oneidensis MR-1)	1
+19118366	gene/protein	acyl carrier protein (Burkholderia pseudomallei K96243)	1
+19118366	gene/protein	acyl carrier protein AcpP (Sinorhizobium meliloti 1021)	1
+19118366	gene/protein	prostatic acid phosphatase (rat)	1
+19118366	gene/protein	prostatic acid phosphatase	1
+19118366	gene/protein	acyl carrier protein (Xanthomonas campestris pv. campestris str. ATCC 33913)	1
+19118366	gene/protein	acyl carrier protein (Escherichia coli IAI39)	1
+19118366	gene/protein	acyl carrier protein (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	1
+19118366	gene/protein	acyl carrier protein (Bordetella pertussis Tohama I)	1
+19118366	gene/protein	acyl carrier protein (Bacteroides thetaiotaomicron VPI-5482)	1
+19118366	gene/protein	acyl carrier protein AcpP (Agrobacterium fabrum str. C58)	1
+19118366	gene/protein	acyl carrier protein (Haemophilus influenzae Rd KW20)	1
+19118366	gene/protein	acyl carrier protein (Burkholderia mallei ATCC 23344)	1
+19118366	gene/protein	acyl carrier protein (Bacillus subtilis subsp. subtilis str. 168)	1
+19118366	gene/protein	prostatic acid phosphatase (human)	1
+19118366	gene/protein	acyl carrier protein (Sinorhizobium fredii NGR234)	1
+19118366	gene/protein	acyl carrier protein (Staphylococcus epidermidis ATCC 12228)	1
+19118366	gene/protein	acyl carrier protein (Bacillus thuringiensis serovar konkukian str. 97-27)	1
+19118366	gene/protein	acyl carrier protein (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+19118366	gene/protein	nodulation protein F (Sinorhizobium meliloti 1021)	1
+19118366	gene/protein	Acyl carrier protein AcpXL	1
+19118366	gene/protein	120.7 kDa protein in NOF-FB transposable element (fruit fly)	1
+19118366	gene/protein	asparagine synthetase B [glutamine-hydrolyzing]	1
+19118366	gene/protein	asparagine synthetase B [glutamine-hydrolyzing] (Escherichia coli K-12)	1
+19118366	gene/protein	glutamine-dependent NAD(+) synthetase	1
+19118366	gene/protein	protein BEX3	1
+19118366	gene/protein	NH(3)-dependent NAD(+) synthetase	1
+19118366	gene/protein	NH(3)-dependent NAD(+) synthetase (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+19118366	gene/protein	protein BEX3 (rat)	1
+19118366	gene/protein	NH(3)-dependent NAD(+) synthetase (Escherichia coli K-12)	1
+19118366	gene/protein	protein BEX3 (mouse)	1
+19118366	gene/protein	protein BEX3 (human)	1
+19118366	gene/protein	Polyketide biosynthesis acyltransferase homolog BaeD	1
+19118366	gene/protein	Polyketide biosynthesis acyltransferase homolog PksD	1
+19118366	gene/protein	Prophenin-2	1
+19118366	molecular_function	holo-[acyl-carrier-protein] synthase activity	2
+19118366	molecular_function	transporter activity	1
+19118366	organism	Escherichia coli	4
+19118366	organism	Sinorhizobium meliloti	2
+19118366	organism	unidentified plasmid	1
+19118366	organism	bacterium IFAM-3211	1
+19118366	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+19118366	organism	bacterium IFAM-3215	1
+19118366	organism	bacterium IFAM-2074	1
+19118366	organism	bacterium IFAM-3359	1
+19118366	organism	bacterium	1
+19118366	organism	bacterium IFAM-1493	1
+19118366	sequence	operon	2
+19118366	sequence	polypeptide	2
+19118366	sequence	mature_protein_region	1
+19118366	sequence	genome	1
+19118366	sequence	region	1
+19118366	sequence	ORF	1
+19118366	sequence	plasmid	1
+19118366	sequence	gene	1
+19118366	sequence	asparagine	1
+19118366	cell_line	SMB	10
+19118366	cell_line	HeLa C12	1
+19118366	cell_line	c12 (B15ECiii2)	1
+19118366	cell_line	C2C12	1
+19118366	cell_line	RLC-18	1
+19118366	cell_line	CCCL-4	1
+19118366	clinical_drug	Asparagine	1
+19118366	molecular_process	acylation	1

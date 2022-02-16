@@ -1,0 +1,37 @@
+19202087	biological_process	symbiotic process	2
+19202087	biological_process	nodulation	1
+19202087	biological_process	obsolete senescence	1
+19202087	biological_process	modulation by symbiont of host response to heat	1
+19202087	biological_process	response to heat	1
+19202087	chemical	Sigma Factor	2
+19202087	chemical	Sodium Hypochlorite	2
+19202087	chemical	Hydrogen Peroxide	2
+19202087	chemical	Sucrose	2
+19202087	chemical	physiological role	1
+19202087	chemical	Complement System Proteins	1
+19202087	chemical	sodium hypochlorite	1
+19202087	chemical	hydrogen peroxide	1
+19202087	chemical	sodium chloride	1
+19202087	chemical	sucrose	1
+19202087	chemical	Nitrogenase	1
+19202087	chemical	RNA polymerase sigma 70	1
+19202087	chemical	protein	1
+19202087	gene/protein	RNA polymerase sigma factor RpoD	35
+19202087	gene/protein	RNA polymerase sigma factor RpoH (Escherichia coli K-12)	27
+19202087	gene/protein	RNA polymerase sigma factor RpoH	27
+19202087	gene/protein	RNA polymerase sigma factor SigA	3
+19202087	gene/protein	Protein BEAN1	2
+19202087	gene/protein	protein BEAN	1
+19202087	molecular_function	nitrogenase activity	1
+19202087	organism	Rhizobium etli	2
+19202087	organism	Escherichia coli	2
+19202087	sequence	promoter	2
+19202087	sequence	double	1
+19202087	sequence	gene	1
+19202087	sequence	5KB_upstream_variant	1
+19202087	cell_line	R1192	1
+19202087	organ/tissue	cerebellum vermis lobule X	3
+19202087	organ/tissue	germinal center	3
+19202087	clinical_drug	Sodium Hypochlorite	1
+19202087	clinical_drug	Hydrogen Peroxide	1
+19202087	clinical_drug	Sucrose	1

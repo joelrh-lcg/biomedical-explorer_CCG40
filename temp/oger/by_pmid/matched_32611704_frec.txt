@@ -1,0 +1,8 @@
+32611704	chemical	arg	15
+32611704	chemical	antibiotic	3
+32611704	chemical	nucleotide	1
+32611704	gene/protein	arg	15
+32611704	sequence	arg	3
+32611704	sequence	gene	2
+32611704	sequence	signal	2
+32611704	sequence	single nucleotide polymorphism	1

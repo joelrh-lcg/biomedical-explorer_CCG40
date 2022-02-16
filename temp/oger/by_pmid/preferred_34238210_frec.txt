@@ -1,0 +1,7 @@
+34238210	biological_process	gene expression	2
+34238210	chemical	base	1
+34238210	gene/protein	proton-coupled amino acid transporter-like protein pathetic (fruit fly)	1
+34238210	sequence	gene	10
+34238210	sequence	base	1
+34238210	sequence	transit_peptide	1
+34238210	sequence	signal_peptide	1

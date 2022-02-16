@@ -1,0 +1,34 @@
+10858449	biological_process	methylation	2
+10858449	biological_process	phosphatidylcholine biosynthesis	1
+10858449	biological_process	biosynthesis	1
+10858449	chemical	phosphatidylcholine	10
+10858449	chemical	pathway	6
+10858449	chemical	choline	6
+10858449	chemical	phosphatidylcholine synthase	5
+10858449	chemical	cmp	4
+10858449	chemical	phospholipid	1
+10858449	chemical	K E E	1
+10858449	chemical	complement	1
+10858449	chemical	lipid	1
+10858449	disease	pcs	1
+10858449	gene/protein	phosphatidylcholine synthase	55
+10858449	gene/protein	pcs	16
+10858449	gene/protein	cmp	4
+10858449	gene/protein	Chem	2
+10858449	organism	Rhizobium meliloti	2
+10858449	organism	Escherichia coli	2
+10858449	organism	Pseudomonas aeruginosa	2
+10858449	organism	Borrelia burgdorferi	2
+10858449	organism	eukaryote	1
+10858449	organism	Sinorhizobium	1
+10858449	sequence	gene	5
+10858449	sequence	enzymatic	1
+10858449	sequence	cosmid	1
+10858449	sequence	fragment	1
+10858449	sequence	genome	1
+10858449	sequence	wild type	1
+10858449	cell	cmp	2
+10858449	cell_line	cmp	1
+10858449	organ/tissue	pcs	2
+10858449	clinical_drug	choline	2
+10858449	molecular_process	methylation	2

@@ -1,0 +1,31 @@
+25054342	biological_process	virulence	3
+25054342	biological_process	homeostasis	1
+25054342	cellular_component	protein	2
+25054342	chemical	zn2	12
+25054342	chemical	mn2	10
+25054342	chemical	manganese	4
+25054342	chemical	protein	4
+25054342	chemical	cd2	3
+25054342	chemical	fe2	3
+25054342	chemical	2fe2	3
+25054342	chemical	proteins	2
+25054342	chemical	cation	1
+25054342	disease	pneumonia	2
+25054342	gene/protein	cd2	12
+25054342	gene/protein	cdf	6
+25054342	gene/protein	protein	2
+25054342	gene/protein	sll	1
+25054342	organism	Synechocystis sp	6
+25054342	organism	Deinococcus radiodurans	2
+25054342	organism	Thermus thermophilus	2
+25054342	organism	Rhizobium etli	2
+25054342	organism	e coli	2
+25054342	organism	streptococcus	1
+25054342	organism	αproteobacteria	1
+25054342	sequence	gene	4
+25054342	sequence	homolog	2
+25054342	sequence	protein	2
+25054342	sequence	ortholog	1
+25054342	cell_line	mn2	10
+25054342	clinical_drug	mn2	10
+25054342	clinical_drug	manganese	1

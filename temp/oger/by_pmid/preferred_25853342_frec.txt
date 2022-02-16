@@ -1,0 +1,19 @@
+25853342	biological_process	export across plasma membrane	1
+25853342	biological_process	export from cell	1
+25853342	cellular_component	chromosome	1
+25853342	chemical	Anti-Bacterial Agents	18
+25853342	chemical	antimicrobial agent	9
+25853342	chemical	drug	2
+25853342	disease	Disease Attributes	2
+25853342	organism	Escherichia coli	8
+25853342	organism	bacterium IFAM-3211	5
+25853342	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	5
+25853342	organism	bacterium IFAM-3215	5
+25853342	organism	bacterium IFAM-2074	5
+25853342	organism	bacterium IFAM-3359	5
+25853342	organism	bacterium	5
+25853342	organism	bacterium IFAM-1493	5
+25853342	organism	unidentified	1
+25853342	sequence	chromosome	1
+25853342	cell_line	SCLC-24H	1
+25853342	molecular_process	reduction	2

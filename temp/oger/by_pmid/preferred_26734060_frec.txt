@@ -1,0 +1,7 @@
+26734060	chemical	TimeLine	2
+26734060	chemical	azafenidin	1
+26734060	chemical	sulfoxaflor	1
+26734060	organism	unidentified	1
+26734060	organism	metagenome	1
+26734060	sequence	transition	1
+26734060	organ/tissue	multicellular organism	1

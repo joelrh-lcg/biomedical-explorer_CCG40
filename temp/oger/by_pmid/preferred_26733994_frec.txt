@@ -1,0 +1,37 @@
+26733994	biological_process	secondary metabolic process	1
+26733994	biological_process	sporulation	1
+26733994	biological_process	ascospore formation	1
+26733994	biological_process	biosynthetic process	1
+26733994	cellular_component	membrane	4
+26733994	cellular_component	plasma membrane	1
+26733994	cellular_component	obsolete cell wall inner membrane	1
+26733994	chemical	lipid	6
+26733994	chemical	phosphatidylethanolamine	3
+26733994	chemical	actinorhodin	3
+26733994	chemical	Phosphates	2
+26733994	chemical	ornithine containing aminolipid	2
+26733994	chemical	Phosphorus	2
+26733994	chemical	phosphate	1
+26733994	chemical	phosphate)	1
+26733994	chemical	phosphate ion	1
+26733994	chemical	phosphate(3-)	1
+26733994	chemical	phosphoric acid	1
+26733994	chemical	hydrogenphosphate	1
+26733994	chemical	phosphorus(.)	1
+26733994	chemical	phosphorus atom	1
+26733994	chemical	tetraphosphorus	1
+26733994	chemical	(S)-1,2-distearoylphosphatidylethanolaminium	1
+26733994	chemical	actinorhodin(3-)	1
+26733994	gene/protein	protein POLAR LOCALIZATION DURING ASYMMETRIC DIVISION AND REDISTRIBUTION (Arabidopsis thaliana)	2
+26733994	organism	Streptomyces coelicolor	2
+26733994	organism	Life Cycle Stages	1
+26733994	organism	ornithine containing aminolipid	1
+26733994	organism	Streptomyces	1
+26733994	sequence	gene	1
+26733994	cell_line	Scooter	1
+26733994	organ/tissue	membrane organ	5
+26733994	organ/tissue	membranous layer	5
+26733994	organ/tissue	life cycle	1
+26733994	organ/tissue	life cycle stage	1
+26733994	organ/tissue	subcommissural organ	1
+26733994	clinical_drug	Ornithine	1

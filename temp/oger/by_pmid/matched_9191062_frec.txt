@@ -1,0 +1,24 @@
+9191062	biological_process	translation	3
+9191062	biological_process	protein synthesis	2
+9191062	cellular_component	protein	2
+9191062	cellular_component	ribosome	2
+9191062	chemical	protein	4
+9191062	chemical	codon	1
+9191062	disease	starvation	2
+9191062	gene/protein	bar	4
+9191062	gene/protein	rna	4
+9191062	gene/protein	protein	2
+9191062	molecular_function	hydrolase activity	1
+9191062	organism	Escherichia coli	2
+9191062	organism	bacteriophage lambda	2
+9191062	organism	phage	1
+9191062	sequence	protein	2
+9191062	sequence	transcript	2
+9191062	sequence	signal	2
+9191062	sequence	bacteriophage	1
+9191062	sequence	phage	1
+9191062	sequence	sequence	1
+9191062	sequence	codon	1
+9191062	sequence	open reading frame	1
+9191062	organ/tissue	bar	4
+9191062	organ/tissue	lambda	2

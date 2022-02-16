@@ -1,0 +1,22 @@
+7635216	biological_process	sulfation	5
+7635216	biological_process	nodulation	2
+7635216	biological_process	methylation	1
+7635216	chemical	nod factor	7
+7635216	chemical	sulfate	4
+7635216	chemical	factor sulfation	4
+7635216	chemical	mixture	2
+7635216	chemical	donor	2
+7635216	chemical	molecule	1
+7635216	disease	nod	8
+7635216	gene/protein	nod	360
+7635216	gene/protein	pgmi	4
+7635216	organism	bacterium	7
+7635216	organism	Rhizobium tropici	2
+7635216	organism	CFN299	2
+7635216	organism	Phaseolus vulgari	1
+7635216	organism	plasmid	1
+7635216	sequence	gene	4
+7635216	sequence	mutation	3
+7635216	sequence	plasmid	1
+7635216	sequence	donor	1
+7635216	molecular_process	methylation	1

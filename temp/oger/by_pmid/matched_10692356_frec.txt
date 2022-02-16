@@ -1,0 +1,17 @@
+10692356	biological_process	protein synthesis	3
+10692356	biological_process	protein degradation	1
+10692356	biological_process	cell growth	1
+10692356	cellular_component	protein	9
+10692356	chemical	protein	16
+10692356	chemical	mutant protein	1
+10692356	chemical	base	1
+10692356	gene/protein	pth	2349
+10692356	gene/protein	protein	9
+10692356	organism	Escherichia coli	2
+10692356	organism	bacteriophage lambda	2
+10692356	sequence	protein	9
+10692356	sequence	gene	2
+10692356	sequence	bacteriophage	1
+10692356	sequence	base	1
+10692356	organ/tissue	pth	3
+10692356	organ/tissue	lambda	1

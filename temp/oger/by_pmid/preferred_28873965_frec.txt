@@ -1,0 +1,5 @@
+28873965	chemical	Environmental DNA	2
+28873965	organism	Mammals	3
+28873965	organism	collection	1
+28873965	sequence	region	5
+28873965	organ/tissue	tissue	1

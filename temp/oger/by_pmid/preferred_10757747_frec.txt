@@ -1,0 +1,41 @@
+10757747	biological_process	recombinational repair	1
+10757747	biological_process	biosynthetic process	1
+10757747	biological_process	homologous recombination	1
+10757747	cellular_component	rough endoplasmic reticulum	5
+10757747	cellular_component	replication fork	1
+10757747	cellular_component	chromosome	1
+10757747	chemical	Nitrogenase	1
+10757747	gene/protein	protein Red	5
+10757747	gene/protein	protein Red (mouse)	5
+10757747	gene/protein	protein Red (human)	5
+10757747	gene/protein	bifunctional protein FolD	1
+10757747	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+10757747	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+10757747	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+10757747	gene/protein	probable N-acetyltransferase san (fruit fly)	1
+10757747	gene/protein	protein RecA (Brucella abortus bv. 1 str. 9-941)	1
+10757747	gene/protein	protein RecA (Mycobacterium tuberculosis H37Rv)	1
+10757747	gene/protein	DNA repair protein RAD51 homolog 1 (mouse)	1
+10757747	gene/protein	protein RecA	1
+10757747	gene/protein	DNA repair protein RAD51 homolog 1	1
+10757747	gene/protein	protein RecA (Brucella suis 1330)	1
+10757747	gene/protein	mitochondrial DNA repair protein recA homolog (Dictyostelium discoideum)	1
+10757747	gene/protein	protein RecA (Escherichia coli K-12)	1
+10757747	gene/protein	protein RecA (Brucella canis ATCC 23365)	1
+10757747	gene/protein	DNA repair protein RAD51 homolog 1 (human)	1
+10757747	gene/protein	protein RecA (Brucella suis ATCC 23445)	1
+10757747	gene/protein	protein RecA (Brucella melitensis ATCC 23457)	1
+10757747	gene/protein	DNA repair protein recA homolog 1, chloroplastic (Arabidopsis thaliana)	1
+10757747	gene/protein	protein RecA (Brucella abortus 2308)	1
+10757747	organism	unidentified plasmid	2
+10757747	organism	Rhizobium etli	2
+10757747	organism	Escherichia coli	2
+10757747	sequence	homologous	2
+10757747	sequence	plasmid	2
+10757747	sequence	deletion	2
+10757747	sequence	operon	1
+10757747	sequence	polypeptide_repeat	1
+10757747	sequence	allele	1
+10757747	sequence	chromosome	1
+10757747	cell_line	RECA	1
+10757747	organ/tissue	multicellular organism	1

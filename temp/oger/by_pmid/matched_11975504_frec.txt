@@ -1,0 +1,6 @@
+11975504	chemical	procera	4
+11975504	gene/protein	spp	16
+11975504	gene/protein	ssp	4
+11975504	molecular_function	spp	1
+11975504	organism	Valeriana edulis	1
+11975504	organ/tissue	ssp	1

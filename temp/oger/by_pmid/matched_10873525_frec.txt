@@ -1,0 +1,16 @@
+10873525	biological_process	nodulation	4
+10873525	biological_process	symbiosis	1
+10873525	biological_process	Cellular growth	1
+10873525	cellular_component	chromosome	1
+10873525	chemical	carbon	4
+10873525	organism	plasmid	9
+10873525	organism	bacterium	7
+10873525	organism	Rhizobium	2
+10873525	organism	Rhizobium etli	2
+10873525	organism	CFN42	1
+10873525	sequence	plasmid	9
+10873525	sequence	gene	2
+10873525	sequence	genome	1
+10873525	sequence	chromosome	1
+10873525	sequence	construct	1
+10873525	sequence	sequence	1

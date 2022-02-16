@@ -1,0 +1,9 @@
+28981567	cellular_component	obsolete protein	1
+28981567	chemical	protein	1
+28981567	chemical	(protein)	1
+28981567	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+28981567	gene/protein	protein IMPACT (zebrafish)	1
+28981567	gene/protein	protein	1
+28981567	sequence	promoter	1
+28981567	sequence	genome	1
+28981567	sequence	polypeptide	1

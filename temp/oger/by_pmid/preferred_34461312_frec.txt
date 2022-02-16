@@ -1,0 +1,10 @@
+34461312	biological_process	biological regulation	2
+34461312	biological_process	transcription, DNA-templated	2
+34461312	organism	Escherichia coli	2
+34461312	organism	bacterium IFAM-3211	1
+34461312	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+34461312	organism	bacterium IFAM-3215	1
+34461312	organism	bacterium IFAM-2074	1
+34461312	organism	bacterium IFAM-3359	1
+34461312	organism	bacterium	1
+34461312	organism	bacterium IFAM-1493	1

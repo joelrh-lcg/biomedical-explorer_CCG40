@@ -1,0 +1,24 @@
+30686564	biological_process	virulence	3
+30686564	cellular_component	antibody	3
+30686564	chemical	igg	3
+30686564	chemical	antigen	3
+30686564	chemical	iga	1
+30686564	chemical	IgM	1
+30686564	chemical	virulence factor	1
+30686564	disease	infection	8
+30686564	disease	immune system	2
+30686564	gene/protein	adhesin	10
+30686564	gene/protein	intimin	5
+30686564	gene/protein	dam	4
+30686564	gene/protein	iga	3
+30686564	gene/protein	major antigen	1
+30686564	molecular_function	antibody	1
+30686564	organism	citrobacter rodentium	2
+30686564	cell	enterocyte	1
+30686564	organ/tissue	breast	2
+30686564	organ/tissue	milk	2
+30686564	organ/tissue	immune system	1
+30686564	organ/tissue	adult	1
+30686564	organ/tissue	female	1
+30686564	organ/tissue	intestinal lumen	1
+30686564	organ/tissue	coat	1

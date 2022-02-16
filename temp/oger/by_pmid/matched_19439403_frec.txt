@@ -1,0 +1,36 @@
+19439403	biological_process	formation	2
+19439403	biological_process	synthesis	1
+19439403	cellular_component	membrane	1
+19439403	chemical	Cardiolipin	3
+19439403	chemical	glycerol	3
+19439403	chemical	cytidine	3
+19439403	chemical	cardiolipin synthase	2
+19439403	chemical	phosphatidyl group	2
+19439403	chemical	phosphatidylglycerol	2
+19439403	chemical	molecule	2
+19439403	chemical	donor	2
+19439403	chemical	lipid	1
+19439403	chemical	phospholipase d	1
+19439403	disease	cls	2
+19439403	disease	Cls	1
+19439403	gene/protein	phospholipase d	228
+19439403	gene/protein	cardiolipin synthase	40
+19439403	gene/protein	cls	26
+19439403	gene/protein	Cls	13
+19439403	molecular_function	cardiolipin synthase	4
+19439403	organism	bacterium	14
+19439403	organism	Streptomyces coelicolor	2
+19439403	organism	Rhizobium etli	2
+19439403	organism	actinobacteria	2
+19439403	organism	archaea	1
+19439403	organism	eukaryote	1
+19439403	organism	bacterium be	1
+19439403	sequence	donor	1
+19439403	sequence	genome	1
+19439403	sequence	gene	1
+19439403	sequence	orthologue	1
+19439403	cell_line	sco	4
+19439403	cell_line	A32	1
+19439403	organ/tissue	sco	4
+19439403	organ/tissue	membrane	2
+19439403	organ/tissue	animal	2

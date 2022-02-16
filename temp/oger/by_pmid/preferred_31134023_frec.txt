@@ -1,0 +1,67 @@
+31134023	biological_process	nitrate assimilation	2
+31134023	biological_process	denitrification pathway	1
+31134023	cellular_component	chromosome	1
+31134023	chemical	nitrate	7
+31134023	chemical	Greenhouse Gases	2
+31134023	chemical	Nitrous Oxide	2
+31134023	chemical	Nitrate Reductase	2
+31134023	chemical	Nitrite Reductases	2
+31134023	chemical	nitrogen atom	2
+31134023	chemical	nitrogen(.)	2
+31134023	chemical	nitrite	2
+31134023	chemical	greenhouse gas	1
+31134023	chemical	dinitrogen oxide	1
+31134023	chemical	nitric-oxide reductase	1
+31134023	chemical	nitrous oxide reductase	1
+31134023	chemical	picloram	1
+31134023	disease	Disease Attributes	2
+31134023	gene/protein	Nitrous-oxide reductase	12
+31134023	gene/protein	Nitrate reductase	10
+31134023	gene/protein	Beta-catenin-like protein 1	4
+31134023	gene/protein	Nitrite reductase	4
+31134023	gene/protein	molybdenum cofactor guanylyltransferase	4
+31134023	gene/protein	molybdenum cofactor guanylyltransferase (Escherichia coli K-12)	4
+31134023	gene/protein	copper-containing nitrite reductase (Sinorhizobium meliloti 1021)	3
+31134023	gene/protein	Protein BEAN1	2
+31134023	gene/protein	Ferredoxin--nitrite reductase, chloroplastic	2
+31134023	gene/protein	dosage compensation regulator (fruit fly)	1
+31134023	gene/protein	beta-catenin-like protein 1	1
+31134023	gene/protein	napsin-A (mouse)	1
+31134023	gene/protein	NAC transcription factor 29 (Arabidopsis thaliana)	1
+31134023	gene/protein	protein NAP1 (Arabidopsis thaliana)	1
+31134023	gene/protein	napsin-A	1
+31134023	gene/protein	cleavage and polyadenylation specificity factor subunit 4 (human)	1
+31134023	gene/protein	cleavage and polyadenylation specificity factor subunit 4	1
+31134023	gene/protein	activated RNA polymerase II transcriptional coactivator p15 (human)	1
+31134023	gene/protein	activated RNA polymerase II transcriptional coactivator p15 (rat)	1
+31134023	gene/protein	activated RNA polymerase II transcriptional coactivator p15	1
+31134023	gene/protein	activated RNA polymerase II transcriptional coactivator p15 (mouse)	1
+31134023	gene/protein	activated RNA polymerase II transcriptional coactivator p15 (chicken)	1
+31134023	gene/protein	RNA polymerase II transcriptional coactivator SUB1 (yeast)	1
+31134023	gene/protein	Nitric oxide reductase	1
+31134023	gene/protein	protein BEAN	1
+31134023	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+31134023	gene/protein	ferredoxin--nitrite reductase, chloroplastic (Arabidopsis thaliana)	1
+31134023	gene/protein	nucleolar complex protein 2	1
+31134023	gene/protein	nucleolar complex protein 2 homolog (human)	1
+31134023	gene/protein	Assimilatory ferredoxin-dependent nitrite reductase	1
+31134023	gene/protein	nucleolar complex protein 2 homolog (mouse)	1
+31134023	molecular_function	nitrate reductase activity	1
+31134023	organism	Rhizobium etli	1
+31134023	organism	bacterium IFAM-3211	1
+31134023	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+31134023	organism	bacterium IFAM-3215	1
+31134023	organism	bacterium IFAM-2074	1
+31134023	organism	bacterium IFAM-3359	1
+31134023	organism	bacterium	1
+31134023	organism	bacterium IFAM-1493	1
+31134023	sequence	gene	5
+31134023	sequence	chromosome	1
+31134023	sequence	fusion	1
+31134023	cell_line	NAP	1
+31134023	cell_line	R1192	1
+31134023	organ/tissue	plantar part of pes	1
+31134023	clinical_drug	Nitrous Oxide	2
+31134023	clinical_drug	Nitrogen	2
+31134023	clinical_drug	Nitric Oxide	1
+31134023	molecular_process	reduction	2

@@ -1,0 +1,30 @@
+15242276	biological_process	symbiotic process	1
+15242276	gene/protein	Reticulon-4 receptor	4
+15242276	gene/protein	Acyl carrier protein AcpXL	1
+15242276	gene/protein	120.7 kDa protein in NOF-FB transposable element (fruit fly)	1
+15242276	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+15242276	gene/protein	extracellular adherence protein	1
+15242276	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+15242276	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+15242276	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+15242276	gene/protein	methionine aminopeptidase	1
+15242276	gene/protein	reticulon-4 receptor	1
+15242276	organism	Bradyrhizobium japonicum	2
+15242276	organism	Mesorhizobium loti	2
+15242276	organism	Rhizobium leguminosarum	2
+15242276	organism	Rhizobium etli	2
+15242276	organism	Sinorhizobium	1
+15242276	organism	Melilotus	1
+15242276	organism	unidentified plasmid	1
+15242276	organism	Rhizobium sp. IRc78	1
+15242276	organism	Rhizobium sp.	1
+15242276	organism	Rhizobium sp. SIN-1	1
+15242276	organism	Ensifer sp. BR816	1
+15242276	organism	Rhizobium sp. MPIK3030	1
+15242276	organism	Rhizobium sp. N33	1
+15242276	sequence	genome	2
+15242276	sequence	region	2
+15242276	sequence	ORF	2
+15242276	sequence	gene	1
+15242276	sequence	promoter	1
+15242276	sequence	plasmid	1

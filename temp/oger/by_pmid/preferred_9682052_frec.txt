@@ -1,0 +1,4 @@
+9682052	organism	Escherichia coli	2
+9682052	sequence	region	1
+9682052	sequence	genome	1
+9682052	organ/tissue	multicellular organism	1

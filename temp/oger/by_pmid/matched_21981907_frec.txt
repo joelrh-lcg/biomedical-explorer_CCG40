@@ -1,0 +1,8 @@
+21981907	chemical	BCG	2
+21981907	chemical	bcg	1
+21981907	gene/protein	BCG	6
+21981907	gene/protein	bcg	3
+21981907	organism	BCG	2
+21981907	organism	Mycobacterium bovis	1
+21981907	organism	bcg	1
+21981907	sequence	genome	1

@@ -1,0 +1,18 @@
+24646299	biological_process	conjugation	1
+24646299	chemical	lactone	1
+24646299	chemical	N-acylhomoserine lactone synthase	1
+24646299	chemical	N-acyl-L-homoserine lactone	1
+24646299	gene/protein	protein TraR (Escherichia coli K-12)	3
+24646299	gene/protein	transcriptional activator protein TraR (Agrobacterium tumefaciens)	3
+24646299	gene/protein	Transcriptional regulator	1
+24646299	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+24646299	gene/protein	Methanogenesis regulatory histidine kinase FilI	1
+24646299	gene/protein	PAP-specific phosphatase HAL2-like (Arabidopsis thaliana)	1
+24646299	organism	unidentified plasmid	6
+24646299	organism	Rhizobium etli	3
+24646299	organism	Rhizobium favelukesii	1
+24646299	organism	Sinorhizobium meliloti	1
+24646299	sequence	plasmid	6
+24646299	sequence	gene	4
+24646299	sequence	replicon	1
+24646299	entity_type	preferred_term	2

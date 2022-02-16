@@ -1,0 +1,10 @@
+27566552	chemical	probe	3
+27566552	chemical	Molecular Probes	2
+27566552	chemical	DNA, Ancient	1
+27566552	chemical	dinucleotide	1
+27566552	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+27566552	gene/protein	protein IMPACT (zebrafish)	1
+27566552	sequence	probe	4
+27566552	sequence	genome	2
+27566552	sequence	region	1
+27566552	cell_line	CPG	1

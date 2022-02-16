@@ -1,0 +1,24 @@
+11604446	biological_process	flowering	1
+11604446	cellular_component	protein	1
+11604446	chemical	nitrogen	6
+11604446	chemical	ammonium	3
+11604446	chemical	protein	2
+11604446	chemical	carbon	2
+11604446	chemical	35s	1
+11604446	chemical	nitrate	1
+11604446	gene/protein	gogat	2
+11604446	gene/protein	protein	1
+11604446	gene/protein	dry	1
+11604446	molecular_function	enzyme activity	1
+11604446	organism	tobacco	4
+11604446	organism	Nicotiana tabacum	2
+11604446	organism	alfalfa	2
+11604446	organism	CaMV	1
+11604446	sequence	gene	2
+11604446	sequence	transgenic	1
+11604446	sequence	promoter	1
+11604446	sequence	transgene	1
+11604446	sequence	protein	1
+11604446	organ/tissue	sole	1
+11604446	clinical_drug	nitrogen	3
+11604446	clinical_drug	alfalfa	1

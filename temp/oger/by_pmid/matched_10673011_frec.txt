@@ -1,0 +1,16 @@
+10673011	biological_process	homologous recombination	1
+10673011	biological_process	transposition	1
+10673011	gene/protein	map	6
+10673011	organism	collection	2
+10673011	organism	plasmid	1
+10673011	sequence	repeat	4
+10673011	sequence	genome	4
+10673011	sequence	sequence	2
+10673011	sequence	gain	1
+10673011	sequence	plasmid	1
+10673011	sequence	invert	1
+10673011	sequence	deletion	1
+10673011	sequence	inversion	1
+10673011	sequence	translocation	1
+10673011	sequence	homologous	1
+10673011	sequence	transposition	1

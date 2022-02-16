@@ -1,0 +1,18 @@
+28017900	biological_process	efflux	6
+28017900	biological_process	translation	2
+28017900	biological_process	transcription	1
+28017900	chemical	5utr	6
+28017900	chemical	HEA	6
+28017900	chemical	etbr	4
+28017900	chemical	ethidium bromide	3
+28017900	chemical	hea	2
+28017900	chemical	mic	2
+28017900	chemical	base	1
+28017900	gene/protein	sup	49
+28017900	organism	Staphylococcus aureus	2
+28017900	sequence	mutation	9
+28017900	sequence	5utr	6
+28017900	sequence	gene	4
+28017900	sequence	base	1
+28017900	sequence	sequence	1
+28017900	cell_line	mic	2

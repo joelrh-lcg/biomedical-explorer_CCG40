@@ -1,0 +1,23 @@
+26395550	biological_process	nodulation	3
+26395550	chemical	beta	2
+26395550	chemical	alpha	1
+26395550	gene/protein	spp	16
+26395550	gene/protein	reca	14
+26395550	gene/protein	rsp1	9
+26395550	gene/protein	bean	3
+26395550	gene/protein	dry	1
+26395550	molecular_function	spp	1
+26395550	organism	Rhizobiaceae	3
+26395550	organism	Acacia	2
+26395550	organism	Phaseolus vulgaris	2
+26395550	organism	Rhizobium etli	2
+26395550	organism	Rhizobium	1
+26395550	sequence	amplicon	1
+26395550	sequence	sequence	1
+26395550	sequence	gene	1
+26395550	sequence	genotype	1
+26395550	cell_line	reca	1
+26395550	cell_line	rsp	1
+26395550	cell_line	bean	1
+26395550	organ/tissue	nodule	6
+26395550	clinical_drug	Acacia	2

@@ -1,0 +1,10 @@
+33893080	chemical	protein	1
+33893080	disease	Uterine Cervical Neoplasms	4
+33893080	gene/protein	Glycine N-acyltransferase	5
+33893080	gene/protein	N-acetylmuramoyl-L-alanine amidase sle1 (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+33893080	gene/protein	glycine N-acyltransferase	1
+33893080	organism	Human papillomavirus 16	2
+33893080	sequence	natural_variant_site	3
+33893080	sequence	gene	1
+33893080	cell_line	NCE-G 350	2
+33893080	organ/tissue	hepatic portal vein	2

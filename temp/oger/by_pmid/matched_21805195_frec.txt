@@ -1,0 +1,19 @@
+21805195	chemical	base	1
+21805195	chemical	hsp	1
+21805195	chemical	16s rrna	1
+21805195	gene/protein	rpob	14
+21805195	gene/protein	ntm	12
+21805195	gene/protein	NTM	8
+21805195	gene/protein	hsp65	4
+21805195	gene/protein	ssp	4
+21805195	gene/protein	chita	1
+21805195	organism	mycobacterium peregrinum	2
+21805195	organism	nontuberculous mycobacteria	1
+21805195	organism	human	1
+21805195	sequence	sequence	1
+21805195	sequence	base	1
+21805195	sequence	16s rrna	1
+21805195	sequence	fragment	1
+21805195	cell_line	21 °c	2
+21805195	cell_line	as m	1
+21805195	organ/tissue	ssp	1

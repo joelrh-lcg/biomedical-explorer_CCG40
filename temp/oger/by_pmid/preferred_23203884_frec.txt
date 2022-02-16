@@ -1,0 +1,24 @@
+23203884	biological_process	biological regulation	2
+23203884	biological_process	transcription, DNA-templated	1
+23203884	chemical	base	1
+23203884	chemical	atom	1
+23203884	gene/protein	Keratin, type I cytoskeletal 12	4
+23203884	gene/protein	EH domain-containing protein 2 (human)	1
+23203884	gene/protein	EH domain-containing protein 4	1
+23203884	gene/protein	EH domain-containing protein 4 (mouse)	1
+23203884	gene/protein	EH domain-containing protein 2	1
+23203884	gene/protein	secreted and transmembrane protein 1	1
+23203884	gene/protein	secreted and transmembrane protein 1 (human)	1
+23203884	gene/protein	secreted and transmembrane protein 1b	1
+23203884	gene/protein	keratin, type I cytoskeletal 12	1
+23203884	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+23203884	organism	Escherichia coli K12	1
+23203884	organism	collection	1
+23203884	sequence	regulatory_region	1
+23203884	sequence	regulatory_region_variant	1
+23203884	sequence	base	1
+23203884	sequence	TSS	1
+23203884	sequence	gene	1
+23203884	cell_line	K12 [Mouse osteosarcoma]	1
+23203884	cell_line	K12-72.1	1
+23203884	organ/tissue	organ	1

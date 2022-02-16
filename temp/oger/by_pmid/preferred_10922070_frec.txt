@@ -1,0 +1,27 @@
+10922070	biological_process	homologous recombination	1
+10922070	chemical	base	1
+10922070	chemical	atom	1
+10922070	chemical	picloram	1
+10922070	gene/protein	Reticulon-4 receptor	4
+10922070	gene/protein	reticulon-4 receptor	1
+10922070	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+10922070	gene/protein	extracellular adherence protein	1
+10922070	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+10922070	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+10922070	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+10922070	gene/protein	methionine aminopeptidase	1
+10922070	gene/protein	N5-carboxyaminoimidazole ribonucleotide mutase (Brucella suis 1330)	1
+10922070	gene/protein	bifunctional purine synthesis protein purC/E (Dictyostelium discoideum)	1
+10922070	gene/protein	N5-carboxyaminoimidazole ribonucleotide mutase (Brucella melitensis bv. 1 str. 16M)	1
+10922070	gene/protein	N5-carboxyaminoimidazole ribonucleotide mutase (Escherichia coli K-12)	1
+10922070	gene/protein	N5-carboxyaminoimidazole ribonucleotide mutase	1
+10922070	molecular_function	5-(carboxyamino)imidazole ribonucleotide mutase activity	1
+10922070	organism	unidentified plasmid	1
+10922070	organism	Rhizobium	1
+10922070	sequence	region	2
+10922070	sequence	base	1
+10922070	sequence	plasmid	1
+10922070	sequence	homologous	1
+10922070	sequence	replicon	1
+10922070	sequence	genome	1
+10922070	organ/tissue	organ	1

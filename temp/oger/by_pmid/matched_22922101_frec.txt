@@ -1,0 +1,30 @@
+22922101	biological_process	methylation	2
+22922101	biological_process	formation	1
+22922101	biological_process	Phospholipid Metabolism	1
+22922101	cellular_component	membrane	2
+22922101	chemical	diacylglycerol	308
+22922101	chemical	choline	6
+22922101	chemical	phosphatidylcholine	5
+22922101	chemical	phospholipid	5
+22922101	chemical	phosphatidylethanolamine	4
+22922101	chemical	CMP	4
+22922101	chemical	pathway	3
+22922101	chemical	phosphatidylcholine synthase	2
+22922101	chemical	cdpdiacylglycerol	1
+22922101	chemical	lipid	1
+22922101	chemical	molecule	1
+22922101	chemical	Phospholipid	1
+22922101	gene/protein	phosphatidylcholine synthase	22
+22922101	gene/protein	CMP	4
+22922101	gene/protein	Pmt	2
+22922101	molecular_function	Pmt	1
+22922101	organism	bacterium	28
+22922101	organism	eukaryote	2
+22922101	sequence	domain	1
+22922101	sequence	enzymatic	1
+22922101	sequence	intermediate	1
+22922101	cell	CMP	2
+22922101	cell_line	CMP	1
+22922101	organ/tissue	membrane	4
+22922101	clinical_drug	choline	2
+22922101	molecular_process	methylation	2

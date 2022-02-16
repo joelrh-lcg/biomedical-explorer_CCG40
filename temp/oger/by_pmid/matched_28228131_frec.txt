@@ -1,0 +1,6 @@
+28228131	chemical	hpo	2
+28228131	chemical	medicine	1
+28228131	gene/protein	hpo	8
+28228131	organism	human	2
+28228131	sequence	genome	1
+28228131	sequence	structural variant	1

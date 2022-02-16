@@ -1,0 +1,6 @@
+15680508	gene/protein	proton-coupled amino acid transporter-like protein pathetic (fruit fly)	1
+15680508	organism	Escherichia coli	2
+15680508	sequence	polypeptide_conserved_motif	3
+15680508	sequence	polypeptide_motif	3
+15680508	sequence	gene	1
+15680508	sequence	forward	1

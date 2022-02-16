@@ -1,0 +1,16 @@
+28702356	biological_process	nodulation	1
+28702356	biological_process	nitrogen fixation	1
+28702356	chemical	nitrogen atom	1
+28702356	chemical	nitrogen(.)	1
+28702356	gene/protein	Protein BEAN1	2
+28702356	gene/protein	LIM domain-containing protein A (Dictyostelium discoideum)	1
+28702356	gene/protein	protein BEAN	1
+28702356	organism	Phaseolus lunatus	1
+28702356	sequence	genome	2
+28702356	sequence	region	2
+28702356	sequence	gene	2
+28702356	sequence	databank_entry	1
+28702356	cell_line	LIMA 97	1
+28702356	cell_line	R1192	1
+28702356	clinical_drug	Phaseolus lunatus allergenic extract	1
+28702356	clinical_drug	Nitrogen	1

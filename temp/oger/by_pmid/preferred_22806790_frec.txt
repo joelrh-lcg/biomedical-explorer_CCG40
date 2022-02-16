@@ -1,0 +1,25 @@
+22806790	biological_process	obsolete germination	2
+22806790	chemical	Prodigiosin	8
+22806790	chemical	prodigiosin	4
+22806790	chemical	Chitinases	3
+22806790	chemical	Chitin	2
+22806790	chemical	metabolite	1
+22806790	chemical	chitin	1
+22806790	gene/protein	Chitinase	15
+22806790	gene/protein	Endochitinase	3
+22806790	gene/protein	Protein BEAN1	2
+22806790	gene/protein	protein BEAN	1
+22806790	organism	Arachis	2
+22806790	organism	Arachis hypogaea	2
+22806790	organism	Serratia	1
+22806790	organism	Colletotrichum	1
+22806790	organism	Sesamum indicum	1
+22806790	organism	Sesamum	1
+22806790	organism	Glycine max	1
+22806790	organism	Soybeans	1
+22806790	organism	Castor Bean	1
+22806790	organism	Ricinus communis	1
+22806790	cell_line	R1192	1
+22806790	clinical_drug	peanut allergenic extract	2
+22806790	clinical_drug	Soybean preparation	1
+22806790	clinical_drug	Soybean	1

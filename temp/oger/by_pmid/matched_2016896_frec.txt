@@ -1,0 +1,20 @@
+2016896	biological_process	vesicle fusion	1
+2016896	cellular_component	membrane	2
+2016896	cellular_component	vesicle	1
+2016896	chemical	lipid	3
+2016896	chemical	phospholipid	2
+2016896	chemical	solvent	1
+2016896	chemical	base	1
+2016896	chemical	ca2	1
+2016896	gene/protein	ca2	8
+2016896	molecular_function	binding	2
+2016896	molecular_function	vesicle fusion	1
+2016896	sequence	transition	4
+2016896	sequence	binding	4
+2016896	sequence	base	1
+2016896	sequence	fusion	1
+2016896	cell_line	ca2	1
+2016896	organ/tissue	membrane	4
+2016896	organ/tissue	fluid	1
+2016896	organ/tissue	ca2	1
+2016896	clinical_drug	ca2	1

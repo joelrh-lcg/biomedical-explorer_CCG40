@@ -1,0 +1,36 @@
+16690627	biological_process	defence response	1
+16690627	biological_process	formation	1
+16690627	biological_process	nodulation	1
+16690627	biological_process	gene expression	1
+16690627	chemical	genistein	15
+16690627	chemical	naringenin	8
+16690627	chemical	flavonoid	4
+16690627	chemical	anthocyanin	3
+16690627	chemical	isoflavonoid	2
+16690627	chemical	pathway	2
+16690627	chemical	isoflavone synthase	2
+16690627	chemical	Isoflavonoids	1
+16690627	chemical	phenylpropanoid	1
+16690627	chemical	cytochrome p450 monooxygenase	1
+16690627	chemical	35s	1
+16690627	chemical	isoflavone	1
+16690627	chemical	glycoside	1
+16690627	disease	ifs	3
+16690627	disease	nod	2
+16690627	disease	IFS	1
+16690627	gene/protein	nod	90
+16690627	gene/protein	pcr	8
+16690627	gene/protein	cytochrome p450 monooxygenase	3
+16690627	molecular_function	cytochrome p450	2
+16690627	organism	rice	14
+16690627	organism	soybean	4
+16690627	organism	Oryza sativa	2
+16690627	organism	legume	1
+16690627	sequence	gene	4
+16690627	sequence	intermediate	3
+16690627	sequence	transgenic	2
+16690627	sequence	promoter	1
+16690627	organ/tissue	nodule	2
+16690627	organ/tissue	tissue	1
+16690627	clinical_drug	rice	7
+16690627	clinical_drug	soybean	4

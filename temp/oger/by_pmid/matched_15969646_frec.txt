@@ -1,0 +1,7 @@
+15969646	biological_process	transcription	2
+15969646	molecular_function	transcription factor	2
+15969646	organism	Escherichia coli	2
+15969646	organism	bacillus subtilis	2
+15969646	sequence	gene	3
+15969646	organ/tissue	organism	1
+15969646	clinical_drug	bacillus subtilis	1

@@ -1,0 +1,6 @@
+1913213	biological_process	regulation	2
+1913213	biological_process	regulation of gene expression	1
+1913213	chemical	proteins	1
+1913213	chemical	formal	1
+1913213	sequence	gene	3
+1913213	sequence	construct	1

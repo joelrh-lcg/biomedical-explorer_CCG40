@@ -1,0 +1,12 @@
+19767616	cellular_component	protein	2
+19767616	chemical	proteins	4
+19767616	chemical	protein	4
+19767616	chemical	Protein	1
+19767616	chemical	oligonucleotide	1
+19767616	gene/protein	protein	2
+19767616	sequence	protein	2
+19767616	sequence	dna motif	1
+19767616	sequence	oligonucleotide	1
+19767616	sequence	sequence	1
+19767616	sequence	variant	1
+19767616	organ/tissue	web	1

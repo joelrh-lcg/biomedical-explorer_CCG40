@@ -1,0 +1,13 @@
+1409648	biological_process	regulation	6
+1409648	chemical	base	3
+1409648	chemical	sigma 70	2
+1409648	chemical	proteins	2
+1409648	chemical	formal	1
+1409648	gene/protein	sigma 70	76
+1409648	molecular_function	binding	1
+1409648	organism	Escherichia coli	2
+1409648	organism	collection	1
+1409648	sequence	base	3
+1409648	sequence	promoter	2
+1409648	sequence	binding site	2
+1409648	sequence	gene	1

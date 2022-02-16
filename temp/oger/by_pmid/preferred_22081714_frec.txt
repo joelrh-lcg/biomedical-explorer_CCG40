@@ -1,0 +1,23 @@
+22081714	biological_process	nodulation	1
+22081714	chemical	D-alanine	1
+22081714	disease	Indifference to Pain, Congenital, Autosomal Recessive	1
+22081714	gene/protein	cardiolipin synthase A	4
+22081714	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	4
+22081714	gene/protein	Muscular LMNA-interacting protein	3
+22081714	gene/protein	Protein BEAN1	2
+22081714	gene/protein	protein BEAN	1
+22081714	gene/protein	allantoin permease (yeast)	1
+22081714	gene/protein	muscular LMNA-interacting protein (mouse)	1
+22081714	gene/protein	muscular LMNA-interacting protein (rat)	1
+22081714	gene/protein	muscular LMNA-interacting protein	1
+22081714	gene/protein	CD59 glycoprotein	1
+22081714	gene/protein	muscular LMNA-interacting protein (human)	1
+22081714	organism	Rhizobium grahamii	7
+22081714	organism	Rhizobium mesoamericanum	7
+22081714	organism	Rhizobium	1
+22081714	organism	Leucaena leucocephala	1
+22081714	organism	Phaseolus	1
+22081714	organism	Phaseolus vulgaris	1
+22081714	organism	bacterium BE	1
+22081714	cell_line	R1192	1
+22081714	cell_line	Dal-4	1

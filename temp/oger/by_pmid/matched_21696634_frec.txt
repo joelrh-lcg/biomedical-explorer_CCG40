@@ -1,0 +1,7 @@
+21696634	disease	cervical cancer	2
+21696634	disease	papilloma	2
+21696634	disease	disease	2
+21696634	disease	carcinogenesis	2
+21696634	organism	human papilloma Virus	2
+21696634	organ/tissue	female	1
+21696634	organ/tissue	HPV	1

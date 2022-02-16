@@ -1,0 +1,14 @@
+21592712	chemical	ethyl acetate	3
+21592712	chemical	base	1
+21592712	organism	Pseudomonas koreensis	2
+21592712	organism	Exiguobacterium aurantiacum	2
+21592712	organism	strain m	2
+21592712	organism	bacillus subtilis	2
+21592712	sequence	base	1
+21592712	cell_line	ccb	4
+21592712	cell_line	CCB	2
+21592712	organ/tissue	ccb	4
+21592712	organ/tissue	CCB	2
+21592712	organ/tissue	organism	1
+21592712	clinical_drug	ethyl acetate	1
+21592712	clinical_drug	bacillus subtilis	1

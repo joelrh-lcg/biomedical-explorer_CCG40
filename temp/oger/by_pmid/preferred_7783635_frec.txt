@@ -1,0 +1,27 @@
+7783635	biological_process	nodulation	2
+7783635	biological_process	biosynthetic process	1
+7783635	cellular_component	root hair	1
+7783635	chemical	lipo-chitin oligosaccharide	3
+7783635	chemical	stearic acid	2
+7783635	chemical	carbamoyl group	2
+7783635	chemical	oligosaccharide	1
+7783635	chemical	pentasaccharide	1
+7783635	chemical	acid	1
+7783635	chemical	octadecanoic acid	1
+7783635	chemical	oxygen-18 atom	1
+7783635	chemical	molecule	1
+7783635	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT (Escherichia coli K-12)	1
+7783635	gene/protein	bifunctional (p)ppGpp synthase/hydrolase SpoT	1
+7783635	organism	Mesorhizobium loti	4
+7783635	organism	Lotus	4
+7783635	organism	Rhizobium	2
+7783635	organism	Leiostomus xanthurus	1
+7783635	sequence	substitute	1
+7783635	cell_line	RLC-18	1
+7783635	cell_line	CCCL-4	1
+7783635	organ/tissue	strand of hair	1
+7783635	organ/tissue	melanophore spot	1
+7783635	organ/tissue	cerebellum vermis lobule X	1
+7783635	organ/tissue	germinal center	1
+7783635	organ/tissue	primordium	1
+7783635	clinical_drug	Stearic Acid	1

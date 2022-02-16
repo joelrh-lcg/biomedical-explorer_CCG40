@@ -1,0 +1,21 @@
+33800466	biological_process	pathogenesis	5
+33800466	biological_process	obsolete virulence	5
+33800466	biological_process	viral process	5
+33800466	biological_process	G1 to G0 transition	1
+33800466	biological_process	single-celled organism vegetative growth phase	1
+33800466	cellular_component	host cell	1
+33800466	chemical	virulence factor	1
+33800466	disease	Disease	4
+33800466	disease	Babesiosis	2
+33800466	disease	Immune System Diseases	2
+33800466	disease	Infections	2
+33800466	organism	Bos taurus	5
+33800466	organism	Parasites	4
+33800466	organism	Cattle	3
+33800466	organism	Ticks	3
+33800466	organism	Apicomplexa	1
+33800466	organism	Mycoplasma iners	1
+33800466	organism	Chlorobaculum macestae	1
+33800466	sequence	gene	4
+33800466	sequence	vector_replicon	1
+33800466	organ/tissue	immune system	1

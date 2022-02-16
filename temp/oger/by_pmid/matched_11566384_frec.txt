@@ -1,0 +1,14 @@
+11566384	chemical	16s rrna	2
+11566384	gene/protein	bean	15
+11566384	gene/protein	nif	2
+11566384	gene/protein	dry	1
+11566384	gene/protein	lack	1
+11566384	organism	maize	10
+11566384	organism	Phaseolus vulgaris	2
+11566384	organism	Rhizobium etli	2
+11566384	organism	Zea	1
+11566384	organism	rhizobium	1
+11566384	sequence	16s rrna	2
+11566384	sequence	rrna gene	2
+11566384	sequence	gene	2
+11566384	cell_line	bean	5

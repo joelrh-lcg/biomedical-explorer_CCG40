@@ -1,0 +1,16 @@
+10508927	cellular_component	protein	1
+10508927	chemical	phosphate	8
+10508927	chemical	penicillin	4
+10508927	chemical	buffer	4
+10508927	chemical	ctab	3
+10508927	chemical	a factor	3
+10508927	chemical	hexanol	2
+10508927	chemical	protein	2
+10508927	chemical	trimethylammonium	1
+10508927	chemical	bromide	1
+10508927	gene/protein	fold	4
+10508927	gene/protein	ctab	1
+10508927	gene/protein	protein	1
+10508927	sequence	reverse	4
+10508927	sequence	protein	1
+10508927	molecular_process	hydrolysis	1

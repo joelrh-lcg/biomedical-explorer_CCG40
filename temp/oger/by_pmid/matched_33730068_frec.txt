@@ -1,0 +1,45 @@
+33730068	biological_process	false	2
+33730068	biological_process	glycolysis	2
+33730068	biological_process	cell proliferation	1
+33730068	biological_process	metabolism	1
+33730068	biological_process	transcription	1
+33730068	biological_process	flagellum assembly	1
+33730068	biological_process	galactose metabolism	1
+33730068	cellular_component	membrane	2
+33730068	cellular_component	flagellum	2
+33730068	chemical	glucose	5
+33730068	chemical	carbon	4
+33730068	chemical	glycerol	3
+33730068	chemical	sodium acetate	3
+33730068	chemical	galactose	3
+33730068	chemical	amino acid	2
+33730068	chemical	proteins	1
+33730068	chemical	hexose transporter	1
+33730068	chemical	integral membrane proteins	1
+33730068	disease	ncrna	1
+33730068	gene/protein	fold	4
+33730068	gene/protein	flia	3
+33730068	gene/protein	log2	2
+33730068	gene/protein	flhd	2
+33730068	gene/protein	flhc	2
+33730068	molecular_function	transcription factor	1
+33730068	organism	Escherichia coli	2
+33730068	organism	fission yeast	2
+33730068	organism	Schizosaccharomyces pombe	2
+33730068	organism	E coli	2
+33730068	organism	S pombe	2
+33730068	organism	e coli	2
+33730068	organism	eukaryote	1
+33730068	organism	eubacteria	1
+33730068	sequence	gene	5
+33730068	sequence	assembly	2
+33730068	sequence	construct	1
+33730068	sequence	amino acid	1
+33730068	sequence	ncrna	1
+33730068	organ/tissue	membrane	4
+33730068	organ/tissue	organism	2
+33730068	organ/tissue	proliferation	1
+33730068	clinical_drug	yeast	1
+33730068	clinical_drug	glucose	1
+33730068	clinical_drug	sodium acetate	1
+33730068	clinical_drug	galactose	1

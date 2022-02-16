@@ -1,0 +1,41 @@
+15280286	cellular_component	obsolete protein	1
+15280286	chemical	DNA, Ribosomal	3
+15280286	chemical	sulfur atom	2
+15280286	chemical	Coffee	2
+15280286	chemical	2,3,6-trichloroindophenol	2
+15280286	chemical	2,6-diisopropylnaphthalene	1
+15280286	chemical	protein	1
+15280286	chemical	(protein)	1
+15280286	chemical	fatty acid	1
+15280286	gene/protein	protein	1
+15280286	gene/protein	cardiolipin synthase A	1
+15280286	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+15280286	gene/protein	ryanodine receptor (fruit fly)	1
+15280286	organism	Zea mays	4
+15280286	organism	Paraburkholderia unamae	4
+15280286	organism	Burkholderia	2
+15280286	organism	bacterium IFAM-3211	1
+15280286	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+15280286	organism	bacterium IFAM-3215	1
+15280286	organism	bacterium IFAM-2074	1
+15280286	organism	bacterium IFAM-3359	1
+15280286	organism	bacterium	1
+15280286	organism	bacterium IFAM-1493	1
+15280286	organism	Saccharum	1
+15280286	organism	Saccharum officinarum	1
+15280286	organism	Saccharum hybrid cultivar	1
+15280286	organism	Coffea arabica	1
+15280286	organism	Methylophilus glucosoxydans	1
+15280286	organism	[Clostridium] polysaccharolyticum	1
+15280286	organism	Providencia burhodogranariea	1
+15280286	organism	Chloracidobacterium thermophilum	1
+15280286	organism	Paracoccus kocurii	1
+15280286	organism	Blautia schinkii	1
+15280286	organism	Rickettsia slovaca	1
+15280286	sequence	rRNA_gene	3
+15280286	sequence	genotype	1
+15280286	sequence	polypeptide	1
+15280286	sequence	region	1
+15280286	organ/tissue	tissue	1
+15280286	clinical_drug	sugarcane extract	1
+15280286	clinical_drug	Saccharum officinarum allergenic extract	1

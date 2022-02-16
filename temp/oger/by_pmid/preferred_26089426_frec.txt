@@ -1,0 +1,10 @@
+26089426	cellular_component	chromosome	1
+26089426	disease	Infections	2
+26089426	organism	Salmonella enterica subsp. enterica	1
+26089426	organism	Humans	1
+26089426	organism	unidentified plasmid	1
+26089426	sequence	region	1
+26089426	sequence	genotype	1
+26089426	sequence	genome	1
+26089426	sequence	chromosome	1
+26089426	sequence	plasmid	1

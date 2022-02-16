@@ -1,0 +1,28 @@
+7907211	biological_process	regulation	1
+7907211	chemical	nitrogen	4
+7907211	chemical	glutamine	4
+7907211	chemical	ammonium	3
+7907211	chemical	glutamine synthetase	2
+7907211	chemical	glutamate dehydrogenase	2
+7907211	chemical	proteins	1
+7907211	chemical	glutamate synthase	1
+7907211	chemical	amino	1
+7907211	disease	ms5	3
+7907211	gene/protein	glutamine synthetase	246
+7907211	gene/protein	glutamate dehydrogenase	34
+7907211	gene/protein	nit2	20
+7907211	gene/protein	map	6
+7907211	gene/protein	ms5	3
+7907211	gene/protein	glnr	3
+7907211	gene/protein	nmr1	2
+7907211	organism	Neurospora crassa	2
+7907211	sequence	glutamine	3
+7907211	sequence	gene	2
+7907211	sequence	mutation	1
+7907211	sequence	regulated	1
+7907211	cell_line	ms5	3
+7907211	cell_line	nit2	2
+7907211	cell_line	nmr1	2
+7907211	clinical_drug	glutamine	3
+7907211	clinical_drug	glutamate	3
+7907211	clinical_drug	nitrogen	2

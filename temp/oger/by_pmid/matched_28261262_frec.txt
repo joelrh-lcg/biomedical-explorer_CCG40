@@ -1,0 +1,15 @@
+28261262	biological_process	splicing	3
+28261262	cellular_component	protein	4
+28261262	chemical	protein	8
+28261262	chemical	proteins	1
+28261262	chemical	as AS	1
+28261262	gene/protein	protein	4
+28261262	organism	eukaryote	1
+28261262	sequence	protein	4
+28261262	sequence	gene	3
+28261262	sequence	intron	2
+28261262	sequence	duplication	1
+28261262	sequence	mutation	1
+28261262	sequence	sequence	1
+28261262	sequence	transcript	1
+28261262	sequence	isoform	1

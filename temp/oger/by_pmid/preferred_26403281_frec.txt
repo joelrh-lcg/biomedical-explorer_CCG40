@@ -1,0 +1,3 @@
+26403281	sequence	assembly	6
+26403281	sequence	genome	3
+26403281	sequence	region	1

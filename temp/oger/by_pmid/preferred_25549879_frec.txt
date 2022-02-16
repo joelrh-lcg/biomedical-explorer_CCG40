@@ -1,0 +1,34 @@
+25549879	biological_process	biofilm formation	7
+25549879	biological_process	pathogenesis	1
+25549879	biological_process	obsolete virulence	1
+25549879	biological_process	viral process	1
+25549879	chemical	norspermidine	24
+25549879	chemical	bis(3-aminopropyl)amine	12
+25549879	chemical	bis(3-azaniumylpropyl)azanium	12
+25549879	chemical	Spermidine	4
+25549879	chemical	Putrescine	4
+25549879	chemical	Cadaverine	4
+25549879	chemical	spermidine	2
+25549879	chemical	spermidine(3+)	2
+25549879	chemical	1,4-butanediammonium	2
+25549879	chemical	putrescine	2
+25549879	chemical	cadaverine	2
+25549879	chemical	cadaverine(2+)	2
+25549879	chemical	virulence factor	1
+25549879	chemical	polyamine macromolecule	1
+25549879	chemical	polyamine polymer	1
+25549879	chemical	polyamine	1
+25549879	disease	Eye Infections	2
+25549879	organism	Staphylococcus epidermidis	2
+25549879	organism	Bacillus subtilis	2
+25549879	organism	Desulfonauticus autotrophicus	1
+25549879	organ/tissue	integument	1
+25549879	organ/tissue	zone of skin	1
+25549879	organ/tissue	skin epidermis	1
+25549879	organ/tissue	skin of body	1
+25549879	organ/tissue	conjunctiva	1
+25549879	organ/tissue	sclerite	1
+25549879	organ/tissue	obsolete sclerite	1
+25549879	organ/tissue	lens of camera-type eye	1
+25549879	organ/tissue	transparent eye structure	1
+25549879	clinical_drug	Bacillus subtilis	1

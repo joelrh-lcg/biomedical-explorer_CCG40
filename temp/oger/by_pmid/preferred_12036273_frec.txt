@@ -1,0 +1,57 @@
+12036273	biological_process	phosphorylation	1
+12036273	biological_process	biological regulation	1
+12036273	biological_process	auxin transport	1
+12036273	biological_process	signaling	1
+12036273	biological_process	nodulation	1
+12036273	chemical	nodulation factor	4
+12036273	chemical	calmodulin	2
+12036273	chemical	Calmodulin	2
+12036273	chemical	Tyrosine	2
+12036273	chemical	Triiodobenzoic Acids	2
+12036273	chemical	indoleacetic acid	2
+12036273	chemical	Indoleacetic Acids	2
+12036273	chemical	DNA, Complementary	1
+12036273	chemical	tyrosine	1
+12036273	chemical	tyrosinyl radical	1
+12036273	chemical	L-tyrosine	1
+12036273	chemical	2,3,5-triiodobenzoic acid	1
+12036273	chemical	indole-3-acetic acid	1
+12036273	chemical	auxin	1
+12036273	disease	Hemangioma, Cavernous, Central Nervous System	4
+12036273	disease	Cataract, zonular	4
+12036273	disease	Myoclonic Epilepsies, Progressive	4
+12036273	gene/protein	Calmodulin	510
+12036273	gene/protein	Flavohemoprotein	172
+12036273	gene/protein	calmodulin	6
+12036273	gene/protein	calmodulin (rat)	4
+12036273	gene/protein	calmodulin-1 (rat)	4
+12036273	gene/protein	calmodulin (fruit fly)	4
+12036273	gene/protein	calmodulin-1 (human)	4
+12036273	gene/protein	calmodulin-1 (mouse)	4
+12036273	gene/protein	calmodulin (cow)	4
+12036273	gene/protein	calmodulin (chicken)	4
+12036273	gene/protein	calcium/calmodulin-dependent protein kinase type II alpha chain (fruit fly)	4
+12036273	gene/protein	flavohemoprotein	4
+12036273	gene/protein	kinesin-like protein Nod (fruit fly)	4
+12036273	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+12036273	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+12036273	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+12036273	gene/protein	protein POLAR LOCALIZATION DURING ASYMMETRIC DIVISION AND REDISTRIBUTION (Arabidopsis thaliana)	1
+12036273	organism	Phaseolus	1
+12036273	organism	Phaseolus vulgaris	1
+12036273	sequence	clone	6
+12036273	sequence	gene	2
+12036273	sequence	cDNA	1
+12036273	sequence	homologous	1
+12036273	sequence	consensus	1
+12036273	sequence	region	1
+12036273	sequence	tyrosine	1
+12036273	sequence	phosphorylation_site	1
+12036273	sequence	allele	1
+12036273	sequence	transcript	1
+12036273	organ/tissue	cerebellum vermis lobule X	4
+12036273	organ/tissue	germinal center	4
+12036273	organ/tissue	tissue	1
+12036273	organ/tissue	primordium	1
+12036273	clinical_drug	Tyrosine	1
+12036273	clinical_drug	Acetic Acid	1

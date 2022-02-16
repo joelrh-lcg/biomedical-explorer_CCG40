@@ -1,0 +1,12 @@
+11897025	cellular_component	obsolete protein	1
+11897025	chemical	protein	2
+11897025	chemical	(protein)	1
+11897025	gene/protein	protein	1
+11897025	molecular_function	binding	2
+11897025	organism	collection	1
+11897025	sequence	gene	4
+11897025	sequence	non_covalent_binding_site	2
+11897025	sequence	binding_site	2
+11897025	sequence	region	1
+11897025	sequence	polypeptide	1
+11897025	sequence	regulon	1

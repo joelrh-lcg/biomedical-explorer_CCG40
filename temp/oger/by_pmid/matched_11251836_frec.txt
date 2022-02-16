@@ -1,0 +1,28 @@
+11251836	biological_process	formation	2
+11251836	biological_process	methylation	2
+11251836	biological_process	nitrogen fixation	1
+11251836	biological_process	biosynthesis	1
+11251836	biological_process	symbiotic interaction	1
+11251836	cellular_component	membrane	1
+11251836	chemical	phosphatidylcholine	5
+11251836	chemical	phospholipid	4
+11251836	chemical	phosphatidylethanolamine	4
+11251836	chemical	pathway	2
+11251836	chemical	nitrogen	2
+11251836	chemical	leghaemoglobin	1
+11251836	gene/protein	pmta	4
+11251836	gene/protein	precursor	2
+11251836	organism	bacterium	7
+11251836	organism	soybean	4
+11251836	organism	Bradyrhizobium japonicum	2
+11251836	organism	Escherichia coli	2
+11251836	organism	eukaryote	1
+11251836	organism	Rhizobiaceae	1
+11251836	organism	legume	1
+11251836	sequence	gene	2
+11251836	sequence	wild type	1
+11251836	organ/tissue	nodule	8
+11251836	organ/tissue	membrane	2
+11251836	clinical_drug	soybean	4
+11251836	clinical_drug	nitrogen	1
+11251836	molecular_process	methylation	2

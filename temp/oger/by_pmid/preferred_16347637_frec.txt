@@ -1,0 +1,27 @@
+16347637	biological_process	nodulation	3
+16347637	biological_process	symbiotic process	1
+16347637	chemical	Nitrogenase	1
+16347637	gene/protein	Streptopain	7
+16347637	gene/protein	symplekin (fruit fly)	4
+16347637	gene/protein	CTD small phosphatase-like protein (chicken)	2
+16347637	gene/protein	minor histocompatibility antigen H13	1
+16347637	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+16347637	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+16347637	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+16347637	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+16347637	gene/protein	minor histocompatibility antigen H13 (human)	1
+16347637	gene/protein	sphingosine-1-phosphate phosphatase	1
+16347637	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+16347637	gene/protein	SD07518p (fruit fly)	1
+16347637	molecular_function	obsolete signal peptide peptidase activity	1
+16347637	organism	Sym plasmid	4
+16347637	organism	Agrobacterium	2
+16347637	organism	Rhizobium	2
+16347637	organism	unidentified plasmid	1
+16347637	organism	Phaseolus	1
+16347637	organism	Phaseolus vulgaris	1
+16347637	organism	Fabaceae	1
+16347637	sequence	plasmid	5
+16347637	sequence	gene	3
+16347637	organ/tissue	cerebellum vermis lobule X	2
+16347637	organ/tissue	germinal center	2

@@ -1,0 +1,9 @@
+25953176	gene/protein	bean	6
+25953176	gene/protein	mor	5
+25953176	organism	bacterium	7
+25953176	organism	arthrobacter	2
+25953176	organism	Arthrobacter chlorophenolicus	2
+25953176	sequence	genome	1
+25953176	sequence	mor	1
+25953176	cell_line	bean	2
+25953176	cell_line	mor	1

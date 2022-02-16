@@ -1,0 +1,27 @@
+34007059	chemical	protein	1
+34007059	chemical	Cytochromes	1
+34007059	chemical	cytochrome	1
+34007059	chemical	ubiquinol oxidase	1
+34007059	gene/protein	Alcohol dehydrogenase (quinone), dehydrogenase subunit	4
+34007059	gene/protein	Alcohol dehydrogenase (quinone), cytochrome c subunit	3
+34007059	gene/protein	protein STRUBBELIG (Arabidopsis thaliana)	1
+34007059	gene/protein	kinesin-like protein subito (fruit fly)	1
+34007059	gene/protein	Ubiquinol oxidase	1
+34007059	molecular_function	electron transporter, transferring electrons within the noncyclic electron transport pathway of photosynthesis activity	1
+34007059	molecular_function	electron transporter, transferring electrons from CoQH2-cytochrome c reductase complex and cytochrome c oxidase complex activity	1
+34007059	molecular_function	electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity	1
+34007059	molecular_function	electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity	1
+34007059	molecular_function	electron transporter, transferring electrons within cytochrome c oxidase complex activity	1
+34007059	molecular_function	obsolete cytochrome	1
+34007059	molecular_function	electron transporter, transferring electrons within CoQH2-cytochrome c reductase complex activity	1
+34007059	organism	Acidithiobacillus	1
+34007059	organism	bacterium IFAM-3211	1
+34007059	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+34007059	organism	bacterium IFAM-3215	1
+34007059	organism	bacterium IFAM-2074	1
+34007059	organism	bacterium IFAM-3359	1
+34007059	organism	bacterium	1
+34007059	organism	bacterium IFAM-1493	1
+34007059	organism	Proteobacteria	1
+34007059	sequence	genome	2
+34007059	clinical_drug	ubiquinol	1

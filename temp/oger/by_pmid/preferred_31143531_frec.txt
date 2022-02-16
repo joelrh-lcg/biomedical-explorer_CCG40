@@ -1,0 +1,40 @@
+31143531	biological_process	catabolic process	2
+31143531	biological_process	protein catabolic process	1
+31143531	cellular_component	obsolete protein	4
+31143531	cellular_component	proteasome complex	1
+31143531	chemical	protein	4
+31143531	chemical	(protein)	4
+31143531	chemical	Temefos	2
+31143531	chemical	benzyloxycarbonylleucyl-leucyl-leucine aldehyde	2
+31143531	chemical	Proteasome Inhibitors	2
+31143531	chemical	Intrinsically Disordered Proteins	1
+31143531	chemical	temephos	1
+31143531	chemical	N-benzyloxycarbonyl-L-leucyl-L-leucyl-L-leucinal	1
+31143531	chemical	proteasome inhibitor	1
+31143531	gene/protein	beta-glucuronidase (mouse)	8
+31143531	gene/protein	beta-glucuronidase	8
+31143531	gene/protein	beta-glucuronidase (rat)	8
+31143531	gene/protein	Beta-glucuronidase	8
+31143531	gene/protein	protein gustavus (fruit fly)	8
+31143531	gene/protein	protein	4
+31143531	gene/protein	DNA-3-methyladenine glycosylase 1 (Escherichia coli K-12)	1
+31143531	gene/protein	UPF0410 protein YmgE	1
+31143531	gene/protein	UPF0410 protein YmgE (Escherichia coli K-12)	1
+31143531	gene/protein	DNA-3-methyladenine glycosylase 1	1
+31143531	gene/protein	DNA-3-methyladenine glycosylase	1
+31143531	molecular_function	obsolete proteasome endopeptidase activity	1
+31143531	organism	Tobacco	1
+31143531	organism	Nicotiana tabacum	1
+31143531	organism	Arabidopsis	1
+31143531	sequence	region	8
+31143531	sequence	polypeptide	4
+31143531	sequence	fusion	3
+31143531	sequence	fragmentary	2
+31143531	sequence	transit_peptide	2
+31143531	sequence	signal_peptide	2
+31143531	sequence	tag	1
+31143531	sequence	transgenic	1
+31143531	sequence	point_mutation	1
+31143531	sequence	polypeptide_conserved_motif	1
+31143531	sequence	polypeptide_motif	1
+31143531	molecular_process	reduction	1

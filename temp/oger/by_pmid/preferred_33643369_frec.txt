@@ -1,0 +1,25 @@
+33643369	biological_process	biosynthetic process	4
+33643369	biological_process	symbiotic process	3
+33643369	chemical	nitrogen atom	2
+33643369	chemical	nitrogen(.)	2
+33643369	chemical	Ammonium Compounds	2
+33643369	chemical	ammonium	1
+33643369	chemical	exopolysaccharide	1
+33643369	chemical	cluster	1
+33643369	chemical	molecule	1
+33643369	disease	Meier-Gorlin syndrome	4
+33643369	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+33643369	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+33643369	organism	Medicago sativa	6
+33643369	organism	bacterium IFAM-3211	1
+33643369	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+33643369	organism	bacterium IFAM-3215	1
+33643369	organism	bacterium IFAM-2074	1
+33643369	organism	bacterium IFAM-3359	1
+33643369	organism	bacterium	1
+33643369	organism	bacterium IFAM-1493	1
+33643369	sequence	gene	4
+33643369	organ/tissue	extrapyramidal tract system	4
+33643369	organ/tissue	crop	1
+33643369	clinical_drug	Medicago sativa whole extract	3
+33643369	clinical_drug	Nitrogen	2

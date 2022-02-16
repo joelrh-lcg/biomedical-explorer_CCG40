@@ -1,0 +1,39 @@
+29030443	biological_process	demethylation	1
+29030443	biological_process	krebs cycle	1
+29030443	biological_process	degradation	1
+29030443	chemical	nmp	21
+29030443	chemical	NMP	15
+29030443	chemical	gaba	6
+29030443	chemical	GABA	6
+29030443	chemical	succinate	4
+29030443	chemical	cluster	3
+29030443	chemical	acid	3
+29030443	chemical	succinate semialdehyde	3
+29030443	chemical	transform	2
+29030443	chemical	amino acid	2
+29030443	chemical	complement	2
+29030443	chemical	pathway	2
+29030443	chemical	solvent	1
+29030443	chemical	oxidase	1
+29030443	chemical	gaba aminotransferase	1
+29030443	chemical	succinate semialdehyde dehydrogenase	1
+29030443	chemical	cyclic amide	1
+29030443	gene/protein	gaba aminotransferase	22
+29030443	gene/protein	SSDH	16
+29030443	gene/protein	SSA	10
+29030443	gene/protein	rat	3
+29030443	gene/protein	succinate semialdehyde dehydrogenase	2
+29030443	organism	bacterium	7
+29030443	organism	rat	2
+29030443	organism	unknown	2
+29030443	organism	human	1
+29030443	sequence	gene	5
+29030443	sequence	enzymatic	3
+29030443	sequence	polycistronic mrna	1
+29030443	sequence	amino acid	1
+29030443	sequence	double	1
+29030443	sequence	intermediate	1
+29030443	sequence	deletion	1
+29030443	organ/tissue	skin	4
+29030443	molecular_process	demethylation	1
+29030443	molecular_process	deamination	1

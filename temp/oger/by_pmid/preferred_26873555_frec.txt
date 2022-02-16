@@ -1,0 +1,36 @@
+26873555	biological_process	obsolete germination	1
+26873555	cellular_component	obsolete protein	2
+26873555	cellular_component	extracellular region	1
+26873555	cellular_component	germ tube	1
+26873555	chemical	cyclohexyl isocyanate	6
+26873555	chemical	Chitinases	5
+26873555	chemical	protein	2
+26873555	chemical	(protein)	2
+26873555	chemical	antagonist	1
+26873555	chemical	poly(acrylamide) macromolecule	1
+26873555	chemical	polyacrylamide macromolecule	1
+26873555	chemical	polyacrylamide	1
+26873555	chemical	polyacrylamide polymer	1
+26873555	chemical	acid	1
+26873555	chemical	anion	1
+26873555	disease	Disease	2
+26873555	gene/protein	Chitinase	25
+26873555	gene/protein	profilin (fruit fly)	6
+26873555	gene/protein	endochitinase CHI (Arabidopsis thaliana)	6
+26873555	gene/protein	Endochitinase	5
+26873555	gene/protein	protein	2
+26873555	gene/protein	protein Tube (fruit fly)	1
+26873555	organism	Streptomyces galilaeus	2
+26873555	organism	Streptomyces albus	2
+26873555	organism	Pseudocercospora fijiensis	1
+26873555	organism	Musa acuminata	1
+26873555	organism	Musa x paradisiaca	1
+26873555	organism	Musa	1
+26873555	organism	Streptomyces sp. S4	1
+26873555	organism	Streptomyces	1
+26873555	sequence	polypeptide	2
+26873555	cell	ascospore	1
+26873555	organ/tissue	matrix compartment	1
+26873555	organ/tissue	tube	1
+26873555	clinical_drug	banana allergenic extract	1
+26873555	clinical_drug	banana	1

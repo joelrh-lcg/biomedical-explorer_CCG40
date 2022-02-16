@@ -1,0 +1,36 @@
+31335270	biological_process	export across plasma membrane	2
+31335270	biological_process	export from cell	2
+31335270	cellular_component	efflux pump complex	2
+31335270	chemical	Anti-Bacterial Agents	4
+31335270	chemical	antimicrobial agent	2
+31335270	chemical	atom	1
+31335270	chemical	protein	1
+31335270	chemical	carbapenem	1
+31335270	disease	Infections	4
+31335270	gene/protein	Major outer membrane protein P.IB	10
+31335270	gene/protein	Streptopain	7
+31335270	gene/protein	protein STRUBBELIG (Arabidopsis thaliana)	4
+31335270	gene/protein	kinesin-like protein subito (fruit fly)	4
+31335270	gene/protein	Porin	2
+31335270	gene/protein	minor histocompatibility antigen H13	1
+31335270	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+31335270	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+31335270	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+31335270	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+31335270	gene/protein	minor histocompatibility antigen H13 (human)	1
+31335270	gene/protein	sphingosine-1-phosphate phosphatase	1
+31335270	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+31335270	gene/protein	SD07518p (fruit fly)	1
+31335270	gene/protein	Outer membrane protein	1
+31335270	gene/protein	Voltage-dependent anion-selective channel	1
+31335270	gene/protein	Major outer membrane protein	1
+31335270	gene/protein	voltage-dependent anion-selective channel (fruit fly)	1
+31335270	molecular_function	obsolete signal peptide peptidase activity	1
+31335270	molecular_function	porin activity	1
+31335270	organism	unidentified plasmid	6
+31335270	organism	unidentified insertion sequence	1
+31335270	sequence	plasmid	6
+31335270	sequence	gene	3
+31335270	sequence	transposable_element	1
+31335270	sequence	insertion_sequence	1
+31335270	organ/tissue	organ	1

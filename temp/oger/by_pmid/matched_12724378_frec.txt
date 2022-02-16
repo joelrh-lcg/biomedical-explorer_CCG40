@@ -1,0 +1,40 @@
+12724378	biological_process	stationary phase	2
+12724378	biological_process	symbiosis	2
+12724378	biological_process	nodulation	1
+12724378	biological_process	nitrogen fixation	1
+12724378	cellular_component	protein	1
+12724378	chemical	catalase	6
+12724378	chemical	h2o2	3
+12724378	chemical	peroxidase	2
+12724378	chemical	hydrogen peroxide h2o2	2
+12724378	chemical	protein	2
+12724378	chemical	nitrogen	2
+12724378	chemical	base	1
+12724378	chemical	proteins	1
+12724378	chemical	proteome	1
+12724378	gene/protein	catalase	237
+12724378	gene/protein	katg	22
+12724378	gene/protein	peroxidase	13
+12724378	gene/protein	oxyr	9
+12724378	gene/protein	orf	2
+12724378	gene/protein	protein	1
+12724378	molecular_function	peroxidase activity	1
+12724378	molecular_function	catalase activity	1
+12724378	molecular_function	binding	1
+12724378	organism	Rhizobium etli	2
+12724378	organism	Escherichia coli	2
+12724378	organism	Phaseolus vulgaris	2
+12724378	sequence	gene	4
+12724378	sequence	binding site	2
+12724378	sequence	base	1
+12724378	sequence	sequence	1
+12724378	sequence	domain	1
+12724378	sequence	protein	1
+12724378	sequence	insertion	1
+12724378	sequence	promoter	1
+12724378	sequence	orf	1
+12724378	sequence	promoter region	1
+12724378	sequence	sequence motif	1
+12724378	clinical_drug	peroxidase	1
+12724378	clinical_drug	hydrogen peroxide	1
+12724378	clinical_drug	nitrogen	1

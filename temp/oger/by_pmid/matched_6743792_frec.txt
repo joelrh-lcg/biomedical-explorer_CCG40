@@ -1,0 +1,2 @@
+6743792	sequence	domain	1
+6743792	cell	motile cell	1

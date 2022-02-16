@@ -1,0 +1,13 @@
+24396271	biological_process	regulation	2
+24396271	biological_process	gene expression	1
+24396271	cellular_component	core	4
+24396271	chemical	σ factor	4
+24396271	chemical	rna polymerase	1
+24396271	gene/protein	rna	2
+24396271	gene/protein	cue	1
+24396271	organism	bacterium	14
+24396271	organism	e coli	2
+24396271	organism	synthetic	1
+24396271	sequence	gene	1
+24396271	sequence	promoter	1
+24396271	organ/tissue	organism	1

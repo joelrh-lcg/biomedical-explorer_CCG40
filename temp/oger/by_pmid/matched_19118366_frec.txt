@@ -1,0 +1,51 @@
+19118366	biological_process	polyketide synthesis	1
+19118366	biological_process	formation	1
+19118366	biological_process	fatty acid biosynthesis	1
+19118366	cellular_component	protein	2
+19118366	chemical	acp	8
+19118366	chemical	4phosphopantetheine	8
+19118366	chemical	protein	4
+19118366	chemical	fatty acid	3
+19118366	chemical	proteins	2
+19118366	chemical	malonyl	2
+19118366	chemical	carrier proteins	1
+19118366	chemical	polyketide	1
+19118366	chemical	asparagine synthetase	1
+19118366	chemical	nad synthetase	1
+19118366	chemical	malonyl group	1
+19118366	chemical	c12 0	1
+19118366	chemical	c18 0	1
+19118366	disease	acp	4
+19118366	gene/protein	acp	2308
+19118366	gene/protein	smb	140
+19118366	gene/protein	acpp	25
+19118366	gene/protein	nad synthetase	10
+19118366	gene/protein	nade	7
+19118366	gene/protein	acps	6
+19118366	gene/protein	orf	2
+19118366	gene/protein	asnb	2
+19118366	gene/protein	protein	2
+19118366	gene/protein	transacylase	2
+19118366	gene/protein	nodf	1
+19118366	gene/protein	c12	1
+19118366	molecular_function	acps	2
+19118366	molecular_function	carrier	1
+19118366	organism	bacterium	7
+19118366	organism	Sinorhizobium meliloti	2
+19118366	organism	Escherichia coli	2
+19118366	organism	e coli	2
+19118366	organism	plasmid	1
+19118366	sequence	operon	2
+19118366	sequence	protein	2
+19118366	sequence	chain	1
+19118366	sequence	genome	1
+19118366	sequence	sequence	1
+19118366	sequence	orf	1
+19118366	sequence	plasmid	1
+19118366	sequence	gene	1
+19118366	sequence	asparagine	1
+19118366	cell_line	smb	10
+19118366	cell_line	c12	3
+19118366	cell_line	c18	2
+19118366	clinical_drug	asparagine	1
+19118366	molecular_process	acylation	1

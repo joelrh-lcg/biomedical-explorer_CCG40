@@ -1,0 +1,43 @@
+16315011	biological_process	transcription	2
+16315011	biological_process	response to osmotic stress	1
+16315011	cellular_component	protein	3
+16315011	chemical	choline	12
+16315011	chemical	glycine betaine	6
+16315011	chemical	protein	6
+16315011	chemical	glucose	5
+16315011	chemical	carbon	2
+16315011	chemical	nitrogen	2
+16315011	chemical	amino acid	2
+16315011	chemical	salt	2
+16315011	chemical	betaine aldehyde dehydrogenase	1
+16315011	chemical	element	1
+16315011	chemical	nacl	1
+16315011	disease	infection	4
+16315011	gene/protein	badh	1687
+16315011	gene/protein	betaine aldehyde dehydrogenase	124
+16315011	gene/protein	lrp	11
+16315011	gene/protein	arca	5
+16315011	gene/protein	protein	3
+16315011	gene/protein	beti	2
+16315011	gene/protein	lack	1
+16315011	molecular_function	transcription factor	1
+16315011	molecular_function	badh activity	1
+16315011	organism	bacterium	7
+16315011	organism	Pseudomonas aeruginosa	2
+16315011	organism	Escherichia coli	2
+16315011	organism	human	1
+16315011	sequence	protein	3
+16315011	sequence	glycine	2
+16315011	sequence	gene	2
+16315011	sequence	clone	1
+16315011	sequence	amino acid	1
+16315011	sequence	sequence	1
+16315011	sequence	promoter sequence	1
+16315011	sequence	operon	1
+16315011	organ/tissue	tissue	1
+16315011	organ/tissue	element	1
+16315011	clinical_drug	choline	4
+16315011	clinical_drug	betaine	3
+16315011	clinical_drug	glycine	2
+16315011	clinical_drug	nitrogen	1
+16315011	clinical_drug	glucose	1

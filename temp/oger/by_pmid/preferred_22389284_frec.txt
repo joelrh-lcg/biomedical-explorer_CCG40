@@ -1,0 +1,23 @@
+22389284	chemical	RNA, Ribosomal, 16S	3
+22389284	chemical	base	1
+22389284	chemical	fatty acid	1
+22389284	chemical	demeton-S-methyl	1
+22389284	disease	Indifference to Pain, Congenital, Autosomal Recessive	1
+22389284	gene/protein	Muscular LMNA-interacting protein	3
+22389284	gene/protein	cardiolipin synthase A	1
+22389284	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+22389284	gene/protein	AT07979p1 (fruit fly)	1
+22389284	gene/protein	muscular LMNA-interacting protein (mouse)	1
+22389284	gene/protein	muscular LMNA-interacting protein (rat)	1
+22389284	gene/protein	muscular LMNA-interacting protein	1
+22389284	gene/protein	CD59 glycoprotein	1
+22389284	gene/protein	muscular LMNA-interacting protein (human)	1
+22389284	organism	Cupriavidus numazuensis	10
+22389284	organism	Cupriavidus	3
+22389284	organism	Cupriavidus pinatubonensis	2
+22389284	organism	Necator	1
+22389284	sequence	rRNA_16S	3
+22389284	sequence	rRNA_gene	3
+22389284	sequence	region	3
+22389284	sequence	base	1
+22389284	organ/tissue	comb	1

@@ -1,0 +1,7 @@
+11125111	cellular_component	chromosome	1
+11125111	organism	Escherichia coli	2
+11125111	organism	e coli	2
+11125111	sequence	promoter sequence	1
+11125111	sequence	chromosome	1
+11125111	sequence	sequence	1
+11125111	sequence	promoter region	1

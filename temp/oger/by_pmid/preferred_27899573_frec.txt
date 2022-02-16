@@ -1,0 +1,19 @@
+27899573	biological_process	biological regulation	1
+27899573	chemical	picloram	1
+27899573	chemical	cofactor	1
+27899573	gene/protein	Keratin, type I cytoskeletal 12	4
+27899573	gene/protein	secreted and transmembrane protein 1	1
+27899573	gene/protein	secreted and transmembrane protein 1 (human)	1
+27899573	gene/protein	secreted and transmembrane protein 1b	1
+27899573	gene/protein	keratin, type I cytoskeletal 12	1
+27899573	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+27899573	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+27899573	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+27899573	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+27899573	organism	Escherichia coli	2
+27899573	organism	Escherichia coli K12	1
+27899573	organism	collection	1
+27899573	sequence	gene	1
+27899573	cell_line	K12 [Mouse osteosarcoma]	1
+27899573	cell_line	K12-72.1	1
+27899573	organ/tissue	multicellular organism	1

@@ -1,0 +1,27 @@
+16442259	chemical	Nitrogen	3
+16442259	chemical	manure	2
+16442259	chemical	16s rrna	2
+16442259	chemical	nutrient	1
+16442259	chemical	base	1
+16442259	chemical	nucleotide	1
+16442259	chemical	cluster	1
+16442259	gene/protein	crop	1
+16442259	gene/protein	nifH	1
+16442259	organism	bacterium	7
+16442259	organism	legume	5
+16442259	organism	Bradyrhizobium japonicum	2
+16442259	organism	Rhizobium tropici	2
+16442259	organism	Sinorhizobium	1
+16442259	organism	Mesorhizobium	1
+16442259	organism	azorhizobium	1
+16442259	organism	Methylobacterium	1
+16442259	organism	Burkholderia	1
+16442259	organism	primer	1
+16442259	sequence	16s rrna	2
+16442259	sequence	gene	2
+16442259	sequence	gain	1
+16442259	sequence	base	1
+16442259	sequence	rrna gene	1
+16442259	sequence	primer	1
+16442259	organ/tissue	crop	1
+16442259	clinical_drug	Nitrogen	1

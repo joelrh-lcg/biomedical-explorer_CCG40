@@ -1,0 +1,28 @@
+18424522	biological_process	symbiosis	2
+18424522	biological_process	regulation	2
+18424522	biological_process	conjugation	1
+18424522	biological_process	transcription	1
+18424522	chemical	element	2
+18424522	chemical	a dna	1
+18424522	chemical	dnase i	1
+18424522	chemical	rna polymerase	1
+18424522	gene/protein	dnase i	12
+18424522	gene/protein	add	3
+18424522	gene/protein	rna	2
+18424522	molecular_function	binding	2
+18424522	molecular_function	dnase i	1
+18424522	organism	bacterium	7
+18424522	organism	plasmid	4
+18424522	organism	Rhizobium etli	2
+18424522	organism	legume	1
+18424522	sequence	plasmid	4
+18424522	sequence	binding	4
+18424522	sequence	promoter	4
+18424522	sequence	motif	4
+18424522	sequence	operon	3
+18424522	sequence	gene	1
+18424522	sequence	dna bind	1
+18424522	sequence	domain	1
+18424522	sequence	fusion	1
+18424522	sequence	transcript	1
+18424522	organ/tissue	element	2

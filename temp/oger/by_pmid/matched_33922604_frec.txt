@@ -1,0 +1,16 @@
+33922604	biological_process	viral infection	1
+33922604	disease	diarrhea	6
+33922604	disease	coinfection	4
+33922604	disease	viral infection	2
+33922604	disease	disease	2
+33922604	gene/protein	pig	1
+33922604	organism	PEDV	3
+33922604	organism	kobuvirus	3
+33922604	organism	swine	2
+33922604	organism	sapovirus	2
+33922604	organism	pedv	1
+33922604	organism	pig	1
+33922604	organism	coronavirus	1
+33922604	sequence	genome	3
+33922604	sequence	sequence	1
+33922604	clinical_drug	pork	1

@@ -1,0 +1,49 @@
+22669633	biological_process	biosynthetic process	2
+22669633	biological_process	cellular respiration	1
+22669633	biological_process	respiratory gaseous exchange by respiratory system	1
+22669633	chemical	Ethanol	10
+22669633	chemical	Sodium Acetate	8
+22669633	chemical	ethanol	5
+22669633	chemical	acetate ester	4
+22669633	chemical	acetate	4
+22669633	chemical	sodium acetate	4
+22669633	chemical	Glucose	2
+22669633	chemical	acid	2
+22669633	chemical	Thiamine	2
+22669633	chemical	mineral	1
+22669633	chemical	aldehydo-D-glucose	1
+22669633	chemical	D-glucopyranose	1
+22669633	chemical	glucose	1
+22669633	chemical	nitrate	1
+22669633	chemical	Cytochromes c	1
+22669633	chemical	cytochrome c''	1
+22669633	chemical	Cytochromes c'	1
+22669633	chemical	cytochrome c	1
+22669633	chemical	thiamine(1+) chloride	1
+22669633	chemical	thiamine(1+)	1
+22669633	chemical	thiamine	1
+22669633	gene/protein	Cytochrome c	121
+22669633	gene/protein	Cytochrome c'	13
+22669633	gene/protein	Major outer membrane protein P.IB	10
+22669633	gene/protein	Outer membrane protein	2
+22669633	gene/protein	Porin	2
+22669633	gene/protein	outer membrane porin C	1
+22669633	gene/protein	outer membrane porin C (Escherichia coli K-12)	1
+22669633	gene/protein	Voltage-dependent anion-selective channel	1
+22669633	gene/protein	Major outer membrane protein	1
+22669633	gene/protein	voltage-dependent anion-selective channel (fruit fly)	1
+22669633	gene/protein	cytochrome c	1
+22669633	gene/protein	Cytochrome c''	1
+22669633	molecular_function	porin activity	1
+22669633	molecular_function	electron transporter, transferring electrons from CoQH2-cytochrome c reductase complex and cytochrome c oxidase complex activity	1
+22669633	molecular_function	obsolete cytochrome c	1
+22669633	organism	Escherichia coli	4
+22669633	organism	Methanosarcina barkeri	2
+22669633	sequence	gene	2
+22669633	sequence	chromosomal_deletion	1
+22669633	sequence	deletion	1
+22669633	clinical_drug	Ethanol	5
+22669633	clinical_drug	Acetate	4
+22669633	clinical_drug	Sodium Acetate	4
+22669633	clinical_drug	Dextrose, Unspecified Form	1
+22669633	clinical_drug	Thiamine	1

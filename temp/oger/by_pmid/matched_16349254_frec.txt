@@ -1,0 +1,10 @@
+16349254	cellular_component	chromosome	1
+16349254	gene/protein	nif	1
+16349254	organism	plasmid	6
+16349254	organism	sugarcane	3
+16349254	organism	Acetobacter diazotrophicus	2
+16349254	sequence	plasmid	6
+16349254	sequence	clone	1
+16349254	sequence	gene	1
+16349254	sequence	chromosome	1
+16349254	clinical_drug	sugarcane	2

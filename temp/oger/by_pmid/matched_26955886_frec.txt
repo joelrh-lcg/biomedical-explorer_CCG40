@@ -1,0 +1,7 @@
+26955886	disease	Lyme disease	2
+26955886	disease	infection	2
+26955886	organism	Borrelia burgdorferi sensu stricto	2
+26955886	organism	Borrelia bissettii	2
+26955886	organism	human	1
+26955886	sequence	sequence	2
+26955886	sequence	genotype	1

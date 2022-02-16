@@ -1,0 +1,36 @@
+10826800	biological_process	nodulation	1
+10826800	cellular_component	viral nucleocapsid	1
+10826800	chemical	1-phenyl-6,7-dimethoxy-1,2,3,4-tetrahydroisoquinoline	2
+10826800	chemical	protein	1
+10826800	chemical	RNA, Ribosomal, 16S	1
+10826800	chemical	sulfur atom	1
+10826800	gene/protein	Arabinose 5-phosphate isomerase KdsD	9
+10826800	gene/protein	Arabinose 5-phosphate isomerase GutQ	6
+10826800	gene/protein	Arabinose 5-phosphate isomerase KpsF	3
+10826800	gene/protein	Protein BEAN1	2
+10826800	gene/protein	Probable arabinose 5-phosphate isomerase	2
+10826800	gene/protein	protein BEAN	1
+10826800	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+10826800	gene/protein	ribonuclease I	1
+10826800	gene/protein	arabinose 5-phosphate isomerase GutQ	1
+10826800	gene/protein	Guanyl-specific ribonuclease Ap1	1
+10826800	gene/protein	Aspartic protease inhibitor 8	1
+10826800	gene/protein	vacuolar aminopeptidase 1 (yeast)	1
+10826800	gene/protein	Protease 1	1
+10826800	gene/protein	Aminopeptidase S	1
+10826800	gene/protein	Provicilin	1
+10826800	organism	Streptococcus dysgalactiae	3
+10826800	organism	Rhizobium etli	2
+10826800	organism	Phaseolus	1
+10826800	organism	Rhizobium	1
+10826800	organism	Pseudarthrobacter sulfonivorans	1
+10826800	organism	Bees	1
+10826800	organism	Rhizobium tropici	1
+10826800	sequence	gene	1
+10826800	sequence	rRNA_16S	1
+10826800	sequence	intergenic_variant	1
+10826800	sequence	consensus	1
+10826800	cell_line	R1192	1
+10826800	cell_line	S23	1
+10826800	organ/tissue	cerebellum vermis lobule X	1
+10826800	organ/tissue	germinal center	1

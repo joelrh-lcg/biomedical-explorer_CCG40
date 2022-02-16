@@ -1,0 +1,24 @@
+19502410	biological_process	gene conversion	10
+19502410	biological_process	homologous recombination	2
+19502410	biological_process	dna synthesis	1
+19502410	biological_process	heteroduplex formation	1
+19502410	chemical	Holliday junction	1
+19502410	chemical	proteins	1
+19502410	gene/protein	recg	16
+19502410	gene/protein	rada	9
+19502410	gene/protein	ruvB	4
+19502410	gene/protein	recG	4
+19502410	gene/protein	ruvb	4
+19502410	gene/protein	radA	3
+19502410	gene/protein	lack	1
+19502410	organism	Rhizobium etli	2
+19502410	sequence	gene	10
+19502410	sequence	homologous	2
+19502410	sequence	wild type	2
+19502410	sequence	junction	1
+19502410	sequence	mutation	1
+19502410	sequence	double	1
+19502410	organ/tissue	segment	3
+19502410	organ/tissue	tract	3
+19502410	organ/tissue	junction	1
+19502410	organ/tissue	extension	1

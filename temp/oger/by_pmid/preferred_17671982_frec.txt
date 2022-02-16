@@ -1,0 +1,12 @@
+17671982	biological_process	transcription, DNA-templated	1
+17671982	chemical	gold(0)	3
+17671982	chemical	gold atom	3
+17671982	chemical	base	1
+17671982	sequence	gene	9
+17671982	sequence	genome	4
+17671982	sequence	operon	4
+17671982	sequence	beta_strand	3
+17671982	sequence	polycistronic	1
+17671982	sequence	base	1
+17671982	sequence	score	1
+17671982	organ/tissue	multicellular organism	3

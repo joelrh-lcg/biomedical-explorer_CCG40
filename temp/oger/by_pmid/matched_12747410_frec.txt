@@ -1,0 +1,17 @@
+12747410	chemical	16s rrna	2
+12747410	gene/protein	pcr	8
+12747410	gene/protein	nifh	1
+12747410	organism	bacterium	7
+12747410	organism	Acacia	1
+12747410	organism	plasmid	1
+12747410	organism	Sinorhizobium	1
+12747410	organism	Sinorhizobium americanus	1
+12747410	organism	Acacia acatlensis	1
+12747410	sequence	16s rrna	2
+12747410	sequence	gene	2
+12747410	sequence	pcr product	1
+12747410	sequence	rrna gene	1
+12747410	sequence	plasmid	1
+12747410	sequence	sequence	1
+12747410	organ/tissue	nodule	2
+12747410	clinical_drug	Acacia	2

@@ -1,0 +1,20 @@
+32625185	biological_process	plasmid maintenance	1
+32625185	biological_process	conjugation	1
+32625185	cellular_component	chromosome	1
+32625185	chemical	antibiotic	9
+32625185	chemical	proteins	2
+32625185	chemical	transposable element	2
+32625185	disease	infection	2
+32625185	gene/protein	Rep	61
+32625185	gene/protein	ten	1
+32625185	gene/protein	lack	1
+32625185	molecular_function	Rep	1
+32625185	organism	plasmid	15
+32625185	organism	human	1
+32625185	sequence	plasmid	15
+32625185	sequence	gene	8
+32625185	sequence	transposable element	2
+32625185	sequence	genome	1
+32625185	sequence	chromosome	1
+32625185	organ/tissue	element	2
+32625185	organ/tissue	organism	1

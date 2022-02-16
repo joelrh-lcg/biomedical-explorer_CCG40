@@ -1,0 +1,12 @@
+1863715	biological_process	immune response	1
+1863715	cellular_component	antibody	3
+1863715	cellular_component	protein	1
+1863715	chemical	protein	2
+1863715	chemical	immunoglobulin	1
+1863715	gene/protein	fold	4
+1863715	gene/protein	protein	1
+1863715	molecular_function	antibody	1
+1863715	molecular_function	immunoglobulin	1
+1863715	sequence	invert	1
+1863715	sequence	protein	1
+1863715	sequence	sequence	1

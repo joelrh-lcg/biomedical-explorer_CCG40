@@ -1,0 +1,57 @@
+29524395	biological_process	biosynthetic process	1
+29524395	chemical	Ornithine	6
+29524395	chemical	Lysine	4
+29524395	chemical	ornithine containing aminolipid	4
+29524395	chemical	L-ornithinium(2+)	3
+29524395	chemical	ornithine	3
+29524395	chemical	lipid	2
+29524395	chemical	alpha-amino acid	2
+29524395	chemical	amino acid	2
+29524395	chemical	fatty acid	2
+29524395	chemical	hydroxy group	2
+29524395	chemical	Glycine	2
+29524395	chemical	Glutamine	2
+29524395	chemical	lysine	2
+29524395	chemical	L-lysine	2
+29524395	chemical	Lipid A	2
+29524395	chemical	primary amino group	1
+29524395	chemical	3-hydroxy fatty acid	1
+29524395	chemical	3-hydroxy fatty acid anion	1
+29524395	chemical	glycine	1
+29524395	chemical	glycine zwitterion	1
+29524395	chemical	glycine residue	1
+29524395	chemical	glutamine	1
+29524395	chemical	L-glutamine	1
+29524395	chemical	lipid A(4-)	1
+29524395	chemical	lipid As	1
+29524395	chemical	lipid A	1
+29524395	gene/protein	glutamate [NMDA] receptor subunit 1 (fruit fly)	1
+29524395	gene/protein	Nitrogen metabolite repression protein nmr	1
+29524395	gene/protein	complement factor B (human)	1
+29524395	gene/protein	HLA-B associated transcript 8, rat orthologue (rat)	1
+29524395	gene/protein	complement factor B	1
+29524395	gene/protein	protein Skiv2l (rat)	1
+29524395	gene/protein	complement factor B (mouse)	1
+29524395	organism	bacterium IFAM-3211	2
+29524395	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+29524395	organism	bacterium IFAM-3215	2
+29524395	organism	bacterium IFAM-2074	2
+29524395	organism	bacterium IFAM-3359	2
+29524395	organism	bacterium	2
+29524395	organism	bacterium IFAM-1493	2
+29524395	organism	ornithine containing aminolipid	2
+29524395	organism	Alphaproteobacteria	2
+29524395	organism	Rhizobium	1
+29524395	organism	Agrobacterium	1
+29524395	organism	unidentified	1
+29524395	sequence	amino_acid	2
+29524395	sequence	lysine	2
+29524395	sequence	region	2
+29524395	sequence	glycine	1
+29524395	sequence	glutamine	1
+29524395	sequence	genome	1
+29524395	clinical_drug	Ornithine	5
+29524395	clinical_drug	Lysine	2
+29524395	clinical_drug	Glycine	1
+29524395	clinical_drug	Glutamine	1
+29524395	molecular_process	hydroxylation	2

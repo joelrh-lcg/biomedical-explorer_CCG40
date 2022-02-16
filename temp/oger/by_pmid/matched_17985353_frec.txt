@@ -1,0 +1,23 @@
+17985353	biological_process	degradation	1
+17985353	biological_process	protein folding	1
+17985353	biological_process	soc	1
+17985353	cellular_component	protein	4
+17985353	cellular_component	core	1
+17985353	chemical	protein	8
+17985353	chemical	base	1
+17985353	chemical	proteins	1
+17985353	chemical	atom	1
+17985353	disease	protein folding	2
+17985353	disease	Nemoto	2
+17985353	gene/protein	EVA	6
+17985353	gene/protein	soc	6
+17985353	gene/protein	int	5
+17985353	gene/protein	mod	5
+17985353	gene/protein	protein	4
+17985353	gene/protein	Chem	4
+17985353	sequence	protein	4
+17985353	sequence	base	1
+17985353	sequence	homologous	1
+17985353	cell_line	mod	1
+17985353	organ/tissue	soc	1
+17985353	organ/tissue	backbone	1

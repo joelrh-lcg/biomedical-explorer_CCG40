@@ -1,0 +1,22 @@
+17933780	biological_process	transcription, DNA-templated	2
+17933780	chemical	metabolite	2
+17933780	chemical	effector	1
+17933780	chemical	physiological role	1
+17933780	gene/protein	Importin subunit beta-2	4
+17933780	gene/protein	transportin-1	2
+17933780	gene/protein	transportin-1 (human)	2
+17933780	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	2
+17933780	organism	Escherichia coli	6
+17933780	organism	hybrid	1
+17933780	organism	Chimera	1
+17933780	sequence	transit_peptide	2
+17933780	sequence	signal_peptide	2
+17933780	sequence	gene	1
+17933780	sequence	forward	1
+17933780	sequence	polypeptide_conserved_motif	1
+17933780	sequence	polypeptide_motif	1
+17933780	sequence	promoter	1
+17933780	sequence	operon	1
+17933780	organ/tissue	terminal nerve	2
+17933780	organ/tissue	cell layer	1
+17933780	organ/tissue	nervous system cell part layer	1

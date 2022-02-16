@@ -1,0 +1,30 @@
+28522365	biological_process	biosynthetic process	2
+28522365	biological_process	secondary metabolic process	1
+28522365	biological_process	membrane lipid biosynthetic process	1
+28522365	cellular_component	membrane	2
+28522365	cellular_component	plasma membrane	1
+28522365	cellular_component	viral nucleocapsid	1
+28522365	chemical	Anti-Bacterial Agents	6
+28522365	chemical	antimicrobial agent	3
+28522365	chemical	lipid	3
+28522365	chemical	picloram	2
+28522365	chemical	natural product	1
+28522365	chemical	molecule	1
+28522365	disease	Tuberculosis	2
+28522365	gene/protein	protein POLAR LOCALIZATION DURING ASYMMETRIC DIVISION AND REDISTRIBUTION (Arabidopsis thaliana)	2
+28522365	gene/protein	coatomer subunit epsilon (Dictyostelium discoideum)	1
+28522365	gene/protein	glyceraldehyde-3-phosphate dehydrogenase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+28522365	gene/protein	GTPase-activating protein pac-1 (worm)	1
+28522365	organism	Streptomyces	3
+28522365	organism	Mycobacterium tuberculosis	2
+28522365	organism	bacterium IFAM-3211	1
+28522365	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+28522365	organism	bacterium IFAM-3215	1
+28522365	organism	bacterium IFAM-2074	1
+28522365	organism	bacterium IFAM-3359	1
+28522365	organism	bacterium	1
+28522365	organism	bacterium IFAM-1493	1
+28522365	sequence	gap	1
+28522365	organ/tissue	membrane organ	3
+28522365	organ/tissue	membranous layer	3
+28522365	organ/tissue	multicellular organism	1

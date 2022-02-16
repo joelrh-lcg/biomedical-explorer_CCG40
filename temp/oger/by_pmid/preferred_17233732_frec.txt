@@ -1,0 +1,25 @@
+17233732	biological_process	symbiotic process	2
+17233732	biological_process	signaling	1
+17233732	biological_process	nitrogen fixation	1
+17233732	biological_process	sulfation	1
+17233732	chemical	nodulation factor	4
+17233732	chemical	sulfate	3
+17233732	chemical	nitrogen atom	2
+17233732	chemical	nitrogen(.)	2
+17233732	chemical	Somatomedins	2
+17233732	chemical	signalling molecule	1
+17233732	disease	Myoclonic Epilepsies, Progressive	4
+17233732	gene/protein	Flavohemoprotein	172
+17233732	gene/protein	flavohemoprotein	4
+17233732	gene/protein	kinesin-like protein Nod (fruit fly)	4
+17233732	gene/protein	Protein BEAN1	4
+17233732	gene/protein	protein BEAN	2
+17233732	molecular_function	receptor ligand activity	1
+17233732	organism	Ensifer sp. BR816	2
+17233732	organism	Rhizobium	1
+17233732	organism	Phaseolus	1
+17233732	organism	Phaseolus vulgaris	1
+17233732	sequence	gene	1
+17233732	cell_line	R1192	2
+17233732	organ/tissue	vertebral column	1
+17233732	clinical_drug	Nitrogen	2

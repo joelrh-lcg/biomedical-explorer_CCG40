@@ -1,0 +1,6 @@
+30704413	disease	infection	2
+30704413	organism	salmonella enterica	2
+30704413	organism	sheep	2
+30704413	organism	human	2
+30704413	organism	reptile	1
+30704413	organism	unknown	1

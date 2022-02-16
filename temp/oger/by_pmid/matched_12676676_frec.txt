@@ -1,0 +1,43 @@
+12676676	biological_process	sulfation	3
+12676676	biological_process	biosynthesis	1
+12676676	biological_process	gene expression	1
+12676676	biological_process	synthesis	1
+12676676	biological_process	nitrogen fixation	1
+12676676	chemical	sulfur	8
+12676676	chemical	sulfate	6
+12676676	chemical	nod factor	6
+12676676	chemical	cysteine	5
+12676676	chemical	methionine	5
+12676676	chemical	factor sulfation	4
+12676676	chemical	pap	2
+12676676	chemical	PAPS	2
+12676676	chemical	amino acid	2
+12676676	chemical	nitrogen	2
+12676676	chemical	3phosphoadenosine5phosphosulfate	1
+12676676	chemical	atp sulfurylase	1
+12676676	chemical	nutrient	1
+12676676	chemical	solution	1
+12676676	disease	nod	7
+12676676	gene/protein	nod	315
+12676676	gene/protein	atp sulfurylase	114
+12676676	gene/protein	pap	88
+12676676	gene/protein	cysd	6
+12676676	gene/protein	bean	3
+12676676	gene/protein	add	3
+12676676	molecular_function	pap	1
+12676676	organism	strain br	6
+12676676	organism	Sinorhizobium sp	4
+12676676	organism	Sinorhizobium meliloti	2
+12676676	sequence	gene	2
+12676676	sequence	double	1
+12676676	sequence	open reading frame	1
+12676676	sequence	cysteine	1
+12676676	sequence	amino acid	1
+12676676	sequence	methionine	1
+12676676	cell_line	bean	1
+12676676	organ/tissue	sole	1
+12676676	clinical_drug	sulfur	2
+12676676	clinical_drug	atp	1
+12676676	clinical_drug	cysteine	1
+12676676	clinical_drug	nitrogen	1
+12676676	clinical_drug	methionine	1

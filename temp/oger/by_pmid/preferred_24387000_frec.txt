@@ -1,0 +1,28 @@
+24387000	biological_process	symbiotic process	3
+24387000	biological_process	nodulation	1
+24387000	biological_process	ammonium transport	1
+24387000	biological_process	phosphate ion transport	1
+24387000	cellular_component	arbuscule	1
+24387000	chemical	nitrate	7
+24387000	chemical	Ammonia	2
+24387000	chemical	Phosphates	2
+24387000	chemical	Nitrogenase	1
+24387000	chemical	ammonia	1
+24387000	chemical	phosphate	1
+24387000	chemical	phosphate)	1
+24387000	chemical	phosphate ion	1
+24387000	chemical	phosphate(3-)	1
+24387000	chemical	phosphoric acid	1
+24387000	chemical	hydrogenphosphate	1
+24387000	gene/protein	Protein BEAN1	2
+24387000	gene/protein	probable N-acetyltransferase san (fruit fly)	1
+24387000	gene/protein	protein BEAN	1
+24387000	molecular_function	nitrogenase activity	1
+24387000	organism	Phaseolus	1
+24387000	organism	Phaseolus vulgaris	1
+24387000	organism	Mycorrhizae	1
+24387000	cell_line	R1192	1
+24387000	organ/tissue	cerebellum vermis lobule X	4
+24387000	organ/tissue	germinal center	4
+24387000	organ/tissue	pronephric glomerulus	1
+24387000	clinical_drug	Ammonia	1

@@ -1,0 +1,16 @@
+28596401	chemical	trna	2
+28596401	chemical	noncoding rna	1
+28596401	disease	ncrna	1
+28596401	gene/protein	rna	2
+28596401	molecular_function	trna	1
+28596401	organism	atcc 9446	1
+28596401	sequence	genome	2
+28596401	sequence	sequence	2
+28596401	sequence	gene	2
+28596401	sequence	frameshift	2
+28596401	sequence	contig	1
+28596401	sequence	pseudogene	1
+28596401	sequence	trna	1
+28596401	sequence	noncoding rna	1
+28596401	sequence	ncrna	1
+28596401	organ/tissue	organism	1

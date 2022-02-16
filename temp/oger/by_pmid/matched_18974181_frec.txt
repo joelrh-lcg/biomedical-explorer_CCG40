@@ -1,0 +1,13 @@
+18974181	biological_process	electron transfer	2
+18974181	biological_process	regulation	1
+18974181	biological_process	Gene Ontology	1
+18974181	chemical	electron	1
+18974181	gene/protein	rna	2
+18974181	organism	e coli	10
+18974181	organism	Escherichia coli	2
+18974181	sequence	genome	5
+18974181	sequence	gene	2
+18974181	sequence	construct	1
+18974181	organ/tissue	web	2
+18974181	molecular_process	electron transfer	1
+18974181	entity_type	term	4

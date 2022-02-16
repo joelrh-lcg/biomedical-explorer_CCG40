@@ -1,0 +1,20 @@
+11211278	chemical	base	1
+11211278	chemical	16s	1
+11211278	chemical	rdna	1
+11211278	gene/protein	syn	6
+11211278	organism	Agrobacterium	7
+11211278	organism	Rhizobium	5
+11211278	organism	Rhizobium radiobacter	4
+11211278	organism	agrobacterium radiobacter	2
+11211278	organism	Agrobacterium rubi	2
+11211278	organism	Agrobacterium vitis	2
+11211278	organism	Allorhizobium undicola	2
+11211278	organism	Rhizobium rubi	2
+11211278	organism	Rhizobium undicola	2
+11211278	organism	Rhizobium vitis	2
+11211278	organism	Rhizobiaceae	1
+11211278	organism	Sinorhizobium	1
+11211278	organism	agrobacterium	1
+11211278	organism	artificial	1
+11211278	sequence	base	1
+11211278	sequence	rdna	1

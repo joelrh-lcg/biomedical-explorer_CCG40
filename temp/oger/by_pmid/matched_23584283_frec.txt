@@ -1,0 +1,34 @@
+23584283	chemical	amplify	1
+23584283	chemical	rdna	1
+23584283	chemical	16s rrna	1
+23584283	disease	cip	3
+23584283	gene/protein	cip	24
+23584283	gene/protein	reca	14
+23584283	gene/protein	rpob	14
+23584283	gene/protein	lbp	12
+23584283	gene/protein	atpd	8
+23584283	gene/protein	nov	6
+23584283	gene/protein	nifh	1
+23584283	organism	Rhizobium tropici	2
+23584283	organism	Rhizobium calliandrae	2
+23584283	organism	Rhizobium mayense	2
+23584283	organism	rhizobium jaguaris	2
+23584283	organism	medicinal plant	1
+23584283	organism	Rhizobium	1
+23584283	organism	rhizobium	1
+23584283	organism	strain ccge524	1
+23584283	organism	atcc baa2435	1
+23584283	organism	cip 110456	1
+23584283	organism	strain ccge526	1
+23584283	organism	atcc baa2446	1
+23584283	organism	cip 110454	1
+23584283	organism	strain ccge525	1
+23584283	organism	atcc baa2445	1
+23584283	organism	cip 110453	1
+23584283	sequence	rdna	1
+23584283	sequence	16s rrna	1
+23584283	sequence	rrna gene	1
+23584283	sequence	sequence	1
+23584283	sequence	gene	1
+23584283	cell_line	reca	1
+23584283	organ/tissue	nodule	2

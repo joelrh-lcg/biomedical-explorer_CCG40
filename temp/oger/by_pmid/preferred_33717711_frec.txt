@@ -1,0 +1,24 @@
+33717711	biological_process	immune response	1
+33717711	cellular_component	ribosome	1
+33717711	chemical	protein	1
+33717711	gene/protein	Wiskott-Aldrich syndrome protein	2
+33717711	gene/protein	Wiskott-Aldrich syndrome protein homolog (mouse)	1
+33717711	gene/protein	Wiskott-Aldrich syndrome protein homolog	1
+33717711	gene/protein	receptor-interacting serine/threonine-protein kinase 1 (human)	1
+33717711	gene/protein	RPA-interacting protein (human)	1
+33717711	gene/protein	RPA-interacting protein	1
+33717711	gene/protein	Arf-GAP domain and FG repeat-containing protein 1 (human)	1
+33717711	gene/protein	DDB1- and CUL4-associated factor 1 (human)	1
+33717711	gene/protein	Type I ribosome-inactivating protein trichoanguina	1
+33717711	gene/protein	Arf-GAP domain and FG repeat-containing protein 1	1
+33717711	gene/protein	DDB1- and CUL4-associated factor 1	1
+33717711	gene/protein	RNAP inhibitory protein	1
+33717711	gene/protein	receptor-interacting serine/threonine-protein kinase 1	1
+33717711	gene/protein	receptor-interacting serine/threonine-protein kinase 1 (mouse)	1
+33717711	gene/protein	Arf-GAP domain and FG repeat-containing protein 1 (mouse)	1
+33717711	gene/protein	RPA-interacting protein (mouse)	1
+33717711	gene/protein	Arf-GAP domain and FG repeat-containing protein 1 (rat)	1
+33717711	gene/protein	cytochrome P450 2B9	1
+33717711	gene/protein	RPA-interacting protein (rat)	1
+33717711	gene/protein	cytochrome P450 2B9 (mouse)	1
+33717711	organism	Wasps	1

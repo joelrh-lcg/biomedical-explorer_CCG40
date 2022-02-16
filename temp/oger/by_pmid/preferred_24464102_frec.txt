@@ -1,0 +1,87 @@
+24464102	biological_process	biosynthetic process	1
+24464102	biological_process	transcription, DNA-templated	1
+24464102	cellular_component	viral nucleocapsid	1
+24464102	chemical	phytochelatin 2	4
+24464102	chemical	cadmium(2+)	3
+24464102	chemical	phytochelatin 4	2
+24464102	chemical	glutathione	2
+24464102	chemical	glutathione gamma-glutamylcysteinyltransferase	1
+24464102	chemical	zinc(2+)	1
+24464102	chemical	dizinc	1
+24464102	chemical	zinc atom	1
+24464102	chemical	peroxide	1
+24464102	chemical	L-cysteinate residue	1
+24464102	chemical	L-cysteinyl radical residue	1
+24464102	chemical	cysteinyl radical	1
+24464102	chemical	cysteinate(1-)	1
+24464102	chemical	cysteine	1
+24464102	chemical	L-cysteino group	1
+24464102	chemical	L-cysteine	1
+24464102	chemical	L-cysteine residue	1
+24464102	chemical	L-cysteinyl group	1
+24464102	chemical	asparaginate	1
+24464102	chemical	L-alpha-aspartyl group	1
+24464102	chemical	aspartic acid	1
+24464102	chemical	L-asparto group	1
+24464102	chemical	L-aspartic acid residue	1
+24464102	chemical	L-aspartic acid	1
+24464102	chemical	L-aspartate residue	1
+24464102	chemical	amino-acid residue	1
+24464102	disease	Pachyonychia Congenita	4
+24464102	disease	Glucocorticoid-Remediable Aldosteronism	2
+24464102	gene/protein	Agouti-signaling protein	44
+24464102	gene/protein	Neuroendocrine convertase 2	21
+24464102	gene/protein	E3 SUMO-protein ligase CBX4	9
+24464102	gene/protein	T-cell surface antigen CD2 (human)	3
+24464102	gene/protein	T-cell surface antigen CD2 (rat)	3
+24464102	gene/protein	T-cell surface antigen CD2 (mouse)	3
+24464102	gene/protein	CD2 molecule	3
+24464102	gene/protein	mediator complex, MED26-containing (mouse)	3
+24464102	gene/protein	neuroendocrine convertase 2	3
+24464102	gene/protein	Polycystin-2	3
+24464102	gene/protein	E3 SUMO-protein ligase CBX4 (mouse)	3
+24464102	gene/protein	Activated RNA polymerase II transcriptional coactivator p15	3
+24464102	gene/protein	Proprotein convertase subtilisin/kexin type 4	2
+24464102	gene/protein	Transmembrane protease serine 11D	2
+24464102	gene/protein	Glutathione gamma-glutamylcysteinyltransferase	1
+24464102	gene/protein	activated RNA polymerase II transcriptional coactivator p15 (human)	1
+24464102	gene/protein	activated RNA polymerase II transcriptional coactivator p15 (rat)	1
+24464102	gene/protein	proprotein convertase subtilisin/kexin type 4	1
+24464102	gene/protein	interferon-related developmental regulator 1 (rat)	1
+24464102	gene/protein	activated RNA polymerase II transcriptional coactivator p15	1
+24464102	gene/protein	proprotein convertase subtilisin/kexin type 4 (human)	1
+24464102	gene/protein	activated RNA polymerase II transcriptional coactivator p15 (mouse)	1
+24464102	gene/protein	cysteine proteinase inhibitor 1 (Arabidopsis thaliana)	1
+24464102	gene/protein	cystatin-like protein (fruit fly)	1
+24464102	gene/protein	ropporin-1-like protein (mouse)	1
+24464102	gene/protein	transmembrane protease serine 11D	1
+24464102	gene/protein	protein abnormal spindle (fruit fly)	1
+24464102	gene/protein	autophagy protein 5	1
+24464102	gene/protein	APOBEC1 complementation factor	1
+24464102	gene/protein	APOBEC1 complementation factor (rat)	1
+24464102	gene/protein	autophagy protein 5 (human)	1
+24464102	gene/protein	agouti-signaling protein (human)	1
+24464102	gene/protein	APOBEC1 complementation factor (mouse)	1
+24464102	gene/protein	ropporin-1-like protein	1
+24464102	gene/protein	ropporin-1-like protein (human)	1
+24464102	gene/protein	agouti-signaling protein	1
+24464102	gene/protein	aspartoacylase (human)	1
+24464102	gene/protein	APOBEC1 complementation factor (human)	1
+24464102	gene/protein	aspartoacylase	1
+24464102	gene/protein	obsolete amino acid chain component	1
+24464102	gene/protein	YCF1 (yeast)	1
+24464102	organism	Euglena gracilis	2
+24464102	organism	Viperidae	1
+24464102	organism	Euglena	1
+24464102	organism	Yeasts	1
+24464102	sequence	polypeptide_domain	5
+24464102	sequence	cysteine	1
+24464102	sequence	aspartic_acid	1
+24464102	sequence	amino_acid	1
+24464102	cell_line	PC-2 [Human pancreatic carcinoma]	3
+24464102	cell_line	PC2	3
+24464102	cell_line	PC4	1
+24464102	cell_line	PC-4	1
+24464102	organ/tissue	gracilis	1
+24464102	organ/tissue	multicellular organism	1
+24464102	clinical_drug	Yeast, Unspecified	1

@@ -1,0 +1,12 @@
+17683642	biological_process	biological regulation	1
+17683642	chemical	Complement System Proteins	1
+17683642	gene/protein	Keratin, type I cytoskeletal 12	4
+17683642	gene/protein	secreted and transmembrane protein 1	1
+17683642	gene/protein	secreted and transmembrane protein 1 (human)	1
+17683642	gene/protein	secreted and transmembrane protein 1b	1
+17683642	gene/protein	keratin, type I cytoskeletal 12	1
+17683642	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+17683642	organism	collection	1
+17683642	organism	Escherichia coli K12	1
+17683642	cell_line	K12 [Mouse osteosarcoma]	1
+17683642	cell_line	K12-72.1	1

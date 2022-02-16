@@ -1,0 +1,22 @@
+24277190	biological_process	biological regulation	1
+24277190	cellular_component	intracellular	1
+24277190	chemical	nodulin	4
+24277190	chemical	protein	1
+24277190	chemical	Leghemoglobin	1
+24277190	chemical	leghemoglobin	1
+24277190	chemical	Urate Oxidase	1
+24277190	chemical	cluster	1
+24277190	disease	Infections	2
+24277190	gene/protein	Uricase	25
+24277190	gene/protein	Leghemoglobin	5
+24277190	gene/protein	Nodulin	4
+24277190	gene/protein	Protein BEAN1	2
+24277190	gene/protein	protein BEAN	1
+24277190	gene/protein	uricase	1
+24277190	organism	Phaseolus	1
+24277190	organism	Fabaceae	1
+24277190	organism	Rhizobium	1
+24277190	sequence	transcript	1
+24277190	cell_line	R1192	1
+24277190	organ/tissue	cerebellum vermis lobule X	2
+24277190	organ/tissue	germinal center	2

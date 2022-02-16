@@ -1,0 +1,46 @@
+7952190	biological_process	biosynthetic process	2
+7952190	biological_process	anatomical structure morphogenesis	1
+7952190	biological_process	protein oxidation	1
+7952190	biological_process	cell differentiation	1
+7952190	cellular_component	obsolete protein	1
+7952190	chemical	Reactive Oxygen Species	2
+7952190	chemical	polypeptide	2
+7952190	chemical	Glutamate-Ammonia Ligase	1
+7952190	chemical	Glutamate Dehydrogenase	1
+7952190	chemical	reactive oxygen species	1
+7952190	chemical	protein	1
+7952190	chemical	(protein)	1
+7952190	gene/protein	Glutamine synthetase	122
+7952190	gene/protein	Glutamate dehydrogenase	32
+7952190	gene/protein	Glucose 1-dehydrogenase	9
+7952190	gene/protein	Glycerol dehydrogenase	6
+7952190	gene/protein	Glucarate dehydratase	4
+7952190	gene/protein	Glutamate dehydrogenase, mitochondrial	3
+7952190	gene/protein	Glycerate dehydrogenase	3
+7952190	gene/protein	proteolytic cleavage product	2
+7952190	gene/protein	amino acid chain	2
+7952190	gene/protein	Galactitol 2-dehydrogenase	2
+7952190	gene/protein	Probable glucarate dehydratase	2
+7952190	gene/protein	glutamine synthetase	1
+7952190	gene/protein	Catabolic NAD-specific glutamate dehydrogenase RocG	1
+7952190	gene/protein	protein	1
+7952190	gene/protein	Glycerate dehydrogenase HPR, peroxisomal	1
+7952190	gene/protein	Pyranose dehydrogenase	1
+7952190	gene/protein	Probable glutamate dehydrogenase	1
+7952190	gene/protein	glucarate dehydratase	1
+7952190	gene/protein	GDH/6PGL endoplasmic bifunctional protein	1
+7952190	gene/protein	D-lactate dehydrogenase [cytochrome], mitochondrial (Arabidopsis thaliana)	1
+7952190	gene/protein	Glycerol dehydrogenase 1	1
+7952190	gene/protein	glutamate dehydrogenase, mitochondrial (fruit fly)	1
+7952190	gene/protein	GDH/6PGL endoplasmic bifunctional protein (human)	1
+7952190	gene/protein	glycerol dehydrogenase	1
+7952190	molecular_function	catalytic activity	1
+7952190	molecular_function	glucose-6-phosphate dehydrogenase activity	1
+7952190	organism	Neurospora crassa	2
+7952190	organism	Spores, Fungal	1
+7952190	sequence	polypeptide	3
+7952190	sequence	glutamine	1
+7952190	clinical_drug	Glutamine	1
+7952190	clinical_drug	Glutamate	1
+7952190	clinical_drug	Oxygen	1
+7952190	molecular_process	oxidation	1

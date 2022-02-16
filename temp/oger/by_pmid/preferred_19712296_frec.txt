@@ -1,0 +1,15 @@
+19712296	biological_process	symbiotic process	1
+19712296	chemical	Genetic Markers	2
+19712296	chemical	RNA, Transfer, Leu	1
+19712296	gene/protein	Protochlorophyllide reductase, chloroplastic	10
+19712296	gene/protein	Light-dependent protochlorophyllide reductase	4
+19712296	gene/protein	Protochlorophyllide reductase	2
+19712296	organism	Cyanobacteria	2
+19712296	organism	Nostoc sp. PCC 7524	2
+19712296	organism	Nostoc	2
+19712296	organism	Nostoc sp. PCC 9229	2
+19712296	organism	Macrozamia riedlei	1
+19712296	sequence	intron	1
+19712296	sequence	intron_variant	1
+19712296	sequence	genetic_marker	1
+19712296	organ/tissue	female organism	1

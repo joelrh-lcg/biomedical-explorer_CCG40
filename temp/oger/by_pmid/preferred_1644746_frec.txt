@@ -1,0 +1,15 @@
+1644746	biological_process	symbiotic process	1
+1644746	biological_process	nodulation	1
+1644746	biological_process	lipopolysaccharide biosynthetic process	1
+1644746	chemical	LPS with O-antigen	1
+1644746	chemical	lipopolysaccharide	1
+1644746	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+1644746	organism	unidentified plasmid	8
+1644746	organism	Rhizobium leguminosarum	2
+1644746	organism	Rhizobium etli	1
+1644746	organism	Rhizobium	1
+1644746	sequence	plasmid	8
+1644746	sequence	delete	3
+1644746	sequence	wild_type	2
+1644746	sequence	gene	1
+1644746	sequence	genome	1

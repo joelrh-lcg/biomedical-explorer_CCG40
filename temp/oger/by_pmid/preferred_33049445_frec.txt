@@ -1,0 +1,78 @@
+33049445	biological_process	defense response	1
+33049445	chemical	camalexin	3
+33049445	chemical	polyamine macromolecule	2
+33049445	chemical	polyamine polymer	2
+33049445	chemical	polyamine	2
+33049445	chemical	Reactive Oxygen Species	2
+33049445	chemical	Putrescine	2
+33049445	chemical	methyl jasmonate	2
+33049445	chemical	4-amino-4-deoxychorismic acid	1
+33049445	chemical	4-amino-4-deoxychorismate(2-)	1
+33049445	chemical	reactive oxygen species	1
+33049445	chemical	1,4-butanediammonium	1
+33049445	chemical	putrescine	1
+33049445	chemical	(-)-methyl jasmonate	1
+33049445	chemical	picloram	1
+33049445	disease	Infections	6
+33049445	disease	Mycoses	4
+33049445	gene/protein	Peptide deformylase	400
+33049445	gene/protein	Biosynthetic arginine decarboxylase	90
+33049445	gene/protein	Probable acetoacetate decarboxylase	25
+33049445	gene/protein	Arginine decarboxylase proenzyme	20
+33049445	gene/protein	Probable L-aspartate decarboxylase	8
+33049445	gene/protein	Arginine decarboxylase	7
+33049445	gene/protein	Acidic amino acid decarboxylase GADL1	4
+33049445	gene/protein	Acetoacetate decarboxylase	3
+33049445	gene/protein	Antizyme inhibitor 2	2
+33049445	gene/protein	Pathogenesis-related protein	2
+33049445	gene/protein	Pathogenesis-related protein 1	2
+33049445	gene/protein	vomeronasal type-1 receptor A1	2
+33049445	gene/protein	voltage-dependent calcium channel gamma-like subunit (mouse)	2
+33049445	gene/protein	vomeronasal type-1 receptor 51 (mouse)	2
+33049445	gene/protein	voltage-dependent calcium channel gamma-like subunit (rat)	2
+33049445	gene/protein	Cuticle-degrading protease	2
+33049445	gene/protein	PRB1-encoded pathogenesis-related protein 1 (Arabidopsis thaliana)	2
+33049445	gene/protein	voltage-dependent calcium channel gamma-like subunit	2
+33049445	gene/protein	antizyme inhibitor 2 (rat)	1
+33049445	gene/protein	L-aspartate decarboxylase	1
+33049445	gene/protein	acidic amino acid decarboxylase GADL1	1
+33049445	gene/protein	antizyme inhibitor 2 (human)	1
+33049445	gene/protein	biosynthetic arginine decarboxylase	1
+33049445	gene/protein	Biodegradative arginine decarboxylase	1
+33049445	gene/protein	antizyme inhibitor 2	1
+33049445	gene/protein	biodegradative arginine decarboxylase	1
+33049445	gene/protein	antizyme inhibitor 2 (mouse)	1
+33049445	gene/protein	probable acetoacetate decarboxylase (Chromobacterium violaceum ATCC 12472)	1
+33049445	gene/protein	lipoxygenase 4, chloroplastic (Arabidopsis thaliana)	1
+33049445	gene/protein	lipoxygenase 3, chloroplastic (Arabidopsis thaliana)	1
+33049445	gene/protein	growth/differentiation factor 15 (human)	1
+33049445	gene/protein	protein PDF (fruit fly)	1
+33049445	gene/protein	Peptide deformylase 1	1
+33049445	gene/protein	peptide deformylase	1
+33049445	gene/protein	growth/differentiation factor 15	1
+33049445	gene/protein	peptide deformylase, mitochondrial	1
+33049445	gene/protein	peptide deformylase, mitochondrial (human)	1
+33049445	gene/protein	bifunctional dihydrocamalexate synthase/camalexin synthase (Arabidopsis thaliana)	1
+33049445	gene/protein	protein-arginine deiminase type-3 (human)	1
+33049445	gene/protein	protein-arginine deiminase type-3 (mouse)	1
+33049445	gene/protein	protein-arginine deiminase type-3	1
+33049445	gene/protein	protein-arginine deiminase type-3 (rat)	1
+33049445	gene/protein	zinc finger protein ZAT12 (Arabidopsis thaliana)	1
+33049445	gene/protein	probable WRKY transcription factor 54 (Arabidopsis thaliana)	1
+33049445	gene/protein	probable WRKY transcription factor 70 (Arabidopsis thaliana)	1
+33049445	organism	Botrytis cinerea	5
+33049445	organism	Pseudomonas syringae	4
+33049445	organism	Pseudomonas savastanoi	2
+33049445	organism	Arabidopsis thaliana	1
+33049445	organism	Arabidopsis	1
+33049445	organism	Pseudomonas	1
+33049445	organism	Syringa	1
+33049445	sequence	gene	6
+33049445	cell_line	PR1 [Human diffuse large B-cell lymphoma]	2
+33049445	cell_line	PR1 [Rat pituitary tumor]	2
+33049445	cell_line	LOX-IMVI	1
+33049445	cell_line	PDF	1
+33049445	organ/tissue	pad	1
+33049445	clinical_drug	Botrytis cinerea allergenic extract	5
+33049445	clinical_drug	Oxygen	1
+33049445	molecular_process	reduction	1

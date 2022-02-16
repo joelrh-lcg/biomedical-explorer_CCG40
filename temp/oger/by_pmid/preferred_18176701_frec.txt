@@ -1,0 +1,6 @@
+18176701	chemical	Anti-Bacterial Agents	2
+18176701	chemical	antimicrobial agent	1
+18176701	organism	unidentified plasmid	1
+18176701	organism	Enterobacteriaceae	1
+18176701	sequence	gene	1
+18176701	sequence	plasmid	1

@@ -1,0 +1,21 @@
+9611191	biological_process	gene conversion	4
+9611191	chemical	nitrogenase	4
+9611191	chemical	nucleotide	1
+9611191	chemical	element	1
+9611191	chemical	molecule	1
+9611191	gene/protein	reca	14
+9611191	gene/protein	cis	8
+9611191	organism	Rhizobium etli	2
+9611191	organism	plasmid	2
+9611191	organism	Rhizobium	1
+9611191	organism	Rhizobiaceae	1
+9611191	organism	phage	1
+9611191	sequence	gene	5
+9611191	sequence	sequence	2
+9611191	sequence	insertion	2
+9611191	sequence	plasmid	2
+9611191	sequence	genome	1
+9611191	sequence	phage	1
+9611191	cell_line	reca	1
+9611191	organ/tissue	element	1
+9611191	organ/tissue	cis	1

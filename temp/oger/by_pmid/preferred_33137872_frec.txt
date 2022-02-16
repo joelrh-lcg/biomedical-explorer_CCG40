@@ -1,0 +1,26 @@
+33137872	biological_process	metabolic process	1
+33137872	biological_process	carbohydrate metabolic process	1
+33137872	chemical	Carbohydrates	2
+33137872	chemical	Sulfur	2
+33137872	chemical	cofactor	1
+33137872	chemical	vitamin	1
+33137872	chemical	carbohydrate	1
+33137872	chemical	polysulfur	1
+33137872	chemical	sulfur atom	1
+33137872	organism	bacterium IFAM-3211	4
+33137872	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	4
+33137872	organism	bacterium IFAM-3215	4
+33137872	organism	bacterium IFAM-2074	4
+33137872	organism	bacterium IFAM-3359	4
+33137872	organism	bacterium	4
+33137872	organism	bacterium IFAM-1493	4
+33137872	organism	Bacteriophage sp.	1
+33137872	organism	Bacteriophages	1
+33137872	organism	Caudovirales	1
+33137872	organism	Siphoviridae	1
+33137872	organism	Myoviridae	1
+33137872	organism	Podoviridae	1
+33137872	sequence	phage_sequence	1
+33137872	sequence	gene	1
+33137872	organ/tissue	multicellular organism	2
+33137872	clinical_drug	Sulfur	1

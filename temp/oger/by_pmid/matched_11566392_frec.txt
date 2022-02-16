@@ -1,0 +1,25 @@
+11566392	biological_process	methylation	3
+11566392	biological_process	biosynthesis	1
+11566392	cellular_component	membrane	1
+11566392	chemical	pathway	9
+11566392	chemical	choline	6
+11566392	chemical	phosphatidylcholine	5
+11566392	chemical	phosphatidylethanolamine	4
+11566392	chemical	phospholipid	1
+11566392	chemical	phosphatidylcholine synthase	1
+11566392	gene/protein	pc synthase	22
+11566392	gene/protein	phosphatidylcholine synthase	11
+11566392	gene/protein	lack	1
+11566392	organism	bacterium	21
+11566392	organism	eukaryote	2
+11566392	organism	Sinorhizobium meliloti	2
+11566392	organism	Pseudomonas aeruginosa	2
+11566392	organism	Borrelia burgdorferi	2
+11566392	organism	Legionella pneumophila	2
+11566392	organism	Spirochetes	1
+11566392	sequence	enzymatic	2
+11566392	sequence	gene	2
+11566392	sequence	genome	1
+11566392	organ/tissue	membrane	2
+11566392	clinical_drug	choline	2
+11566392	molecular_process	methylation	3

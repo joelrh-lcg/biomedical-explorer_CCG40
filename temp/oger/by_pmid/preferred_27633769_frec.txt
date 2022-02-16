@@ -1,0 +1,16 @@
+27633769	biological_process	pathogenesis	3
+27633769	biological_process	obsolete virulence	2
+27633769	biological_process	viral process	2
+27633769	biological_process	genetic transfer	1
+27633769	disease	Legionnaires' Disease	2
+27633769	disease	Infections	2
+27633769	disease	Disease	2
+27633769	gene/protein	zinc finger and BTB domain-containing protein 17	1
+27633769	gene/protein	Zinc finger and BTB domain-containing protein 17	1
+27633769	organism	Legionella	3
+27633769	organism	Epichloe hybrida	1
+27633769	sequence	genome	2
+27633769	sequence	region	2
+27633769	sequence	gene	2
+27633769	sequence	CRISPR	1
+27633769	cell_line	LP-1	1

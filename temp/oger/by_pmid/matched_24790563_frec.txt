@@ -1,0 +1,13 @@
+24790563	biological_process	protein folding	1
+24790563	cellular_component	protein	1
+24790563	chemical	PFP	6
+24790563	chemical	DEP	3
+24790563	chemical	dep	3
+24790563	chemical	protein	2
+24790563	chemical	solution	2
+24790563	disease	protein folding	2
+24790563	gene/protein	PFP	42
+24790563	gene/protein	protein	1
+24790563	gene/protein	DEP	1
+24790563	gene/protein	dep	1
+24790563	sequence	protein	1

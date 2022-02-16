@@ -1,0 +1,16 @@
+28261262	biological_process	mRNA cis splicing, via spliceosome	3
+28261262	cellular_component	obsolete protein	4
+28261262	chemical	protein	5
+28261262	chemical	(protein)	4
+28261262	chemical	diarsenic	1
+28261262	gene/protein	protein	4
+28261262	organism	Eukaryota	1
+28261262	sequence	polypeptide	4
+28261262	sequence	gene	3
+28261262	sequence	duplication	1
+28261262	sequence	sequence_variant_obs	1
+28261262	sequence	region	1
+28261262	sequence	intron	1
+28261262	sequence	intron_variant	1
+28261262	sequence	transcript	1
+28261262	sequence	alternate_sequence_site	1

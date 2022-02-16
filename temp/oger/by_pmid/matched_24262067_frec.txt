@@ -1,0 +1,20 @@
+24262067	biological_process	virulence	3
+24262067	biological_process	conjugation	1
+24262067	chemical	ceftriaxone	3
+24262067	chemical	donor	2
+24262067	gene/protein	pac	33
+24262067	gene/protein	lab	6
+24262067	organism	plasmid	3
+24262067	organism	pstv	2
+24262067	organism	e coli	2
+24262067	organism	salmonella typhimurium	1
+24262067	organism	none	1
+24262067	organism	Salmonella	1
+24262067	organism	strain dh5	1
+24262067	organism	strain so1	1
+24262067	organism	lt2	1
+24262067	sequence	plasmid	3
+24262067	sequence	pac	3
+24262067	sequence	donor	1
+24262067	sequence	gene	1
+24262067	clinical_drug	ceftriaxone	1

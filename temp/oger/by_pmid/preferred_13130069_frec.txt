@@ -1,0 +1,11 @@
+13130069	chemical	dimethoxymethane	3
+13130069	chemical	atom	1
+13130069	gene/protein	prophage integrase IntD (Escherichia coli K-12)	2
+13130069	gene/protein	probable site-specific recombinase (Escherichia coli K-12)	2
+13130069	gene/protein	prophage integrase IntD	2
+13130069	gene/protein	troponin T, skeletal muscle (fruit fly)	2
+13130069	gene/protein	transposase from transposon Tn1545 (Streptococcus agalactiae 2603V/R)	2
+13130069	organism	Rhizobium	3
+13130069	organism	Agrobacterium	2
+13130069	organ/tissue	organ	1
+13130069	entity_type	preferred_term	2

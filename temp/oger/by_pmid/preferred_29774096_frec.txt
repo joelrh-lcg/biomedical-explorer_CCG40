@@ -1,0 +1,33 @@
+29774096	biological_process	execution phase of apoptosis	1
+29774096	biological_process	apoptotic process	1
+29774096	biological_process	biological regulation	1
+29774096	chemical	protein	4
+29774096	chemical	Proteome	1
+29774096	chemical	picloram	1
+29774096	chemical	biomarker	1
+29774096	disease	Neoplasms	6
+29774096	disease	Uterine Cervical Neoplasms	6
+29774096	gene/protein	glutathione S-transferase mu 5 (mouse)	3
+29774096	gene/protein	glutathione S-transferase mu 3 (mouse)	3
+29774096	gene/protein	rodent-type glutathione S-transferase mu 3	3
+29774096	gene/protein	glutathione S-transferase mu 3 (human)	3
+29774096	gene/protein	glutathione S-transferase mu 3	3
+29774096	gene/protein	glutathione S-transferase mu 5	3
+29774096	gene/protein	glutathione S-transferase Yb-3 (rat)	3
+29774096	gene/protein	glutathione S-transferase P 1	3
+29774096	gene/protein	glutathione S-transferase P	3
+29774096	gene/protein	glutathione S-transferase P (human)	3
+29774096	gene/protein	glutathione S-transferase P 1 (mouse)	3
+29774096	gene/protein	glutathione S-transferase P (rat)	3
+29774096	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+29774096	gene/protein	extracellular adherence protein	1
+29774096	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+29774096	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+29774096	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+29774096	gene/protein	methionine aminopeptidase	1
+29774096	gene/protein	glutathione S-transferase GstA	1
+29774096	gene/protein	glutathione S-transferase GstA (Escherichia coli K-12)	1
+29774096	organism	unidentified	1
+29774096	cell	malignant cell	1
+29774096	organ/tissue	proliferative region	1
+29774096	molecular_process	molecular process	1

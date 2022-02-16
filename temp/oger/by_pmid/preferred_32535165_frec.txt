@@ -1,0 +1,15 @@
+32535165	biological_process	gene expression	1
+32535165	gene/protein	Keratin, type I cytoskeletal 12	4
+32535165	gene/protein	secreted and transmembrane protein 1	1
+32535165	gene/protein	secreted and transmembrane protein 1 (human)	1
+32535165	gene/protein	secreted and transmembrane protein 1b	1
+32535165	gene/protein	keratin, type I cytoskeletal 12	1
+32535165	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+32535165	organism	unidentified plasmid	7
+32535165	organism	Escherichia coli K12	1
+32535165	sequence	plasmid	7
+32535165	sequence	gene	3
+32535165	sequence	allele	2
+32535165	sequence	rescue	1
+32535165	cell_line	K12 [Mouse osteosarcoma]	1
+32535165	cell_line	K12-72.1	1

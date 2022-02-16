@@ -1,0 +1,20 @@
+6247284	cellular_component	virion	1
+6247284	chemical	polypeptide	7
+6247284	chemical	ribonucleic acid	3
+6247284	chemical	RNA	3
+6247284	disease	Diarrhea	2
+6247284	gene/protein	proteolytic cleavage product	7
+6247284	gene/protein	amino acid chain	7
+6247284	organism	Human rotavirus	2
+6247284	organism	Virion	1
+6247284	organism	Rabbits	1
+6247284	organism	Oryctolagus cuniculus	1
+6247284	organism	Rotavirus	1
+6247284	sequence	polypeptide	7
+6247284	cell	reticulocyte	1
+6247284	cell_line	Y8-10C2	1
+6247284	organ/tissue	exoskeleton	3
+6247284	organ/tissue	shell	3
+6247284	organ/tissue	hindlimb zeugopod	2
+6247284	organ/tissue	tissue	1
+6247284	clinical_drug	rabbit allergenic extract	1

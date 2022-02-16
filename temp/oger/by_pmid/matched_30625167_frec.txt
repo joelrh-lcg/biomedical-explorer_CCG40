@@ -1,0 +1,15 @@
+30625167	cellular_component	SMC	5
+30625167	chemical	sg1	8
+30625167	chemical	16s rrna	1
+30625167	disease	SMC	5
+30625167	gene/protein	SMC	5
+30625167	gene/protein	sg1	4
+30625167	organism	scorpion	5
+30625167	organism	Mollicutes	3
+30625167	organism	Vaejovis smithi	2
+30625167	organism	Scorpion	2
+30625167	organism	Mycoplasma	2
+30625167	organism	arachnid	1
+30625167	organism	Centruroides limpidus	1
+30625167	sequence	target gene	1
+30625167	sequence	16s rrna	1

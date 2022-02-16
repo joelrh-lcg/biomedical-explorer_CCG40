@@ -1,0 +1,23 @@
+16183216	cellular_component	mitochondrial genome	1
+16183216	cellular_component	ribosomal rna	1
+16183216	chemical	ribosomal rna	2
+16183216	chemical	transfer rna	2
+16183216	chemical	cluster	1
+16183216	gene/protein	rna	4
+16183216	gene/protein	lack	1
+16183216	molecular_function	ribosomal rna	2
+16183216	molecular_function	transfer rna	2
+16183216	organism	Arachnida	3
+16183216	organism	scorpion	2
+16183216	organism	Limulus polyphemus	2
+16183216	organism	Centruroides limpidus	1
+16183216	organism	Xiphosura	1
+16183216	organism	mesobuthus gibbosus	1
+16183216	organism	spider	1
+16183216	organism	Acari	1
+16183216	sequence	gene	7
+16183216	sequence	genome	2
+16183216	sequence	sequence	1
+16183216	sequence	ribosomal rna	1
+16183216	sequence	transfer rna	1
+16183216	sequence	mitochondrial sequence	1

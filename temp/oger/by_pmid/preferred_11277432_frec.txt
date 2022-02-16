@@ -1,0 +1,53 @@
+11277432	biological_process	biosynthetic process	2
+11277432	biological_process	nodulation	1
+11277432	biological_process	fatty acid elongation	1
+11277432	cellular_component	obsolete protein	8
+11277432	chemical	protein	8
+11277432	chemical	(protein)	7
+11277432	chemical	fatty acid	2
+11277432	chemical	food additive carrier	2
+11277432	chemical	Oxidoreductases	2
+11277432	chemical	holo-[acyl-carrier protein]	1
+11277432	chemical	acyl-carrier protein	1
+11277432	chemical	Acyl Carrier Protein	1
+11277432	chemical	polyunsaturated fatty acid	1
+11277432	chemical	oligosaccharide	1
+11277432	chemical	nodulation factor	1
+11277432	chemical	ligand	1
+11277432	chemical	alpha-amino acid	1
+11277432	chemical	amino acid	1
+11277432	disease	Myoclonic Epilepsies, Progressive	1
+11277432	gene/protein	Acyl carrier protein	516
+11277432	gene/protein	Flavohemoprotein	43
+11277432	gene/protein	protein	6
+11277432	gene/protein	nodulation protein G (Sinorhizobium meliloti 1021)	5
+11277432	gene/protein	nodulation protein F (Sinorhizobium meliloti 1021)	4
+11277432	gene/protein	3-oxoacyl-[acyl-carrier-protein] reductase FabG (Escherichia coli K-12)	4
+11277432	gene/protein	biotin carboxylase	4
+11277432	gene/protein	3-oxoacyl-[acyl-carrier-protein] reductase FabG	4
+11277432	gene/protein	biotin carboxylase (Escherichia coli K-12)	4
+11277432	gene/protein	29 kDa protein	3
+11277432	gene/protein	tumor suppressor candidate 3 (mouse)	2
+11277432	gene/protein	tumor suppressor candidate 3	2
+11277432	gene/protein	tumor suppressor candidate 3 (human)	2
+11277432	gene/protein	acyl carrier protein	1
+11277432	gene/protein	60S acidic ribosomal protein P2	1
+11277432	gene/protein	flavohemoprotein	1
+11277432	gene/protein	kinesin-like protein Nod (fruit fly)	1
+11277432	gene/protein	Movement protein	1
+11277432	gene/protein	Suppressor of silencing P0	1
+11277432	gene/protein	Membrane lipoprotein TpN32	1
+11277432	gene/protein	Retinol dehydrogenase 16	1
+11277432	molecular_function	transporter activity	3
+11277432	molecular_function	binding	1
+11277432	organism	Rhizobium leguminosarum	2
+11277432	organism	Rhizobium sp. N33	2
+11277432	organism	Sinorhizobium meliloti	2
+11277432	organism	Escherichia coli	2
+11277432	sequence	polypeptide	8
+11277432	sequence	region	2
+11277432	sequence	gene	2
+11277432	sequence	amino_acid	1
+11277432	sequence	clone	1
+11277432	sequence	duplication	1
+11277432	molecular_process	reduction	1

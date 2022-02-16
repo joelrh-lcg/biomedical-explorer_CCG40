@@ -1,0 +1,30 @@
+11566387	chemical	DNA, Ribosomal	2
+11566387	chemical	cluster	1
+11566387	chemical	sulfur atom	1
+11566387	chemical	RNA, Ribosomal, 16S	1
+11566387	gene/protein	Replication-associated protein	40
+11566387	gene/protein	Replication-associated protein G2P	8
+11566387	gene/protein	Rab proteins geranylgeranyltransferase component A	3
+11566387	gene/protein	Replication-associated protein ORF2	1
+11566387	gene/protein	replication initiation protein (Escherichia coli K-12)	1
+11566387	gene/protein	Replication-associated protein VP4	1
+11566387	gene/protein	replication initiation protein	1
+11566387	gene/protein	ATP-dependent DNA helicase Rep (Escherichia coli K-12)	1
+11566387	gene/protein	Rab escort protein 1 (Arabidopsis thaliana)	1
+11566387	gene/protein	Rab proteins geranylgeranyltransferase component A (fruit fly)	1
+11566387	gene/protein	Replication-associated protein ORF4	1
+11566387	gene/protein	ATP-dependent DNA helicase Rep	1
+11566387	gene/protein	replication initiation protein (Salmonella enterica subsp. enterica serovar Typhi)	1
+11566387	molecular_function	Rab GTPase binding	1
+11566387	organism	Astragalus adsurgens	1
+11566387	organism	Agrobacterium	1
+11566387	organism	Mesorhizobium	1
+11566387	organism	Rhizobium	1
+11566387	organism	Sinorhizobium	1
+11566387	sequence	rRNA_gene	3
+11566387	sequence	AFLP_fragment	2
+11566387	sequence	RFLP_fragment	1
+11566387	sequence	genotype	1
+11566387	sequence	rRNA_16S	1
+11566387	organ/tissue	fibulare	1
+11566387	organ/tissue	talus	1

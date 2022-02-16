@@ -1,0 +1,16 @@
+27814642	cellular_component	complex I	4
+27814642	cellular_component	mitochondrial dna	2
+27814642	cellular_component	mtdna	1
+27814642	cellular_component	enzyme complex	1
+27814642	chemical	nadh	4
+27814642	chemical	mitochondrial dna	2
+27814642	chemical	mtdna	1
+27814642	chemical	respiratory complex I	1
+27814642	chemical	alpha	1
+27814642	gene/protein	complex I	4
+27814642	gene/protein	nuo14	2
+27814642	sequence	mitochondrial dna	2
+27814642	sequence	mtdna	1
+27814642	sequence	genome	1
+27814642	sequence	gene	1
+27814642	organ/tissue	organism	1

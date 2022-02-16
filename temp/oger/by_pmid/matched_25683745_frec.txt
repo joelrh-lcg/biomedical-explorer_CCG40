@@ -1,0 +1,14 @@
+25683745	biological_process	regulation	2
+25683745	biological_process	transcription	1
+25683745	biological_process	gene expression	1
+25683745	biological_process	signaling	1
+25683745	chemical	apo	8
+25683745	chemical	effector	1
+25683745	chemical	proteins	1
+25683745	chemical	formal	1
+25683745	molecular_function	transcription factor	1
+25683745	organism	e coli	4
+25683745	organism	human	2
+25683745	organism	none	1
+25683745	sequence	gene	2
+25683745	organ/tissue	digestive tract	2

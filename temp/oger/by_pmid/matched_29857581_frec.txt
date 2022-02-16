@@ -1,0 +1,53 @@
+29857581	biological_process	metabolism	2
+29857581	biological_process	carbohydrate metabolism	1
+29857581	biological_process	protein synthesis	1
+29857581	biological_process	mannose metabolism	1
+29857581	biological_process	glycolysis	1
+29857581	biological_process	gluconeogenesis	1
+29857581	biological_process	oxidation ⁻ reduction	1
+29857581	cellular_component	protein	1
+29857581	chemical	insulin	8
+29857581	chemical	carbohydrate	6
+29857581	chemical	proteins	5
+29857581	chemical	citrate	5
+29857581	chemical	fructose	4
+29857581	chemical	mannose	3
+29857581	chemical	protein	2
+29857581	chemical	pathway	2
+29857581	chemical	amino acid	2
+29857581	chemical	nitrogen	2
+29857581	chemical	biological function	1
+29857581	chemical	arginase	1
+29857581	chemical	pyruvate carboxylase	1
+29857581	chemical	peroxiredoxin1	1
+29857581	chemical	sorbitol dehydrogenase	1
+29857581	chemical	vitamin	1
+29857581	disease	type 2 diabetes mellitus	2
+29857581	disease	insulin resistance	2
+29857581	disease	disease	2
+29857581	disease	DAVID	1
+29857581	gene/protein	insulin	164
+29857581	gene/protein	sorbitol dehydrogenase	17
+29857581	gene/protein	peroxiredoxin1	16
+29857581	gene/protein	regucalcin	13
+29857581	gene/protein	pyruvate carboxylase	9
+29857581	gene/protein	arginase1	8
+29857581	gene/protein	spot	2
+29857581	gene/protein	protein	1
+29857581	molecular_function	insulin	2
+29857581	molecular_function	molecular function	1
+29857581	molecular_function	vitamin binding	1
+29857581	organism	mouse	6
+29857581	organism	spot	1
+29857581	sequence	binding	2
+29857581	sequence	protein	1
+29857581	sequence	amino acid	1
+29857581	organ/tissue	liver	3
+29857581	organ/tissue	spot	1
+29857581	clinical_drug	pyruvate	1
+29857581	clinical_drug	sorbitol	1
+29857581	clinical_drug	fructose	1
+29857581	clinical_drug	mannose	1
+29857581	clinical_drug	nitrogen	1
+29857581	molecular_process	oxidation	1
+29857581	molecular_process	reduction	1

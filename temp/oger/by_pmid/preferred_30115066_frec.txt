@@ -1,0 +1,22 @@
+30115066	biological_process	regulation of gene expression	1
+30115066	biological_process	transcription, DNA-templated	1
+30115066	biological_process	gene expression	1
+30115066	chemical	base	1
+30115066	gene/protein	anthranilate synthase component 1 (Escherichia coli K-12)	1
+30115066	gene/protein	GTPase Era (Escherichia coli K-12)	1
+30115066	gene/protein	GTPase Era (Clostridium botulinum A str. Hall)	1
+30115066	gene/protein	GTPase Era (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+30115066	gene/protein	Sperm-associated antigen 5	1
+30115066	gene/protein	sperm-associated antigen 5	1
+30115066	molecular_function	binding	1
+30115066	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+30115066	organism	Escherichia coli K12	1
+30115066	sequence	gene	2
+30115066	sequence	genome	1
+30115066	sequence	polypeptide_binding_motif	1
+30115066	sequence	non_covalent_binding_site	1
+30115066	sequence	copy_number_gain	1
+30115066	sequence	base	1
+30115066	cell_line	K12 [Mouse osteosarcoma]	1
+30115066	cell_line	K12-72.1	1
+30115066	organ/tissue	multicellular organism	1

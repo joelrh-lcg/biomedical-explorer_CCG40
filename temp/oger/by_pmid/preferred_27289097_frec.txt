@@ -1,0 +1,11 @@
+27289097	chemical	Mitochondrial Proteins	1
+27289097	organism	Eukaryota	2
+27289097	organism	bacterium IFAM-3211	1
+27289097	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+27289097	organism	bacterium IFAM-3215	1
+27289097	organism	bacterium IFAM-2074	1
+27289097	organism	bacterium IFAM-3359	1
+27289097	organism	bacterium	1
+27289097	organism	bacterium IFAM-1493	1
+27289097	organism	Proteobacteria	1
+27289097	sequence	late_origin_of_replication	1

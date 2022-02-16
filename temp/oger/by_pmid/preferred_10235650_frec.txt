@@ -1,0 +1,5 @@
+10235650	chemical	atom	4
+10235650	sequence	circular	1
+10235650	sequence	region	1
+10235650	sequence	gene	1
+10235650	organ/tissue	organ	4

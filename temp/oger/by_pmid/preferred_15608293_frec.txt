@@ -1,0 +1,23 @@
+15608293	biological_process	transcription, DNA-templated	2
+15608293	biological_process	biological regulation	1
+15608293	chemical	atom	2
+15608293	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	2
+15608293	molecular_function	binding	2
+15608293	organism	Escherichia coli	2
+15608293	organism	Gammaproteobacteria	1
+15608293	organism	bacterium IFAM-3211	1
+15608293	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+15608293	organism	bacterium IFAM-3215	1
+15608293	organism	bacterium IFAM-2074	1
+15608293	organism	bacterium IFAM-3359	1
+15608293	organism	bacterium	1
+15608293	organism	bacterium IFAM-1493	1
+15608293	sequence	genome	4
+15608293	sequence	non_covalent_binding_site	2
+15608293	sequence	binding_site	2
+15608293	sequence	regulon	2
+15608293	sequence	promoter	1
+15608293	sequence	operon	1
+15608293	sequence	region	1
+15608293	organ/tissue	organ	2
+15608293	organ/tissue	multicellular organism	1

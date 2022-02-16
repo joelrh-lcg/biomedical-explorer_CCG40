@@ -1,0 +1,18 @@
+22511804	biological_process	symbiosis	1
+22511804	biological_process	metabolism	1
+22511804	chemical	cbb3 oxidase	3
+22511804	chemical	nitrogen	2
+22511804	chemical	carbon	2
+22511804	chemical	oxidase	1
+22511804	chemical	sucrose synthase	1
+22511804	chemical	dicarboxylic acid	1
+22511804	gene/protein	sucrose synthase	15
+22511804	gene/protein	bean	3
+22511804	molecular_function	sucrose synthase activity	1
+22511804	organism	Rhizobium etli	2
+22511804	organism	Phaseolus vulgari	1
+22511804	organism	common bean plant	1
+22511804	cell_line	bean	1
+22511804	organ/tissue	nodule	10
+22511804	clinical_drug	nitrogen	1
+22511804	clinical_drug	sucrose	1

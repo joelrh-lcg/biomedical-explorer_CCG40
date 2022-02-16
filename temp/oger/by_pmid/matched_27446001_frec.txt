@@ -1,0 +1,32 @@
+27446001	biological_process	metabolism	2
+27446001	biological_process	catabolism	1
+27446001	chemical	uric acid	4
+27446001	chemical	nitrogen	4
+27446001	chemical	carmine	3
+27446001	chemical	uricase	2
+27446001	chemical	cochineal	1
+27446001	chemical	culture media	1
+27446001	chemical	male	1
+27446001	chemical	26s rrna	1
+27446001	chemical	antifungal	1
+27446001	gene/protein	uricase	52
+27446001	molecular_function	uricase activity	2
+27446001	organism	fungus	2
+27446001	organism	Dactylopius coccus	1
+27446001	organism	Cryptococcus	1
+27446001	organism	Rhodotorula	1
+27446001	organism	Trametes	1
+27446001	organism	Penicillium	1
+27446001	organism	scale insect	1
+27446001	sequence	rrna gene	1
+27446001	sequence	sequence	1
+27446001	sequence	gene	1
+27446001	organ/tissue	gut	3
+27446001	organ/tissue	developmental stage	2
+27446001	organ/tissue	male	1
+27446001	organ/tissue	female	1
+27446001	organ/tissue	tissue	1
+27446001	organ/tissue	hemolymph	1
+27446001	organ/tissue	scale	1
+27446001	clinical_drug	nitrogen	2
+27446001	clinical_drug	cochineal	1

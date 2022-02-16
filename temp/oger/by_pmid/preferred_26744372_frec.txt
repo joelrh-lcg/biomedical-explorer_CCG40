@@ -1,0 +1,14 @@
+26744372	chemical	atom	1
+26744372	disease	Gastritis	4
+26744372	gene/protein	Plasminogen activator inhibitor 1	6
+26744372	gene/protein	vacuolin-A (Dictyostelium discoideum)	1
+26744372	gene/protein	plasminogen activator inhibitor 1	1
+26744372	organism	Helicobacter	1
+26744372	organism	unidentified plasmid	1
+26744372	sequence	genome	1
+26744372	sequence	region	1
+26744372	sequence	genotype	1
+26744372	sequence	plasmid	1
+26744372	cell_line	PA-1	1
+26744372	cell_line	PAI	1
+26744372	organ/tissue	organ	1

@@ -1,0 +1,13 @@
+9399800	biological_process	regulation	2
+9399800	biological_process	transcription	1
+9399800	cellular_component	chromosome	1
+9399800	chemical	element	1
+9399800	chemical	sigma 70	1
+9399800	gene/protein	sigma 70	38
+9399800	organism	Escherichia coli	2
+9399800	sequence	signal	2
+9399800	sequence	operon	2
+9399800	sequence	gene	1
+9399800	sequence	chromosome	1
+9399800	sequence	promoter	1
+9399800	organ/tissue	element	1

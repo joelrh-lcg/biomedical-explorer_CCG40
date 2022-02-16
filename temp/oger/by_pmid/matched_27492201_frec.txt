@@ -1,0 +1,18 @@
+27492201	biological_process	virulence	3
+27492201	organism	bacterium	42
+27492201	organism	Acinetobacter sp	8
+27492201	organism	larva	5
+27492201	organism	Alcaligenes sp	3
+27492201	organism	Rhabditis	2
+27492201	organism	Serratia sp	2
+27492201	organism	Rhabditoides regina	1
+27492201	organism	Galleria mellonella	1
+27492201	organism	klebsiella sp	1
+27492201	organism	bacterium be	1
+27492201	organism	Pseudochrobactrum sp	1
+27492201	organism	Comamonas sp	1
+27492201	organism	Klebsiella sp	1
+27492201	organism	Leucobacter sp	1
+27492201	organ/tissue	larva	15
+27492201	organ/tissue	grub	2
+27492201	organ/tissue	larval stage	1

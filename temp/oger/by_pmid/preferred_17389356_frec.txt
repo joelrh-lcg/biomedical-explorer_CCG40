@@ -1,0 +1,23 @@
+17389356	biological_process	homologous recombination	1
+17389356	biological_process	embryo development ending in birth or egg hatching	1
+17389356	biological_process	embryo development ending in seed dormancy	1
+17389356	biological_process	embryo development	1
+17389356	cellular_component	chromosome	1
+17389356	chemical	picloram	1
+17389356	disease	Chromosome Inversion	2
+17389356	gene/protein	tryptophan 2,3-dioxygenase (human)	1
+17389356	organism	Humans	4
+17389356	sequence	genome	2
+17389356	sequence	region	1
+17389356	sequence	homologous	1
+17389356	sequence	junction	1
+17389356	sequence	intrachromosomal	1
+17389356	sequence	polypeptide_repeat	1
+17389356	sequence	reverse	1
+17389356	sequence	chromosomal_inversion	1
+17389356	sequence	gene	1
+17389356	sequence	chromosome	1
+17389356	cell	somatic cell	1
+17389356	organ/tissue	adult organism	1
+17389356	organ/tissue	embryo stage	1
+17389356	organ/tissue	start of neonate stage	1

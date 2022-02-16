@@ -1,0 +1,4 @@
+17996425	organism	synthetic	1
+17996425	sequence	genome	2
+17996425	sequence	sequence	1
+17996425	organ/tissue	organism	2

@@ -1,0 +1,28 @@
+16183216	cellular_component	mitochondrial chromosome	1
+16183216	cellular_component	ribosome	1
+16183216	chemical	RNA, Ribosomal	1
+16183216	chemical	ribosomal RNA	1
+16183216	chemical	transfer RNA	1
+16183216	chemical	RNA, Transfer	1
+16183216	chemical	cluster	1
+16183216	gene/protein	ribonuclease I (Escherichia coli K-12)	2
+16183216	gene/protein	ribonuclease I	2
+16183216	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+16183216	molecular_function	structural constituent of ribosome	1
+16183216	molecular_function	obsolete ribosomal RNA	1
+16183216	molecular_function	obsolete transfer RNA	1
+16183216	molecular_function	triplet codon-amino acid adaptor activity	1
+16183216	organism	Arachnida	3
+16183216	organism	Scorpions	2
+16183216	organism	Horseshoe Crabs	2
+16183216	organism	Centruroides limpidus	1
+16183216	organism	Limulus polyphemus	1
+16183216	organism	Mesobuthus gibbosus	1
+16183216	organism	Spiders	1
+16183216	organism	Acari	1
+16183216	sequence	gene	7
+16183216	sequence	genome	2
+16183216	sequence	region	1
+16183216	sequence	rRNA	1
+16183216	sequence	tRNA	1
+16183216	sequence	mitochondrial_sequence	1

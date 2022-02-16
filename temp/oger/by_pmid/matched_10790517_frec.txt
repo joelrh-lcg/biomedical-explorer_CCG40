@@ -1,0 +1,24 @@
+10790517	cellular_component	protein	1
+10790517	chemical	protein	2
+10790517	chemical	rdna	1
+10790517	chemical	rrna	1
+10790517	chemical	probe	1
+10790517	chemical	hea	1
+10790517	gene/protein	endonuclease	6
+10790517	gene/protein	rna	2
+10790517	gene/protein	protein	1
+10790517	organism	pineapple	6
+10790517	organism	Acetobacter diazotrophicus	2
+10790517	organism	Ananas comosus	1
+10790517	organism	bacterium be	1
+10790517	organism	permit	1
+10790517	sequence	restriction fragment length polymorphism	1
+10790517	sequence	rflp	1
+10790517	sequence	rdna	1
+10790517	sequence	LSU rrna	1
+10790517	sequence	probe	1
+10790517	sequence	protein	1
+10790517	sequence	genotype	1
+10790517	organ/tissue	tissue	1
+10790517	organ/tissue	bud	1
+10790517	clinical_drug	pineapple	3

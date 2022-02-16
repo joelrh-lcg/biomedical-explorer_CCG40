@@ -1,0 +1,45 @@
+8491702	cellular_component	extracellular region	1
+8491702	chemical	heteroglycan	2
+8491702	chemical	exopolysaccharide	1
+8491702	chemical	electron	1
+8491702	chemical	positron	1
+8491702	chemical	glucan	1
+8491702	disease	Meier-Gorlin syndrome	2
+8491702	gene/protein	Streptopain	7
+8491702	gene/protein	progonadoliberin-1 (human)	5
+8491702	gene/protein	protein grainyhead (fruit fly)	5
+8491702	gene/protein	progonadoliberin-1	5
+8491702	gene/protein	5'-3' exoribonuclease 1 (mouse)	3
+8491702	gene/protein	protein EXORDIUM (Arabidopsis thaliana)	3
+8491702	gene/protein	flap endonuclease Xni	3
+8491702	gene/protein	flap endonuclease Xni (Escherichia coli K-12)	3
+8491702	gene/protein	5'-3' exoribonuclease 1	3
+8491702	gene/protein	minor histocompatibility antigen H13	1
+8491702	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+8491702	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+8491702	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+8491702	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+8491702	gene/protein	minor histocompatibility antigen H13 (human)	1
+8491702	gene/protein	sphingosine-1-phosphate phosphatase	1
+8491702	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+8491702	gene/protein	SD07518p (fruit fly)	1
+8491702	molecular_function	obsolete signal peptide peptidase activity	1
+8491702	organism	Fabaceae	2
+8491702	organism	Rhizobium leguminosarum	2
+8491702	organism	Rhizobium sp. IRc78	1
+8491702	organism	Rhizobium sp.	1
+8491702	organism	Rhizobium sp. SIN-1	1
+8491702	organism	Ensifer sp. BR816	1
+8491702	organism	Rhizobium sp. MPIK3030	1
+8491702	organism	Rhizobium sp. N33	1
+8491702	organism	Acacia saligna	1
+8491702	organism	Trifolium	1
+8491702	organism	Acacia	1
+8491702	sequence	repeat_unit	1
+8491702	sequence	insertion	1
+8491702	cell_line	BTI-Tn-5B1-4	1
+8491702	organ/tissue	cerebellum vermis lobule X	3
+8491702	organ/tissue	germinal center	3
+8491702	organ/tissue	extrapyramidal tract system	2
+8491702	organ/tissue	intermediate layer of superior colliculus	1
+8491702	clinical_drug	Acacia	2

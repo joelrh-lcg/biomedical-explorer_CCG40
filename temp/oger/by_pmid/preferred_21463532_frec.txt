@@ -1,0 +1,38 @@
+21463532	biological_process	pantothenate biosynthetic process	2
+21463532	biological_process	metabolic process	1
+21463532	cellular_component	chromosome	1
+21463532	cellular_component	viral nucleocapsid	1
+21463532	chemical	pantothenate	2
+21463532	chemical	(R)-pantothenate	2
+21463532	chemical	cluster	1
+21463532	chemical	3-methyl-2-oxobutanoate hydroxymethyltransferase	1
+21463532	gene/protein	3-methyl-2-oxobutanoate hydroxymethyltransferase	548
+21463532	gene/protein	3-methyl-2-oxobutanoate hydroxymethyltransferase (Escherichia coli K-12)	2
+21463532	gene/protein	pantothenate synthetase	1
+21463532	gene/protein	pantothenate synthetase (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+21463532	gene/protein	pantoate--beta-alanine ligase (Dictyostelium discoideum)	1
+21463532	gene/protein	pantothenate synthetase (Escherichia coli K-12)	1
+21463532	gene/protein	nucleoporin Nup43	1
+21463532	gene/protein	peroxidase 42 (Arabidopsis thaliana)	1
+21463532	gene/protein	Capsid protein	1
+21463532	gene/protein	Glutamine synthetase	1
+21463532	gene/protein	Movement protein TGB1	1
+21463532	gene/protein	Nucleoporin Nup43	1
+21463532	gene/protein	Transcription initiation factor TFIID subunit 9	1
+21463532	gene/protein	tRNA-aminoacylation cofactor ARC1	1
+21463532	gene/protein	Proteasomal ubiquitin receptor ADRM1 homolog	1
+21463532	organism	unidentified plasmid	6
+21463532	organism	bacterium IFAM-3211	1
+21463532	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+21463532	organism	bacterium IFAM-3215	1
+21463532	organism	bacterium IFAM-2074	1
+21463532	organism	bacterium IFAM-3359	1
+21463532	organism	bacterium	1
+21463532	organism	bacterium IFAM-1493	1
+21463532	organism	Rhizobium etli	1
+21463532	sequence	gene	7
+21463532	sequence	plasmid	6
+21463532	sequence	genome	4
+21463532	sequence	region	2
+21463532	sequence	chromosome	1
+21463532	clinical_drug	pantothenate	2

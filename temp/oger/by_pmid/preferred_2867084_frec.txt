@@ -1,0 +1,46 @@
+2867084	biological_process	biosynthetic process	3
+2867084	biological_process	glutamine biosynthetic process	2
+2867084	biological_process	biological regulation	1
+2867084	cellular_component	intracellular	1
+2867084	chemical	Glutamine	10
+2867084	chemical	Glycine	6
+2867084	chemical	Serine	6
+2867084	chemical	glutamine	5
+2867084	chemical	L-glutamine	5
+2867084	chemical	electron	4
+2867084	chemical	positron	4
+2867084	chemical	Glutamic Acid	4
+2867084	chemical	polypeptide	3
+2867084	chemical	glycine	3
+2867084	chemical	glycine zwitterion	3
+2867084	chemical	glycine residue	3
+2867084	chemical	serine	3
+2867084	chemical	L-serine	3
+2867084	chemical	alpha-amino acid	2
+2867084	chemical	amino acid	2
+2867084	chemical	glutamate(2-)	2
+2867084	chemical	L-glutamic acid	2
+2867084	chemical	glutamate(1-)	2
+2867084	chemical	glutamic acid	2
+2867084	chemical	nitrogen atom	2
+2867084	chemical	nitrogen(.)	2
+2867084	chemical	Ammonium Compounds	2
+2867084	chemical	alpha-particle	1
+2867084	chemical	Glutamate-Ammonia Ligase	1
+2867084	chemical	ammonium	1
+2867084	gene/protein	Glutamine synthetase	122
+2867084	gene/protein	proteolytic cleavage product	3
+2867084	gene/protein	amino acid chain	3
+2867084	gene/protein	glutamine synthetase	1
+2867084	sequence	glutamine	6
+2867084	sequence	polypeptide	3
+2867084	sequence	glycine	3
+2867084	sequence	serine	3
+2867084	sequence	amino_acid	2
+2867084	sequence	structural_alteration	1
+2867084	sequence	double	1
+2867084	clinical_drug	Glutamine	6
+2867084	clinical_drug	Glycine	3
+2867084	clinical_drug	Serine	3
+2867084	clinical_drug	Glutamate	2
+2867084	clinical_drug	Nitrogen	2

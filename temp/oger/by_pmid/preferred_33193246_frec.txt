@@ -1,0 +1,40 @@
+33193246	biological_process	biological regulation	2
+33193246	biological_process	cellular nitrogen compound metabolic process	1
+33193246	biological_process	macromolecule metabolic process	1
+33193246	chemical	cellodextrin	3
+33193246	chemical	base	2
+33193246	chemical	Cellulase	1
+33193246	chemical	cluster	1
+33193246	chemical	nitrogen atom	1
+33193246	chemical	nitrogen(.)	1
+33193246	chemical	macromolecule	1
+33193246	gene/protein	Endoglucanase	19
+33193246	gene/protein	Endoglucanase EG-1	4
+33193246	gene/protein	ELAV-like protein 2	4
+33193246	gene/protein	Endoglucanase 1	3
+33193246	gene/protein	Endoglucanase EG-II	2
+33193246	gene/protein	Endoglucanase A	2
+33193246	gene/protein	Endoglucanase Cel12A	1
+33193246	gene/protein	Putative endoglucanase type F	1
+33193246	gene/protein	Major extracellular endoglucanase	1
+33193246	gene/protein	Putative endoglucanase type K	1
+33193246	gene/protein	Endoglucanase E	1
+33193246	gene/protein	Putative endoglucanase X	1
+33193246	gene/protein	Endoglucanase Cel5A	1
+33193246	gene/protein	endoglucanase	1
+33193246	gene/protein	Endoglucanase-1	1
+33193246	gene/protein	Probable endoglucanase	1
+33193246	gene/protein	Endoglucanase CelA	1
+33193246	gene/protein	Endoglucanase B	1
+33193246	gene/protein	Endo-beta-1,4-glucanase	1
+33193246	gene/protein	Endoglucanase 2	1
+33193246	gene/protein	Endoglucanase type C	1
+33193246	gene/protein	Putative endoglucanase type B	1
+33193246	gene/protein	ELAV-like protein 2 (mouse)	1
+33193246	gene/protein	ELAV-like protein 2 (human)	1
+33193246	gene/protein	ELAV-like protein 2 (rat)	1
+33193246	sequence	gene	4
+33193246	sequence	base	2
+33193246	organ/tissue	multicellular organism	1
+33193246	clinical_drug	Nitrogen	1
+33193246	entity_type	preferred_term	4

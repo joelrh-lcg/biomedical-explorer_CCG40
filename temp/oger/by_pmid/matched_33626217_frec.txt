@@ -1,0 +1,32 @@
+33626217	biological_process	synthesis	2
+33626217	biological_process	sphingolipid synthesis	1
+33626217	biological_process	formation	1
+33626217	chemical	lipid	4
+33626217	chemical	serine	4
+33626217	chemical	antibiotic	3
+33626217	chemical	transferase	2
+33626217	chemical	capnine	2
+33626217	chemical	sphingolipid	1
+33626217	chemical	von Willebrand factor receptor	1
+33626217	chemical	antagonist	1
+33626217	chemical	palmitoyl	1
+33626217	chemical	2amino3oxobutyrate coenzyme a ligase	1
+33626217	chemical	8amino7oxononanoate synthase	1
+33626217	chemical	molecule	1
+33626217	disease	von Willebrand	2
+33626217	gene/protein	8amino7oxononanoate synthase	226
+33626217	gene/protein	dna polymerase	72
+33626217	gene/protein	acyl transferase	13
+33626217	gene/protein	von Willebrand factor	7
+33626217	gene/protein	precursor	2
+33626217	gene/protein	lack	1
+33626217	organism	Flavobacterium johnsoniae	4
+33626217	organism	Flavobacterium	3
+33626217	organism	Escherichia coli	2
+33626217	organism	Cytophaga	1
+33626217	organism	Bacteroidetes	1
+33626217	organism	choanoflagellates	1
+33626217	sequence	serine	1
+33626217	sequence	gene	1
+33626217	clinical_drug	von Willebrand factor	1
+33626217	clinical_drug	serine	1

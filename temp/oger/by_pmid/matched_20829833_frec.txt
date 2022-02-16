@@ -1,0 +1,6 @@
+20829833	biological_process	signaling pathway	1
+20829833	biological_process	regulation	1
+20829833	chemical	pathway	8
+20829833	chemical	Pathway	1
+20829833	sequence	gene	1
+20829833	organ/tissue	organism	1

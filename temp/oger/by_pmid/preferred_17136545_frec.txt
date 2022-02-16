@@ -1,0 +1,14 @@
+17136545	biological_process	obsolete growth pattern	2
+17136545	biological_process	growth	2
+17136545	biological_process	cell cycle	1
+17136545	biological_process	meristem maintenance	1
+17136545	biological_process	root regeneration	1
+17136545	biological_process	root development	1
+17136545	biological_process	regeneration	1
+17136545	chemical	sulfoxaflor	1
+17136545	organism	Cactaceae	4
+17136545	organism	Stenocereus gummosus	1
+17136545	organism	Trachinotus falcatus	1
+17136545	sequence	gene	1
+17136545	sequence	transgenic	1
+17136545	organ/tissue	proliferative region	1

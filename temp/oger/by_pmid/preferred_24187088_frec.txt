@@ -1,0 +1,28 @@
+24187088	biological_process	pathogenesis	1
+24187088	biological_process	obsolete virulence	1
+24187088	biological_process	viral process	1
+24187088	biological_process	regulation of transcription, DNA-templated	1
+24187088	biological_process	obsolete mutagenesis	1
+24187088	cellular_component	chromosomal region	1
+24187088	chemical	Integration Host Factors	2
+24187088	gene/protein	sulfur carrier protein TusA (Escherichia coli K-12)	3
+24187088	gene/protein	sulfur carrier protein TusA	3
+24187088	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+24187088	gene/protein	ribonuclease I	1
+24187088	gene/protein	scavenger receptor class A member 3 (human)	1
+24187088	gene/protein	Sepiapterin reductase	1
+24187088	gene/protein	scavenger receptor class A member 3	1
+24187088	molecular_function	uroporphyrin-III C-methyltransferase activity	3
+24187088	organism	Salmonella enterica	2
+24187088	organism	Salmonella	1
+24187088	sequence	region	6
+24187088	sequence	gene	4
+24187088	sequence	promoter	2
+24187088	sequence	invert	1
+24187088	sequence	polypeptide_repeat	1
+24187088	sequence	5KB_upstream_variant	1
+24187088	sequence	deletion	1
+24187088	sequence	mutated_variant_site	1
+24187088	sequence	regulatory_region	1
+24187088	sequence	regulatory_region_variant	1
+24187088	cell_line	CsR-1000	1

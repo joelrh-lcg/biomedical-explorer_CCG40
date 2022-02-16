@@ -1,0 +1,16 @@
+15608293	biological_process	transcription	2
+15608293	biological_process	regulation	1
+15608293	chemical	element	2
+15608293	molecular_function	transcription factor	2
+15608293	molecular_function	binding	2
+15608293	organism	bacterium	7
+15608293	organism	Escherichia coli	2
+15608293	organism	gammaproteobacteria	1
+15608293	sequence	binding site	4
+15608293	sequence	genome	4
+15608293	sequence	regulon	2
+15608293	sequence	promoter	1
+15608293	sequence	operon	1
+15608293	sequence	sequence	1
+15608293	organ/tissue	element	2
+15608293	organ/tissue	organism	1

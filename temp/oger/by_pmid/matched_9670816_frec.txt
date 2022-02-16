@@ -1,0 +1,11 @@
+9670816	biological_process	regulation	2
+9670816	cellular_component	protein	1
+9670816	chemical	protein	2
+9670816	gene/protein	protein	1
+9670816	organism	Escherichia coli	2
+9670816	sequence	gene	5
+9670816	sequence	protein	1
+9670816	sequence	circular	1
+9670816	sequence	sequence	1
+9670816	organ/tissue	organism	1
+9670816	entity_type	term	2

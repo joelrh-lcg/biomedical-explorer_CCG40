@@ -1,0 +1,21 @@
+11108022	chemical	bes	8
+11108022	chemical	16s	3
+11108022	chemical	bta	3
+11108022	chemical	cluster	2
+11108022	chemical	rdna	1
+11108022	gene/protein	rna	6
+11108022	gene/protein	endonuclease	3
+11108022	gene/protein	bga	2
+11108022	gene/protein	to B	2
+11108022	organism	Bradyrhizobium sp	15
+11108022	organism	Lupinus	3
+11108022	organism	legume	2
+11108022	organism	Canary	2
+11108022	organism	Bradyrhizobium japonicum	2
+11108022	organism	Bradyrhizobium	1
+11108022	sequence	genotype	5
+11108022	sequence	bes	2
+11108022	sequence	rdna	1
+11108022	sequence	rflp	1
+11108022	cell_line	bga	1
+11108022	organ/tissue	nodule	2

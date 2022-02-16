@@ -1,0 +1,23 @@
+23499616	biological_process	nodulation	2
+23499616	biological_process	fucosylation	1
+23499616	chemical	Fucose	2
+23499616	chemical	nodulation factor	1
+23499616	chemical	L-fucose	1
+23499616	chemical	fucose	1
+23499616	disease	Myoclonic Epilepsies, Progressive	1
+23499616	gene/protein	Flavohemoprotein	43
+23499616	gene/protein	flavohemoprotein	1
+23499616	gene/protein	kinesin-like protein Nod (fruit fly)	1
+23499616	organism	Bradyrhizobium	2
+23499616	organism	bacterium IFAM-3211	1
+23499616	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+23499616	organism	bacterium IFAM-3215	1
+23499616	organism	bacterium IFAM-2074	1
+23499616	organism	bacterium IFAM-3359	1
+23499616	organism	bacterium	1
+23499616	organism	bacterium IFAM-1493	1
+23499616	organism	Fabaceae	1
+23499616	sequence	gene	5
+23499616	organ/tissue	cerebellum vermis lobule X	1
+23499616	organ/tissue	germinal center	1
+23499616	molecular_process	acetylation	1

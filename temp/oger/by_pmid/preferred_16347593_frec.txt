@@ -1,0 +1,18 @@
+16347593	chemical	Nitrogenase	3
+16347593	chemical	nitrogen atom	2
+16347593	chemical	nitrogen(.)	2
+16347593	gene/protein	CTD small phosphatase-like protein (chicken)	7
+16347593	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	2
+16347593	gene/protein	MKI67 FHA domain-interacting nucleolar phosphoprotein	1
+16347593	gene/protein	MKI67 FHA domain-interacting nucleolar phosphoprotein (zebrafish)	1
+16347593	gene/protein	MKI67 FHA domain-interacting nucleolar phosphoprotein (mouse)	1
+16347593	gene/protein	MKI67 FHA domain-interacting nucleolar phosphoprotein (human)	1
+16347593	gene/protein	MKI67 FHA domain-interacting nucleolar phosphoprotein (rat)	1
+16347593	molecular_function	nitrogenase activity	1
+16347593	organism	Rhizobium phaseoli	2
+16347593	organism	Rhizobium etli	1
+16347593	sequence	gene	2
+16347593	sequence	sequence_variant_obs	2
+16347593	organ/tissue	cerebellum vermis lobule X	1
+16347593	organ/tissue	germinal center	1
+16347593	clinical_drug	Nitrogen	2

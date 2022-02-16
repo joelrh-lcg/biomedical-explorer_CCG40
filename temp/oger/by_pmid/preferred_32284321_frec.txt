@@ -1,0 +1,40 @@
+32284321	biological_process	biological regulation	2
+32284321	chemical	protein	4
+32284321	chemical	Deoxycholic Acid	2
+32284321	chemical	bile acid	1
+32284321	chemical	bile salt	1
+32284321	chemical	sodium deoxycholate	1
+32284321	gene/protein	DNA-binding protein H-NS (Escherichia coli K-12)	3
+32284321	gene/protein	DNA-binding protein H-NS	3
+32284321	gene/protein	major vault protein	3
+32284321	gene/protein	leucine-responsive regulatory protein (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	3
+32284321	gene/protein	HTH-type transcriptional regulator Lrp (Halobacterium salinarum R1)	3
+32284321	gene/protein	receptor-type tyrosine-protein phosphatase alpha	3
+32284321	gene/protein	leucine-responsive regulatory protein	3
+32284321	gene/protein	receptor-type tyrosine-protein phosphatase alpha (rat)	3
+32284321	gene/protein	Low-density lipoprotein receptor-related protein	3
+32284321	gene/protein	major vault protein (human)	3
+32284321	gene/protein	light-regulated protein 1, chloroplastic (Arabidopsis thaliana)	3
+32284321	gene/protein	leucine-responsive regulatory protein (Escherichia coli K-12)	3
+32284321	gene/protein	receptor-type tyrosine-protein phosphatase alpha (mouse)	3
+32284321	gene/protein	Transcriptional regulator	2
+32284321	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+32284321	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+32284321	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+32284321	organism	bacterium IFAM-3211	3
+32284321	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+32284321	organism	bacterium IFAM-3215	3
+32284321	organism	bacterium IFAM-2074	3
+32284321	organism	bacterium IFAM-3359	3
+32284321	organism	bacterium	3
+32284321	organism	bacterium IFAM-1493	3
+32284321	organism	Archaea	1
+32284321	sequence	promoter	3
+32284321	sequence	transcript	2
+32284321	sequence	transit_peptide	1
+32284321	sequence	signal_peptide	1
+32284321	sequence	fusion	1
+32284321	sequence	gene	1
+32284321	cell	eukaryotic cell	1
+32284321	organ/tissue	bile	1
+32284321	clinical_drug	Deoxycholate	1

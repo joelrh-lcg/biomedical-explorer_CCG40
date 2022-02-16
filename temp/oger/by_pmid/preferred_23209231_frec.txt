@@ -1,0 +1,9 @@
+23209231	gene/protein	Protein BEAN1	2
+23209231	gene/protein	protein BEAN	1
+23209231	organism	Sinorhizobium fredii	2
+23209231	organism	Glycine max	1
+23209231	organism	Soybeans	1
+23209231	sequence	genome	1
+23209231	cell_line	R1192	1
+23209231	clinical_drug	Soybean preparation	1
+23209231	clinical_drug	Soybean	1

@@ -1,0 +1,28 @@
+30786165	biological_process	transcription, DNA-templated	1
+30786165	biological_process	biological regulation	1
+30786165	chemical	solution	1
+30786165	chemical	base	1
+30786165	gene/protein	Ferredoxin--NADP reductase	173
+30786165	gene/protein	Dihydroflavonol 4-reductase	11
+30786165	gene/protein	Ferredoxin--NADP reductase, chloroplastic	6
+30786165	gene/protein	Flavodoxin/ferredoxin--NADP reductase	6
+30786165	gene/protein	Probable ferredoxin/ferredoxin--NADP reductase	4
+30786165	gene/protein	Ferredoxin--NADP reductase, root isozyme, chloroplastic	2
+30786165	gene/protein	Bifunctional dihydroflavonol 4-reductase/flavanone 4-reductase	2
+30786165	gene/protein	Ferredoxin--NADP reductase, leaf isozyme 1, chloroplastic	2
+30786165	gene/protein	Ferredoxin--NADP reductase, leaf isozyme, chloroplastic	1
+30786165	gene/protein	Ferredoxin--NADP reductase, leaf-type isozyme, chloroplastic	1
+30786165	gene/protein	fumarate and nitrate reduction regulatory protein	1
+30786165	gene/protein	fumarate and nitrate reduction regulatory protein (Escherichia coli K-12)	1
+30786165	gene/protein	Ferredoxin--NADP reductase, cyanelle	1
+30786165	gene/protein	Ferredoxin--NADP reductase, root-type isozyme, chloroplastic	1
+30786165	gene/protein	Ferredoxin--NADP reductase, embryo isozyme, chloroplastic	1
+30786165	gene/protein	flavodoxin/ferredoxin--NADP reductase	1
+30786165	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+30786165	organism	Escherichia coli	2
+30786165	organism	collection	1
+30786165	sequence	polypeptide_domain	1
+30786165	sequence	base	1
+30786165	sequence	candidate_gene	1
+30786165	organ/tissue	multicellular organism	1
+30786165	organ/tissue	nucleus incertus	1

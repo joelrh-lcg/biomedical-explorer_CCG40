@@ -1,0 +1,35 @@
+19120461	biological_process	nodulation	1
+19120461	chemical	base	1
+19120461	chemical	cluster	1
+19120461	disease	nod	1
+19120461	gene/protein	nod	45
+19120461	gene/protein	rpob	14
+19120461	gene/protein	recA	14
+19120461	gene/protein	rpoB	14
+19120461	gene/protein	gyrA	7
+19120461	gene/protein	nodA	1
+19120461	gene/protein	nifH	1
+19120461	gene/protein	noda	1
+19120461	organism	bacterium	14
+19120461	organism	Sinorhizobium	3
+19120461	organism	Rhizobium tropici	2
+19120461	organism	Mesorhizobium plurifarium	2
+19120461	organism	Sinorhizobium americanum	2
+19120461	organism	Sinorhizobium terangae	2
+19120461	organism	Rhizobium etli	2
+19120461	organism	rhizobium gallicum	2
+19120461	organism	Sinorhizobium chiapanecum	2
+19120461	organism	legume	1
+19120461	organism	Acaciella angustissima	1
+19120461	organism	agrobacterium	1
+19120461	organism	Leguminosae	1
+19120461	organism	Rhizobium	1
+19120461	organism	Mesorhizobium	1
+19120461	organism	sinorhizobium	1
+19120461	sequence	gene	6
+19120461	sequence	sequence	3
+19120461	sequence	base	1
+19120461	cell_line	recA	1
+19120461	cell_line	nodA	1
+19120461	cell_line	noda	1
+19120461	organ/tissue	nodule	6

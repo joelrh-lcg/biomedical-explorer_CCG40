@@ -1,0 +1,35 @@
+24595137	biological_process	secretion	1
+24595137	cellular_component	protein	3
+24595137	chemical	protein	6
+24595137	chemical	antigen	3
+24595137	chemical	siga	2
+24595137	chemical	edl	1
+24595137	chemical	proteins	1
+24595137	chemical	pilin	1
+24595137	chemical	igg	1
+24595137	disease	infection	6
+24595137	disease	foodborne	2
+24595137	disease	diarrhea	2
+24595137	gene/protein	pilin	53
+24595137	gene/protein	siga	10
+24595137	gene/protein	k12	9
+24595137	gene/protein	edl	4
+24595137	gene/protein	protein	2
+24595137	gene/protein	structural protein	2
+24595137	gene/protein	fece	2
+24595137	gene/protein	th2	2
+24595137	organism	EHEC	4
+24595137	organism	ehec	4
+24595137	organism	human	2
+24595137	organism	mouse	2
+24595137	organism	enterohemorrhagic Escherichia coli	1
+24595137	organism	e coli k12	1
+24595137	sequence	protein	3
+24595137	sequence	gene	2
+24595137	sequence	clone	1
+24595137	sequence	fragment	1
+24595137	cell_line	k12	2
+24595137	cell_line	th2	2
+24595137	organ/tissue	cecum	2
+24595137	organ/tissue	secretion	1
+24595137	organ/tissue	serum	1

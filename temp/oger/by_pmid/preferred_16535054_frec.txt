@@ -1,0 +1,33 @@
+16535054	biological_process	nodulation	7
+16535054	chemical	Glycine	2
+16535054	chemical	carbon-11 atom	1
+16535054	chemical	glycine	1
+16535054	chemical	glycine zwitterion	1
+16535054	chemical	glycine residue	1
+16535054	gene/protein	amyloid-beta-like protein (fruit fly)	1
+16535054	gene/protein	DCC-interacting protein 13-alpha	1
+16535054	gene/protein	DCC-interacting protein 13-alpha (human)	1
+16535054	gene/protein	Luc7-like protein 3 (mouse)	1
+16535054	gene/protein	protein max (zebrafish)	1
+16535054	gene/protein	bifunctional protein FolD	1
+16535054	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+16535054	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+16535054	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+16535054	organism	Bradyrhizobium diazoefficiens	7
+16535054	organism	Glycine max	3
+16535054	organism	Soybeans	3
+16535054	organism	Bradyrhizobium japonicum	2
+16535054	organism	Desulfonauticus autotrophicus	1
+16535054	organism	Fabaceae	1
+16535054	sequence	genotype	2
+16535054	sequence	insertion	1
+16535054	sequence	glycine	1
+16535054	cell_line	D425 Med	3
+16535054	cell_line	BTI-Tn-5B1-4	2
+16535054	cell_line	MN-11	1
+16535054	cell_line	11c	1
+16535054	organ/tissue	cerebellum vermis lobule X	2
+16535054	organ/tissue	germinal center	2
+16535054	clinical_drug	Soybean preparation	2
+16535054	clinical_drug	Soybean	2
+16535054	clinical_drug	Glycine	1

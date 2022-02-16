@@ -1,0 +1,18 @@
+17096598	biological_process	regulation of gene expression	1
+17096598	biological_process	catabolic process	1
+17096598	chemical	DNA-Directed RNA Polymerases	2
+17096598	gene/protein	ribonuclease I (Escherichia coli K-12)	2
+17096598	gene/protein	ribonuclease I	2
+17096598	molecular_function	binding	1
+17096598	organism	Escherichia coli	2
+17096598	sequence	genome	7
+17096598	sequence	gene	3
+17096598	sequence	regulatory_region	3
+17096598	sequence	regulatory_region_variant	3
+17096598	sequence	transit_peptide	3
+17096598	sequence	signal_peptide	3
+17096598	sequence	region	2
+17096598	sequence	promoter	2
+17096598	sequence	polypeptide_binding_motif	1
+17096598	sequence	non_covalent_binding_site	1
+17096598	molecular_process	reduction	1

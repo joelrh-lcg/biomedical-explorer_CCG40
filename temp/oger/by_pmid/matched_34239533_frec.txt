@@ -1,0 +1,5 @@
+34239533	biological_process	symbiosis	1
+34239533	biological_process	symbiotic interaction	1
+34239533	chemical	metabolite	1
+34239533	organism	bacterium	7
+34239533	organism	legume	2

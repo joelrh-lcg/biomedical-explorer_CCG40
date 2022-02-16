@@ -1,0 +1,15 @@
+31062028	biological_process	synthesis	2
+31062028	biological_process	biofilm formation	1
+31062028	chemical	polyamine	9
+31062028	chemical	putrescine	4
+31062028	chemical	spermidine	4
+31062028	chemical	norspermidine	4
+31062028	chemical	molecule	1
+31062028	chemical	amino group	1
+31062028	chemical	homospermidine	1
+31062028	chemical	exopolysaccharide	1
+31062028	organism	bacterium	7
+31062028	organism	alfalfa	2
+31062028	organism	sinorhizobium meliloti	2
+31062028	organ/tissue	organism	1
+31062028	clinical_drug	alfalfa	1

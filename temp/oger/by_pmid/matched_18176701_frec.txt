@@ -1,0 +1,5 @@
+18176701	chemical	antibiotic	3
+18176701	organism	plasmid	1
+18176701	organism	enterobacteria	1
+18176701	sequence	gene	1
+18176701	sequence	plasmid	1

@@ -1,0 +1,9 @@
+34167126	biological_process	sex determination	3
+34167126	chemical	male	1
+34167126	chemical	modulator	1
+34167126	disease	tsd	2
+34167126	organism	mammal	1
+34167126	organism	vertebrate	1
+34167126	organ/tissue	animal	2
+34167126	organ/tissue	testis	1
+34167126	organ/tissue	male	1

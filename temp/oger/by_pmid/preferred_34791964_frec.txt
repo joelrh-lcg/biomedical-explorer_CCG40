@@ -1,0 +1,40 @@
+34791964	biological_process	post-translational protein modification	4
+34791964	biological_process	protein acetylation	1
+34791964	cellular_component	obsolete protein	1
+34791964	chemical	Lysine	6
+34791964	chemical	lysine	3
+34791964	chemical	L-lysine	3
+34791964	chemical	protein	3
+34791964	chemical	lysine residue	1
+34791964	chemical	(protein)	1
+34791964	chemical	peptide	1
+34791964	chemical	Histones	1
+34791964	chemical	histone	1
+34791964	chemical	Nuclear Proteins	1
+34791964	disease	Disease	2
+34791964	gene/protein	DDT domain-containing protein PTM (Arabidopsis thaliana)	3
+34791964	gene/protein	Peptidyl-lysine N-acetyltransferase YjaB	2
+34791964	gene/protein	Lysine acetyltransferase	1
+34791964	gene/protein	kynurenine--oxoglutarate transaminase 1, mitochondrial (rat)	1
+34791964	gene/protein	thiosulfate:glutathione sulfurtransferase (human)	1
+34791964	gene/protein	kynurenine--oxoglutarate transaminase 1 (mouse)	1
+34791964	gene/protein	Peptidyl-lysine N-acetyltransferase YiaC	1
+34791964	gene/protein	thiosulfate:glutathione sulfurtransferase	1
+34791964	gene/protein	[Ribosomal protein S18]-alanine N-acetyltransferase	1
+34791964	gene/protein	kynurenine--oxoglutarate transaminase 1	1
+34791964	gene/protein	Aminoalkylphosphonate N-acetyltransferase	1
+34791964	gene/protein	kynurenine--oxoglutarate transaminase (Dictyostelium discoideum)	1
+34791964	gene/protein	type-2 histone deacetylase 2 (Dictyostelium discoideum)	1
+34791964	gene/protein	protein	1
+34791964	gene/protein	proteolytic cleavage product	1
+34791964	gene/protein	amino acid chain	1
+34791964	gene/protein	histone	1
+34791964	molecular_function	acetyl-CoA C-acyltransferase activity	1
+34791964	organism	Humans	1
+34791964	sequence	lysine	4
+34791964	sequence	polypeptide_domain	1
+34791964	sequence	polypeptide	1
+34791964	sequence	active_peptide	1
+34791964	cell_line	PTM	3
+34791964	clinical_drug	Lysine	4
+34791964	molecular_process	acetylation	2

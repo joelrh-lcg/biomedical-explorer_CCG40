@@ -1,0 +1,11 @@
+24397311	biological_process	nodulation	1
+24397311	organism	Rhizobium grahamii	2
+24397311	organism	Rhizobium mesoamericanum	2
+24397311	organism	Phaseolus vulgaris	2
+24397311	organism	Rhizobium etli	2
+24397311	organism	Rhizobium phaseoli	2
+24397311	organism	Leucaena leucocephala	1
+24397311	organism	plasmid	1
+24397311	sequence	genome	1
+24397311	sequence	sequence	1
+24397311	sequence	plasmid	1

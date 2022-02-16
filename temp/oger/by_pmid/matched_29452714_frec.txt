@@ -1,0 +1,27 @@
+29452714	chemical	s23	2
+29452714	chemical	16s rrna	1
+29452714	chemical	16s	1
+29452714	gene/protein	reca	14
+29452714	gene/protein	atpd	8
+29452714	gene/protein	Red	1
+29452714	gene/protein	nifH	1
+29452714	gene/protein	nodA	1
+29452714	organism	clover	3
+29452714	organism	plasmid	3
+29452714	organism	Rhizobium leguminosarum	2
+29452714	organism	Red clover	2
+29452714	organism	red clover	2
+29452714	organism	legume	1
+29452714	organism	white clover	1
+29452714	sequence	sequence	3
+29452714	sequence	genotype	1
+29452714	sequence	16s rrna	1
+29452714	sequence	rrna gene	1
+29452714	sequence	intergenic	1
+29452714	sequence	gene	1
+29452714	sequence	plasmid gene	1
+29452714	sequence	plasmid	1
+29452714	sequence	plasmid sequence	1
+29452714	cell_line	s23	1
+29452714	cell_line	reca	1
+29452714	cell_line	nodA	1

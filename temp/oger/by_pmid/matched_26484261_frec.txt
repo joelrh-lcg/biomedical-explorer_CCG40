@@ -1,0 +1,15 @@
+26484261	biological_process	transcription	1
+26484261	chemical	asphaltene	6
+26484261	chemical	carbon	4
+26484261	chemical	petroleum	2
+26484261	chemical	bitumen	2
+26484261	gene/protein	gse	5
+26484261	organism	Neosartorya fischeri	1
+26484261	organism	fungus	1
+26484261	organism	nrrl 181	1
+26484261	sequence	gene	2
+26484261	sequence	genome	1
+26484261	sequence	accession	1
+26484261	cell_line	GEO	1
+26484261	cell_line	gse	1
+26484261	organ/tissue	sole	1

@@ -1,0 +1,41 @@
+11914361	biological_process	mutagenesis	1
+11914361	biological_process	excretion	1
+11914361	cellular_component	protein	2
+11914361	cellular_component	extracellular	1
+11914361	cellular_component	intracellular	1
+11914361	chemical	glucose	10
+11914361	chemical	pyruvate	6
+11914361	chemical	carbon	4
+11914361	chemical	protein	4
+11914361	chemical	phb	2
+11914361	chemical	nucleotide	2
+11914361	chemical	amino acid	2
+11914361	chemical	acid	1
+11914361	chemical	base	1
+11914361	chemical	acetoacetyl coenzyme a reductase	1
+11914361	chemical	PHB	1
+11914361	chemical	polysaccharide	1
+11914361	chemical	Organic acid	1
+11914361	chemical	proteome	1
+11914361	gene/protein	car1	18
+11914361	gene/protein	phb	14
+11914361	gene/protein	PHB	7
+11914361	gene/protein	Mora	2
+11914361	gene/protein	protein	2
+11914361	organism	Rhizobium etli	2
+11914361	organism	Sinorhizobium meliloti	2
+11914361	sequence	gene	3
+11914361	sequence	insertion	2
+11914361	sequence	wild type	2
+11914361	sequence	protein	2
+11914361	sequence	mutagenesis	1
+11914361	sequence	open reading frame	1
+11914361	sequence	base	1
+11914361	sequence	amino acid	1
+11914361	sequence	sequence	1
+11914361	sequence	construct	1
+11914361	cell_line	car1	4
+11914361	cell_line	tn5	3
+11914361	organ/tissue	excretion	1
+11914361	clinical_drug	pyruvate	2
+11914361	clinical_drug	glucose	2

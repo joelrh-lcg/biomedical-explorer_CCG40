@@ -1,0 +1,52 @@
+20153447	biological_process	dephosphorylation	1
+20153447	biological_process	nodulation	1
+20153447	biological_process	immune response	1
+20153447	cellular_component	membrane	1
+20153447	chemical	Lipid A	14
+20153447	chemical	lipid A(4-)	7
+20153447	chemical	lipid As	7
+20153447	chemical	lipid A	7
+20153447	chemical	Glucosamine	4
+20153447	chemical	galacturonic acid	3
+20153447	chemical	phosphate group	2
+20153447	chemical	phosphate group(2-)	2
+20153447	chemical	Phosphates	2
+20153447	chemical	glucosamine	2
+20153447	chemical	molecule	2
+20153447	chemical	Polymyxins	2
+20153447	chemical	phosphate	1
+20153447	chemical	phosphate)	1
+20153447	chemical	phosphate ion	1
+20153447	chemical	phosphate(3-)	1
+20153447	chemical	phosphoric acid	1
+20153447	chemical	hydrogenphosphate	1
+20153447	chemical	mixture	1
+20153447	chemical	hemiacetal	1
+20153447	chemical	polymyxin	1
+20153447	chemical	antimicrobial agent	1
+20153447	chemical	peptide	1
+20153447	gene/protein	Protein tilB homolog	5
+20153447	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	2
+20153447	gene/protein	proteolytic cleavage product	1
+20153447	gene/protein	amino acid chain	1
+20153447	molecular_function	phosphatase activity	5
+20153447	organism	Rhizobium etli	2
+20153447	organism	Escherichia coli	2
+20153447	organism	Rhizobium leguminosarum	2
+20153447	organism	Phaseolus	1
+20153447	organism	bacterium IFAM-3211	1
+20153447	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+20153447	organism	bacterium IFAM-3215	1
+20153447	organism	bacterium IFAM-2074	1
+20153447	organism	bacterium IFAM-3359	1
+20153447	organism	bacterium	1
+20153447	organism	bacterium IFAM-1493	1
+20153447	sequence	gene	2
+20153447	sequence	deletion	1
+20153447	sequence	double	1
+20153447	sequence	active_peptide	1
+20153447	organ/tissue	membrane organ	1
+20153447	organ/tissue	membranous layer	1
+20153447	organ/tissue	cerebellum vermis lobule X	1
+20153447	organ/tissue	germinal center	1
+20153447	clinical_drug	Glucosamine	2

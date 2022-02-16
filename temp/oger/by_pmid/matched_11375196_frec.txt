@@ -1,0 +1,27 @@
+11375196	cellular_component	protein	1
+11375196	chemical	coffee	4
+11375196	chemical	carbon	2
+11375196	chemical	protein	2
+11375196	chemical	nitrogenase	1
+11375196	chemical	amplify	1
+11375196	chemical	16s	1
+11375196	chemical	rdna	1
+11375196	gene/protein	api	26
+11375196	gene/protein	spp	16
+11375196	gene/protein	as B	1
+11375196	gene/protein	protein	1
+11375196	molecular_function	nitrogenase activity	1
+11375196	molecular_function	spp	1
+11375196	organism	bacterium	7
+11375196	organism	maize	6
+11375196	organism	Burkholderia	5
+11375196	organism	Burkholderia vietnamiensis	2
+11375196	organism	rice	2
+11375196	organism	coffee	2
+11375196	organism	api	1
+11375196	organism	tvv	1
+11375196	organism	strain tvv75	1
+11375196	sequence	inside	1
+11375196	sequence	protein	1
+11375196	sequence	rdna	1
+11375196	clinical_drug	rice	1

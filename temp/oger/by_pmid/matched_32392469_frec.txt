@@ -1,0 +1,17 @@
+32392469	biological_process	memory	5
+32392469	biological_process	gene expression	2
+32392469	biological_process	regulation	1
+32392469	chemical	gal1	4
+32392469	chemical	histone	2
+32392469	chemical	galactokinase	1
+32392469	gene/protein	galactokinase	146
+32392469	gene/protein	gal1	40
+32392469	gene/protein	elp6	10
+32392469	gene/protein	histone	1
+32392469	organism	Saccharomyces cerevisiae	2
+32392469	sequence	gene	2
+32392469	sequence	repeat	1
+32392469	sequence	promoter	1
+32392469	cell	elp	2
+32392469	organ/tissue	organism	1
+32392469	clinical_drug	Saccharomyces cerevisiae	2

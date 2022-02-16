@@ -1,0 +1,65 @@
+32504325	biological_process	biofilm formation	1
+32504325	cellular_component	membrane	2
+32504325	cellular_component	plasma membrane	1
+32504325	chemical	sodium chloride	6
+32504325	chemical	salt	3
+32504325	chemical	lipid	3
+32504325	chemical	phosphatidylethanolamine	3
+32504325	chemical	fatty acid	2
+32504325	chemical	indoleacetic acid	2
+32504325	chemical	indole-3-acetic acid	2
+32504325	chemical	Chlorophyll	2
+32504325	chemical	(S)-1,2-distearoylphosphatidylethanolaminium	1
+32504325	chemical	antifungal agent	1
+32504325	chemical	chlorophyll	1
+32504325	chemical	chlorophyll a	1
+32504325	gene/protein	Phosphoglycolate phosphatase	176
+32504325	gene/protein	Protease	27
+32504325	gene/protein	Glycerol-3-phosphate phosphatase	10
+32504325	gene/protein	coatomer subunit epsilon (Dictyostelium discoideum)	5
+32504325	gene/protein	Probable phosphoglycolate phosphatase	4
+32504325	gene/protein	phosphatidylglycerophosphatase B	2
+32504325	gene/protein	phosphatidylglycerophosphatase B (Escherichia coli K-12)	2
+32504325	gene/protein	Phosphoglycolate phosphatase, plasmid	2
+32504325	gene/protein	glycerol-3-phosphate phosphatase (human)	2
+32504325	gene/protein	glycerol-3-phosphate phosphatase	2
+32504325	gene/protein	phosphoglycolate phosphatase Gph	2
+32504325	gene/protein	glycerol-3-phosphate phosphatase (rat)	2
+32504325	gene/protein	Phosphoglycolate phosphatase, chromosomal	2
+32504325	gene/protein	glycerol-3-phosphate phosphatase (chicken)	2
+32504325	gene/protein	glycerol-3-phosphate phosphatase (mouse)	2
+32504325	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+32504325	gene/protein	Endogenous retrovirus group K member 8 Pro protein	1
+32504325	gene/protein	Endogenous retrovirus group K member 7 Pro protein	1
+32504325	gene/protein	Endogenous retrovirus group K member 10 Pro protein	1
+32504325	gene/protein	Endogenous retrovirus group K member 21 Pro protein	1
+32504325	gene/protein	Endogenous retrovirus group K member 19 Pro protein	1
+32504325	gene/protein	Endogenous retrovirus group K member 25 Pro protein	1
+32504325	gene/protein	Endogenous retrovirus group K member 104 Pro protein	1
+32504325	gene/protein	Endogenous retrovirus group K member 113 Pro protein	1
+32504325	gene/protein	Endogenous retrovirus group K member 24 Pro protein	1
+32504325	gene/protein	Endogenous retrovirus group K member 9 Pro protein	1
+32504325	gene/protein	Endogenous retrovirus group K member 6 Pro protein	1
+32504325	gene/protein	Endogenous retrovirus group K member 18 Pro protein	1
+32504325	gene/protein	ryanodine receptor (fruit fly)	1
+32504325	molecular_function	peptidase activity	1
+32504325	organism	Bacillus toyonensis	4
+32504325	organism	Solanum lycopersicum	3
+32504325	organism	Lycopersicon esculentum	3
+32504325	organism	bacterium IFAM-3211	1
+32504325	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+32504325	organism	bacterium IFAM-3215	1
+32504325	organism	bacterium IFAM-2074	1
+32504325	organism	bacterium IFAM-3359	1
+32504325	organism	bacterium	1
+32504325	organism	bacterium IFAM-1493	1
+32504325	organism	unidentified	1
+32504325	organism	Botrytis cinerea	1
+32504325	sequence	mature_protein_region	1
+32504325	organ/tissue	membrane organ	3
+32504325	organ/tissue	membranous layer	3
+32504325	organ/tissue	crop	1
+32504325	clinical_drug	tomato allergenic extract	2
+32504325	clinical_drug	Acetic Acid	1
+32504325	clinical_drug	Botrytis cinerea allergenic extract	1
+32504325	clinical_drug	Chlorophyll	1

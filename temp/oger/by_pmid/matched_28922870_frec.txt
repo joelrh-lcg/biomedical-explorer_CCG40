@@ -1,0 +1,21 @@
+28922870	biological_process	spermatogenesis	1
+28922870	biological_process	cell division	1
+28922870	biological_process	oogenesis	1
+28922870	biological_process	dna replication	1
+28922870	cellular_component	chromosome	2
+28922870	cellular_component	autosome	1
+28922870	chemical	male	7
+28922870	chemical	base	1
+28922870	organism	mammal	2
+28922870	organism	platypus	2
+28922870	organism	marsupial	1
+28922870	organism	echidna	1
+28922870	organism	rodent	1
+28922870	organism	primate	1
+28922870	sequence	mutation	6
+28922870	sequence	substitution	5
+28922870	sequence	chromosome	2
+28922870	sequence	base	1
+28922870	sequence	gene	1
+28922870	organ/tissue	male	7
+28922870	organ/tissue	cell division	1

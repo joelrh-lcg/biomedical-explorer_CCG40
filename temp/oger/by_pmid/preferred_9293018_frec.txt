@@ -1,0 +1,28 @@
+9293018	chemical	Coffee	10
+9293018	chemical	ribosomal RNA	1
+9293018	gene/protein	Plasminogen activator inhibitor 1	6
+9293018	gene/protein	plasminogen activator inhibitor 1	1
+9293018	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+9293018	organism	Coffea arabica	5
+9293018	organism	Gluconacetobacter diazotrophicus	4
+9293018	organism	Acetobacter aceti	2
+9293018	organism	Gluconacetobacter liquefaciens	2
+9293018	organism	Acetobacter	2
+9293018	organism	bacterium IFAM-3211	2
+9293018	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+9293018	organism	bacterium IFAM-3215	2
+9293018	organism	bacterium IFAM-2074	2
+9293018	organism	bacterium IFAM-3359	2
+9293018	organism	bacterium	2
+9293018	organism	bacterium IFAM-1493	2
+9293018	organism	Fungi	1
+9293018	organism	Spores	1
+9293018	organism	Planococcus citri	1
+9293018	organism	bacterium BE	1
+9293018	sequence	cytoplasmic_polypeptide_region	1
+9293018	sequence	rRNA	1
+9293018	sequence	RFLP_fragment	1
+9293018	cell_line	PA-1	1
+9293018	cell_line	PAI	1
+9293018	organ/tissue	tissue	1
+9293018	organ/tissue	crop	1

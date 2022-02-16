@@ -1,0 +1,7 @@
+23785373	chemical	nutrient	3
+23785373	organism	bacterium	21
+23785373	organism	rhizosphere bacterium	2
+23785373	organism	unknown	1
+23785373	sequence	gene	2
+23785373	sequence	genome	1
+23785373	sequence	promoter	1

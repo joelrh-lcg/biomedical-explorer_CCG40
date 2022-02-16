@@ -1,0 +1,30 @@
+18182018	biological_process	nodule development	1
+18182018	chemical	cdna	6
+18182018	chemical	amino acid	4
+18182018	chemical	ammonia	3
+18182018	chemical	sucrose	3
+18182018	chemical	nitrogen	2
+18182018	chemical	glutamate synthase	1
+18182018	chemical	probe	1
+18182018	chemical	proteins	1
+18182018	chemical	element	1
+18182018	gene/protein	cis	8
+18182018	gene/protein	bean	6
+18182018	organism	Phaseolus vulgari	1
+18182018	sequence	cdna	4
+18182018	sequence	gene	4
+18182018	sequence	cdna clone	2
+18182018	sequence	amino acid	2
+18182018	sequence	promoter	2
+18182018	sequence	probe	1
+18182018	sequence	genome	1
+18182018	sequence	sequence	1
+18182018	cell_line	bean	2
+18182018	organ/tissue	nodule	8
+18182018	organ/tissue	tissue	1
+18182018	organ/tissue	cis	1
+18182018	organ/tissue	element	1
+18182018	clinical_drug	glutamate	1
+18182018	clinical_drug	ammonia	1
+18182018	clinical_drug	sucrose	1
+18182018	clinical_drug	nitrogen	1

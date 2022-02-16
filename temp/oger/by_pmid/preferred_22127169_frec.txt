@@ -1,0 +1,53 @@
+22127169	chemical	RNA, ribosomal, 12S	1
+22127169	chemical	RNA, Ribosomal, 18S	1
+22127169	chemical	carminic acid	1
+22127169	chemical	RNA, Ribosomal, 16S	1
+22127169	gene/protein	Serum amyloid P-component	8
+22127169	gene/protein	Streptopain	7
+22127169	gene/protein	histone-lysine N-methyltransferase eggless (fruit fly)	1
+22127169	gene/protein	syntaxin-1A (rat)	1
+22127169	gene/protein	transcriptional regulator STERILE APETALA (Arabidopsis thaliana)	1
+22127169	gene/protein	serum amyloid P-component (mouse)	1
+22127169	gene/protein	Sperm-activating peptide	1
+22127169	gene/protein	serum amyloid P-component	1
+22127169	gene/protein	SH2 domain-containing protein 1A (human)	1
+22127169	gene/protein	serum amyloid P-component (rat)	1
+22127169	gene/protein	SH2 domain-containing protein 1A	1
+22127169	gene/protein	S-layer protein	1
+22127169	gene/protein	minor histocompatibility antigen H13	1
+22127169	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+22127169	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+22127169	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+22127169	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+22127169	gene/protein	minor histocompatibility antigen H13 (human)	1
+22127169	gene/protein	sphingosine-1-phosphate phosphatase	1
+22127169	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+22127169	gene/protein	SD07518p (fruit fly)	1
+22127169	molecular_function	obsolete signal peptide peptidase activity	1
+22127169	organism	bacterium IFAM-3211	2
+22127169	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+22127169	organism	bacterium IFAM-3215	2
+22127169	organism	bacterium IFAM-2074	2
+22127169	organism	bacterium IFAM-3359	2
+22127169	organism	bacterium	2
+22127169	organism	bacterium IFAM-1493	2
+22127169	organism	Opuntia	1
+22127169	organism	Betaproteobacteria	1
+22127169	organism	Azoarcus	1
+22127169	organism	Candidatus Dactylopiibacterium carminicum	1
+22127169	organism	Herbaspirillum	1
+22127169	organism	Acinetobacter	1
+22127169	organism	Mesorhizobium	1
+22127169	organism	Sphingomonas	1
+22127169	organism	Cactaceae	1
+22127169	sequence	region	3
+22127169	sequence	mature_protein_region	1
+22127169	sequence	rRNA	1
+22127169	sequence	rRNA_18S	1
+22127169	sequence	rRNA_gene	1
+22127169	sequence	rRNA_16S	1
+22127169	cell_line	12S	1
+22127169	organ/tissue	shelled egg	1
+22127169	organ/tissue	obsolete oocyte	1
+22127169	clinical_drug	Cochineal	1
+22127169	molecular_process	chain reaction	1

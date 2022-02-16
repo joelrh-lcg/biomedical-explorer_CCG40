@@ -1,0 +1,19 @@
+29735690	chemical	drug	2
+29735690	chemical	nucleotide	2
+29735690	gene/protein	triple functional domain protein (rat)	3
+29735690	gene/protein	triple functional domain protein (zebrafish)	3
+29735690	gene/protein	triple functional domain protein (mouse)	3
+29735690	gene/protein	triple functional domain protein	3
+29735690	gene/protein	triple functional domain protein (human)	3
+29735690	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+29735690	gene/protein	extracellular adherence protein	1
+29735690	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+29735690	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+29735690	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+29735690	gene/protein	methionine aminopeptidase	1
+29735690	sequence	SNV	5
+29735690	sequence	match	2
+29735690	sequence	genome	2
+29735690	sequence	region	2
+29735690	sequence	natural_variant_site	1
+29735690	sequence	reference_genome	1

@@ -1,0 +1,16 @@
+17918626	biological_process	nitrogen fixation	2
+17918626	biological_process	symbiosis	1
+17918626	biological_process	synthesis	1
+17918626	chemical	oxidase	4
+17918626	chemical	nitrogen	4
+17918626	chemical	oxygen	1
+17918626	gene/protein	transcriptional regulator	2
+17918626	organism	bacterium	7
+17918626	organism	Rhizobium etli	2
+17918626	organism	CFN42	2
+17918626	sequence	operon	4
+17918626	sequence	gene	2
+17918626	sequence	mutation	2
+17918626	organ/tissue	nodule	2
+17918626	clinical_drug	nitrogen	2
+17918626	clinical_drug	oxygen	1

@@ -1,0 +1,18 @@
+22858268	chemical	base	1
+22858268	disease	COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	3
+22858268	organism	Rhizobium etli	3
+22858268	organism	Rhizobium phaseoli	3
+22858268	organism	Phaseolus	1
+22858268	organism	Phaseolus vulgaris	1
+22858268	organism	Rhizobium	1
+22858268	organism	Saccharomonospora halophila	1
+22858268	organism	Lactobacillus uvarum	1
+22858268	organism	Corynebacterium flavescens	1
+22858268	organism	Marinomonas communis	1
+22858268	organism	Agromyces luteolus	1
+22858268	organism	Flavobacterium succinicans	1
+22858268	sequence	genome	3
+22858268	sequence	region	1
+22858268	sequence	fragmentary	1
+22858268	sequence	base	1
+22858268	cell_line	8C3	1

@@ -1,0 +1,22 @@
+31557287	biological_process	dosage compensation	2
+31557287	cellular_component	sex chromosome	2
+31557287	cellular_component	chromosome	2
+31557287	cellular_component	Y chromosome	1
+31557287	cellular_component	X chromosome	1
+31557287	cellular_component	membrane	1
+31557287	cellular_component	intracellular	1
+31557287	chemical	maleate(2-)	1
+31557287	disease	Disease Attributes	2
+31557287	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+31557287	organism	Lizards	2
+31557287	organism	Anolis carolinensis	1
+31557287	organism	Basiliscus vittatus	1
+31557287	organism	Chickens	1
+31557287	organism	Gallus gallus	1
+31557287	sequence	chromosome	6
+31557287	sequence	copy_number_gain	1
+31557287	sequence	orthologous	1
+31557287	organ/tissue	membrane organ	1
+31557287	organ/tissue	membranous layer	1
+31557287	organ/tissue	male organism	1
+31557287	clinical_drug	Gallus gallus allergenic extract	1

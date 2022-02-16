@@ -1,0 +1,27 @@
+26873555	biological_process	germination	1
+26873555	cellular_component	protein	2
+26873555	cellular_component	extracellular	1
+26873555	cellular_component	germ tube	1
+26873555	chemical	chi	6
+26873555	chemical	chitinase	5
+26873555	chemical	polyacrylamide	4
+26873555	chemical	protein	4
+26873555	chemical	antagonist	1
+26873555	chemical	acid	1
+26873555	chemical	anion	1
+26873555	disease	Disease	2
+26873555	gene/protein	chitinase	30
+26873555	gene/protein	chi	12
+26873555	gene/protein	protein	2
+26873555	gene/protein	tube	1
+26873555	organism	banana	3
+26873555	organism	Streptomyces galilaeus	2
+26873555	organism	Streptomyces albus	2
+26873555	organism	Mycosphaerella fijiensis	1
+26873555	organism	Streptomyces sp s4	1
+26873555	organism	Streptomyces	1
+26873555	sequence	protein	2
+26873555	cell	ascospore	1
+26873555	organ/tissue	matrix	1
+26873555	organ/tissue	tube	1
+26873555	clinical_drug	banana	2

@@ -1,0 +1,5 @@
+9122371	biological_process	regulation of gene expression	1
+9122371	biological_process	cell differentiation	1
+9122371	organism	Escherichia coli	2
+9122371	sequence	operon	1
+9122371	sequence	gene	1

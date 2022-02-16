@@ -1,0 +1,46 @@
+29452714	chemical	1-phenyl-6,7-dimethoxy-1,2,3,4-tetrahydroisoquinoline	2
+29452714	chemical	RNA, Ribosomal, 16S	1
+29452714	chemical	sulfur atom	1
+29452714	gene/protein	protein Red (mouse)	1
+29452714	gene/protein	ATP synthase subunit delta, chloroplastic (Arabidopsis thaliana)	1
+29452714	gene/protein	ATP synthase subunit beta (Aeromonas hydrophila subsp. hydrophila ATCC 7966)	1
+29452714	gene/protein	ATP synthase subunit beta (Clostridium botulinum A str. Hall)	1
+29452714	gene/protein	ATP synthase subunit beta (Mycobacterium tuberculosis H37Rv)	1
+29452714	gene/protein	ATP synthase subunit beta	1
+29452714	gene/protein	ATP synthase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+29452714	gene/protein	ATP synthase subunit beta (Escherichia coli K-12)	1
+29452714	gene/protein	ATP synthase subunit beta (Leptospira interrogans serovar Lai str. 56601)	1
+29452714	gene/protein	protein RecA (Brucella abortus bv. 1 str. 9-941)	1
+29452714	gene/protein	protein RecA (Mycobacterium tuberculosis H37Rv)	1
+29452714	gene/protein	DNA repair protein RAD51 homolog 1 (mouse)	1
+29452714	gene/protein	protein RecA	1
+29452714	gene/protein	DNA repair protein RAD51 homolog 1	1
+29452714	gene/protein	protein RecA (Brucella suis 1330)	1
+29452714	gene/protein	mitochondrial DNA repair protein recA homolog (Dictyostelium discoideum)	1
+29452714	gene/protein	protein RecA (Escherichia coli K-12)	1
+29452714	gene/protein	protein RecA (Brucella canis ATCC 23365)	1
+29452714	gene/protein	DNA repair protein RAD51 homolog 1 (human)	1
+29452714	gene/protein	protein RecA (Brucella suis ATCC 23445)	1
+29452714	gene/protein	protein RecA (Brucella melitensis ATCC 23457)	1
+29452714	gene/protein	DNA repair protein recA homolog 1, chloroplastic (Arabidopsis thaliana)	1
+29452714	gene/protein	protein RecA (Brucella abortus 2308)	1
+29452714	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+29452714	gene/protein	kinesin-like protein Nod (fruit fly)	1
+29452714	organism	Medicago	3
+29452714	organism	unidentified plasmid	3
+29452714	organism	Rhizobium leguminosarum	2
+29452714	organism	Trifolium	2
+29452714	organism	Trifolium pratense	2
+29452714	organism	Fabaceae	1
+29452714	organism	Trifolium repens	1
+29452714	sequence	region	3
+29452714	sequence	plasmid	2
+29452714	sequence	genotype	1
+29452714	sequence	rRNA_16S	1
+29452714	sequence	rRNA_gene	1
+29452714	sequence	intergenic_variant	1
+29452714	sequence	gene	1
+29452714	sequence	plasmid_gene	1
+29452714	cell_line	S23	1
+29452714	cell_line	RECA	1
+29452714	cell_line	HBM-Noda	1

@@ -1,0 +1,63 @@
+12489782	biological_process	glyoxylate cycle	2
+12489782	biological_process	nitrogen fixation	1
+12489782	cellular_component	plant-type cell wall	1
+12489782	chemical	glyoxylic acid	12
+12489782	chemical	Malate Synthase	4
+12489782	chemical	glyoxylate	4
+12489782	chemical	12-(4'-azido-2'-nitrophenoxy)dodecanoyl-coenzyme A	4
+12489782	chemical	malic acid	2
+12489782	chemical	Arabinose	2
+12489782	chemical	glycolic acid	2
+12489782	chemical	(S)-malic acid	1
+12489782	chemical	malate(2-)	1
+12489782	chemical	malate	1
+12489782	chemical	elemental carbon	1
+12489782	chemical	carbon atom	1
+12489782	chemical	arabinose	1
+12489782	chemical	glycolate	1
+12489782	chemical	Complement System Proteins	1
+12489782	chemical	palmitoyl ethanolamide	1
+12489782	chemical	O-phosphoethanolamine	1
+12489782	chemical	nitrogen atom	1
+12489782	chemical	nitrogen(.)	1
+12489782	gene/protein	Malate synthase G	80
+12489782	gene/protein	Malate synthase	21
+12489782	gene/protein	Citramalyl-CoA lyase, mitochondrial	9
+12489782	gene/protein	malate synthase G	4
+12489782	gene/protein	citramalyl-CoA lyase, mitochondrial	3
+12489782	gene/protein	malate synthase G (Mycobacterium tuberculosis H37Rv)	3
+12489782	gene/protein	PTS system glucoside-specific EIICBA component (Staphylococcus aureus subsp. aureus NCTC 8325)	3
+12489782	gene/protein	malate synthase G (Escherichia coli K-12)	3
+12489782	gene/protein	beta-galactosidase (Escherichia coli K-12)	1
+12489782	gene/protein	bacterial-type beta-galactosidase	1
+12489782	gene/protein	outer membrane porin F (Escherichia coli K-12)	1
+12489782	gene/protein	Hermansky-Pudlak syndrome 3 protein	1
+12489782	gene/protein	outer membrane porin F	1
+12489782	gene/protein	coagulase	1
+12489782	gene/protein	Hermansky-Pudlak syndrome 3 protein homolog (mouse)	1
+12489782	gene/protein	malate synthase A	1
+12489782	gene/protein	malate synthase A (Escherichia coli K-12)	1
+12489782	gene/protein	protein translocase subunit SecA	1
+12489782	gene/protein	protein translocase subunit SecA (Escherichia coli K-12)	1
+12489782	gene/protein	ATP-dependent RNA helicase DHX8 (fruit fly)	1
+12489782	molecular_function	malate synthase activity	1
+12489782	organism	Rhizobium leguminosarum	2
+12489782	organism	Sinorhizobium meliloti	2
+12489782	organism	Mesorhizobium loti	2
+12489782	organism	Escherichia coli	2
+12489782	organism	Transposon Tn5	1
+12489782	organism	Agrobacterium	1
+12489782	organism	Pisum sativum	1
+12489782	organism	Peas	1
+12489782	sequence	gene	5
+12489782	sequence	transposable_element	2
+12489782	sequence	fusion	1
+12489782	sequence	insertion	1
+12489782	sequence	region	1
+12489782	sequence	genome	1
+12489782	cell_line	BTI-Tn-5B1-4	1
+12489782	cell_line	PEA	1
+12489782	organ/tissue	anatomical wall	1
+12489782	clinical_drug	glycolate	1
+12489782	clinical_drug	Pisum sativum allergenic extract	1
+12489782	clinical_drug	Nitrogen	1

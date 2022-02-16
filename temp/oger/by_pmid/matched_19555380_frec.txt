@@ -1,0 +1,35 @@
+19555380	biological_process	symbiosis	2
+19555380	cellular_component	root hair	1
+19555380	chemical	16s rrna	1
+19555380	chemical	Light	1
+19555380	chemical	electron	1
+19555380	gene/protein	spp	32
+19555380	gene/protein	rpob	14
+19555380	gene/protein	fusa	6
+19555380	gene/protein	syn	6
+19555380	gene/protein	vir	2
+19555380	gene/protein	noda	2
+19555380	gene/protein	lack	1
+19555380	gene/protein	nifh	1
+19555380	gene/protein	Light	1
+19555380	molecular_function	spp	2
+19555380	organism	Sesbania	5
+19555380	organism	Mesorhizobium	3
+19555380	organism	Rhizobium radiobacter	2
+19555380	organism	azorhizobium	2
+19555380	organism	Rhizobium	2
+19555380	organism	Mesorhizobium plurifarium	2
+19555380	organism	legume	1
+19555380	organism	Sesbania cannabina	1
+19555380	organism	agrobacterium	1
+19555380	organism	vitis	1
+19555380	organism	Agrobacterium	1
+19555380	sequence	gene	4
+19555380	sequence	sequence	1
+19555380	sequence	16s rrna	1
+19555380	sequence	junction	1
+19555380	cell_line	noda	2
+19555380	organ/tissue	nodule	2
+19555380	organ/tissue	junction	1
+19555380	organ/tissue	hair	1
+19555380	entity_type	term	2

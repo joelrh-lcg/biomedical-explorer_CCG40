@@ -1,0 +1,37 @@
+17993534	biological_process	methylation	2
+17993534	biological_process	biosynthetic process	1
+17993534	cellular_component	membrane	1
+17993534	chemical	phosphatidylethanolamine	3
+17993534	chemical	Phosphatidylcholines	2
+17993534	chemical	phospholipid	2
+17993534	chemical	pyridinium 3-methoxyestra-1,3,5(10)-trien-6-yl sulfate	2
+17993534	chemical	Choline	2
+17993534	chemical	phosphatidylcholine	1
+17993534	chemical	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	1
+17993534	chemical	1,2-diacyl-sn-glycero-3-phosphocholine	1
+17993534	chemical	(S)-1,2-distearoylphosphatidylethanolaminium	1
+17993534	chemical	CDP-diacylglycerol	1
+17993534	chemical	choline	1
+17993534	gene/protein	Phosphatidylcholine synthase	10
+17993534	gene/protein	phospholipid N-methyltransferase	4
+17993534	gene/protein	Dermonecrotic toxin	2
+17993534	gene/protein	mitochondrial oxaloacetate transport protein (yeast)	2
+17993534	gene/protein	phosphatidylcholine synthase	1
+17993534	molecular_function	phenol O-methyltransferase activity	2
+17993534	organism	Bradyrhizobium japonicum	2
+17993534	organism	Escherichia coli	2
+17993534	organism	bacterium IFAM-3211	2
+17993534	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+17993534	organism	bacterium IFAM-3215	2
+17993534	organism	bacterium IFAM-2074	2
+17993534	organism	bacterium IFAM-3359	2
+17993534	organism	bacterium	2
+17993534	organism	bacterium IFAM-1493	2
+17993534	organism	Rhizobiaceae	1
+17993534	organism	bacterium PC	1
+17993534	organism	Agrobacterium	1
+17993534	sequence	gene	2
+17993534	organ/tissue	membrane organ	1
+17993534	organ/tissue	membranous layer	1
+17993534	clinical_drug	Choline	1
+17993534	molecular_process	methylation	2

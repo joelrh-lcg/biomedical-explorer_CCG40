@@ -1,0 +1,10 @@
+27389261	chemical	RNA, Transfer	1
+27389261	chemical	transfer RNA	1
+27389261	molecular_function	triplet codon-amino acid adaptor activity	1
+27389261	organism	Klebsiella quasipneumoniae	2
+27389261	sequence	genome	2
+27389261	sequence	region	2
+27389261	sequence	contig	1
+27389261	sequence	tRNA_gene	1
+27389261	organ/tissue	urine	1
+27389261	organ/tissue	adult organism	1

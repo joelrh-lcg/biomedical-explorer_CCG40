@@ -1,0 +1,54 @@
+25002426	biological_process	import into cell	1
+25002426	biological_process	import across plasma membrane	1
+25002426	cellular_component	plasma membrane-derived thylakoid ribulose bisphosphate carboxylase complex	1
+25002426	cellular_component	chromatophore ribulose bisphosphate carboxylase complex	1
+25002426	cellular_component	ribulose bisphosphate carboxylase complex	1
+25002426	chemical	Biotin	4
+25002426	chemical	ribulose	3
+25002426	chemical	biotinate	2
+25002426	chemical	biotin	2
+25002426	chemical	Pyruvic Acid	2
+25002426	chemical	nitrogen atom	1
+25002426	chemical	nitrogen(.)	1
+25002426	chemical	pyruvate	1
+25002426	chemical	Oxidoreductases	1
+25002426	chemical	Ribulose-Bisphosphate Carboxylase	1
+25002426	chemical	homocitrate synthase	1
+25002426	chemical	Hydrogenase	1
+25002426	chemical	cluster	1
+25002426	gene/protein	Ribulose bisphosphate carboxylase	36
+25002426	gene/protein	Prephenate dehydrogenase	34
+25002426	gene/protein	Homocitrate synthase	21
+25002426	gene/protein	Pyranose dehydrogenase	6
+25002426	gene/protein	Pigment-dispersing hormone	6
+25002426	gene/protein	Protein BEAN1	4
+25002426	gene/protein	protein BEAN	2
+25002426	gene/protein	[pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial (rat)	2
+25002426	gene/protein	Cyclohexadienyl dehydrogenase	2
+25002426	gene/protein	Dehydrogenase	1
+25002426	gene/protein	Ribulose bisphosphate carboxylase, chloroplastic	1
+25002426	gene/protein	Cytochrome c3 hydrogenase small chain	1
+25002426	gene/protein	Cytochrome c3 hydrogenase large chain	1
+25002426	molecular_function	pyruvate dehydrogenase (acetyl-transferring) activity	2
+25002426	molecular_function	obsolete peptidyl-dipeptidase A activity	2
+25002426	molecular_function	pyranose dehydrogenase (acceptor) activity	2
+25002426	organism	Fabaceae	2
+25002426	organism	Rhizobium	2
+25002426	organism	Sinorhizobium americanum	2
+25002426	organism	Rhizobium phaseoli	2
+25002426	organism	bacterium BE	1
+25002426	organism	Sinorhizobium	1
+25002426	organism	unidentified plasmid	1
+25002426	organism	Prophages	1
+25002426	organism	Phaseolus	1
+25002426	sequence	plasmid	1
+25002426	sequence	genome	1
+25002426	sequence	cytoplasmic_polypeptide_region	1
+25002426	sequence	prophage	1
+25002426	cell_line	R1192	2
+25002426	cell_line	PDH	2
+25002426	organ/tissue	cerebellum vermis lobule X	2
+25002426	organ/tissue	germinal center	2
+25002426	clinical_drug	Biotin	2
+25002426	clinical_drug	Nitrogen	1
+25002426	clinical_drug	Pyruvate	1

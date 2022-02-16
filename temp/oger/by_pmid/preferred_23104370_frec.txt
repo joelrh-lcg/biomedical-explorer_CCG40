@@ -1,0 +1,8 @@
+23104370	cellular_component	organelle	3
+23104370	cellular_component	plastid	1
+23104370	cellular_component	mitochondrial chromosome	1
+23104370	chemical	Heavy metal	1
+23104370	organism	Eukaryota	2
+23104370	sequence	genome	6
+23104370	sequence	region	4
+23104370	clinical_drug	Thrive	1

@@ -1,0 +1,59 @@
+27543297	biological_process	virulence	6
+27543297	biological_process	uptake	4
+27543297	biological_process	efflux	2
+27543297	biological_process	heme biosynthesis	1
+27543297	biological_process	cofactor biosynthesis	1
+27543297	biological_process	glycolysis	1
+27543297	biological_process	oxidative pentose phosphate pathway	1
+27543297	biological_process	tricarboxylic acid cycle	1
+27543297	biological_process	gluconeogenesis	1
+27543297	biological_process	biosynthesis	1
+27543297	biological_process	catabolism	1
+27543297	biological_process	secretion	1
+27543297	cellular_component	intracellular	1
+27543297	chemical	heme	5
+27543297	chemical	riboflavin	4
+27543297	chemical	ubiquinone	4
+27543297	chemical	proline	4
+27543297	chemical	carminic acid	3
+27543297	chemical	16s rrna	2
+27543297	chemical	amino acid	2
+27543297	chemical	virulence factor	2
+27543297	chemical	proteins	2
+27543297	chemical	cochineal	1
+27543297	chemical	dye	1
+27543297	chemical	vitamin	1
+27543297	chemical	cofactor	1
+27543297	chemical	pentose phosphate	1
+27543297	chemical	pathway	1
+27543297	chemical	tricarboxylic acid	1
+27543297	chemical	type iv secretion system	1
+27543297	chemical	ankyrin	1
+27543297	gene/protein	pcr	8
+27543297	gene/protein	dye	3
+27543297	gene/protein	heme	3
+27543297	gene/protein	lack	1
+27543297	organism	Wolbachia	6
+27543297	organism	Wolbachia pipientis	2
+27543297	organism	Dactylopius coccus	1
+27543297	organism	metagenome	1
+27543297	organism	phage	1
+27543297	organism	Legionella	1
+27543297	organism	Mycobacterium	1
+27543297	sequence	16s rrna	2
+27543297	sequence	rrna gene	1
+27543297	sequence	genome	1
+27543297	sequence	sequence	1
+27543297	sequence	Genome	1
+27543297	sequence	clone	1
+27543297	sequence	amino acid	1
+27543297	sequence	proline	1
+27543297	sequence	phage	1
+27543297	sequence	domain	1
+27543297	sequence	homolog	1
+27543297	sequence	candidate gene	1
+27543297	organ/tissue	secretion	1
+27543297	clinical_drug	cochineal	1
+27543297	clinical_drug	carminic acid	1
+27543297	clinical_drug	riboflavin	1
+27543297	clinical_drug	proline	1

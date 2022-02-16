@@ -1,0 +1,35 @@
+11718894	biological_process	regulation	1
+11718894	biological_process	germination	1
+11718894	chemical	proteins	4
+11718894	chemical	hemoglobin	3
+11718894	chemical	hbt	2
+11718894	chemical	Hbt	2
+11718894	disease	hbt	2
+11718894	disease	Hbt	2
+11718894	gene/protein	ssp	8
+11718894	gene/protein	hbm	6
+11718894	gene/protein	Hbm	6
+11718894	gene/protein	embryonic	6
+11718894	gene/protein	hb1	5
+11718894	gene/protein	Hb1	5
+11718894	gene/protein	hemoglobin	4
+11718894	gene/protein	hbt	4
+11718894	gene/protein	Hbt	4
+11718894	gene/protein	Hbs	1
+11718894	organism	teosinte	24
+11718894	organism	maize	10
+11718894	organism	rice	4
+11718894	organism	barley	2
+11718894	organism	Zea mays	2
+11718894	organism	cereal	1
+11718894	organism	maize Zea mays	1
+11718894	sequence	gene	5
+11718894	sequence	transcript	3
+11718894	sequence	intron	2
+11718894	sequence	coding sequence	1
+11718894	sequence	sequence	1
+11718894	sequence	hydropathic	1
+11718894	organ/tissue	organ	8
+11718894	organ/tissue	ssp	2
+11718894	clinical_drug	rice	2
+11718894	clinical_drug	barley	1

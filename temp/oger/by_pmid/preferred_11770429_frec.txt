@@ -1,0 +1,31 @@
+11770429	biological_process	localization	1
+11770429	biological_process	seed germination	1
+11770429	biological_process	cellular localization	1
+11770429	biological_process	seedling development	1
+11770429	cellular_component	obsolete soluble fraction	1
+11770429	chemical	protein	2
+11770429	chemical	deoxyhemoglobin	1
+11770429	chemical	hemoglobin	1
+11770429	chemical	Hemoglobins	1
+11770429	chemical	aleurone	1
+11770429	chemical	atom	1
+11770429	gene/protein	Group 1 truncated hemoglobin	2
+11770429	gene/protein	Group 1 truncated hemoglobin GlbN	1
+11770429	gene/protein	Group 1 truncated hemoglobin trHbN	1
+11770429	gene/protein	adenylyl cyclase-associated protein (Schizosaccharomyces pombe 972h-)	1
+11770429	gene/protein	cAMP-activated global transcriptional regulator CRP (Escherichia coli K-12)	1
+11770429	gene/protein	adenylyl cyclase-associated protein (Dictyostelium discoideum)	1
+11770429	gene/protein	catabolite gene activator	1
+11770429	gene/protein	cAMP-activated global transcriptional regulator CRP (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	1
+11770429	gene/protein	calphotin (fruit fly)	1
+11770429	organism	Oryza sativa	3
+11770429	organism	Oryza	3
+11770429	organism	Seedlings	3
+11770429	sequence	transit_peptide	1
+11770429	sequence	signal_peptide	1
+11770429	sequence	cap	1
+11770429	cell	cap cell	1
+11770429	organ/tissue	tissue	2
+11770429	organ/tissue	embryo	1
+11770429	organ/tissue	organ	1
+11770429	clinical_drug	Brown Rice	2

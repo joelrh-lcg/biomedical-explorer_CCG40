@@ -1,0 +1,16 @@
+31665441	cellular_component	obsolete protein	1
+31665441	chemical	Anti-Bacterial Agents	4
+31665441	chemical	antimicrobial agent	3
+31665441	chemical	protein	1
+31665441	chemical	(protein)	1
+31665441	disease	Disease Resistance	6
+31665441	gene/protein	protein	1
+31665441	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+31665441	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+31665441	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+31665441	sequence	region	3
+31665441	sequence	natural_variant_site	3
+31665441	sequence	polypeptide	1
+31665441	sequence	genome	1
+31665441	cell_line	AM	4
+31665441	cell_line	ARO	1

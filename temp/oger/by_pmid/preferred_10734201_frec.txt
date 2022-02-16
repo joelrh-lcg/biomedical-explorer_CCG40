@@ -1,0 +1,23 @@
+10734201	biological_process	transcription, DNA-templated	3
+10734201	chemical	trinucleotide	2
+10734201	chemical	cluster	2
+10734201	chemical	atom	1
+10734201	chemical	base	1
+10734201	chemical	zinc(2+)	1
+10734201	chemical	dizinc	1
+10734201	chemical	zinc atom	1
+10734201	chemical	protein	1
+10734201	gene/protein	Cytokine-inducible SH2-containing protein	5
+10734201	gene/protein	protein DYAD (Arabidopsis thaliana)	2
+10734201	gene/protein	cytokine-inducible SH2-containing protein (chicken)	1
+10734201	gene/protein	cytokine-inducible SH2-containing protein	1
+10734201	gene/protein	cytokine-inducible SH2-containing protein (mouse)	1
+10734201	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	3
+10734201	organism	unidentified	1
+10734201	sequence	gene	4
+10734201	sequence	regulon	1
+10734201	sequence	5KB_upstream_variant	1
+10734201	sequence	region	1
+10734201	sequence	base	1
+10734201	organ/tissue	central sulcus of insula	1
+10734201	organ/tissue	organ	1

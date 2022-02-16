@@ -1,0 +1,30 @@
+21707055	biological_process	formation	2
+21707055	biological_process	lipid modification	1
+21707055	biological_process	biosynthesis	1
+21707055	cellular_component	membrane	1
+21707055	chemical	lipid	6
+21707055	chemical	hydroxyl	6
+21707055	chemical	phosphatidylethanolamine	4
+21707055	chemical	ol 2	2
+21707055	chemical	ohpe	2
+21707055	chemical	hydroxyl group	1
+21707055	chemical	c2 2	1
+21707055	chemical	myristoyl group	1
+21707055	chemical	hydroxy	1
+21707055	chemical	pathway	1
+21707055	chemical	acid	1
+21707055	gene/protein	bcam	12
+21707055	gene/protein	ol 2	2
+21707055	gene/protein	polar	1
+21707055	organism	Burkholderia cenocepacia	2
+21707055	organism	Sinorhizobium meliloti	2
+21707055	organism	Burkholderia	1
+21707055	organism	collection	1
+21707055	organism	Salmonella typhimurium	1
+21707055	sequence	homologue	1
+21707055	sequence	open reading frame	1
+21707055	sequence	homologous	1
+21707055	sequence	chain	1
+21707055	cell_line	c2 2	1
+21707055	organ/tissue	membrane	2
+21707055	molecular_process	hydroxylation	1

@@ -1,0 +1,17 @@
+31151153	chemical	glutamate	6
+31151153	chemical	sucrose	3
+31151153	chemical	nitrogen	2
+31151153	chemical	dinitrogen	1
+31151153	disease	CIAT	1
+31151153	gene/protein	nmr	2
+31151153	organism	bacterium	14
+31151153	organism	CFN42	1
+31151153	organism	CFN299	1
+31151153	organism	CIAT899	1
+31151153	organism	bacterium be	1
+31151153	sequence	inside	1
+31151153	organ/tissue	nodule	2
+31151153	organ/tissue	organism	1
+31151153	clinical_drug	nitrogen	1
+31151153	clinical_drug	sucrose	1
+31151153	clinical_drug	glutamate	1

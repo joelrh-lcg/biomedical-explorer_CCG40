@@ -1,0 +1,23 @@
+17993534	biological_process	methylation	2
+17993534	biological_process	biosynthesis	1
+17993534	cellular_component	membrane	1
+17993534	chemical	phosphatidylcholine	5
+17993534	chemical	phosphatidylethanolamine	4
+17993534	chemical	choline	3
+17993534	chemical	phospholipid	2
+17993534	chemical	Pmts	2
+17993534	chemical	CDPdiacylglycerol	1
+17993534	gene/protein	pc synthase	11
+17993534	gene/protein	pmta	4
+17993534	gene/protein	pmt	4
+17993534	molecular_function	pmt	2
+17993534	organism	bacterium	14
+17993534	organism	bradyrhizobium japonicum	2
+17993534	organism	Escherichia coli	2
+17993534	organism	Rhizobiaceae	1
+17993534	organism	bacterium pc	1
+17993534	organism	Agrobacterium	1
+17993534	sequence	gene	2
+17993534	organ/tissue	membrane	2
+17993534	clinical_drug	choline	1
+17993534	molecular_process	methylation	2

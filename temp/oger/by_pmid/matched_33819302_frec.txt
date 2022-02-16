@@ -1,0 +1,13 @@
+33819302	chemical	a ribonucleic acid	1
+33819302	disease	dengue	4
+33819302	disease	Dengue	2
+33819302	disease	infection	2
+33819302	gene/protein	rna	2
+33819302	gene/protein	ago	1
+33819302	organism	Dengue virus	2
+33819302	organism	dengue virus	2
+33819302	organism	rna virus	1
+33819302	sequence	mutation	2
+33819302	sequence	genotype	1
+33819302	sequence	chain	1
+33819302	organ/tissue	scale	1

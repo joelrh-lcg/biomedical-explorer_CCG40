@@ -1,0 +1,34 @@
+18407964	biological_process	nitrogen fixation	1
+18407964	biological_process	asparagine synthesis	1
+18407964	biological_process	synthesis	1
+18407964	chemical	asparagine	24
+18407964	chemical	glucose	15
+18407964	chemical	carbon	4
+18407964	chemical	glutamine	4
+18407964	chemical	purine	4
+18407964	chemical	asparagine synthetase	3
+18407964	chemical	nitrogen	2
+18407964	chemical	ureide	2
+18407964	chemical	cdna	1
+18407964	chemical	hexokinase inhibitor	1
+18407964	chemical	hexokinase	1
+18407964	gene/protein	hexokinase	14
+18407964	gene/protein	bean	9
+18407964	gene/protein	rna	2
+18407964	gene/protein	gusA	1
+18407964	organism	Phaseolus vulgaris	2
+18407964	sequence	asparagine	7
+18407964	sequence	cdna clone	1
+18407964	sequence	gene	1
+18407964	sequence	promoter	1
+18407964	sequence	fusion	1
+18407964	sequence	glutamine	1
+18407964	cell_line	bean	3
+18407964	organ/tissue	nodule	14
+18407964	organ/tissue	tissue	2
+18407964	organ/tissue	organ	2
+18407964	clinical_drug	asparagine	7
+18407964	clinical_drug	glucose	3
+18407964	clinical_drug	nitrogen	1
+18407964	clinical_drug	glutamine	1
+18407964	molecular_process	reduction	1

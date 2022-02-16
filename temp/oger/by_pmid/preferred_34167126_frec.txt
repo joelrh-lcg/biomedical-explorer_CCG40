@@ -1,0 +1,10 @@
+34167126	biological_process	sex determination	3
+34167126	chemical	maleate(2-)	1
+34167126	chemical	modulator	1
+34167126	disease	Tay-Sachs Disease	2
+34167126	organism	Mammals	1
+34167126	organism	Vertebrates	1
+34167126	organ/tissue	testis	1
+34167126	organ/tissue	male organism	1
+34167126	organ/tissue	animal hemisphere	1
+34167126	organ/tissue	multicellular organism	1

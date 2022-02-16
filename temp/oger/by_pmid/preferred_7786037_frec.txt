@@ -1,0 +1,27 @@
+7786037	biological_process	biosynthetic process	2
+7786037	biological_process	protein oxidation	1
+7786037	biological_process	excretion	1
+7786037	biological_process	aerial mycelium formation	1
+7786037	cellular_component	obsolete protein	1
+7786037	chemical	NADP	6
+7786037	chemical	Glutathione	4
+7786037	chemical	NADPH(4-)	3
+7786037	chemical	NADPH	3
+7786037	chemical	Glutathione Disulfide	2
+7786037	chemical	(glutathione)	2
+7786037	chemical	(Glutathione	2
+7786037	chemical	glutathionate(1-)	2
+7786037	chemical	glutathione	2
+7786037	chemical	protein	1
+7786037	chemical	(protein)	1
+7786037	chemical	glutathione disulfide(2-)	1
+7786037	chemical	glutathione disulfide	1
+7786037	gene/protein	protein	1
+7786037	organism	Neurospora crassa	2
+7786037	organism	Spores, Fungal	2
+7786037	sequence	polypeptide	1
+7786037	sequence	disulfide_bond	1
+7786037	sequence	transition	1
+7786037	organ/tissue	excreta	1
+7786037	clinical_drug	Glutathione	3
+7786037	molecular_process	oxidation	4

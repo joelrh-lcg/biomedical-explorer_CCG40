@@ -1,0 +1,20 @@
+15900973	chemical	base	1
+15900973	chemical	16s	1
+15900973	chemical	rdna	1
+15900973	gene/protein	pcr	16
+15900973	gene/protein	nifh	1
+15900973	gene/protein	nifH	1
+15900973	organism	rice	4
+15900973	organism	Acetobacter	3
+15900973	organism	acetobacter	3
+15900973	organism	Acetobacteraceae	2
+15900973	organism	Gluconacetobacter diazotrophicus	2
+15900973	organism	primer	2
+15900973	organism	gluconacetobacter diazotrophicus	2
+15900973	organism	bacterium be	1
+15900973	sequence	primer	2
+15900973	sequence	base	1
+15900973	sequence	rdna	1
+15900973	sequence	sequence	1
+15900973	sequence	gene	1
+15900973	clinical_drug	rice	2

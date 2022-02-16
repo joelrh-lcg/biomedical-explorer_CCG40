@@ -1,0 +1,78 @@
+27543297	biological_process	import into cell	2
+27543297	biological_process	import across plasma membrane	2
+27543297	biological_process	pathogenesis	2
+27543297	biological_process	obsolete virulence	2
+27543297	biological_process	viral process	2
+27543297	biological_process	heme biosynthetic process	1
+27543297	biological_process	cofactor biosynthetic process	1
+27543297	biological_process	glycolytic process	1
+27543297	biological_process	pentose-phosphate shunt, oxidative branch	1
+27543297	biological_process	tricarboxylic acid cycle	1
+27543297	biological_process	gluconeogenesis	1
+27543297	biological_process	biosynthetic process	1
+27543297	biological_process	catabolic process	1
+27543297	biological_process	secretion	1
+27543297	biological_process	export across plasma membrane	1
+27543297	biological_process	export from cell	1
+27543297	cellular_component	intracellular	1
+27543297	chemical	carminic acid	2
+27543297	chemical	Carmine	2
+27543297	chemical	RNA, Ribosomal, 16S	2
+27543297	chemical	Riboflavin	2
+27543297	chemical	Ubiquinone	2
+27543297	chemical	Heme	2
+27543297	chemical	Proline	2
+27543297	chemical	virulence factor	2
+27543297	chemical	protein	2
+27543297	chemical	dye	1
+27543297	chemical	riboflavin(1-)	1
+27543297	chemical	riboflavin	1
+27543297	chemical	ubiquinones	1
+27543297	chemical	coenzyme Q10	1
+27543297	chemical	ferroheme b	1
+27543297	chemical	heme	1
+27543297	chemical	heme b	1
+27543297	chemical	vitamin	1
+27543297	chemical	cofactor	1
+27543297	chemical	pentose phosphate	1
+27543297	chemical	picloram	1
+27543297	chemical	tricarboxylic acid	1
+27543297	chemical	alpha-amino acid	1
+27543297	chemical	amino acid	1
+27543297	chemical	proline	1
+27543297	chemical	L-proline	1
+27543297	chemical	Type IV Secretion Systems	1
+27543297	chemical	Ankyrins	1
+27543297	gene/protein	Protochlorophyllide reductase, chloroplastic	5
+27543297	gene/protein	Light-dependent protochlorophyllide reductase	2
+27543297	gene/protein	nuclear pore complex protein Nup93 (zebrafish)	1
+27543297	gene/protein	aerobic respiration control protein ArcA (Escherichia coli K-12)	1
+27543297	gene/protein	aerobic respiration control protein ArcA	1
+27543297	gene/protein	Protochlorophyllide reductase	1
+27543297	gene/protein	uroporphyrinogen decarboxylase (Dictyostelium discoideum)	1
+27543297	gene/protein	uroporphyrinogen decarboxylase (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+27543297	gene/protein	uroporphyrinogen decarboxylase (Escherichia coli K-12)	1
+27543297	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+27543297	organism	Wolbachia	6
+27543297	organism	Wolbachia pipientis	2
+27543297	organism	Dactylopius coccus	1
+27543297	organism	metagenome	1
+27543297	organism	Bacteriophages	1
+27543297	organism	Legionella	1
+27543297	organism	Mycobacterium	1
+27543297	sequence	rRNA_16S	2
+27543297	sequence	genome	2
+27543297	sequence	rRNA_gene	1
+27543297	sequence	region	1
+27543297	sequence	clone	1
+27543297	sequence	amino_acid	1
+27543297	sequence	proline	1
+27543297	sequence	phage_sequence	1
+27543297	sequence	polypeptide_domain	1
+27543297	sequence	homologous_region	1
+27543297	sequence	candidate_gene	1
+27543297	organ/tissue	secretion of exocrine gland	1
+27543297	clinical_drug	Cochineal	1
+27543297	clinical_drug	Carminic Acid	1
+27543297	clinical_drug	Riboflavin	1
+27543297	clinical_drug	Proline	1

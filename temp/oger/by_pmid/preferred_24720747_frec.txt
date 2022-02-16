@@ -1,0 +1,40 @@
+24720747	biological_process	biosynthetic process	4
+24720747	cellular_component	obsolete protein	2
+24720747	cellular_component	outer membrane	1
+24720747	chemical	protein	2
+24720747	chemical	(protein)	2
+24720747	chemical	Deoxycholic Acid	2
+24720747	chemical	bile acid	1
+24720747	chemical	bile salt	1
+24720747	chemical	sodium deoxycholate	1
+24720747	gene/protein	Major outer membrane protein P.IB	20
+24720747	gene/protein	Outer membrane protein	9
+24720747	gene/protein	transcriptional regulatory protein OmpR (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	6
+24720747	gene/protein	transcriptional regulatory protein OmpR (Escherichia coli K-12)	6
+24720747	gene/protein	transcriptional regulatory protein OmpR	6
+24720747	gene/protein	outer membrane porin C	5
+24720747	gene/protein	outer membrane porin C (Escherichia coli K-12)	5
+24720747	gene/protein	outer membrane porin F	4
+24720747	gene/protein	outer membrane porin F (Escherichia coli K-12)	4
+24720747	gene/protein	Porin	4
+24720747	gene/protein	Voltage-dependent anion-selective channel	2
+24720747	gene/protein	Major outer membrane protein	2
+24720747	gene/protein	voltage-dependent anion-selective channel (fruit fly)	2
+24720747	gene/protein	protein	1
+24720747	gene/protein	transcriptional activator protein LysR	1
+24720747	gene/protein	transcriptional activator protein LysR (Escherichia coli K-12)	1
+24720747	gene/protein	Intimin	1
+24720747	molecular_function	porin activity	2
+24720747	organism	Salmonella	1
+24720747	sequence	promoter	3
+24720747	sequence	polypeptide	2
+24720747	sequence	regulatory_region	1
+24720747	sequence	regulatory_region_variant	1
+24720747	sequence	gene	1
+24720747	organ/tissue	membrane organ	1
+24720747	organ/tissue	membranous layer	1
+24720747	organ/tissue	bile	1
+24720747	organ/tissue	digestive tract	1
+24720747	organ/tissue	lower digestive tract	1
+24720747	organ/tissue	digestive system	1
+24720747	clinical_drug	Deoxycholate	1

@@ -1,0 +1,7 @@
+20464217	chemical	antibiotic	12
+20464217	chemical	drug	2
+20464217	disease	infection	2
+20464217	gene/protein	pcr	8
+20464217	organism	bacterium	21
+20464217	sequence	gene	2
+20464217	sequence	integron	1

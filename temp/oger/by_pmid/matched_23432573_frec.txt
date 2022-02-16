@@ -1,0 +1,41 @@
+23432573	biological_process	nitrogen fixation	1
+23432573	biological_process	symbiosis	1
+23432573	biological_process	Gene Ontology	1
+23432573	biological_process	biological process	1
+23432573	biological_process	metabolism	1
+23432573	biological_process	reverse transcription	1
+23432573	biological_process	transcription	1
+23432573	biological_process	gene expression	1
+23432573	chemical	reactive oxygen species	3
+23432573	chemical	paraquat	3
+23432573	chemical	nitrogen	2
+23432573	chemical	dimethyl	2
+23432573	chemical	ROS	1
+23432573	chemical	herbicide	1
+23432573	chemical	hydrate	1
+23432573	chemical	nitrogenase	1
+23432573	chemical	ureide	1
+23432573	chemical	probe	1
+23432573	chemical	base	1
+23432573	chemical	pathway	1
+23432573	gene/protein	bean	9
+23432573	gene/protein	tag	5
+23432573	gene/protein	Bean	3
+23432573	gene/protein	ROS	2
+23432573	gene/protein	snf	2
+23432573	molecular_function	nitrogenase activity	1
+23432573	molecular_function	transcription factor	1
+23432573	organism	Phaseolus vulgaris	2
+23432573	sequence	gene	7
+23432573	sequence	est	2
+23432573	sequence	probe	1
+23432573	sequence	sequence	1
+23432573	sequence	tag	1
+23432573	sequence	base	1
+23432573	sequence	reverse	1
+23432573	sequence	promoter region	1
+23432573	cell_line	bean	3
+23432573	cell_line	Bean	1
+23432573	organ/tissue	nodule	12
+23432573	clinical_drug	oxygen	1
+23432573	clinical_drug	nitrogen	1

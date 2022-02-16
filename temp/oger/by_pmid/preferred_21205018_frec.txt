@@ -1,0 +1,28 @@
+21205018	biological_process	biosynthetic process	3
+21205018	biological_process	symbiotic process	1
+21205018	cellular_component	outer membrane	1
+21205018	chemical	Ornithine	4
+21205018	chemical	ornithine containing aminolipid	2
+21205018	chemical	hydroxy group	2
+21205018	chemical	fatty-acyl group	2
+21205018	chemical	L-ornithinium(2+)	2
+21205018	chemical	ornithine	2
+21205018	chemical	acid	2
+21205018	chemical	amide	1
+21205018	chemical	azanide	1
+21205018	chemical	fatty acid	1
+21205018	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	2
+21205018	organism	Rhizobium tropici	2
+21205018	organism	ornithine containing aminolipid	1
+21205018	organism	bacterium IFAM-3211	1
+21205018	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+21205018	organism	bacterium IFAM-3215	1
+21205018	organism	bacterium IFAM-2074	1
+21205018	organism	bacterium IFAM-3359	1
+21205018	organism	bacterium	1
+21205018	organism	bacterium IFAM-1493	1
+21205018	sequence	double	1
+21205018	organ/tissue	membrane organ	1
+21205018	organ/tissue	membranous layer	1
+21205018	clinical_drug	Ornithine	3
+21205018	molecular_process	hydroxylation	3

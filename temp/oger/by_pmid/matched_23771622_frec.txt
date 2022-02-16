@@ -1,0 +1,29 @@
+23771622	biological_process	nitrogen fixation	1
+23771622	biological_process	symbiosis	1
+23771622	chemical	nitrogen	4
+23771622	gene/protein	recA	14
+23771622	gene/protein	rpob	14
+23771622	gene/protein	prf	8
+23771622	gene/protein	atpD	8
+23771622	gene/protein	bean	6
+23771622	gene/protein	crop	2
+23771622	gene/protein	nov	2
+23771622	organism	Rhizobium	2
+23771622	organism	Rhizobium tropici	2
+23771622	organism	Rhizobium freirei	2
+23771622	organism	Phaseolus vulgaris	2
+23771622	organism	Phaseolus vulgari	1
+23771622	organism	Leucaena leucocephala	1
+23771622	organism	Leucaena esculenta	1
+23771622	organism	Crotalaria juncea	1
+23771622	organism	macroptilium atropurpureum	1
+23771622	organism	cnpso 122	1
+23771622	organism	semia 4080	1
+23771622	organism	wdcm 440	1
+23771622	sequence	gene	1
+23771622	cell_line	81t	5
+23771622	cell_line	bean	2
+23771622	cell_line	recA	1
+23771622	organ/tissue	crop	2
+23771622	organ/tissue	nodule	2
+23771622	clinical_drug	nitrogen	2

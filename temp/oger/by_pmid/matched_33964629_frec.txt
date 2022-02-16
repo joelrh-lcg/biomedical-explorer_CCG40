@@ -1,0 +1,27 @@
+33964629	biological_process	fatty acid catabolism	1
+33964629	biological_process	regulation of lipid metabolism	1
+33964629	biological_process	regulation	1
+33964629	biological_process	unsaturated fatty acid metabolism	1
+33964629	cellular_component	membrane	1
+33964629	chemical	cyclopropane	6
+33964629	chemical	unsaturated fatty acid	4
+33964629	chemical	fatty acid	3
+33964629	chemical	lipid	1
+33964629	chemical	synthase I	1
+33964629	gene/protein	spp	16
+33964629	gene/protein	psra	6
+33964629	gene/protein	rpos	6
+33964629	gene/protein	faba	3
+33964629	gene/protein	synthase I	1
+33964629	molecular_function	binding	2
+33964629	molecular_function	spp	1
+33964629	molecular_function	faba	1
+33964629	organism	bacterium	14
+33964629	organism	Pseudomonas	2
+33964629	organism	azotobacter	1
+33964629	sequence	gene	2
+33964629	sequence	operon	2
+33964629	sequence	binding	2
+33964629	sequence	binding site	2
+33964629	sequence	promoter region	1
+33964629	organ/tissue	membrane	2

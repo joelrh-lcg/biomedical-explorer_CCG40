@@ -1,0 +1,6 @@
+25676753	organism	bacterium	7
+25676753	organism	sugarcane	3
+25676753	organism	bacillus	1
+25676753	sequence	genome	1
+25676753	sequence	gene	1
+25676753	clinical_drug	sugarcane	2

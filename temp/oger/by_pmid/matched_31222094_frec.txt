@@ -1,0 +1,35 @@
+31222094	biological_process	depurination	3
+31222094	biological_process	reproduction	1
+31222094	biological_process	parthenogenesis	1
+31222094	cellular_component	Ribosome	1
+31222094	cellular_component	protein	1
+31222094	chemical	male	4
+31222094	chemical	rrna	2
+31222094	chemical	protein	2
+31222094	disease	feminization	2
+31222094	disease	embryo death	2
+31222094	disease	hyd1	1
+31222094	gene/protein	rip	34
+31222094	gene/protein	hyd1	9
+31222094	gene/protein	lack	2
+31222094	gene/protein	egg	1
+31222094	gene/protein	protein	1
+31222094	organism	Drosophila	20
+31222094	organism	bacterium	7
+31222094	organism	Drosophila melanogaster	4
+31222094	organism	spiroplasma poulsonii	4
+31222094	organism	wolbachia	2
+31222094	organism	Spiroplasma poulsonii	2
+31222094	organism	bacterium be	1
+31222094	organism	arthropod	1
+31222094	organism	Drosophila hydei	1
+31222094	organism	spiroplasma	1
+31222094	sequence	signal	6
+31222094	sequence	rrna	2
+31222094	sequence	transcript	1
+31222094	sequence	protein	1
+31222094	organ/tissue	male	4
+31222094	organ/tissue	early embryo	3
+31222094	organ/tissue	embryo	3
+31222094	organ/tissue	egg	2
+31222094	organ/tissue	developmental stage	1

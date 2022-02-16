@@ -1,0 +1,18 @@
+2155209	biological_process	mutagenesis	1
+2155209	biological_process	nitrogen fixation	1
+2155209	cellular_component	host cell	1
+2155209	chemical	cytochrome	4
+2155209	chemical	ce3	3
+2155209	chemical	cytochrome aa3	2
+2155209	chemical	nitrogen	2
+2155209	gene/protein	mob	6
+2155209	molecular_function	cytochrome	28
+2155209	organism	Rhizobium phaseoli	2
+2155209	sequence	mutagenesis	1
+2155209	sequence	inside	1
+2155209	cell_line	ce3	3
+2155209	cell_line	mob	2
+2155209	cell_line	tn5	1
+2155209	organ/tissue	aa3	2
+2155209	organ/tissue	proliferation	1
+2155209	clinical_drug	nitrogen	1

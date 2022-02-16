@@ -1,0 +1,22 @@
+15547262	biological_process	homologous recombination	1
+15547262	chemical	dsb	6
+15547262	chemical	mitomycin c	3
+15547262	chemical	nalidixic acid	3
+15547262	chemical	pathway	1
+15547262	gene/protein	adda	16
+15547262	gene/protein	reca	14
+15547262	gene/protein	recf	12
+15547262	gene/protein	fold	8
+15547262	gene/protein	gap	2
+15547262	organism	bacterium	21
+15547262	organism	rhizobium etli	2
+15547262	organism	plasmid	2
+15547262	organism	alphaproteobacteria	1
+15547262	sequence	gene	4
+15547262	sequence	plasmid	2
+15547262	sequence	double	2
+15547262	sequence	gap	1
+15547262	sequence	homologous	1
+15547262	sequence	deletion	1
+15547262	cell_line	reca	1
+15547262	clinical_drug	mitomycin	1

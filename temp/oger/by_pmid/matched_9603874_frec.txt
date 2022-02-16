@@ -1,0 +1,33 @@
+9603874	biological_process	nodulation	3
+9603874	biological_process	nitrogen fixation	1
+9603874	biological_process	homologous recombination	1
+9603874	chemical	kanamycin	6
+9603874	chemical	pc60	2
+9603874	chemical	nitrogen	2
+9603874	chemical	nod factor	2
+9603874	chemical	amplify	1
+9603874	disease	nod	2
+9603874	gene/protein	nod	90
+9603874	organism	Rhizobium etli	2
+9603874	organism	Rhizobium tropici	2
+9603874	organism	Escherichia coli	2
+9603874	organism	Phaseolus vulgaris	2
+9603874	organism	plasmid	1
+9603874	organism	cfn299	1
+9603874	organism	Agrobacterium	1
+9603874	organism	insertion sequence	1
+9603874	sequence	amplicon	5
+9603874	sequence	gene	3
+9603874	sequence	genome	1
+9603874	sequence	origin of replication	1
+9603874	sequence	insert	1
+9603874	sequence	plasmid	1
+9603874	sequence	insertion sequence	1
+9603874	sequence	homologous	1
+9603874	sequence	repeat	1
+9603874	cell_line	pc60	2
+9603874	organ/tissue	flank	1
+9603874	clinical_drug	kanamycin	2
+9603874	clinical_drug	cartridge	1
+9603874	clinical_drug	nitrogen	1
+9603874	entity_type	term	2

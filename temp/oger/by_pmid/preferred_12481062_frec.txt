@@ -1,0 +1,47 @@
+12481062	biological_process	biological regulation	1
+12481062	biological_process	gene expression	1
+12481062	cellular_component	obsolete protein	3
+12481062	cellular_component	plasma membrane	1
+12481062	cellular_component	apoplast	1
+12481062	cellular_component	symplast	1
+12481062	chemical	Ammonium Compounds	10
+12481062	chemical	ammonium	7
+12481062	chemical	ammonium nitrate	3
+12481062	chemical	protein	3
+12481062	chemical	(protein)	3
+12481062	chemical	ion	1
+12481062	chemical	beryllium atom	1
+12481062	chemical	ammonia	1
+12481062	chemical	azaniumyl group	1
+12481062	chemical	trihydridonitrate(.1-)	1
+12481062	chemical	trihydridonitrogen(.1+)	1
+12481062	chemical	nitrogen atom	1
+12481062	chemical	nitrogen(.)	1
+12481062	chemical	oxidooxomethyl	1
+12481062	chemical	cobalt(2+)	1
+12481062	chemical	carbon dioxide	1
+12481062	chemical	oxidocarbon(2+)	1
+12481062	chemical	double-stranded RNA	1
+12481062	gene/protein	Ammonium transporter 2	9
+12481062	gene/protein	ammonium transporter 2 (Arabidopsis thaliana)	9
+12481062	gene/protein	Ammonium transporter	2
+12481062	gene/protein	protein	2
+12481062	gene/protein	Green fluorescent protein	1
+12481062	organism	Arabidopsis	3
+12481062	organism	Saccharomyces cerevisiae	2
+12481062	organism	Yeasts	1
+12481062	sequence	polypeptide	3
+12481062	sequence	gene	2
+12481062	sequence	transcript	2
+12481062	sequence	fusion	1
+12481062	cell	epidermal cell	1
+12481062	organ/tissue	organ	1
+12481062	organ/tissue	compound organ	1
+12481062	organ/tissue	blood plasma	1
+12481062	organ/tissue	membrane organ	1
+12481062	organ/tissue	membranous layer	1
+12481062	clinical_drug	Yeast, Unspecified	1
+12481062	clinical_drug	saccharomyces cerevisiae allergenic extract	1
+12481062	clinical_drug	Saccharomyces cerevisiae	1
+12481062	clinical_drug	Nitrogen	1
+12481062	molecular_process	reduction	1

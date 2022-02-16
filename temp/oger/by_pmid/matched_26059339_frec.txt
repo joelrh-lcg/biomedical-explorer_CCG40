@@ -1,0 +1,15 @@
+26059339	biological_process	gene expression	1
+26059339	biological_process	nodulation	1
+26059339	chemical	mirna	2
+26059339	chemical	microrna	1
+26059339	chemical	microRNAs	1
+26059339	gene/protein	rna	4
+26059339	gene/protein	bean	3
+26059339	organism	Phaseolus vulgaris	2
+26059339	organism	legume	1
+26059339	sequence	mirna	2
+26059339	sequence	gene	1
+26059339	sequence	microrna	1
+26059339	sequence	genome	1
+26059339	cell_line	bean	1
+26059339	organ/tissue	organism	1

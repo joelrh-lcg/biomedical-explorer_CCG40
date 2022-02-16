@@ -1,0 +1,60 @@
+11432923	biological_process	photosynthesis	3
+11432923	biological_process	fertilization	2
+11432923	cellular_component	cytosol	1
+11432923	cellular_component	chloroplast	1
+11432923	chemical	nitrogen atom	6
+11432923	chemical	nitrogen(.)	6
+11432923	chemical	Ammonium Compounds	4
+11432923	chemical	Nitrogen	2
+11432923	chemical	ammonium	2
+11432923	chemical	Glutamine	2
+11432923	chemical	dinitrogen	1
+11432923	chemical	nutrient	1
+11432923	chemical	Glutamate-Ammonia Ligase	1
+11432923	chemical	Glutamate Synthase	1
+11432923	chemical	alpha-amino acid	1
+11432923	chemical	amino acid	1
+11432923	chemical	glutamine	1
+11432923	chemical	L-glutamine	1
+11432923	chemical	sulfur-35 atom	1
+11432923	chemical	mutacin GS-5	1
+11432923	chemical	protein	1
+11432923	disease	Griscelli syndrome type 1	2
+11432923	disease	Starvation	2
+11432923	disease	Griscelli syndrome type 2	1
+11432923	gene/protein	Glutamine synthetase	126
+11432923	gene/protein	Glutamine synthetase cytosolic isozyme	8
+11432923	gene/protein	Grammistin Gs F	2
+11432923	gene/protein	glutamine synthetase 1, mitochondrial (fruit fly)	2
+11432923	gene/protein	pseudouridine-5'-phosphatase (human)	2
+11432923	gene/protein	(DL)-glycerol-3-phosphatase 2 (Arabidopsis thaliana)	2
+11432923	gene/protein	Glutamine synthetase cytosolic isozyme 1-3	2
+11432923	gene/protein	pseudouridine-5'-phosphatase	2
+11432923	gene/protein	glutamine synthetase	1
+11432923	gene/protein	Glutamate synthase [NADPH] large chain	1
+11432923	gene/protein	Glutamate synthase [NADPH] small chain	1
+11432923	gene/protein	Glutamine synthetase 2 isozyme	1
+11432923	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+11432923	gene/protein	ribonuclease I	1
+11432923	gene/protein	ryanodine receptor (fruit fly)	1
+11432923	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+11432923	organism	Pseudodinemasporium fabiforme	2
+11432923	organism	Tobacco	2
+11432923	organism	Nicotiana tabacum	2
+11432923	organism	Cauliflower mosaic virus	1
+11432923	organism	Pseudolachnella fusiformis	1
+11432923	organism	mutacin GS-5	1
+11432923	organism	Plants, Genetically Modified	1
+11432923	sequence	glutamine	2
+11432923	sequence	transgenic	2
+11432923	sequence	amino_acid	1
+11432923	sequence	promoter	1
+11432923	cell_line	GS1	2
+11432923	cell_line	GS-1	2
+11432923	cell_line	CHSE-GS2	1
+11432923	cell_line	C70	1
+11432923	cell_line	C100	1
+11432923	organ/tissue	crop	1
+11432923	clinical_drug	Nitrogen	7
+11432923	clinical_drug	Glutamine	2
+11432923	clinical_drug	Glutamate	1

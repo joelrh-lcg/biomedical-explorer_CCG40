@@ -1,0 +1,35 @@
+12139618	biological_process	biosynthetic process	3
+12139618	biological_process	behavior	1
+12139618	cellular_component	membrane	1
+12139618	chemical	lipid	4
+12139618	chemical	alpha-amino acid	2
+12139618	chemical	amino acid	2
+12139618	chemical	Ornithine	2
+12139618	chemical	phospholipid	1
+12139618	chemical	L-ornithinium(2+)	1
+12139618	chemical	ornithine	1
+12139618	chemical	Complement System Proteins	1
+12139618	chemical	acyl donor	1
+12139618	gene/protein	protein POLAR LOCALIZATION DURING ASYMMETRIC DIVISION AND REDISTRIBUTION (Arabidopsis thaliana)	1
+12139618	molecular_function	transferase activity, transferring acyl groups	1
+12139618	organism	bacterium IFAM-3211	2
+12139618	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+12139618	organism	bacterium IFAM-3215	2
+12139618	organism	bacterium IFAM-2074	2
+12139618	organism	bacterium IFAM-3359	2
+12139618	organism	bacterium	2
+12139618	organism	bacterium IFAM-1493	2
+12139618	organism	Sinorhizobium meliloti	2
+12139618	organism	unidentified	1
+12139618	organism	Fabaceae	1
+12139618	sequence	gene	4
+12139618	sequence	amino_acid	2
+12139618	sequence	cosmid	1
+12139618	sequence	fragmentary	1
+12139618	sequence	five_prime_cis_splice_site	1
+12139618	organ/tissue	multicellular organism	1
+12139618	organ/tissue	membrane organ	1
+12139618	organ/tissue	membranous layer	1
+12139618	organ/tissue	cerebellum vermis lobule X	1
+12139618	organ/tissue	germinal center	1
+12139618	clinical_drug	Ornithine	1

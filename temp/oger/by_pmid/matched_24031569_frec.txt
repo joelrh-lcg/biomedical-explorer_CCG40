@@ -1,0 +1,23 @@
+24031569	chemical	auxin	3
+24031569	chemical	indole3acetic acid	3
+24031569	chemical	tricalcium phosphate	3
+24031569	chemical	antagonist	2
+24031569	gene/protein	pgp	206
+24031569	gene/protein	PGP	103
+24031569	gene/protein	spp	16
+24031569	gene/protein	crop	3
+24031569	gene/protein	impact	2
+24031569	molecular_function	spp	1
+24031569	organism	potato	8
+24031569	organism	bacillus	4
+24031569	organism	Potato	2
+24031569	organism	fungus	1
+24031569	organism	Rhizoctonia	1
+24031569	organism	Fusarium	1
+24031569	sequence	bac	3
+24031569	cell_line	m11	2
+24031569	organ/tissue	crop	3
+24031569	clinical_drug	potato	4
+24031569	clinical_drug	Potato	1
+24031569	clinical_drug	acetic acid	1
+24031569	clinical_drug	tricalcium phosphate	1

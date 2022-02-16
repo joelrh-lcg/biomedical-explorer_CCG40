@@ -1,0 +1,23 @@
+32995914	biological_process	nodulation	2
+32995914	biological_process	biosynthetic process	1
+32995914	biological_process	animal organ development	1
+32995914	chemical	cerium(3+)	5
+32995914	chemical	alpha-D-Manp6P-(1->3)-alpha-D-Manp-(1->3)-alpha-D-Manp-(1->3)-alpha-D-Manp-(1->2)-D-Manp	3
+32995914	chemical	pentamannose phosphate polysaccharide	3
+32995914	chemical	phosmet	3
+32995914	chemical	fluorescent protein 583	2
+32995914	chemical	nodulation factor	2
+32995914	disease	Infections	4
+32995914	disease	Myoclonic Epilepsies, Progressive	2
+32995914	gene/protein	Flavohemoprotein	86
+32995914	gene/protein	Red fluorescent protein drFP583	2
+32995914	gene/protein	flavohemoprotein	2
+32995914	gene/protein	kinesin-like protein Nod (fruit fly)	2
+32995914	organism	Rhizobium etli	4
+32995914	organism	Fabaceae	1
+32995914	organism	Phaseolus	1
+32995914	cell_line	CE-3	5
+32995914	organ/tissue	cerebellum vermis lobule X	2
+32995914	organ/tissue	germinal center	2
+32995914	organ/tissue	primordium	1
+32995914	organ/tissue	cell layer	1

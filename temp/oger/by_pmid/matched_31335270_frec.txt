@@ -1,0 +1,19 @@
+31335270	biological_process	efflux	4
+31335270	cellular_component	efflux pump	2
+31335270	chemical	antibiotic	6
+31335270	chemical	element	1
+31335270	chemical	proteins	1
+31335270	chemical	carbapenem	1
+31335270	disease	infection	4
+31335270	gene/protein	spp	16
+31335270	gene/protein	porin	16
+31335270	gene/protein	sub	8
+31335270	molecular_function	spp	1
+31335270	molecular_function	porin	1
+31335270	organism	plasmid	6
+31335270	organism	insertion sequence	1
+31335270	sequence	plasmid	6
+31335270	sequence	gene	3
+31335270	sequence	transposon	1
+31335270	sequence	insertion sequence	1
+31335270	organ/tissue	element	1

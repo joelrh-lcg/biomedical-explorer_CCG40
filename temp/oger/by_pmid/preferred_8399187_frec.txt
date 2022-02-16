@@ -1,0 +1,20 @@
+8399187	cellular_component	extracellular region	1
+8399187	chemical	Glucosamine	2
+8399187	chemical	nodulation factor	1
+8399187	chemical	molecule	1
+8399187	chemical	sulfate	1
+8399187	chemical	glucosamine	1
+8399187	disease	Myoclonic Epilepsies, Progressive	2
+8399187	gene/protein	Flavohemoprotein	86
+8399187	gene/protein	Protein BEAN1	4
+8399187	gene/protein	protein BEAN	2
+8399187	gene/protein	flavohemoprotein	2
+8399187	gene/protein	kinesin-like protein Nod (fruit fly)	2
+8399187	organism	Rhizobium tropici	2
+8399187	organism	Phaseolus	1
+8399187	organism	Rhizobium	1
+8399187	organism	Fabaceae	1
+8399187	sequence	gene	1
+8399187	cell_line	R1192	2
+8399187	organ/tissue	vertebral column	1
+8399187	clinical_drug	Glucosamine	1

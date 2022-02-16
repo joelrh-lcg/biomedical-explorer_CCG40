@@ -1,0 +1,27 @@
+17601817	chemical	phosphate	8
+17601817	chemical	phenol	3
+17601817	chemical	benzene	3
+17601817	chemical	toluene	3
+17601817	chemical	1aminocyclopropane1carboxylic acid	3
+17601817	chemical	aromatic compound	2
+17601817	chemical	carbon	2
+17601817	chemical	acc deaminase	1
+17601817	chemical	Mineral	1
+17601817	chemical	organic acid	1
+17601817	chemical	siderophore	1
+17601817	disease	infection	2
+17601817	gene/protein	acc deaminase	53
+17601817	gene/protein	acc 1	14
+17601817	gene/protein	to b	1
+17601817	molecular_function	oxygenase	1
+17601817	molecular_function	deaminase activity	1
+17601817	organism	Burkholderia	8
+17601817	organism	Burkholderia sp	3
+17601817	organism	tomato	2
+17601817	organism	unknown	2
+17601817	organism	Burkholderia cepacia complex	1
+17601817	organism	human	1
+17601817	sequence	gene	2
+17601817	clinical_drug	tomato	1
+17601817	clinical_drug	phenol	1
+17601817	clinical_drug	toluene	1

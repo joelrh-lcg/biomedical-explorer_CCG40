@@ -1,0 +1,29 @@
+31923208	biological_process	dna repair	3
+31923208	biological_process	rad	3
+31923208	biological_process	Rad	1
+31923208	biological_process	homologous recombination	1
+31923208	cellular_component	protein	1
+31923208	chemical	51c	8
+31923208	chemical	protein	2
+31923208	chemical	mixture	1
+31923208	chemical	mirna	1
+31923208	chemical	microrna	1
+31923208	chemical	luciferase	1
+31923208	disease	carcinogenesis	4
+31923208	disease	rad	3
+31923208	disease	disease	2
+31923208	disease	Rad	1
+31923208	gene/protein	mir	52
+31923208	gene/protein	rad51c	15
+31923208	gene/protein	Rad 51c	5
+31923208	gene/protein	luciferase	5
+31923208	gene/protein	rna	2
+31923208	gene/protein	protein	1
+31923208	organism	comet	1
+31923208	sequence	gene	2
+31923208	sequence	mirna	1
+31923208	sequence	microrna	1
+31923208	sequence	protein	1
+31923208	sequence	homologous	1
+31923208	sequence	initiator	1
+31923208	cell_line	3t3	2

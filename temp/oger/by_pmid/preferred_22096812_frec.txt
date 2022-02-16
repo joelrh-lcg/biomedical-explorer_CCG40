@@ -1,0 +1,52 @@
+22096812	biological_process	biosynthetic process	1
+22096812	biological_process	catabolic process	1
+22096812	chemical	Glutamine	14
+22096812	chemical	glutamine	7
+22096812	chemical	L-glutamine	7
+22096812	chemical	Glutamic Acid	4
+22096812	chemical	Oxidoreductases	2
+22096812	chemical	Glutamate-Ammonia Ligase	2
+22096812	chemical	polypeptide	2
+22096812	chemical	glutamate(2-)	2
+22096812	chemical	L-glutamic acid	2
+22096812	chemical	glutamate(1-)	2
+22096812	chemical	glutamic acid	2
+22096812	chemical	sulfoxaflor	1
+22096812	chemical	Glutamate Synthase	1
+22096812	chemical	Glutaminase	1
+22096812	chemical	amidase	1
+22096812	chemical	picloram	1
+22096812	chemical	Alanine Transaminase	1
+22096812	chemical	nitrogen atom	1
+22096812	chemical	nitrogen(.)	1
+22096812	chemical	food additive carrier	1
+22096812	gene/protein	S-adenosylmethionine synthase	646
+22096812	gene/protein	Glutamine synthetase	244
+22096812	gene/protein	Glutaminase	152
+22096812	gene/protein	Amidase	4
+22096812	gene/protein	Dehydrogenase	2
+22096812	gene/protein	glutamine synthetase	2
+22096812	gene/protein	proteolytic cleavage product	2
+22096812	gene/protein	amino acid chain	2
+22096812	gene/protein	transmembrane protease serine 11D	1
+22096812	gene/protein	Probable S-adenosylmethionine synthase	1
+22096812	gene/protein	Maltose O-acetyltransferase	1
+22096812	gene/protein	S-adenosylmethionine synthetase	1
+22096812	gene/protein	transmembrane protease serine 11D (mouse)	1
+22096812	gene/protein	acetyl-CoA acetyltransferase, mitochondrial (human)	1
+22096812	gene/protein	acetyl-CoA acetyltransferase, mitochondrial	1
+22096812	gene/protein	alanine aminotransferase 2	1
+22096812	gene/protein	alanine aminotransferase 1	1
+22096812	molecular_function	[acyl-carrier-protein] S-malonyltransferase activity	1
+22096812	molecular_function	glutaminase activity	1
+22096812	molecular_function	transporter activity	1
+22096812	organism	Neurospora crassa	2
+22096812	sequence	glutamine	9
+22096812	sequence	polypeptide	2
+22096812	sequence	alanine	1
+22096812	cell_line	MAT	1
+22096812	clinical_drug	Glutamine	9
+22096812	clinical_drug	Glutamate	3
+22096812	clinical_drug	Alanine	1
+22096812	clinical_drug	Nitrogen	1
+22096812	entity_type	preferred_term	2

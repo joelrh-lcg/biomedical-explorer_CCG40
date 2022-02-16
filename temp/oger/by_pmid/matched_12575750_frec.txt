@@ -1,0 +1,45 @@
+12575750	biological_process	virulence	3
+12575750	biological_process	nodulation	2
+12575750	biological_process	mutagenesis	1
+12575750	cellular_component	protein	1
+12575750	cellular_component	ser	1
+12575750	cellular_component	host cell	1
+12575750	cellular_component	membrane	1
+12575750	chemical	acid	5
+12575750	chemical	ser	4
+12575750	chemical	protein	2
+12575750	chemical	beta	2
+12575750	chemical	proteins	2
+12575750	chemical	intergenic region	1
+12575750	chemical	alpha	1
+12575750	chemical	gamma	1
+12575750	chemical	antimicrobial	1
+12575750	chemical	peptide a	1
+12575750	disease	CIAT	1
+12575750	gene/protein	map	12
+12575750	gene/protein	ser	3
+12575750	gene/protein	virulence protein	2
+12575750	gene/protein	peptide	2
+12575750	gene/protein	gamma	1
+12575750	organism	Rhizobium tropici	2
+12575750	organism	Phaseolus vulgaris	2
+12575750	organism	CIAT899	1
+12575750	organism	gamma Proteobacteria	1
+12575750	sequence	gene	4
+12575750	sequence	operon	3
+12575750	sequence	motif	2
+12575750	sequence	mutagenesis	1
+12575750	sequence	insertion	1
+12575750	sequence	sequence	1
+12575750	sequence	protein	1
+12575750	sequence	ortholog	1
+12575750	sequence	substitution	1
+12575750	sequence	ser	1
+12575750	sequence	promoter	1
+12575750	sequence	intergenic region	1
+12575750	sequence	upstream	1
+12575750	sequence	peptide	1
+12575750	sequence	deletion	1
+12575750	cell_line	tn5	1
+12575750	organ/tissue	nodule	2
+12575750	organ/tissue	membrane	2

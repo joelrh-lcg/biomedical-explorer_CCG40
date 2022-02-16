@@ -1,0 +1,17 @@
+17597531	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+17597531	gene/protein	extracellular adherence protein	1
+17597531	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+17597531	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+17597531	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+17597531	gene/protein	methionine aminopeptidase	1
+17597531	organism	Danio rerio	7
+17597531	organism	Zebrafish	7
+17597531	organism	Humans	2
+17597531	organism	Vertebrates	1
+17597531	sequence	genome	5
+17597531	sequence	region	2
+17597531	sequence	syntenic	1
+17597531	sequence	gene	1
+17597531	sequence	engineered_region	1
+17597531	sequence	assembly	1
+17597531	organ/tissue	multicellular organism	1

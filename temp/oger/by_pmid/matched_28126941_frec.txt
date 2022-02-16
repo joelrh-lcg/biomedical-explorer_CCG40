@@ -1,0 +1,7 @@
+28126941	organism	Rhizobium tibeticum	2
+28126941	organism	Medicago sativa	2
+28126941	organism	Trigonella	1
+28126941	organism	Phaseolus vulgari	1
+28126941	organism	ccbau85039	1
+28126941	sequence	sequence	1
+28126941	organ/tissue	nodule	2

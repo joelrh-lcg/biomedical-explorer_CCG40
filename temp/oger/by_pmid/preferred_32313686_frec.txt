@@ -1,0 +1,5 @@
+32313686	chemical	TEMPO	3
+32313686	chemical	base	1
+32313686	chemical	DNA, Ancient	1
+32313686	sequence	base	1
+32313686	sequence	signature	1

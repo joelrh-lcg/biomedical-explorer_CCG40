@@ -1,0 +1,37 @@
+8655489	biological_process	regulation	1
+8655489	biological_process	symbiosis	1
+8655489	cellular_component	protein	1
+8655489	chemical	dimethyl sulfate	3
+8655489	chemical	oxygen	2
+8655489	chemical	integration host factor	2
+8655489	chemical	protein	2
+8655489	chemical	nitrogenase reductase	1
+8655489	chemical	ce3	1
+8655489	chemical	nitrogenase	1
+8655489	chemical	nucleotide	1
+8655489	chemical	element	1
+8655489	gene/protein	nitrogenase reductase	120
+8655489	gene/protein	tgt	10
+8655489	gene/protein	bean	3
+8655489	gene/protein	nifh	2
+8655489	gene/protein	lacz	2
+8655489	gene/protein	protein	1
+8655489	molecular_function	binding	3
+8655489	organism	Rhizobium etli	2
+8655489	organism	Escherichia coli	2
+8655489	organism	e coli	2
+8655489	sequence	gene	8
+8655489	sequence	upstream	7
+8655489	sequence	binding site	6
+8655489	sequence	sequence	2
+8655489	sequence	promoter	2
+8655489	sequence	operon	1
+8655489	sequence	homolog	1
+8655489	sequence	construct	1
+8655489	sequence	fusion	1
+8655489	sequence	protein	1
+8655489	cell_line	ce3	1
+8655489	cell_line	bean	1
+8655489	organ/tissue	nodule	2
+8655489	organ/tissue	element	1
+8655489	clinical_drug	oxygen	2

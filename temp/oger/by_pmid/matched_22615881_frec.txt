@@ -1,0 +1,35 @@
+22615881	biological_process	gene silencing by rna	1
+22615881	biological_process	rna interference	1
+22615881	biological_process	rnai	1
+22615881	cellular_component	protein	5
+22615881	cellular_component	cytoskeleton	2
+22615881	chemical	atp	8
+22615881	chemical	toxin	6
+22615881	chemical	proteins	6
+22615881	chemical	protein	6
+22615881	chemical	beta	4
+22615881	chemical	heat shock protein	2
+22615881	chemical	actin	2
+22615881	chemical	buffer	1
+22615881	chemical	base	1
+22615881	chemical	hsp	1
+22615881	gene/protein	atp synthase subunit beta	1412
+22615881	gene/protein	actin	122
+22615881	gene/protein	cry	12
+22615881	gene/protein	protein	4
+22615881	gene/protein	spot	2
+22615881	gene/protein	rna	2
+22615881	gene/protein	heat shock protein hsp90	1
+22615881	molecular_function	atp synthase	4
+22615881	organism	larva	4
+22615881	organism	bacillus thuringiensis	2
+22615881	organism	bacterium be	1
+22615881	organism	Aedes aegypti	1
+22615881	organism	spot	1
+22615881	organism	mosquito	1
+22615881	sequence	protein	5
+22615881	sequence	gene	2
+22615881	sequence	base	1
+22615881	organ/tissue	larva	12
+22615881	organ/tissue	spot	1
+22615881	clinical_drug	atp	2

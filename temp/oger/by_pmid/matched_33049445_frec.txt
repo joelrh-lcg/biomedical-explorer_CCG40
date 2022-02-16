@@ -1,0 +1,31 @@
+33049445	biological_process	defense response	1
+33049445	chemical	polyamine	6
+33049445	chemical	putrescine	4
+33049445	chemical	reactive oxygen species	3
+33049445	chemical	camalexin	3
+33049445	chemical	methyl jasmonate	3
+33049445	chemical	adc	2
+33049445	chemical	pathway	1
+33049445	disease	infection	6
+33049445	disease	fungal infection	4
+33049445	gene/protein	pdf	407
+33049445	gene/protein	adc	169
+33049445	gene/protein	pr1	18
+33049445	gene/protein	pad3	5
+33049445	gene/protein	lox3	2
+33049445	gene/protein	zat12	1
+33049445	gene/protein	wrky54	1
+33049445	gene/protein	wrky70	1
+33049445	organism	Pseudomonas syringae	6
+33049445	organism	Botrytis cinerea	5
+33049445	organism	Arabidopsis thaliana	2
+33049445	organism	Pseudomonas	1
+33049445	organism	syringa	1
+33049445	sequence	gene	6
+33049445	cell_line	pr1	4
+33049445	cell_line	lox	1
+33049445	cell_line	pdf	1
+33049445	organ/tissue	pad	1
+33049445	clinical_drug	Botrytis cinerea	5
+33049445	clinical_drug	oxygen	1
+33049445	molecular_process	reduction	1

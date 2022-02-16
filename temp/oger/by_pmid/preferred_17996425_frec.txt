@@ -1,0 +1,4 @@
+17996425	organism	synthetic construct	1
+17996425	sequence	genome	2
+17996425	sequence	region	1
+17996425	organ/tissue	multicellular organism	2

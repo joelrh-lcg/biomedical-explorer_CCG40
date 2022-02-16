@@ -1,0 +1,36 @@
+23525792	biological_process	Nitrogen fixation	1
+23525792	chemical	uric acid	12
+23525792	chemical	nitrogen	6
+23525792	chemical	carbon	4
+23525792	chemical	Nitrogen	3
+23525792	chemical	acetylene	3
+23525792	chemical	turpentine	2
+23525792	chemical	male	1
+23525792	gene/protein	bark	6
+23525792	gene/protein	dvl3	3
+23525792	gene/protein	cdf	2
+23525792	gene/protein	nifH	1
+23525792	gene/protein	egg	1
+23525792	organism	bacterium	28
+23525792	organism	beetle	2
+23525792	organism	Raoultella terrigena	2
+23525792	organism	rahnella aquatilis	2
+23525792	organism	Dendroctonus rhizophagus	1
+23525792	organism	Pseudomonas	1
+23525792	organism	serratia	1
+23525792	organism	larva	1
+23525792	organism	red turpentine beetle	1
+23525792	organism	Dendroctonus valens	1
+23525792	sequence	gene	1
+23525792	sequence	sequence	1
+23525792	organ/tissue	gut	6
+23525792	organ/tissue	larva	3
+23525792	organ/tissue	egg	2
+23525792	organ/tissue	sole	1
+23525792	organ/tissue	adult	1
+23525792	organ/tissue	male	1
+23525792	organ/tissue	female	1
+23525792	clinical_drug	nitrogen	3
+23525792	clinical_drug	Nitrogen	1
+23525792	clinical_drug	turpentine	1
+23525792	molecular_process	acetylene reduction	1

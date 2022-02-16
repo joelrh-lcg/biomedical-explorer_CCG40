@@ -1,0 +1,5 @@
+27289097	chemical	mitochondrial proteins	1
+27289097	organism	bacterium	7
+27289097	organism	eukaryote	2
+27289097	organism	proteobacteria	1
+27289097	sequence	late origin	1

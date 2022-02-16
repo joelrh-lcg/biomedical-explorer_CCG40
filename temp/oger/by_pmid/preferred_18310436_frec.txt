@@ -1,0 +1,38 @@
+18310436	chemical	polyphenol	4
+18310436	chemical	Catalase	4
+18310436	chemical	hydrogen peroxide	1
+18310436	gene/protein	Catalase	152
+18310436	gene/protein	nucleoporin Nup43	4
+18310436	gene/protein	peroxidase 42 (Arabidopsis thaliana)	4
+18310436	gene/protein	Capsid protein	4
+18310436	gene/protein	Glutamine synthetase	4
+18310436	gene/protein	Movement protein TGB1	4
+18310436	gene/protein	Nucleoporin Nup43	4
+18310436	gene/protein	Transcription initiation factor TFIID subunit 9	4
+18310436	gene/protein	tRNA-aminoacylation cofactor ARC1	4
+18310436	gene/protein	26S proteasome non-ATPase regulatory subunit 6	3
+18310436	gene/protein	Protein BEAN1	2
+18310436	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	2
+18310436	gene/protein	2-imino-3-(indol-3-yl)propanoate dimerase	2
+18310436	gene/protein	catalase	2
+18310436	gene/protein	Dichlorochromopyrrolate synthase	2
+18310436	gene/protein	protein BEAN	1
+18310436	gene/protein	Proteasomal ubiquitin receptor ADRM1 homolog	1
+18310436	gene/protein	catalase-peroxidase	1
+18310436	gene/protein	catalase-peroxidase (Escherichia coli K-12)	1
+18310436	organism	unidentified plasmid	4
+18310436	organism	bacterium IFAM-3211	3
+18310436	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+18310436	organism	bacterium IFAM-3215	3
+18310436	organism	bacterium IFAM-2074	3
+18310436	organism	bacterium IFAM-3359	3
+18310436	organism	bacterium	3
+18310436	organism	bacterium IFAM-1493	3
+18310436	organism	Rhizobium etli	3
+18310436	organism	Rhizobium	1
+18310436	sequence	plasmid	4
+18310436	sequence	wild_type	1
+18310436	sequence	gene	1
+18310436	cell_line	R1192	1
+18310436	organ/tissue	coat of hair	1
+18310436	molecular_process	oxidation	1

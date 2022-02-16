@@ -1,0 +1,11 @@
+33457733	biological_process	growth pattern	2
+33457733	cellular_component	chloroplast	1
+33457733	chemical	trna	2
+33457733	chemical	rrna	1
+33457733	molecular_function	trna	1
+33457733	organism	cactus	2
+33457733	sequence	gene	2
+33457733	sequence	genome	2
+33457733	sequence	sequence	1
+33457733	sequence	rrna gene	1
+33457733	sequence	trna gene	1

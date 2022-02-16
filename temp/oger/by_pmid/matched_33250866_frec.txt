@@ -1,0 +1,22 @@
+33250866	biological_process	regulation	2
+33250866	biological_process	biological process	1
+33250866	biological_process	nitrogen fixation	1
+33250866	biological_process	symbiosis	1
+33250866	chemical	nitrogen	2
+33250866	chemical	4 be	1
+33250866	gene/protein	dyad	1
+33250866	molecular_function	binding	1
+33250866	organism	Rhizobiales bacterium	1
+33250866	sequence	motif	18
+33250866	sequence	gene	5
+33250866	sequence	sequence	3
+33250866	sequence	upstream	2
+33250866	sequence	regulatory region	2
+33250866	sequence	binding site	2
+33250866	sequence	orthologous	1
+33250866	sequence	promoter	1
+33250866	sequence	genome	1
+33250866	sequence	construct	1
+33250866	cell_line	1e4	1
+33250866	organ/tissue	matrix	4
+33250866	clinical_drug	nitrogen	1

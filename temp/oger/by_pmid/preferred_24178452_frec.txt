@@ -1,0 +1,16 @@
+24178452	biological_process	response to hormone	1
+24178452	cellular_component	internode region of axon	1
+24178452	chemical	perezone	8
+24178452	chemical	quinone	3
+24178452	chemical	sulfoxaflor	3
+24178452	chemical	sesquiterpene	1
+24178452	chemical	1,4-benzoquinone	1
+24178452	chemical	OSU-03012	1
+24178452	chemical	growth regulator	1
+24178452	gene/protein	Protochlorophyllide reductase, chloroplastic	5
+24178452	gene/protein	Light-dependent protochlorophyllide reductase	2
+24178452	gene/protein	Protochlorophyllide reductase	1
+24178452	molecular_function	catalytic activity	1
+24178452	organism	Agrobacterium	1
+24178452	organ/tissue	organismal segment	1
+24178452	organ/tissue	tissue	1

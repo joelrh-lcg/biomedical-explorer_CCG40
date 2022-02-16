@@ -1,0 +1,21 @@
+26058415	biological_process	cofactor metabolism	1
+26058415	biological_process	degradation	1
+26058415	cellular_component	core	1
+26058415	chemical	carbohydrate	3
+26058415	chemical	pathway	2
+26058415	chemical	amino acid	2
+26058415	chemical	16s rrna	1
+26058415	chemical	vitamin	1
+26058415	chemical	cofactor	1
+26058415	organism	bacterium	7
+26058415	organism	scorpion	6
+26058415	organism	Vaejovis smithi	1
+26058415	organism	Centruroides limpidus	1
+26058415	organism	metagenome	1
+26058415	organism	arachnid	1
+26058415	sequence	16s rrna	1
+26058415	sequence	rrna gene	1
+26058415	sequence	sequence	1
+26058415	sequence	amino acid	1
+26058415	sequence	match	1
+26058415	organ/tissue	gut	15

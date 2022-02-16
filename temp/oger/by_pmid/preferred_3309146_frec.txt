@@ -1,0 +1,32 @@
+3309146	chemical	Lysine	4
+3309146	chemical	glutamine-pyruvate aminotransferase	3
+3309146	chemical	glyoxylic acid	3
+3309146	chemical	Pyruvic Acid	2
+3309146	chemical	lysine	2
+3309146	chemical	L-lysine	2
+3309146	chemical	Glycine	2
+3309146	chemical	2-oxo monocarboxylic acid	1
+3309146	chemical	pyruvate	1
+3309146	chemical	glyoxylate	1
+3309146	chemical	nitrogen atom	1
+3309146	chemical	nitrogen(.)	1
+3309146	chemical	glycine	1
+3309146	chemical	glycine zwitterion	1
+3309146	chemical	glycine residue	1
+3309146	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+3309146	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+3309146	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+3309146	molecular_function	L-glutamine:pyruvate aminotransferase activity	2
+3309146	organism	Saccharomyces cerevisiae	2
+3309146	organism	Yeasts	1
+3309146	sequence	glutamine	3
+3309146	sequence	lysine	2
+3309146	sequence	glycine	1
+3309146	clinical_drug	Glutamine	3
+3309146	clinical_drug	Lysine	2
+3309146	clinical_drug	saccharomyces cerevisiae allergenic extract	1
+3309146	clinical_drug	Saccharomyces cerevisiae	1
+3309146	clinical_drug	Yeast, Unspecified	1
+3309146	clinical_drug	Pyruvate	1
+3309146	clinical_drug	Nitrogen	1
+3309146	clinical_drug	Glycine	1

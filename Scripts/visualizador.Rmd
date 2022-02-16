@@ -32,14 +32,14 @@ colnames(data_df) <- c("PMID", "Title", "Date", "Author", "Journal")
 #classes <- read.table("Data/PMIDs_class.txt", sep = ",", header = T, quote = "")
 #colnames(classes) <- c("PMID2", "ri", "promoter", "tf", "gene", "tu")
 #classes <- classes[classes$PMID2 %in% data_df$PMID,]
-data_df <- cbind.data.frame(data_df, classes)
+#data_df <- cbind.data.frame(data_df, classes)
 data_df$Title <- stringr::str_wrap(factor(data_df$Title, levels = unique(data_df$Title)), 30)
 data_df$Author <- stringr::str_wrap(factor(data_df$Author, levels = unique(data_df$Author)), 30)
-data_df$ri <- stringr::str_wrap(factor(data_df$ri, levels = unique(data_df$ri)), 30)
-data_df$promoter <- stringr::str_wrap(factor(data_df$promoter, levels = unique(data_df$promoter)), 30)
-data_df$tf <- stringr::str_wrap(factor(data_df$tf, levels = unique(data_df$tf)), 30)
-data_df$gene <- stringr::str_wrap(factor(data_df$gene, levels = unique(data_df$gene)), 30)
-data_df$tu <- stringr::str_wrap(factor(data_df$tu, levels = unique(data_df$tu)), 30)
+#data_df$ri <- stringr::str_wrap(factor(data_df$ri, levels = unique(data_df$ri)), 30)
+#data_df$promoter <- stringr::str_wrap(factor(data_df$promoter, levels = unique(data_df$promoter)), 30)
+#data_df$tf <- stringr::str_wrap(factor(data_df$tf, levels = unique(data_df$tf)), 30)
+#data_df$gene <- stringr::str_wrap(factor(data_df$gene, levels = unique(data_df$gene)), 30)
+#data_df$tu <- stringr::str_wrap(factor(data_df$tu, levels = unique(data_df$tu)), 30)
 #cambiar archivo
 dataframe <- read.table("results/clustering/k60_SVD_perp30.txt", header = T, sep = "\t")
 enrichment <- read.table("results/LDA/LDA_k60_SVD_perp30.txt", sep = "\t")
@@ -91,7 +91,7 @@ LDA <- function(clus){
 
 ```{r, echo=false}
 # WORD CLOUD FUNCTION 
-WordsToRemove <- Word_freq %>% dplyr::select(Var1) %>% slice(1:20)
+WordsToRemove <- Word_freq %>% dplyr::select(Var1) %>% dplyr::slice(1:20)
 WordCloudFun <- function(clus){
   abs_filter <- filter(abstracts, Cluster == clus)
   Corpus_data <- Corpus(VectorSource(abs_filter[,2])) # first change our data to a Corpus
@@ -114,11 +114,11 @@ palette <- colorRampPalette(brewer.pal(8, "Set2"))(size)
 ```
 
 ```{r}
-tfid1<-read.table("Results/Entities/cluster/matched_PCA_perp30_10_tfidf.txt", header = F, sep = '\t', quote = '', comment.char = "")
+tfid1<-read.table("temp/oger/by_cluster/matched_k60_SVD_perp30_10_tfidf.txt", header = F, sep = '\t', quote = '', comment.char = "")
 colnames(tfid1)<-c("clusters", "entity","word","frec","cluster_app","tfidf")
 tfid1$term<-"m_term"
 
-tfid2<-read.table("Results/Entities/cluster/prefered_PCA_perp30_10_tfidf.txt", header = F, sep = '\t', quote = '', comment.char = "")
+tfid2<-read.table("temp/oger/by_cluster/preferred_k60_SVD_perp30_10_tfidf.txt", header = F, sep = '\t', quote = '', comment.char = "")
 colnames(tfid2)<-c("clusters", "entity","word","frec","cluster_app","tfidf")
 tfid2$term<-"p_term"
 
@@ -140,7 +140,7 @@ matched_pmids <- data.frame(PMID=as.integer(),
                  stringsAsFactors=FALSE) 
 
 
-files <- list.files(path="Results/Entities/pmid/", pattern="matched_", full.names=TRUE, recursive=FALSE)
+files <- list.files(path="temp/oger/by_pmid", pattern="matched_", full.names=TRUE, recursive=FALSE)
 for(file in 1:length(files)){
   t <- read.table(files[[file]], header = F, sep = '\t', quote = '')
     matched_pmids <- rbind(matched_pmids,t)
@@ -153,10 +153,11 @@ prefered_pmids <- data.frame(PMID=as.integer(),
                  stringsAsFactors=FALSE) 
 colnames(prefered_pmids) <- c("PMID", "Entity","Term", "Frecuence")
 
-files <- list.files(path="Results/Entities/pmid/", pattern="prefered_", full.names=TRUE, recursive=FALSE)
+files <- list.files(path="temp/oger/by_pmid", pattern="preferred_", full.names=TRUE, recursive=FALSE)
 for(file in 1:length(files)){
-  t <- read.table(files[[file]], header = F, sep = '\t', quote = '')
-    prefered_pmids <- rbind(prefered_pmids,t)
+  #print(files[[file]])
+  t <- try(read.table(files[[file]], header = F, sep = '\t', quote = '', comment.char = "", blank.lines.skip = T))
+ if(!inherits(t, 'try-error')) prefered_pmids <- rbind(prefered_pmids,t)
 }
 
 colnames(matched_pmids) <- c("PMID", "Entity","Term", "Frecuence")
@@ -369,11 +370,12 @@ s <- shinyServer(function(input, output) {
         Shiny.onInputChange('matrix_click', data);
         }"))))
     })
+  
   observeEvent(input$matrix_click, {
     
     xvals <- dataframe$dim1 %in% input$matrix_click$x
     yvals <- dataframe$dim2 %in% input$matrix_click$y
-    clst <- dataframe[xvals & yvals, 14] #corresponde al cluster
+    clst <- dataframe[xvals & yvals, 8] #corresponde al cluster
     art <- dataframe[xvals & yvals, 1] #corresponde al PMID
     aut <- dataframe[xvals & yvals, 4] #corresponde al autores
     date <- dataframe[xvals & yvals, 3] #corresponde a la fecha
@@ -395,7 +397,7 @@ s <- shinyServer(function(input, output) {
     caption.placement = "top")
    
   output$cluster_selected <- renderText({  
-    paste("Selected cluster:",clst)
+    paste("Selected cluster:", input$matrix_click)
   })
   output$mc_title <- renderText({  
     paste("Main properties")
@@ -415,7 +417,7 @@ s <- shinyServer(function(input, output) {
         WordCloudFun(clst)
       })
     output$pmid_selected <- renderText({  
-    paste("Selected PMID:",art)
+      paste("Selected PMID:",art)
   }) 
       output$mp_title <- renderText({  
     ttl
@@ -654,7 +656,7 @@ s <- shinyServer(function(input, output) {
       })
       
        output$tablePMID <- renderTable({
-          n_pmid<-read.table(paste0("Results/Entities/pmid/",art,'_frec.txt'), header = F, sep = '\t', quote = '')
+          n_pmid<-read.table(paste0("temp/oger/by_pmid/",art,'_frec.txt'), header = F, sep = '\t', quote = '')
           colnames(n_pmid)<-c("PMID", "Entity","Word", "Frecuence")
           n_pmid[n_pmid$Entity == input$entities_a,]
           }) #, caption = "Terms by PMID", caption.placement = "top")

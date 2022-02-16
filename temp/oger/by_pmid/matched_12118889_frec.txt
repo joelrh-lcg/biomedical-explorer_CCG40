@@ -1,0 +1,34 @@
+12118889	biological_process	transport	2
+12118889	biological_process	synthesis	1
+12118889	biological_process	ureide synthesis	1
+12118889	chemical	ce3	5
+12118889	chemical	glucose	5
+12118889	chemical	nitrogen	4
+12118889	chemical	ureide	4
+12118889	chemical	hemoglobin	3
+12118889	chemical	carbon	2
+12118889	chemical	amide	2
+12118889	chemical	amino acid	2
+12118889	chemical	glutamate synthase	2
+12118889	chemical	aspartate aminotransferase	1
+12118889	chemical	sucrose synthase	1
+12118889	chemical	dehydrogenase	1
+12118889	chemical	phosphoenolpyruvate carboxylase	1
+12118889	gene/protein	phosphoenolpyruvate carboxylase	250
+12118889	gene/protein	aspartate aminotransferase	26
+12118889	gene/protein	sucrose synthase	15
+12118889	gene/protein	hemoglobin	4
+12118889	gene/protein	bean	3
+12118889	gene/protein	dehydrogenase	1
+12118889	organism	Rhizobium etli	2
+12118889	organism	Vitreoscilla sp	1
+12118889	sequence	amino acid	1
+12118889	sequence	transcript	1
+12118889	cell_line	ce3	5
+12118889	cell_line	bean	1
+12118889	organ/tissue	nodule	12
+12118889	clinical_drug	nitrogen	2
+12118889	clinical_drug	glutamate	2
+12118889	clinical_drug	aspartate	1
+12118889	clinical_drug	sucrose	1
+12118889	clinical_drug	glucose	1

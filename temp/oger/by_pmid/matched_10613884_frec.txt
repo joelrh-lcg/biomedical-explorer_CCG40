@@ -1,0 +1,11 @@
+10613884	biological_process	transcription	1
+10613884	biological_process	formation	1
+10613884	chemical	rna polymerase	2
+10613884	gene/protein	prm	21
+10613884	gene/protein	rna	4
+10613884	organism	bacteriophage lambda	2
+10613884	organism	Escherichia coli	2
+10613884	sequence	promoter	6
+10613884	sequence	deletion	2
+10613884	sequence	bacteriophage	1
+10613884	organ/tissue	lambda	1

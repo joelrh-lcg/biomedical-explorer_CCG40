@@ -1,0 +1,32 @@
+23591845	biological_process	degradation	2
+23591845	biological_process	transcription	1
+23591845	chemical	phosphate	8
+23591845	chemical	phosphorus	5
+23591845	chemical	pathway	2
+23591845	chemical	ubiquitin	2
+23591845	chemical	proteins	2
+23591845	chemical	conjugase	1
+23591845	chemical	5 utr	1
+23591845	chemical	base	1
+23591845	disease	starvation	6
+23591845	gene/protein	dor	30
+23591845	gene/protein	ubiquitin	11
+23591845	gene/protein	conjugase	9
+23591845	gene/protein	bean	6
+23591845	gene/protein	crop	1
+23591845	molecular_function	binding	3
+23591845	molecular_function	ubiquitin	1
+23591845	organism	Phaseolus vulgaris	2
+23591845	organism	legume	1
+23591845	sequence	genotype	4
+23591845	sequence	binding site	4
+23591845	sequence	deficiency	3
+23591845	sequence	binding	2
+23591845	sequence	target gene	1
+23591845	sequence	5 utr	1
+23591845	sequence	utr region	1
+23591845	sequence	sequence	1
+23591845	sequence	base	1
+23591845	sequence	score	1
+23591845	cell_line	bean	2
+23591845	organ/tissue	crop	1

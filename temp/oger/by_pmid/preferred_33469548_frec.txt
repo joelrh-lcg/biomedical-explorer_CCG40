@@ -1,0 +1,30 @@
+33469548	biological_process	biosynthetic process	2
+33469548	biological_process	innate immune response	1
+33469548	cellular_component	membrane	1
+33469548	chemical	phosphatidylethanolamine	3
+33469548	chemical	ornithine containing aminolipid	2
+33469548	chemical	Reactive Oxygen Species	2
+33469548	chemical	lipid	1
+33469548	chemical	(S)-1,2-distearoylphosphatidylethanolaminium	1
+33469548	chemical	reactive oxygen species	1
+33469548	disease	Infections	2
+33469548	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+33469548	organism	Zea mays	2
+33469548	organism	ornithine containing aminolipid	1
+33469548	organism	bacterium IFAM-3211	1
+33469548	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+33469548	organism	bacterium IFAM-3215	1
+33469548	organism	bacterium IFAM-2074	1
+33469548	organism	bacterium IFAM-3359	1
+33469548	organism	bacterium	1
+33469548	organism	bacterium IFAM-1493	1
+33469548	organism	Larva	1
+33469548	organism	Eukaryota	1
+33469548	organ/tissue	membrane organ	1
+33469548	organ/tissue	membranous layer	1
+33469548	organ/tissue	larval stage	1
+33469548	organ/tissue	larva	1
+33469548	organ/tissue	amphibian larval stage	1
+33469548	clinical_drug	Ornithine	1
+33469548	clinical_drug	Oxygen	1
+33469548	molecular_process	hydroxylation	1

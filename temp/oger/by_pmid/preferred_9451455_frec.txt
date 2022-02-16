@@ -1,0 +1,75 @@
+9451455	biological_process	translation	7
+9451455	biological_process	biosynthetic process	1
+9451455	biological_process	behavior	1
+9451455	cellular_component	obsolete protein	5
+9451455	cellular_component	ribosome	3
+9451455	cellular_component	cytosolic small ribosomal subunit	1
+9451455	chemical	protein	5
+9451455	chemical	(protein)	5
+9451455	chemical	Codon	2
+9451455	chemical	Methionine	2
+9451455	chemical	protein polypeptide chain	1
+9451455	chemical	nucleotide	1
+9451455	chemical	nucleobase	1
+9451455	chemical	Codon, Terminator	1
+9451455	chemical	RNA, Transfer, Met	1
+9451455	chemical	L-methionine	1
+9451455	chemical	methionine zwitterion	1
+9451455	chemical	methionine	1
+9451455	chemical	RNA, Transfer	1
+9451455	chemical	transfer RNA	1
+9451455	disease	Starvation	2
+9451455	gene/protein	Peptidyl-tRNA hydrolase	3755
+9451455	gene/protein	Parathyroid hormone	45
+9451455	gene/protein	Probable peptidyl-tRNA hydrolase	15
+9451455	gene/protein	Peptidyl-tRNA hydrolase ArfB	10
+9451455	gene/protein	UbiA prenyltransferase domain-containing protein 1 (zebrafish)	9
+9451455	gene/protein	peptidyl-tRNA hydrolase Pth	5
+9451455	gene/protein	probable peptidyl-tRNA hydrolase PTRH1	5
+9451455	gene/protein	peptidyl-tRNA hydrolase (Escherichia coli K-12)	5
+9451455	gene/protein	parathyroid hormone (human)	5
+9451455	gene/protein	peptidyl-tRNA hydrolase (Clostridium botulinum A str. Hall)	5
+9451455	gene/protein	peptidyl-tRNA hydrolase (Brucella suis ATCC 23445)	5
+9451455	gene/protein	parathyroid hormone (rat)	5
+9451455	gene/protein	peptidyl-tRNA hydrolase (Brucella ovis ATCC 25840)	5
+9451455	gene/protein	peptidyl-tRNA hydrolase (Brucella abortus 2308)	5
+9451455	gene/protein	peptidyl-tRNA hydrolase (Brucella abortus bv. 1 str. 9-941)	5
+9451455	gene/protein	parathyroid hormone	5
+9451455	gene/protein	peptidyl-tRNA hydrolase (Brucella suis 1330)	5
+9451455	gene/protein	peptidyl-tRNA hydrolase ArfB	5
+9451455	gene/protein	parathyroid hormone (chicken)	5
+9451455	gene/protein	peptidyl-tRNA hydrolase (Brucella canis ATCC 23365)	5
+9451455	gene/protein	peptidyl-tRNA hydrolase (Brucella melitensis ATCC 23457)	5
+9451455	gene/protein	peptidyl-tRNA hydrolase (Staphylococcus aureus subsp. aureus NCTC 8325)	5
+9451455	gene/protein	Putative peptidyl-tRNA hydrolase	5
+9451455	gene/protein	protein	5
+9451455	gene/protein	ribonuclease I (Escherichia coli K-12)	2
+9451455	gene/protein	ribonuclease I	2
+9451455	gene/protein	proteolytic cleavage product	1
+9451455	gene/protein	amino acid chain	1
+9451455	molecular_function	triplet codon-amino acid adaptor activity	2
+9451455	organism	Escherichia coli	4
+9451455	organism	Bacteriophage lambda	1
+9451455	organism	Escherichia virus Lambda	1
+9451455	organism	Bacteriophages	1
+9451455	organism	unidentified plasmid	1
+9451455	sequence	polypeptide	6
+9451455	sequence	region	4
+9451455	sequence	phage_sequence	2
+9451455	sequence	codon	2
+9451455	sequence	transcript	2
+9451455	sequence	tRNA	2
+9451455	sequence	mature_protein_region	1
+9451455	sequence	sequence_variant_obs	1
+9451455	sequence	genome	1
+9451455	sequence	plasmid	1
+9451455	sequence	engineered_region	1
+9451455	sequence	CDS	1
+9451455	sequence	stop_codon	1
+9451455	sequence	INR_motif	1
+9451455	sequence	methionine	1
+9451455	organ/tissue	melanophore stripe	9
+9451455	organ/tissue	posterior nucleus of thalamus	5
+9451455	organ/tissue	anatomical point connecting sagittal and lambdoidal sutures	2
+9451455	organ/tissue	organismal segment	1
+9451455	clinical_drug	Methionine	1

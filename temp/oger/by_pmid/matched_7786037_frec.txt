@@ -1,0 +1,18 @@
+7786037	biological_process	formation	2
+7786037	biological_process	protein oxidation	1
+7786037	biological_process	excretion	1
+7786037	biological_process	aerial hyphal growth	1
+7786037	cellular_component	protein	1
+7786037	chemical	nadph	12
+7786037	chemical	glutathione	12
+7786037	chemical	glutathione disulfide	4
+7786037	chemical	protein	2
+7786037	gene/protein	protein	1
+7786037	organism	Neurospora crassa	2
+7786037	organism	conidia	2
+7786037	sequence	protein	1
+7786037	sequence	disulfide	1
+7786037	sequence	transition	1
+7786037	organ/tissue	excretion	1
+7786037	clinical_drug	glutathione	3
+7786037	molecular_process	oxidation	4

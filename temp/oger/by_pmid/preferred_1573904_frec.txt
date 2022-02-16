@@ -1,0 +1,40 @@
+1573904	biological_process	biosynthetic process	1
+1573904	cellular_component	obsolete protein	1
+1573904	cellular_component	organelle	1
+1573904	chemical	protein	3
+1573904	chemical	(protein)	1
+1573904	chemical	Lipid Bilayers	1
+1573904	chemical	Aspartate Aminotransferase, Mitochondrial	1
+1573904	chemical	solution	1
+1573904	gene/protein	Glucose-6-phosphate isomerase	1148
+1573904	gene/protein	Aspartate aminotransferase	22
+1573904	gene/protein	Glucose-6-phosphate isomerase, cytosolic 1	14
+1573904	gene/protein	Probable glucose-6-phosphate isomerase	14
+1573904	gene/protein	Glucose-6-phosphate isomerase, cytosolic	12
+1573904	gene/protein	3-hexulose-6-phosphate isomerase	8
+1573904	gene/protein	Glucose-6-phosphate isomerase, cytosolic 2	4
+1573904	gene/protein	Glucose-6-phosphate isomerase, glycosomal	2
+1573904	gene/protein	Glucose-6-phosphate isomerase, cytosolic 2A	2
+1573904	gene/protein	glucose-6-phosphate isomerase	2
+1573904	gene/protein	Glucose-6-phosphate isomerase, cytosolic 1A	2
+1573904	gene/protein	Glucose-6-phosphate isomerase 1, chloroplastic	2
+1573904	gene/protein	Glucose-6-phosphate isomerase, cytosolic 2B	2
+1573904	gene/protein	protein	1
+1573904	gene/protein	GTPase Der (Clostridium botulinum A str. Hall)	1
+1573904	gene/protein	GTP-binding protein engA	1
+1573904	gene/protein	epidermal growth factor receptor (fruit fly)	1
+1573904	gene/protein	D-erythrulose reductase (chicken)	1
+1573904	gene/protein	GTPase Der (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+1573904	gene/protein	GTPase Der (Escherichia coli K-12)	1
+1573904	gene/protein	Tyrosine aminotransferase	1
+1573904	gene/protein	aspartate aminotransferase	1
+1573904	gene/protein	aspartate aminotransferase, cytoplasmic	1
+1573904	gene/protein	aspartate aminotransferase, mitochondrial	1
+1573904	gene/protein	glutamate [NMDA] receptor subunit 1 (fruit fly)	1
+1573904	gene/protein	Nitrogen metabolite repression protein nmr	1
+1573904	sequence	enzymatic	3
+1573904	sequence	polypeptide	1
+1573904	sequence	transition	1
+1573904	cell_line	PPM-Phi	2
+1573904	organ/tissue	matrix compartment	1
+1573904	clinical_drug	Aspartate	1

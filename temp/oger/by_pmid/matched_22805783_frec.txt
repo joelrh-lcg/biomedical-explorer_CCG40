@@ -1,0 +1,13 @@
+22805783	biological_process	transcription	1
+22805783	biological_process	auxin synthesis	1
+22805783	chemical	auxin	3
+22805783	gene/protein	pcr	8
+22805783	gene/protein	impact	2
+22805783	gene/protein	crop	1
+22805783	organism	maize	8
+22805783	organism	Azospirillum	3
+22805783	organism	azospirillum	2
+22805783	organism	Pseudomonas	1
+22805783	sequence	gene	2
+22805783	organ/tissue	crop	1
+22805783	organ/tissue	Glomus	1

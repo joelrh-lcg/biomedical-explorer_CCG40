@@ -1,0 +1,14 @@
+30386264	chemical	mesoglycan	2
+30386264	disease	Mental Disorders	3
+30386264	disease	Disease	2
+30386264	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	3
+30386264	organ/tissue	adult cerebral ganglion	1
+30386264	organ/tissue	brain	1
+30386264	organ/tissue	tetrapod frontal bone	1
+30386264	organ/tissue	temporal cortex	1
+30386264	organ/tissue	temporal lobe	1
+30386264	organ/tissue	hippocampal formation	1
+30386264	organ/tissue	Ammon's horn	1
+30386264	organ/tissue	archicortex	1
+30386264	organ/tissue	frontal lobe	1
+30386264	organ/tissue	frontal cortex	1

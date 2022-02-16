@@ -1,0 +1,28 @@
+18989455	biological_process	biosynthetic process	1
+18989455	cellular_component	obsolete protein	1
+18989455	chemical	Receptors, Odorant	1
+18989455	chemical	protein	1
+18989455	chemical	(protein)	1
+18989455	chemical	oligonucleotide	1
+18989455	gene/protein	Protochlorophyllide reductase, chloroplastic	5
+18989455	gene/protein	Light-dependent protochlorophyllide reductase	2
+18989455	gene/protein	protein	1
+18989455	gene/protein	probable N-acetyltransferase san (fruit fly)	1
+18989455	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+18989455	gene/protein	Protochlorophyllide reductase	1
+18989455	organism	Cucumber necrosis virus	11
+18989455	organism	Humans	6
+18989455	organism	Pan troglodytes	4
+18989455	sequence	copy_number_variation	11
+18989455	sequence	gene	6
+18989455	sequence	pseudogene	5
+18989455	sequence	deletion	4
+18989455	sequence	allele	3
+18989455	sequence	polypeptide	1
+18989455	sequence	natural_variant_site	1
+18989455	sequence	oligo	1
+18989455	sequence	genomic_DNA	1
+18989455	sequence	paralogous_region	1
+18989455	sequence	orthologous_region	1
+18989455	sequence	copy_number_gain	1
+18989455	sequence	reference_genome	1

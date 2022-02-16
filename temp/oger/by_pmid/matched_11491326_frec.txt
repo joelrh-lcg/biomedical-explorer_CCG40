@@ -1,0 +1,32 @@
+11491326	chemical	acetic acid	3
+11491326	chemical	coffee	2
+11491326	chemical	amino acid	2
+11491326	chemical	nitrogen	2
+11491326	chemical	DSM	2
+11491326	chemical	culture media	1
+11491326	chemical	amplify	1
+11491326	chemical	rdna	1
+11491326	chemical	16s rrna	1
+11491326	gene/protein	sad	28
+11491326	gene/protein	dor	20
+11491326	gene/protein	DOR	15
+11491326	gene/protein	nov	4
+11491326	organism	bacterium	7
+11491326	organism	Gluconacetobacter diazotrophicus	4
+11491326	organism	Acetobacteraceae	2
+11491326	organism	gluconacetobacter	2
+11491326	organism	Acetobacter diazotrophicus	2
+11491326	organism	Gluconacetobacter liquefaciens	2
+11491326	organism	Gluconacetobacter sacchari	2
+11491326	organism	Gluconacetobacter johannae	2
+11491326	organism	bacterium be	1
+11491326	organism	coffee Coffea arabica	1
+11491326	organism	atcc 700987	1
+11491326	organism	DSM 13595	1
+11491326	organism	DSM 13594	1
+11491326	sequence	sequence	2
+11491326	sequence	amino acid	1
+11491326	sequence	rdna	1
+11491326	sequence	16s rrna	1
+11491326	clinical_drug	acetic acid	1
+11491326	clinical_drug	nitrogen	1

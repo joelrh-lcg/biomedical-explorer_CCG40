@@ -1,0 +1,24 @@
+33391198	biological_process	virulence	15
+33391198	biological_process	conjugation	1
+33391198	biological_process	cellulose biosynthesis	1
+33391198	cellular_component	capsule	2
+33391198	cellular_component	membrane	1
+33391198	chemical	fructose	4
+33391198	chemical	antibiotic	3
+33391198	chemical	cellulose	3
+33391198	chemical	proteins	1
+33391198	chemical	capsular polysaccharide	1
+33391198	chemical	cluster	1
+33391198	chemical	pathway	1
+33391198	gene/protein	iPi	2
+33391198	gene/protein	transcriptional regulator	1
+33391198	organism	plasmid	8
+33391198	organism	human	1
+33391198	sequence	plasmid	8
+33391198	sequence	gene	2
+33391198	organ/tissue	capsule	2
+33391198	organ/tissue	membrane	2
+33391198	organ/tissue	backbone	1
+33391198	clinical_drug	cellulose	1
+33391198	clinical_drug	fructose	1
+33391198	molecular_process	reduction	1

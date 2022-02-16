@@ -1,0 +1,43 @@
+2687252	biological_process	obsolete mutagenesis	1
+2687252	biological_process	biological regulation	1
+2687252	chemical	Glutamic Acid	4
+2687252	chemical	glutamate(2-)	2
+2687252	chemical	L-glutamic acid	2
+2687252	chemical	glutamate(1-)	2
+2687252	chemical	glutamic acid	2
+2687252	chemical	Glutamate Synthase	1
+2687252	gene/protein	Glutamate dehydrogenase	16
+2687252	gene/protein	Glucose 1-dehydrogenase	9
+2687252	gene/protein	Glutamate synthase [NADPH] large chain	6
+2687252	gene/protein	Glutamate synthase [NADPH] small chain	6
+2687252	gene/protein	Glycerol dehydrogenase	6
+2687252	gene/protein	Glucarate dehydratase	4
+2687252	gene/protein	Glutamate dehydrogenase, mitochondrial	3
+2687252	gene/protein	Glycerate dehydrogenase	3
+2687252	gene/protein	Galactitol 2-dehydrogenase	2
+2687252	gene/protein	Probable glucarate dehydratase	2
+2687252	gene/protein	beta-glucuronidase (mouse)	2
+2687252	gene/protein	beta-glucuronidase	2
+2687252	gene/protein	beta-glucuronidase (rat)	2
+2687252	gene/protein	Beta-glucuronidase	2
+2687252	gene/protein	protein gustavus (fruit fly)	2
+2687252	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+2687252	gene/protein	Glycerate dehydrogenase HPR, peroxisomal	1
+2687252	gene/protein	Pyranose dehydrogenase	1
+2687252	gene/protein	Probable glutamate dehydrogenase	1
+2687252	gene/protein	glucarate dehydratase	1
+2687252	gene/protein	GDH/6PGL endoplasmic bifunctional protein	1
+2687252	gene/protein	D-lactate dehydrogenase [cytochrome], mitochondrial (Arabidopsis thaliana)	1
+2687252	gene/protein	Glycerol dehydrogenase 1	1
+2687252	gene/protein	glutamate dehydrogenase, mitochondrial (fruit fly)	1
+2687252	gene/protein	GDH/6PGL endoplasmic bifunctional protein (human)	1
+2687252	gene/protein	glycerol dehydrogenase	1
+2687252	molecular_function	glutamate synthase (NADH) activity	2
+2687252	molecular_function	glutamate synthase (NADPH) activity	2
+2687252	molecular_function	glucose-6-phosphate dehydrogenase activity	1
+2687252	organism	Saccharomyces cerevisiae	4
+2687252	sequence	sequence_variant_obs	3
+2687252	sequence	mutated_variant_site	1
+2687252	clinical_drug	Glutamate	3
+2687252	clinical_drug	saccharomyces cerevisiae allergenic extract	1
+2687252	clinical_drug	Saccharomyces cerevisiae	1

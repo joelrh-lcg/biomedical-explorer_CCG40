@@ -1,0 +1,56 @@
+24595137	biological_process	secretion	1
+24595137	cellular_component	obsolete protein	3
+24595137	chemical	protein	4
+24595137	chemical	(protein)	3
+24595137	chemical	Antigens	2
+24595137	chemical	Immunoglobulin A, Secretory	2
+24595137	chemical	antigen	1
+24595137	chemical	Glu-Asp-Leu	1
+24595137	chemical	Fimbriae Proteins	1
+24595137	chemical	Immunoglobulin G	1
+24595137	disease	Infections	6
+24595137	disease	Foodborne Diseases	2
+24595137	disease	Diarrhea	2
+24595137	gene/protein	Fimbrial protein	30
+24595137	gene/protein	Pilin	14
+24595137	gene/protein	Keratin, type I cytoskeletal 12	4
+24595137	gene/protein	Endothelial lipase	3
+24595137	gene/protein	protein	2
+24595137	gene/protein	Probable minor fimbrial protein	2
+24595137	gene/protein	Structural protein	2
+24595137	gene/protein	RNA polymerase sigma factor sigB (Arabidopsis thaliana)	2
+24595137	gene/protein	NADP-dependent malic enzyme (Dictyostelium discoideum)	2
+24595137	gene/protein	RNA polymerase sigma factor SigA (Staphylococcus aureus subsp. aureus NCTC 8325)	2
+24595137	gene/protein	RNA polymerase sigma factor SigA (Bacillus subtilis subsp. subtilis str. 168)	2
+24595137	gene/protein	RNA polymerase sigma factor sigA (Arabidopsis thaliana)	2
+24595137	gene/protein	bifunctional TH2 protein, mitochondrial (Arabidopsis thaliana)	2
+24595137	gene/protein	endothelial lipase	1
+24595137	gene/protein	secreted and transmembrane protein 1	1
+24595137	gene/protein	secreted and transmembrane protein 1 (human)	1
+24595137	gene/protein	secreted and transmembrane protein 1b	1
+24595137	gene/protein	keratin, type I cytoskeletal 12	1
+24595137	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+24595137	gene/protein	Fimbrial protein EcpD	1
+24595137	gene/protein	Fimbrial protein EcpC	1
+24595137	gene/protein	pilin	1
+24595137	gene/protein	Fimbrial protein EcpB	1
+24595137	gene/protein	Fimbrial protein P9-2	1
+24595137	gene/protein	Fimbrial protein EcpA	1
+24595137	gene/protein	Fimbrial protein FimX	1
+24595137	gene/protein	Fe(3+) dicitrate transport ATP-binding protein FecE (Escherichia coli K-12)	1
+24595137	gene/protein	Fe(3+) dicitrate transport ATP-binding protein FecE	1
+24595137	organism	Enterohemorrhagic Escherichia coli	9
+24595137	organism	Humans	2
+24595137	organism	Escherichia coli K12	1
+24595137	organism	Mus musculus	1
+24595137	organism	Mice	1
+24595137	sequence	polypeptide	3
+24595137	sequence	gene	2
+24595137	sequence	clone	1
+24595137	sequence	fragmentary	1
+24595137	cell_line	UE6E7T-2	2
+24595137	cell_line	K12 [Mouse osteosarcoma]	1
+24595137	cell_line	K12-72.1	1
+24595137	organ/tissue	caecum	2
+24595137	organ/tissue	secretion of exocrine gland	1
+24595137	organ/tissue	blood serum	1

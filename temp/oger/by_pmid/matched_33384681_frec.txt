@@ -1,0 +1,25 @@
+33384681	biological_process	nitrogen fixation	2
+33384681	biological_process	efflux	2
+33384681	biological_process	metabolism	1
+33384681	biological_process	symbiosis	1
+33384681	cellular_component	efflux pump	1
+33384681	chemical	nitrogen	4
+33384681	chemical	physiological role	1
+33384681	chemical	ce3	1
+33384681	chemical	nod factor	1
+33384681	chemical	MDR	1
+33384681	disease	nod	1
+33384681	gene/protein	nod	45
+33384681	gene/protein	bean	6
+33384681	gene/protein	ompr	3
+33384681	gene/protein	snf	3
+33384681	gene/protein	transcriptional regulator	1
+33384681	gene/protein	lack	1
+33384681	gene/protein	fixn	1
+33384681	molecular_function	MDR	1
+33384681	sequence	gene	5
+33384681	sequence	genome	1
+33384681	cell_line	bean	2
+33384681	cell_line	ce3	1
+33384681	organ/tissue	nodule	6
+33384681	clinical_drug	nitrogen	2

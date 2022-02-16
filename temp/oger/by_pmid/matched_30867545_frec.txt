@@ -1,0 +1,12 @@
+30867545	chemical	16s rrna	1
+30867545	chemical	antifungal	1
+30867545	disease	infection	2
+30867545	organism	bacterium	21
+30867545	organism	bacterium be	1
+30867545	organism	amphibian	1
+30867545	sequence	16s rrna	1
+30867545	sequence	rrna gene	1
+30867545	sequence	amplicon	1
+30867545	sequence	score	1
+30867545	cell_line	frog	5
+30867545	organ/tissue	skin	16

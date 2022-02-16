@@ -1,0 +1,24 @@
+2644201	biological_process	symbiosis	2
+2644201	biological_process	mutagenesis	1
+2644201	chemical	cytochrome	14
+2644201	chemical	succinate	4
+2644201	chemical	nadh	4
+2644201	chemical	cytochrome aa3	3
+2644201	chemical	oxidase	2
+2644201	chemical	nitrogen	2
+2644201	chemical	oxidase cytochrome	1
+2644201	chemical	cytochrome oxidase	1
+2644201	chemical	nadh oxidase	1
+2644201	chemical	succinate oxidase	1
+2644201	gene/protein	ce2	9
+2644201	gene/protein	nadh oxidase	5
+2644201	gene/protein	cytochrome oxidase	4
+2644201	molecular_function	cytochrome	84
+2644201	organism	Rhizobium phaseoli	2
+2644201	organism	phaseolus	1
+2644201	sequence	mutagenesis	1
+2644201	cell_line	ce2	3
+2644201	cell_line	tn5	1
+2644201	organ/tissue	aa3	6
+2644201	organ/tissue	nodule	6
+2644201	clinical_drug	nitrogen	1

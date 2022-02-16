@@ -1,0 +1,54 @@
+1368518	cellular_component	membrane	1
+1368518	cellular_component	pore complex	1
+1368518	chemical	karatasin	5
+1368518	chemical	buffer	2
+1368518	chemical	phenylmercury acetate	2
+1368518	chemical	Mercaptoethanol	2
+1368518	chemical	acetate ester	1
+1368518	chemical	acetate	1
+1368518	chemical	solution	1
+1368518	chemical	sodium dodecyl sulfate	1
+1368518	chemical	mercaptoethanol	1
+1368518	chemical	disulfide	1
+1368518	chemical	molecule	1
+1368518	chemical	alpha-amino acid	1
+1368518	chemical	amino acid	1
+1368518	chemical	primary amino group	1
+1368518	chemical	Papain	1
+1368518	chemical	stem bromelain	1
+1368518	disease	Shwachman-Diamond Syndrome	1
+1368518	gene/protein	Karatasin	5
+1368518	gene/protein	Endogenous retrovirus group K member 9 Pro protein	3
+1368518	gene/protein	Endogenous retrovirus group K member 21 Pro protein	3
+1368518	gene/protein	Endogenous retrovirus group K member 8 Pro protein	3
+1368518	gene/protein	Endogenous retrovirus group K member 19 Pro protein	3
+1368518	gene/protein	Endogenous retrovirus group K member 7 Pro protein	3
+1368518	gene/protein	Endogenous retrovirus group K member 25 Pro protein	3
+1368518	gene/protein	Endogenous retrovirus group K member 6 Pro protein	3
+1368518	gene/protein	Endogenous retrovirus group K member 104 Pro protein	3
+1368518	gene/protein	Endogenous retrovirus group K member 18 Pro protein	3
+1368518	gene/protein	Endogenous retrovirus group K member 113 Pro protein	3
+1368518	gene/protein	Endogenous retrovirus group K member 24 Pro protein	3
+1368518	gene/protein	Endogenous retrovirus group K member 10 Pro protein	3
+1368518	gene/protein	L-serine dehydratase/L-threonine deaminase	1
+1368518	gene/protein	Selina-4(15),7(11)-diene synthase ((2E,6E)-farnesyl diphosphate cyclizing)	1
+1368518	gene/protein	serine dehydratase-like	1
+1368518	gene/protein	L-serine dehydratase/L-threonine deaminase (rat)	1
+1368518	gene/protein	L-serine dehydratase/L-threonine deaminase (human)	1
+1368518	gene/protein	serine dehydratase-like (mouse)	1
+1368518	gene/protein	L-serine dehydratase/L-threonine deaminase (mouse)	1
+1368518	gene/protein	L-serine dehydratase (Dictyostelium discoideum)	1
+1368518	gene/protein	cyclin-SDS (Arabidopsis thaliana)	1
+1368518	gene/protein	Papain	1
+1368518	gene/protein	Stem bromelain	1
+1368518	molecular_function	endopeptidase activity	2
+1368518	molecular_function	peptidase activity	1
+1368518	organism	Bromelia plumieri	2
+1368518	sequence	disulfide_bond	1
+1368518	sequence	amino_acid	1
+1368518	sequence	region	1
+1368518	organ/tissue	membrane organ	1
+1368518	organ/tissue	membranous layer	1
+1368518	organ/tissue	pore	1
+1368518	clinical_drug	Acetate	3
+1368518	clinical_drug	Papain	1

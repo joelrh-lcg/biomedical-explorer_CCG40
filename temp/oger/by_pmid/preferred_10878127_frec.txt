@@ -1,0 +1,51 @@
+10878127	biological_process	symbiotic process	2
+10878127	biological_process	metabolic process	1
+10878127	biological_process	biosynthetic process	1
+10878127	biological_process	transport	1
+10878127	chemical	Ammonium Compounds	10
+10878127	chemical	Glutamic Acid	8
+10878127	chemical	ammonium	5
+10878127	chemical	glutamate(2-)	4
+10878127	chemical	L-glutamic acid	4
+10878127	chemical	glutamate(1-)	4
+10878127	chemical	glutamic acid	4
+10878127	chemical	nitrogen atom	3
+10878127	chemical	nitrogen(.)	3
+10878127	chemical	Succinic Acid	2
+10878127	chemical	alpha-amino acid	2
+10878127	chemical	amino acid	2
+10878127	chemical	picloram	2
+10878127	chemical	Glutamine	2
+10878127	chemical	aminophylline	1
+10878127	chemical	Thr-Ala-Asp	1
+10878127	chemical	Glutamate Synthase	1
+10878127	chemical	succinate(2-)	1
+10878127	chemical	succinate	1
+10878127	chemical	Glutamate-Ammonia Ligase	1
+10878127	chemical	glutamine	1
+10878127	chemical	L-glutamine	1
+10878127	chemical	elemental carbon	1
+10878127	chemical	carbon atom	1
+10878127	chemical	protein	1
+10878127	gene/protein	Glutamine synthetase	122
+10878127	gene/protein	Glutamate synthase [NADPH] large chain	6
+10878127	gene/protein	Glutamate synthase [NADPH] small chain	6
+10878127	gene/protein	glutamate synthase [NADPH] large chain (Escherichia coli K-12)	2
+10878127	gene/protein	glutamate synthase [NADPH] small chain (Bacillus subtilis subsp. subtilis str. 168)	2
+10878127	gene/protein	glutamate synthase [NADPH] large chain	2
+10878127	gene/protein	proteobacterial-type glutamate synthase [NADPH] small chain	2
+10878127	gene/protein	glutamate synthase [NADPH] small chain (Escherichia coli K-12)	2
+10878127	gene/protein	glutamine synthetase	1
+10878127	molecular_function	glutamate synthase (NADH) activity	2
+10878127	molecular_function	glutamate synthase (NADPH) activity	2
+10878127	organism	Rhizobium etli	3
+10878127	sequence	amino_acid	2
+10878127	sequence	glutamine	2
+10878127	sequence	insertion	1
+10878127	sequence	fragmentary	1
+10878127	sequence	gene	1
+10878127	sequence	sequence_variant_obs	1
+10878127	cell_line	BTI-Tn-5B1-4	1
+10878127	clinical_drug	Glutamate	5
+10878127	clinical_drug	Nitrogen	3
+10878127	clinical_drug	Glutamine	2

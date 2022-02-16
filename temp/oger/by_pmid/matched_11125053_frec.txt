@@ -1,0 +1,13 @@
+11125053	biological_process	transcription	1
+11125053	biological_process	regulation	1
+11125053	chemical	element	2
+11125053	chemical	proteins	1
+11125053	gene/protein	K12	9
+11125053	gene/protein	transcriptional regulator	1
+11125053	organism	Escherichia coli K12	1
+11125053	sequence	operon	2
+11125053	sequence	promoter	2
+11125053	sequence	terminator	1
+11125053	cell_line	K12	2
+11125053	organ/tissue	element	2
+11125053	organ/tissue	web	1

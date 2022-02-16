@@ -1,0 +1,27 @@
+31667798	biological_process	uptake	2
+31667798	biological_process	symbiosis	1
+31667798	biological_process	nodulation	1
+31667798	biological_process	nitrogen fixation	1
+31667798	biological_process	biosynthesis	1
+31667798	biological_process	transport	1
+31667798	biological_process	nonribosomal peptide synthesis	1
+31667798	biological_process	secretion	1
+31667798	chemical	molybdenum	3
+31667798	chemical	nitrogen	2
+31667798	chemical	hydrogen	2
+31667798	chemical	vitamin	1
+31667798	chemical	phytohormone	1
+31667798	chemical	peptide	1
+31667798	gene/protein	peptide	2
+31667798	gene/protein	noda	1
+31667798	organism	Bradyrhizobium paxllaeri	2
+31667798	organism	legume	1
+31667798	organism	Phaseolus lunatus	1
+31667798	sequence	symbiosis island	1
+31667798	sequence	genome	1
+31667798	sequence	peptide	1
+31667798	sequence	gene	1
+31667798	cell_line	noda	1
+31667798	organ/tissue	secretion	1
+31667798	clinical_drug	nitrogen	1
+31667798	clinical_drug	molybdenum	1

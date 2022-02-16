@@ -1,0 +1,26 @@
+8494746	biological_process	symbiotic process	1
+8494746	biological_process	nodulation	1
+8494746	chemical	sulfur atom	2
+8494746	chemical	DNA, Ribosomal	2
+8494746	chemical	Nitrogenase	1
+8494746	chemical	polysaccharide	1
+8494746	chemical	RNA, Ribosomal, 16S	1
+8494746	gene/protein	Protein BEAN1	2
+8494746	gene/protein	cardiolipin synthase A	1
+8494746	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+8494746	gene/protein	protein BEAN	1
+8494746	gene/protein	kinesin-like protein Nod (fruit fly)	1
+8494746	gene/protein	protein psi1 (Schizosaccharomyces pombe 972h-)	1
+8494746	organism	Rhizobium etli	2
+8494746	organism	Rhizobium leguminosarum	2
+8494746	organism	Rhizobium	1
+8494746	organism	Phaseolus	1
+8494746	organism	Ursus sp.	1
+8494746	sequence	gene	5
+8494746	sequence	region	4
+8494746	sequence	fragmentary	1
+8494746	sequence	rRNA_16S	1
+8494746	sequence	rRNA_gene	1
+8494746	cell_line	R1192	1
+8494746	cell_line	HBM-Noda	1
+8494746	cell_line	PS-1 [Human urinary bladder carcinoma]	1

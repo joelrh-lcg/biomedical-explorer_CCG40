@@ -1,0 +1,11 @@
+24888481	biological_process	symbiosis	1
+24888481	chemical	nitrogen	4
+24888481	gene/protein	crop	1
+24888481	organism	soybean	2
+24888481	organism	USDA 6	1
+24888481	organism	USDA 110	1
+24888481	sequence	genome	2
+24888481	sequence	sequence	1
+24888481	organ/tissue	crop	1
+24888481	clinical_drug	nitrogen	2
+24888481	clinical_drug	soybean	2

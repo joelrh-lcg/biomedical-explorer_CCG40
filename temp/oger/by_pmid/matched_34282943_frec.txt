@@ -1,0 +1,13 @@
+34282943	cellular_component	core	5
+34282943	chemical	antimicrobial	1
+34282943	chemical	nucleotide	1
+34282943	disease	susceptibility	2
+34282943	gene/protein	snp	2
+34282943	organism	Acinetobacter baumannii	2
+34282943	sequence	genome	12
+34282943	sequence	snp	2
+34282943	sequence	clone	1
+34282943	sequence	single nucleotide polymorphism	1
+34282943	sequence	gene	1
+34282943	cell_line	snp	2
+34282943	organ/tissue	scale	1

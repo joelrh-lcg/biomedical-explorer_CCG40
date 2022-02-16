@@ -1,0 +1,24 @@
+16862424	chemical	RNA, Ribosomal, 16S	1
+16862424	gene/protein	kinetochore-associated protein 1	1
+16862424	organism	bacterium IFAM-3211	3
+16862424	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+16862424	organism	bacterium IFAM-3215	3
+16862424	organism	bacterium IFAM-2074	3
+16862424	organism	bacterium IFAM-3359	3
+16862424	organism	bacterium	3
+16862424	organism	bacterium IFAM-1493	3
+16862424	organism	Salmonella	2
+16862424	organism	Conzattia multiflora	1
+16862424	organism	Seedlings	1
+16862424	organism	Pantoea	1
+16862424	organism	Erwinia	1
+16862424	organism	Enterobacter	1
+16862424	organism	Citrobacter	1
+16862424	organism	Klebsiella	1
+16862424	organism	unidentified	1
+16862424	sequence	RFLP_fragment	1
+16862424	sequence	rRNA_16S	1
+16862424	sequence	rRNA_gene	1
+16862424	organ/tissue	skin epidermis	2
+16862424	organ/tissue	outer epithelium	2
+16862424	organ/tissue	tissue	1

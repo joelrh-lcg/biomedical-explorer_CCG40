@@ -1,0 +1,16 @@
+26189661	chemical	carmine	3
+26189661	chemical	metric	2
+26189661	chemical	nucleotide	1
+26189661	chemical	cochineal	1
+26189661	disease	ddh	1
+26189661	gene/protein	ddh	2
+26189661	gene/protein	ani	1
+26189661	organism	Wolbachia	11
+26189661	organism	bacterium	7
+26189661	organism	Wolbachia pipientis	2
+26189661	organism	arthropod	1
+26189661	organism	wolbachia	1
+26189661	organism	Dactylopius coccus	1
+26189661	sequence	genome	2
+26189661	sequence	sequence	2
+26189661	clinical_drug	cochineal	1

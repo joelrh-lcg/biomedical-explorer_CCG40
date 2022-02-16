@@ -1,0 +1,27 @@
+16005966	cellular_component	obsolete protein	1
+16005966	chemical	protein	2
+16005966	chemical	RNA, Antisense	2
+16005966	chemical	(protein)	1
+16005966	chemical	base	1
+16005966	gene/protein	transcriptional repressor PifC (Escherichia coli K-12)	7
+16005966	gene/protein	Repressor c protein	7
+16005966	gene/protein	transcriptional repressor pifC	7
+16005966	gene/protein	Repressor protein c	7
+16005966	gene/protein	ribonuclease I (Escherichia coli K-12)	3
+16005966	gene/protein	ribonuclease I	3
+16005966	gene/protein	protein	1
+16005966	molecular_function	obsolete antisense RNA	2
+16005966	organism	Alphaproteobacteria	1
+16005966	organism	unidentified plasmid	1
+16005966	sequence	INR_motif	2
+16005966	sequence	gene	2
+16005966	sequence	antisense_RNA	2
+16005966	sequence	replicon	1
+16005966	sequence	plasmid	1
+16005966	sequence	polypeptide	1
+16005966	sequence	promoter_region	1
+16005966	sequence	polypeptide_nest_motif	1
+16005966	sequence	terminator	1
+16005966	sequence	base	1
+16005966	cell_line	REPC	7
+16005966	cell_line	PC-9/GR4	1

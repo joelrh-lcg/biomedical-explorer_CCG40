@@ -1,0 +1,11 @@
+27899573	biological_process	regulation	1
+27899573	chemical	pathway	1
+27899573	chemical	cofactor	1
+27899573	gene/protein	K12	9
+27899573	gene/protein	add	3
+27899573	organism	e coli	2
+27899573	organism	Escherichia coli K12	1
+27899573	organism	collection	1
+27899573	sequence	gene	1
+27899573	cell_line	K12	2
+27899573	organ/tissue	organism	1

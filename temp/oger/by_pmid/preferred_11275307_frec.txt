@@ -1,0 +1,8 @@
+11275307	biological_process	transcription, DNA-templated	2
+11275307	organism	Escherichia coli	2
+11275307	sequence	gene	4
+11275307	sequence	operon	2
+11275307	sequence	genome	2
+11275307	sequence	orthologous_region	1
+11275307	sequence	beta_strand	1
+11275307	organ/tissue	multicellular organism	2

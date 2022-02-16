@@ -1,0 +1,53 @@
+32989089	biological_process	developmental process	3
+32989089	biological_process	biosynthetic process	2
+32989089	biological_process	cell differentiation	1
+32989089	biological_process	biological regulation	1
+32989089	biological_process	transcription, DNA-templated	1
+32989089	biological_process	signaling	1
+32989089	cellular_component	extracellular region	3
+32989089	cellular_component	capsule	1
+32989089	cellular_component	peptidoglycan-based cell wall	1
+32989089	cellular_component	envelope	1
+32989089	chemical	Alginates	18
+32989089	chemical	bis(3',5')-cyclic diguanylic acid	12
+32989089	chemical	alginic acid	9
+32989089	chemical	alginate	9
+32989089	chemical	c-di-GMP	6
+32989089	chemical	guanosine 5'-monophosphate(2-)	1
+32989089	chemical	guanosine 5'-monophosphate	1
+32989089	chemical	H(+)in	1
+32989089	chemical	diguanylate cyclase	1
+32989089	chemical	polymer	1
+32989089	chemical	Polymers	1
+32989089	chemical	macromolecule	1
+32989089	disease	Cysts	8
+32989089	gene/protein	Mannose-1-phosphate guanylyltransferase	7
+32989089	gene/protein	sulfate transport system permease protein CysT (Escherichia coli K-12)	4
+32989089	gene/protein	sulfate transport system permease protein CysT	4
+32989089	gene/protein	Mannose-1-phosphate guanylyltransferase RfbM	1
+32989089	gene/protein	Mannose-1-phosphate guanylyltransferase ManC	1
+32989089	gene/protein	mannose-1-phosphate guanylyltransferase	1
+32989089	gene/protein	Putative mannose-1-phosphate guanylyltransferase	1
+32989089	gene/protein	dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1,3-glucosyltransferase (Schizosaccharomyces pombe 972h-)	1
+32989089	gene/protein	probable dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1,3-glucosyltransferase	1
+32989089	gene/protein	dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1,3-glucosyltransferase (yeast)	1
+32989089	gene/protein	probable dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1,3-glucosyltransferase (Dictyostelium discoideum)	1
+32989089	gene/protein	dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1,3-glucosyltransferase (Candida albicans SC5314)	1
+32989089	gene/protein	probable dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1,3-glucosyltransferase (human)	1
+32989089	gene/protein	probable dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1,3-glucosyltransferase (mouse)	1
+32989089	gene/protein	Mannuronan C5-epimerase	1
+32989089	organism	bacterium IFAM-3211	2
+32989089	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+32989089	organism	bacterium IFAM-3215	2
+32989089	organism	bacterium IFAM-2074	2
+32989089	organism	bacterium IFAM-3359	2
+32989089	organism	bacterium	2
+32989089	organism	bacterium IFAM-1493	2
+32989089	organism	unidentified	1
+32989089	sequence	mature_protein_region	1
+32989089	sequence	promoter	1
+32989089	cell	granulocyte monocyte progenitor cell	1
+32989089	organ/tissue	cell layer	2
+32989089	organ/tissue	nervous system cell part layer	2
+32989089	organ/tissue	capsule	1
+32989089	molecular_process	polymerisation	1

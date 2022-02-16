@@ -1,0 +1,20 @@
+1943993	biological_process	regulation	3
+1943993	biological_process	transcription	2
+1943993	cellular_component	protein	1
+1943993	chemical	element	3
+1943993	chemical	sigma 70	1
+1943993	chemical	cyclic amp receptor protein	1
+1943993	gene/protein	sigma 70	38
+1943993	gene/protein	cyclic amp receptor protein	1
+1943993	gene/protein	protein vii	1
+1943993	organism	Escherichia coli	2
+1943993	sequence	promoter	8
+1943993	sequence	operator	4
+1943993	sequence	regulon	3
+1943993	sequence	duplication	3
+1943993	sequence	regulatory region	2
+1943993	sequence	upstream	1
+1943993	sequence	downstream	1
+1943993	sequence	promoter region	1
+1943993	sequence	protein	1
+1943993	organ/tissue	element	3

@@ -1,0 +1,7 @@
+2811400	biological_process	biological regulation	3
+2811400	biological_process	regulation of gene expression	1
+2811400	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+2811400	sequence	genome	4
+2811400	sequence	engineered_region	1
+2811400	sequence	gene	1
+2811400	entity_type	preferred_term	2

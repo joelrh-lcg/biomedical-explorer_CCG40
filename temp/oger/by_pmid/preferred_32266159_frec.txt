@@ -1,0 +1,19 @@
+32266159	chemical	nucleotide	1
+32266159	chemical	atom	1
+32266159	disease	Ichthyosis Bullosa of Siemens	6
+32266159	disease	Irritable Bowel Syndrome	2
+32266159	disease	Gastrointestinal Diseases	2
+32266159	disease	Dysbiosis	2
+32266159	disease	Colitis, Ulcerative	2
+32266159	disease	Crohn Disease	2
+32266159	gene/protein	Tissue- and phase-specific nuclear protein	3
+32266159	organism	Humans	1
+32266159	organism	gut metagenome	1
+32266159	organism	Alteromonas	1
+32266159	organism	Neisseria	1
+32266159	sequence	SNP	4
+32266159	sequence	natural_variant_site	3
+32266159	cell_line	SNP	3
+32266159	organ/tissue	intestine	1
+32266159	organ/tissue	colonic mucosa	1
+32266159	organ/tissue	organ	1

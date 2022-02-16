@@ -1,0 +1,24 @@
+9748438	biological_process	symbiosis	1
+9748438	biological_process	transcription	1
+9748438	biological_process	nitrogen fixation	1
+9748438	chemical	phbc	6
+9748438	chemical	nitrogen	4
+9748438	chemical	phb	3
+9748438	chemical	nitrogenase	2
+9748438	chemical	nucleotide	2
+9748438	chemical	carbon	2
+9748438	chemical	phb synthase	1
+9748438	gene/protein	phb	21
+9748438	gene/protein	phb synthase	2
+9748438	gene/protein	Nif	2
+9748438	gene/protein	lack	1
+9748438	molecular_function	nitrogenase activity	2
+9748438	organism	bacterium	14
+9748438	organism	Azorhizobium	1
+9748438	organism	legume	1
+9748438	organism	Sesbania rostrata	1
+9748438	sequence	gene	2
+9748438	sequence	insertion	1
+9748438	organ/tissue	nodule	2
+9748438	organ/tissue	planta	1
+9748438	clinical_drug	nitrogen	2

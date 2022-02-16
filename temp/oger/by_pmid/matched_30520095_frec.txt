@@ -1,0 +1,9 @@
+30520095	gene/protein	pcr	16
+30520095	organism	bacterium	7
+30520095	organism	howler monkey	3
+30520095	organism	Bifidobacterium	2
+30520095	organism	gut microbiome	1
+30520095	organism	black howler monkey	1
+30520095	sequence	chain	1
+30520095	organ/tissue	gut	3
+30520095	molecular_process	chain reaction	1

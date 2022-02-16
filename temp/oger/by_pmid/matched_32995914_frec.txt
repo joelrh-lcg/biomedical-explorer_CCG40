@@ -1,0 +1,18 @@
+32995914	biological_process	nodulation	2
+32995914	biological_process	formation	1
+32995914	biological_process	organogenesis	1
+32995914	chemical	pmp	9
+32995914	chemical	ce3	5
+32995914	chemical	dsred	2
+32995914	chemical	nod factor	2
+32995914	disease	infection	4
+32995914	disease	nod	2
+32995914	gene/protein	nod	90
+32995914	gene/protein	dsred	2
+32995914	organism	Rhizobium etli	4
+32995914	organism	legume	1
+32995914	organism	Phaseolus vulgari	1
+32995914	cell_line	ce3	5
+32995914	organ/tissue	nodule	4
+32995914	organ/tissue	primordium	1
+32995914	organ/tissue	cell layer	1

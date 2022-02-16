@@ -1,0 +1,16 @@
+33051478	chemical	16s rrna	1
+33051478	chemical	proteins	1
+33051478	gene/protein	nov	8
+33051478	organism	Culex	68
+33051478	organism	spirochete	2
+33051478	organism	bacterium be	1
+33051478	organism	mosquito	1
+33051478	organism	Aedes cinereus	1
+33051478	organism	Spirochaetaceae	1
+33051478	organism	nematocera	1
+33051478	sequence	genome	4
+33051478	sequence	sequence	2
+33051478	sequence	16s rrna	1
+33051478	sequence	orthologous	1
+33051478	sequence	gene	1
+33051478	cell_line	149 br	1

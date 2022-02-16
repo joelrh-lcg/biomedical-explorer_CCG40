@@ -1,0 +1,50 @@
+23280323	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+23280323	gene/protein	DNA-directed RNA polymerase subunit beta (Thermus thermophilus HB8)	1
+23280323	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis ATCC 23445)	1
+23280323	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus 2308)	1
+23280323	gene/protein	DNA-directed RNA polymerase subunit beta (Escherichia coli K-12)	1
+23280323	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella canis ATCC 23365)	1
+23280323	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella ovis ATCC 25840)	1
+23280323	gene/protein	DNA-directed RNA polymerase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+23280323	gene/protein	DNA-directed RNA polymerase subunit beta (Peptoclostridium difficile 630)	1
+23280323	gene/protein	DNA-directed RNA polymerase subunit beta (Clostridium botulinum A str. Hall)	1
+23280323	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella melitensis ATCC 23457)	1
+23280323	gene/protein	DNA-directed RNA polymerase subunit beta	1
+23280323	gene/protein	DNA-directed RNA polymerase subunit beta (Arabidopsis thaliana)	1
+23280323	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis 1330)	1
+23280323	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus bv. 1 str. 9-941)	1
+23280323	gene/protein	protein RecA (Brucella abortus bv. 1 str. 9-941)	1
+23280323	gene/protein	protein RecA (Mycobacterium tuberculosis H37Rv)	1
+23280323	gene/protein	DNA repair protein RAD51 homolog 1 (mouse)	1
+23280323	gene/protein	protein RecA	1
+23280323	gene/protein	DNA repair protein RAD51 homolog 1	1
+23280323	gene/protein	protein RecA (Brucella suis 1330)	1
+23280323	gene/protein	mitochondrial DNA repair protein recA homolog (Dictyostelium discoideum)	1
+23280323	gene/protein	protein RecA (Escherichia coli K-12)	1
+23280323	gene/protein	protein RecA (Brucella canis ATCC 23365)	1
+23280323	gene/protein	DNA repair protein RAD51 homolog 1 (human)	1
+23280323	gene/protein	protein RecA (Brucella suis ATCC 23445)	1
+23280323	gene/protein	protein RecA (Brucella melitensis ATCC 23457)	1
+23280323	gene/protein	DNA repair protein recA homolog 1, chloroplastic (Arabidopsis thaliana)	1
+23280323	gene/protein	protein RecA (Brucella abortus 2308)	1
+23280323	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+23280323	organism	Fabaceae	2
+23280323	organism	Zea mays	2
+23280323	organism	bacterium IFAM-3211	2
+23280323	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+23280323	organism	bacterium IFAM-3215	2
+23280323	organism	bacterium IFAM-2074	2
+23280323	organism	bacterium IFAM-3359	2
+23280323	organism	bacterium	2
+23280323	organism	bacterium IFAM-1493	2
+23280323	organism	Bradyrhizobium	1
+23280323	organism	Phaseolus lunatus	1
+23280323	organism	Vigna	1
+23280323	organism	Vigna unguiculata	1
+23280323	organism	Phaseolus	1
+23280323	sequence	gene	2
+23280323	sequence	region	1
+23280323	cell_line	RECA	1
+23280323	organ/tissue	cerebellum vermis lobule X	3
+23280323	organ/tissue	germinal center	3
+23280323	organ/tissue	crop	1

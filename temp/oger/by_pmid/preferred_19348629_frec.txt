@@ -1,0 +1,6 @@
+19348629	chemical	base	1
+19348629	organism	Escherichia coli	2
+19348629	sequence	base	1
+19348629	sequence	polypeptide_conserved_motif	1
+19348629	sequence	polypeptide_motif	1
+19348629	sequence	gene	1

@@ -1,0 +1,21 @@
+24790563	biological_process	protein folding	1
+24790563	cellular_component	obsolete protein	1
+24790563	chemical	1-(2-(dodecyloxy)ethyl)pyrrolidine hydrochloride	4
+24790563	chemical	poly[9,9-bis((6'-N,N,N-trimethylammonium)hexyl)fluorenylene phenylene dibromide] polymer	3
+24790563	chemical	poly[9,9-bis((6'-N,N,N-trimethylammonium)hexyl)fluorenylene phenylene dibromide] macromolecule	3
+24790563	chemical	diethyl phthalate	2
+24790563	chemical	solution	2
+24790563	chemical	protein	1
+24790563	chemical	(protein)	1
+24790563	disease	Proteostasis Deficiencies	2
+24790563	gene/protein	Preflagellin peptidase	15
+24790563	gene/protein	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha	6
+24790563	gene/protein	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit beta	6
+24790563	gene/protein	Perforin-1	3
+24790563	gene/protein	perforin-1	3
+24790563	gene/protein	perforin-1 (human)	3
+24790563	gene/protein	perforin-1 (rat)	3
+24790563	gene/protein	perforin-1 (mouse)	3
+24790563	gene/protein	capsule biosynthesis protein CapD (Bacillus anthracis)	2
+24790563	gene/protein	protein	1
+24790563	sequence	polypeptide	1

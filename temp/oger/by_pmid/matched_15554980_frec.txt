@@ -1,0 +1,36 @@
+15554980	biological_process	transcription	1
+15554980	cellular_component	protein	1
+15554980	chemical	antisense rna	3
+15554980	chemical	protein	2
+15554980	chemical	proteins	2
+15554980	chemical	element	1
+15554980	chemical	intergenic sequence	1
+15554980	chemical	untranslated region	1
+15554980	gene/protein	repa	17
+15554980	gene/protein	repc	16
+15554980	gene/protein	p42	8
+15554980	gene/protein	rna	8
+15554980	gene/protein	repb	5
+15554980	gene/protein	repC	4
+15554980	gene/protein	protein	1
+15554980	molecular_function	antisense rna	3
+15554980	organism	Rhizobium etli	2
+15554980	organism	plasmid p42d	1
+15554980	organism	plasmid	1
+15554980	sequence	sequence	3
+15554980	sequence	antisense rna	3
+15554980	sequence	operon	2
+15554980	sequence	plasmid	2
+15554980	sequence	replicon	1
+15554980	sequence	initiator	1
+15554980	sequence	protein	1
+15554980	sequence	intergenic	1
+15554980	sequence	constitutive promoter	1
+15554980	sequence	transcript	1
+15554980	sequence	untranslated region	1
+15554980	sequence	upstream	1
+15554980	sequence	secondary structure	1
+15554980	sequence	terminator	1
+15554980	cell_line	repc	4
+15554980	cell_line	repC	1
+15554980	organ/tissue	element	1

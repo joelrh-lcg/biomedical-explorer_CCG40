@@ -1,0 +1,26 @@
+7952190	biological_process	formation	2
+7952190	biological_process	morphogenesis	1
+7952190	biological_process	protein oxidation	1
+7952190	biological_process	cell differentiation	1
+7952190	cellular_component	protein	1
+7952190	chemical	reactive oxygen species	3
+7952190	chemical	protein	2
+7952190	chemical	polypeptide	2
+7952190	chemical	glutamine synthetase	1
+7952190	chemical	glutamate dehydrogenase	1
+7952190	gene/protein	glutamine synthetase	123
+7952190	gene/protein	GDH	55
+7952190	gene/protein	glutamate dehydrogenase	17
+7952190	gene/protein	polypeptide	4
+7952190	gene/protein	protein	1
+7952190	molecular_function	enzyme activity	1
+7952190	molecular_function	GDH	1
+7952190	organism	Neurospora crassa	2
+7952190	organism	conidia	1
+7952190	sequence	polypeptide	2
+7952190	sequence	glutamine	1
+7952190	sequence	protein	1
+7952190	clinical_drug	glutamine	1
+7952190	clinical_drug	glutamate	1
+7952190	clinical_drug	oxygen	1
+7952190	molecular_process	oxidation	1

@@ -1,0 +1,30 @@
+14766918	biological_process	metabolic process	1
+14766918	cellular_component	photoreceptor proximal connecting cilium	2
+14766918	cellular_component	obsolete protein	2
+14766918	chemical	Biotin	2
+14766918	chemical	protein	2
+14766918	chemical	(protein)	2
+14766918	chemical	biotinate	1
+14766918	chemical	biotin	1
+14766918	chemical	monocarboxylic acid anion	1
+14766918	chemical	alpha-particle	1
+14766918	chemical	electron	1
+14766918	chemical	positron	1
+14766918	chemical	picloram	1
+14766918	disease	CATARACT 4, MULTIPLE TYPES	2
+14766918	gene/protein	Propionyl-CoA carboxylase, biotin carboxylase and biotin-carboxyl carrier subunit	2
+14766918	gene/protein	Propionyl-CoA carboxylase, carboxyltransferase subunit	2
+14766918	gene/protein	Propionyl-CoA carboxylase, protein PccX subunit	2
+14766918	gene/protein	CD59 glycoprotein (human)	2
+14766918	gene/protein	CD59 glycoprotein	2
+14766918	gene/protein	phosphoribosylaminoimidazole carboxylase (Schizosaccharomyces pombe 972h-)	2
+14766918	gene/protein	RNA-directed RNA polymerase catalytic subunit	2
+14766918	gene/protein	bifunctional protein FolD	1
+14766918	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+14766918	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+14766918	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+14766918	organism	Rhizobium etli	2
+14766918	organism	Rhizobiaceae	1
+14766918	sequence	polypeptide	2
+14766918	cell_line	MIN	2
+14766918	clinical_drug	Biotin	1

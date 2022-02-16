@@ -1,0 +1,16 @@
+34804086	biological_process	obsolete disease resistance	1
+34804086	biological_process	defense response	1
+34804086	cellular_component	cell wall	1
+34804086	chemical	cutin	15
+34804086	chemical	wax	5
+34804086	chemical	Reactive Oxygen Species	2
+34804086	chemical	reactive oxygen species	1
+34804086	chemical	picloram	1
+34804086	disease	Disease Resistance	2
+34804086	gene/protein	cAMP-responsive element modulator	6
+34804086	sequence	gene	3
+34804086	organ/tissue	eponychium	1
+34804086	organ/tissue	chitin-based cuticle	1
+34804086	organ/tissue	cuticle	1
+34804086	organ/tissue	anatomical wall	1
+34804086	clinical_drug	Oxygen	1

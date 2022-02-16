@@ -1,0 +1,19 @@
+15937174	biological_process	gene conversion	10
+15937174	biological_process	formation	2
+15937174	biological_process	mismatch repair	1
+15937174	chemical	base	1
+15937174	chemical	nucleotide	1
+15937174	chemical	nitrogenase	1
+15937174	chemical	restriction endonuclease	1
+15937174	gene/protein	muts	3
+15937174	gene/protein	nifH	1
+15937174	gene/protein	restriction endonuclease	1
+15937174	organism	bacterium	14
+15937174	organism	Rhizobium etli	2
+15937174	sequence	gene	11
+15937174	sequence	sequence	3
+15937174	sequence	homologous	1
+15937174	sequence	genome	1
+15937174	sequence	base	1
+15937174	cell_line	mimic	1
+15937174	organ/tissue	segment	1

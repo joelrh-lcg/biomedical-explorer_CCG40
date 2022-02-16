@@ -1,0 +1,31 @@
+26058415	biological_process	cofactor metabolic process	1
+26058415	biological_process	catabolic process	1
+26058415	cellular_component	viral nucleocapsid	1
+26058415	chemical	picloram	2
+26058415	chemical	Carbohydrates	2
+26058415	chemical	RNA, Ribosomal, 16S	1
+26058415	chemical	alpha-amino acid	1
+26058415	chemical	amino acid	1
+26058415	chemical	carbohydrate	1
+26058415	chemical	vitamin	1
+26058415	chemical	cofactor	1
+26058415	organism	Scorpions	6
+26058415	organism	Vaejovis smithi	1
+26058415	organism	Centruroides limpidus	1
+26058415	organism	bacterium IFAM-3211	1
+26058415	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+26058415	organism	bacterium IFAM-3215	1
+26058415	organism	bacterium IFAM-2074	1
+26058415	organism	bacterium IFAM-3359	1
+26058415	organism	bacterium	1
+26058415	organism	bacterium IFAM-1493	1
+26058415	organism	metagenome	1
+26058415	organism	Arachnida	1
+26058415	sequence	rRNA_16S	1
+26058415	sequence	rRNA_gene	1
+26058415	sequence	region	1
+26058415	sequence	amino_acid	1
+26058415	sequence	match	1
+26058415	organ/tissue	digestive tract	5
+26058415	organ/tissue	lower digestive tract	5
+26058415	organ/tissue	digestive system	5

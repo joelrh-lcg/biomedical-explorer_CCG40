@@ -1,0 +1,13 @@
+33819302	chemical	RNA polyanion	1
+33819302	disease	Dengue	6
+33819302	disease	Infections	2
+33819302	gene/protein	F-box/WD repeat-containing protein 7 (fruit fly)	1
+33819302	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+33819302	gene/protein	ribonuclease I	1
+33819302	organism	Dengue virus	2
+33819302	organism	Dengue Virus	2
+33819302	organism	RNA Viruses	1
+33819302	sequence	sequence_variant_obs	2
+33819302	sequence	genotype	1
+33819302	sequence	mature_protein_region	1
+33819302	organ/tissue	scale	1

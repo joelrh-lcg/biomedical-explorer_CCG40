@@ -1,0 +1,31 @@
+30981884	biological_process	biosynthesis	2
+30981884	biological_process	formation	1
+30981884	biological_process	synthesis	1
+30981884	biological_process	dephosphorylation	1
+30981884	chemical	tyr	7
+30981884	chemical	CPP	6
+30981884	chemical	phe	5
+30981884	chemical	natural product	2
+30981884	chemical	copalyl pyrophosphate	2
+30981884	chemical	diterpenoid	1
+30981884	chemical	diterpene	1
+30981884	chemical	cluster	1
+30981884	chemical	base	1
+30981884	chemical	catalyst	1
+30981884	disease	CPP	2
+30981884	gene/protein	diterpene synthase	9
+30981884	gene/protein	tyr	5
+30981884	gene/protein	dts	2
+30981884	molecular_function	catalytic activity	1
+30981884	organism	Streptomyces sp	16
+30981884	organism	bacterium	7
+30981884	sequence	class i	3
+30981884	sequence	class ii	2
+30981884	sequence	gene	1
+30981884	sequence	phe	1
+30981884	sequence	intermediate	1
+30981884	sequence	tyr	1
+30981884	sequence	base	1
+30981884	cell_line	lrd	9
+30981884	organ/tissue	skeleton	1
+30981884	molecular_process	cyclization	1

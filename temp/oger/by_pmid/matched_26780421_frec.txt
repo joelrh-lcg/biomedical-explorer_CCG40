@@ -1,0 +1,23 @@
+26780421	biological_process	innate immune response	3
+26780421	chemical	salicylate	1
+26780421	chemical	pathway	1
+26780421	disease	susceptibility	2
+26780421	gene/protein	pdf	407
+26780421	gene/protein	pr1	9
+26780421	gene/protein	mpk6	8
+26780421	gene/protein	efr	6
+26780421	gene/protein	fls2	4
+26780421	gene/protein	mpk3	4
+26780421	gene/protein	bak1	4
+26780421	gene/protein	bak	3
+26780421	gene/protein	wrky22	2
+26780421	gene/protein	wrky29	1
+26780421	organism	bacterium	7
+26780421	organism	Arabidopsis thaliana	2
+26780421	organism	paenibacillus alvei	2
+26780421	organism	Arabidopsis	2
+26780421	organism	dahlia	2
+26780421	organism	Verticillium dahliae	1
+26780421	sequence	transcript	1
+26780421	cell_line	pr1	2
+26780421	cell_line	pdf	1

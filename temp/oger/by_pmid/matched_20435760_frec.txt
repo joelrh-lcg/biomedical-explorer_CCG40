@@ -1,0 +1,16 @@
+20435760	biological_process	biofilm formation	1
+20435760	cellular_component	protein	1
+20435760	chemical	cluster	7
+20435760	chemical	homoserine lactone	5
+20435760	chemical	ahl	4
+20435760	chemical	protein	2
+20435760	chemical	exopolysaccharide	1
+20435760	chemical	proteins	1
+20435760	gene/protein	solo	24
+20435760	gene/protein	ahl	4
+20435760	gene/protein	protein	1
+20435760	organism	Burkholderia	3
+20435760	organism	Burkholderia glumae	2
+20435760	organism	Burkholderia kururiensis	2
+20435760	organism	Burkholderia cepacia complex	1
+20435760	sequence	protein	1

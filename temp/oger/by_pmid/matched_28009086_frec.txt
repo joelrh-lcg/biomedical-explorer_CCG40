@@ -1,0 +1,38 @@
+28009086	biological_process	phosphatidylcholine synthesis	3
+28009086	biological_process	Kennedy pathway	1
+28009086	biological_process	phosphatidylcholine formation	1
+28009086	biological_process	mutagenesis	1
+28009086	biological_process	phosphatidylcholine biosynthesis	1
+28009086	chemical	diacylglycerol	924
+28009086	chemical	phosphatidylcholine	35
+28009086	chemical	choline	9
+28009086	chemical	pathway	5
+28009086	chemical	manganese	4
+28009086	chemical	tde	3
+28009086	chemical	cpt	3
+28009086	chemical	Cpt	3
+28009086	chemical	complement	1
+28009086	chemical	choline kinase	1
+28009086	disease	Kennedy	2
+28009086	gene/protein	cpt1	11
+28009086	gene/protein	Cpt	6
+28009086	gene/protein	cpt	4
+28009086	gene/protein	choline kinase	1
+28009086	molecular_function	cpt	6
+28009086	molecular_function	Cpt	6
+28009086	molecular_function	cytidylyltransferase activity	1
+28009086	organism	bacterium	7
+28009086	organism	Treponema	3
+28009086	organism	Treponema denticola	2
+28009086	organism	eukaryote	2
+28009086	organism	Saccharomyces cerevisiae	2
+28009086	organism	e coli	2
+28009086	organism	Archaea	1
+28009086	organism	spirochete	1
+28009086	sequence	gene	3
+28009086	sequence	homologous	1
+28009086	sequence	mutagenesis	1
+28009086	organ/tissue	pallidum	2
+28009086	clinical_drug	choline	4
+28009086	clinical_drug	Saccharomyces cerevisiae	2
+28009086	clinical_drug	manganese	1

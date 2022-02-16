@@ -1,0 +1,13 @@
+23499616	biological_process	nodulation	2
+23499616	biological_process	fucosylation	1
+23499616	chemical	fucose	4
+23499616	chemical	nod factor	1
+23499616	disease	nod	1
+23499616	gene/protein	nod	45
+23499616	organism	bacterium	7
+23499616	organism	Bradyrhizobium	1
+23499616	organism	legume	1
+23499616	organism	bradyrhizobium	1
+23499616	sequence	gene	5
+23499616	organ/tissue	nodule	2
+23499616	molecular_process	acetylation	1

@@ -1,0 +1,9 @@
+33177665	gene/protein	sup	14
+33177665	gene/protein	map	6
+33177665	gene/protein	B10	3
+33177665	gene/protein	sparse	1
+33177665	organism	Bird	1
+33177665	sequence	genome	5
+33177665	sequence	sequence	1
+33177665	sequence	orthologous region	1
+33177665	sequence	double	1

@@ -1,0 +1,39 @@
+12361275	chemical	Anti-Bacterial Agents	2
+12361275	chemical	Carbenicillin	2
+12361275	chemical	Kanamycin	2
+12361275	chemical	Erythromycin	2
+12361275	chemical	RNA, Ribosomal, 16S	1
+12361275	chemical	ribosomal RNA	1
+12361275	chemical	antimicrobial agent	1
+12361275	chemical	carbenicillin	1
+12361275	chemical	kanamycin	1
+12361275	chemical	erythromycin A	1
+12361275	chemical	erythromycin	1
+12361275	gene/protein	protein MEI2-like 1 (Arabidopsis thaliana)	3
+12361275	gene/protein	Mucolipin-1	3
+12361275	gene/protein	Phospholipid-transporting ATPase IB	3
+12361275	gene/protein	phospholipid-transporting ATPase IB	3
+12361275	gene/protein	cardiolipin synthase A	1
+12361275	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	1
+12361275	gene/protein	AT07979p1 (fruit fly)	1
+12361275	organism	Ensifer adhaerens	2
+12361275	organism	Sinorhizobium	2
+12361275	organism	bacterium IFAM-3211	1
+12361275	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+12361275	organism	bacterium IFAM-3215	1
+12361275	organism	bacterium IFAM-2074	1
+12361275	organism	bacterium IFAM-3359	1
+12361275	organism	bacterium	1
+12361275	organism	bacterium IFAM-1493	1
+12361275	organism	Leucaena leucocephala	1
+12361275	sequence	rRNA_gene	2
+12361275	sequence	region	2
+12361275	sequence	rRNA_16S	1
+12361275	sequence	restriction_fragment	1
+12361275	cell_line	ML-1 [Human thyroid carcinoma]	3
+12361275	cell_line	ML-1 [Human leukemia]	3
+12361275	cell_line	LC04	1
+12361275	organ/tissue	cerebellum vermis lobule X	2
+12361275	organ/tissue	germinal center	2
+12361275	clinical_drug	Kanamycin	1
+12361275	clinical_drug	Erythromycin	1

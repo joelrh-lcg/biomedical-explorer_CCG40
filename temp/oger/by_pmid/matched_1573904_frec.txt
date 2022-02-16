@@ -1,0 +1,19 @@
+1573904	biological_process	formation	1
+1573904	cellular_component	protein	1
+1573904	cellular_component	organelle	1
+1573904	chemical	protein	2
+1573904	chemical	proteins	2
+1573904	chemical	lipid bilayer	1
+1573904	chemical	mitochondrial aspartate aminotransferase	1
+1573904	chemical	solution	1
+1573904	gene/protein	phi	1212
+1573904	gene/protein	aspartate aminotransferase	26
+1573904	gene/protein	der	6
+1573904	gene/protein	nmr	2
+1573904	gene/protein	protein	1
+1573904	sequence	enzymatic	3
+1573904	sequence	protein	1
+1573904	sequence	transition	1
+1573904	cell_line	phi	2
+1573904	organ/tissue	matrix	1
+1573904	clinical_drug	aspartate	1

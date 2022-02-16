@@ -1,0 +1,44 @@
+33412274	biological_process	tricarboxylic acid cycle	4
+33412274	biological_process	glycolytic process	2
+33412274	biological_process	biosynthetic process	2
+33412274	biological_process	cellular process	1
+33412274	biological_process	pentose-phosphate shunt	1
+33412274	biological_process	gluconeogenesis	1
+33412274	biological_process	glucose metabolic process	1
+33412274	cellular_component	cell projection	1
+33412274	chemical	protein	6
+33412274	chemical	trichloroacetic acid	4
+33412274	chemical	Pyruvic Acid	4
+33412274	chemical	Lactic Acid	4
+33412274	chemical	formic acid	4
+33412274	chemical	Acetoin	4
+33412274	chemical	pyruvate	2
+33412274	chemical	(S)-lactate	2
+33412274	chemical	lactate	2
+33412274	chemical	formate ester	2
+33412274	chemical	formate	2
+33412274	chemical	acetoin	2
+33412274	chemical	Adenosine Triphosphate	2
+33412274	chemical	Glucose	2
+33412274	chemical	tricarboxylic acid	1
+33412274	chemical	metabolite	1
+33412274	chemical	Proteome	1
+33412274	chemical	L-Lactate Dehydrogenase	1
+33412274	chemical	formate C-acetyltransferase	1
+33412274	chemical	butanediol dehydrogenase	1
+33412274	chemical	pentose phosphate	1
+33412274	chemical	picloram	1
+33412274	chemical	ATP(4-)	1
+33412274	chemical	ATP	1
+33412274	chemical	aldehydo-D-glucose	1
+33412274	chemical	D-glucopyranose	1
+33412274	chemical	glucose	1
+33412274	gene/protein	Formate acetyltransferase	17
+33412274	gene/protein	Dehydrogenase	1
+33412274	organism	Staphylococcus epidermidis	2
+33412274	organism	bacterium BE	1
+33412274	cell_line	BCIRL-TcA-CLG1	4
+33412274	clinical_drug	Lactate	3
+33412274	clinical_drug	Pyruvate	2
+33412274	clinical_drug	Adenosine Triphosphate	1
+33412274	clinical_drug	Dextrose, Unspecified Form	1

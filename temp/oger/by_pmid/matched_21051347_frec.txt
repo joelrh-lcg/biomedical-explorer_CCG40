@@ -1,0 +1,17 @@
+21051347	biological_process	regulation	2
+21051347	biological_process	transcription	2
+21051347	biological_process	signal transduction	1
+21051347	cellular_component	core	1
+21051347	gene/protein	K12	9
+21051347	gene/protein	map	6
+21051347	gene/protein	tus	2
+21051347	gene/protein	ago	1
+21051347	molecular_function	transcription factor	1
+21051347	organism	Escherichia coli K12	1
+21051347	sequence	signal	4
+21051347	sequence	motif	2
+21051347	sequence	target gene	1
+21051347	sequence	transcription start site	1
+21051347	cell_line	K12	2
+21051347	organ/tissue	organism	1
+21051347	organ/tissue	web	1

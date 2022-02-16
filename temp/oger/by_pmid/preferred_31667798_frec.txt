@@ -1,0 +1,32 @@
+31667798	biological_process	symbiotic process	1
+31667798	biological_process	nodulation	1
+31667798	biological_process	nitrogen fixation	1
+31667798	biological_process	import into cell	1
+31667798	biological_process	import across plasma membrane	1
+31667798	biological_process	biosynthetic process	1
+31667798	biological_process	transport	1
+31667798	biological_process	nonribosomal peptide biosynthetic process	1
+31667798	biological_process	secretion	1
+31667798	chemical	Molybdenum	2
+31667798	chemical	nitrogen atom	1
+31667798	chemical	nitrogen(.)	1
+31667798	chemical	hydrogen atom	1
+31667798	chemical	hydrogen(.)	1
+31667798	chemical	vitamin	1
+31667798	chemical	plant hormone	1
+31667798	chemical	molybdenum atom	1
+31667798	chemical	peptide	1
+31667798	gene/protein	proteolytic cleavage product	1
+31667798	gene/protein	amino acid chain	1
+31667798	gene/protein	kinesin-like protein Nod (fruit fly)	1
+31667798	organism	Bradyrhizobium paxllaeri	2
+31667798	organism	Fabaceae	1
+31667798	organism	Phaseolus lunatus	1
+31667798	sequence	symbiosis_island	1
+31667798	sequence	genome	1
+31667798	sequence	active_peptide	1
+31667798	sequence	gene	1
+31667798	cell_line	HBM-Noda	1
+31667798	organ/tissue	secretion of exocrine gland	1
+31667798	clinical_drug	Nitrogen	1
+31667798	clinical_drug	Molybdenum	1

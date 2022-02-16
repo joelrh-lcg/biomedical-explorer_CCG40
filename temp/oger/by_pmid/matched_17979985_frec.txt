@@ -1,0 +1,28 @@
+17979985	biological_process	synthesis	2
+17979985	biological_process	biosynthesis	1
+17979985	cellular_component	cell envelope	2
+17979985	cellular_component	host cell	2
+17979985	cellular_component	intracellular	1
+17979985	cellular_component	cytosol	1
+17979985	cellular_component	protein	1
+17979985	chemical	phosphatidylcholine	5
+17979985	chemical	protein a	2
+17979985	chemical	lipid	1
+17979985	chemical	phospholipid	1
+17979985	chemical	phosphatidylcholine synthase	1
+17979985	chemical	pathway	1
+17979985	chemical	complement	1
+17979985	chemical	flagellin	1
+17979985	gene/protein	flagellin	35
+17979985	gene/protein	phosphatidylcholine synthase	11
+17979985	gene/protein	protein a	11
+17979985	gene/protein	pcsa	8
+17979985	gene/protein	pmta	2
+17979985	gene/protein	lack	1
+17979985	molecular_function	bacterial binding	1
+17979985	organism	bacterium	7
+17979985	organism	legionella pneumophila	2
+17979985	sequence	binding	2
+17979985	sequence	cryptic	1
+17979985	sequence	protein	1
+17979985	cell	macrophage	2

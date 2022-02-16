@@ -1,0 +1,32 @@
+31015332	biological_process	biofilm formation	5
+31015332	biological_process	virulence	3
+31015332	biological_process	biosynthesis	2
+31015332	biological_process	regulation	1
+31015332	biological_process	signaling	1
+31015332	biological_process	synthesis	1
+31015332	cellular_component	dgc	5
+31015332	cellular_component	intracellular	2
+31015332	cellular_component	protein	1
+31015332	chemical	cdigmp	30
+31015332	chemical	lps	6
+31015332	chemical	monophosphate	2
+31015332	chemical	modulator	2
+31015332	chemical	Lipopolysaccharide	2
+31015332	chemical	protein	2
+31015332	chemical	diguanylate cyclase	1
+31015332	chemical	effector	1
+31015332	chemical	signaling molecule	1
+31015332	disease	lps	2
+31015332	disease	disease	2
+31015332	disease	cholera	2
+31015332	gene/protein	dgc	215
+31015332	gene/protein	Gmd	18
+31015332	gene/protein	lps	4
+31015332	gene/protein	impact	2
+31015332	gene/protein	protein	1
+31015332	molecular_function	Gmd	1
+31015332	molecular_function	signaling molecule	1
+31015332	sequence	delete	1
+31015332	sequence	gene	1
+31015332	sequence	protein	1
+31015332	organ/tissue	plate	2

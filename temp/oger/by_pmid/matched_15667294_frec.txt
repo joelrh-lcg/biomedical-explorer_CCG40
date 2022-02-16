@@ -1,0 +1,17 @@
+15667294	biological_process	uptake	2
+15667294	chemical	nitrite	3
+15667294	chemical	electron acceptor	2
+15667294	chemical	nitrate	1
+15667294	chemical	nitrite reductase	1
+15667294	gene/protein	nir	21
+15667294	gene/protein	nitrite reductase	4
+15667294	gene/protein	nirK	2
+15667294	gene/protein	nirk	1
+15667294	organism	bacterium	7
+15667294	organism	Rhizobium etli	2
+15667294	organism	CFN42	1
+15667294	organism	plasmid	1
+15667294	sequence	acceptor	1
+15667294	sequence	gene	1
+15667294	sequence	cryptic	1
+15667294	sequence	plasmid	1

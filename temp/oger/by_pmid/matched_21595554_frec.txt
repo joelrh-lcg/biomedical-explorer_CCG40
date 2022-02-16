@@ -1,0 +1,8 @@
+21595554	biological_process	degradation	1
+21595554	disease	infection	2
+21595554	disease	disease	2
+21595554	gene/protein	to human	2
+21595554	organism	bacterium	14
+21595554	organism	human	6
+21595554	organism	mycobacteria	3
+21595554	organism	mycobacterium	2

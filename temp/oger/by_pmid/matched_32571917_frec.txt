@@ -1,0 +1,15 @@
+32571917	biological_process	virulence	3
+32571917	chemical	antibiotic	6
+32571917	chemical	element	1
+32571917	molecular_function	cargo	1
+32571917	organism	bacterium	14
+32571917	organism	plasmid	1
+32571917	organism	human	1
+32571917	sequence	mge	6
+32571917	sequence	gene	5
+32571917	sequence	Mobile genetic element	1
+32571917	sequence	plasmid	1
+32571917	sequence	mutation	1
+32571917	sequence	allele	1
+32571917	organ/tissue	mge	6
+32571917	organ/tissue	element	1

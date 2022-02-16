@@ -1,0 +1,20 @@
+15024554	chemical	6methoxy2benzoxazolinone	2
+15024554	chemical	base	1
+15024554	chemical	antimicrobial	1
+15024554	disease	ciat	1
+15024554	gene/protein	bean	9
+15024554	gene/protein	mboa	1
+15024554	organism	maize	16
+15024554	organism	bacterium	7
+15024554	organism	Rhizobium etli	2
+15024554	organism	Phaseolus vulgaris	2
+15024554	organism	plasmid	1
+15024554	organism	strain ch	1
+15024554	organism	fungus	1
+15024554	organism	ciat899	1
+15024554	sequence	inside	1
+15024554	sequence	base	1
+15024554	sequence	plasmid	1
+15024554	cell_line	bean	3
+15024554	organ/tissue	nodule	6
+15024554	organ/tissue	tissue	1

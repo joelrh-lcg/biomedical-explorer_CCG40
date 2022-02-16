@@ -1,0 +1,43 @@
+17061545	biological_process	nitrogen fixation	3
+17061545	biological_process	nodulation	2
+17061545	biological_process	vegetative to reproductive phase transition of meristem	1
+17061545	biological_process	symbiotic process	1
+17061545	biological_process	animal organ development	1
+17061545	chemical	Nitrogen	2
+17061545	chemical	nitrogen atom	2
+17061545	chemical	nitrogen(.)	2
+17061545	chemical	nodulation factor	2
+17061545	chemical	dinitrogen	1
+17061545	chemical	RNA, Ribosomal, 16S	1
+17061545	disease	Myoclonic Epilepsies, Progressive	3
+17061545	gene/protein	Flavohemoprotein	129
+17061545	gene/protein	flavohemoprotein	3
+17061545	gene/protein	kinesin-like protein Nod (fruit fly)	3
+17061545	gene/protein	CTD small phosphatase-like protein (chicken)	1
+17061545	organism	Fabaceae	2
+17061545	organism	Euryarchaeota	1
+17061545	organism	bacterium IFAM-3211	1
+17061545	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+17061545	organism	bacterium IFAM-3215	1
+17061545	organism	bacterium IFAM-2074	1
+17061545	organism	bacterium IFAM-3359	1
+17061545	organism	bacterium	1
+17061545	organism	bacterium IFAM-1493	1
+17061545	organism	Magnoliopsida	1
+17061545	organism	unidentified plasmid	1
+17061545	organism	Alphaproteobacteria	1
+17061545	organism	Bradyrhizobium	1
+17061545	organism	Mesorhizobium	1
+17061545	organism	Rhizobium	1
+17061545	organism	Sinorhizobium	1
+17061545	organism	Methylobacterium	1
+17061545	organism	Burkholderia	1
+17061545	organism	Cupriavidus	1
+17061545	sequence	gene	5
+17061545	sequence	cytoplasmic_polypeptide_region	1
+17061545	sequence	plasmid	1
+17061545	sequence	genome	1
+17061545	sequence	rRNA_16S	1
+17061545	organ/tissue	cerebellum vermis lobule X	2
+17061545	organ/tissue	germinal center	2
+17061545	clinical_drug	Nitrogen	3

@@ -1,0 +1,15 @@
+30922683	disease	Disease	2
+30922683	disease	Obesity	2
+30922683	disease	Inflammatory Bowel Diseases	2
+30922683	disease	Tuberculosis	2
+30922683	disease	Autoimmune Diseases	2
+30922683	disease	Stomach Neoplasms	2
+30922683	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+30922683	gene/protein	protein IMPACT (zebrafish)	1
+30922683	organism	Simian-Human immunodeficiency virus	1
+30922683	organism	HIV	1
+30922683	organism	Human immunodeficiency virus 2	1
+30922683	organism	Human immunodeficiency virus 1	1
+30922683	organism	Human immunodeficiency virus	1
+30922683	organism	Humans	1
+30922683	organ/tissue	intestine	1

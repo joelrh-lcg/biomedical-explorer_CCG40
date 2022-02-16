@@ -1,0 +1,16 @@
+24096415	cellular_component	viral nucleocapsid	2
+24096415	chemical	cluster	4
+24096415	chemical	protein	1
+24096415	chemical	mixture	1
+24096415	gene/protein	translation initiation factor IF-3 (Escherichia coli K-12)	1
+24096415	gene/protein	translation initiation factor IF-3	1
+24096415	gene/protein	N-terminal acetyltransferase A complex auxiliary subunit NAA15 (Arabidopsis thaliana)	1
+24096415	organism	Streptococcus	1
+24096415	sequence	gene	5
+24096415	sequence	genome	3
+24096415	sequence	homologous	2
+24096415	sequence	polypeptide_domain	1
+24096415	sequence	syntenic	1
+24096415	sequence	consensus	1
+24096415	sequence	orthologous	1
+24096415	cell_line	OMA-BL-1	1

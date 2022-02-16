@@ -1,0 +1,23 @@
+16348252	biological_process	nodulation	1
+16348252	biological_process	nitrogen fixation	1
+16348252	cellular_component	chromosome	1
+16348252	chemical	nitrogen	2
+16348252	gene/protein	bean	6
+16348252	gene/protein	nif	1
+16348252	gene/protein	Sym	1
+16348252	organism	bacterium	7
+16348252	organism	plasmid	4
+16348252	organism	Rhizobium leguminosarum	2
+16348252	organism	Phaseolus vulgaris	2
+16348252	organism	CFN299	2
+16348252	organism	collection	1
+16348252	organism	Rhizobium	1
+16348252	organism	legume	1
+16348252	organism	Agrobacterium	1
+16348252	organism	Sym plasmid	1
+16348252	sequence	plasmid	5
+16348252	sequence	chromosome	1
+16348252	sequence	gene	1
+16348252	sequence	construct	1
+16348252	cell_line	bean	2
+16348252	clinical_drug	nitrogen	1

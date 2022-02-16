@@ -1,0 +1,54 @@
+31626639	biological_process	pathogenesis	1
+31626639	biological_process	obsolete virulence	1
+31626639	biological_process	viral process	1
+31626639	biological_process	anatomical structure morphogenesis	1
+31626639	biological_process	plasmid maintenance	1
+31626639	cellular_component	host cell	1
+31626639	chemical	diphenylmethane-4,4'-diisocyanate	2
+31626639	chemical	nucleotide	2
+31626639	chemical	Ligases	1
+31626639	gene/protein	Protochlorophyllide reductase, chloroplastic	5
+31626639	gene/protein	Tumor necrosis factor receptor superfamily member 1B	3
+31626639	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	2
+31626639	gene/protein	Light-dependent protochlorophyllide reductase	2
+31626639	gene/protein	Protochlorophyllide reductase	1
+31626639	gene/protein	glutamine synthetase (human)	1
+31626639	gene/protein	glutamine synthetase (rat)	1
+31626639	gene/protein	glutamine--tRNA ligase (Escherichia coli K-12)	1
+31626639	gene/protein	probable glutamine--tRNA ligase (Dictyostelium discoideum)	1
+31626639	gene/protein	glutamine synthetase (mouse)	1
+31626639	gene/protein	bifunctional glutamate/proline--tRNA ligase (human)	1
+31626639	gene/protein	glutamine synthetase (chicken)	1
+31626639	gene/protein	glutamine synthetase	1
+31626639	gene/protein	bifunctional glutamate/proline--tRNA ligase	1
+31626639	gene/protein	Sialic acid-binding Ig-like lectin 7	1
+31626639	gene/protein	A-kinase anchor protein 5	1
+31626639	gene/protein	Hematopoietic lineage cell-specific protein	1
+31626639	gene/protein	hematopoietic lineage cell-specific protein	1
+31626639	gene/protein	Far upstream element-binding protein 2	1
+31626639	gene/protein	far upstream element-binding protein 2	1
+31626639	gene/protein	sialic acid-binding Ig-like lectin 7	1
+31626639	gene/protein	tumor necrosis factor receptor superfamily member 1B	1
+31626639	gene/protein	interleukin-2 receptor subunit beta	1
+31626639	gene/protein	Interleukin-2 receptor subunit beta	1
+31626639	gene/protein	P24 oleosin isoform A	1
+31626639	molecular_function	retinol dehydrogenase activity	2
+31626639	organism	unidentified plasmid	8
+31626639	organism	Prophages	7
+31626639	organism	Salmonella enterica	2
+31626639	organism	Salmonella	2
+31626639	organism	Potato spindle tuber viroid	1
+31626639	organism	Bacteriophages	1
+31626639	sequence	plasmid	8
+31626639	sequence	prophage	7
+31626639	sequence	region	4
+31626639	sequence	natural_variant_site	3
+31626639	sequence	gene	3
+31626639	sequence	genotype	2
+31626639	sequence	genome	2
+31626639	sequence	homologous	1
+31626639	sequence	phage_sequence	1
+31626639	sequence	inversion	1
+31626639	organ/tissue	caudal fin	2
+31626639	organ/tissue	obsolete caudal fin	2
+31626639	organ/tissue	tail	2

@@ -1,0 +1,26 @@
+29267322	biological_process	virulence	3
+29267322	chemical	ciprofloxacin	3
+29267322	chemical	dfra	2
+29267322	chemical	antimicrobial drug	1
+29267322	chemical	Antimicrobial	1
+29267322	disease	infection	2
+29267322	disease	susceptibility	2
+29267322	gene/protein	pcr	16
+29267322	gene/protein	aada	6
+29267322	gene/protein	dfra	3
+29267322	gene/protein	Lima	1
+29267322	gene/protein	ten	1
+29267322	gene/protein	spvc	1
+29267322	gene/protein	psv	1
+29267322	organism	salmonella enterica	2
+29267322	organism	Salmonella	1
+29267322	organism	plasmid	1
+29267322	sequence	sequence	1
+29267322	sequence	rapd	1
+29267322	sequence	intermediate	1
+29267322	sequence	integron	1
+29267322	sequence	plasmid	1
+29267322	sequence	substitute	1
+29267322	cell_line	Lima	1
+29267322	organ/tissue	fingerprint	1
+29267322	clinical_drug	ciprofloxacin	1

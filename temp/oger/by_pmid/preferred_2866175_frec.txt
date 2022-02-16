@@ -1,0 +1,36 @@
+2866175	biological_process	transcription, DNA-templated	1
+2866175	chemical	glutaminate	6
+2866175	chemical	L-glutamine residue	6
+2866175	chemical	L-glutaminyl group	6
+2866175	chemical	N(2)-L-glutamino group	6
+2866175	chemical	nucleotide	1
+2866175	chemical	Galactokinase	1
+2866175	gene/protein	Galactokinase	145
+2866175	gene/protein	type-1 glutamine synthetase 1 (Dictyostelium discoideum)	2
+2866175	gene/protein	glutamine synthetase (Escherichia coli K-12)	2
+2866175	gene/protein	bacterial-type glutamine synthetase	2
+2866175	gene/protein	flap endonuclease GEN (fruit fly)	1
+2866175	gene/protein	galactokinase	1
+2866175	gene/protein	bifunctional protein FolD	1
+2866175	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+2866175	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+2866175	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+2866175	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+2866175	gene/protein	ribonuclease I	1
+2866175	molecular_function	galactokinase activity	1
+2866175	organism	Escherichia coli	2
+2866175	organism	unidentified plasmid	2
+2866175	organism	synthetic construct	1
+2866175	sequence	glutamine	6
+2866175	sequence	sequence_variant_obs	2
+2866175	sequence	plasmid	2
+2866175	sequence	gene	1
+2866175	sequence	region	1
+2866175	sequence	transversion	1
+2866175	sequence	5KB_upstream_variant	1
+2866175	sequence	promoter	1
+2866175	sequence	clone	1
+2866175	sequence	primer	1
+2866175	sequence	wild_type	1
+2866175	cell_line	Gen	1
+2866175	organ/tissue	extension	1

@@ -1,0 +1,12 @@
+25853342	biological_process	efflux	2
+25853342	cellular_component	chromosome	1
+25853342	chemical	antibiotic	27
+25853342	chemical	drug	2
+25853342	disease	attribute	2
+25853342	organism	bacterium	35
+25853342	organism	e coli	6
+25853342	organism	Escherichia coli	2
+25853342	organism	none	1
+25853342	sequence	chromosome	1
+25853342	cell_line	24 h	1
+25853342	molecular_process	reduction	2

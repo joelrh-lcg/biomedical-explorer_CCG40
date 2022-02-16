@@ -1,0 +1,12 @@
+27081132	cellular_component	chromosome	1
+27081132	gene/protein	survival factor 1 (yeast)	1
+27081132	organism	Humans	1
+27081132	organism	Prophages	1
+27081132	organism	unidentified plasmid	1
+27081132	organism	Potato spindle tuber viroid	1
+27081132	sequence	genome	1
+27081132	sequence	region	1
+27081132	sequence	chromosome	1
+27081132	sequence	prophage	1
+27081132	sequence	plasmid	1
+27081132	organ/tissue	feces	1

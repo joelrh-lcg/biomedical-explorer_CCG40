@@ -1,0 +1,90 @@
+30454661	cellular_component	obsolete protein	1
+30454661	chemical	Phosphates	4
+30454661	chemical	phosphate	2
+30454661	chemical	phosphate)	2
+30454661	chemical	phosphate ion	2
+30454661	chemical	phosphate(3-)	2
+30454661	chemical	phosphoric acid	2
+30454661	chemical	hydrogenphosphate	2
+30454661	chemical	Indoleacetic Acids	2
+30454661	chemical	indoleacetic acid	2
+30454661	chemical	fertilizer	1
+30454661	chemical	sulfur atom	1
+30454661	chemical	DNA, Ribosomal	1
+30454661	chemical	auxin	1
+30454661	chemical	Cellulase	1
+30454661	chemical	Chitinases	1
+30454661	chemical	sulfoxaflor	1
+30454661	chemical	protein	1
+30454661	chemical	(protein)	1
+30454661	chemical	nitrogen atom	1
+30454661	chemical	nitrogen(.)	1
+30454661	chemical	indole-3-acetic acid	1
+30454661	chemical	siderophore	1
+30454661	disease	Myoclonic Epilepsies, Progressive	4
+30454661	gene/protein	Flavohemoprotein	43
+30454661	gene/protein	Endoglucanase	19
+30454661	gene/protein	Chitinase	5
+30454661	gene/protein	Endoglucanase EG-1	4
+30454661	gene/protein	Endoglucanase 1	3
+30454661	gene/protein	Endoglucanase EG-II	2
+30454661	gene/protein	Endoglucanase A	2
+30454661	gene/protein	NLR family member X1	2
+30454661	gene/protein	NACHT, LRR and PYD domains-containing protein 14	2
+30454661	gene/protein	NLR family member X1 (human)	2
+30454661	gene/protein	NACHT, LRR and PYD domains-containing protein 14 (human)	2
+30454661	gene/protein	mediator of RNA polymerase II transcription subunit 10 (zebrafish)	1
+30454661	gene/protein	Endoglucanase Cel12A	1
+30454661	gene/protein	Putative endoglucanase type F	1
+30454661	gene/protein	Major extracellular endoglucanase	1
+30454661	gene/protein	Putative endoglucanase type K	1
+30454661	gene/protein	Endoglucanase E	1
+30454661	gene/protein	Putative endoglucanase X	1
+30454661	gene/protein	Endoglucanase Cel5A	1
+30454661	gene/protein	endoglucanase	1
+30454661	gene/protein	Endoglucanase-1	1
+30454661	gene/protein	Probable endoglucanase	1
+30454661	gene/protein	Endoglucanase CelA	1
+30454661	gene/protein	Endoglucanase B	1
+30454661	gene/protein	Endo-beta-1,4-glucanase	1
+30454661	gene/protein	Endoglucanase 2	1
+30454661	gene/protein	Endoglucanase type C	1
+30454661	gene/protein	Putative endoglucanase type B	1
+30454661	gene/protein	Endochitinase	1
+30454661	gene/protein	nucleotide-binding oligomerization domain-containing protein 1 (human)	1
+30454661	gene/protein	Flavohemoprotein-1	1
+30454661	gene/protein	nucleotide-binding oligomerization domain-containing protein 1 (mouse)	1
+30454661	gene/protein	nucleotide-binding oligomerization domain-containing protein 1	1
+30454661	gene/protein	flavohemoprotein	1
+30454661	gene/protein	kinesin-like protein Nod (fruit fly)	1
+30454661	gene/protein	Green fluorescent protein	1
+30454661	molecular_function	chitinase activity	1
+30454661	organism	Enterobacter sp.	3
+30454661	organism	Fabaceae	2
+30454661	organism	Mimosa pudica	2
+30454661	organism	Serratia sp. E-15	2
+30454661	organism	Serratia sp.	2
+30454661	organism	Rhizobium etli	2
+30454661	organism	Fungi	1
+30454661	organism	Fusarium sp.	1
+30454661	organism	Alternaria	1
+30454661	organism	Oomycetes	1
+30454661	organism	Phytophthora capsici	1
+30454661	organism	bacterium IFAM-3211	1
+30454661	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+30454661	organism	bacterium IFAM-3215	1
+30454661	organism	bacterium IFAM-2074	1
+30454661	organism	bacterium IFAM-3359	1
+30454661	organism	bacterium	1
+30454661	organism	bacterium IFAM-1493	1
+30454661	organism	Phaseolus	1
+30454661	organism	Phaseolus vulgaris	1
+30454661	organism	Seedlings	1
+30454661	organism	unidentified plasmid	1
+30454661	sequence	rRNA_gene	1
+30454661	sequence	region	1
+30454661	sequence	polypeptide	1
+30454661	sequence	plasmid	1
+30454661	organ/tissue	cerebellum vermis lobule X	2
+30454661	organ/tissue	germinal center	2
+30454661	clinical_drug	Nitrogen	1

@@ -1,0 +1,32 @@
+15388727	cellular_component	protein	1
+15388727	chemical	pcb	2
+15388727	chemical	coffee	2
+15388727	chemical	protein	2
+15388727	chemical	fatty acid	2
+15388727	chemical	polychlorinated biphenyl	1
+15388727	chemical	16s rrna	1
+15388727	chemical	c 16 1	1
+15388727	chemical	16 1omega7	1
+15388727	chemical	c 16 0	1
+15388727	gene/protein	pcb	12
+15388727	gene/protein	nov	2
+15388727	gene/protein	omega	2
+15388727	gene/protein	c 16	2
+15388727	gene/protein	protein	1
+15388727	gene/protein	lmg	1
+15388727	organism	Burkholderia	3
+15388727	organism	strain lb400	2
+15388727	organism	Burkholderia graminis	2
+15388727	organism	Burkholderia terricola	2
+15388727	organism	Burkholderia xenovorans	2
+15388727	organism	coffee	1
+15388727	organism	lmg 21463	1
+15388727	organism	ccug 46959	1
+15388727	organism	nrrl b18064	1
+15388727	sequence	sequence	2
+15388727	sequence	pcb	1
+15388727	sequence	16s rrna	1
+15388727	sequence	rrna gene	1
+15388727	sequence	protein	1
+15388727	cell_line	c 16	2
+15388727	organ/tissue	organism	2

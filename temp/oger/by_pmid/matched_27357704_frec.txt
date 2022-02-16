@@ -1,0 +1,11 @@
+27357704	cellular_component	chromosome	3
+27357704	chemical	integrase	1
+27357704	chemical	atta	1
+27357704	gene/protein	integrase	21
+27357704	gene/protein	inta	4
+27357704	gene/protein	atta	2
+27357704	organism	Rhizobium etli	2
+27357704	organism	plasmid	1
+27357704	organism	CFN42	1
+27357704	sequence	chromosome	3
+27357704	sequence	plasmid	1

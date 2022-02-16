@@ -1,0 +1,20 @@
+19485766	biological_process	symbiosis	2
+19485766	biological_process	nitrogen fixation	1
+19485766	biological_process	nodulation	1
+19485766	chemical	nitrogen	2
+19485766	gene/protein	bean	3
+19485766	organism	bacterium	28
+19485766	organism	legume	4
+19485766	organism	Rhizobium	2
+19485766	organism	Phaseolus vulgaris	2
+19485766	organism	Rhizobium etli	2
+19485766	organism	Bradyrhizobium	1
+19485766	organism	betaproteobacteria	1
+19485766	organism	alphaProteobacteria	1
+19485766	organism	mimosa	1
+19485766	organism	mycorrhiza	1
+19485766	sequence	gene	1
+19485766	cell_line	bean	1
+19485766	organ/tissue	nodule	2
+19485766	organ/tissue	organism	1
+19485766	clinical_drug	nitrogen	1

@@ -1,0 +1,38 @@
+25642223	biological_process	formation	1
+25642223	biological_process	regulation	1
+25642223	biological_process	conjugation	1
+25642223	cellular_component	protein	2
+25642223	chemical	protein	4
+25642223	chemical	donor	4
+25642223	chemical	proteins	3
+25642223	chemical	chp	1
+25642223	chemical	dtr	1
+25642223	chemical	xenobiotic	1
+25642223	chemical	element	1
+25642223	chemical	modulator	1
+25642223	gene/protein	chp	12
+25642223	gene/protein	mpf	6
+25642223	gene/protein	dtr	5
+25642223	gene/protein	pret	2
+25642223	gene/protein	transcriptional regulator	2
+25642223	gene/protein	protein	2
+25642223	organism	bacterium	14
+25642223	organism	plasmid	5
+25642223	organism	Rhizobium etli	2
+25642223	organism	CFN42	1
+25642223	organism	mate	1
+25642223	organism	unknown	1
+25642223	organism	Rhizobium	1
+25642223	organism	agrobacterium	1
+25642223	sequence	gene	10
+25642223	sequence	plasmid	5
+25642223	sequence	domain	3
+25642223	sequence	genome	2
+25642223	sequence	protein	2
+25642223	sequence	donor	2
+25642223	sequence	sequence	1
+25642223	sequence	mate pair	1
+25642223	sequence	response element	1
+25642223	cell_line	mpf	2
+25642223	organ/tissue	segment	1
+25642223	organ/tissue	element	1

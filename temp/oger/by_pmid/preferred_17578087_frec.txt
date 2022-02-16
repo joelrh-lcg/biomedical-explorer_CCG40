@@ -1,0 +1,9 @@
+17578087	biological_process	biosynthetic process	1
+17578087	chemical	phaseolotoxin	3
+17578087	chemical	Heavy metal	1
+17578087	organism	Zea mays	2
+17578087	organism	Fungi	2
+17578087	organism	Pseudomonas syringae	2
+17578087	organism	Burkholderia	1
+17578087	organism	Pseudomonas savastanoi	1
+17578087	sequence	fragmentary	2

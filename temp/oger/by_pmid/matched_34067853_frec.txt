@@ -1,0 +1,32 @@
+34067853	biological_process	metabolism	2
+34067853	biological_process	peptidoglycan biosynthesis	1
+34067853	cellular_component	protein	2
+34067853	cellular_component	peptidoglycan	1
+34067853	chemical	carbon	6
+34067853	chemical	glucose	5
+34067853	chemical	bile salt	4
+34067853	chemical	protein	4
+34067853	chemical	starch	3
+34067853	chemical	carboxymethylcellulose	3
+34067853	chemical	inulin	3
+34067853	chemical	tributyrin	3
+34067853	chemical	carbohydrate	3
+34067853	chemical	antibiotic	3
+34067853	chemical	peptidoglycan	3
+34067853	chemical	amino acid	2
+34067853	chemical	proteins	1
+34067853	chemical	lipid	1
+34067853	disease	overweight	2
+34067853	gene/protein	protein	2
+34067853	organism	human	1
+34067853	sequence	gene	3
+34067853	sequence	protein	2
+34067853	sequence	genome	1
+34067853	sequence	contig	1
+34067853	sequence	amino acid	1
+34067853	organ/tissue	bile	2
+34067853	organ/tissue	gastrointestinal tract	1
+34067853	clinical_drug	glucose	1
+34067853	clinical_drug	starch	1
+34067853	clinical_drug	carboxymethylcellulose	1
+34067853	clinical_drug	inulin	1

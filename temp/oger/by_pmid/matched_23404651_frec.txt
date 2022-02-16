@@ -1,0 +1,18 @@
+23404651	chemical	16s rrna	2
+23404651	chemical	cluster	2
+23404651	gene/protein	reca	28
+23404651	gene/protein	rpob	14
+23404651	gene/protein	atpD	8
+23404651	gene/protein	gyrb	5
+23404651	gene/protein	lepA	4
+23404651	gene/protein	gltB	3
+23404651	organism	Burkholderia	6
+23404651	organism	human	2
+23404651	sequence	sequence	3
+23404651	sequence	16s rrna	2
+23404651	sequence	gene	2
+23404651	sequence	genome	1
+23404651	sequence	sequence comparison	1
+23404651	sequence	rrna gene	1
+23404651	cell_line	reca	2
+23404651	organ/tissue	animal	2

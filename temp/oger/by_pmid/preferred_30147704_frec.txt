@@ -1,0 +1,50 @@
+30147704	biological_process	symbiotic process	3
+30147704	biological_process	nodulation	3
+30147704	biological_process	transcription, DNA-templated	2
+30147704	biological_process	jasmonic acid mediated signaling pathway	1
+30147704	biological_process	signal transduction	1
+30147704	cellular_component	root hair	1
+30147704	chemical	jasmonic acid	3
+30147704	chemical	MicroRNAs	2
+30147704	chemical	Nitrogenase	1
+30147704	chemical	(+)-jasmonic acid	1
+30147704	chemical	picloram	1
+30147704	disease	Tropical Calcific Pancreatitis	5
+30147704	disease	Infections	4
+30147704	gene/protein	E3 ubiquitin-protein ligase MYLIP	36
+30147704	gene/protein	MLX-interacting protein	9
+30147704	gene/protein	MLX-interacting protein (human)	9
+30147704	gene/protein	E3 ubiquitin-protein ligase MARCH8 (mouse)	9
+30147704	gene/protein	Miraculin	9
+30147704	gene/protein	Insulin-like receptor	9
+30147704	gene/protein	E3 ubiquitin-protein ligase MARCH8 (human)	9
+30147704	gene/protein	MLX-interacting protein (mouse)	9
+30147704	gene/protein	E3 ubiquitin-protein ligase MARCH8	9
+30147704	gene/protein	E3 ubiquitin-protein ligase MYLIP-A (zebrafish)	9
+30147704	gene/protein	Protein BEAN1	8
+30147704	gene/protein	protein BEAN	4
+30147704	gene/protein	Textile convulsant peptide	3
+30147704	gene/protein	Trimethylamine corrinoid protein	3
+30147704	gene/protein	Trophozoite cysteine proteinase	3
+30147704	gene/protein	T-complex protein 10A	2
+30147704	gene/protein	transcription factor TCP10 (Arabidopsis thaliana)	2
+30147704	gene/protein	T-complex protein 10A homolog (human)	2
+30147704	gene/protein	Transcriptional regulator	1
+30147704	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+30147704	molecular_function	nitrogenase activity	1
+30147704	organism	Fabaceae	1
+30147704	organism	Zea luxurians	1
+30147704	organism	Zea mays	1
+30147704	organism	Zea diploperennis	1
+30147704	organism	Zea perennis	1
+30147704	organism	Arabidopsis	1
+30147704	organism	Phaseolus	1
+30147704	sequence	miRNA	2
+30147704	sequence	alternate_sequence_site	1
+30147704	sequence	transgenic	1
+30147704	sequence	gene	1
+30147704	cell_line	R1192	4
+30147704	organ/tissue	primitive knot	3
+30147704	organ/tissue	cerebellum vermis lobule X	2
+30147704	organ/tissue	germinal center	2
+30147704	organ/tissue	strand of hair	1

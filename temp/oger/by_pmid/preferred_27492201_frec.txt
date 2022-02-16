@@ -1,0 +1,35 @@
+27492201	biological_process	pathogenesis	1
+27492201	biological_process	obsolete virulence	1
+27492201	biological_process	viral process	1
+27492201	organism	bacterium IFAM-3211	6
+27492201	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	6
+27492201	organism	bacterium IFAM-3215	6
+27492201	organism	bacterium IFAM-2074	6
+27492201	organism	bacterium IFAM-3359	6
+27492201	organism	bacterium	6
+27492201	organism	bacterium IFAM-1493	6
+27492201	organism	Larva	5
+27492201	organism	Rhomborhabditis regina	2
+27492201	organism	Klebsiella sp.	2
+27492201	organism	Rhabditoidea	1
+27492201	organism	Galleria mellonella	1
+27492201	organism	Serratia sp. E-15	1
+27492201	organism	Serratia sp.	1
+27492201	organism	bacterium BE	1
+27492201	organism	Pseudochrobactrum sp.	1
+27492201	organism	Comamonas sp.	1
+27492201	organism	Alcaligenes sp.	1
+27492201	organism	Alcaligenes sp. CT14	1
+27492201	organism	Alcaligenaceae bacterium FB188	1
+27492201	organism	Acinetobacter sp. NCIMB9871	1
+27492201	organism	Acinetobacter sp. AK226	1
+27492201	organism	Acinetobacter sp. T4	1
+27492201	organism	Acinetobacter sp. 'SEIP 12.81'	1
+27492201	organism	Acinetobacter sp.	1
+27492201	organism	Acinetobacter sp. A47	1
+27492201	organism	Acinetobacter sp. ATCC 33308	1
+27492201	organism	Acinetobacter sp. RA3849	1
+27492201	organism	Leucobacter sp.	1
+27492201	organ/tissue	larval stage	7
+27492201	organ/tissue	larva	6
+27492201	organ/tissue	amphibian larval stage	5

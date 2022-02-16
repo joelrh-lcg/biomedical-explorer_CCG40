@@ -1,0 +1,20 @@
+27312778	biological_process	symbiotic process	1
+27312778	cellular_component	chromosome	2
+27312778	cellular_component	obsolete protein	1
+27312778	cellular_component	viral nucleocapsid	1
+27312778	chemical	protein	1
+27312778	chemical	(protein)	1
+27312778	gene/protein	Protein BEAN1	6
+27312778	gene/protein	protein BEAN	3
+27312778	gene/protein	protein	1
+27312778	organism	Rhizobium	4
+27312778	organism	unidentified plasmid	4
+27312778	organism	Fabaceae	1
+27312778	sequence	plasmid	4
+27312778	sequence	genome	2
+27312778	sequence	chromosome	2
+27312778	sequence	polypeptide	1
+27312778	sequence	region	1
+27312778	cell_line	R1192	3
+27312778	organ/tissue	cerebellum vermis lobule X	1
+27312778	organ/tissue	germinal center	1

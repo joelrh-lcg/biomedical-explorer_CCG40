@@ -1,0 +1,17 @@
+22144154	biological_process	regulation	2
+22144154	biological_process	transcription	2
+22144154	cellular_component	nucleic acid	1
+22144154	chemical	gold	2
+22144154	chemical	nucleic acid	1
+22144154	chemical	rna polymerase	1
+22144154	gene/protein	K12	9
+22144154	gene/protein	rna	2
+22144154	molecular_function	transcription factor	1
+22144154	organism	bacterium	7
+22144154	organism	Escherichia coli K12	1
+22144154	sequence	nucleic acid	1
+22144154	sequence	gene	1
+22144154	sequence	promoter	1
+22144154	cell_line	K12	2
+22144154	organ/tissue	organism	1
+22144154	organ/tissue	web	1

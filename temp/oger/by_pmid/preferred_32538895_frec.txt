@@ -1,0 +1,30 @@
+32538895	biological_process	rhythmic process	1
+32538895	biological_process	sleep	1
+32538895	cellular_component	viral nucleocapsid	1
+32538895	chemical	Cryptochromes	1
+32538895	chemical	carbon-11 atom	1
+32538895	chemical	propyzamide	1
+32538895	disease	Sleep Initiation and Maintenance Disorders	8
+32538895	disease	Attention Deficit Disorder with Hyperactivity	4
+32538895	disease	Sleep Disorders, Circadian Rhythm	1
+32538895	disease	Depressive Disorder, Major	1
+32538895	gene/protein	Cryptochrome-1	15
+32538895	gene/protein	cryptochrome-1	5
+32538895	gene/protein	cryptochrome-1 (rat)	4
+32538895	gene/protein	cryptochrome-1 (mouse)	4
+32538895	gene/protein	cryptochrome-1 (human)	4
+32538895	gene/protein	40S ribosomal protein S14-A (yeast)	4
+32538895	gene/protein	cryptochrome-1 (Arabidopsis thaliana)	4
+32538895	gene/protein	cryptochrome-1 (chicken)	4
+32538895	gene/protein	aryl hydrocarbon receptor nuclear translocator-like protein 1	1
+32538895	gene/protein	aryl hydrocarbon receptor nuclear translocator-like protein 1 (chicken)	1
+32538895	gene/protein	aryl hydrocarbon receptor nuclear translocator-like protein 1 (human)	1
+32538895	gene/protein	aryl hydrocarbon receptor nuclear translocator-like protein 1 (mouse)	1
+32538895	gene/protein	aryl hydrocarbon receptor nuclear translocator-like protein 1 (rat)	1
+32538895	gene/protein	Protein cycle	1
+32538895	sequence	natural_variant_site	4
+32538895	sequence	reverse	1
+32538895	sequence	gene	1
+32538895	cell_line	11c	1
+32538895	organ/tissue	bone fossa	1
+32538895	organ/tissue	adult organism	1

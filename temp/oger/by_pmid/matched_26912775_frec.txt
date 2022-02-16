@@ -1,0 +1,24 @@
+26912775	biological_process	signalling	5
+26912775	biological_process	neurogenesis	2
+26912775	cellular_component	npc	3
+26912775	chemical	npc	3
+26912775	chemical	pathway	1
+26912775	chemical	inhibitor	1
+26912775	chemical	base	1
+26912775	disease	npc	6
+26912775	gene/protein	dll1	16
+26912775	gene/protein	notch	5
+26912775	gene/protein	ngn2	5
+26912775	gene/protein	precursor	4
+26912775	gene/protein	nurr1	4
+26912775	gene/protein	npc	3
+26912775	gene/protein	pars	2
+26912775	organism	mouse	6
+26912775	sequence	base	1
+26912775	cell	dopaminergic neuron	3
+26912775	cell	precursor cell	1
+26912775	cell	neuron	1
+26912775	organ/tissue	mesencephalon	2
+26912775	organ/tissue	substantia nigra pars compacta	2
+26912775	organ/tissue	adult	1
+26912775	molecular_process	reduction	3

@@ -1,0 +1,20 @@
+9734023	chemical	RNA, Ribosomal, 16S	3
+9734023	chemical	dioxidosulfate(.1-)	1
+9734023	chemical	sulfonyl group	1
+9734023	chemical	sulfur dioxide	1
+9734023	chemical	base	1
+9734023	chemical	nucleotide	1
+9734023	gene/protein	Ribosome-inactivating protein saporin-2	1
+9734023	organism	Galega	5
+9734023	organism	Neorhizobium galegae	2
+9734023	organism	Neorhizobium huautlense	2
+9734023	organism	Agrobacterium vitis	2
+9734023	organism	Rhizobium leguminosarum	2
+9734023	organism	Sesbania herbacea	1
+9734023	organism	Rhizobium	1
+9734023	organism	Sesbania	1
+9734023	sequence	rRNA_16S	3
+9734023	sequence	rRNA_gene	3
+9734023	sequence	region	2
+9734023	sequence	base	1
+9734023	organ/tissue	primitive knot	1

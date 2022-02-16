@@ -1,0 +1,49 @@
+2022610	biological_process	transcription, DNA-templated	1
+2022610	biological_process	localization	1
+2022610	biological_process	obsolete mutagenesis	1
+2022610	biological_process	nodulation	1
+2022610	chemical	Methyl Methanesulfonate	2
+2022610	chemical	Nitrofurantoin	2
+2022610	chemical	methyl methanesulfonate	1
+2022610	chemical	nitrofurantoin	1
+2022610	chemical	probe	1
+2022610	disease	Nephrosis, congenital	1
+2022610	gene/protein	protein RecA (Brucella abortus bv. 1 str. 9-941)	6
+2022610	gene/protein	protein RecA (Mycobacterium tuberculosis H37Rv)	6
+2022610	gene/protein	DNA repair protein RAD51 homolog 1 (mouse)	6
+2022610	gene/protein	protein RecA	6
+2022610	gene/protein	DNA repair protein RAD51 homolog 1	6
+2022610	gene/protein	protein RecA (Brucella suis 1330)	6
+2022610	gene/protein	mitochondrial DNA repair protein recA homolog (Dictyostelium discoideum)	6
+2022610	gene/protein	protein RecA (Escherichia coli K-12)	6
+2022610	gene/protein	protein RecA (Brucella canis ATCC 23365)	6
+2022610	gene/protein	DNA repair protein RAD51 homolog 1 (human)	6
+2022610	gene/protein	protein RecA (Brucella suis ATCC 23445)	6
+2022610	gene/protein	protein RecA (Brucella melitensis ATCC 23457)	6
+2022610	gene/protein	DNA repair protein recA homolog 1, chloroplastic (Arabidopsis thaliana)	6
+2022610	gene/protein	protein RecA (Brucella abortus 2308)	6
+2022610	gene/protein	bifunctional protein FolD	1
+2022610	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+2022610	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+2022610	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+2022610	gene/protein	ciliary neurotrophic factor (chicken)	1
+2022610	organism	Escherichia coli	4
+2022610	organism	unidentified plasmid	4
+2022610	organism	Rhizobium phaseoli	2
+2022610	organism	Bacteriophage lambda	1
+2022610	organism	Escherichia virus Lambda	1
+2022610	organism	Bacteriophages	1
+2022610	sequence	plasmid	4
+2022610	sequence	gene	3
+2022610	sequence	clone	2
+2022610	sequence	phage_sequence	2
+2022610	sequence	deletion	2
+2022610	sequence	mutated_variant_site	1
+2022610	sequence	probe	1
+2022610	sequence	sequence_variant_obs	1
+2022610	cell_line	RECA	6
+2022610	cell_line	FEC	1
+2022610	organ/tissue	anatomical point connecting sagittal and lambdoidal sutures	1
+2022610	organ/tissue	cuneiform nucleus	1
+2022610	clinical_drug	Nitrofurantoin	1
+2022610	molecular_process	reduction	1

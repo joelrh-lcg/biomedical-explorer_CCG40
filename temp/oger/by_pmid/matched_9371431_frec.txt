@@ -1,0 +1,61 @@
+9371431	biological_process	synthesis	3
+9371431	biological_process	biosynthesis	1
+9371431	biological_process	transcription	1
+9371431	cellular_component	protein	2
+9371431	chemical	thiamin	6
+9371431	chemical	oxidase	5
+9371431	chemical	pyrophosphate	4
+9371431	chemical	protein	4
+9371431	chemical	flavin adenine dinucleotide	4
+9371431	chemical	thiazole	4
+9371431	chemical	thiO	2
+9371431	chemical	methyl	2
+9371431	chemical	4amino5hydroxymethylpyrimidine	2
+9371431	chemical	thiamin pyrophosphate	2
+9371431	chemical	thio	2
+9371431	chemical	monophosphate	1
+9371431	chemical	thiamin monophosphate	1
+9371431	chemical	acid	1
+9371431	chemical	cluster	1
+9371431	chemical	element	1
+9371431	chemical	metabolite	1
+9371431	chemical	5aminoimidazole4carboxamide	1
+9371431	chemical	ribonucleotide	1
+9371431	chemical	effector	1
+9371431	gene/protein	thiC	16
+9371431	gene/protein	mob	12
+9371431	gene/protein	thiE	8
+9371431	gene/protein	orf	8
+9371431	gene/protein	thic	8
+9371431	gene/protein	thiG	3
+9371431	gene/protein	thig	3
+9371431	gene/protein	precursor	2
+9371431	gene/protein	protein	2
+9371431	molecular_function	thiC	4
+9371431	molecular_function	thic	2
+9371431	molecular_function	flavin adenine dinucleotide binding	1
+9371431	organism	Rhizobium etli	2
+9371431	organism	Escherichia coli	2
+9371431	organism	e coli	2
+9371431	organism	E coli	2
+9371431	organism	plasmid	1
+9371431	organism	primer	1
+9371431	sequence	orf	4
+9371431	sequence	gene	3
+9371431	sequence	protein	2
+9371431	sequence	motif	2
+9371431	sequence	binding	2
+9371431	sequence	insertion	2
+9371431	sequence	sequence	1
+9371431	sequence	plasmid	1
+9371431	sequence	open reading frame	1
+9371431	sequence	intermediate	1
+9371431	sequence	promoter region	1
+9371431	sequence	promoter	1
+9371431	sequence	primer	1
+9371431	sequence	operon	1
+9371431	cell_line	mob	4
+9371431	cell_line	tn5	3
+9371431	organ/tissue	extension	1
+9371431	organ/tissue	element	1
+9371431	molecular_process	deamination	1

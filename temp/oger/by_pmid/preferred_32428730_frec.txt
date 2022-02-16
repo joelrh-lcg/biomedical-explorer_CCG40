@@ -1,0 +1,32 @@
+32428730	cellular_component	pore complex	3
+32428730	chemical	Aspartic Acid	2
+32428730	chemical	Glutamic Acid	2
+32428730	chemical	Ion Channels	1
+32428730	chemical	aspartate(2-)	1
+32428730	chemical	aspartate salt	1
+32428730	chemical	aspartate	1
+32428730	chemical	glutamate(2-)	1
+32428730	chemical	L-glutamic acid	1
+32428730	chemical	glutamate(1-)	1
+32428730	chemical	glutamic acid	1
+32428730	chemical	alpha-amino acid	1
+32428730	chemical	amino acid	1
+32428730	gene/protein	Synaptosomal-associated protein 25	10
+32428730	gene/protein	protein lava lamp (fruit fly)	2
+32428730	gene/protein	transcriptional regulator SUPERMAN (Arabidopsis thaliana)	2
+32428730	gene/protein	synaptosomal-associated protein 25	2
+32428730	gene/protein	death effector domain-containing protein (human)	1
+32428730	gene/protein	death effector domain-containing protein (rat)	1
+32428730	gene/protein	death effector domain-containing protein	1
+32428730	gene/protein	cell division protein DedD (Escherichia coli K-12)	1
+32428730	gene/protein	death effector domain-containing protein (mouse)	1
+32428730	gene/protein	cell division protein DedD	1
+32428730	sequence	polypeptide_domain	6
+32428730	sequence	substitution	4
+32428730	sequence	sequence_variant_obs	1
+32428730	sequence	double	1
+32428730	sequence	intermediate	1
+32428730	sequence	amino_acid	1
+32428730	organ/tissue	pore	3
+32428730	clinical_drug	Aspartate	1
+32428730	clinical_drug	Glutamate	1

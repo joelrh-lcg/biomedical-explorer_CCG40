@@ -1,0 +1,50 @@
+29121239	biological_process	arginine biosynthetic process	1
+29121239	biological_process	translation	1
+29121239	biological_process	post-translational protein modification	1
+29121239	biological_process	cell growth	1
+29121239	biological_process	nodulation	1
+29121239	biological_process	nitrogen fixation	1
+29121239	biological_process	biosynthetic process	1
+29121239	cellular_component	obsolete protein	4
+29121239	chemical	5'-palmitoyl cytarabine	8
+29121239	chemical	Arginine	4
+29121239	chemical	protein	4
+29121239	chemical	(protein)	4
+29121239	chemical	poly(lactic acid) macromolecule	4
+29121239	chemical	poly(lactic acid) polymer	4
+29121239	chemical	Phosphates	2
+29121239	chemical	L-arginine	2
+29121239	chemical	argininium(1+)	2
+29121239	chemical	arginine	2
+29121239	chemical	phosphate	1
+29121239	chemical	phosphate)	1
+29121239	chemical	phosphate ion	1
+29121239	chemical	phosphate(3-)	1
+29121239	chemical	phosphoric acid	1
+29121239	chemical	hydrogenphosphate	1
+29121239	chemical	Oxidoreductases	1
+29121239	chemical	picloram	1
+29121239	chemical	Proteome	1
+29121239	chemical	nitrogen atom	1
+29121239	chemical	nitrogen(.)	1
+29121239	gene/protein	bifunctional protein argC, mitochondrial (Dictyostelium discoideum)	8
+29121239	gene/protein	N-acetyl-gamma-glutamyl-phosphate reductase (Staphylococcus aureus subsp. aureus NCTC 8325)	8
+29121239	gene/protein	N-acetyl-gamma-glutamyl-phosphate reductase (Escherichia coli K-12)	8
+29121239	gene/protein	N-acetyl-gamma-glutamyl-phosphate reductase	8
+29121239	gene/protein	protein	4
+29121239	gene/protein	RNA polymerase sigma factor SigA (Staphylococcus aureus subsp. aureus NCTC 8325)	4
+29121239	gene/protein	bifunctional protein FolD	1
+29121239	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+29121239	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+29121239	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+29121239	molecular_function	N-acetyl-gamma-aminoadipyl-phosphate reductase activity	8
+29121239	organism	Sinorhizobium meliloti	2
+29121239	organism	Medicago sativa	2
+29121239	sequence	polypeptide	4
+29121239	sequence	arginine	2
+29121239	sequence	engineered_region	2
+29121239	sequence	promoter	2
+29121239	sequence	coding_start	1
+29121239	organ/tissue	multicellular organism	1
+29121239	clinical_drug	Arginine	2
+29121239	clinical_drug	Nitrogen	1

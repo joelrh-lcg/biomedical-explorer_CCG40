@@ -1,0 +1,24 @@
+16842354	biological_process	transposition	1
+16842354	biological_process	genetic transfer	1
+16842354	chemical	element	4
+16842354	chemical	pgbg	2
+16842354	disease	is3	1
+16842354	disease	is5	1
+16842354	gene/protein	ngr	5
+16842354	organism	bacterium	7
+16842354	organism	Rhizobium sp	6
+16842354	organism	insertion sequence	2
+16842354	organism	Rhizobium tropici	2
+16842354	organism	sinorhizobium meliloti	2
+16842354	organism	legume	1
+16842354	organism	unknown	1
+16842354	organism	Rhizobium	1
+16842354	sequence	genome	2
+16842354	sequence	insertion sequence	2
+16842354	sequence	sequence	1
+16842354	sequence	transposition	1
+16842354	sequence	homolog	1
+16842354	sequence	mobile	1
+16842354	cell_line	is3	1
+16842354	organ/tissue	element	4
+16842354	organ/tissue	nodule	2

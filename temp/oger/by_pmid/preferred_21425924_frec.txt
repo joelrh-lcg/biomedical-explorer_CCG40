@@ -1,0 +1,50 @@
+21425924	biological_process	nodulation	2
+21425924	biological_process	cell growth	2
+21425924	biological_process	root development	1
+21425924	biological_process	meristem initiation	1
+21425924	biological_process	RNA interference	1
+21425924	cellular_component	symbiosome	2
+21425924	cellular_component	obsolete protein	1
+21425924	cellular_component	membrane	1
+21425924	chemical	protein	2
+21425924	chemical	Hormones	2
+21425924	chemical	Indoleacetic Acids	2
+21425924	chemical	Abscisic Acid	2
+21425924	chemical	gibberellic acid	2
+21425924	chemical	(protein)	1
+21425924	chemical	picloram	1
+21425924	chemical	hormone	1
+21425924	chemical	auxin	1
+21425924	chemical	cytokinin	1
+21425924	chemical	Gibberellic acid	1
+21425924	chemical	gibberellin A3	1
+21425924	chemical	electron	1
+21425924	disease	Infections	2
+21425924	gene/protein	receptor of activated protein C kinase 1	2
+21425924	gene/protein	guanine nucleotide-binding protein subunit beta-2-like 1 (zebrafish)	2
+21425924	gene/protein	guanine nucleotide-binding protein subunit beta-2-like 1 (worm)	2
+21425924	gene/protein	receptor of activated protein C kinase 1 (human)	2
+21425924	gene/protein	receptor of activated protein C kinase 1 (chicken)	2
+21425924	gene/protein	Receptor of activated protein C kinase 1	2
+21425924	gene/protein	receptor of activated protein C kinase 1 (mouse)	2
+21425924	gene/protein	Guanine nucleotide-binding protein subunit beta-like protein	2
+21425924	gene/protein	guanine nucleotide-binding protein subunit beta-like protein (fruit fly)	2
+21425924	gene/protein	receptor of activated protein C kinase 1 (rat)	2
+21425924	gene/protein	eukaryotic protein	1
+21425924	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+21425924	gene/protein	ribonuclease I	1
+21425924	organism	Rhizobium tropici	2
+21425924	organism	Phaseolus	1
+21425924	organism	Rhizobium	1
+21425924	sequence	transcript	2
+21425924	sequence	transgenic	2
+21425924	sequence	polypeptide	1
+21425924	sequence	repeat_family	1
+21425924	sequence	engineered_region	1
+21425924	sequence	mature_protein_region	1
+21425924	sequence	membrane_structure	1
+21425924	organ/tissue	cerebellum vermis lobule X	12
+21425924	organ/tissue	germinal center	12
+21425924	organ/tissue	membrane organ	1
+21425924	organ/tissue	membranous layer	1
+21425924	molecular_process	chain reaction	1

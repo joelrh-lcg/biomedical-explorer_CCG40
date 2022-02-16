@@ -1,0 +1,53 @@
+31689478	biological_process	secretion	2
+31689478	biological_process	pathogenesis	2
+31689478	biological_process	obsolete virulence	2
+31689478	biological_process	viral process	2
+31689478	chemical	hydrogen donor	1
+31689478	chemical	donor	1
+31689478	chemical	nucleotide	1
+31689478	chemical	cluster	1
+31689478	chemical	Type VI Secretion Systems	1
+31689478	chemical	Type II Secretion Systems	1
+31689478	chemical	virulence factor	1
+31689478	chemical	base	1
+31689478	disease	Crohn Disease	2
+31689478	disease	Inflammatory Bowel Diseases	2
+31689478	disease	Nephrosis, congenital	1
+31689478	gene/protein	Iron-responsive element-binding protein 2	3
+31689478	gene/protein	isobutyryl-CoA dehydrogenase, mitochondrial (human)	2
+31689478	gene/protein	isobutyryl-CoA dehydrogenase, mitochondrial	2
+31689478	gene/protein	Tissue- and phase-specific nuclear protein	2
+31689478	gene/protein	Agglutinin-like protein 1	2
+31689478	gene/protein	neuroglian (fruit fly)	1
+31689478	gene/protein	type-1 fimbrial protein, A chain	1
+31689478	gene/protein	type-1 fimbrial protein, A chain (Escherichia coli K-12)	1
+31689478	gene/protein	fimbrin (Dictyostelium discoideum)	1
+31689478	gene/protein	Manganese ABC transporter substrate-binding lipoprotein	1
+31689478	gene/protein	flagellin FliC (Escherichia coli K-12)	1
+31689478	gene/protein	flagellin FliC	1
+31689478	gene/protein	iron-responsive element-binding protein 2	1
+31689478	gene/protein	iron-responsive element-binding protein 2 (rat)	1
+31689478	gene/protein	iron-responsive element-binding protein 2 (mouse)	1
+31689478	gene/protein	Insulin-related peptide 2	1
+31689478	gene/protein	ATP synthase epsilon chain	1
+31689478	gene/protein	poly(A) polymerase gamma (human)	1
+31689478	gene/protein	poly(A) polymerase gamma	1
+31689478	gene/protein	ATP synthase epsilon chain (Escherichia coli K-12)	1
+31689478	gene/protein	cytoskeleton-binding toxin CbtA (Escherichia coli K-12)	1
+31689478	gene/protein	toxin CbtA	1
+31689478	gene/protein	ciliary neurotrophic factor (chicken)	1
+31689478	gene/protein	hemolysin E, chromosomal (Escherichia coli K-12)	1
+31689478	gene/protein	hemolysin E, chromosomal	1
+31689478	organism	Escherichia coli	4
+31689478	sequence	SNP	2
+31689478	sequence	genome	1
+31689478	sequence	five_prime_cis_splice_site	1
+31689478	sequence	region	1
+31689478	sequence	genomic_island	1
+31689478	sequence	gene	1
+31689478	sequence	base	1
+31689478	cell_line	SNP	2
+31689478	cell_line	NRG	1
+31689478	organ/tissue	secretion of exocrine gland	2
+31689478	organ/tissue	intestine	1
+31689478	organ/tissue	cuneiform nucleus	1

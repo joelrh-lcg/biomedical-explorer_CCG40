@@ -1,0 +1,10 @@
+23405288	gene/protein	acetolactate synthase catalytic subunit, mitochondrial (yeast)	1
+23405288	gene/protein	cyclin-dependent protein kinase inhibitor SMR1 (Arabidopsis thaliana)	1
+23405288	gene/protein	submaxillary gland androgen-regulated protein 3A (mouse)	1
+23405288	gene/protein	submaxillary gland androgen-regulated protein 3A	1
+23405288	gene/protein	SMR1 protein (rat)	1
+23405288	organism	Rudiviridae	1
+23405288	organism	Sulfolobales Mexican rudivirus 1	1
+23405288	sequence	region	2
+23405288	sequence	consensus	1
+23405288	sequence	genome	1

@@ -1,0 +1,10 @@
+25660942	chemical	gold	2
+25660942	chemical	nucleotide	1
+25660942	disease	ddh	1
+25660942	gene/protein	ddh	2
+25660942	gene/protein	ANI	1
+25660942	gene/protein	ani	1
+25660942	organism	Rhizobiaceae	2
+25660942	organism	Rhizobium giardinii	2
+25660942	organism	Agrobacterium	1
+25660942	cell_line	bona	1

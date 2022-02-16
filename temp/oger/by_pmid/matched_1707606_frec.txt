@@ -1,0 +1,28 @@
+1707606	biological_process	symbiosis	1
+1707606	chemical	antibiotic	3
+1707606	chemical	nitrogen	2
+1707606	chemical	probe	1
+1707606	chemical	cluster	1
+1707606	chemical	rrna	1
+1707606	chemical	nucleotide	1
+1707606	chemical	16s rrna	1
+1707606	chemical	complement	1
+1707606	gene/protein	bean	9
+1707606	gene/protein	p42	8
+1707606	gene/protein	lack	1
+1707606	gene/protein	nifH	1
+1707606	organism	Rhizobium leguminosarum	2
+1707606	organism	Rhizobium	1
+1707606	organism	plasmid p42d	1
+1707606	sequence	probe	1
+1707606	sequence	rrna	1
+1707606	sequence	operon	1
+1707606	sequence	restriction fragment length polymorphism	1
+1707606	sequence	sequence	1
+1707606	sequence	fragment	1
+1707606	sequence	16s rrna	1
+1707606	sequence	rrna gene	1
+1707606	sequence	plasmid	1
+1707606	cell_line	bean	3
+1707606	organ/tissue	nodule	2
+1707606	clinical_drug	nitrogen	1

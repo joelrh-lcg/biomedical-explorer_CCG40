@@ -1,0 +1,49 @@
+22975386	biological_process	transcription, DNA-templated	2
+22975386	biological_process	homologous recombination	1
+22975386	biological_process	biological regulation	1
+22975386	cellular_component	chromosome	1
+22975386	cellular_component	obsolete protein	1
+22975386	chemical	atom	1
+22975386	chemical	protein	1
+22975386	chemical	(protein)	1
+22975386	chemical	alpha-particle	1
+22975386	chemical	cluster	1
+22975386	chemical	Prolactin	1
+22975386	gene/protein	Prolactin	40
+22975386	gene/protein	Replication-associated protein A	30
+22975386	gene/protein	transcriptional repressor PifC (Escherichia coli K-12)	4
+22975386	gene/protein	Repressor c protein	4
+22975386	gene/protein	transcriptional repressor pifC	4
+22975386	gene/protein	Repressor protein c	4
+22975386	gene/protein	Rap guanine nucleotide exchange factor 5	4
+22975386	gene/protein	RepFIB replication protein A (Escherichia coli K-12)	3
+22975386	gene/protein	RepFIB replication protein A	3
+22975386	gene/protein	protein	1
+22975386	gene/protein	general transcription and DNA repair factor IIH helicase subunit XPB (Dictyostelium discoideum)	1
+22975386	gene/protein	mobilization protein A (Escherichia coli)	1
+22975386	gene/protein	replication regulatory protein repA2 (Shigella flexneri)	1
+22975386	gene/protein	bifunctional glutamate/proline--tRNA ligase (human)	1
+22975386	gene/protein	bifunctional glutamate/proline--tRNA ligase	1
+22975386	gene/protein	pre-B-cell leukemia transcription factor 1	1
+22975386	gene/protein	prolactin (human)	1
+22975386	gene/protein	prolactin	1
+22975386	gene/protein	prolactin (chicken)	1
+22975386	gene/protein	pre-B-cell leukemia transcription factor 1 (human)	1
+22975386	gene/protein	prolactin (mouse)	1
+22975386	gene/protein	DNA replication licensing factor MCM7 (Arabidopsis thaliana)	1
+22975386	gene/protein	prolactin (rat)	1
+22975386	organism	unidentified plasmid	7
+22975386	organism	Alphaproteobacteria	2
+22975386	organism	Rhizobium leguminosarum	2
+22975386	sequence	gene	10
+22975386	sequence	plasmid	7
+22975386	sequence	operon	4
+22975386	sequence	chromosome	1
+22975386	sequence	INR_motif	1
+22975386	sequence	polypeptide	1
+22975386	sequence	region	1
+22975386	sequence	homologous	1
+22975386	sequence	genome	1
+22975386	sequence	origin_of_replication	1
+22975386	cell_line	REPC	4
+22975386	organ/tissue	organ	1

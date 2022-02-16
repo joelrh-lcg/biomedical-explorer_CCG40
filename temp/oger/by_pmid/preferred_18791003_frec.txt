@@ -1,0 +1,64 @@
+18791003	chemical	Glycine	2
+18791003	chemical	glycine	1
+18791003	chemical	glycine zwitterion	1
+18791003	chemical	glycine residue	1
+18791003	gene/protein	Asparagine synthetase B [glutamine-hydrolyzing]	2
+18791003	gene/protein	ATP synthase subunit delta, chloroplastic (Arabidopsis thaliana)	1
+18791003	gene/protein	ATP synthase subunit beta (Aeromonas hydrophila subsp. hydrophila ATCC 7966)	1
+18791003	gene/protein	ATP synthase subunit beta (Clostridium botulinum A str. Hall)	1
+18791003	gene/protein	ATP synthase subunit beta (Mycobacterium tuberculosis H37Rv)	1
+18791003	gene/protein	ATP synthase subunit beta	1
+18791003	gene/protein	ATP synthase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+18791003	gene/protein	ATP synthase subunit beta (Escherichia coli K-12)	1
+18791003	gene/protein	ATP synthase subunit beta (Leptospira interrogans serovar Lai str. 56601)	1
+18791003	gene/protein	protein RecA (Brucella abortus bv. 1 str. 9-941)	1
+18791003	gene/protein	protein RecA (Mycobacterium tuberculosis H37Rv)	1
+18791003	gene/protein	DNA repair protein RAD51 homolog 1 (mouse)	1
+18791003	gene/protein	protein RecA	1
+18791003	gene/protein	DNA repair protein RAD51 homolog 1	1
+18791003	gene/protein	protein RecA (Brucella suis 1330)	1
+18791003	gene/protein	mitochondrial DNA repair protein recA homolog (Dictyostelium discoideum)	1
+18791003	gene/protein	protein RecA (Escherichia coli K-12)	1
+18791003	gene/protein	protein RecA (Brucella canis ATCC 23365)	1
+18791003	gene/protein	DNA repair protein RAD51 homolog 1 (human)	1
+18791003	gene/protein	protein RecA (Brucella suis ATCC 23445)	1
+18791003	gene/protein	protein RecA (Brucella melitensis ATCC 23457)	1
+18791003	gene/protein	DNA repair protein recA homolog 1, chloroplastic (Arabidopsis thaliana)	1
+18791003	gene/protein	protein RecA (Brucella abortus 2308)	1
+18791003	gene/protein	DNA-directed RNA polymerase subunit beta (Thermus thermophilus HB8)	1
+18791003	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis ATCC 23445)	1
+18791003	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus 2308)	1
+18791003	gene/protein	DNA-directed RNA polymerase subunit beta (Escherichia coli K-12)	1
+18791003	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella canis ATCC 23365)	1
+18791003	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella ovis ATCC 25840)	1
+18791003	gene/protein	DNA-directed RNA polymerase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+18791003	gene/protein	DNA-directed RNA polymerase subunit beta (Peptoclostridium difficile 630)	1
+18791003	gene/protein	DNA-directed RNA polymerase subunit beta (Clostridium botulinum A str. Hall)	1
+18791003	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella melitensis ATCC 23457)	1
+18791003	gene/protein	DNA-directed RNA polymerase subunit beta	1
+18791003	gene/protein	DNA-directed RNA polymerase subunit beta (Arabidopsis thaliana)	1
+18791003	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis 1330)	1
+18791003	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus bv. 1 str. 9-941)	1
+18791003	gene/protein	protein max (zebrafish)	1
+18791003	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+18791003	gene/protein	extracellular adherence protein	1
+18791003	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+18791003	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+18791003	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+18791003	gene/protein	methionine aminopeptidase	1
+18791003	organism	Bradyrhizobium	2
+18791003	organism	Glycine max	2
+18791003	organism	Soybeans	2
+18791003	organism	Bradyrhizobium diazoefficiens	2
+18791003	sequence	clone	2
+18791003	sequence	region	1
+18791003	sequence	glycine	1
+18791003	sequence	sequence_variant_obs	1
+18791003	sequence	intermediate	1
+18791003	cell_line	RECA	1
+18791003	organ/tissue	cerebellum vermis lobule X	1
+18791003	organ/tissue	germinal center	1
+18791003	clinical_drug	Glycine	1
+18791003	clinical_drug	Soybean preparation	1
+18791003	clinical_drug	Soybean	1
+18791003	entity_type	preferred_term	2

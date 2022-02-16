@@ -1,0 +1,32 @@
+7635216	biological_process	sulfation	5
+7635216	biological_process	nodulation	2
+7635216	biological_process	methylation	1
+7635216	chemical	nodulation factor	7
+7635216	chemical	sulfate	4
+7635216	chemical	Somatomedins	4
+7635216	chemical	mixture	2
+7635216	chemical	molecule	1
+7635216	chemical	hydrogen donor	1
+7635216	chemical	donor	1
+7635216	disease	Myoclonic Epilepsies, Progressive	8
+7635216	gene/protein	Flavohemoprotein	344
+7635216	gene/protein	flavohemoprotein	8
+7635216	gene/protein	kinesin-like protein Nod (fruit fly)	8
+7635216	gene/protein	2,3-bisphosphoglycerate-independent phosphoglycerate mutase (Escherichia coli K-12)	2
+7635216	gene/protein	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	2
+7635216	organism	Rhizobium tropici	2
+7635216	organism	Rhizobium leucaenae	2
+7635216	organism	Phaseolus	1
+7635216	organism	bacterium IFAM-3211	1
+7635216	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+7635216	organism	bacterium IFAM-3215	1
+7635216	organism	bacterium IFAM-2074	1
+7635216	organism	bacterium IFAM-3359	1
+7635216	organism	bacterium	1
+7635216	organism	bacterium IFAM-1493	1
+7635216	organism	unidentified plasmid	1
+7635216	sequence	gene	4
+7635216	sequence	sequence_variant_obs	3
+7635216	sequence	plasmid	1
+7635216	sequence	five_prime_cis_splice_site	1
+7635216	molecular_process	methylation	1

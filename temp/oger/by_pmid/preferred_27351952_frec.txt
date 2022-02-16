@@ -1,0 +1,12 @@
+27351952	biological_process	cell growth	2
+27351952	cellular_component	obsolete protein	8
+27351952	chemical	protein	8
+27351952	chemical	(protein)	8
+27351952	chemical	Proteome	3
+27351952	chemical	nutrient	1
+27351952	gene/protein	protein	8
+27351952	organism	Escherichia coli	4
+27351952	organism	unidentified	1
+27351952	sequence	polypeptide	8
+27351952	sequence	gene	1
+27351952	molecular_process	reduction	1

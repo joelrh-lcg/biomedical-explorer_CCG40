@@ -1,0 +1,11 @@
+26798087	biological_process	virulence	3
+26798087	cellular_component	chromosome	1
+26798087	chemical	virulence factor	1
+26798087	disease	chronic obstructive pulmonary disease	2
+26798087	gene/protein	SMRT	4
+26798087	organism	serratia	1
+26798087	organism	plasmid	1
+26798087	sequence	genome	1
+26798087	sequence	sequence	1
+26798087	sequence	chromosome	1
+26798087	sequence	plasmid	1

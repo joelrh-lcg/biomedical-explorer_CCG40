@@ -1,0 +1,30 @@
+23935046	chemical	recombinase	5
+23935046	chemical	tyrosine	5
+23935046	chemical	atta	3
+23935046	chemical	dnase	1
+23935046	gene/protein	inta	14
+23935046	gene/protein	atta	6
+23935046	gene/protein	dnase	6
+23935046	gene/protein	recombinase	5
+23935046	gene/protein	p42a	3
+23935046	molecular_function	binding	2
+23935046	molecular_function	tyrosine recombinase	1
+23935046	organism	plasmid	5
+23935046	organism	Rhizobium etli	2
+23935046	organism	CFN42	1
+23935046	sequence	plasmid	5
+23935046	sequence	binding	4
+23935046	sequence	sequence	2
+23935046	sequence	fragment	2
+23935046	sequence	invert	2
+23935046	sequence	repeat	2
+23935046	sequence	mutation	2
+23935046	sequence	tyrosine	1
+23935046	sequence	replicon	1
+23935046	sequence	attachment site	1
+23935046	sequence	construct	1
+23935046	sequence	linear	1
+23935046	sequence	enhancer	1
+23935046	organ/tissue	attachment site	1
+23935046	organ/tissue	flank	1
+23935046	clinical_drug	tyrosine	1

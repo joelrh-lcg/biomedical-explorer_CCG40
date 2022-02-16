@@ -1,0 +1,13 @@
+34066536	biological_process	defense response	3
+34066536	chemical	fungicide	3
+34066536	chemical	Gadolinium	2
+34066536	chemical	atom	1
+34066536	chemical	gadolinium atom	1
+34066536	chemical	calcium(0)	1
+34066536	chemical	calcium atom	1
+34066536	gene/protein	coatomer subunit epsilon (Dictyostelium discoideum)	1
+34066536	organism	synthetic construct	2
+34066536	organism	Plants, Edible	1
+34066536	organism	Fungi	1
+34066536	organ/tissue	organ	1
+34066536	clinical_drug	Calcium	1

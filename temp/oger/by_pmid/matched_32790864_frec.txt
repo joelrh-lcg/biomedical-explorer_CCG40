@@ -1,0 +1,15 @@
+32790864	cellular_component	y chromosome	2
+32790864	chemical	male	1
+32790864	gene/protein	fold	4
+32790864	gene/protein	ten	1
+32790864	organism	placental mammal	2
+32790864	organism	primate	1
+32790864	sequence	gene	4
+32790864	sequence	chromosome	2
+32790864	sequence	sequence	1
+32790864	sequence	gain	1
+32790864	organ/tissue	testis	1
+32790864	organ/tissue	tissue	1
+32790864	organ/tissue	male	1
+32790864	organ/tissue	female	1
+32790864	molecular_process	reduction	1

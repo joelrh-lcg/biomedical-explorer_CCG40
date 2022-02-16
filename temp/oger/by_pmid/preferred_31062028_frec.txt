@@ -1,0 +1,29 @@
+31062028	biological_process	biosynthetic process	2
+31062028	biological_process	biofilm formation	1
+31062028	chemical	polyamine macromolecule	3
+31062028	chemical	polyamine polymer	3
+31062028	chemical	polyamine	3
+31062028	chemical	Putrescine	2
+31062028	chemical	Spermidine	2
+31062028	chemical	norspermidine	2
+31062028	chemical	molecule	1
+31062028	chemical	primary amino group	1
+31062028	chemical	1,4-butanediammonium	1
+31062028	chemical	putrescine	1
+31062028	chemical	sym-homospermidine	1
+31062028	chemical	spermidine	1
+31062028	chemical	spermidine(3+)	1
+31062028	chemical	bis(3-aminopropyl)amine	1
+31062028	chemical	bis(3-azaniumylpropyl)azanium	1
+31062028	chemical	exopolysaccharide	1
+31062028	organism	Medicago sativa	2
+31062028	organism	Sinorhizobium meliloti	2
+31062028	organism	bacterium IFAM-3211	1
+31062028	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+31062028	organism	bacterium IFAM-3215	1
+31062028	organism	bacterium IFAM-2074	1
+31062028	organism	bacterium IFAM-3359	1
+31062028	organism	bacterium	1
+31062028	organism	bacterium IFAM-1493	1
+31062028	organ/tissue	multicellular organism	1
+31062028	clinical_drug	Medicago sativa whole extract	1

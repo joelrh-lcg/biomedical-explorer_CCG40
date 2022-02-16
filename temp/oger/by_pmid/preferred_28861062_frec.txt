@@ -1,0 +1,44 @@
+28861062	biological_process	pathogenesis	1
+28861062	biological_process	obsolete virulence	1
+28861062	biological_process	viral process	1
+28861062	cellular_component	subrhabdomeral cisterna	7
+28861062	chemical	Anti-Bacterial Agents	4
+28861062	chemical	diphenylmethane-4,4'-diisocyanate	3
+28861062	chemical	cluster	2
+28861062	chemical	antimicrobial agent	2
+28861062	chemical	base	1
+28861062	disease	Smith-McCort Dysplasia	7
+28861062	gene/protein	Structural maintenance of chromosomes protein 4	7
+28861062	gene/protein	mucin-4 (rat)	5
+28861062	gene/protein	Mannose-binding protein C	2
+28861062	gene/protein	mannose-binding protein C	2
+28861062	gene/protein	protein muscleblind (fruit fly)	2
+28861062	gene/protein	mannose-binding protein (chicken)	2
+28861062	gene/protein	mannose-binding protein C (human)	2
+28861062	gene/protein	structural maintenance of chromosomes protein 1 (Schizosaccharomyces pombe 972h-)	1
+28861062	gene/protein	structural maintenance of chromosomes protein 1 (yeast)	1
+28861062	gene/protein	structural maintenance of chromosomes protein 1A (rat)	1
+28861062	gene/protein	structural maintenance of chromosomes protein 1A (mouse)	1
+28861062	gene/protein	structural maintenance of chromosomes protein 1A (human)	1
+28861062	gene/protein	structural maintenance of chromosomes protein 1A	1
+28861062	gene/protein	structural maintenance of chromosomes protein 1 (Arabidopsis thaliana)	1
+28861062	gene/protein	structural maintenance of chromosomes protein 1 (worm)	1
+28861062	gene/protein	Structural maintenance of chromosomes protein 1	1
+28861062	gene/protein	structural maintenance of chromosomes protein 4 (mouse)	1
+28861062	gene/protein	structural maintenance of chromosomes protein 4 (Schizosaccharomyces pombe 972h-)	1
+28861062	gene/protein	structural maintenance of chromosomes protein 4 (human)	1
+28861062	gene/protein	structural maintenance of chromosomes protein 4 (yeast)	1
+28861062	gene/protein	structural maintenance of chromosomes protein 4 (worm)	1
+28861062	gene/protein	structural maintenance of chromosomes protein 4 (Arabidopsis thaliana)	1
+28861062	gene/protein	structural maintenance of chromosomes protein 4 (Dictyostelium discoideum)	1
+28861062	gene/protein	structural maintenance of chromosomes protein 4	1
+28861062	gene/protein	translation initiation factor IF-3 (Escherichia coli K-12)	1
+28861062	gene/protein	translation initiation factor IF-3	1
+28861062	molecular_function	retinol dehydrogenase activity	3
+28861062	organism	collection	1
+28861062	sequence	region	5
+28861062	sequence	cryptic	1
+28861062	sequence	base	1
+28861062	sequence	genome	1
+28861062	sequence	gene	1
+28861062	cell_line	SMC-1	1

@@ -1,0 +1,25 @@
+23583844	biological_process	nodulation	2
+23583844	biological_process	immune response	1
+23583844	cellular_component	protein	1
+23583844	cellular_component	membrane	1
+23583844	chemical	lipid a	45
+23583844	chemical	lipopolysaccharide	2
+23583844	chemical	protein	2
+23583844	chemical	calcium	2
+23583844	chemical	mixture	1
+23583844	chemical	proteins	1
+23583844	disease	infection	2
+23583844	gene/protein	lack	1
+23583844	gene/protein	protein	1
+23583844	organism	bacterium	7
+23583844	organism	Rhizobium etli	2
+23583844	organism	Salmonella enterica	2
+23583844	organism	Phaseolus vulgaris	2
+23583844	sequence	chain	1
+23583844	sequence	homolog	1
+23583844	sequence	protein	1
+23583844	sequence	gene	1
+23583844	organ/tissue	membrane	2
+23583844	organ/tissue	nodule	2
+23583844	clinical_drug	calcium	1
+23583844	molecular_process	deacylation	1

@@ -1,0 +1,22 @@
+29130376	biological_process	defense response	2
+29130376	biological_process	innate immunity	1
+29130376	chemical	cutin	3
+29130376	chemical	salicylic acid	3
+29130376	chemical	wax	1
+29130376	disease	eca2	6
+29130376	gene/protein	atl2	8
+29130376	gene/protein	eca2	6
+29130376	gene/protein	eca	3
+29130376	gene/protein	to B	1
+29130376	organism	Pseudomonas syringae	3
+29130376	organism	Arabidopsis thaliana	2
+29130376	organism	Botrytis cinerea	1
+29130376	organism	spodoptera littoralis	1
+29130376	sequence	gene	2
+29130376	cell_line	eca2	6
+29130376	cell_line	atl2	4
+29130376	organ/tissue	cuticle	6
+29130376	organ/tissue	organ	2
+29130376	clinical_drug	Botrytis cinerea	1
+29130376	clinical_drug	salicylic acid	1
+29130376	molecular_process	reduction	1

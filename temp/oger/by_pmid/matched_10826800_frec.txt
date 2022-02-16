@@ -1,0 +1,24 @@
+10826800	biological_process	nodulation	1
+10826800	cellular_component	core	1
+10826800	chemical	s23	2
+10826800	chemical	proteins	1
+10826800	chemical	16s rrna	1
+10826800	chemical	16s	1
+10826800	gene/protein	api	26
+10826800	gene/protein	bean	3
+10826800	gene/protein	rna	2
+10826800	gene/protein	type b	1
+10826800	organism	group ii	3
+10826800	organism	rhizobium etli	2
+10826800	organism	Phaseolus vulgari	1
+10826800	organism	Rhizobium	1
+10826800	organism	strain all	1
+10826800	organism	api	1
+10826800	organism	Rhizobium tropici type b	1
+10826800	sequence	gene	1
+10826800	sequence	16s rrna	1
+10826800	sequence	intergenic	1
+10826800	sequence	consensus	1
+10826800	cell_line	bean	1
+10826800	cell_line	s23	1
+10826800	organ/tissue	nodule	2

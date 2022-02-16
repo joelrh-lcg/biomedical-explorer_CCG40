@@ -1,0 +1,37 @@
+8635758	chemical	polypeptide	2
+8635758	chemical	amino acid	2
+8635758	chemical	nucleotide	1
+8635758	chemical	proteins	1
+8635758	disease	Lyme disease	2
+8635758	disease	influenza	2
+8635758	gene/protein	pth	3132
+8635758	gene/protein	orf	4
+8635758	gene/protein	polypeptide	4
+8635758	gene/protein	Ec Pth	2
+8635758	gene/protein	span	1
+8635758	gene/protein	Ec pth	1
+8635758	organism	Borrelia burgdorferi	2
+8635758	organism	Chlamydia trachomatis	2
+8635758	organism	Escherichia coli	2
+8635758	organism	bacillus subtilis	2
+8635758	organism	Saccharomyces cerevisiae	2
+8635758	organism	Mycoplasma genitalium	2
+8635758	organism	Salmonella typhi	1
+8635758	organism	unidentified	1
+8635758	organism	Haemophilus	1
+8635758	organism	eubacteria	1
+8635758	organism	eukaryota	1
+8635758	sequence	gene	3
+8635758	sequence	clone	2
+8635758	sequence	sequence	2
+8635758	sequence	homologue	2
+8635758	sequence	homologous	2
+8635758	sequence	orf	2
+8635758	sequence	polypeptide	2
+8635758	sequence	open reading frame	1
+8635758	sequence	amino acid	1
+8635758	sequence	mutation	1
+8635758	organ/tissue	pth	5
+8635758	organ/tissue	Pth	2
+8635758	clinical_drug	Saccharomyces cerevisiae	2
+8635758	clinical_drug	bacillus subtilis	1

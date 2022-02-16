@@ -1,0 +1,26 @@
+16672447	biological_process	nitrogen fixation	1
+16672447	cellular_component	protein	1
+16672447	chemical	acetylene	3
+16672447	chemical	nitrogen	2
+16672447	chemical	16s rrna	2
+16672447	chemical	protein	2
+16672447	chemical	16s	1
+16672447	chemical	amplify	1
+16672447	gene/protein	pcr	8
+16672447	gene/protein	as b	1
+16672447	gene/protein	nifH	1
+16672447	gene/protein	new 16	1
+16672447	gene/protein	protein	1
+16672447	organism	sugarcane	12
+16672447	organism	Burkholderia	7
+16672447	organism	maize	6
+16672447	organism	primer	2
+16672447	sequence	primer	2
+16672447	sequence	gene	2
+16672447	sequence	16s rrna	2
+16672447	sequence	rrna gene	2
+16672447	sequence	pcr product	1
+16672447	sequence	protein	1
+16672447	clinical_drug	sugarcane	8
+16672447	clinical_drug	nitrogen	1
+16672447	molecular_process	acetylene reduction	1

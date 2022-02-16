@@ -1,0 +1,16 @@
+23280323	gene/protein	rpob	14
+23280323	gene/protein	reca	14
+23280323	gene/protein	crop	1
+23280323	gene/protein	nifh	1
+23280323	organism	bacterium	14
+23280323	organism	legume	2
+23280323	organism	Vigna unguiculata	2
+23280323	organism	maize	2
+23280323	organism	Bradyrhizobium	1
+23280323	organism	Phaseolus lunatus	1
+23280323	organism	Phaseolus vulgari	1
+23280323	sequence	gene	2
+23280323	sequence	sequence	1
+23280323	cell_line	reca	1
+23280323	organ/tissue	nodule	6
+23280323	organ/tissue	crop	1

@@ -1,0 +1,34 @@
+16672447	biological_process	nitrogen fixation	1
+16672447	cellular_component	obsolete protein	1
+16672447	chemical	Acetylene	2
+16672447	chemical	RNA, Ribosomal, 16S	2
+16672447	chemical	acetylene	1
+16672447	chemical	nitrogen atom	1
+16672447	chemical	nitrogen(.)	1
+16672447	chemical	sulfur atom	1
+16672447	chemical	2,6-diisopropylnaphthalene	1
+16672447	chemical	protein	1
+16672447	chemical	(protein)	1
+16672447	gene/protein	Protochlorophyllide reductase, chloroplastic	5
+16672447	gene/protein	Light-dependent protochlorophyllide reductase	2
+16672447	gene/protein	Asparagine synthetase B [glutamine-hydrolyzing]	1
+16672447	gene/protein	Protochlorophyllide reductase	1
+16672447	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+16672447	gene/protein	cytochrome c oxidase subunit 6B-like protein new16 (Schizosaccharomyces pombe 972h-)	1
+16672447	gene/protein	protein	1
+16672447	organism	Burkholderia	7
+16672447	organism	Zea mays	6
+16672447	organism	Saccharum	4
+16672447	organism	Saccharum officinarum	4
+16672447	organism	Saccharum hybrid cultivar	4
+16672447	organism	synthetic construct	2
+16672447	sequence	primer	2
+16672447	sequence	gene	2
+16672447	sequence	rRNA_16S	2
+16672447	sequence	rRNA_gene	2
+16672447	sequence	PCR_product	1
+16672447	sequence	polypeptide	1
+16672447	clinical_drug	sugarcane extract	4
+16672447	clinical_drug	Saccharum officinarum allergenic extract	4
+16672447	clinical_drug	Nitrogen	1
+16672447	molecular_process	acetylene reduction	1

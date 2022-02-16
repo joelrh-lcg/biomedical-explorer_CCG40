@@ -1,0 +1,46 @@
+2892830	biological_process	symbiotic process	1
+2892830	biological_process	nitrogen fixation	1
+2892830	chemical	Ammonium Compounds	4
+2892830	chemical	Glutamine	4
+2892830	chemical	ammonium	2
+2892830	chemical	glutamine	2
+2892830	chemical	L-glutamine	2
+2892830	chemical	picloram	2
+2892830	chemical	Glutamate Dehydrogenase	1
+2892830	chemical	nitrogen atom	1
+2892830	chemical	nitrogen(.)	1
+2892830	gene/protein	Glutamate dehydrogenase	96
+2892830	gene/protein	Glucose 1-dehydrogenase	45
+2892830	gene/protein	Glycerol dehydrogenase	30
+2892830	gene/protein	Glucarate dehydratase	20
+2892830	gene/protein	Glutamate dehydrogenase, mitochondrial	15
+2892830	gene/protein	Glycerate dehydrogenase	15
+2892830	gene/protein	Galactitol 2-dehydrogenase	10
+2892830	gene/protein	Probable glucarate dehydratase	10
+2892830	gene/protein	Glycerate dehydrogenase HPR, peroxisomal	5
+2892830	gene/protein	Pyranose dehydrogenase	5
+2892830	gene/protein	Probable glutamate dehydrogenase	5
+2892830	gene/protein	glucarate dehydratase	5
+2892830	gene/protein	GDH/6PGL endoplasmic bifunctional protein	5
+2892830	gene/protein	D-lactate dehydrogenase [cytochrome], mitochondrial (Arabidopsis thaliana)	5
+2892830	gene/protein	Glycerol dehydrogenase 1	5
+2892830	gene/protein	glutamate dehydrogenase, mitochondrial (fruit fly)	5
+2892830	gene/protein	GDH/6PGL endoplasmic bifunctional protein (human)	5
+2892830	gene/protein	glycerol dehydrogenase	5
+2892830	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+2892830	gene/protein	Catabolic NAD-specific glutamate dehydrogenase RocG	1
+2892830	gene/protein	NADP-specific glutamate dehydrogenase (Escherichia coli K-12)	1
+2892830	gene/protein	NADP-specific glutamate dehydrogenase	1
+2892830	molecular_function	glucose-6-phosphate dehydrogenase activity	5
+2892830	organism	Rhizobium phaseoli	2
+2892830	organism	Escherichia coli	2
+2892830	organism	Phaseolus	1
+2892830	organism	Phaseolus vulgaris	1
+2892830	sequence	glutamine	2
+2892830	sequence	gene	1
+2892830	sequence	engineered_region	1
+2892830	organ/tissue	cerebellum vermis lobule X	1
+2892830	organ/tissue	germinal center	1
+2892830	clinical_drug	Glutamine	2
+2892830	clinical_drug	Glutamate	1
+2892830	clinical_drug	Nitrogen	1

@@ -1,0 +1,23 @@
+29867794	biological_process	metabolic process	1
+29867794	biological_process	iron acquisition from host	1
+29867794	biological_process	purine nucleobase metabolic process	1
+29867794	biological_process	purine nucleotide metabolic process	1
+29867794	biological_process	purine nucleoside metabolic process	1
+29867794	cellular_component	viral nucleocapsid	1
+29867794	chemical	purine	3
+29867794	chemical	alpha-amino acid	1
+29867794	chemical	amino acid	1
+29867794	chemical	picloram	1
+29867794	chemical	iron atom	1
+29867794	chemical	7H-purine	1
+29867794	disease	Salmonella Infections	2
+29867794	organism	Solanum lycopersicum	4
+29867794	organism	Lycopersicon esculentum	4
+29867794	sequence	gene	4
+29867794	sequence	genome	3
+29867794	sequence	amino_acid	1
+29867794	sequence	homologous_region	1
+29867794	organ/tissue	animal hemisphere	2
+29867794	organ/tissue	multicellular organism	2
+29867794	clinical_drug	tomato allergenic extract	4
+29867794	clinical_drug	Iron	1

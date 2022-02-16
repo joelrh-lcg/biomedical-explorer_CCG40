@@ -1,0 +1,13 @@
+23618716	cellular_component	viral nucleocapsid	1
+23618716	gene/protein	Major fimbrial subunit SMF-1	2
+23618716	gene/protein	small nuclear ribonucleoprotein F (Schizosaccharomyces pombe 972h-)	2
+23618716	gene/protein	manganese transporter SMF1 (yeast)	2
+23618716	gene/protein	NRAMP-like transporter smf-1 (worm)	2
+23618716	organism	Fuselloviridae	1
+23618716	organism	Sulfolobales Mexican fusellovirus 1	1
+23618716	sequence	genome	2
+23618716	sequence	consensus	1
+23618716	sequence	region	1
+23618716	sequence	circular	1
+23618716	sequence	beta_strand	1
+23618716	sequence	gene	1

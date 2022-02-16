@@ -1,0 +1,56 @@
+30738581	cellular_component	obsolete protein	4
+30738581	cellular_component	plasma membrane	2
+30738581	cellular_component	membrane	2
+30738581	chemical	protein	7
+30738581	chemical	(protein)	4
+30738581	chemical	Ala-Gln-Pro	1
+30738581	chemical	piperidine	1
+30738581	chemical	1-phosphatidyl-1D-myo-inositol 5-phosphate	1
+30738581	chemical	diastatine	1
+30738581	disease	Dehydration	4
+30738581	disease	Ataxia Telangiectasia	2
+30738581	gene/protein	Proline iminopeptidase	29
+30738581	gene/protein	Aquaporin	21
+30738581	gene/protein	3'(2'),5'-bisphosphate nucleotidase 1	4
+30738581	gene/protein	protein	3
+30738581	gene/protein	Putative proline iminopeptidase	2
+30738581	gene/protein	Probable proline iminopeptidase	2
+30738581	gene/protein	dehydrin ERD10 (Arabidopsis thaliana)	2
+30738581	gene/protein	dehydrin Rab18 (Arabidopsis thaliana)	2
+30738581	gene/protein	Proline iminopeptidase PfmaB	1
+30738581	gene/protein	Gastrotropin	1
+30738581	gene/protein	Proline iminopeptidase aneH	1
+30738581	gene/protein	heparan sulfate 2-O-sulfotransferase pipe (fruit fly)	1
+30738581	gene/protein	prolactin-inducible protein homolog (rat)	1
+30738581	gene/protein	Myb-binding protein 1A	1
+30738581	gene/protein	proline iminopeptidase (Arabidopsis thaliana)	1
+30738581	gene/protein	proline iminopeptidase (Clostridium botulinum A str. Hall)	1
+30738581	gene/protein	prolactin-inducible protein homolog (mouse)	1
+30738581	gene/protein	prolactin-inducible protein (human)	1
+30738581	gene/protein	prolactin-inducible protein	1
+30738581	gene/protein	aquaporin PIP2-2 (Arabidopsis thaliana)	1
+30738581	gene/protein	M protein	1
+30738581	gene/protein	Dehydrin COR47	1
+30738581	gene/protein	dehydrin COR47 (Arabidopsis thaliana)	1
+30738581	gene/protein	Ras-related protein RABC1 (Arabidopsis thaliana)	1
+30738581	gene/protein	Ras-related protein Rab-18 (mouse)	1
+30738581	gene/protein	Ras-related protein Rab-18	1
+30738581	gene/protein	Ras-related protein Rab-18 (rat)	1
+30738581	gene/protein	Ras-related protein Rab-18 (human)	1
+30738581	gene/protein	Ras-related protein Rab-18 (worm)	1
+30738581	gene/protein	Ras-related protein Rab-18 (Dictyostelium discoideum)	1
+30738581	gene/protein	Ras-related protein Rab-18 (chicken)	1
+30738581	gene/protein	Ras-related protein Rab-18-B (zebrafish)	1
+30738581	molecular_function	water channel activity	3
+30738581	organism	Arabidopsis	2
+30738581	organism	Cactaceae	1
+30738581	sequence	polypeptide	4
+30738581	cell	type I pneumocyte	2
+30738581	cell	type II pneumocyte	1
+30738581	cell_line	UoC-B12	2
+30738581	cell_line	R-3327-AT-1	2
+30738581	cell_line	R-3327-AT-2	1
+30738581	cell_line	R-3327-AT-5	1
+30738581	organ/tissue	membrane organ	4
+30738581	organ/tissue	membranous layer	4
+30738581	organ/tissue	blood plasma	1

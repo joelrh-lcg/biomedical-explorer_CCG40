@@ -1,0 +1,65 @@
+28639897	biological_process	cell growth	1
+28639897	chemical	RNA-Directed DNA Polymerase	1
+28639897	chemical	inhibitor	1
+28639897	disease	Uterine Cervical Neoplasms	6
+28639897	disease	Neoplasm Metastasis	4
+28639897	disease	Recurrence	2
+28639897	disease	Disease Progression	2
+28639897	disease	Neoplasms	2
+28639897	gene/protein	Protease	27
+28639897	gene/protein	Caspase-7	3
+28639897	gene/protein	RNA-directed DNA polymerase from mobile element jockey	2
+28639897	gene/protein	Endogenous retrovirus group K member 8 Pro protein	1
+28639897	gene/protein	Endogenous retrovirus group K member 7 Pro protein	1
+28639897	gene/protein	Endogenous retrovirus group K member 10 Pro protein	1
+28639897	gene/protein	Endogenous retrovirus group K member 21 Pro protein	1
+28639897	gene/protein	Endogenous retrovirus group K member 19 Pro protein	1
+28639897	gene/protein	Endogenous retrovirus group K member 25 Pro protein	1
+28639897	gene/protein	Endogenous retrovirus group K member 104 Pro protein	1
+28639897	gene/protein	Endogenous retrovirus group K member 113 Pro protein	1
+28639897	gene/protein	Endogenous retrovirus group K member 24 Pro protein	1
+28639897	gene/protein	Endogenous retrovirus group K member 9 Pro protein	1
+28639897	gene/protein	Endogenous retrovirus group K member 6 Pro protein	1
+28639897	gene/protein	Endogenous retrovirus group K member 18 Pro protein	1
+28639897	gene/protein	RNA-directed DNA polymerase from retron Mx162-RT	1
+28639897	gene/protein	RNA-directed DNA polymerase from retron Mx65	1
+28639897	gene/protein	RNA-directed DNA polymerase from retron EC86	1
+28639897	gene/protein	Probable RNA-directed DNA polymerase from transposon X-element	1
+28639897	gene/protein	Probable RNA-directed DNA polymerase from transposon BS	1
+28639897	gene/protein	protein FAM111B	1
+28639897	gene/protein	protein FAM111B (human)	1
+28639897	gene/protein	protein FAM111A (human)	1
+28639897	gene/protein	protein FAM111A (mouse)	1
+28639897	gene/protein	protein FAM111A	1
+28639897	gene/protein	complement factor B (human)	1
+28639897	gene/protein	HLA-B associated transcript 8, rat orthologue (rat)	1
+28639897	gene/protein	complement factor B	1
+28639897	gene/protein	protein Skiv2l (rat)	1
+28639897	gene/protein	complement factor B (mouse)	1
+28639897	gene/protein	proteasome subunit beta type-8 (rat)	1
+28639897	gene/protein	proteasome subunit beta type-8 (human)	1
+28639897	gene/protein	proteasome subunit beta type-8	1
+28639897	gene/protein	proteasome subunit beta type-8 (mouse)	1
+28639897	gene/protein	proteasome subunit beta type-9 (human)	1
+28639897	gene/protein	proteasome subunit beta type-9	1
+28639897	gene/protein	proteasome subunit beta type-9 (mouse)	1
+28639897	gene/protein	proteasome subunit beta type-9 (rat)	1
+28639897	gene/protein	caspase-7	1
+28639897	gene/protein	caspase-7 (human)	1
+28639897	gene/protein	caspase-7 (mouse)	1
+28639897	gene/protein	thymus-specific serine protease (mouse)	1
+28639897	gene/protein	thymus-specific serine protease (human)	1
+28639897	gene/protein	thymus-specific serine protease	1
+28639897	gene/protein	HLA class II histocompatibility antigen gamma chain (human)	1
+28639897	gene/protein	H-2 class II histocompatibility antigen gamma chain (rat)	1
+28639897	gene/protein	MHC class II histocompatibility antigen gamma chain	1
+28639897	gene/protein	H-2 class II histocompatibility antigen gamma chain (mouse)	1
+28639897	molecular_function	RNA-directed 5'-3' RNA polymerase activity	1
+28639897	molecular_function	DNA-directed 5'-3' RNA polymerase activity	1
+28639897	molecular_function	5'-3' RNA polymerase activity	1
+28639897	sequence	signature	2
+28639897	sequence	gene	2
+28639897	sequence	reverse	1
+28639897	sequence	mature_protein_region	1
+28639897	organ/tissue	tissue	1
+28639897	molecular_process	chain reaction	1

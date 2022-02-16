@@ -1,0 +1,17 @@
+23507492	chemical	phosphinothricin	2
+23507492	chemical	Oxalic Acid	2
+23507492	chemical	Melanins	2
+23507492	chemical	sulfur atom	1
+23507492	chemical	DNA, Ribosomal	1
+23507492	chemical	metabolite	1
+23507492	chemical	sulfuric acid	1
+23507492	chemical	Melanin	1
+23507492	chemical	carotenoid	1
+23507492	chemical	hydrogen sulfide	1
+23507492	gene/protein	Hha toxicity modulator TomB (Escherichia coli K-12)	2
+23507492	gene/protein	Hha toxicity modulator TomB	2
+23507492	gene/protein	Neural cell adhesion molecule L1	1
+23507492	organism	Streptomyces	1
+23507492	sequence	rRNA_gene	1
+23507492	sequence	region	1
+23507492	organ/tissue	scale	1

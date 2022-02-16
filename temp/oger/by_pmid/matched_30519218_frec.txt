@@ -1,0 +1,32 @@
+30519218	biological_process	virulence	3
+30519218	biological_process	apoptosis	2
+30519218	biological_process	lymphocyte activation	1
+30519218	cellular_component	vesicle	4
+30519218	cellular_component	extracellular	2
+30519218	cellular_component	outer membrane	1
+30519218	cellular_component	protein	1
+30519218	cellular_component	host cell	1
+30519218	chemical	agar	3
+30519218	chemical	protein	2
+30519218	chemical	proteins	1
+30519218	chemical	virulence factor	1
+30519218	chemical	toxin	1
+30519218	chemical	lipase	1
+30519218	gene/protein	sup	21
+30519218	gene/protein	extracellular lipase	10
+30519218	gene/protein	agar	2
+30519218	gene/protein	on human	1
+30519218	gene/protein	ahh	1
+30519218	gene/protein	protein	1
+30519218	organism	bacterium	7
+30519218	organism	omv	6
+30519218	organism	human	1
+30519218	sequence	protein	1
+30519218	cell	peripheral blood mononuclear cell	2
+30519218	cell	monocyte	2
+30519218	cell	lymphocyte	1
+30519218	cell_line	ahh1	1
+30519218	organ/tissue	membrane	2
+30519218	organ/tissue	plate	2
+30519218	clinical_drug	agar	1
+30519218	clinical_drug	lipase	1

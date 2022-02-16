@@ -1,0 +1,40 @@
+10692356	biological_process	translation	3
+10692356	biological_process	protein catabolic process	1
+10692356	biological_process	cell growth	1
+10692356	cellular_component	obsolete protein	9
+10692356	chemical	protein	8
+10692356	chemical	(protein)	8
+10692356	chemical	Mutant Proteins	1
+10692356	chemical	base	1
+10692356	gene/protein	Peptidyl-tRNA hydrolase	2253
+10692356	gene/protein	Parathyroid hormone	27
+10692356	gene/protein	Probable peptidyl-tRNA hydrolase	9
+10692356	gene/protein	protein	9
+10692356	gene/protein	Peptidyl-tRNA hydrolase ArfB	6
+10692356	gene/protein	peptidyl-tRNA hydrolase Pth	3
+10692356	gene/protein	probable peptidyl-tRNA hydrolase PTRH1	3
+10692356	gene/protein	peptidyl-tRNA hydrolase (Escherichia coli K-12)	3
+10692356	gene/protein	parathyroid hormone (human)	3
+10692356	gene/protein	peptidyl-tRNA hydrolase (Clostridium botulinum A str. Hall)	3
+10692356	gene/protein	peptidyl-tRNA hydrolase (Brucella suis ATCC 23445)	3
+10692356	gene/protein	parathyroid hormone (rat)	3
+10692356	gene/protein	peptidyl-tRNA hydrolase (Brucella ovis ATCC 25840)	3
+10692356	gene/protein	peptidyl-tRNA hydrolase (Brucella abortus 2308)	3
+10692356	gene/protein	peptidyl-tRNA hydrolase (Brucella abortus bv. 1 str. 9-941)	3
+10692356	gene/protein	parathyroid hormone	3
+10692356	gene/protein	peptidyl-tRNA hydrolase (Brucella suis 1330)	3
+10692356	gene/protein	peptidyl-tRNA hydrolase ArfB	3
+10692356	gene/protein	parathyroid hormone (chicken)	3
+10692356	gene/protein	peptidyl-tRNA hydrolase (Brucella canis ATCC 23365)	3
+10692356	gene/protein	peptidyl-tRNA hydrolase (Brucella melitensis ATCC 23457)	3
+10692356	gene/protein	peptidyl-tRNA hydrolase (Staphylococcus aureus subsp. aureus NCTC 8325)	3
+10692356	gene/protein	Putative peptidyl-tRNA hydrolase	3
+10692356	organism	Escherichia coli	2
+10692356	organism	Bacteriophage lambda	1
+10692356	organism	Escherichia virus Lambda	1
+10692356	sequence	polypeptide	9
+10692356	sequence	gene	2
+10692356	sequence	phage_sequence	1
+10692356	sequence	base	1
+10692356	organ/tissue	posterior nucleus of thalamus	3
+10692356	organ/tissue	anatomical point connecting sagittal and lambdoidal sutures	1

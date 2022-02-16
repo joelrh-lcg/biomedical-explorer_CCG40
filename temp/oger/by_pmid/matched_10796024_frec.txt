@@ -1,0 +1,22 @@
+10796024	biological_process	efflux	4
+10796024	biological_process	membrane fusion	1
+10796024	cellular_component	efflux pump	2
+10796024	cellular_component	membrane	1
+10796024	chemical	flavonoid	4
+10796024	chemical	naringenin	4
+10796024	chemical	antibiotic	3
+10796024	chemical	phytoalexin	3
+10796024	chemical	salicylic acid	3
+10796024	chemical	proteins	1
+10796024	chemical	complement	1
+10796024	gene/protein	bean	6
+10796024	organism	Rhizobium etli	2
+10796024	organism	Phaseolus vulgaris	2
+10796024	organism	Escherichia coli	2
+10796024	organism	bacterium be	1
+10796024	sequence	gene	4
+10796024	sequence	fusion	2
+10796024	cell_line	bean	2
+10796024	organ/tissue	membrane	2
+10796024	organ/tissue	nodule	2
+10796024	clinical_drug	salicylic acid	1

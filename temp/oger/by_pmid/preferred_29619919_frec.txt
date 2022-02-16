@@ -1,0 +1,67 @@
+29619919	biological_process	biosynthetic process	3
+29619919	biological_process	gene expression	1
+29619919	cellular_component	phagophore assembly site	1
+29619919	cellular_component	subrhabdomeral cisterna	1
+29619919	chemical	sphingoid	4
+29619919	chemical	Ornithine	4
+29619919	chemical	acid	3
+29619919	chemical	Putrescine	2
+29619919	chemical	Spermidine	2
+29619919	chemical	norspermidine	2
+29619919	chemical	L-ornithinium(2+)	2
+29619919	chemical	ornithine	2
+29619919	chemical	Lysine	2
+29619919	chemical	sodium chloride	2
+29619919	chemical	salt	2
+29619919	chemical	polyamine macromolecule	1
+29619919	chemical	polyamine polymer	1
+29619919	chemical	polyamine	1
+29619919	chemical	polycationic macromolecule	1
+29619919	chemical	polycationic polymer	1
+29619919	chemical	physiological role	1
+29619919	chemical	4-aminosalicylic acid	1
+29619919	chemical	1,4-butanediammonium	1
+29619919	chemical	putrescine	1
+29619919	chemical	spermidine	1
+29619919	chemical	spermidine(3+)	1
+29619919	chemical	sym-homospermidine	1
+29619919	chemical	bis(3-aminopropyl)amine	1
+29619919	chemical	bis(3-azaniumylpropyl)azanium	1
+29619919	chemical	macromolecule	1
+29619919	chemical	Ornithine Decarboxylase	1
+29619919	chemical	lysine	1
+29619919	chemical	L-lysine	1
+29619919	disease	Smith-McCort Dysplasia	1
+29619919	gene/protein	Ornithine decarboxylase	77
+29619919	gene/protein	ornithine decarboxylase 2 (fruit fly)	8
+29619919	gene/protein	Antizyme inhibitor 2	8
+29619919	gene/protein	mitochondrial 2-oxodicarboxylate carrier 2 (yeast)	8
+29619919	gene/protein	ornithine decarboxylase	7
+29619919	gene/protein	ornithine decarboxylase (mouse)	6
+29619919	gene/protein	ornithine decarboxylase (rat)	6
+29619919	gene/protein	Ornithine decarboxylase 1	6
+29619919	gene/protein	Ornithine decarboxylase 2	3
+29619919	gene/protein	mitochondrial 2-oxodicarboxylate carrier (mouse)	3
+29619919	gene/protein	mitochondrial 2-oxodicarboxylate carrier (rat)	3
+29619919	gene/protein	probable ornithine decarboxylase (Dictyostelium discoideum)	3
+29619919	gene/protein	mitochondrial 2-oxodicarboxylate carrier	3
+29619919	gene/protein	Inducible ornithine decarboxylase	3
+29619919	gene/protein	mitochondrial 2-oxodicarboxylate carrier (human)	3
+29619919	gene/protein	Probable ornithine decarboxylase	3
+29619919	gene/protein	ornithine decarboxylase (human)	3
+29619919	gene/protein	ornithine decarboxylase 1 (fruit fly)	3
+29619919	gene/protein	ornithine decarboxylase (worm)	3
+29619919	gene/protein	mitochondrial 2-oxodicarboxylate carrier 1 (yeast)	3
+29619919	gene/protein	heat shock cognate 90 kDa protein (Dictyostelium discoideum)	2
+29619919	gene/protein	innexin shaking-B (fruit fly)	1
+29619919	gene/protein	mucin-4 (rat)	1
+29619919	organism	Sinorhizobium	1
+29619919	organism	Melilotus	1
+29619919	sequence	gene	2
+29619919	sequence	genome	1
+29619919	sequence	lysine	1
+29619919	sequence	double	1
+29619919	organ/tissue	cell layer	1
+29619919	organ/tissue	nervous system cell part layer	1
+29619919	clinical_drug	Ornithine	3
+29619919	clinical_drug	Lysine	1

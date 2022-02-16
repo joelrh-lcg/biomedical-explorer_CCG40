@@ -1,0 +1,240 @@
+9773278	biological_process	biosynthetic process	1
+9773278	chemical	alpha-amino acid	4
+9773278	chemical	amino acid	4
+9773278	chemical	sulfate	3
+9773278	chemical	nodulation factor	1
+9773278	chemical	peptide	1
+9773278	chemical	base	1
+9773278	chemical	cluster	1
+9773278	disease	Myoclonic Epilepsies, Progressive	1
+9773278	gene/protein	Flavohemoprotein	43
+9773278	gene/protein	Manganese import system permease protein ScaB	14
+9773278	gene/protein	Probable Vpr-like protein	12
+9773278	gene/protein	Poly(3-hydroxyalkanoate) polymerase subunit PhaE	12
+9773278	gene/protein	Uncharacterized protein in nifU 5'region	10
+9773278	gene/protein	Nucleic-acid-binding protein from mobile element jockey	8
+9773278	gene/protein	Uncharacterized transporter in pepV 3'region	6
+9773278	gene/protein	Uncharacterized protein ACIAD1444	6
+9773278	gene/protein	Probable DNA-directed RNA polymerase	6
+9773278	gene/protein	Uncharacterized protein YqxH	6
+9773278	gene/protein	Uncharacterized GMC-type oxidoreductase in thcA 5'region	6
+9773278	gene/protein	Transposon TX1 uncharacterized 149 kDa protein	6
+9773278	gene/protein	Uncharacterized 18.6 kDa protein in alpha-glucosidase 3'region	6
+9773278	gene/protein	Uncharacterized 5.4 kDa protein in replication origin region	6
+9773278	gene/protein	Uncharacterized 11.0 kDa protein in Gp24-hoc intergenic region	6
+9773278	gene/protein	Uncharacterized 19.0 kDa protein in cobS 5'region	6
+9773278	gene/protein	Uncharacterized protein YxxE	6
+9773278	gene/protein	Uncharacterized protein in bps2 5'region	6
+9773278	gene/protein	Uncharacterized protein in pinF2 3'region	6
+9773278	gene/protein	20.9 kDa protein	6
+9773278	gene/protein	Uncharacterized 9.2 kDa protein in PE 5'region	6
+9773278	gene/protein	Uncharacterized 29.1 kDa protein in cryB1 5'region	6
+9773278	gene/protein	Probable ABC transporter extracellular-binding protein YckB	6
+9773278	gene/protein	Uncharacterized protein YtxJ	6
+9773278	gene/protein	Uncharacterized 30.3 kDa protein	6
+9773278	gene/protein	Retrotransposable element SLACS 132 kDa protein	6
+9773278	gene/protein	Uncharacterized 10.9 kDa protein in fmrO 5'region	6
+9773278	gene/protein	Uncharacterized protein Cgl0967/cg1104	6
+9773278	gene/protein	Uncharacterized 24.6 kDa protein in ccpA 3'region	6
+9773278	gene/protein	Uncharacterized protein LA_2151	6
+9773278	gene/protein	Uncharacterized protein ACIAD3023	6
+9773278	gene/protein	Uncharacterized 17.3 kDa protein in cblS 5'region	6
+9773278	gene/protein	Uncharacterized 15 kDa protein	6
+9773278	gene/protein	Uncharacterized protein Synpcc7942_2318	6
+9773278	gene/protein	Uncharacterized transporter in sor 3'region	6
+9773278	gene/protein	Uncharacterized protein in pepC 5'region	6
+9773278	gene/protein	uncharacterized protein SPD_2302 (Streptococcus pneumoniae D39)	6
+9773278	gene/protein	Uncharacterized protein in cycB 3'region	6
+9773278	gene/protein	Uncharacterized protein YsxE	6
+9773278	gene/protein	Uncharacterized lipoprotein in oleD 5'region	6
+9773278	gene/protein	Uncharacterized protein VP2110	6
+9773278	gene/protein	Macro domain-containing protein in gbd 3'region	6
+9773278	gene/protein	Putative aspartate aminotransferase	6
+9773278	gene/protein	Uncharacterized protein SAOUHSC_00996	6
+9773278	gene/protein	Uncharacterized protein in pepT 5'region	6
+9773278	gene/protein	Putative 115 kDa protein in type-1 retrotransposable element R1DM	6
+9773278	gene/protein	Uncharacterized 12.2 kDa protein in P6.5-VP48 intergenic region	6
+9773278	gene/protein	Uncharacterized 30.6 kDa protein in fumA 3'region	6
+9773278	gene/protein	Uncharacterized 11.8 kDa protein in hlv 5'region	6
+9773278	gene/protein	Uncharacterized oxidoreductase YuxG	6
+9773278	gene/protein	Uncharacterized 23.9 kDa protein in glnII region	6
+9773278	gene/protein	Uncharacterized protein in acs 3'region	6
+9773278	gene/protein	Insertion element IS406 uncharacterized 13.3 kDa protein	6
+9773278	gene/protein	Uncharacterized protein in sph 3'region	6
+9773278	gene/protein	Protein 2 in picA locus	6
+9773278	gene/protein	Putative transport protein BpOF4_00890	6
+9773278	gene/protein	Uncharacterized 37.6 kDa protein in cld 5'region	6
+9773278	gene/protein	Granaticin polyketide putative beta-ketoacyl synthase 2	6
+9773278	gene/protein	Cell division coordinator CpoB	6
+9773278	gene/protein	Uncharacterized 14.7 kDa protein	6
+9773278	gene/protein	UPF0045 protein in glkA 3'region	6
+9773278	gene/protein	Uncharacterized 9.6 kDa protein	6
+9773278	gene/protein	Uncharacterized 11.3 kDa protein in GpA 5'region	6
+9773278	gene/protein	Insertion sequence IS408 putative ATP-binding protein	6
+9773278	gene/protein	Putative polyketide beta-ketoacyl synthase 2	6
+9773278	gene/protein	Uncharacterized protein YbbC	6
+9773278	gene/protein	Uncharacterized protein in fibril gene 3'region	6
+9773278	gene/protein	Uncharacterized 13.1 kDa protein	6
+9773278	gene/protein	Uncharacterized HTH-type transcriptional regulator HI_1364	6
+9773278	gene/protein	Uncharacterized protein in trpE 3'region	6
+9773278	gene/protein	Poly(3-hydroxyalkanoate) depolymerase	6
+9773278	gene/protein	Uncharacterized 7.9 kDa protein in int-C1 intergenic region	6
+9773278	gene/protein	Uncharacterized protein in nit 5'region	6
+9773278	gene/protein	Uncharacterized RNA pseudouridine synthase MCAP_0714	6
+9773278	gene/protein	Uncharacterized protein YqxK	6
+9773278	gene/protein	UPF0070 protein NGO0425	6
+9773278	gene/protein	Uncharacterized 22.5 kDa protein in cps region	6
+9773278	gene/protein	Protein P2	6
+9773278	gene/protein	UPF0319 protein PBPRA1013	6
+9773278	gene/protein	Uncharacterized protein Gp2	6
+9773278	gene/protein	Uncharacterized 19.2 kDa protein in syrM 5'region	6
+9773278	gene/protein	Uncharacterized 6.6 kDa protein in segB-ipI intergenic region	6
+9773278	gene/protein	Uncharacterized protein in bglA 3'region	6
+9773278	gene/protein	Uncharacterized protein in nifB-nifU intergenic region	6
+9773278	gene/protein	Uncharacterized protein YuxK	6
+9773278	gene/protein	UPF0309 protein in nagA 3'region	6
+9773278	gene/protein	Hydrolase in pqqF 5'region	6
+9773278	gene/protein	Uncharacterized 13.2 kDa HIT-like protein in hisE 3'region	6
+9773278	gene/protein	UPF0051 protein MTH1150 homolog	6
+9773278	gene/protein	Uncharacterized 17.8 kDa protein in nodG 5'region	6
+9773278	gene/protein	Accessory Sec system protein Asp2	6
+9773278	gene/protein	Putative HTH-type transcriptional regulator in exeN 3'region	6
+9773278	gene/protein	Uncharacterized 38.0 kDa protein in P143-LEF5 intergenic region	6
+9773278	gene/protein	probable RNA-directed DNA polymerase from transposon X-element (fruit fly)	6
+9773278	gene/protein	Uncharacterized protein in mosA 5'region	4
+9773278	gene/protein	Uncharacterized 16.9 kDa protein in acs 3'region	4
+9773278	gene/protein	Uncharacterized protein in phaC 3'region	4
+9773278	gene/protein	Probable ABC transporter ATP-binding protein AZC_3926	4
+9773278	gene/protein	Uncharacterized 50 kDa protein in type I retrotransposable element R1DM	4
+9773278	gene/protein	Uncharacterized protein in cobS 5'region	4
+9773278	gene/protein	Uncharacterized protein YphF	4
+9773278	gene/protein	Uncharacterized protein in rhdA 5'region	4
+9773278	gene/protein	Antitoxin YxxD	4
+9773278	gene/protein	Uncharacterized protein in cpcG3 3'region	4
+9773278	gene/protein	Transcription repressor NadR	4
+9773278	gene/protein	Uncharacterized BphX-like protein	4
+9773278	gene/protein	Uncharacterized protein MCAP_0715	4
+9773278	gene/protein	Uncharacterized protein in hlv 5'region	4
+9773278	gene/protein	UPF0437 protein AZC_3451	4
+9773278	gene/protein	Putative polyketide beta-ketoacyl synthase 1	4
+9773278	gene/protein	Uncharacterized 16.3 kDa protein in trpG 5'region	4
+9773278	gene/protein	Uncharacterized protein in tabA 5'region	4
+9773278	gene/protein	UPF0365 protein BMD_4543	4
+9773278	gene/protein	Uncharacterized 29.3 kDa protein in ccpA 3'region	4
+9773278	gene/protein	Uncharacterized 28.9 kDa protein in xis 5'region	4
+9773278	gene/protein	Uncharacterized protein YhbE	4
+9773278	gene/protein	Uncharacterized HTH-type transcriptional regulator y4sM	4
+9773278	gene/protein	Uncharacterized HIT-like protein Synpcc7942_1390	4
+9773278	gene/protein	Manganese import ATP-binding protein ScaC	4
+9773278	gene/protein	Macro domain-containing protein in non 5'region	4
+9773278	gene/protein	Uncharacterized protein in bpoA1 3'region	4
+9773278	gene/protein	Uncharacterized protein in pkwA 5'region	4
+9773278	gene/protein	Putative Pol polyprotein from transposon element Bs1	4
+9773278	gene/protein	Uncharacterized protein BpOF4_00895	4
+9773278	gene/protein	Uncharacterized protein in lpd-3 5'region	4
+9773278	gene/protein	Uncharacterized 15.5 kDa protein in trpE 3'region	4
+9773278	gene/protein	Replication initiator protein	4
+9773278	gene/protein	Beta-hexosaminidase	4
+9773278	gene/protein	Retrotransposable element SLACS 45 kDa protein	4
+9773278	gene/protein	Uncharacterized 35 kDa protein in sph 3'region	4
+9773278	gene/protein	Putative tetraheme cytochrome-c type	4
+9773278	gene/protein	Uncharacterized MFS-type transporter YuxJ	4
+9773278	gene/protein	Coat protein	4
+9773278	gene/protein	Uncharacterized 21 kDa protein in iaaL 5'region	4
+9773278	gene/protein	Uncharacterized protein in tlyA 5'region	4
+9773278	gene/protein	UPF0437 protein in nifX-nifW intergenic region	4
+9773278	gene/protein	Biofilm-surface layer protein A	4
+9773278	gene/protein	Uncharacterized 23.2 kDa protein in int-C1 intergenic region	4
+9773278	gene/protein	Poly(3-hydroxyalkanoate) polymerase 1	4
+9773278	gene/protein	Transposase for insertion sequence element IS1106	4
+9773278	gene/protein	Uncharacterized 11.1 kDa protein	4
+9773278	gene/protein	Uncharacterized protein in cpoL 5'region	4
+9773278	gene/protein	Uncharacterized protein in mutS 5'region	4
+9773278	gene/protein	Uncharacterized 8.3 kDa protein in GpA 5'region	4
+9773278	gene/protein	Uncharacterized protein HI_0845	4
+9773278	gene/protein	Uncharacterized 11.4 kDa protein	4
+9773278	gene/protein	Accessory Sec system protein Asp1	4
+9773278	gene/protein	Protoporphyrinogen IX oxidase	4
+9773278	gene/protein	RutC family protein in vnfA 5'region	4
+9773278	gene/protein	Uncharacterized 27.7 kDa protein in nifB 3'region	4
+9773278	gene/protein	Uncharacterized protein EF_A0048	4
+9773278	gene/protein	Uncharacterized protein in bgaB 5'region	4
+9773278	gene/protein	Uncharacterized protein in cobV 5'region	4
+9773278	gene/protein	Uncharacterized protein in nodG 5'region	4
+9773278	gene/protein	Uncharacterized protein YqxG	4
+9773278	gene/protein	UPF0231 protein in hemN 3'region	4
+9773278	gene/protein	Uncharacterized protein YgxB	4
+9773278	gene/protein	Granaticin polyketide putative beta-ketoacyl synthase 1	4
+9773278	gene/protein	Putative non-structural protein	4
+9773278	gene/protein	Uncharacterized protein dexA.1	4
+9773278	gene/protein	Uncharacterized 32.3 kDa protein in vdh 3'region	4
+9773278	gene/protein	Probable cadicidin biosynthesis thioesterase	4
+9773278	gene/protein	Uncharacterized 55.3 kDa protein in thcA 5'region	4
+9773278	gene/protein	Uncharacterized 23 kDa protein	4
+9773278	gene/protein	Uncharacterized protein Cbei_0202	4
+9773278	gene/protein	Uncharacterized oxidoreductase in pyp 5'region	4
+9773278	gene/protein	UPF0194 membrane protein in asrC 5'region	4
+9773278	gene/protein	Uncharacterized protein in gldA 5'region	4
+9773278	gene/protein	Uncharacterized HTH-type transcriptional regulator in unstable DNA locus	4
+9773278	gene/protein	Protein P1	4
+9773278	gene/protein	E4-ORF1	4
+9773278	gene/protein	Uncharacterized 4.6 kDa protein	4
+9773278	gene/protein	Uncharacterized N-acetyltransferase in hisH-hisA intergenic region	4
+9773278	gene/protein	Uncharacterized 20.8 kDa protein in FGF-VUBI intergenic region	4
+9773278	gene/protein	Uncharacterized protein in HyuA 5'region	4
+9773278	gene/protein	Uncharacterized 7.9 kDa protein in PE 5'region	4
+9773278	gene/protein	Uncharacterized 66.6 kDa protein	4
+9773278	gene/protein	Uncharacterized 20 kDa protein in cryB1 5'region	4
+9773278	gene/protein	Uncharacterized protein Gp1	4
+9773278	gene/protein	Uncharacterized protein in laf 5'region	4
+9773278	gene/protein	Uncharacterized protein YwaF	4
+9773278	gene/protein	Uncharacterized protein HI_0352	4
+9773278	gene/protein	Uncharacterized protein ACIAD1443	4
+9773278	gene/protein	Uncharacterized membrane protein in llm 5'region	4
+9773278	gene/protein	nucleic-acid-binding protein from transposon X-element (fruit fly)	4
+9773278	gene/protein	Uncharacterized 23.6 kDa protein	4
+9773278	gene/protein	Insertion element IS407 uncharacterized 31.7 kDa protein	4
+9773278	gene/protein	65 kDa protein	4
+9773278	gene/protein	Uncharacterized protein SAOUHSC_02013	4
+9773278	gene/protein	Uncharacterized 5.5 kDa protein in replication origin region	4
+9773278	gene/protein	Uncharacterized protein in miaA 5'region	4
+9773278	gene/protein	Uncharacterized protein in glnII region	4
+9773278	gene/protein	24.9 kDa protein in picA locus	4
+9773278	gene/protein	Uncharacterized 16.1 kDa protein	4
+9773278	gene/protein	Uncharacterized HTH-type transcriptional regulator Synpcc7942_2319	4
+9773278	gene/protein	uroporphyrinogen-III synthase (yeast)	4
+9773278	gene/protein	Transposon TX1 uncharacterized 82 kDa protein	4
+9773278	gene/protein	Uncharacterized protein SAOUHSC_00997	4
+9773278	gene/protein	Uncharacterized protein in pdhA 5'region	4
+9773278	gene/protein	Uncharacterized protein SYNPCC7002_B0001	4
+9773278	gene/protein	tumor suppressor candidate 3 (mouse)	2
+9773278	gene/protein	tumor suppressor candidate 3	2
+9773278	gene/protein	tumor suppressor candidate 3 (human)	2
+9773278	gene/protein	flavohemoprotein	1
+9773278	gene/protein	kinesin-like protein Nod (fruit fly)	1
+9773278	gene/protein	sulfate adenylyltransferase subunit 2 (Escherichia coli K-12)	1
+9773278	gene/protein	sulfate adenylyltransferase subunit 2	1
+9773278	gene/protein	proteolytic cleavage product	1
+9773278	gene/protein	amino acid chain	1
+9773278	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+9773278	gene/protein	sulfate adenylyltransferase subunit 1	1
+9773278	gene/protein	sulfate adenylyltransferase subunit 1 (Escherichia coli K-12)	1
+9773278	gene/protein	Acyl carrier protein AcpXL	1
+9773278	gene/protein	120.7 kDa protein in NOF-FB transposable element (fruit fly)	1
+9773278	gene/protein	phosphoadenosine phosphosulfate reductase (Escherichia coli K-12)	1
+9773278	gene/protein	phosphoadenosine phosphosulfate reductase	1
+9773278	organism	Escherichia coli	6
+9773278	organism	Rhizobium tropici	2
+9773278	organism	Rhizobium leucaenae	2
+9773278	organism	Rhizobium sp. N33	2
+9773278	sequence	ORF	12
+9773278	sequence	gene	5
+9773278	sequence	amino_acid	4
+9773278	sequence	region	4
+9773278	sequence	homologous	1
+9773278	sequence	genome	1
+9773278	sequence	active_peptide	1
+9773278	sequence	polypeptide_conserved_motif	1
+9773278	sequence	polypeptide_motif	1
+9773278	sequence	base	1
+9773278	sequence	5KB_upstream_variant	1

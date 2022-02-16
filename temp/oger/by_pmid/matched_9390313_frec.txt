@@ -1,0 +1,12 @@
+9390313	chemical	sigma 70	2
+9390313	chemical	base	1
+9390313	chemical	proteins	1
+9390313	gene/protein	sigma 70	76
+9390313	gene/protein	fold	4
+9390313	organism	collection	2
+9390313	sequence	regulatory region	4
+9390313	sequence	base	1
+9390313	sequence	construct	1
+9390313	sequence	consensus	1
+9390313	organ/tissue	matrix	2
+9390313	organ/tissue	sensor	1

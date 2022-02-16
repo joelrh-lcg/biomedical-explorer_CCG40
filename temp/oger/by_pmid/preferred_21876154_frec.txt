@@ -1,0 +1,28 @@
+21876154	chemical	nucleotide	2
+21876154	chemical	base	1
+21876154	gene/protein	Tissue- and phase-specific nuclear protein	3
+21876154	gene/protein	histidine-rich glycoprotein (rat)	3
+21876154	gene/protein	histidine-rich glycoprotein (human)	3
+21876154	gene/protein	histidine-rich glycoprotein (mouse)	3
+21876154	gene/protein	histidine-rich glycoprotein	3
+21876154	gene/protein	GTPase Era (Escherichia coli K-12)	1
+21876154	gene/protein	GTPase Era (Clostridium botulinum A str. Hall)	1
+21876154	gene/protein	GTPase Era (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+21876154	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+21876154	gene/protein	extracellular adherence protein	1
+21876154	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+21876154	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+21876154	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+21876154	gene/protein	methionine aminopeptidase	1
+21876154	organism	Humans	1
+21876154	sequence	SNP	3
+21876154	sequence	region	3
+21876154	sequence	signature	3
+21876154	sequence	genome	2
+21876154	sequence	natural_variant_site	1
+21876154	sequence	base	1
+21876154	sequence	reference_genome	1
+21876154	sequence	assembly	1
+21876154	cell_line	SNP	3
+21876154	organ/tissue	muscle belly	1
+21876154	clinical_drug	Align	1

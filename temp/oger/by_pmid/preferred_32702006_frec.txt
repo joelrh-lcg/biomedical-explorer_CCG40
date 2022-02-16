@@ -1,0 +1,2 @@
+32702006	chemical	diphenylmethane-4,4'-diisocyanate	1
+32702006	molecular_function	retinol dehydrogenase activity	1

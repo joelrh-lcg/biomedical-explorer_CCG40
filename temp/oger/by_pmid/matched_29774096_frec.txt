@@ -1,0 +1,16 @@
+29774096	biological_process	apoptosis	2
+29774096	biological_process	regulation	1
+29774096	chemical	proteins	4
+29774096	chemical	proteome	1
+29774096	chemical	pathway	1
+29774096	chemical	biomarker	1
+29774096	disease	tumor	6
+29774096	disease	cervical cancer	6
+29774096	gene/protein	gstm3	21
+29774096	gene/protein	gstp1	15
+29774096	gene/protein	map	6
+29774096	gene/protein	gst	2
+29774096	organism	unknown	1
+29774096	cell	cancer cell	1
+29774096	organ/tissue	proliferation	1
+29774096	molecular_process	molecular process	1

@@ -1,0 +1,14 @@
+28659968	chemical	base	1
+28659968	disease	Obesity	2
+28659968	disease	Nervous System Diseases	2
+28659968	gene/protein	glyceraldehyde-3-phosphate dehydrogenase 1 (Bacillus subtilis subsp. subtilis str. 168)	2
+28659968	gene/protein	GTPase-activating protein pac-1 (worm)	2
+28659968	organism	Humans	3
+28659968	organism	human metagenome	2
+28659968	organism	unidentified	1
+28659968	sequence	genome	5
+28659968	sequence	gap	2
+28659968	sequence	natural_variant_site	1
+28659968	sequence	base	1
+28659968	sequence	gene	1
+28659968	sequence	genotype	1

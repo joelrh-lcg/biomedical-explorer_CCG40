@@ -1,0 +1,32 @@
+16329972	chemical	molecule	2
+16329972	chemical	Culture Media	1
+16329972	gene/protein	Protease	27
+16329972	gene/protein	Endothelin-3	24
+16329972	gene/protein	Endothelin-1	22
+16329972	gene/protein	protein EFFECTOR OF TRANSCRIPTION 3 (Arabidopsis thaliana)	4
+16329972	gene/protein	endothelin-3	4
+16329972	gene/protein	protein EFFECTOR OF TRANSCRIPTION 1 (Arabidopsis thaliana)	2
+16329972	gene/protein	endothelin-1	2
+16329972	gene/protein	Endogenous retrovirus group K member 8 Pro protein	1
+16329972	gene/protein	Endogenous retrovirus group K member 7 Pro protein	1
+16329972	gene/protein	Endogenous retrovirus group K member 10 Pro protein	1
+16329972	gene/protein	Endogenous retrovirus group K member 21 Pro protein	1
+16329972	gene/protein	Endogenous retrovirus group K member 19 Pro protein	1
+16329972	gene/protein	Endogenous retrovirus group K member 25 Pro protein	1
+16329972	gene/protein	Endogenous retrovirus group K member 104 Pro protein	1
+16329972	gene/protein	Endogenous retrovirus group K member 113 Pro protein	1
+16329972	gene/protein	Endogenous retrovirus group K member 24 Pro protein	1
+16329972	gene/protein	Endogenous retrovirus group K member 9 Pro protein	1
+16329972	gene/protein	Endogenous retrovirus group K member 6 Pro protein	1
+16329972	gene/protein	Endogenous retrovirus group K member 18 Pro protein	1
+16329972	organism	Gluconacetobacter	4
+16329972	organism	Gluconacetobacter diazotrophicus	2
+16329972	organism	Saccharum	2
+16329972	organism	Saccharum officinarum	2
+16329972	organism	Saccharum hybrid cultivar	2
+16329972	organism	unidentified plasmid	1
+16329972	organism	endophytic bacterium	1
+16329972	sequence	cytoplasmic_polypeptide_region	2
+16329972	sequence	plasmid	1
+16329972	clinical_drug	sugarcane extract	2
+16329972	clinical_drug	Saccharum officinarum allergenic extract	2

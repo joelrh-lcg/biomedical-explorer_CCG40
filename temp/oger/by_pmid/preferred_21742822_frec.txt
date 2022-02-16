@@ -1,0 +1,79 @@
+21742822	biological_process	symbiotic process	1
+21742822	chemical	RNA, Ribosomal, 16S	1
+21742822	gene/protein	Provicilin	4
+21742822	gene/protein	cardiolipin synthase A	2
+21742822	gene/protein	cardiolipin synthase A (Escherichia coli K-12)	2
+21742822	gene/protein	Protein BEAN1	2
+21742822	gene/protein	protein RecA (Brucella abortus bv. 1 str. 9-941)	1
+21742822	gene/protein	protein RecA (Mycobacterium tuberculosis H37Rv)	1
+21742822	gene/protein	DNA repair protein RAD51 homolog 1 (mouse)	1
+21742822	gene/protein	protein RecA	1
+21742822	gene/protein	DNA repair protein RAD51 homolog 1	1
+21742822	gene/protein	protein RecA (Brucella suis 1330)	1
+21742822	gene/protein	mitochondrial DNA repair protein recA homolog (Dictyostelium discoideum)	1
+21742822	gene/protein	protein RecA (Escherichia coli K-12)	1
+21742822	gene/protein	protein RecA (Brucella canis ATCC 23365)	1
+21742822	gene/protein	DNA repair protein RAD51 homolog 1 (human)	1
+21742822	gene/protein	protein RecA (Brucella suis ATCC 23445)	1
+21742822	gene/protein	protein RecA (Brucella melitensis ATCC 23457)	1
+21742822	gene/protein	DNA repair protein recA homolog 1, chloroplastic (Arabidopsis thaliana)	1
+21742822	gene/protein	protein RecA (Brucella abortus 2308)	1
+21742822	gene/protein	citrate synthase	1
+21742822	gene/protein	citrate synthase (Escherichia coli K-12)	1
+21742822	gene/protein	citrate synthase (Dictyostelium discoideum)	1
+21742822	gene/protein	DNA-directed RNA polymerase II subunit rpb1 (Dictyostelium discoideum)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Streptomyces coelicolor A3(2))	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Brucella canis ATCC 23365)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Brucella abortus bv. 1 str. 9-941)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Brucella melitensis ATCC 23457)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Escherichia coli K-12)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Xanthomonas campestris pv. campestris str. ATCC 33913)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Brucella suis 1330)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Bacillus thuringiensis serovar konkukian str. 97-27)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Bacillus cereus ATCC 14579)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Brucella suis ATCC 23445)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Bacillus subtilis subsp. subtilis str. 168)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Arabidopsis thaliana)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Brucella abortus 2308)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Peptoclostridium difficile 630)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Clostridium botulinum A str. Hall)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Aeromonas hydrophila subsp. hydrophila ATCC 7966)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha (Brucella ovis ATCC 25840)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit alpha	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit beta (Thermus thermophilus HB8)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis ATCC 23445)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus 2308)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit beta (Escherichia coli K-12)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella canis ATCC 23365)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella ovis ATCC 25840)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit beta (Peptoclostridium difficile 630)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit beta (Clostridium botulinum A str. Hall)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella melitensis ATCC 23457)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit beta	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit beta (Arabidopsis thaliana)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis 1330)	1
+21742822	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus bv. 1 str. 9-941)	1
+21742822	gene/protein	protein BEAN	1
+21742822	gene/protein	AT07979p1 (fruit fly)	1
+21742822	gene/protein	centrin-A (Dictyostelium discoideum)	1
+21742822	organism	Rhizobium leucaenae	11
+21742822	organism	Rhizobium tropici	2
+21742822	organism	Rhizobium multihospitium	2
+21742822	organism	Rhizobium miluonense	2
+21742822	organism	Rhizobium lusitanum	2
+21742822	organism	Rhizobium	2
+21742822	organism	Fabaceae	1
+21742822	organism	unidentified plasmid	1
+21742822	organism	Leucaena leucocephala	1
+21742822	organism	Leucaena esculenta	1
+21742822	organism	Phaseolus	1
+21742822	organism	Phaseolus vulgaris	1
+21742822	organism	Gliricidia sepium	1
+21742822	sequence	plasmid	1
+21742822	sequence	region	1
+21742822	sequence	rRNA_16S	1
+21742822	sequence	gene	1
+21742822	cell_line	RECA	1
+21742822	cell_line	R1192	1

@@ -1,0 +1,10 @@
+33457783	biological_process	retention	1
+33457783	cellular_component	chloroplast	1
+33457783	cellular_component	mitochondrial genome	1
+33457783	disease	inad	1
+33457783	gene/protein	inad	1
+33457783	organism	liverwort	2
+33457783	organism	hornwort	2
+33457783	sequence	genome	3
+33457783	sequence	sequence	2
+33457783	sequence	gene	2

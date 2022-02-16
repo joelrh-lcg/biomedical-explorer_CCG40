@@ -1,0 +1,14 @@
+16903349	biological_process	defense response	1
+16903349	chemical	phosphate	8
+16903349	chemical	nitrogen	2
+16903349	chemical	contaminant	1
+16903349	chemical	proteins	1
+16903349	gene/protein	spp	16
+16903349	molecular_function	spp	1
+16903349	organism	bacterium	7
+16903349	organism	human	1
+16903349	organism	Salmonella	1
+16903349	organism	bacterium be	1
+16903349	sequence	gene	1
+16903349	sequence	inside	1
+16903349	clinical_drug	nitrogen	1

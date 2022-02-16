@@ -1,0 +1,16 @@
+22805783	biological_process	transcription, DNA-templated	1
+22805783	biological_process	auxin biosynthetic process	1
+22805783	chemical	Indoleacetic Acids	2
+22805783	chemical	auxin	1
+22805783	gene/protein	Protochlorophyllide reductase, chloroplastic	5
+22805783	gene/protein	Light-dependent protochlorophyllide reductase	2
+22805783	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+22805783	gene/protein	Protochlorophyllide reductase	1
+22805783	gene/protein	protein IMPACT homolog (Dictyostelium discoideum)	1
+22805783	gene/protein	protein IMPACT (zebrafish)	1
+22805783	organism	Zea mays	8
+22805783	organism	Azospirillum	5
+22805783	organism	Pseudomonas	1
+22805783	sequence	gene	2
+22805783	organ/tissue	crop	1
+22805783	organ/tissue	pronephric glomerulus	1

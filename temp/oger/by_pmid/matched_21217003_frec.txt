@@ -1,0 +1,54 @@
+21217003	biological_process	localization	1
+21217003	biological_process	cell growth	1
+21217003	biological_process	mutagenesis	1
+21217003	biological_process	primary metabolism	1
+21217003	biological_process	thiamine degradation	1
+21217003	biological_process	formation	1
+21217003	cellular_component	chromosome	5
+21217003	cellular_component	protein	2
+21217003	cellular_component	septum	1
+21217003	chemical	asparagine	6
+21217003	chemical	nad	5
+21217003	chemical	thiamine	5
+21217003	chemical	protein	4
+21217003	chemical	histidine	4
+21217003	chemical	cobalamin	3
+21217003	chemical	cardiolipin	3
+21217003	chemical	melibiose	3
+21217003	chemical	trna	2
+21217003	chemical	cytochrome	2
+21217003	chemical	rrna	1
+21217003	chemical	prl	1
+21217003	gene/protein	prl	48
+21217003	gene/protein	p42e	7
+21217003	gene/protein	protein	2
+21217003	gene/protein	prlg	2
+21217003	molecular_function	cytochrome	7
+21217003	molecular_function	trna	1
+21217003	organism	plasmid	4
+21217003	organism	Rhizobium etli	2
+21217003	organism	hybrid	2
+21217003	organism	bacterium be	1
+21217003	organism	CFN42	1
+21217003	organism	Rhizobium	1
+21217003	sequence	chromosome	5
+21217003	sequence	plasmid	4
+21217003	sequence	gene	4
+21217003	sequence	deletion	2
+21217003	sequence	replicon	2
+21217003	sequence	protein	2
+21217003	sequence	motif	2
+21217003	sequence	Replicon	1
+21217003	sequence	rrna	1
+21217003	sequence	trna gene	1
+21217003	sequence	genome	1
+21217003	sequence	insertional	1
+21217003	sequence	mutagenesis	1
+21217003	sequence	asparagine	1
+21217003	sequence	histidine	1
+21217003	sequence	homologous	1
+21217003	organ/tissue	septum	2
+21217003	organ/tissue	sensor	1
+21217003	clinical_drug	thiamine	1
+21217003	clinical_drug	asparagine	1
+21217003	clinical_drug	histidine	1

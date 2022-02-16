@@ -1,0 +1,98 @@
+26284103	biological_process	nitrogen fixation	2
+26284103	biological_process	transcription, DNA-templated	2
+26284103	biological_process	cell death	1
+26284103	biological_process	stress response to metal ion	1
+26284103	biological_process	signal transduction	1
+26284103	biological_process	transport	1
+26284103	biological_process	signaling	1
+26284103	cellular_component	obsolete protein	2
+26284103	cellular_component	nascent polypeptide-associated complex	1
+26284103	chemical	MicroRNAs	8
+26284103	chemical	altrose	4
+26284103	chemical	Aluminum	2
+26284103	chemical	nitrogen atom	2
+26284103	chemical	nitrogen(.)	2
+26284103	chemical	callose	2
+26284103	chemical	protein	2
+26284103	chemical	(protein)	2
+26284103	chemical	Indoleacetic Acids	2
+26284103	chemical	aluminium atom	1
+26284103	chemical	Nitrogenase	1
+26284103	chemical	(1->3)-beta-D-glucan	1
+26284103	chemical	picloram	1
+26284103	chemical	NAC	1
+26284103	chemical	N-acetyl-L-cysteine	1
+26284103	chemical	inhibitor	1
+26284103	chemical	auxin	1
+26284103	chemical	gibberellin A3	1
+26284103	chemical	gibberellin	1
+26284103	disease	COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	1
+26284103	gene/protein	Cysteine desulfurase	58
+26284103	gene/protein	Protein BEAN1	14
+26284103	gene/protein	E3 ubiquitin-protein ligase MYLIP	12
+26284103	gene/protein	protein BEAN	7
+26284103	gene/protein	alanine aminotransferase 1	4
+26284103	gene/protein	RNA polymerase sigma factor RpoD (Escherichia coli K-12)	4
+26284103	gene/protein	Probable alanine aminotransferase, mitochondrial	4
+26284103	gene/protein	alanine aminotransferase 2	4
+26284103	gene/protein	RNA polymerase sigma factor RpoD	4
+26284103	gene/protein	MLX-interacting protein	3
+26284103	gene/protein	MLX-interacting protein (human)	3
+26284103	gene/protein	E3 ubiquitin-protein ligase MARCH8 (mouse)	3
+26284103	gene/protein	Miraculin	3
+26284103	gene/protein	Insulin-like receptor	3
+26284103	gene/protein	E3 ubiquitin-protein ligase MARCH8 (human)	3
+26284103	gene/protein	MLX-interacting protein (mouse)	3
+26284103	gene/protein	E3 ubiquitin-protein ligase MARCH8	3
+26284103	gene/protein	E3 ubiquitin-protein ligase MYLIP-A (zebrafish)	3
+26284103	gene/protein	Nucleus accumbens-associated protein 1	3
+26284103	gene/protein	Luc7-like protein (Dictyostelium discoideum)	1
+26284103	gene/protein	nucleus accumbens-associated protein 1	1
+26284103	gene/protein	nucleus accumbens-associated protein 1 (mouse)	1
+26284103	gene/protein	nucleus accumbens-associated protein 1 (rat)	1
+26284103	gene/protein	nucleus accumbens-associated protein 1 (human)	1
+26284103	gene/protein	protein CUP-SHAPED COTYLEDON 1 (Arabidopsis thaliana)	1
+26284103	gene/protein	NAC domain-containing protein 21/22 (Arabidopsis thaliana)	1
+26284103	gene/protein	sodium-dependent low-affinity dicarboxylate transporter 1 (worm)	1
+26284103	gene/protein	sodium channel protein type 1 subunit alpha	1
+26284103	gene/protein	sodium channel protein type 1 subunit alpha (human)	1
+26284103	gene/protein	sterile alpha and TIR motif-containing protein tir-1 (worm)	1
+26284103	gene/protein	protein TRANSPORT INHIBITOR RESPONSE 1 (Arabidopsis thaliana)	1
+26284103	gene/protein	cold shock-induced protein TIR1 (yeast)	1
+26284103	gene/protein	protein TRANSPORT INHIBITOR RESPONSE 1	1
+26284103	gene/protein	F-box protein FBX14	1
+26284103	gene/protein	Transport inhibitor response 1-like protein	1
+26284103	gene/protein	keratin, type II cytoskeletal 7	1
+26284103	gene/protein	T-cell acute lymphocytic leukemia protein 1 homolog (zebrafish)	1
+26284103	gene/protein	cysteine desulfurase	1
+26284103	gene/protein	T-cell acute lymphocytic leukemia protein 1 (human)	1
+26284103	gene/protein	selenocysteine lyase (mouse)	1
+26284103	gene/protein	T-cell acute lymphocytic leukemia protein 1 homolog (chicken)	1
+26284103	gene/protein	T-cell acute lymphocytic leukemia protein 1 homolog (mouse)	1
+26284103	gene/protein	selenocysteine lyase	1
+26284103	gene/protein	keratin, type II cytoskeletal 7 (human)	1
+26284103	gene/protein	selenocysteine lyase (human)	1
+26284103	gene/protein	T-cell acute lymphocytic leukemia protein 1	1
+26284103	gene/protein	protein	1
+26284103	molecular_function	L-alanine:2-oxoglutarate aminotransferase activity	4
+26284103	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	2
+26284103	molecular_function	nitrogenase activity	1
+26284103	organism	Phaseolus	2
+26284103	organism	Fabaceae	1
+26284103	organism	Humans	1
+26284103	organism	Rhizobium tropici	1
+26284103	sequence	miRNA	6
+26284103	sequence	polypeptide	2
+26284103	sequence	reverse	1
+26284103	sequence	terminal_inverted_repeat	1
+26284103	cell_line	R1192	7
+26284103	cell_line	ALT	4
+26284103	cell_line	NAC	1
+26284103	organ/tissue	cerebellum vermis lobule X	8
+26284103	organ/tissue	germinal center	8
+26284103	organ/tissue	crop	1
+26284103	organ/tissue	cortex	1
+26284103	organ/tissue	primitive knot	1
+26284103	clinical_drug	Nitrogen	2
+26284103	clinical_drug	Aluminum	1
+26284103	molecular_process	reduction	1

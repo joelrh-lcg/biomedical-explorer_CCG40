@@ -1,0 +1,22 @@
+16705749	biological_process	degradation	1
+16705749	chemical	venom	6
+16705749	chemical	amino acid	6
+16705749	chemical	peptide	4
+16705749	chemical	toxin	1
+16705749	chemical	amino acid residue	1
+16705749	chemical	disulfide	1
+16705749	chemical	defensin	1
+16705749	gene/protein	tdk	45
+16705749	gene/protein	defensin	17
+16705749	gene/protein	peptide	8
+16705749	gene/protein	toxin 2	4
+16705749	gene/protein	amino acid residue	1
+16705749	gene/protein	na channel	1
+16705749	organism	scorpion	2
+16705749	organism	human	1
+16705749	sequence	amino acid	4
+16705749	sequence	peptide	4
+16705749	sequence	sequence	2
+16705749	sequence	disulfide	1
+16705749	cell_line	sf9	1
+16705749	organ/tissue	venom	2

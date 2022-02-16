@@ -1,0 +1,36 @@
+12547654	biological_process	methylation	3
+12547654	biological_process	biosynthesis	2
+12547654	cellular_component	membrane	1
+12547654	cellular_component	cell surface	1
+12547654	chemical	choline	12
+12547654	chemical	pathway	11
+12547654	chemical	phosphatidylcholine	5
+12547654	chemical	phosphocholine	5
+12547654	chemical	phosphatidylethanolamine	4
+12547654	chemical	choline phosphate	3
+12547654	chemical	phospholipid	1
+12547654	chemical	base	1
+12547654	disease	pneumonia	2
+12547654	disease	influenza	2
+12547654	gene/protein	pc synthase	22
+12547654	gene/protein	lack	1
+12547654	organism	bacterium	35
+12547654	organism	Sinorhizobium meliloti	2
+12547654	organism	Rhizobium leguminosarum	2
+12547654	organism	Mesorhizobium loti	2
+12547654	organism	Brucella melitensis	2
+12547654	organism	Pseudomonas aeruginosa	2
+12547654	organism	Borrelia burgdorferi	2
+12547654	organism	Legionella pneumophila	2
+12547654	organism	eukaryote	1
+12547654	organism	agrobacterium	1
+12547654	organism	Streptococcus	1
+12547654	organism	Haemophilus	1
+12547654	sequence	intermediate	3
+12547654	sequence	base	1
+12547654	sequence	enzymatic	1
+12547654	sequence	substitution	1
+12547654	organ/tissue	membrane	2
+12547654	organ/tissue	epithelium	1
+12547654	clinical_drug	choline	5
+12547654	molecular_process	methylation	3

@@ -1,0 +1,21 @@
+23680857	chemical	limonene	9
+23680857	chemical	alanine	5
+23680857	chemical	glutamic acid	4
+23680857	chemical	carbon	2
+23680857	chemical	antifungal	1
+23680857	chemical	siderophore	1
+23680857	gene/protein	mto	12
+23680857	organism	bacterium	21
+23680857	organism	Burkholderia tropica	4
+23680857	organism	Burkholderia	1
+23680857	organism	fungus	1
+23680857	organism	Colletotrichum	1
+23680857	organism	Fusarium culmorum	1
+23680857	organism	Fusarium oxysporum	1
+23680857	sequence	alanine	1
+23680857	sequence	glutamic acid	1
+23680857	organ/tissue	plate	2
+23680857	organ/tissue	radial	1
+23680857	clinical_drug	limonene	2
+23680857	clinical_drug	alanine	1
+23680857	clinical_drug	glutamic acid	1

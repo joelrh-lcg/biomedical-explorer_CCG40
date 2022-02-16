@@ -1,0 +1,27 @@
+28824593	biological_process	gene expression	1
+28824593	biological_process	signaling	1
+28824593	biological_process	transcription, DNA-templated	1
+28824593	biological_process	signal transduction	1
+28824593	chemical	picloram	1
+28824593	gene/protein	Keratin, type I cytoskeletal 12	4
+28824593	gene/protein	secreted and transmembrane protein 1	1
+28824593	gene/protein	secreted and transmembrane protein 1 (human)	1
+28824593	gene/protein	secreted and transmembrane protein 1b	1
+28824593	gene/protein	keratin, type I cytoskeletal 12	1
+28824593	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+28824593	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+28824593	organism	bacterium IFAM-3211	1
+28824593	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+28824593	organism	bacterium IFAM-3215	1
+28824593	organism	bacterium IFAM-2074	1
+28824593	organism	bacterium IFAM-3359	1
+28824593	organism	bacterium	1
+28824593	organism	bacterium IFAM-1493	1
+28824593	sequence	transit_peptide	3
+28824593	sequence	signal_peptide	3
+28824593	sequence	gene	1
+28824593	cell_line	K12 [Mouse osteosarcoma]	1
+28824593	cell_line	K12-72.1	1
+28824593	organ/tissue	cell layer	1
+28824593	organ/tissue	nervous system cell part layer	1
+28824593	entity_type	preferred_term	2

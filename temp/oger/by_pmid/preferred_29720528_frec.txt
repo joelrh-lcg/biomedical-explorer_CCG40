@@ -1,0 +1,28 @@
+29720528	cellular_component	obsolete protein	1
+29720528	chemical	Anti-Bacterial Agents	2
+29720528	chemical	atom	1
+29720528	chemical	antimicrobial agent	1
+29720528	chemical	protein	1
+29720528	chemical	(protein)	1
+29720528	chemical	base	1
+29720528	disease	Infections	4
+29720528	disease	Disease	2
+29720528	disease	ATAXIA, SENSORY, 1, AUTOSOMAL DOMINANT	1
+29720528	gene/protein	phosphoglucosamine mutase	2
+29720528	gene/protein	phosphoglucosamine mutase (Escherichia coli K-12)	2
+29720528	gene/protein	Surface protein	1
+29720528	gene/protein	HIV envelope glycoprotein gp120 glycosylated form	1
+29720528	organism	Methicillin-Resistant Staphylococcus aureus	2
+29720528	organism	Pseudarthrobacter sulfonivorans	1
+29720528	sequence	genome	3
+29720528	sequence	region	2
+29720528	sequence	insertion	1
+29720528	sequence	frameshift	1
+29720528	sequence	frameshift_variant	1
+29720528	sequence	gene	1
+29720528	sequence	polypeptide	1
+29720528	sequence	base	1
+29720528	cell_line	CC-8	4
+29720528	cell_line	CC8	4
+29720528	organ/tissue	organ	1
+29720528	entity_type	preferred_term	2

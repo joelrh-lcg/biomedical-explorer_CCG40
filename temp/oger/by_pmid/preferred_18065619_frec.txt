@@ -1,0 +1,36 @@
+18065619	biological_process	anatomical structure morphogenesis	1
+18065619	biological_process	cytolysis	1
+18065619	chemical	Mitomycin	2
+18065619	chemical	protein	2
+18065619	chemical	arginyl-threonyl-prolyl-prolyl-prolyl-seryl-glycine	2
+18065619	chemical	mitomycin C	1
+18065619	chemical	electron	1
+18065619	chemical	DNA, Circular	1
+18065619	chemical	molecule	1
+18065619	gene/protein	methionine aminopeptidase 1 (Bacillus subtilis subsp. subtilis str. 168)	1
+18065619	gene/protein	extracellular adherence protein	1
+18065619	gene/protein	methionine aminopeptidase 2 (Mycobacterium tuberculosis H37Rv)	1
+18065619	gene/protein	methionine aminopeptidase (Escherichia coli K-12)	1
+18065619	gene/protein	methionine aminopeptidase (Staphylococcus aureus subsp. aureus Mu50)	1
+18065619	gene/protein	methionine aminopeptidase	1
+18065619	gene/protein	probable histone chaperone ASF1A (Arabidopsis thaliana)	1
+18065619	gene/protein	transcription factor Sp7 (human)	1
+18065619	gene/protein	transcription factor Sp7	1
+18065619	gene/protein	transcription factor Sp7 (mouse)	1
+18065619	gene/protein	serine protease 7 (fruit fly)	1
+18065619	organism	Bacteriophages	8
+18065619	organism	Bacteriophage sp.	2
+18065619	organism	Azospirillum	2
+18065619	organism	Siphoviridae	1
+18065619	organism	Prophages	1
+18065619	organism	unidentified plasmid	1
+18065619	sequence	phage_sequence	8
+18065619	sequence	genome	3
+18065619	sequence	region	2
+18065619	sequence	transit_peptide	1
+18065619	sequence	signal_peptide	1
+18065619	sequence	circular	1
+18065619	sequence	prophage	1
+18065619	sequence	replicon	1
+18065619	sequence	plasmid	1
+18065619	clinical_drug	Mitomycin	1

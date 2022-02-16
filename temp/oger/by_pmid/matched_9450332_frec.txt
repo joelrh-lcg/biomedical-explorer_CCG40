@@ -1,0 +1,26 @@
+9450332	biological_process	nodulation	1
+9450332	biological_process	transport	1
+9450332	biological_process	metabolism	1
+9450332	chemical	nitrogen	10
+9450332	chemical	ammonia	6
+9450332	chemical	amino acid	2
+9450332	chemical	nitrogenase	2
+9450332	chemical	glutamate dehydrogenase	1
+9450332	chemical	ureide	1
+9450332	gene/protein	gdh	55
+9450332	gene/protein	glutamate dehydrogenase	17
+9450332	gene/protein	sap	17
+9450332	gene/protein	gdha	6
+9450332	gene/protein	bean	3
+9450332	gene/protein	Mora	1
+9450332	molecular_function	nitrogenase activity	2
+9450332	molecular_function	gdh	1
+9450332	organism	Rhizobium etli	2
+9450332	sequence	inside	2
+9450332	sequence	amino acid	1
+9450332	cell_line	bean	1
+9450332	organ/tissue	nodule	2
+9450332	clinical_drug	nitrogen	5
+9450332	clinical_drug	ammonia	2
+9450332	clinical_drug	glutamate	1
+9450332	molecular_process	reduction	1

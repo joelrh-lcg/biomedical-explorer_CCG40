@@ -1,0 +1,37 @@
+31689478	biological_process	virulence	6
+31689478	biological_process	secretion	2
+31689478	chemical	donor	2
+31689478	chemical	nucleotide	1
+31689478	chemical	cluster	1
+31689478	chemical	type vi secretion system	1
+31689478	chemical	type ii secretion system	1
+31689478	chemical	virulence factor	1
+31689478	chemical	base	1
+31689478	disease	Crohns Disease	2
+31689478	disease	inflammatory bowel Disease	2
+31689478	disease	cnf	1
+31689478	gene/protein	irp2	7
+31689478	gene/protein	IBD	4
+31689478	gene/protein	fimA	4
+31689478	gene/protein	papg	4
+31689478	gene/protein	snp	2
+31689478	gene/protein	fliC	2
+31689478	gene/protein	adhesin 1	2
+31689478	gene/protein	cbta	2
+31689478	gene/protein	hlye	2
+31689478	gene/protein	nrg	1
+31689478	gene/protein	cnf	1
+31689478	organism	Escherichia coli	2
+31689478	organism	e coli	2
+31689478	sequence	snp	2
+31689478	sequence	genome	1
+31689478	sequence	donor	1
+31689478	sequence	sequence	1
+31689478	sequence	genomic island	1
+31689478	sequence	gene	1
+31689478	sequence	base	1
+31689478	cell_line	snp	2
+31689478	cell_line	nrg	1
+31689478	organ/tissue	secretion	2
+31689478	organ/tissue	bowel	1
+31689478	organ/tissue	cnf	1

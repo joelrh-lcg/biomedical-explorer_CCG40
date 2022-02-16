@@ -1,0 +1,33 @@
+6325385	biological_process	nodule development	2
+6325385	biological_process	symbiosis	1
+6325385	biological_process	conjugation	1
+6325385	cellular_component	chromosome	1
+6325385	chemical	agarose	3
+6325385	chemical	nitrogenase	2
+6325385	disease	nod	2
+6325385	disease	pneumonia	2
+6325385	gene/protein	nod	90
+6325385	gene/protein	Sna	9
+6325385	gene/protein	lack	2
+6325385	gene/protein	nif	2
+6325385	molecular_function	nitrogenase activity	1
+6325385	organism	plasmid	9
+6325385	organism	ndv	5
+6325385	organism	Rhizobium phaseoli	2
+6325385	organism	Phaseolus vulgaris	2
+6325385	organism	CFN42	1
+6325385	organism	klebsiella	1
+6325385	organism	cfn42	1
+6325385	organism	plasmid r	1
+6325385	organism	Ndv	1
+6325385	sequence	plasmid	10
+6325385	sequence	insertion	5
+6325385	sequence	mutation	2
+6325385	sequence	gene	1
+6325385	sequence	insert	1
+6325385	sequence	chromosome	1
+6325385	sequence	delete	1
+6325385	cell_line	tn5	6
+6325385	cell_line	Sna	3
+6325385	organ/tissue	nodule	6
+6325385	organ/tissue	tissue	1

@@ -1,0 +1,14 @@
+8905154	biological_process	regulation	3
+8905154	biological_process	regulation of gene expression	1
+8905154	chemical	sigma 70	6
+8905154	chemical	base	2
+8905154	chemical	formal	1
+8905154	gene/protein	sigma 70	228
+8905154	organism	collection	3
+8905154	organism	e coli	2
+8905154	organism	salmonella	1
+8905154	sequence	promoter	7
+8905154	sequence	gene	3
+8905154	sequence	base	2
+8905154	sequence	linear	1
+8905154	organ/tissue	organism	1

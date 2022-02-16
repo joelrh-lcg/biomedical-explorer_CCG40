@@ -1,0 +1,39 @@
+21082910	chemical	Macrophage Colony-Stimulating Factor	2
+21082910	chemical	sulfur atom	1
+21082910	gene/protein	Macrophage colony-stimulating factor 1	3
+21082910	gene/protein	protein deadlock (fruit fly)	2
+21082910	gene/protein	streptomycin resistance protein (Staphylococcus aureus)	1
+21082910	gene/protein	streptomycin resistance protein	1
+21082910	gene/protein	30S ribosomal protein S12 (Streptococcus pneumoniae R6)	1
+21082910	gene/protein	protein CSF1 (yeast)	1
+21082910	gene/protein	macrophage colony-stimulating factor 1 (mouse)	1
+21082910	gene/protein	macrophage colony-stimulating factor 1 (human)	1
+21082910	gene/protein	macrophage colony-stimulating factor 1 (rat)	1
+21082910	gene/protein	macrophage colony-stimulating factor 1	1
+21082910	gene/protein	Probable exonuclease subunit 2	1
+21082910	gene/protein	D(2) dopamine receptor isoform 2	1
+21082910	gene/protein	prespore-specific protein A (Dictyostelium discoideum)	1
+21082910	gene/protein	UDP-glucuronic acid decarboxylase 2 (Arabidopsis thaliana)	1
+21082910	gene/protein	fibrinogen alpha chain (human)	1
+21082910	gene/protein	fibrinogen alpha chain	1
+21082910	gene/protein	fibrinogen alpha chain (mouse)	1
+21082910	gene/protein	fibrinogen alpha chain (rat)	1
+21082910	gene/protein	translation initiation factor IF-3 (Escherichia coli K-12)	1
+21082910	gene/protein	translation initiation factor IF-3	1
+21082910	molecular_function	macrophage colony-stimulating factor receptor activity	1
+21082910	sequence	microsatellite	2
+21082910	sequence	gene	2
+21082910	sequence	allele	1
+21082910	cell_line	DEL	2
+21082910	cell_line	GMMs	1
+21082910	cell_line	ML-DmD21	1
+21082910	cell_line	D21	1
+21082910	cell_line	HHUUKDi007-A	1
+21082910	cell_line	OARSAi005-A	1
+21082910	cell_line	LI-3H2-G6	1
+21082910	cell_line	D13	1
+21082910	cell_line	D19	1
+21082910	cell_line	UHOMe001-A	1
+21082910	organ/tissue	DEL	2
+21082910	organ/tissue	cerebrospinal fluid	1
+21082910	clinical_drug	TANDEM	1

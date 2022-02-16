@@ -1,0 +1,12 @@
+14708114	biological_process	regulation	2
+14708114	biological_process	gene expression	1
+14708114	biological_process	signal transduction	1
+14708114	biological_process	transcription	1
+14708114	gene/protein	impact	2
+14708114	organism	bacterium	7
+14708114	organism	e coli	4
+14708114	organism	bacterium be	1
+14708114	sequence	gene	3
+14708114	sequence	signal	2
+14708114	sequence	operon	1
+14708114	organ/tissue	web	1

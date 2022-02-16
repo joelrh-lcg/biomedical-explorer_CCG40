@@ -1,0 +1,18 @@
+30395280	biological_process	transcription, DNA-templated	3
+30395280	biological_process	biological regulation	2
+30395280	gene/protein	Keratin, type I cytoskeletal 12	4
+30395280	gene/protein	F-box/WD repeat-containing protein 7 (fruit fly)	1
+30395280	gene/protein	secreted and transmembrane protein 1	1
+30395280	gene/protein	secreted and transmembrane protein 1 (human)	1
+30395280	gene/protein	secreted and transmembrane protein 1b	1
+30395280	gene/protein	keratin, type I cytoskeletal 12	1
+30395280	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+30395280	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	2
+30395280	molecular_function	binding	1
+30395280	organism	Escherichia coli	2
+30395280	organism	Escherichia coli K12	1
+30395280	sequence	gene	1
+30395280	sequence	polypeptide_binding_motif	1
+30395280	sequence	non_covalent_binding_site	1
+30395280	cell_line	K12 [Mouse osteosarcoma]	1
+30395280	cell_line	K12-72.1	1

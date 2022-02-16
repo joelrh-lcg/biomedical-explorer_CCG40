@@ -1,0 +1,24 @@
+34833910	biological_process	pti	1
+34833910	cellular_component	cell surface	1
+34833910	chemical	ethylene	5
+34833910	chemical	jasmonic acid	4
+34833910	chemical	chitosan	4
+34833910	chemical	essential oils	3
+34833910	chemical	silicon	3
+34833910	chemical	proteins	1
+34833910	chemical	pathway	1
+34833910	chemical	pti	1
+34833910	chemical	antagonist	1
+34833910	chemical	antifungal	1
+34833910	disease	disease	6
+34833910	gene/protein	mamp	3
+34833910	gene/protein	prr	2
+34833910	gene/protein	pamp	2
+34833910	gene/protein	pti	2
+34833910	gene/protein	gras	1
+34833910	molecular_function	prr	1
+34833910	organism	avocado	6
+34833910	organ/tissue	tissue	1
+34833910	clinical_drug	avocado	3
+34833910	clinical_drug	ethylene	1
+34833910	clinical_drug	silicon	1

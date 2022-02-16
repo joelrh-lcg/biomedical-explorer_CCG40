@@ -1,0 +1,10 @@
+30386709	chemical	nucleotide	1
+30386709	gene/protein	linker for activation of T-cells family member 2 (mouse)	1
+30386709	gene/protein	homeotic protein labial (fruit fly)	1
+30386709	gene/protein	linker for activation of T-cells family member 2	1
+30386709	gene/protein	linker for activation of T-cells family member 2 (human)	1
+30386709	gene/protein	linker for activation of T-cells family member 2 (rat)	1
+30386709	gene/protein	linker for activation of T-cells family member 2 (chicken)	1
+30386709	sequence	genome	2
+30386709	sequence	orthologous	1
+30386709	sequence	region	1

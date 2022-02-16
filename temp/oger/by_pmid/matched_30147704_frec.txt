@@ -1,0 +1,32 @@
+30147704	biological_process	symbiosis	3
+30147704	biological_process	transcription	2
+30147704	biological_process	nodulation	2
+30147704	biological_process	nodule formation	1
+30147704	biological_process	JA signaling	1
+30147704	biological_process	signaling pathway	1
+30147704	cellular_component	root hair	1
+30147704	chemical	jasmonic acid	4
+30147704	chemical	microrna	2
+30147704	chemical	nitrogenase	1
+30147704	chemical	pathway	1
+30147704	disease	tcp	5
+30147704	disease	infection	4
+30147704	gene/protein	mir	117
+30147704	gene/protein	bean	12
+30147704	gene/protein	tcp	9
+30147704	gene/protein	tcp10	6
+30147704	gene/protein	transcriptional regulator	1
+30147704	molecular_function	transcription factor	1
+30147704	molecular_function	nitrogenase activity	1
+30147704	organism	teosinte	4
+30147704	organism	legume	1
+30147704	organism	Arabidopsis	1
+30147704	organism	common bean plant	1
+30147704	sequence	microrna	2
+30147704	sequence	isoform	1
+30147704	sequence	transgenic	1
+30147704	sequence	gene	1
+30147704	cell_line	bean	4
+30147704	organ/tissue	nodule	4
+30147704	organ/tissue	node	3
+30147704	organ/tissue	hair	1

@@ -1,0 +1,15 @@
+18599833	biological_process	nitrogen fixation	2
+18599833	biological_process	biological regulation	2
+18599833	biological_process	signaling	1
+18599833	chemical	N-acyl-L-homoserine lactone	6
+18599833	chemical	lactone	2
+18599833	chemical	nitrogen atom	2
+18599833	chemical	nitrogen(.)	2
+18599833	chemical	cluster	1
+18599833	chemical	molecule	1
+18599833	gene/protein	PAP-specific phosphatase HAL2-like (Arabidopsis thaliana)	6
+18599833	organism	Burkholderia	4
+18599833	organism	Paraburkholderia kururiensis	2
+18599833	organism	Pseudomonas aeruginosa	2
+18599833	sequence	gene	2
+18599833	clinical_drug	Nitrogen	2

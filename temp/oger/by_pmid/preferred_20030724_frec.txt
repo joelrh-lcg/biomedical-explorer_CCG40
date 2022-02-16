@@ -1,0 +1,49 @@
+20030724	biological_process	symbiotic process	2
+20030724	biological_process	phosphatidylcholine biosynthetic process	1
+20030724	biological_process	methylation	1
+20030724	chemical	Phosphatidylcholines	12
+20030724	chemical	phosphatidylcholine	6
+20030724	chemical	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	6
+20030724	chemical	1,2-diacyl-sn-glycero-3-phosphocholine	6
+20030724	chemical	phospholipid	3
+20030724	chemical	CDP-diacylglycerol choline O-phosphatidyltransferase	1
+20030724	chemical	picloram	1
+20030724	disease	PREMATURE CHROMATID SEPARATION TRAIT	1
+20030724	gene/protein	Phosphatidylcholine synthase	20
+20030724	gene/protein	Dermonecrotic toxin	3
+20030724	gene/protein	mitochondrial oxaloacetate transport protein (yeast)	3
+20030724	gene/protein	phosphatidylcholine synthase	2
+20030724	gene/protein	contactin-3 (mouse)	1
+20030724	gene/protein	phosphatidylcholine synthase (Agrobacterium fabrum str. C58)	1
+20030724	gene/protein	contactin-3	1
+20030724	gene/protein	SH3 domain-binding protein 5 homolog (fruit fly)	1
+20030724	gene/protein	5,7-dihydroxy-2-methylchromone synthase	1
+20030724	gene/protein	phospholipid N-methyltransferase	1
+20030724	molecular_function	phenol O-methyltransferase activity	3
+20030724	organism	Bradyrhizobium sp. SEMIA 6144	4
+20030724	organism	Bradyrhizobium japonicum	2
+20030724	organism	Bradyrhizobium diazoefficiens	2
+20030724	organism	Arachis	2
+20030724	organism	Arachis hypogaea	2
+20030724	organism	Eukaryota	1
+20030724	organism	bacterium IFAM-3211	1
+20030724	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+20030724	organism	bacterium IFAM-3215	1
+20030724	organism	bacterium IFAM-2074	1
+20030724	organism	bacterium IFAM-3359	1
+20030724	organism	bacterium	1
+20030724	organism	bacterium IFAM-1493	1
+20030724	organism	Glycine max	1
+20030724	organism	Soybeans	1
+20030724	organism	Bradyrhizobium	1
+20030724	sequence	homologous_region	1
+20030724	sequence	engineered_region	1
+20030724	sequence	wild_type	1
+20030724	organ/tissue	posterior communicating artery	1
+20030724	organ/tissue	paracentral sulcus	1
+20030724	organ/tissue	cerebellum vermis lobule X	1
+20030724	organ/tissue	germinal center	1
+20030724	clinical_drug	Soybean preparation	1
+20030724	clinical_drug	Soybean	1
+20030724	clinical_drug	peanut allergenic extract	1
+20030724	molecular_process	methylation	1

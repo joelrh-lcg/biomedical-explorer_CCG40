@@ -1,0 +1,16 @@
+30834387	chemical	Metronidazole	2
+30834387	organism	Rhizobium jaguaris	4
+30834387	organism	Rhizobium tropici	2
+30834387	organism	bacterium IFAM-3211	1
+30834387	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+30834387	organism	bacterium IFAM-3215	1
+30834387	organism	bacterium IFAM-2074	1
+30834387	organism	bacterium IFAM-3359	1
+30834387	organism	bacterium	1
+30834387	organism	bacterium IFAM-1493	1
+30834387	organism	Phaseolus	1
+30834387	organism	Phaseolus vulgaris	1
+30834387	sequence	genome	1
+30834387	sequence	region	1
+30834387	organ/tissue	cerebellum vermis lobule X	2
+30834387	organ/tissue	germinal center	2

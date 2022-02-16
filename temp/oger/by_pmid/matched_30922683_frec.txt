@@ -1,0 +1,10 @@
+30922683	disease	disease	2
+30922683	disease	obesity	2
+30922683	disease	inflammatory bowel disease	2
+30922683	disease	tuberculosis	2
+30922683	disease	autoimmune disease	2
+30922683	disease	gastric cancer	2
+30922683	gene/protein	impact	2
+30922683	organism	HIV	5
+30922683	organism	human	1
+30922683	organ/tissue	bowel	1

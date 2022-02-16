@@ -1,0 +1,41 @@
+16353552	biological_process	symbiotic process	2
+16353552	biological_process	nodulation	2
+16353552	biological_process	obsolete mutagenesis	1
+16353552	cellular_component	symbiosome	1
+16353552	cellular_component	membrane	1
+16353552	chemical	acid	2
+16353552	chemical	lipid	2
+16353552	chemical	Chloride Channels	1
+16353552	chemical	electron	1
+16353552	chemical	Complement System Proteins	1
+16353552	disease	COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA	2
+16353552	gene/protein	Galectin-10	6
+16353552	gene/protein	Clathrin light chain	4
+16353552	gene/protein	Protein BEAN1	2
+16353552	gene/protein	galectin-10 (human)	2
+16353552	gene/protein	cardiotrophin-like cytokine factor 1	2
+16353552	gene/protein	cardiotrophin-like cytokine factor 1 (human)	2
+16353552	gene/protein	clathrin light chain (Dictyostelium discoideum)	2
+16353552	gene/protein	clathrin light chain (fruit fly)	2
+16353552	gene/protein	galectin-10	2
+16353552	gene/protein	protein BEAN	1
+16353552	gene/protein	AP-4 complex subunit mu (Arabidopsis thaliana)	1
+16353552	organism	Rhizobium tropici	4
+16353552	organism	Phaseolus	2
+16353552	organism	Phaseolus vulgaris	1
+16353552	sequence	gene	3
+16353552	sequence	homologous_region	2
+16353552	sequence	deletion	2
+16353552	sequence	transposable_element	1
+16353552	sequence	mutated_variant_site	1
+16353552	sequence	insertion	1
+16353552	sequence	chromosomal_deletion	1
+16353552	sequence	5KB_downstream_variant	1
+16353552	sequence	homologous	1
+16353552	cell_line	R1192	1
+16353552	cell_line	BTI-Tn-5B1-4	1
+16353552	organ/tissue	cerebellum vermis lobule X	3
+16353552	organ/tissue	germinal center	3
+16353552	organ/tissue	membrane organ	1
+16353552	organ/tissue	membranous layer	1
+16353552	molecular_process	hydroxylation	1

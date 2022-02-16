@@ -1,0 +1,27 @@
+15556475	biological_process	transcription, DNA-templated	1
+15556475	cellular_component	intracellular	1
+15556475	chemical	protein	2
+15556475	gene/protein	Hypertrehalosaemic hormone	8
+15556475	gene/protein	protein HOTHEAD (Arabidopsis thaliana)	2
+15556475	gene/protein	tyrosine 3-monooxygenase (human)	2
+15556475	gene/protein	homeobox protein homothorax (fruit fly)	2
+15556475	gene/protein	mediator of RNA polymerase II transcription subunit 10 (zebrafish)	1
+15556475	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+15556475	organism	bacterium IFAM-3211	3
+15556475	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	3
+15556475	organism	bacterium IFAM-3215	3
+15556475	organism	bacterium IFAM-2074	3
+15556475	organism	bacterium IFAM-3359	3
+15556475	organism	bacterium	3
+15556475	organism	bacterium IFAM-1493	3
+15556475	organism	Archaea	2
+15556475	organism	Proteobacteria	1
+15556475	organism	bacterium 10	1
+15556475	sequence	genome	3
+15556475	sequence	helix_turn_helix	2
+15556475	sequence	polypeptide_conserved_motif	2
+15556475	sequence	polypeptide_motif	2
+15556475	sequence	gene	2
+15556475	sequence	regulon	1
+15556475	sequence	signature	1
+15556475	sequence	polypeptide_domain	1

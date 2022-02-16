@@ -1,0 +1,25 @@
+12591886	biological_process	mutagenesis	2
+12591886	biological_process	regulation	1
+12591886	biological_process	gene expression	1
+12591886	chemical	homoserine lactone	10
+12591886	chemical	lactone	1
+12591886	chemical	element	1
+12591886	gene/protein	p42a	21
+12591886	gene/protein	tram	16
+12591886	gene/protein	trai	8
+12591886	gene/protein	traM	8
+12591886	gene/protein	trar	4
+12591886	gene/protein	tra	2
+12591886	gene/protein	traI	2
+12591886	gene/protein	ptic	1
+12591886	organism	plasmid	4
+12591886	organism	Rhizobium etli	2
+12591886	organism	CFN42	1
+12591886	organism	Agrobacterium	1
+12591886	sequence	gene	10
+12591886	sequence	plasmid	4
+12591886	sequence	mutagenesis	2
+12591886	sequence	cosmid clone	1
+12591886	sequence	sequence	1
+12591886	sequence	fusion	1
+12591886	organ/tissue	element	1

@@ -1,0 +1,34 @@
+26706064	biological_process	defense response	2
+26706064	biological_process	obsolete germination	1
+26706064	biological_process	response to salicylic acid	1
+26706064	biological_process	signal transduction	1
+26706064	cellular_component	extracellular region	1
+26706064	cellular_component	obsolete protein	1
+26706064	chemical	jasmonic acid	3
+26706064	chemical	ethylene	3
+26706064	chemical	Salicylic Acid	2
+26706064	chemical	Subtilisin	1
+26706064	chemical	protein	1
+26706064	chemical	(protein)	1
+26706064	chemical	salicylic acid	1
+26706064	chemical	(+)-jasmonic acid	1
+26706064	chemical	ethylene group	1
+26706064	chemical	ethene	1
+26706064	chemical	picloram	1
+26706064	gene/protein	Subtilisin	2
+26706064	gene/protein	Arylsulfatase L	2
+26706064	gene/protein	protein	1
+26706064	gene/protein	Tryptophan 2,3-dioxygenase B	1
+26706064	gene/protein	arylsulfatase E	1
+26706064	gene/protein	achaete-scute complex protein T8 (fruit fly)	1
+26706064	organism	Arabidopsis	2
+26706064	organism	Sarocladium strictum	1
+26706064	organism	Fragaria x ananassa	1
+26706064	organism	Fragaria	1
+26706064	organism	Spores	1
+26706064	sequence	polypeptide	1
+26706064	cell_line	ASE	1
+26706064	clinical_drug	Cephalosporium acrimonium allergenic extract	1
+26706064	clinical_drug	Strawberry	1
+26706064	clinical_drug	Salicylic Acid	1
+26706064	clinical_drug	Ethylene	1

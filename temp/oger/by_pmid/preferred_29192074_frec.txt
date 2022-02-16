@@ -1,0 +1,21 @@
+29192074	chemical	inulosucrase	1
+29192074	chemical	ribosomal RNA	1
+29192074	chemical	RNA, Transfer	1
+29192074	chemical	transfer RNA	1
+29192074	gene/protein	Inulosucrase	2
+29192074	molecular_function	triplet codon-amino acid adaptor activity	1
+29192074	organism	bacterium IFAM-3211	1
+29192074	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+29192074	organism	bacterium IFAM-3215	1
+29192074	organism	bacterium IFAM-2074	1
+29192074	organism	bacterium IFAM-3359	1
+29192074	organism	bacterium	1
+29192074	organism	bacterium IFAM-1493	1
+29192074	organism	Bacteriophages	1
+29192074	sequence	genome	1
+29192074	sequence	region	1
+29192074	sequence	gene	1
+29192074	sequence	rRNA	1
+29192074	sequence	tRNA	1
+29192074	sequence	pseudogene	1
+29192074	sequence	phage_sequence	1

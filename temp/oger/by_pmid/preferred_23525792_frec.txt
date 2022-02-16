@@ -1,0 +1,57 @@
+23525792	biological_process	nitrogen fixation	1
+23525792	chemical	Uric Acid	6
+23525792	chemical	nitrogen atom	3
+23525792	chemical	nitrogen(.)	3
+23525792	chemical	uric acid	3
+23525792	chemical	7,9-dihydro-1H-purine-2,6,8(3H)-trione	3
+23525792	chemical	Nitrogen	2
+23525792	chemical	Acetylene	2
+23525792	chemical	elemental carbon	2
+23525792	chemical	carbon atom	2
+23525792	chemical	Turpentine	2
+23525792	chemical	dinitrogen	1
+23525792	chemical	acetylene	1
+23525792	chemical	maleate(2-)	1
+23525792	gene/protein	protein bark beetle (fruit fly)	2
+23525792	gene/protein	beta-adrenergic receptor kinase 1	2
+23525792	gene/protein	beta-adrenergic receptor kinase 1 (human)	2
+23525792	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+23525792	gene/protein	segment polarity protein dishevelled DVL-3	1
+23525792	gene/protein	segment polarity protein dishevelled homolog DVL-3 (mouse)	1
+23525792	gene/protein	segment polarity protein dishevelled homolog DVL-3 (human)	1
+23525792	gene/protein	Interleukin-6	1
+23525792	gene/protein	interleukin-6	1
+23525792	gene/protein	histone-lysine N-methyltransferase eggless (fruit fly)	1
+23525792	organism	bacterium IFAM-3211	4
+23525792	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	4
+23525792	organism	bacterium IFAM-3215	4
+23525792	organism	bacterium IFAM-2074	4
+23525792	organism	bacterium IFAM-3359	4
+23525792	organism	bacterium	4
+23525792	organism	bacterium IFAM-1493	4
+23525792	organism	Coleoptera	2
+23525792	organism	Raoultella terrigena	2
+23525792	organism	Dendroctonus valens	2
+23525792	organism	Dendroctonus rhizophagus	1
+23525792	organism	Pseudomonas	1
+23525792	organism	Serratia	1
+23525792	organism	Rahnella	1
+23525792	organism	Rahnella aquatilis	1
+23525792	organism	Larva	1
+23525792	sequence	gene	1
+23525792	sequence	region	1
+23525792	organ/tissue	digestive tract	2
+23525792	organ/tissue	lower digestive tract	2
+23525792	organ/tissue	digestive system	2
+23525792	organ/tissue	plantar part of pes	1
+23525792	organ/tissue	shelled egg	1
+23525792	organ/tissue	obsolete oocyte	1
+23525792	organ/tissue	larval stage	1
+23525792	organ/tissue	larva	1
+23525792	organ/tissue	amphibian larval stage	1
+23525792	organ/tissue	adult organism	1
+23525792	organ/tissue	male organism	1
+23525792	organ/tissue	female organism	1
+23525792	clinical_drug	Nitrogen	4
+23525792	clinical_drug	Turpentine	1
+23525792	molecular_process	acetylene reduction	1

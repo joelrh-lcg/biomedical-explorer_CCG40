@@ -1,0 +1,20 @@
+32538895	biological_process	rhythm	1
+32538895	biological_process	sleep	1
+32538895	cellular_component	core	1
+32538895	chemical	cryptochrome	1
+32538895	chemical	11 c	1
+32538895	chemical	cohort	1
+32538895	disease	insomnia	8
+32538895	disease	adhd	4
+32538895	disease	dspd	1
+32538895	disease	major depressive disorder	1
+32538895	gene/protein	cryptochrome 1	16
+32538895	gene/protein	cry1	14
+32538895	gene/protein	CRY1	14
+32538895	gene/protein	bmal1	6
+32538895	sequence	variant	4
+32538895	sequence	reverse	1
+32538895	sequence	gene	1
+32538895	cell_line	11 c	1
+32538895	organ/tissue	depression	1
+32538895	organ/tissue	adult	1

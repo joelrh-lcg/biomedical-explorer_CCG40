@@ -1,0 +1,21 @@
+18310436	chemical	polyphenol	4
+18310436	chemical	catalase	4
+18310436	chemical	h2o2	1
+18310436	gene/protein	catalase	158
+18310436	gene/protein	p42	32
+18310436	gene/protein	bean	3
+18310436	gene/protein	p42a	3
+18310436	gene/protein	lack	2
+18310436	gene/protein	katg	2
+18310436	gene/protein	p42e	1
+18310436	organism	bacterium	21
+18310436	organism	plasmid	4
+18310436	organism	Rhizobium etli	2
+18310436	organism	rhizobium	1
+18310436	organism	CFN42	1
+18310436	sequence	plasmid	4
+18310436	sequence	wild type	1
+18310436	sequence	gene	1
+18310436	cell_line	bean	1
+18310436	organ/tissue	coat	1
+18310436	molecular_process	oxidation	1

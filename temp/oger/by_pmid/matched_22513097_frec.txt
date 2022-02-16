@@ -1,0 +1,6 @@
+22513097	biological_process	synthesis	1
+22513097	chemical	glycerol	3
+22513097	chemical	biodiesel	2
+22513097	chemical	on glycerol	2
+22513097	organism	Escherichia coli	2
+22513097	sequence	gene	1

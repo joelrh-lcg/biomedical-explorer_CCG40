@@ -1,0 +1,18 @@
+11566387	chemical	rdna	2
+11566387	chemical	cluster	1
+11566387	chemical	16s	1
+11566387	chemical	16s rrna	1
+11566387	gene/protein	rep	61
+11566387	molecular_function	rep	1
+11566387	organism	Astragalus adsurgens	1
+11566387	organism	Agrobacterium	1
+11566387	organism	Mesorhizobium	1
+11566387	organism	Rhizobium	1
+11566387	organism	Sinorhizobium	1
+11566387	sequence	aflp	2
+11566387	sequence	rdna	2
+11566387	sequence	rflp	1
+11566387	sequence	genotype	1
+11566387	sequence	16s rrna	1
+11566387	sequence	rrna gene	1
+11566387	organ/tissue	Astragalus	2

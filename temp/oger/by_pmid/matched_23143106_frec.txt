@@ -1,0 +1,16 @@
+23143106	chemical	12 MG	1
+23143106	chemical	base	1
+23143106	gene/protein	K12	9
+23143106	gene/protein	k12	9
+23143106	gene/protein	impact	2
+23143106	organism	e coli	4
+23143106	organism	Escherichia coli K12	1
+23143106	organism	e coli k12	1
+23143106	sequence	genome	1
+23143106	sequence	sequence	1
+23143106	sequence	gene	1
+23143106	sequence	base	1
+23143106	cell_line	K12	2
+23143106	cell_line	k12	2
+23143106	organ/tissue	organism	1
+23143106	organ/tissue	web	1

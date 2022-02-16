@@ -1,0 +1,17 @@
+15556475	biological_process	transcription	1
+15556475	cellular_component	intracellular	1
+15556475	chemical	proteins	2
+15556475	gene/protein	hth	14
+15556475	gene/protein	ten	1
+15556475	molecular_function	transcription factor	1
+15556475	organism	bacterium	21
+15556475	organism	archaea	2
+15556475	organism	proteobacteria	1
+15556475	organism	bacterium 10	1
+15556475	sequence	motif	4
+15556475	sequence	genome	3
+15556475	sequence	hth	2
+15556475	sequence	gene	2
+15556475	sequence	regulon	1
+15556475	sequence	signature	1
+15556475	sequence	domain	1

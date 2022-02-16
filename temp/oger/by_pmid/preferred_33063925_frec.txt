@@ -1,0 +1,41 @@
+33063925	biological_process	G1 to G0 transition	2
+33063925	biological_process	single-celled organism vegetative growth phase	2
+33063925	biological_process	asymmetric cell division	1
+33063925	biological_process	biosynthetic process	1
+33063925	biological_process	sphingolipid biosynthetic process	1
+33063925	cellular_component	membrane	2
+33063925	cellular_component	outer membrane	1
+33063925	chemical	dihydroceramide	9
+33063925	chemical	sphingolipid	3
+33063925	chemical	N-acylsphinganine	3
+33063925	chemical	Serine C-Palmitoyltransferase	1
+33063925	chemical	cluster	1
+33063925	gene/protein	Serine--pyruvate aminotransferase	16
+33063925	gene/protein	Serine--pyruvate aminotransferase, mitochondrial	16
+33063925	gene/protein	transcription factor SPATULA (Arabidopsis thaliana)	4
+33063925	gene/protein	isoaspartyl peptidase	4
+33063925	gene/protein	serine--pyruvate aminotransferase	4
+33063925	gene/protein	eukaryotic serine palmitoyltransferase	4
+33063925	gene/protein	isoaspartyl peptidase (Escherichia coli K-12)	4
+33063925	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+33063925	gene/protein	bacterial-type serine palmitoyltransferase	1
+33063925	molecular_function	serine C-palmitoyltransferase activity	5
+33063925	molecular_function	serine-pyruvate transaminase activity	4
+33063925	organism	bacterium BE	1
+33063925	organism	Caulobacter crescentus	1
+33063925	organism	Caulobacter vibrioides	1
+33063925	organism	bacterium IFAM-3211	1
+33063925	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+33063925	organism	bacterium IFAM-3215	1
+33063925	organism	bacterium IFAM-2074	1
+33063925	organism	bacterium IFAM-3359	1
+33063925	organism	bacterium	1
+33063925	organism	bacterium IFAM-1493	1
+33063925	sequence	gene	5
+33063925	sequence	wild_type	3
+33063925	sequence	serine	1
+33063925	organ/tissue	membrane organ	3
+33063925	organ/tissue	membranous layer	3
+33063925	organ/tissue	multicellular organism	2
+33063925	organ/tissue	proliferative region	1
+33063925	clinical_drug	Serine	1

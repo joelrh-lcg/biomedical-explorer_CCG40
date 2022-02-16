@@ -1,0 +1,26 @@
+34610117	biological_process	symbiosis	1
+34610117	biological_process	nodulation	1
+34610117	chemical	16s rrna	1
+34610117	gene/protein	pgp	103
+34610117	gene/protein	faba	6
+34610117	gene/protein	bean	6
+34610117	gene/protein	NAB	3
+34610117	gene/protein	nifH	1
+34610117	molecular_function	faba	2
+34610117	organism	bacterium	7
+34610117	organism	faba bean	4
+34610117	organism	legume	2
+34610117	organism	Enterobacter	2
+34610117	organism	rhizobium	2
+34610117	organism	klebsiella variicola	2
+34610117	organism	enterobacteria	2
+34610117	organism	unknown	1
+34610117	organism	Enterobacteriaceae	1
+34610117	organism	Klebsiella	1
+34610117	sequence	genotype	3
+34610117	sequence	sequence	2
+34610117	sequence	gene	2
+34610117	sequence	16s rrna	1
+34610117	cell_line	NAB	3
+34610117	cell_line	bean	2
+34610117	organ/tissue	nodule	8

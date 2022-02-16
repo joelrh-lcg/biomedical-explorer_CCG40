@@ -1,0 +1,35 @@
+34367203	biological_process	biosynthetic process	2
+34367203	biological_process	swimming	1
+34367203	biological_process	catabolic process	1
+34367203	cellular_component	membrane	3
+34367203	cellular_component	obsolete flagellum	1
+34367203	cellular_component	cilium	1
+34367203	cellular_component	obsolete protein	1
+34367203	chemical	succinoglycan	6
+34367203	chemical	phosphatidylethanolamine	3
+34367203	chemical	Cardiolipins	2
+34367203	chemical	Phosphatidylcholines	2
+34367203	chemical	phosphatidylglycerol	1
+34367203	chemical	1,2-diacyl-sn-glycero-3-phospho-(1'-sn-glycerol)	1
+34367203	chemical	cardiolipin	1
+34367203	chemical	(S)-1,2-distearoylphosphatidylethanolaminium	1
+34367203	chemical	phosphatidylcholine	1
+34367203	chemical	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	1
+34367203	chemical	1,2-diacyl-sn-glycero-3-phosphocholine	1
+34367203	chemical	phospholipid	1
+34367203	chemical	protein	1
+34367203	chemical	(protein)	1
+34367203	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	4
+34367203	gene/protein	sensor protein ChvG	2
+34367203	gene/protein	sensor protein ChvG (Sinorhizobium meliloti 1021)	2
+34367203	gene/protein	protein	1
+34367203	organism	Medicago sativa	2
+34367203	sequence	transcript	3
+34367203	sequence	wild_type	2
+34367203	sequence	polypeptide	1
+34367203	organ/tissue	membrane organ	3
+34367203	organ/tissue	membranous layer	3
+34367203	organ/tissue	cerebellum vermis lobule X	2
+34367203	organ/tissue	germinal center	2
+34367203	organ/tissue	sense organ	2
+34367203	clinical_drug	Medicago sativa whole extract	1

@@ -1,0 +1,25 @@
+12057950	biological_process	formation	1
+12057950	biological_process	symbiosis	1
+12057950	cellular_component	protein	2
+12057950	chemical	atp	4
+12057950	chemical	protein	4
+12057950	chemical	hydroperoxide	4
+12057950	chemical	cyclic amp	3
+12057950	chemical	Adenylate cyclase	1
+12057950	gene/protein	Adenylate cyclase	27
+12057950	gene/protein	cya	9
+12057950	gene/protein	protein	2
+12057950	organism	e coli	4
+12057950	organism	Xanthomonas campestris	3
+12057950	organism	Rhizobium etli	2
+12057950	organism	Escherichia coli	2
+12057950	organism	Mesorhizobium loti	2
+12057950	organism	Sinorhizobium meliloti	2
+12057950	organism	unknown	1
+12057950	organism	Agrobacterium	1
+12057950	sequence	gene	5
+12057950	sequence	protein	2
+12057950	sequence	fusion	1
+12057950	sequence	genome	1
+12057950	cell_line	ohr	1
+12057950	clinical_drug	atp	1

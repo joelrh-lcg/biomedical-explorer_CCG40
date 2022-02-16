@@ -1,0 +1,8 @@
+26564044	chemical	cephalosporin	1
+26564044	disease	Infections	2
+26564044	organism	unidentified plasmid	2
+26564044	organism	Salmonella enterica subsp. enterica	1
+26564044	sequence	plasmid	2
+26564044	sequence	genome	1
+26564044	sequence	region	1
+26564044	sequence	gene	1

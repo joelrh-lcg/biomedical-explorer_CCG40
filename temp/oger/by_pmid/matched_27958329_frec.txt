@@ -1,0 +1,21 @@
+27958329	biological_process	aging	3
+27958329	chemical	circrna	8
+27958329	chemical	circRNAs	2
+27958329	chemical	circular rna	1
+27958329	chemical	biological role	1
+27958329	disease	nervous system	2
+27958329	gene/protein	rna	8
+27958329	gene/protein	exon	1
+27958329	gene/protein	lack	1
+27958329	organism	mouse	2
+27958329	sequence	gene	2
+27958329	sequence	circular	1
+27958329	sequence	transcript	1
+27958329	sequence	exon	1
+27958329	sequence	linear	1
+27958329	organ/tissue	hippocampus	3
+27958329	organ/tissue	neural tissue	2
+27958329	organ/tissue	brain	2
+27958329	organ/tissue	cortex	1
+27958329	organ/tissue	tissue	1
+27958329	organ/tissue	nervous system	1

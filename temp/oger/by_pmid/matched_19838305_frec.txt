@@ -1,0 +1,33 @@
+19838305	biological_process	transcription	3
+19838305	biological_process	gene expression	1
+19838305	chemical	sigma factor	1
+19838305	chemical	sigma70	1
+19838305	chemical	nucleotide	1
+19838305	chemical	riboswitch	1
+19838305	gene/protein	sigma70	38
+19838305	gene/protein	map	12
+19838305	gene/protein	sigma38	12
+19838305	gene/protein	k12	9
+19838305	gene/protein	rna	2
+19838305	molecular_function	binding	1
+19838305	molecular_function	transcription factor	1
+19838305	organism	Escherichia coli	2
+19838305	organism	e coli	2
+19838305	organism	unknown	1
+19838305	organism	e coli k12	1
+19838305	organism	collection	1
+19838305	sequence	gene	4
+19838305	sequence	promoter	3
+19838305	sequence	regulatory region	2
+19838305	sequence	binding site	2
+19838305	sequence	genome	1
+19838305	sequence	promoter sequence	1
+19838305	sequence	upstream	1
+19838305	sequence	transcript	1
+19838305	sequence	riboswitch	1
+19838305	sequence	antisense	1
+19838305	sequence	experimentally determined	1
+19838305	sequence	operon	1
+19838305	cell_line	k12	2
+19838305	organ/tissue	organism	1
+19838305	organ/tissue	scale	1

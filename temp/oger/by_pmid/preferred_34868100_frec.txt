@@ -1,0 +1,32 @@
+34868100	biological_process	symbiotic process	2
+34868100	biological_process	nodulation	2
+34868100	biological_process	biosynthetic process	2
+34868100	biological_process	transduction	1
+34868100	biological_process	signal transduction	1
+34868100	biological_process	signaling	1
+34868100	biological_process	arbuscular mycorrhizal association	1
+34868100	biological_process	gene expression	1
+34868100	cellular_component	arbuscule	1
+34868100	chemical	picloram	3
+34868100	chemical	Plant Proteins	1
+34868100	chemical	atom	1
+34868100	disease	Infections	4
+34868100	disease	Ablepharon macrostomia syndrome	2
+34868100	gene/protein	Glucose-6-phosphate isomerase	45
+34868100	gene/protein	glucose-6-phosphate isomerase	5
+34868100	gene/protein	Microfibrillar-associated protein 1	5
+34868100	gene/protein	Rac-like GTP-binding protein ARAC1 (Arabidopsis thaliana)	3
+34868100	gene/protein	long-wave-sensitive opsin 1	2
+34868100	gene/protein	protein ROP (fruit fly)	2
+34868100	gene/protein	Long-wave-sensitive opsin 1	2
+34868100	gene/protein	ribonuclease E	2
+34868100	gene/protein	ribonuclease E (Escherichia coli K-12)	2
+34868100	gene/protein	transcription factor ABORTED MICROSPORES (Arabidopsis thaliana)	2
+34868100	organism	Fabaceae	2
+34868100	organism	Fungi	1
+34868100	sequence	gene	3
+34868100	sequence	transit_peptide	1
+34868100	sequence	signal_peptide	1
+34868100	organ/tissue	organ	1
+34868100	organ/tissue	cerebellum vermis lobule X	1
+34868100	organ/tissue	germinal center	1

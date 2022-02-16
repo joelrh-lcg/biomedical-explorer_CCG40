@@ -1,0 +1,26 @@
+30186248	biological_process	virulence	3
+30186248	biological_process	immune evasion	2
+30186248	chemical	antibiotic	9
+30186248	chemical	vancomycin	4
+30186248	chemical	enterotoxin	2
+30186248	chemical	toxin	1
+30186248	chemical	macrolide	1
+30186248	chemical	cluster	1
+30186248	chemical	surface proteins	1
+30186248	disease	infection	2
+30186248	disease	recurrence	2
+30186248	gene/protein	st5	15
+30186248	gene/protein	MRSA	8
+30186248	gene/protein	enterotoxin	3
+30186248	organism	MRSA	4
+30186248	organism	phage	1
+30186248	sequence	clone	8
+30186248	sequence	sequence	2
+30186248	sequence	nest	2
+30186248	sequence	gene	2
+30186248	sequence	genome	1
+30186248	sequence	gain	1
+30186248	sequence	phage	1
+30186248	cell_line	strain n	1
+30186248	organ/tissue	hemisphere	4
+30186248	clinical_drug	vancomycin	1

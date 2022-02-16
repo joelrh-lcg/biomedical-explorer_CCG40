@@ -1,0 +1,24 @@
+26316636	cellular_component	obsolete protein	1
+26316636	chemical	protein	1
+26316636	chemical	(protein)	1
+26316636	gene/protein	E3 ubiquitin-protein ligase ZSWIM2	4
+26316636	gene/protein	E3 ubiquitin-protein ligase Zswim2	2
+26316636	gene/protein	protein	1
+26316636	organism	Larva	3
+26316636	organism	Apis mellifera	2
+26316636	organism	Paenibacillus	1
+26316636	organism	bacterium IFAM-3211	1
+26316636	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+26316636	organism	bacterium IFAM-3215	1
+26316636	organism	bacterium IFAM-2074	1
+26316636	organism	bacterium IFAM-3359	1
+26316636	organism	bacterium	1
+26316636	organism	bacterium IFAM-1493	1
+26316636	organism	Bees	1
+26316636	sequence	genome	1
+26316636	sequence	polypeptide	1
+26316636	sequence	gene	1
+26316636	organ/tissue	larval stage	3
+26316636	organ/tissue	larva	3
+26316636	organ/tissue	amphibian larval stage	3
+26316636	clinical_drug	Apis mellifera preparation	1

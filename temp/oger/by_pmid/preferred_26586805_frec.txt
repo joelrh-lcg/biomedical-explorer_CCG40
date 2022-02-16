@@ -1,0 +1,17 @@
+26586805	biological_process	behavior	2
+26586805	gene/protein	Arabinose 5-phosphate isomerase KdsD	9
+26586805	gene/protein	Arabinose 5-phosphate isomerase GutQ	6
+26586805	gene/protein	Arabinose 5-phosphate isomerase KpsF	3
+26586805	gene/protein	Probable arabinose 5-phosphate isomerase	2
+26586805	gene/protein	arabinose 5-phosphate isomerase GutQ	1
+26586805	gene/protein	Guanyl-specific ribonuclease Ap1	1
+26586805	gene/protein	Aspartic protease inhibitor 8	1
+26586805	gene/protein	vacuolar aminopeptidase 1 (yeast)	1
+26586805	gene/protein	Protease 1	1
+26586805	gene/protein	Aminopeptidase S	1
+26586805	organism	Bees	1
+26586805	sequence	double	1
+26586805	sequence	candidate_gene	1
+26586805	organ/tissue	multicellular organism	1
+26586805	organ/tissue	webbed interdigital region	1
+26586805	entity_type	preferred_term	2

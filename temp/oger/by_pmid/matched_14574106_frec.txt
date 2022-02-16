@@ -1,0 +1,10 @@
+14574106	chemical	laccase	5
+14574106	chemical	biological role	1
+14574106	chemical	oxidase	1
+14574106	gene/protein	laccase	55
+14574106	organism	permit	1
+14574106	sequence	clone	1
+14574106	sequence	sequence	1
+14574106	sequence	gene	1
+14574106	sequence	substitute	1
+14574106	cell_line	bona	1

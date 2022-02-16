@@ -1,0 +1,12 @@
+17597531	gene/protein	map	6
+17597531	organism	zebrafish	12
+17597531	organism	Danio rerio	2
+17597531	organism	human	2
+17597531	organism	vertebrate	1
+17597531	sequence	genome	5
+17597531	sequence	sequence	2
+17597531	sequence	syntenic	1
+17597531	sequence	gene	1
+17597531	sequence	construct	1
+17597531	sequence	assembly	1
+17597531	organ/tissue	organism	1

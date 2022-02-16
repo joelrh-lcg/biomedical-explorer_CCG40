@@ -1,0 +1,38 @@
+29106540	biological_process	biosynthetic process	5
+29106540	cellular_component	membrane	1
+29106540	chemical	quinone	3
+29106540	chemical	alpha-particle	3
+29106540	chemical	protein	3
+29106540	chemical	picloram	3
+29106540	chemical	Ubiquinone	2
+29106540	chemical	ubiquinones	2
+29106540	chemical	coenzyme Q10	2
+29106540	chemical	electron	2
+29106540	chemical	isoprenoid	1
+29106540	chemical	1,4-benzoquinone	1
+29106540	chemical	food additive carrier	1
+29106540	chemical	positron	1
+29106540	chemical	photon	1
+29106540	chemical	oxygen atom	1
+29106540	gene/protein	Fibrinogen gamma-B chain	1
+29106540	molecular_function	electron transfer activity	1
+29106540	organism	Escherichia coli	6
+29106540	organism	bacterium IFAM-3211	2
+29106540	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+29106540	organism	bacterium IFAM-3215	2
+29106540	organism	bacterium IFAM-2074	2
+29106540	organism	bacterium IFAM-3359	2
+29106540	organism	bacterium	2
+29106540	organism	bacterium IFAM-1493	2
+29106540	organism	Alphaproteobacteria	2
+29106540	organism	Proteobacteria	1
+29106540	organism	Cyanobacteria	1
+29106540	organism	Rhodospirillaceae	1
+29106540	organism	Eukaryota	1
+29106540	sequence	homologous	1
+29106540	sequence	genome	1
+29106540	sequence	gene	1
+29106540	organ/tissue	multicellular organism	2
+29106540	organ/tissue	membrane organ	1
+29106540	organ/tissue	membranous layer	1
+29106540	clinical_drug	Oxygen	1

@@ -1,0 +1,11 @@
+27081133	chemical	dioxidosulfate(.1-)	2
+27081133	chemical	sulfonyl group	2
+27081133	chemical	sulfur dioxide	2
+27081133	gene/protein	Ribosome-inactivating protein saporin-2	2
+27081133	organism	Neorhizobium huautlense	2
+27081133	organism	Prophages	1
+27081133	organism	unidentified plasmid	1
+27081133	sequence	genome	1
+27081133	sequence	region	1
+27081133	sequence	prophage	1
+27081133	sequence	plasmid	1

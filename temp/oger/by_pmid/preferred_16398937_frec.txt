@@ -1,0 +1,16 @@
+16398937	biological_process	transcription, DNA-templated	1
+16398937	gene/protein	Keratin, type I cytoskeletal 12	4
+16398937	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+16398937	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+16398937	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+16398937	gene/protein	secreted and transmembrane protein 1	1
+16398937	gene/protein	secreted and transmembrane protein 1 (human)	1
+16398937	gene/protein	secreted and transmembrane protein 1b	1
+16398937	gene/protein	keratin, type I cytoskeletal 12	1
+16398937	gene/protein	secreted and transmembrane protein 1b (mouse)	1
+16398937	organism	Escherichia coli	4
+16398937	organism	Escherichia coli K12	1
+16398937	sequence	operon	1
+16398937	cell_line	K12 [Mouse osteosarcoma]	1
+16398937	cell_line	K12-72.1	1
+16398937	organ/tissue	multicellular organism	1

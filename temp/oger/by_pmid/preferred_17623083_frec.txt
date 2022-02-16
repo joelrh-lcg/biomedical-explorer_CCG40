@@ -1,0 +1,7 @@
+17623083	cellular_component	chloroplast	1
+17623083	chemical	9-(4-chlorophenyl)-7,7-dimethyl-5,8-nonadienoic acid	2
+17623083	gene/protein	Luc7-like protein (Dictyostelium discoideum)	2
+17623083	gene/protein	calcium channel flower (fruit fly)	1
+17623083	organism	Fabaceae	2
+17623083	sequence	genome	1
+17623083	organ/tissue	crop	2

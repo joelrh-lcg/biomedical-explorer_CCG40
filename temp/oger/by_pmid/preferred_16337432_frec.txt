@@ -1,0 +1,57 @@
+16337432	biological_process	biological regulation	1
+16337432	biological_process	signal transduction	1
+16337432	biological_process	metabolic process	1
+16337432	biological_process	cell division	1
+16337432	biological_process	vacuolar transport	1
+16337432	cellular_component	nucleus	1
+16337432	cellular_component	cytoskeleton	1
+16337432	cellular_component	extracellular matrix	1
+16337432	chemical	Hormones	2
+16337432	chemical	atomic nucleus	1
+16337432	chemical	base	1
+16337432	chemical	DNA, Complementary	1
+16337432	chemical	hormone	1
+16337432	gene/protein	Protease	27
+16337432	gene/protein	DNA-3-methyladenine glycosylase 1 (Escherichia coli K-12)	1
+16337432	gene/protein	UPF0410 protein YmgE	1
+16337432	gene/protein	UPF0410 protein YmgE (Escherichia coli K-12)	1
+16337432	gene/protein	DNA-3-methyladenine glycosylase 1	1
+16337432	gene/protein	DNA-3-methyladenine glycosylase	1
+16337432	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+16337432	gene/protein	Endogenous retrovirus group K member 8 Pro protein	1
+16337432	gene/protein	Endogenous retrovirus group K member 7 Pro protein	1
+16337432	gene/protein	Endogenous retrovirus group K member 10 Pro protein	1
+16337432	gene/protein	Endogenous retrovirus group K member 21 Pro protein	1
+16337432	gene/protein	Endogenous retrovirus group K member 19 Pro protein	1
+16337432	gene/protein	Endogenous retrovirus group K member 25 Pro protein	1
+16337432	gene/protein	Endogenous retrovirus group K member 104 Pro protein	1
+16337432	gene/protein	Endogenous retrovirus group K member 113 Pro protein	1
+16337432	gene/protein	Endogenous retrovirus group K member 24 Pro protein	1
+16337432	gene/protein	Endogenous retrovirus group K member 9 Pro protein	1
+16337432	gene/protein	Endogenous retrovirus group K member 6 Pro protein	1
+16337432	gene/protein	Endogenous retrovirus group K member 18 Pro protein	1
+16337432	organism	Taenia solium	2
+16337432	organism	Echinococcus granulosus	2
+16337432	organism	Echinococcus multilocularis	2
+16337432	organism	Humans	2
+16337432	organism	Cestoda	1
+16337432	organism	Parasites	1
+16337432	sequence	region	6
+16337432	sequence	genome	5
+16337432	sequence	EST	5
+16337432	sequence	gene	3
+16337432	sequence	genomic_clone	2
+16337432	sequence	homologous_region	2
+16337432	sequence	tag	1
+16337432	sequence	base	1
+16337432	sequence	cDNA	1
+16337432	sequence	transit_peptide	1
+16337432	sequence	signal_peptide	1
+16337432	organ/tissue	cestode	1
+16337432	organ/tissue	neural nucleus	1
+16337432	organ/tissue	adult organism	1
+16337432	organ/tissue	post-juvenile adult stage	1
+16337432	organ/tissue	fully formed stage	1
+16337432	organ/tissue	proliferative region	1
+16337432	organ/tissue	matrix compartment	1
+16337432	entity_type	preferred_term	2

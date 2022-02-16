@@ -1,0 +1,18 @@
+11975504	chemical	Procera	4
+11975504	gene/protein	Streptopain	7
+11975504	gene/protein	stringent starvation protein A	1
+11975504	gene/protein	Probable salivary secreted peptide	1
+11975504	gene/protein	stringent starvation protein A (Escherichia coli K-12)	1
+11975504	gene/protein	probable inactive receptor-like kinase BSK12 (Arabidopsis thaliana)	1
+11975504	gene/protein	minor histocompatibility antigen H13	1
+11975504	gene/protein	stromal processing peptidase, chloroplastic (Arabidopsis thaliana)	1
+11975504	gene/protein	Sucrose 6(F)-phosphate phosphorylase	1
+11975504	gene/protein	sphingosine-1-phosphate phosphatase 1	1
+11975504	gene/protein	signal peptide peptidase (Arabidopsis thaliana)	1
+11975504	gene/protein	minor histocompatibility antigen H13 (human)	1
+11975504	gene/protein	sphingosine-1-phosphate phosphatase	1
+11975504	gene/protein	Sphingosine-1-phosphate phosphatase 1	1
+11975504	gene/protein	SD07518p (fruit fly)	1
+11975504	molecular_function	obsolete signal peptide peptidase activity	1
+11975504	organism	Valeriana edulis	1
+11975504	organ/tissue	supraspinal nucleus	1

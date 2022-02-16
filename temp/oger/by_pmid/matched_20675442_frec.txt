@@ -1,0 +1,26 @@
+20675442	biological_process	symbiosis	1
+20675442	chemical	element	2
+20675442	chemical	base	1
+20675442	chemical	nucleotide	1
+20675442	chemical	is element	1
+20675442	disease	infection	2
+20675442	gene/protein	glya	11
+20675442	gene/protein	pcr	8
+20675442	gene/protein	dnab	5
+20675442	organism	bacterium	7
+20675442	organism	plasmid	4
+20675442	organism	Rhizobium etli	2
+20675442	organism	insertion sequence	1
+20675442	organism	CFN42	1
+20675442	organism	collection	1
+20675442	organism	rhizobium	1
+20675442	organism	cfn42	1
+20675442	sequence	plasmid	4
+20675442	sequence	gene	3
+20675442	sequence	genome	2
+20675442	sequence	insertion sequence	1
+20675442	sequence	mobile genetic element	1
+20675442	sequence	base	1
+20675442	sequence	sequence	1
+20675442	cell_line	glya	1
+20675442	organ/tissue	element	3

@@ -1,0 +1,65 @@
+15053318	chemical	Ribitol	2
+15053318	chemical	ribitol	1
+15053318	disease	Pneumonia	2
+15053318	gene/protein	Mannitol 2-dehydrogenase	12
+15053318	gene/protein	DNA-directed RNA polymerase subunit beta (Thermus thermophilus HB8)	1
+15053318	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis ATCC 23445)	1
+15053318	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus 2308)	1
+15053318	gene/protein	DNA-directed RNA polymerase subunit beta (Escherichia coli K-12)	1
+15053318	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella canis ATCC 23365)	1
+15053318	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella ovis ATCC 25840)	1
+15053318	gene/protein	DNA-directed RNA polymerase subunit beta (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+15053318	gene/protein	DNA-directed RNA polymerase subunit beta (Peptoclostridium difficile 630)	1
+15053318	gene/protein	DNA-directed RNA polymerase subunit beta (Clostridium botulinum A str. Hall)	1
+15053318	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella melitensis ATCC 23457)	1
+15053318	gene/protein	DNA-directed RNA polymerase subunit beta	1
+15053318	gene/protein	DNA-directed RNA polymerase subunit beta (Arabidopsis thaliana)	1
+15053318	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella suis 1330)	1
+15053318	gene/protein	DNA-directed RNA polymerase subunit beta (Brucella abortus bv. 1 str. 9-941)	1
+15053318	gene/protein	DNA gyrase subunit A (Streptococcus pneumoniae TIGR4)	1
+15053318	gene/protein	DNA gyrase subunit A (Mycobacterium tuberculosis H37Rv)	1
+15053318	gene/protein	DNA gyrase subunit A (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+15053318	gene/protein	DNA gyrase subunit A, chloroplastic/mitochondrial (Arabidopsis thaliana)	1
+15053318	gene/protein	DNA gyrase subunit A	1
+15053318	gene/protein	DNA gyrase subunit A (Staphylococcus epidermidis RP62A)	1
+15053318	gene/protein	DNA gyrase subunit A (Escherichia coli K-12)	1
+15053318	gene/protein	malate dehydrogenase, cytoplasmic (rat)	1
+15053318	gene/protein	(S)-mandelate dehydrogenase	1
+15053318	gene/protein	malate dehydrogenase (Escherichia coli K-12)	1
+15053318	gene/protein	NAD-dependent methanol dehydrogenase	1
+15053318	gene/protein	Malate dehydrogenase	1
+15053318	gene/protein	malate dehydrogenase (Bradyrhizobium diazoefficiens USDA 110)	1
+15053318	gene/protein	translation initiation factor IF-2 (Escherichia coli K-12)	1
+15053318	gene/protein	translation initiation factor IF-2 (Clostridium botulinum A str. Hall)	1
+15053318	gene/protein	translation initiation factor IF-2	1
+15053318	gene/protein	translation initiation factor IF-2 (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+15053318	gene/protein	outer membrane porin PhoE (Escherichia coli K-12)	1
+15053318	gene/protein	outer membrane porin PhoE	1
+15053318	gene/protein	nitrogenase iron protein (Sinorhizobium meliloti 1021)	1
+15053318	gene/protein	proteinase-activated receptor 1	1
+15053318	gene/protein	proteinase-activated receptor 1 (mouse)	1
+15053318	gene/protein	proteinase-activated receptor 1 (rat)	1
+15053318	gene/protein	proteinase-activated receptor 1 (human)	1
+15053318	molecular_function	(S)-mandelate dehydrogenase activity	1
+15053318	molecular_function	alcohol dehydrogenase (acceptor) activity	1
+15053318	molecular_function	L-malate dehydrogenase activity	1
+15053318	organism	Zea mays	2
+15053318	organism	Klebsiella variicola	2
+15053318	organism	Klebsiella	1
+15053318	organism	bacterium IFAM-3211	1
+15053318	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+15053318	organism	bacterium IFAM-3215	1
+15053318	organism	bacterium IFAM-2074	1
+15053318	organism	bacterium IFAM-3359	1
+15053318	organism	bacterium	1
+15053318	organism	bacterium IFAM-1493	1
+15053318	organism	Musa acuminata	1
+15053318	organism	Musa x paradisiaca	1
+15053318	organism	Musa	1
+15053318	organism	Oryza sativa	1
+15053318	organism	Oryza	1
+15053318	sequence	region	1
+15053318	sequence	gene	1
+15053318	clinical_drug	banana allergenic extract	1
+15053318	clinical_drug	banana	1
+15053318	clinical_drug	Brown Rice	1

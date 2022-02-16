@@ -1,0 +1,21 @@
+34189708	biological_process	desiccation tolerance	2
+34189708	biological_process	response to abiotic stress	2
+34189708	biological_process	protein synthesis	1
+34189708	biological_process	germination	1
+34189708	biological_process	response to dehydration	1
+34189708	cellular_component	photosystem ii	1
+34189708	cellular_component	protein	1
+34189708	cellular_component	soluble	1
+34189708	chemical	aba	18
+34189708	chemical	abscisic acid	6
+34189708	chemical	photosystem ii	1
+34189708	chemical	protein synthesis inhibitor	1
+34189708	chemical	nacl	1
+34189708	disease	dehydration	6
+34189708	gene/protein	aba	6
+34189708	gene/protein	psii	1
+34189708	gene/protein	protein	1
+34189708	organism	pseudocrossidium replicatum	2
+34189708	organism	spore	1
+34189708	sequence	protein	1
+34189708	organ/tissue	tissue	2

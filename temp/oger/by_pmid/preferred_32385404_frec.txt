@@ -1,0 +1,47 @@
+32385404	biological_process	pathogenesis	2
+32385404	biological_process	obsolete virulence	2
+32385404	biological_process	viral process	2
+32385404	biological_process	defense response	2
+32385404	biological_process	signal transduction	1
+32385404	cellular_component	cell wall	2
+32385404	cellular_component	obsolete protein	1
+32385404	chemical	Agar	2
+32385404	chemical	patulin	1
+32385404	chemical	virulence factor	1
+32385404	chemical	protein	1
+32385404	chemical	(protein)	1
+32385404	chemical	agar	1
+32385404	chemical	reactive oxygen species	1
+32385404	chemical	picloram	1
+32385404	disease	Infections	4
+32385404	gene/protein	chloride intracellular channel exl-1 (worm)	6
+32385404	gene/protein	GDSL esterase/lipase EXL1 (Arabidopsis thaliana)	6
+32385404	gene/protein	protein EXORDIUM-like 1 (Arabidopsis thaliana)	6
+32385404	gene/protein	protein	1
+32385404	gene/protein	putative aga operon transcriptional repressor	1
+32385404	gene/protein	putative aga operon transcriptional repressor (Escherichia coli K-12)	1
+32385404	gene/protein	proto-oncogene tyrosine-protein kinase ROS (human)	1
+32385404	gene/protein	proto-oncogene tyrosine-protein kinase ROS	1
+32385404	molecular_function	obsolete expansin	1
+32385404	organism	bacterium IFAM-3211	2
+32385404	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	2
+32385404	organism	bacterium IFAM-3215	2
+32385404	organism	bacterium IFAM-2074	2
+32385404	organism	bacterium IFAM-3359	2
+32385404	organism	bacterium	2
+32385404	organism	bacterium IFAM-1493	2
+32385404	organism	Pectobacterium brasiliense	2
+32385404	organism	Pectobacterium atrosepticum	2
+32385404	organism	Solanum tuberosum	2
+32385404	organism	bacterium BE	1
+32385404	organism	Arabidopsis thaliana	1
+32385404	organism	Arabidopsis	1
+32385404	organism	Botrytis cinerea	1
+32385404	sequence	gene	2
+32385404	sequence	wild_type	2
+32385404	sequence	polypeptide	1
+32385404	organ/tissue	tissue	3
+32385404	organ/tissue	anatomical wall	2
+32385404	clinical_drug	potato allergenic extract	1
+32385404	clinical_drug	Agar, Unspecified	1
+32385404	clinical_drug	Botrytis cinerea allergenic extract	1

@@ -1,0 +1,4 @@
+30701503	chemical	microrna	3
+30701503	gene/protein	precursor	2
+30701503	sequence	microrna	3
+30701503	sequence	genome	1

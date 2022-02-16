@@ -1,0 +1,20 @@
+24214998	biological_process	gene expression	2
+24214998	gene/protein	Arabinose 5-phosphate isomerase KdsD	9
+24214998	gene/protein	Arabinose 5-phosphate isomerase GutQ	6
+24214998	gene/protein	Arabinose 5-phosphate isomerase KpsF	3
+24214998	gene/protein	Probable arabinose 5-phosphate isomerase	2
+24214998	gene/protein	arabinose 5-phosphate isomerase GutQ	1
+24214998	gene/protein	Guanyl-specific ribonuclease Ap1	1
+24214998	gene/protein	Aspartic protease inhibitor 8	1
+24214998	gene/protein	vacuolar aminopeptidase 1 (yeast)	1
+24214998	gene/protein	Protease 1	1
+24214998	gene/protein	Aminopeptidase S	1
+24214998	gene/protein	adenosine deaminase (Clostridium botulinum A str. Hall)	1
+24214998	gene/protein	adenosine deaminase (Escherichia coli K-12)	1
+24214998	gene/protein	probable adenosine deaminase (Dictyostelium discoideum)	1
+24214998	gene/protein	ribonuclease I (Escherichia coli K-12)	1
+24214998	gene/protein	ribonuclease I	1
+24214998	organism	Bees	1
+24214998	sequence	gene	2
+24214998	organ/tissue	multicellular organism	2
+24214998	organ/tissue	webbed interdigital region	2

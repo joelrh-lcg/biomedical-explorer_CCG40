@@ -1,0 +1,29 @@
+34211444	biological_process	respiration	2
+34211444	biological_process	aerobic respiration	2
+34211444	biological_process	synthesis	1
+34211444	cellular_component	protein	1
+34211444	chemical	heme a	16
+34211444	chemical	protein	2
+34211444	chemical	cytochrome oxidase	1
+34211444	chemical	oxidase	1
+34211444	chemical	iron	1
+34211444	gene/protein	heme a synthase	316
+34211444	gene/protein	cox	42
+34211444	gene/protein	cox1	21
+34211444	gene/protein	spp	16
+34211444	gene/protein	heme	6
+34211444	gene/protein	cytochrome oxidase	4
+34211444	gene/protein	ctag	2
+34211444	gene/protein	protein	1
+34211444	molecular_function	cytochrome	7
+34211444	molecular_function	spp	1
+34211444	organism	bacterium	21
+34211444	organism	unknown	1
+34211444	organism	Proteobacteria	1
+34211444	sequence	sequence	1
+34211444	sequence	variant	1
+34211444	sequence	protein	1
+34211444	cell_line	cox	7
+34211444	cell_line	15 a	1
+34211444	clinical_drug	iron	1
+34211444	molecular_process	oxidation	1

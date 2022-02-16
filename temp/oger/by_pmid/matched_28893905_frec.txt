@@ -1,0 +1,44 @@
+28893905	biological_process	posttranslational modification	2
+28893905	biological_process	transcription	2
+28893905	biological_process	ribosome biogenesis	1
+28893905	biological_process	rrna processing	1
+28893905	biological_process	regulation	1
+28893905	biological_process	synthesis	1
+28893905	biological_process	glycolysis	1
+28893905	biological_process	pyruvate metabolism	1
+28893905	cellular_component	ribosome	1
+28893905	cellular_component	protein	1
+28893905	chemical	lysine	8
+28893905	chemical	ex527	6
+28893905	chemical	sirt1	3
+28893905	chemical	sl1	3
+28893905	chemical	pyruvate	3
+28893905	chemical	pathway	2
+28893905	chemical	proteins	2
+28893905	chemical	rrna	2
+28893905	chemical	protein	2
+28893905	chemical	28s rrna	2
+28893905	chemical	lysine residue	1
+28893905	chemical	sirtuin 1	1
+28893905	chemical	ribosomal proteins	1
+28893905	chemical	sirt1 inhibitor	1
+28893905	chemical	SIRT1	1
+28893905	chemical	rna polymerase	1
+28893905	chemical	initiation factor	1
+28893905	chemical	effector	1
+28893905	gene/protein	sirt1	20
+28893905	gene/protein	sl1	8
+28893905	gene/protein	SIRT1	5
+28893905	gene/protein	rrn3	5
+28893905	gene/protein	rna	2
+28893905	gene/protein	protein	1
+28893905	gene/protein	pxd	1
+28893905	organism	human	1
+28893905	sequence	lysine	3
+28893905	sequence	rrna	2
+28893905	sequence	protein	1
+28893905	sequence	28s rrna	1
+28893905	cell_line	sl1	5
+28893905	clinical_drug	lysine	3
+28893905	clinical_drug	pyruvate	1
+28893905	molecular_process	acetylation	6

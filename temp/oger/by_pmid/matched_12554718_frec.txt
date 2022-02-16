@@ -1,0 +1,39 @@
+12554718	biological_process	transport	2
+12554718	biological_process	metabolism	1
+12554718	biological_process	nodule development	1
+12554718	biological_process	regulation	1
+12554718	biological_process	nitrogen fixation	1
+12554718	cellular_component	protein	1
+12554718	chemical	sucrose	6
+12554718	chemical	glutamine	4
+12554718	chemical	allantoin	3
+12554718	chemical	allopurinol	3
+12554718	chemical	cdna	2
+12554718	chemical	probe	2
+12554718	chemical	protein	2
+12554718	chemical	carbon	2
+12554718	chemical	ureide	2
+12554718	chemical	nitrogen	2
+12554718	chemical	sucrose synthase	1
+12554718	gene/protein	sucrose synthase	15
+12554718	gene/protein	bean	9
+12554718	gene/protein	protein	1
+12554718	molecular_function	enzyme activity	1
+12554718	organism	soybean	2
+12554718	organism	Phaseolus vulgaris	2
+12554718	sequence	gene	3
+12554718	sequence	cdna clone	2
+12554718	sequence	probe	2
+12554718	sequence	transcript	2
+12554718	sequence	protein	1
+12554718	sequence	glutamine	1
+12554718	cell_line	bean	3
+12554718	organ/tissue	nodule	14
+12554718	organ/tissue	tissue	1
+12554718	clinical_drug	sucrose	3
+12554718	clinical_drug	soybean	2
+12554718	clinical_drug	allantoin	2
+12554718	clinical_drug	glutamine	1
+12554718	clinical_drug	allopurinol	1
+12554718	clinical_drug	nitrogen	1
+12554718	molecular_process	reduction	1

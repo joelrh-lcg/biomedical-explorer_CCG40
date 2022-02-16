@@ -1,0 +1,20 @@
+28167520	biological_process	cell division	4
+28167520	biological_process	cell wall synthesis	3
+28167520	biological_process	localization	1
+28167520	cellular_component	constriction	4
+28167520	cellular_component	protein	3
+28167520	cellular_component	core	1
+28167520	cellular_component	protein complex	1
+28167520	cellular_component	cell wall	1
+28167520	chemical	dipi	24
+28167520	chemical	protein	8
+28167520	chemical	proteins	6
+28167520	gene/protein	dipi	12
+28167520	gene/protein	protein	4
+28167520	organism	bacterium	14
+28167520	organism	yeast	1
+28167520	sequence	protein	4
+28167520	sequence	assembly	1
+28167520	organ/tissue	cell division	4
+28167520	organ/tissue	wall	1
+28167520	clinical_drug	yeast	1

@@ -1,0 +1,12 @@
+15972018	chemical	complement	1
+15972018	gene/protein	lack	1
+15972018	gene/protein	transcriptional regulator	1
+15972018	molecular_function	binding	1
+15972018	organism	Escherichia coli	2
+15972018	organism	gammaproteobacteria	1
+15972018	sequence	genome	2
+15972018	sequence	sequence	2
+15972018	sequence	regulon	2
+15972018	sequence	binding site	2
+15972018	sequence	gene	1
+15972018	organ/tissue	organism	1

@@ -1,0 +1,13 @@
+20811631	biological_process	cell proliferation	1
+20811631	biological_process	glycolysis	1
+20811631	biological_process	oxidative phosphorylation	1
+20811631	chemical	glucose	5
+20811631	chemical	ATP	4
+20811631	chemical	amino acid	2
+20811631	chemical	lipid	1
+20811631	chemical	nucleotide	1
+20811631	sequence	amino acid	1
+20811631	cell	cancer cell	3
+20811631	organ/tissue	proliferation	1
+20811631	clinical_drug	glucose	1
+20811631	clinical_drug	ATP	1

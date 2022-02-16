@@ -1,0 +1,21 @@
+28522365	biological_process	biosynthesis	2
+28522365	biological_process	secondary metabolism	1
+28522365	biological_process	membrane lipid biosynthesis	1
+28522365	cellular_component	membrane	2
+28522365	cellular_component	cellular membrane	1
+28522365	cellular_component	core	1
+28522365	chemical	antibiotic	9
+28522365	chemical	lipid	3
+28522365	chemical	pathway	2
+28522365	chemical	natural product	1
+28522365	chemical	molecule	1
+28522365	disease	tuberculosis	2
+28522365	gene/protein	polar	2
+28522365	gene/protein	gap	2
+28522365	gene/protein	cope	1
+28522365	organism	bacterium	7
+28522365	organism	Streptomyces	3
+28522365	organism	Mycobacterium tuberculosis	2
+28522365	sequence	gap	1
+28522365	organ/tissue	membrane	6
+28522365	organ/tissue	organism	1

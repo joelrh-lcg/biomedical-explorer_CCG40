@@ -1,0 +1,3 @@
+15130857	organism	Humans	1
+15130857	organ/tissue	extension	1
+15130857	organ/tissue	primitive knot	1

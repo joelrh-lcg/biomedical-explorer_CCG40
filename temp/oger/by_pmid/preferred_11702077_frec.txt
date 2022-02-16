@@ -1,0 +1,35 @@
+11702077	biological_process	obsolete mutagenesis	1
+11702077	biological_process	transcription, DNA-templated	1
+11702077	chemical	Glucose	2
+11702077	chemical	Pyruvic Acid	2
+11702077	chemical	Biotin	2
+11702077	chemical	alpha-particle	2
+11702077	chemical	Oxaloacetic Acid	2
+11702077	chemical	Pyruvate Carboxylase	1
+11702077	chemical	aldehydo-D-glucose	1
+11702077	chemical	D-glucopyranose	1
+11702077	chemical	glucose	1
+11702077	chemical	pyruvate	1
+11702077	chemical	elemental carbon	1
+11702077	chemical	carbon atom	1
+11702077	chemical	biotinate	1
+11702077	chemical	biotin	1
+11702077	chemical	oxaloacetate(2-)	1
+11702077	chemical	oxaloacetate	1
+11702077	gene/protein	Pyruvate carboxylase	15
+11702077	gene/protein	pyruvate carboxylase	8
+11702077	gene/protein	pyruvate carboxylase (Bacillus subtilis subsp. subtilis str. 168)	7
+11702077	organism	Sinorhizobium meliloti	2
+11702077	organism	Rhizobium tropici	2
+11702077	organism	Medicago sativa	2
+11702077	sequence	gene	2
+11702077	sequence	cosmid	1
+11702077	sequence	transposable_element	1
+11702077	sequence	mutated_variant_site	1
+11702077	sequence	gene_fusion	1
+11702077	organ/tissue	plantar part of pes	1
+11702077	clinical_drug	Pyruvate	2
+11702077	clinical_drug	Dextrose, Unspecified Form	1
+11702077	clinical_drug	Medicago sativa whole extract	1
+11702077	clinical_drug	Biotin	1
+11702077	molecular_process	biotinylation	1

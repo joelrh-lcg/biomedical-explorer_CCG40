@@ -1,0 +1,8 @@
+19519856	gene/protein	phnm	2
+19519856	organism	Enterobacter cloacae	2
+19519856	organism	plasmid	1
+19519856	sequence	transposon	1
+19519856	sequence	tandem	1
+19519856	sequence	plasmid	1
+19519856	organ/tissue	flank	1
+19519856	clinical_drug	tandem	1

@@ -1,0 +1,11 @@
+26637982	chemical	taf	9
+26637982	chemical	male	1
+26637982	chemical	proteins	1
+26637982	disease	intellectual disability	2
+26637982	disease	hypotonia	2
+26637982	gene/protein	taf1	30
+26637982	organism	zebrafish	2
+26637982	sequence	gene	3
+26637982	sequence	mutation	2
+26637982	sequence	duplication	1
+26637982	organ/tissue	male	1

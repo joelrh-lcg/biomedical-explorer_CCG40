@@ -1,0 +1,37 @@
+30140262	biological_process	nitrogen fixation	2
+30140262	biological_process	symbiotic process	1
+30140262	chemical	nitrogen atom	3
+30140262	chemical	nitrogen(.)	3
+30140262	chemical	fertilizer	2
+30140262	chemical	Ammonium Compounds	2
+30140262	chemical	Nitrogenase	1
+30140262	chemical	ammonium	1
+30140262	gene/protein	Luc7-like protein (Dictyostelium discoideum)	2
+30140262	gene/protein	F-box/WD repeat-containing protein 7 (fruit fly)	1
+30140262	organism	Edible Grain	9
+30140262	organism	bacterium IFAM-3211	5
+30140262	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	5
+30140262	organism	bacterium IFAM-3215	5
+30140262	organism	bacterium IFAM-2074	5
+30140262	organism	bacterium IFAM-3359	5
+30140262	organism	bacterium	5
+30140262	organism	bacterium IFAM-1493	5
+30140262	organism	Zea mays	4
+30140262	organism	Rhizobium	2
+30140262	organism	Oryza sativa	1
+30140262	organism	Oryza	1
+30140262	organism	Triticum aestivum	1
+30140262	organism	Triticum	1
+30140262	organism	Sorghum bicolor	1
+30140262	organism	Sorghum	1
+30140262	organism	Humans	1
+30140262	organism	Fungi	1
+30140262	organism	Fabaceae	1
+30140262	sequence	gene	1
+30140262	organ/tissue	crop	2
+30140262	organ/tissue	cerebellum vermis lobule X	1
+30140262	organ/tissue	germinal center	1
+30140262	clinical_drug	Nitrogen	3
+30140262	clinical_drug	Brown Rice	1
+30140262	clinical_drug	Wheat preparation	1
+30140262	clinical_drug	whole wheat allergenic extract	1

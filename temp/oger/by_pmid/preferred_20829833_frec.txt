@@ -1,0 +1,5 @@
+20829833	biological_process	signal transduction	1
+20829833	biological_process	biological regulation	1
+20829833	chemical	picloram	9
+20829833	sequence	gene	1
+20829833	organ/tissue	multicellular organism	1

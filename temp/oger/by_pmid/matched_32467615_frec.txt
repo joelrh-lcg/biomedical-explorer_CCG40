@@ -1,0 +1,6 @@
+32467615	chemical	metabolite	4
+32467615	disease	obesity	4
+32467615	disease	disease	2
+32467615	organism	unknown	1
+32467615	organism	unidentified	1
+32467615	sequence	signal	2

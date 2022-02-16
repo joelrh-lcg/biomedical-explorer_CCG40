@@ -1,0 +1,24 @@
+9278503	chemical	guanine	3
+9278503	chemical	base	1
+9278503	chemical	proteins	1
+9278503	chemical	ABC	1
+9278503	chemical	oligonucleotide	1
+9278503	chemical	element	1
+9278503	disease	attribute	2
+9278503	gene/protein	k12	9
+9278503	gene/protein	ABC	2
+9278503	molecular_function	ABC transporter	1
+9278503	organism	e coli	2
+9278503	organism	Escherichia coli k12	1
+9278503	organism	insertion sequence	1
+9278503	organism	phage	1
+9278503	sequence	gene	4
+9278503	sequence	genome	3
+9278503	sequence	sequence	2
+9278503	sequence	base pair	1
+9278503	sequence	paralogous	1
+9278503	sequence	oligonucleotide	1
+9278503	sequence	insertion sequence	1
+9278503	sequence	phage	1
+9278503	cell_line	k12	2
+9278503	organ/tissue	element	1

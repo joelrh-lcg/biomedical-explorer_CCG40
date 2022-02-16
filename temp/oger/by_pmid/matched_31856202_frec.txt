@@ -1,0 +1,21 @@
+31856202	biological_process	transcription	1
+31856202	biological_process	signal transduction	1
+31856202	cellular_component	protein	1
+31856202	chemical	protein	2
+31856202	chemical	transferase	1
+31856202	chemical	nucleoside triphosphate	1
+31856202	chemical	base	1
+31856202	gene/protein	protein	1
+31856202	molecular_function	dna binding	1
+31856202	molecular_function	transcription factor	1
+31856202	organism	bacterium	14
+31856202	organism	Archaea	2
+31856202	organism	unknown	1
+31856202	sequence	domain	17
+31856202	sequence	genome	6
+31856202	sequence	binding	2
+31856202	sequence	signal	2
+31856202	sequence	score	1
+31856202	sequence	base	1
+31856202	sequence	protein	1
+31856202	organ/tissue	wing	2

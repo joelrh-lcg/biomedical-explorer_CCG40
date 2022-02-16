@@ -1,0 +1,17 @@
+10922070	biological_process	homologous recombination	1
+10922070	chemical	base	1
+10922070	chemical	element	1
+10922070	chemical	pathway	1
+10922070	gene/protein	map	6
+10922070	gene/protein	ngr	5
+10922070	gene/protein	pure	5
+10922070	molecular_function	pure	1
+10922070	organism	plasmid	1
+10922070	organism	Rhizobium	1
+10922070	sequence	sequence	2
+10922070	sequence	base	1
+10922070	sequence	plasmid	1
+10922070	sequence	homologous	1
+10922070	sequence	replicon	1
+10922070	sequence	genome	1
+10922070	organ/tissue	element	1

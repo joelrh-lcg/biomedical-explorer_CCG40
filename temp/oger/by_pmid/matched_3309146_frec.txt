@@ -1,0 +1,21 @@
+3309146	chemical	lysine	8
+3309146	chemical	glycine	5
+3309146	chemical	glyoxylate	4
+3309146	chemical	glutamine transaminase	3
+3309146	chemical	pyruvate	3
+3309146	chemical	nitrogen	2
+3309146	chemical	2oxo acid	1
+3309146	gene/protein	add	3
+3309146	molecular_function	glutamine transaminase activity	2
+3309146	organism	Saccharomyces cerevisiae	2
+3309146	organism	yeast	1
+3309146	sequence	glutamine	3
+3309146	sequence	lysine	2
+3309146	sequence	glycine	1
+3309146	clinical_drug	glutamine	3
+3309146	clinical_drug	Saccharomyces cerevisiae	2
+3309146	clinical_drug	lysine	2
+3309146	clinical_drug	yeast	1
+3309146	clinical_drug	pyruvate	1
+3309146	clinical_drug	nitrogen	1
+3309146	clinical_drug	glycine	1

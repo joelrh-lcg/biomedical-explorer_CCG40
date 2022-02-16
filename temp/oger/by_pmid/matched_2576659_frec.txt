@@ -1,0 +1,21 @@
+2576659	chemical	glutamine	16
+2576659	chemical	carbon	4
+2576659	chemical	ammonium	3
+2576659	chemical	nitrogen	2
+2576659	chemical	glutamate dehydrogenase	2
+2576659	chemical	glutamine synthetase	1
+2576659	chemical	glutamate synthase	1
+2576659	chemical	pathway	1
+2576659	gene/protein	glutamine synthetase	123
+2576659	gene/protein	GDH	55
+2576659	gene/protein	glutamate dehydrogenase	34
+2576659	gene/protein	lack	2
+2576659	molecular_function	GDH	1
+2576659	organism	Neurospora crassa	2
+2576659	sequence	glutamine	5
+2576659	sequence	double	3
+2576659	organ/tissue	sole	1
+2576659	organ/tissue	skeleton	1
+2576659	clinical_drug	glutamine	5
+2576659	clinical_drug	glutamate	3
+2576659	clinical_drug	nitrogen	1

@@ -1,0 +1,28 @@
+32983629	biological_process	response to iron	2
+32983629	biological_process	biological process	2
+32983629	biological_process	uptake	2
+32983629	biological_process	metabolism	2
+32983629	biological_process	electron transfer	2
+32983629	biological_process	physiological process	1
+32983629	biological_process	iron acquisition	1
+32983629	biological_process	gene ontology	1
+32983629	biological_process	atp synthesis	1
+32983629	chemical	riboflavin	40
+32983629	chemical	iron	14
+32983629	chemical	atp	4
+32983629	chemical	micronutrient	3
+32983629	chemical	amino acid	2
+32983629	chemical	molecule	1
+32983629	chemical	cofactor	1
+32983629	chemical	electron	1
+32983629	disease	dysentery	2
+32983629	organism	bacterium	14
+32983629	sequence	gene	4
+32983629	sequence	regulon	2
+32983629	sequence	amino acid	1
+32983629	clinical_drug	iron	14
+32983629	clinical_drug	riboflavin	10
+32983629	clinical_drug	atp	1
+32983629	molecular_process	coordination	1
+32983629	molecular_process	electron transfer	1
+32983629	entity_type	term	4

@@ -1,0 +1,22 @@
+30612723	chemical	RNA, Ribosomal, 16S	1
+30612723	chemical	nucleotide	1
+30612723	gene/protein	anillin (fruit fly)	2
+30612723	gene/protein	PTS system mannose-specific EIIC component	1
+30612723	gene/protein	PTS system mannose-specific EIIC component (Escherichia coli K-12)	1
+30612723	gene/protein	Provicilin	1
+30612723	organism	Phaseolus dumosus	1
+30612723	organism	bacterium IFAM-3211	1
+30612723	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+30612723	organism	bacterium IFAM-3215	1
+30612723	organism	bacterium IFAM-2074	1
+30612723	organism	bacterium IFAM-3359	1
+30612723	organism	bacterium	1
+30612723	organism	bacterium IFAM-1493	1
+30612723	organism	Rhizobium	1
+30612723	organism	Phaseolus	1
+30612723	sequence	region	2
+30612723	sequence	genome	2
+30612723	sequence	rRNA_16S	1
+30612723	sequence	rRNA_gene	1
+30612723	organ/tissue	cerebellum vermis lobule X	2
+30612723	organ/tissue	germinal center	2

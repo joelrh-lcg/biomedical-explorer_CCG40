@@ -1,0 +1,21 @@
+24187088	biological_process	virulence	3
+24187088	biological_process	transcriptional control	1
+24187088	biological_process	mutagenesis	1
+24187088	cellular_component	chromosomal region	1
+24187088	chemical	integration host factor	2
+24187088	gene/protein	sira	6
+24187088	gene/protein	csr	3
+24187088	gene/protein	rna	2
+24187088	molecular_function	sira	3
+24187088	organism	salmonella enterica	2
+24187088	organism	Salmonella	1
+24187088	sequence	sequence	6
+24187088	sequence	gene	4
+24187088	sequence	promoter	2
+24187088	sequence	regulatory region	2
+24187088	sequence	invert	1
+24187088	sequence	repeat	1
+24187088	sequence	upstream	1
+24187088	sequence	deletion	1
+24187088	sequence	mutagenesis	1
+24187088	cell_line	csr	1

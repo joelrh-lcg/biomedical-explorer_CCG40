@@ -1,0 +1,15 @@
+24276799	biological_process	translation	1
+24276799	biological_process	posttranslational modification	1
+24276799	biological_process	regulation	1
+24276799	chemical	polypeptide	5
+24276799	chemical	antigen	3
+24276799	chemical	glutamine synthetase	1
+24276799	chemical	nitrogenase	1
+24276799	gene/protein	glutamine synthetase	123
+24276799	gene/protein	polypeptide	10
+24276799	gene/protein	bean	3
+24276799	sequence	polypeptide	5
+24276799	sequence	glutamine	1
+24276799	cell_line	bean	1
+24276799	organ/tissue	nodule	6
+24276799	clinical_drug	glutamine	1

@@ -1,0 +1,64 @@
+32216867	biological_process	arginine catabolic process	2
+32216867	biological_process	transcription, DNA-templated	1
+32216867	cellular_component	obsolete protein	2
+32216867	chemical	Arginine	14
+32216867	chemical	Arginase	8
+32216867	chemical	L-arginine	7
+32216867	chemical	argininium(1+)	7
+32216867	chemical	arginine	7
+32216867	chemical	protein	3
+32216867	chemical	nitrogen atom	2
+32216867	chemical	nitrogen(.)	2
+32216867	chemical	Urea	2
+32216867	chemical	(protein)	2
+32216867	chemical	Ornithine	2
+32216867	chemical	metabolite	1
+32216867	chemical	elemental carbon	1
+32216867	chemical	carbon atom	1
+32216867	chemical	urea	1
+32216867	chemical	Complement System Proteins	1
+32216867	chemical	cofactor	1
+32216867	chemical	base	1
+32216867	chemical	poly(acrylamide) macromolecule	1
+32216867	chemical	polyacrylamide macromolecule	1
+32216867	chemical	polyacrylamide	1
+32216867	chemical	polyacrylamide polymer	1
+32216867	chemical	L-ornithinium(2+)	1
+32216867	chemical	ornithine	1
+32216867	gene/protein	Arginase	184
+32216867	gene/protein	Synaptosomal-associated protein 25	15
+32216867	gene/protein	ornithine carbamoyltransferase subunit I	5
+32216867	gene/protein	ornithine carbamoyltransferase subunit I (Escherichia coli K-12)	5
+32216867	gene/protein	transcriptional regulator SUPERMAN (Arabidopsis thaliana)	3
+32216867	gene/protein	synaptosomal-associated protein 25	3
+32216867	gene/protein	protein	2
+32216867	gene/protein	cartilage oligomeric matrix protein isoform 1	1
+32216867	gene/protein	nodal protein isoform 1	1
+32216867	gene/protein	urease subunit gamma (Bacillus subtilis subsp. subtilis str. 168)	1
+32216867	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+32216867	gene/protein	bifunctional protein FolD	1
+32216867	gene/protein	bifunctional protein FolD (Staphylococcus aureus subsp. aureus NCTC 8325)	1
+32216867	gene/protein	bifunctional protein FolD (Clostridium botulinum A str. Hall)	1
+32216867	gene/protein	bifunctional protein FolD (Escherichia coli K-12)	1
+32216867	molecular_function	arginase activity	4
+32216867	organism	Medicago sativa	2
+32216867	organism	bacterium IFAM-3211	1
+32216867	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+32216867	organism	bacterium IFAM-3215	1
+32216867	organism	bacterium IFAM-2074	1
+32216867	organism	bacterium IFAM-3359	1
+32216867	organism	bacterium	1
+32216867	organism	bacterium IFAM-1493	1
+32216867	sequence	arginine	7
+32216867	sequence	gene	2
+32216867	sequence	polypeptide	2
+32216867	sequence	genome	1
+32216867	sequence	enzymatic	1
+32216867	sequence	base	1
+32216867	sequence	promoter	1
+32216867	organ/tissue	plantar part of pes	2
+32216867	clinical_drug	Arginine	7
+32216867	clinical_drug	Nitrogen	2
+32216867	clinical_drug	Urea	1
+32216867	clinical_drug	Medicago sativa whole extract	1
+32216867	clinical_drug	Ornithine	1

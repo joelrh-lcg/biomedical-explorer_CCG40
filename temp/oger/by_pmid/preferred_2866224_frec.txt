@@ -1,0 +1,63 @@
+2866224	biological_process	tricarboxylic acid cycle	1
+2866224	cellular_component	intracellular	1
+2866224	chemical	Ketoglutaric Acids	6
+2866224	chemical	2-oxoglutarate(2-)	3
+2866224	chemical	Glutamic Acid	2
+2866224	chemical	Aconitate Hydratase	1
+2866224	chemical	Glutamate Dehydrogenase	1
+2866224	chemical	Glutamate-Ammonia Ligase	1
+2866224	chemical	glutamate(2-)	1
+2866224	chemical	L-glutamic acid	1
+2866224	chemical	glutamate(1-)	1
+2866224	chemical	glutamic acid	1
+2866224	chemical	nitrogen atom	1
+2866224	chemical	nitrogen(.)	1
+2866224	chemical	tricarboxylic acid	1
+2866224	gene/protein	Glutamine synthetase	122
+2866224	gene/protein	Glutamate dehydrogenase	80
+2866224	gene/protein	Glucose 1-dehydrogenase	36
+2866224	gene/protein	Aconitate hydratase A	30
+2866224	gene/protein	Glycerol dehydrogenase	24
+2866224	gene/protein	Glucarate dehydratase	16
+2866224	gene/protein	Aconitate hydratase, mitochondrial	12
+2866224	gene/protein	Glutamate dehydrogenase, mitochondrial	12
+2866224	gene/protein	Glycerate dehydrogenase	12
+2866224	gene/protein	Galactitol 2-dehydrogenase	8
+2866224	gene/protein	Probable glucarate dehydratase	8
+2866224	gene/protein	2-methylcitrate dehydratase	7
+2866224	gene/protein	Cytoplasmic aconitate hydratase	6
+2866224	gene/protein	Aconitate hydratase B	6
+2866224	gene/protein	Glycerate dehydrogenase HPR, peroxisomal	4
+2866224	gene/protein	Pyranose dehydrogenase	4
+2866224	gene/protein	Probable glutamate dehydrogenase	4
+2866224	gene/protein	glucarate dehydratase	4
+2866224	gene/protein	GDH/6PGL endoplasmic bifunctional protein	4
+2866224	gene/protein	D-lactate dehydrogenase [cytochrome], mitochondrial (Arabidopsis thaliana)	4
+2866224	gene/protein	Glycerol dehydrogenase 1	4
+2866224	gene/protein	glutamate dehydrogenase, mitochondrial (fruit fly)	4
+2866224	gene/protein	GDH/6PGL endoplasmic bifunctional protein (human)	4
+2866224	gene/protein	glycerol dehydrogenase	4
+2866224	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	2
+2866224	gene/protein	Probable aconitate hydratase, mitochondrial	2
+2866224	gene/protein	Aconitate hydratase, cytoplasmic	2
+2866224	gene/protein	Probable cytoplasmic aconitate hydratase	2
+2866224	gene/protein	2-methylcitrate dehydratase (2-methyl-trans-aconitate forming)	1
+2866224	gene/protein	Aconitate/2-methylaconitate hydratase	1
+2866224	gene/protein	aconitate hydratase, mitochondrial	1
+2866224	gene/protein	cytoplasmic aconitate hydratase	1
+2866224	gene/protein	Putative aconitate hydratase, cytoplasmic	1
+2866224	gene/protein	aconitate hydratase B	1
+2866224	gene/protein	2-methylcitrate dehydratase 2	1
+2866224	gene/protein	Aconitate hydratase	1
+2866224	gene/protein	Catabolic NAD-specific glutamate dehydrogenase RocG	1
+2866224	gene/protein	glutamine synthetase	1
+2866224	molecular_function	glucose-6-phosphate dehydrogenase activity	4
+2866224	organism	Saccharomyces cerevisiae	2
+2866224	sequence	glutamine	1
+2866224	sequence	intermediate	1
+2866224	organ/tissue	plantar part of pes	1
+2866224	clinical_drug	Glutamate	2
+2866224	clinical_drug	saccharomyces cerevisiae allergenic extract	1
+2866224	clinical_drug	Saccharomyces cerevisiae	1
+2866224	clinical_drug	Glutamine	1
+2866224	clinical_drug	Nitrogen	1

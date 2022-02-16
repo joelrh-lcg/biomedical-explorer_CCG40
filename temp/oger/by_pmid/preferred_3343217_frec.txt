@@ -1,0 +1,8 @@
+3343217	biological_process	obsolete colony morphology	1
+3343217	biological_process	invasive growth in response to glucose limitation	1
+3343217	chemical	probe	2
+3343217	organism	Rhizobium	3
+3343217	organism	unidentified plasmid	1
+3343217	sequence	probe	2
+3343217	sequence	plasmid	1
+3343217	sequence	cosmid	1

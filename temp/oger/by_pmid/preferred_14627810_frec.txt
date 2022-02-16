@@ -1,0 +1,29 @@
+14627810	biological_process	biological regulation	2
+14627810	chemical	protein	2
+14627810	chemical	base	1
+14627810	chemical	cluster	1
+14627810	chemical	molecule	1
+14627810	chemical	atom	1
+14627810	disease	Growth Hormone-Secreting Pituitary Adenoma	1
+14627810	gene/protein	DNA-binding protein Fis (Yersinia enterocolitica subsp. enterocolitica 8081)	1
+14627810	gene/protein	DNA-binding protein Fis (Escherichia coli K-12)	1
+14627810	gene/protein	DNA-binding protein Fis (Vibrio cholerae O1 biovar El Tor str. N16961)	1
+14627810	gene/protein	DNA-binding protein Fis (Shigella dysenteriae Sd197)	1
+14627810	gene/protein	DNA-binding protein Fis (Escherichia coli UMN026)	1
+14627810	gene/protein	DNA-binding protein Fis (Salmonella enterica subsp. enterica serovar Typhimurium str. LT2)	1
+14627810	gene/protein	DNA-binding protein Fis (Escherichia coli IAI39)	1
+14627810	gene/protein	DNA-binding protein Fis	1
+14627810	gene/protein	DNA-binding protein Fis (Aeromonas hydrophila subsp. hydrophila ATCC 7966)	1
+14627810	gene/protein	DNA-binding protein Fis (Shewanella oneidensis MR-1)	1
+14627810	gene/protein	DNA-binding protein Fis (Vibrio parahaemolyticus RIMD 2210633)	1
+14627810	sequence	transit_peptide	4
+14627810	sequence	signal_peptide	4
+14627810	sequence	regulatory_region	2
+14627810	sequence	regulatory_region_variant	2
+14627810	sequence	genome	2
+14627810	sequence	gene	2
+14627810	sequence	orthologous	2
+14627810	sequence	5KB_upstream_variant	1
+14627810	sequence	base	1
+14627810	organ/tissue	multicellular organism	1
+14627810	organ/tissue	organ	1

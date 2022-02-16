@@ -1,0 +1,82 @@
+26271664	biological_process	arginine biosynthetic process	2
+26271664	biological_process	symbiotic process	1
+26271664	biological_process	biosynthetic process	1
+26271664	cellular_component	subrhabdomeral cisterna	2
+26271664	cellular_component	obsolete protein	1
+26271664	chemical	Arginine	16
+26271664	chemical	Ornithine	16
+26271664	chemical	10-N-nonylacridinium orange	14
+26271664	chemical	L-arginine	8
+26271664	chemical	argininium(1+)	8
+26271664	chemical	arginine	8
+26271664	chemical	L-ornithinium(2+)	8
+26271664	chemical	ornithine	8
+26271664	chemical	N-acetyl-L-glutamate(2-)	3
+26271664	chemical	Glutamic Acid	2
+26271664	chemical	acetate ester	1
+26271664	chemical	acetate	1
+26271664	chemical	glutamate(2-)	1
+26271664	chemical	L-glutamic acid	1
+26271664	chemical	glutamate(1-)	1
+26271664	chemical	glutamic acid	1
+26271664	chemical	acetyl group	1
+26271664	chemical	protein	1
+26271664	chemical	(protein)	1
+26271664	chemical	aminoacylase I	1
+26271664	chemical	Complement System Proteins	1
+26271664	disease	Smith-McCort Dysplasia	2
+26271664	gene/protein	Acetylglutamate kinase	564
+26271664	gene/protein	Acetylornithine deacetylase	504
+26271664	gene/protein	Nitroalkane oxidase	14
+26271664	gene/protein	Small nuclear ribonucleoprotein-associated protein B	12
+26271664	gene/protein	acetylornithine deacetylase	11
+26271664	gene/protein	Small nuclear ribonucleoprotein-associated protein B'	10
+26271664	gene/protein	acetylglutamate kinase	5
+26271664	gene/protein	acetylornithine deacetylase (Dictyostelium discoideum)	4
+26271664	gene/protein	acetylornithine deacetylase (Escherichia coli K-12)	4
+26271664	gene/protein	arginine biosynthesis bifunctional protein ArgJ, mitochondrial (Dictyostelium discoideum)	4
+26271664	gene/protein	acetylglutamate kinase (Staphylococcus aureus subsp. aureus NCTC 8325)	4
+26271664	gene/protein	acetylglutamate kinase (Escherichia coli K-12)	4
+26271664	gene/protein	protein amalgam (fruit fly)	3
+26271664	gene/protein	Alpha-N-acetylglucosaminidase	2
+26271664	gene/protein	neuroblastoma-amplified sequence	2
+26271664	gene/protein	neuroblastoma-amplified sequence (zebrafish)	2
+26271664	gene/protein	neuroblastoma-amplified sequence (human)	2
+26271664	gene/protein	alpha-N-acetylglucosaminidase	2
+26271664	gene/protein	mucin-4 (rat)	2
+26271664	gene/protein	Probable small nuclear ribonucleoprotein-associated protein B	2
+26271664	gene/protein	protein SOMBRERO (Arabidopsis thaliana)	2
+26271664	gene/protein	small nuclear ribonucleoprotein-associated protein B (fruit fly)	2
+26271664	gene/protein	Acetylglutamate kinase, chloroplastic	1
+26271664	gene/protein	protein	1
+26271664	gene/protein	DNA-3-methyladenine glycosylase 1 (Escherichia coli K-12)	1
+26271664	gene/protein	UPF0410 protein YmgE	1
+26271664	gene/protein	UPF0410 protein YmgE (Escherichia coli K-12)	1
+26271664	gene/protein	DNA-3-methyladenine glycosylase 1	1
+26271664	gene/protein	DNA-3-methyladenine glycosylase	1
+26271664	gene/protein	Amidohydrolase AmhX	1
+26271664	gene/protein	beta-glucuronidase (Escherichia coli K-12)	1
+26271664	molecular_function	deacetylase activity	1
+26271664	organism	Medicago sativa	2
+26271664	organism	Sinorhizobium meliloti	2
+26271664	organism	Escherichia coli	2
+26271664	organism	bacterium IFAM-3211	1
+26271664	organism	Candidatus Saganbacteria bacterium CG08_land_8_20_14_0_20_45_16	1
+26271664	organism	bacterium IFAM-3215	1
+26271664	organism	bacterium IFAM-2074	1
+26271664	organism	bacterium IFAM-3359	1
+26271664	organism	bacterium	1
+26271664	organism	bacterium IFAM-1493	1
+26271664	sequence	arginine	8
+26271664	sequence	double	2
+26271664	sequence	gene	2
+26271664	sequence	intermediate	1
+26271664	sequence	polypeptide	1
+26271664	sequence	tag	1
+26271664	cell_line	SMB	2
+26271664	organ/tissue	anterior mesenteric artery	3
+26271664	clinical_drug	Arginine	8
+26271664	clinical_drug	Ornithine	8
+26271664	clinical_drug	Medicago sativa whole extract	1
+26271664	clinical_drug	Acetate	1
+26271664	clinical_drug	Glutamate	1

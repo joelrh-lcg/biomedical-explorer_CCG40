@@ -1,0 +1,24 @@
+27958329	biological_process	aging	3
+27958329	chemical	RNA, Circular	11
+27958329	chemical	biological role	1
+27958329	disease	Nervous System Diseases	2
+27958329	gene/protein	ribonuclease I (Escherichia coli K-12)	4
+27958329	gene/protein	ribonuclease I	4
+27958329	gene/protein	UTP--glucose-1-phosphate uridylyltransferase (Sinorhizobium meliloti 1021)	1
+27958329	gene/protein	E3 ubiquitin-protein ligase Smurf1 (fruit fly)	1
+27958329	organism	Mus musculus	1
+27958329	organism	Mice	1
+27958329	sequence	gene	2
+27958329	sequence	circular	1
+27958329	sequence	transcript	1
+27958329	sequence	exon	1
+27958329	sequence	linear	1
+27958329	organ/tissue	neural tissue	2
+27958329	organ/tissue	cortex	1
+27958329	organ/tissue	hippocampal formation	1
+27958329	organ/tissue	Ammon's horn	1
+27958329	organ/tissue	archicortex	1
+27958329	organ/tissue	adult cerebral ganglion	1
+27958329	organ/tissue	brain	1
+27958329	organ/tissue	tissue	1
+27958329	organ/tissue	nervous system	1

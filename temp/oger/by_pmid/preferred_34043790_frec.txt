@@ -1,0 +1,9 @@
+34043790	organism	Drosophila melanogaster	3
+34043790	organism	Humans	2
+34043790	organism	Solanum lycopersicum	1
+34043790	organism	Lycopersicon esculentum	1
+34043790	sequence	sequence_variant_obs	4
+34043790	sequence	allele	1
+34043790	organ/tissue	articulation	4
+34043790	organ/tissue	skeletal joint	4
+34043790	clinical_drug	tomato allergenic extract	1

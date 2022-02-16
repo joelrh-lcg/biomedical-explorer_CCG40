@@ -1,0 +1,20 @@
+2698914	biological_process	glutamine catabolism	2
+2698914	biological_process	regulation	1
+2698914	chemical	glutamine	12
+2698914	chemical	glutamine aminotransferase	4
+2698914	chemical	glyoxylate	4
+2698914	chemical	pyruvate	3
+2698914	chemical	nitrogen	2
+2698914	chemical	glutaminase	1
+2698914	gene/protein	glutaminase	152
+2698914	gene/protein	rho	24
+2698914	gene/protein	fold	8
+2698914	molecular_function	aminotransferase activity	5
+2698914	organism	Saccharomyces cerevisiae	2
+2698914	sequence	glutamine	7
+2698914	cell_line	rho	2
+2698914	organ/tissue	sole	1
+2698914	clinical_drug	glutamine	7
+2698914	clinical_drug	Saccharomyces cerevisiae	2
+2698914	clinical_drug	pyruvate	1
+2698914	clinical_drug	nitrogen	1

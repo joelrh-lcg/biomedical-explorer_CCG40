@@ -1,0 +1,15 @@
+9466899	biological_process	transcription	2
+9466899	chemical	proteins	1
+9466899	chemical	complement	1
+9466899	chemical	base	1
+9466899	molecular_function	transcription factor	1
+9466899	molecular_function	binding	1
+9466899	organism	Escherichia coli	2
+9466899	organism	eukaryote	1
+9466899	sequence	domain	2
+9466899	sequence	binding site	2
+9466899	sequence	promoter	1
+9466899	sequence	base	1
+9466899	sequence	sequence	1
+9466899	sequence	positional	1
+9466899	sequence	sequence comparison	1

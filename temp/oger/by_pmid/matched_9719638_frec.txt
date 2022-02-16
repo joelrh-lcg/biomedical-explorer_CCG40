@@ -1,0 +1,25 @@
+9719638	biological_process	transcription	1
+9719638	biological_process	gene expression	1
+9719638	cellular_component	core	1
+9719638	chemical	oligonucleotide	3
+9719638	chemical	base	2
+9719638	chemical	element	1
+9719638	molecular_function	dna binding	1
+9719638	molecular_function	transcription factor	1
+9719638	organism	yeast	3
+9719638	organism	Saccharomyces cerevisiae	2
+9719638	organism	unknown	1
+9719638	sequence	oligonucleotide	3
+9719638	sequence	gene	2
+9719638	sequence	upstream	2
+9719638	sequence	sequence	2
+9719638	sequence	base	2
+9719638	sequence	motif	2
+9719638	sequence	dna binding site	1
+9719638	sequence	regulon	1
+9719638	sequence	genome	1
+9719638	organ/tissue	element	1
+9719638	organ/tissue	scale	1
+9719638	organ/tissue	web	1
+9719638	clinical_drug	yeast	3
+9719638	clinical_drug	Saccharomyces cerevisiae	2

@@ -1,0 +1,16 @@
+20923783	biological_process	transcription, DNA-templated	1
+20923783	molecular_function	DNA-binding transcription factor activity, RNA polymerase II-specific	1
+20923783	molecular_function	binding	1
+20923783	organism	Yeasts	2
+20923783	organism	Mus musculus	2
+20923783	organism	Mice	2
+20923783	organism	collection	1
+20923783	sequence	region	5
+20923783	sequence	polypeptide_conserved_motif	5
+20923783	sequence	polypeptide_motif	5
+20923783	sequence	genome	2
+20923783	sequence	non_covalent_binding_site	1
+20923783	sequence	binding_site	1
+20923783	sequence	score	1
+20923783	organ/tissue	matrix compartment	5
+20923783	clinical_drug	Yeast, Unspecified	2
