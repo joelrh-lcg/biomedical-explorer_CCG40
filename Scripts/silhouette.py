@@ -5,7 +5,7 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score, silhouette_samples
 from scipy.sparse import csr_matrix
 import joblib
-import argparse
+#import argparse
 from concurrent.futures import ProcessPoolExecutor
 import time
 import matplotlib.pyplot as plt
@@ -14,21 +14,21 @@ import sys
 import datetime
 import os
 
-class Logger(object):
-    "this class is for print the output of the script to both stdout and log file"
-    def __init__(self):
-        self.terminal = sys.stdout
-        self.log = open(os.path.join(args.plots, 'log.txt'), "w")
-
-    def write(self, message):
-        self.terminal.write(message)
-        self.log.write(message)
-
-    def flush(self):
-        #this flush method is needed for python 3 compatibility.
-        #this handles the flush command by doing nothing.
-        #you might want to specify some extra behavior here.
-        pass
+#class Logger(object):
+#    "this class is for print the output of the script to both stdout and log file"
+#    def __init__(self):
+#        self.terminal = sys.stdout
+#        self.log = open(os.path.join(args.plots, 'log.txt'), "w")
+#
+#    def write(self, message):
+#        self.terminal.write(message)
+#        self.log.write(message)
+#
+#    def flush(self):
+#        #this flush method is needed for python 3 compatibility.
+#        #this handles the flush command by doing nothing.
+#        #you might want to specify some extra behavior here.
+#        pass
 
 def testK(k):
     labels = KMeans(n_clusters=k, init="k-means++", random_state=200).fit(tf_matrix).labels_
@@ -36,7 +36,7 @@ def testK(k):
 
     return score
 
-def plotK(n_clusters):
+def plotK(n_clusters, plots):
     fig, (ax1, ax2) = plt.subplots(1, 2)
     fig.set_size_inches(18, 7)
     # The 1st subplot is the silhouette plot
@@ -111,35 +111,35 @@ def plotK(n_clusters):
         fontsize=14,
         fontweight="bold",
     )
-    plt.savefig(os.path.join(args.plots, f"plot_k{n_clusters}.png"))
+    plt.savefig(os.path.join(plots, f"plot_k{n_clusters}.png"))
 
-if __name__ == '__main__':
+def eval_sil(searchm, lim_inf, lim_sup, file_matrix, plots, threads, iter = 10,  step = 1):
 
-    parser=argparse.ArgumentParser(description=
-        'This script seeks the best number of K clusters based on the average score of the silhouette.')
+    #parser=argparse.ArgumentParser(description=
+    #    'This script seeks the best number of K clusters based on the average score of the silhouette.')
 
-    parser.add_argument('-sm', '--search', dest='searchm',
-        required=False, type=str, default="l", 
-        help='Seach mode: linear for test all the range of K and bipartite for optimize the search.')  
-    parser.add_argument('--li', dest='lim_inf', required=False, type=int,
-        default=2, help='Lower search range limit.')
-    parser.add_argument('--ls', dest='lim_sup', required=False, type=int,
-        default=50,help='Upper search range limit.')
-    parser.add_argument('-s', '--step', dest='step', required=False, type=int, default=1,
-        help='For linear mode this is normal step in range function')
-    parser.add_argument('-i', '--iter', dest='iter', required=False, type=int, default=10,
-        help='For bipartite mode the max iterations to be calculated within the interval.')
-    parser.add_argument('-m', '--matrix', dest='file_matrix', required=True, type=str,
-        help='Vectorization matrix file path (tsv).')
-    parser.add_argument('-p', '--plots', dest='plots', required=True, type=str,
-        help='Path to save plot images and joblib dictionary with silouehette scores.')
-    parser.add_argument('-c', '--cores', dest='threads', required=False, type=int,
-        default=1,help='Cores to parallel silhouette test.')
-    args=parser.parse_args()
+    #parser.add_argument('-sm', '--search', dest='searchm',
+    #    required=False, type=str, default="l", 
+    #    help='Seach mode: linear for test all the range of K and bipartite for optimize the search.')  
+    #parser.add_argument('--li', dest='lim_inf', required=False, type=int,
+    #    default=2, help='Lower search range limit.')
+    #parser.add_argument('--ls', dest='lim_sup', required=False, type=int,
+    #    default=50,help='Upper search range limit.')
+    #parser.add_argument('-s', '--step', dest='step', required=False, type=int, default=1,
+    #    help='For linear mode this is normal step in range function')
+    #parser.add_argument('-i', '--iter', dest='iter', required=False, type=int, default=10,
+    #    help='For bipartite mode the max iterations to be calculated within the interval.')
+    #parser.add_argument('-m', '--matrix', dest='file_matrix', required=True, type=str,
+    #    help='Vectorization matrix file path (tsv).')
+    #parser.add_argument('-p', '--plots', dest='plots', required=True, type=str,
+    #    help='Path to save plot images and joblib dictionary with silouehette scores.')
+    #parser.add_argument('-c', '--cores', dest='threads', required=False, type=int,
+    #    default=1,help='Cores to parallel silhouette test.')
+    #args=parser.parse_args()
 
-    if not os.path.exists(args.plots): os.makedirs(args.plots)
+    if not os.path.exists(plots): os.makedirs(plots)
 
-    sys.stdout = Logger()
+    #sys.stdout = Logger()
     start_time = time.time()
 
 
@@ -148,19 +148,20 @@ if __name__ == '__main__':
     print("Run started at: ", datetime.datetime.now(), '\n')
 
     print("Running with input parameters:\n")
-    print("Search mode: ", args.searchm)
-    print("Lower limit: ", args.lim_inf)
-    print("Upper limit: ", args.lim_sup)
-    if args.searchm == "l": print("Step: ", args.step)
-    elif args.searchm == "b": print("Max iter: ", args.iter)
-    print("Vect matrix: ", args.file_matrix)
-    print("Joblib dict output: ", os.path.join(args.plots, 'scores.joblib'))
-    print(f"Running in {args.threads} threads...")
+    print("Search mode: ", searchm)
+    print("Lower limit: ", lim_inf)
+    print("Upper limit: ", lim_sup)
+    if searchm == "l": print("Step: ", step)
+    elif searchm == "b": print("Max iter: ", iter)
+    print("Vect matrix: ", file_matrix)
+    print("Joblib dict output: ", os.path.join(plots, 'scores.joblib'))
+    print(f"Running in {threads} threads...")
 
 
     print("\nReading matrix input...")
+    global tf_matrix
     tf_matrix=[]
-    with open(args.file_matrix, mode='r') as file:
+    with open(file_matrix, mode='r') as file:
         for line in file:
             tf_matrix.append(line.strip('\n\r').split("\t"))
     tf_matrix = csr_matrix(tf_matrix, dtype='double')
@@ -168,28 +169,30 @@ if __name__ == '__main__':
 
     print(f"Searching best K(clusters) for {tf_matrix.shape[0]} articles with {tf_matrix.shape[1]} features...")
 
-    lim_inf = args.lim_inf
-    lim_sup = args.lim_sup
+    #lim_inf = args.lim_inf
+    #lim_sup = args.lim_sup
     global global_scores
     global_scores = {}
 
-    if args.searchm == "l":
-        K = range(lim_inf, lim_sup+args.step, args.step)
+    threads = int(threads)
+
+    if searchm == "Linear":
+        K = range(lim_inf, lim_sup+step, step)
         print(f"\nSearching in the interval between {K[0]} and {K[-1]}, with {len(K)} iterations...")
-        with ProcessPoolExecutor(max_workers=args.threads) as executor:
+        with ProcessPoolExecutor(max_workers=threads) as executor:
             scores = list(executor.map(testK, K))
         for i in range(len(scores)): 
             print("Silhouette score for k(clusters) = " +str(K[i]) + " is " + str(scores[i]))
         max_k = K[max(range(len(scores)), key=scores.__getitem__)]
         print(f"\nMax average score found in k = {max_k}")
         for k, score in zip(K, scores): global_scores[k] = score
-    elif args.searchm == "b":
+    elif searchm == "Binary":
         search = True
         while(search):
-            step = ceil((lim_sup-lim_inf)/args.iter)
+            step = ceil((lim_sup-lim_inf)/iter)
             K = range(lim_inf, lim_sup+step, step)
             print(f"\nSearching in the interval between {K[0]} and {K[-1]}, with {len(K)} iterations and step={step}...")
-            with ProcessPoolExecutor(max_workers=args.threads) as executor:
+            with ProcessPoolExecutor(max_workers=threads) as executor:
                 scores = list(executor.map(testK, K))
             for i in range(len(scores)): 
                 print("Silhouette score for k(clusters) = " +str(K[i]) + " is " + str(scores[i]))
@@ -207,7 +210,9 @@ if __name__ == '__main__':
     global_scores = dict(sorted(global_scores.items(), key=lambda item: item[1], reverse=True))
     print(f"\n\nMax silhouette average score found in k = {list(global_scores.keys())[0]}\n")
 
-    joblib.dump(global_scores, os.path.join(args.plots, 'scores.joblib'))
+    joblib.dump(global_scores, os.path.join(plots, 'scores.joblib'))
+    #df = pd.DataFrame.from_dict(global_scores)
+    #df.to_csv(os.path.join(plots, 'scores.csv'), index = False, header= True)
 
     print("Calculated in %s seconds." % (time.time() - start_time), '\n')
 
@@ -215,14 +220,17 @@ if __name__ == '__main__':
 
     global_scores1 = dict(sorted(global_scores.items(), key=lambda item: item[0], reverse=True))
     plt.plot(list(global_scores1.keys()), list(global_scores1.values()))
-    plt.savefig(os.path.join(args.plots, 'scores.png'))
+    plt.savefig(os.path.join(plots, 'scores.png'))
 
+    global X
     X = tf_matrix.toarray()
 
-    with ProcessPoolExecutor(max_workers=args.threads) as executor:
+    with ProcessPoolExecutor(max_workers=threads) as executor:
         for k in list(global_scores.keys())[0:5]:
-            executor.submit(plotK(k))
+            executor.submit(plotK(k, plots))
 
     print("Total time: %s seconds." % (time.time() - start_time), '\n')
 
     print("\n**********************************************************************\n")
+
+    return global_scores

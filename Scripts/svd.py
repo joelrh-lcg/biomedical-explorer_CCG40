@@ -8,45 +8,41 @@ from pathlib import Path
 import datetime
 import time
 
+## Object to record log (unused in version with reticulate in R)
 class Logger(object):
-    "this class is for print the output of the script to both stdout and log file"
-    def __init__(self):
-        self.terminal = sys.stdout
-        self.log = open(os.path.join(Path(args.output).parent.absolute(), 'svd_log.txt'), "w")
+        "this class is for print the output of the script to both stdout and log file"
+        def __init__(self):
+            self.terminal = sys.stdout
+            self.log = open(os.path.join(Path(outputLog).parent.absolute(), 'svd_log.txt'), "w")
 
-    def write(self, message):
-        self.terminal.write(message)
-        self.log.write(message)
+        def write(self, message):
+            self.terminal.write(message)
+            self.log.write(message)
 
-    def flush(self):
-        #this flush method is needed for python 3 compatibility.
-        #this handles the flush command by doing nothing.
-        #you might want to specify some extra behavior here.
-        pass
+        def flush(self):
+            #this flush method is needed for python 3 compatibility.
+            #this handles the flush command by doing nothing.
+            #you might want to specify some extra behavior here.
+            pass
 
-if __name__ == '__main__':
+
+def svd(file_matrix, output):
+
+    global outputLog
+    outputLog = output
 
     start_time = time.time()
 
-    parser=argparse.ArgumentParser(description= 'This script reduces the TF-IDF matrix through SVD descompostion.')
-
-    parser.add_argument('-m', '--matrix', dest='file_matrix', required=True, type=str,
-        help='Vectorization matrix file path (tsv).')
-    parser.add_argument('-o', '--output', required=True, type=str,
-        help='Output matrix reduced.')
-
-    args=parser.parse_args()
-
-    sys.stdout = Logger()
+    #sys.stdout = Logger()
 
     print("\n\n**********************************************************************\n")
     print("Run started at: ", datetime.datetime.now(), '\n')
 
-    print("Saving results in file: ", args.output)
+    print("Saving results in file: ", output)
 
     print("\nReading input files...")
     X=[]
-    with open((args.file_matrix), mode='r') as file:
+    with open((file_matrix), mode='r') as file:
         for line in file:
             X.append(line.strip('\n\r').split("\t"))
 
@@ -55,8 +51,9 @@ if __name__ == '__main__':
     y = []
     print("Done!\n")
 
-    print(f"Components: {nc}")
-    print(X.get_shape())
+    print(f"Articles: {nc}")
+    i_asb, i_features = X.get_shape()
+    print("Features: ", i_features)
 
     print("Performing SVD reduction...")
     svd = TruncatedSVD(n_components=nc, random_state=42, n_iter=10)
@@ -73,13 +70,16 @@ if __name__ == '__main__':
 
     print("Done!\n")
 
-    print(f"TF-IDF matrix reduced to dimensions: {X_reduced.shape}")
+    f_abs, f_features = X_reduced.shape
+    print(f"TF-IDF matrix reduced to dimensions: {f_features}")
 
-    with open(args.output, 'w') as file:
+    with open(output, 'w') as file:
         for i in X_reduced:
             for j in i:
                 file.write("{}\t".format(j))
             file.write("\n")
 
-print("Total time: %s seconds." % (time.time() - start_time))
-print("\n**********************************************************************\n")
+    print("Total time: %s seconds." % (time.time() - start_time))
+    print("\n**********************************************************************\n")
+
+    return [str(time.time() - start_time), str(i_features), str(f_features)]

@@ -1,9 +1,9 @@
+#from pickle import FALSE
 from stanfordcorenlp import StanfordCoreNLP
 import json, string
-import argparse
 import os
 import string
-
+from time import time
 
 #Para correr este codigo, deben correrse las siguientes lineas:
 #cd /Users/elisulvaran/Desktop/stanford-corenlp-full-2018-10-05 
@@ -32,25 +32,21 @@ def lemmatize_corenlp(conn_nlp, sentence):
     return(" ".join(lemma_list))
 
 
-if __name__ == '__main__':
+def corenlp_annotate(myFile):
+
+	# Tomar el tiempo:
+	t0 = time()
+
 	#Se realiza la conexion y se llama al lematizador de corenlp
 	print("\n")
 	print("Connecting with StanfordCoreNLP...")
-	nlp = StanfordCoreNLP('http://localhost', port=9000, timeout=500000, quiet=False)
+	nlp = StanfordCoreNLP('http://localhost', port=9000, timeout=10000, quiet=True)
 	print("Done!\n")
-
-	#Se llama al Parser
-	parser=argparse.ArgumentParser\
-	    (description='Este script lematiza los abstracts')
-	 
-	#Se agrega el argumento para correr el codigo, es decir, el archivo de entrada. 
-	parser.add_argument('--infile', dest='myFile', required=True, help='Ingrese el archivo de entrada.')
-	args=parser.parse_args()
 
 
 	print("Reading file and lemmatizing...")
 	lemmas = []      #Se crea una lista donde se guardaran los lemmas
-	with open(args.myFile, mode='r') as iFile:      #Se abre el archivo de abstracts
+	with open(myFile, mode='r') as iFile:      #Se abre el archivo de abstracts
 		for line in iFile:     #Se lee cada linea del archivo 
 			line = line.strip("\r\n")     #Se eliminan los saltos de linea y retornos de carro
 			line = line.split("\t")    #Se divide cada linea por tabulador
@@ -66,7 +62,7 @@ if __name__ == '__main__':
 
 	print("Creating output file...")
 	final_file = []      #Se crea una lista donde se guardara el archivo final a escribir
-	with open(args.myFile, mode='r') as iFile:      #Se abre nuevamente el archivo de abstracts para crear el nuevo
+	with open(myFile, mode='r') as iFile:      #Se abre nuevamente el archivo de abstracts para crear el nuevo
 		cont = 0     #Se inicializa un contador que indicara las posiciones de los abstracts lematizados en la lista de lemmas	
 		for line in iFile:     #Se lee cada linea del archivo 
 			line = line.strip("\r\n")     #Se eliminan los saltos de linea y retornos de carro
@@ -80,12 +76,13 @@ if __name__ == '__main__':
 
 
 	print("Saving output file...")
-	with open(os.path.splitext(args.myFile)[0]+"_lemmatized.txt", mode="w") as oFile:  #Se abre el archivo de salida 
+	with open(os.path.splitext(myFile)[0]+"_lemmatized.txt", mode="w") as oFile:  #Se abre el archivo de salida 
 		for i in final_file:
 			for j in i:
 				oFile.write("{}\t".format(j))     #Se escribe el nuevo archivo por lineas
 			oFile.write("\n")
-	print("Done! Shutting down.\n")
+	#p.terminate()
+	return(time()-t0)
 
 
 

@@ -295,7 +295,7 @@ u <- shinyUI(fluidPage(
                          )),
     fluidRow(
     column(4, box(span("Main terms", style = "font-weight: bold; font-size: 18px")), tableOutput(outputId = "tablePMID")),
-    column(8, box(span("Data sheet", style = "font-weight: bold; font-size: 18px")), htmlOutput(outputId = "infoPMID")) 
+    column(8, box(span("Data sheet", style = "font-weight: bold; font-size: 18px")), dataTableOutput(outputId = "infoPMID2")) 
     ))),
   
     sidebarLayout(
@@ -442,12 +442,18 @@ s <- shinyServer(function(input, output) {
           str4 <- paste("<strong>Date:</strong>", date)
           str5 <- paste("<strong>Journal:</strong>", jrnl)
           HTML(paste(str1, str2, str3, str4, str5, sep = '<br/>'))
-          }) 
+          })
+       
+       output$infoPMID2 <- DT::renderDataTable({
+         dataframe
+       })
     })          
   })
 
 shinyApp(u,s)
 ```
+
+
 
 
 ```{r}
@@ -577,7 +583,7 @@ s <- shinyServer(function(input, output) {
     
     xvals <- dataframe$dim1 %in% input$matrix_click$x
     yvals <- dataframe$dim2 %in% input$matrix_click$y
-    clst <- dataframe[xvals & yvals, 14] #la col 10 de dataframe corresponde al cluster
+    clst <- dataframe[xvals & yvals, 8] #la col 10 de dataframe corresponde al cluster
     art <- dataframe[xvals & yvals, 1] #este corresponde al PMID
     
   
@@ -656,7 +662,7 @@ s <- shinyServer(function(input, output) {
       })
       
        output$tablePMID <- renderTable({
-          n_pmid<-read.table(paste0("temp/oger/by_pmid/",art,'_frec.txt'), header = F, sep = '\t', quote = '')
+          n_pmid<-read.table(paste0("temp/oger/by_pmid/preferred_",art,'_frec.txt'), header = F, sep = '\t', quote = '')
           colnames(n_pmid)<-c("PMID", "Entity","Word", "Frecuence")
           n_pmid[n_pmid$Entity == input$entities_a,]
           }) #, caption = "Terms by PMID", caption.placement = "top")
@@ -672,5 +678,320 @@ s <- shinyServer(function(input, output) {
 
 shinyApp(u,s)
 ```
+```{r setup}
+knitr::opts_knit$set(root.dir = "/Users/joelrodriguez/Documents/GitHub/biomedical-explorer_CCG40/ShinyApp/")
+```
 
+```{r}
+readAbs <- function(){
+  
+  data_df <- read.table("temp/abs.txt", sep = "\t", fill = T, header = F, quote="")
+  data_df <- data_df[c("V1", "V2", "V4", "V5", "V6")]
+  colnames(data_df) <- c("PMID", "Title", "Date", "Author", "Journal")
+  data_df$Title <- stringr::str_wrap(factor(data_df$Title, levels = unique(data_df$Title)), 30)
+  data_df$Author <- stringr::str_wrap(factor(data_df$Author, levels = unique(data_df$Author)), 30)
+  
+  return(data_df)
+}
+
+readClust <- function(abs_df, enrichment){
+  
+  dataframe <- read.table("results/clustering/k60_SVD_perp30.txt", header = T, sep = "\t")
+  dataframe$enrichment <- sapply(1:nrow(enrichment), function(x){paste(enrichment[x,], collapse = ",")})
+  enrichment$Cluster <- (as.numeric(dataframe$Cluster)+1)
+  enrichment <- unique(enrichment)
+  dataframe <- cbind.data.frame(abs_df, dataframe)
+  dataframe$dim1 <- round(dataframe$dim1, 5)
+  dataframe$dim2 <- round(dataframe$dim2, 5)
+  dataframe$Cluster <- dataframe$Cluster + 1
+  
+  return(dataframe)
+}
+
+
+# LDA barplot
+ldaAbs <- function(abstracts){
+  
+  colnames(abstracts) <- c("PMID", "Abstract")
+  abstracts <- merge(abstracts, dplyr::select(dataframe, c("PMID", "Cluster")), by = "PMID")
+  Word_freq <- as.data.frame(table(unlist(str_split(abstracts, " ")))) %>% arrange(desc(Freq)) %>% filter(! Var1 %in% stopwords("english"))
+
+  return(Word_freq)  
+}
+
+LDA <- function(abstracts, enrichment, Word_freq, clus){
+  
+  abs_filter <- filter(abstracts, Cluster == clus)
+  abs_filter_freq <- as.data.frame(table(unlist(str_split(abs_filter, " ")))) %>% arrange(desc(Freq)) %>% filter(! Var1 %in% stopwords("english"))
+  words <- filter(enrichment, Cluster == clus)
+  words <- sapply(1:(length(words)-1), function(x){return(str_remove(unlist(str_remove(words[x], " ")), " "))})
+  all_data <- sapply(1:length(words), function(x){return(filter(Word_freq, Var1 == words[x])$Freq)})
+  cluster_data <- sapply(1:length(words), function(x){return(filter(abs_filter_freq, Var1 == words[x])$Freq)})
+  remove_data <- which(cluster_data == "integer(0)")
+  if (length(remove_data) == 0){
+    cluster_terms <- data.frame(Terms = rep(unlist(words), times = 2), freq  = unlist(c(all_data, cluster_data)), data = c(rep("All clusters", times = length(all_data)), rep("Selected cluster", times = length(all_data))))
+  }
+  
+  if (length(remove_data) != 0) {
+    all_data <- all_data[-remove_data]
+    cluster_terms <- data.frame(Terms = rep(unlist(words[-remove_data]), times = 2), freq  = unlist(c(all_data, cluster_data)), data = c(rep("All clusters", times = length(all_data)), rep("Selected cluster", times = length(all_data))))
+  }
+  
+  plot <- ggplot(data = cluster_terms, aes(x = reorder(Terms, +freq), y = freq, fill = data)) + 
+    geom_bar(stat="identity") +
+    labs( x = "Topic", y = "Frequency") + 
+    labs(fill = "Topic weight") +
+    coord_flip() +
+    theme(legend.position="bottom")
+  
+  return(plot)
+}
+
+
+wordcloud2a <- function (data, size = 1, minSize = 0, gridSize = 0, fontFamily = "Segoe UI", 
+                         fontWeight = "bold", color = "random-dark", backgroundColor = "white", 
+                         minRotation = -pi/4, maxRotation = pi/4, shuffle = TRUE, 
+                         rotateRatio = 0.4, shape = "circle", ellipticity = 0.65, 
+                         widgetsize = NULL, figPath = NULL, hoverFunction = NULL) 
+{
+  if ("table" %in% class(data)) {
+    dataOut = data.frame(name = names(data), freq = as.vector(data))
+  }
+  else {
+    data = as.data.frame(data)
+    dataOut = data[, 1:2]
+    names(dataOut) = c("name", "freq")
+  }
+  if (!is.null(figPath)) {
+    if (!file.exists(figPath)) {
+      stop("cannot find fig in the figPath")
+    }
+    spPath = strsplit(figPath, "\\.")[[1]]
+    len = length(spPath)
+    figClass = spPath[len]
+    if (!figClass %in% c("jpeg", "jpg", "png", "bmp", "gif")) {
+      stop("file should be a jpeg, jpg, png, bmp or gif file!")
+    }
+    base64 = base64enc::base64encode(figPath)
+    base64 = paste0("data:image/", figClass, ";base64,", 
+                    base64)
+  }
+  else {
+    base64 = NULL
+  }
+  weightFactor = size * 180/max(dataOut$freq)
+  settings <- list(word = dataOut$name, freq = dataOut$freq, 
+                   fontFamily = fontFamily, fontWeight = fontWeight, color = color, 
+                   minSize = minSize, weightFactor = weightFactor, backgroundColor = backgroundColor, 
+                   gridSize = gridSize, minRotation = minRotation, maxRotation = maxRotation, 
+                   shuffle = shuffle, rotateRatio = rotateRatio, shape = shape, 
+                   ellipticity = ellipticity, figBase64 = base64, hover = htmlwidgets::JS(hoverFunction))
+  chart = htmlwidgets::createWidget("wordcloud2", settings, 
+                                    width = widgetsize[1], height = widgetsize[2], sizingPolicy = htmlwidgets::sizingPolicy(viewer.padding = 0, 
+                                                                                                                            browser.padding = 0, browser.fill = TRUE))
+  chart
+}
+
+# WORD CLOUD FUNCTION 
+
+WordCloudFun <- function(Word_freq, abstracts, clus){
+  
+  WordsToRemove <- Word_freq %>% dplyr::select(Var1) %>% dplyr::slice(1:20)
+  
+  abs_filter <- filter(abstracts, Cluster == clus)
+  Corpus_data <- Corpus(VectorSource(abs_filter[,2])) # first change our data to a Corpus
+  data_filter <- Corpus_data %>% # in all this lines we transform our data and delate all that we will not be needing
+    tm_map(removeNumbers) %>%
+    tm_map(removePunctuation) %>%
+    tm_map(stripWhitespace) %>%
+    tm_map(content_transformer(tolower)) %>%
+    tm_map(removeWords, stopwords("english")) %>%
+    tm_map(removeWords, WordsToRemove$Var1) 
+  dtm <- as.matrix(TermDocumentMatrix(data_filter))  # we create a data frame with the words and their frequency
+  df <- data.frame(word = names(sort(rowSums(dtm),decreasing=TRUE)), freq = sort(rowSums(dtm),decreasing=TRUE)) %>% slice(1:100)
+  
+  return(wordcloud2a(data = df, size = 0.8, color = 'random-light', backgroundColor = "white", minRotation = 0, maxRotation = 0))
+}
+
+ogerClust <- function(){
+  
+  tfid1<-read.table("temp/oger/by_cluster/matched_k60_SVD_perp30_10_tfidf.txt", header = F, sep = '\t', quote = '', comment.char = "")
+  colnames(tfid1)<-c("clusters", "entity","word","frec","cluster_app","tfidf")
+  tfid1$term<-"m_term"
+  
+  tfid2<-read.table("temp/oger/by_cluster/preferred_k60_SVD_perp30_10_tfidf.txt", header = F, sep = '\t', quote = '', comment.char = "")
+  colnames(tfid2)<-c("clusters", "entity","word","frec","cluster_app","tfidf")
+  tfid2$term<-"p_term"
+  
+  tfid<-rbind(tfid1,tfid2)
+  tfid$clusters <- as.integer(tfid$clusters + 1)
+  
+  df1 <- group_by(tfid, clusters) %>% mutate (percent = frec/sum(frec))
+  df1 <-aggregate(df1$percent~df1$clusters+df1$entity, FUN = sum)
+  colnames(df1)<-c("clusters", "entity","percent")
+  
+  return(df1)
+}
+
+matOger <- function(){
+  
+  matched_pmids <- data.frame(PMID=as.integer(),
+                 Entity=character(), 
+                 Term=character(),
+                 Frecuency=as.integer(),
+                 stringsAsFactors=FALSE) 
+  
+  files <- list.files(path="temp/oger/by_pmid", pattern="matched_", full.names=TRUE, recursive=FALSE)
+  
+  for(file in 1:length(files)){
+    t <- read.table(files[[file]], header = F, sep = '\t', quote = '')
+    matched_pmids <- rbind(matched_pmids,t)
+  }
+  colnames(matched_pmids) <- c("PMID", "Entity","Term", "Frecuence")
+  
+  return(matched_pmids)
+}
+
+prefOger <- function(){
+  
+  files <- list.files(path="temp/oger/by_pmid", pattern="preferred_", full.names=TRUE, recursive=FALSE)
+  
+  prefered_pmids <- data.frame(PMID=as.integer(),
+                 Entity=character(), 
+                 Term=character(),
+                 Frecuency=as.integer(),
+                 stringsAsFactors=FALSE) 
+  
+  for(file in 1:length(files)){
+    #print(files[[file]])
+    t <- try(read.table(files[[file]], header = F, sep = '\t', quote = '', comment.char = "", blank.lines.skip = T))
+    if(!inherits(t, 'try-error')) prefered_pmids <- rbind(prefered_pmids,t)
+  }
+  
+  colnames(prefered_pmids) <- c("PMID", "Entity","Term", "Frecuence")
+  
+  return(prefered_pmids)
+}
+
+mycolors <-c("biological_process"="#a6cee3", 
+             "cell"="#1f78b4", 
+             "cellular_component"="#b2df8a", 
+             "cell_line"="#33a02c", 
+             "chemical"="#fb9a99", 
+             "clinical_drug"="#e31a1c", 
+             "entity_type"="#fdbf6f", 
+             "disease"="#ff7f00", 
+             "gene/protein"="#cab2d6", 
+             "molecular_function"="#6a3d9a", 
+             "molecular_process"="#FE16F4", 
+             "organ/tissue"="#E3C60B", 
+             "organism"="#b15928", 
+             "sequence"="#999999")
+```
+
+
+```{r}
+        
+        abstracts <- read.csv("temp/abs_lemmatized.txt", sep = "\t", header = F)[,c(1,3)]
+        data_df <- readAbs()
+
+
+        enrichment <- read.table("results/LDA/LDA_k60_SVD_perp30.txt", sep = "\t")
+        dataframe <- readClust(data_df, enrichment)
+
+
+        Word_freq <- ldaAbs(abstracts)
+        size <- length(unique(dataframe$Cluster))
+        palette <- colorRampPalette(brewer.pal(8, "Set2"))(size)
+
+        
+        df1 <- ogerClust()
+        matched_pmids <- matOger()
+        prefered_pmids <- prefOger()
+
+        
+        ###plots
+        p_stacked <- ggplot(data=df1, aes(factor(clusters), percent, fill = entity)) +
+          theme_bw() +
+          theme(axis.text.x = element_text(angle = 90)) +
+          geom_bar(stat="identity", position="stack") +
+          scale_fill_manual(values = mycolors) +
+          labs(fill = "Entities") +
+          ylab("Entity percentage") +
+          xlab("Clusters")
+        
+        p_pie <- ggplot(df1, aes(x="", y=percent, fill=entity)) +
+          theme(axis.text = element_blank(),
+                axis.ticks = element_blank(),
+                panel.grid  = element_blank()) +
+          geom_bar(stat="identity", width=1, color="white") + 
+          coord_polar("y", start=0)+
+          scale_fill_manual(values = mycolors) +
+          facet_wrap(~clusters)  +
+          labs(fill = "Entities") +
+          ylab("Clusters")
+        
+        
+        p_dodged <- ggplot(data=df1, aes(factor(clusters), percent, fill=entity)) +
+          theme_bw()+
+          theme(axis.text.x = element_text(angle = 90)) +
+          geom_bar(stat="identity", position=position_dodge())+
+          scale_fill_manual(values = mycolors)  +
+          labs(fill = "Entities") +
+          ylab("Entity percentage") +
+          xlab("Clusters")
+
+        
+        stacked_plots<-list()
+        for(i in 1:max(df1$clusters))
+        {
+          data <- df1[df1$clusters == i,]
+          data <- transform(data, clusters = as.character(clusters))
+          pstacked <- ggplot(data, aes(x=clusters, y=percent, fill = entity)) +
+            geom_col() +
+            theme_bw() +
+            scale_fill_manual(values = mycolors) +
+            labs(fill = "Entities") +
+            ylab("Entity percentage") +
+            xlab("Clusters") + 
+            theme(axis.text.x = element_text(angle = 0), legend.position = "bottom")
+          stacked_plots[[i]] <- pstacked
+        }
+        
+        pie_plots<-list()
+        for(i in 1:max(df1$clusters))
+        {
+          data <- df1[df1$clusters == i,]
+          data <- transform(data, clusters = as.character(clusters))
+          data$clusters <- with(data, paste("Cluster", clusters, sep = " "))
+          ppie <-ggplot(data, aes(x="", y=percent, fill=entity)) +
+            theme(axis.text = element_blank(),
+                  axis.ticks = element_blank(),
+                  panel.grid  = element_blank(),
+                  legend.position = "bottom") +
+            geom_bar(stat="identity", width=1, color="white") + 
+            coord_polar("y", start=0)+
+            scale_fill_manual(values = mycolors) +
+            facet_wrap(~clusters)+
+            ylab("Cluster") +
+            labs(fill = "Entities") + theme(legend.position="bottom")       
+          pie_plots[[i]] <- ppie
+        }
+        
+        dodged_plots<-list()
+        for(i in 1:max(df1$clusters))
+        {  
+          data <- df1[df1$clusters == i,]
+          data <- transform(data, clusters = as.character(clusters))
+          pstacked <- ggplot(data, aes(x=clusters, y=percent, fill = entity)) +
+            geom_bar(stat="identity", position="dodge") +
+            theme_bw() +
+            scale_fill_manual(values = mycolors) +
+            labs(fill = "Entities") +
+            ylab("Entity percentage") +
+            xlab("Cluster") + 
+            theme(axis.text.x = element_text(angle = 0), legend.position="bottom")
+          dodged_plots[[i]] <- pstacked
+        }
+```
 
