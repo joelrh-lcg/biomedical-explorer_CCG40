@@ -4,6 +4,7 @@
 How to run the visualizer
 
 For run the ShinyApp, be sure to have the ShinyApp directory and the sessions/CCG40/session.Rdata
+
 Go to the ShinyApp directory and run:
 
 ```
@@ -12,7 +13,7 @@ r -e "shiny::runApp(port = 1208)"
 
 Go to your web browser and access to the following direction:
 ```
-http://127.0.0.1:7942
+http://127.0.0.1:1208
 ```
 
 ---
